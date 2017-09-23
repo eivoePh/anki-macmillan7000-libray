@@ -1,0 +1,9 @@
+# macos
+.DS_Store
+
+# vim
+*~
+*.swp
+
+# sound file 
+sound/
