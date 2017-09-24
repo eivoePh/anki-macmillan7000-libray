@@ -1,0 +1,23 @@
+lock
+1 
+BrE lɒk, AmE lɑk 
+
+A.  noun 
+① (mechanism) 锁 suǒ to fasten a lock 把锁锁上 to pick a lock 撬锁 under lock and key 妥善保管着 
+② (on canal, river) 闸 zhá the lock filled with water 水闸内放满了水 
+③ (in wrestling, fighting) 夹 jiā arm/leg lock 夹臂/抱腿 
+④ (rugby) lock (forward) 第二排前锋 dì-èr pái qiánfēng 
+⑤ Auto 前轮转向角度 qiánlún zhuǎnxiàng jiǎodù on half/full lock 转向打到一半/打到底的 3.5 turns from lock to lock 3.5轮的满转向角度 to have a good/bad lock 转向良好/不好 
+⑥ Computing (on file) 加密锁 jiāmìsuǒ 
+⑦ archaic (on firearm) 保险栓 bǎoxiǎnshuān lock, stock, and barrel figurative 完全地 
+B.  transitive verb 
+① (close securely) 锁上 suǒshang ‹door, window, drawer›to lock [something] in a drawer 把某物锁在抽屉里 locked and barred or bolted 锁得严严实实的 
+② Computing 对…加锁 duì… jiā suǒ ‹file›
+③ (become fixed) 紧紧抓住 jǐnjǐn zhuāzhù to lock horns literal «animals» 扭打 figurative «people» 争执 zhēngzhí to be locked in combat «enemies, armies, countries» 陷入战斗 to be locked in an embrace «lovers, friends» 紧紧拥抱 
+C.  intransitive verb 
+① (close securely) «door, drawer» 被锁上 bèi suǒshang 
+② (seize up) «steering wheel» 卡住 qiǎzhù ; «wheels» 刹住 shāzhù ; «brakes» 抱死 bàosǐ PHRASAL VERBS lock away transitive verb[lock somebody/something away, lock away somebody/something] 把…锁起来 bǎ… suǒ qilai ‹valuables, documents, money›; 关押 guānyā ‹person›lock in transitive verb[lock somebody/something in] 把…锁在里面 bǎ… suǒ zài lǐmian to lock oneself in 把自己锁在里面 lock on to transitive verb[lock on to something] «radar, bomb» 锁定 suǒdìng ‹target, building›lock out transitive verb[lock somebody/something out] 把…关在门外 bǎ… guān zài mén wài to lock oneself out; 把自己锁在门外 lock together intransitive verb «components, pieces» 结合 jiéhé lock up 
+A.  intransitive verb 
+① (when leaving) 锁好门窗 suǒhǎo ménchuāng 
+② «wheels» 刹住 shāzhù ; «brakes» 抱死 bàosǐ 
+B.  transitive verb[lock up somebody/something, lock somebody/something up] 把…锁起来 bǎ… suǒ qilai ‹valuables, documents, money›; 关押 guānyā ‹person›he should be locked up! colloquial 他应该被关起来！ 

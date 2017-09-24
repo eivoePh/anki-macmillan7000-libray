@@ -1,0 +1,16 @@
+sense 
+BrE sɛns, AmE sɛns 
+
+A.  noun 
+① Countable(faculty) 感官 gǎnguān the five senses 五种感官 a sixth sense 第六感 to bring [somebody] to his or her senses 使某人恢复知觉 to come to one's senses 恢复知觉 
+② Uncountable(ability to appreciate) 理解力 lǐjiělì a sense of right and wrong/justice/duty 是非感/正义感/责任感 a sense of humour or fun 幽默感 
+③ Uncountable(feeling) 感觉 gǎnjué a sense of guilt/shame 负罪感/羞耻感 a strong sense of foreboding 强烈的不祥预感 a sense of belonging/security 归属感/安全感 
+④ Uncountable(practical quality) 判断力 pànduànlì a man quite devoid of sense 一个缺少见识的男人 a grain of sense 一点见识 good sense 明智 there's some/a lot of sense in what he suggests 他的建议有些/很有道理 to beat or knock or drive (some) sense into [somebody] colloquial 强使某人开（点）窍 
+⑤ senses plural (sanity) 理智 lǐzhì to lose/regain one's senses 丧失/恢复理智 to bring [somebody] to his or her senses 使某人清醒过来 to come to one's senses 恢复理智 to be out of one's senses 失去理智 to take leave of one's senses 发疯 
+⑥ Uncountable(reason) 合理性 hélǐxìng there's little sense in what he plans/says 他的计划/话几乎没什么道理 to make sense (be understandable) 有意义 (be sensible) 合乎情理 to make sense of [something] 理解某事物 can you make sense of this sentence? 你明白这个句子的意思吗？ to talk sense 说话有道理 to see sense 开始明白事理 
+⑦ Countable(meaning) 意义 yìyì a word with several senses 多义词 it should not be understood in its literal sense 这不能从字面意义理解 to get or grasp the sense (of [something]) 领会（某事物的）意义 in a sense 从某种意义上讲 
+⑧ Uncountable(general opinion) 意向 yìxiàng the sense of [something] formal 对某事物的一般看法 
+B.  transitive verb 
+① (feel, detect) 感觉到 gǎnjué dào I could sense somebody out there in the darkness 我感觉到黑暗中有人出现 I could sense what was upsetting her 我能感到是什么事情在使她烦心 
+② (detect) «sensor, system» 检测出 jiǎncè chū ‹movement, heat›
+③ Computing (locate) 探出 tànchū ‹position›(read) 读取 dúqǔ ‹data›

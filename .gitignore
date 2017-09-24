@@ -5,6 +5,5 @@
 *~
 *.swp
 
-# sound file 
-sound/*
-word/*
+10.list
+macmillan7000word.card.txt

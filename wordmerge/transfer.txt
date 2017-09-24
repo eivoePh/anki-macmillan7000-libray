@@ -1,4 +1,6 @@
-transfer A. /BrE transˈfəː, trɑːns-, -nz-, AmE trænsˈfər, ˈtrænsfər/ transitive verb(present participle etc. -rr-) 
+transfer 
+BrE transˈfəː, trɑːns-, -nz-, AmE trænsˈfər, ˈtrænsfər
+A. /BrE transˈfəː, trɑːns-, -nz-, AmE trænsˈfər, ˈtrænsfər/ transitive verb(present participle etc. -rr-) 
 ① (move) 调动 diàodòng ‹employee, soldier›; 转移 zhuǎnyí ‹prisoner, patient, luggage, goods, energy›; 使…转会 shǐ… zhuǎnhuì ‹sportsman, player›; 转接 zhuǎnjiē ‹call, caller›to transfer [something]/[somebody] to [something]; 把某物/某人转到某处 the passengers were transferred to coaches 乘客被转到了长途客车上 to be transferred to another hospital 转到另一家医院 I'm transferring you to reception 我把你的电话转到前台 to transfer [something]/[somebody] from [something]; 把某物/某人从某处转来 to transfer credits from junior college AmE 将大专的学分转过来 to transfer one's affections to [somebody]; 把感情转移到某人身上 to transfer one's support to [somebody] 转而支持某人 to transfer [something] from [somebody]; 把某物从某人处移走 to transfer £500 from one's deposit account into one's current account 从定期账户转500英镑到活期账户 
 ② especially Law (hand over) 转让 zhuǎnràng ‹right, assets›; 移交 yíjiāo ‹power, authority, responsibility›to transfer ownership of [something] 过户某物 to transfer [something] to [somebody]/[something]; 把某物让渡给某人/某处 to transfer [something] from [something]; 从某处转让某物 the house has been transferred to my name/from his name to mine 房子过户到了我的名下/从他的名下过户到了我的名下 
 ③ Computing, Technology (copy) 转存 zhuǎncún ‹drawing, details›to transfer [something] on to [something]; 把某物转存到某物中 

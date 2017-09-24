@@ -4,10 +4,7 @@
 大体流程：
  * 定义css样式
  * 定义栏目
- * 获取卡片文本列表
- * 使用apple TTS 生成语音
- * 使用apple dictionary 生成解释
- * 将解释，语音合并为 anki 卡片格式
+ * 获取卡片文本列表 * 使用apple TTS 生成语音 * 使用apple dictionary 生成解释 * 将解释，语音合并为 anki 卡片格式
  * 将合成后的文件导入 anki 
  * 配置导入后的记忆库为混乱模式
  * 导出 apkg 给别人或者自己用
@@ -60,23 +57,21 @@
 ### 正面模板
 
 ```
-<div style="font-size:50px;color:#000;"  >{{word}}</div>
+<div style="font-size:50px;color:#000;">{{word}}</div>
 <br />
 <div style="font-size:12px;color:#888">{{symbol}}</div>
 <br />
-
-<div style="font-size:12px; color: #666;">{{sound}}</div>
+<div>{{sound}}</div>
 ```
 
-### 样式
-```
+### 中间样式
+```css
 .card {
  font-family: arial;
  font-size: 14px;
  text-align: left;
  color: ;
  background-color: #fff;
-
 
 .word{ 
 	font-size:50px;color:#000;
@@ -86,13 +81,10 @@
 
 ### 背面模板
 
-```
+```css
 {{FrontSide}}
-
-<hr id="answer" style="height: 1px;border:none; width:100%; color:#efefef;">
-
+<br />
 <div class="explain" style="text-align:left;font-size:12px; color: #444;">{{explain}}</div>
-
 ```
 
 

@@ -1,0 +1,39 @@
+line
+1 
+BrE lʌɪn, AmE laɪn 
+
+A.  noun 
+① (mark made by pen, paintbrush, etc.) 线 xiàn (mark occurring naturally) 纹 wén a curved/broken/double line 曲线/虚线/双线 to put a line through [something] 在某物上画一条线 paper with lines 横格纸 dots and lines on a butterfly's wing 蝴蝶翅膀上的斑点和纹路 
+② Auto 交通指示线 jiāotōng zhǐshìxiàn a single white/yellow line 单白线/单黄线 
+③ Sport 场地线 chǎngdìxiàn the start/finish line 起跑/终点线 to be the first off the line 起跑速度最快 
+④ (indentation) 线状凹痕 xiànzhuàng āohén an engraved line 刻线 
+⑤ (wrinkle) (on face) 皱纹 zhòuwén (on palm of hand) 掌纹 zhǎngwén 
+⑥ Television 行 háng 
+⑦ (general shape) (of face, ship, car, building) 轮廓 lúnkuò (of skirt, trousers) 线条 xiàntiáo [somebody's] slender lines 某人苗条的身材 
+⑧ figurative (notional limit) 界线 jièxiàn to divide along political lines 按照政治界线划分 the (dividing) line between … …之间的（分）界线 the line where the sea meets the sky 海天相接处的地平线 
+⑨ (row) 排 pái a line of [something]; 一排 ‹trees, lampposts, hills›a double line of stitching 双排针脚 a line of people queuing 排队的一行人 in straight lines 成直线排列 ‹plant, arrange, sit›to stand in or form a line 站成一排 to be in/out of line; 成/不成直线 to put or place [something] in line 将某物摆放成一排 to be in line with [something]; 与某物在一条直线上 to get (back) into line （重新）列队 
+⑩ (conformity) 一致 yīzhì in line; 一致的 to be in/out of line (with [something]/[somebody]); （与某事物/某人）一致/不一致 to keep [somebody]/[something] in line 使某人/某事物保持一致 the teacher kept the class in line 这位老师把班里的学生管得规规矩矩的 to bring [something]/[somebody] into line (with [something]/[somebody]); 使某事物/某人（与某事物/某人）一致 to come or fall or move or get into line (with [something]/[somebody]); （与某事物/某人）取得一致 if the children get out of line, … 如果孩子们不守规矩，… she'll come back into line (with our way of thinking) 她会接受（我们的想法）的 his behaviour is/you're out of line colloquial 他的行为太离谱/你太过分了 to step out of line; 出轨 
+⑪ AmE (queue) 队 duì a line of people 一队人 to stand or wait in line 排队 páiduì to be second in line 排队站在第二 to cut the line 插队 
+⑫ (order of precedence) 顺序 shùnxù line of precedence/succession 优先/继承顺序 to be first in line to the throne/for promotion 是王位的第一继承人/是晋升的第一人选 
+⑬ (in genealogy) 家族 jiāzú to found or establish a line 建立家族 the male/female line (ancestors) 男性/女性祖先 (descendants) 男性/女性后裔 the Tudor line 都铎王朝 a long line of Republican presidents 历届共和党总统 the royal line 皇族 line of descent 后代 to trace one's (family) line back to [somebody] 家谱追溯到某人 to trace a line down to [somebody] 家族延续至某人 to come from a (long) line of … 出身于…世家 ‹doctors, miners›
+⑭ (in manufacturing) 生产线 shēngchǎnxiàn the workers on the (production) line 生产线上的工人 to roll off the lines «products» 下线 
+⑮ Military 防线 fángxiàn the Maginot Line 马其诺防线 behind enemy lines 在敌后 
+⑯ (in prose) 行 háng (in verse) 诗句 shījù (in music) 乐句 yuèjù page 5, line
+3 第5页，第3行 to give [somebody] 200 lines BrE 罚某人抄写句子200遍 to miss a line 漏一行 to start a new line 重起一行 a line of verse or poetry 一行诗 the opening line of her speech 她演讲的开场白 
+⑰ Theatre 台词 táicí to learn one's lines 背诵台词 a throwaway line 信口说出的台词 
+⑱ colloquial (in letters) 便条 biàntiáo to write a few lines about [something] 简单写几句谈谈某事 just a line to say thanks 只是一张致谢的留言条 
+⑲ Music 旋律 xuánlǜ the treble/bass line 高音/低音旋律 
+⑳ Fishing 钓鱼线 diàoyúxiàn to cast one's line 抛钓钩 ㉑ (rope, wire, etc.) 绳子 shéngzi to throw [somebody] a line 把绳子抛给某人 to hang [something] on the line to dry 把某物挂在晾衣绳上晾干 ㉒ Telecommunications (cable) 电话线 diànhuàxiàn (link) 通讯线路 tōngxùn xiànlù the lines are down/out of order 电话线断了/出故障了 to have a direct line to [somebody] 可与某人直接通话 the line is dead/engaged 线路不通/占线 this is a terrible line 线路通话质量很糟 dial
+9 to get an outside line 按9拨打外线 to give [somebody] a line «switchboard operator» 为某人转接电话 to have [somebody] on the line 让某人不挂断电话 to get on/off the line colloquial 接通/挂断电话 to be on the line to [somebody] 在和某人通话 at the other end of the line 在电话的另一端 a crossed line 窜线的电话 to hold the line 不挂断电话 ㉓ Electricity 电缆 diànlǎn ㉔ Electronics 电子信号线 diànzǐ xìnhàoxiàn ㉕ (pipe) 管道 guǎndào an oil/a gas line 输油管/天然气管道 ㉖ Railways (track) 铁路 tiělù (system) 铁路线 tiělùxiàn repairs to the line 铁路保养 to stop at every station along the line «train, express» 沿途各站均停靠 the Shanghai-Nanjing line 沪宁线 ㉗ (route, course) 路线 lùxiàn in straight lines 沿直线 the line of flight of a projectile 抛射物的飞行轨道 line of vision 视线 shìxiàn to be in [somebody's] line of vision 在某人的视线内 line of sight 视线 shìxiàn to be in line for [something] (be likely to get sth.) 有望获得某物 (be a candidate for sth.) 有望就任某职位 he's in line for redundancy 他很可能被解雇 ㉘ figurative (direction) 方式 fāngshì line of investigation/thought/development 调查/思维/发展方式 line of research/reasoning/argument 研究/推理/论证方法 what's your line of thinking here? 你有什么看法？ all along the line 完全地 (right) down the line (affecting all people or things) 彻底地 (happening all the time) 始终 somewhere along the line (in time) 不知何时 (in place) 不知何处 along or on the lines of [something] 类似某物的 along or on these/those lines 像这些/那些的 to do [something] along or on traditional/familiar/the same lines 按照传统/类似/同样模式做某事 her theory ran along the following lines: … 她的理论如下：… on the right lines 接近正确 ㉙ (stance) 态度 tàidu the Party line 党的方针 a line on [something] 对某事的态度 to take a hard/firm/similar line (with [somebody]/on [something]) （对某人/某事物）采取强硬/坚决/类似的立场 ㉚ (type of work) 行业 hángyè line of business or work 行业 hángyè ㉛ (profession) 专业 zhuānyè to be (in) [somebody's] line (suit sb.'s skills and interests) 与某人专业对口 (be enjoyable) 为某人所喜爱 ㉜ Busn (product) 产品 chǎnpǐn (range of products) 产品系列 chǎnpǐn xìliè a line in [something] 某类产品 ㉝ (type, kind of thing) 种类 zhǒnglèi something in the sports line/in that line 体育用品/那类东西 ㉞ colloquial (piece of information) 消息 xiāoxi to have/get a line on [somebody]/[something]; 有/得到关于某人/某事物的消息 to give [somebody] a line on or about [somebody]/[something]; 告诉某人关于某人/某事物的信息 don't give me that line! 别找借口了！ ㉟ to be on the line; (at risk) 面临危险 miànlín wēixiǎn (at issue) 受到争议 shòudào zhēngyì 
+B.  transitive verb 
+① (stand along) 沿…排列成行 yán… páiliè chéng háng ‹wall, street, room›to be lined with trees/cars/spectators «route, avenue» 两边树木成行/沿途车辆川流不息/两边观众成排 
+② (mark with lines) 在…上画线 zài… shang huàxiàn ‹paper, pad›a lined exercise book/notebook 横格练习本/笔记本 
+③ (mark with wrinkles) 使…起皱纹 shǐ… qǐ zhòuwén ‹face, forehead, skin›lined hands 布满皱纹的手 to be lined with [something]; 因…而起皱纹 ‹age, worry›PHRASAL VERB line up 
+A.  transitive verb 
+① [line somebody/something up, line up somebody/something] (side by side) 使排成行 shǐ páichéng háng (one behind the other) 使排成列 shǐ páichéng liè to be lined up 排成队 
+② to line [something] up (with [something]) (align) 使某物（与某物）对齐 shǐ mǒu wù(yǔ mǒu wù)duìqí to be lined up (with [something]); （与某物）对齐 (yǔ mǒu wù)duìqí 
+③ to line [somebody]/[something] up (for [something]/[somebody]); (arrange) （为某人/某事物）安排 ‹performer, speaker, task› (organize) （为某人/某事物）组织 wèi mǒu rén/mǒu shìwù)zǔzhī ‹event, project› (prepare) （为某人/某事物）准备 (wèi mǒu rén/mǒu shìwù)zhǔnbèi ‹questions›to have a lot lined up for this week/next term 把这星期/下学期安排得很满 
+B.  intransitive verb 
+① (side by side) 排成行 páichéng háng (one behind the other) 排成列 páichéng liè line up! 列队！ to line up for inspection «soldiers» 列队接受检阅 to line up in rows/teams 排成数排/数队 
+② especially AmE (queue) «people, cars» 排队 páiduì 
+③ (take sides) «people, group, nation» 联合起来 liánhé qilai to line up alongside or with [somebody]/[something]; 站在某人/某事物一边 to line up behind [somebody]/[something]; 联合起来支持某人/某事物 to line up against [somebody]/[something]; 联合起来反对某人/某事物 

@@ -1,0 +1,7 @@
+valid 
+BrE ˈvalɪd, AmE ˈvæləd 
+adjective 
+① (not expired, acceptable) 有效的 yǒuxiào de ‹ticket, licence, passport, offer›to be valid for [something]; 对某事物有效 to be no longer valid 已过期 
+② (legally binding) 具有法律效力的 jùyǒu fǎlǜ xiàolì de ‹contract, document›
+③ (well-founded, reasonable) 有根据的 yǒu gēnjù de ‹complaint, criticism, objection›; 合理的 hélǐ de ‹argument, reason, excuse, method›; 符合逻辑的 fúhé luóji de ‹theory, comparison, point›
+④ Computing 有效的 yǒuxiào de ‹password, address›

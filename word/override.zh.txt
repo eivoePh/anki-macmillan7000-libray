@@ -1,0 +1,8 @@
+override 
+A.  /BrE əʊvəˈrʌɪd, AmE ˌoʊvərˈraɪd
+transitive verb(past tense overrode /ˌəʊvəˈrəʊd/; past participle overridden /ˌəʊvəˈrɪdn/) 
+① (overrule) 否决 fǒujué ‹opinion, decision›; 使…无效 shǐ… wúxiào ‹order, veto›
+② (take precedence) 优先于 yōuxiān yú ‹consideration, rule›this order overrides all previous instructions 这个命令高于所有先前的指示 
+③ (control) 手动控制 shǒudòng kòngzhì ‹machine›; 手控消除 shǒu kòng xiāochú ‹automatic system, settings›
+B.  /BrE ˈəʊvərʌɪd, AmE ˈoʊvərˌraɪd
+noun 超驰控制装置 chāo chí kòngzhì zhuāngzhì on override 处于超驰模式 before noun 超驰的 chāo chí de ‹mechanism, facility›

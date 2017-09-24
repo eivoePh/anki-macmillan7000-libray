@@ -1,0 +1,8 @@
+migrate 
+BrE mʌɪˈɡreɪt, ˈmʌɪɡreɪt, AmE ˈmaɪˌɡreɪt 
+
+A.  intransitive verb 
+① (of people) 移居 yíjū to migrate to a country/city; 移居到一个国家/城市 
+② Zoology «bird, animal» 迁徙 qiānxǐ ; «fish» 洄游 huíyóu 
+③ Computing 转移 zhuǎnyí 
+B.  transitive verb 将…转移到另一计算机系统 jiāng… zhuǎnyí dào lìng yī jìsuànjī xìtǒng ‹programs, hardware›

@@ -1,0 +1,12 @@
+default 
+BrE dɪˈfɔːlt, AmE dəˈfɔlt 
+
+A.  noun 
+① (failure to pay) 未履行债务 wèi lǚxíng zhàiwù to be in default of payment 拖欠付款 the company is in default 这个公司未履行债务 
+② Computing 默认 mòrèn the default settings 系统预设值 
+B.  intransitive verb 
+① (fail to pay) 拖欠 tuōqiàn to default on payments/a loan/a fine 拖欠付款/借款/罚款 to default on one's obligations/promise 未履行职责/违背诺言 
+② Computing 默认 mòrèn to default to [something] 预设为… 
+③ (fail to appear in court) 未到庭 wèi dàotíng 
+C.  by default adverb phrase (due to lack of opposition) 因对手缺席 yīn duìshǒu quēxí (due to lack of conscious choice) 因没有主动选择 yīn méiyǒu zhǔdòng xuǎnzé to win by default 因对手不到场而获胜 she was held responsible by default 她因为没有采取措施而负有责任 he became an actor by default 他当上演员并非刻意所为 
+D.  in default of preposition phrase 由于缺乏 yóuyú quēfá 

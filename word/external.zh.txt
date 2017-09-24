@@ -1,0 +1,9 @@
+external 
+BrE ɪkˈstəːn(ə)l, ɛkˈstəːn(ə)l, AmE ɪkˈstərnl 
+adjective 
+① (outer) 外在的 wàizài de ‹differences›; 表面的 biǎomiàn de ‹symptoms›; 外面的 wàimian de ‹world›for external use/application (only); （仅限）外用 external appearance/injuries 外表/外伤 external wall/skeleton 外墙/外骨骼 
+② (from outside) 外界的 wàijiè de ‹influence, force, factors, events›
+③ Telecommunications 外线的 wàixiàn de ‹telephone call›
+④ (outside the country) 对外的 duìwài de ‹relations, trade, market›
+⑤ (outside the school) 校外的 xiàowài de ‹examiner, candidate›
+⑥ Computing 外置的 wàizhì de ‹data file, memory, disk drive›

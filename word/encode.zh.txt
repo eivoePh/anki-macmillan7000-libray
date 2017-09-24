@@ -1,0 +1,6 @@
+encode 
+BrE ɪnˈkəʊd, ɛnˈkəʊd, AmE ɪnˈkoʊd, ɛnˈkoʊd 
+transitive verb 
+① (put into code) 把…译成密码 bǎ… yìchéng mìmǎ to encode [something] into/in [something]; 把…译成某物 ‹message, sentence, information›
+② Computing 把…编码 bǎ… biānmǎ ‹data, characters, symbols›
+③ Biology 为…编码 wèi… biānmǎ ‹protein›

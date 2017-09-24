@@ -20,6 +20,7 @@ def main():
     else:
         result = dictresult.encode('utf-8')
         result = re.sub(r'\|', '\n', result)
+        result = re.sub(r'\/ ', '\n', result)
         result = re.sub(r'①', '\n①', result)
         result = re.sub(r'②', '\n②', result)
         result = re.sub(r'③', '\n③', result)
@@ -41,7 +42,7 @@ def main():
         result = re.sub(r'⑲', '\n⑲', result)
         result = re.sub(r'⑳', '\n⑳', result)
 
-        #result = re.sub(r'A\.', '\nA. ', result)
+        result = re.sub(r'A\.', '\nA. ', result)
         result = re.sub(r'B\.', '\nB. ', result)
         result = re.sub(r'C\.', '\nC. ', result)
         result = re.sub(r'D\.', '\nD. ', result)

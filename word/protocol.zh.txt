@@ -1,0 +1,6 @@
+protocol 
+BrE ˈprəʊtəkɒl, AmE ˈproʊdəˌkɔl, ˈproʊdəˌkɑl 
+noun 
+① Uncountable(official etiquette) 礼仪 lǐyí a breach of protocol 违反外交礼节 
+② CountablePolitics (draft) 条约草案 tiáoyuē cǎo'àn (amendment) 条约修订案 tiáoyuē xiūdìng'àn 
+③ CountableComputing [数据传递的] 协议 xiéyì 

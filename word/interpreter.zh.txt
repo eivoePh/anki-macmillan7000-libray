@@ -1,0 +1,7 @@
+interpreter 
+BrE ɪnˈtəːprɪtə, AmE ɪnˈtərprədər 
+noun 
+① (translator) 口译者 kǒuyìzhě to communicate through an interpreter 通过口译员交流 
+② (of theory, dream, situation) 解释者 jiěshìzhě 
+③ (actor, singer, musician) 演绎者 yǎnyìzhě 
+④ Computing 解释程序 jiěshì chéngxù 

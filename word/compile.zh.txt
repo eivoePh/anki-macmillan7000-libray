@@ -1,0 +1,6 @@
+compile 
+BrE kəmˈpʌɪl, AmE kəmˈpaɪl 
+transitive verb 
+① (accumulate, draw up) 编制 biānzhì ‹dossier, list, index, catalogue, record›
+② (produce from information) 编写 biānxiě ‹reference book›; 撰写 zhuànxiě ‹report›; 编辑 biānjí ‹radio/TV programme, video, album, entry›to compile a dictionary 编纂一部词典 
+③ Computing 编译 biānyì ‹program, instructions›

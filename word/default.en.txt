@@ -1,0 +1,7 @@
+default 
+▶noun
+1 the incidence of defaults on loans: nonpayment, failure to pay, bad debt.
+2 Browne lost the case by default: inaction, omission, lapse, neglect, negligence, disregard; failure to appear, absence, nonappearance.
+▶verb
+1 the customer defaulted: fail to pay, not pay, renege, back out; go back on one's word; informal welsh, bilk.
+2 the program will default to its own style: revert, select automatically.

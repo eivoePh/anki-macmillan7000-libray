@@ -1,0 +1,8 @@
+buffer
+1 
+BrE ˈbʌfə, AmE ˈbəfər 
+noun 
+① figurative (protection) (thing) 缓冲物 huǎnchōngwù (person) 缓冲人 huǎnchōngrén his sense of humour was a useful buffer when times were bad 在艰苦时期他的幽默感是一种有用的调剂 gold is the best buffer against inflation 黄金是抵御通货膨胀的最有效屏障 
+② Railways (on line, train) 减震器 jiǎnzhènqì to run into the buffers figurative 突遭挫败 
+③ Computing buffer (memory) 缓冲存储器 huǎnchōng cúnchǔqì printer/screen/file buffer 打印机/屏幕/文件缓冲存储器 dǎyìnjī/píngmù/wénjiàn huǎnchōng cúnchǔqì 
+④ (for polishing) 抛光器 pāoguāngqì 

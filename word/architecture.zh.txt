@@ -1,0 +1,7 @@
+architecture 
+BrE ˈɑːkɪtɛktʃə, AmE ˈɑrkəˌtɛk(t)ʃər 
+noun 
+① Uncountable(designing of buildings) 建筑学 jiànzhùxué 
+② Uncountable(style of a building) 建筑风格 jiànzhù fēnggé 
+③ Countable(structure) 结构 jiégòu 
+④ CountableComputing 体系结构 tǐxì jiégòu 

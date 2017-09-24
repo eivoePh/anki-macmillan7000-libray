@@ -1,0 +1,9 @@
+format 
+BrE ˈfɔːmat, AmE ˈfɔrˌmæt 
+
+A.  noun 
+① (layout) 样式 yàngshì 
+② (size, style) 版式 bǎnshì 
+③ Television, Radio 制式 zhìshì the standard VHS format 标准的VHS制式 
+④ Computing 格式 géshì standard display format 标准的显示格式 
+B.  transitive verb (present participle etc. -tt-) Computing 为…编排格式 wèi… biānpái géshì ‹document, page›; 格式化 géshìhuà ‹disk›

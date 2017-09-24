@@ -1,0 +1,7 @@
+compatible 
+BrE kəmˈpatɪb(ə)l, AmE kəmˈpædəb(ə)l 
+adjective 
+① (well suited) 和睦相处的 hémù xiāngchǔ de to be compatible with [somebody]; 与某人和睦相处 
+② (not in conflict) 一致的 yīzhì de ‹religions, aims, methods›; 可配伍的 kě pèiwǔ de ‹medicines›
+③ (consistent) 相符的 xiāngfú de ‹behaviour, activity›you must learn to work at a speed compatible with efficiency 你必须学会工作中兼顾速度与效率 the symptoms are compatible with rheumatoid arthritis 这些症状符合类风湿性关节炎的特征 
+④ Computing 兼容的 jiānróng de ‹computer, software, system›to be compatible with [something]; 与某物兼容 X-compatible 兼容X的 

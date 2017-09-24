@@ -1,0 +1,6 @@
+probability 
+BrE prɒbəˈbɪlɪti, AmE ˌprɑbəˈbɪlədi 
+noun 
+① Uncountable(likelihood) 可能性 kěnéngxìng in all probability 很可能 
+② Countable(likely event) 可能的事 kěnéng de shì (likely result) 可能的结果 kěnéng de jiéguǒ war is a probability 战争很可能爆发 
+③ Uncountable(statistic, measure) 概率 gàilǜ the theory of probability, probability theory 概率论 
