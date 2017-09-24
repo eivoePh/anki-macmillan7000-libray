@@ -6,5 +6,6 @@
 *.swp
 
 # sound file 
-sound/
-word/
+sound/*
+word/*
+wordmerge/*

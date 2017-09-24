@@ -55,6 +55,18 @@ def main():
         result = re.sub(r'L\.', '\nL. ', result)
         result = re.sub(r'M\.', '\nM. ', result)
         result = re.sub(r'N\.', '\nN. ', result)
+        result = re.sub(r'O\.', '\nO. ', result)
+        result = re.sub(r'P\.', '\nP. ', result)
+        result = re.sub(r'Q\.', '\nQ. ', result)
+        result = re.sub(r'R\.', '\nR. ', result)
+        result = re.sub(r'S\.', '\nS. ', result)
+        result = re.sub(r'T\.', '\nT. ', result)
+        result = re.sub(r'U\.', '\nU. ', result)
+        result = re.sub(r'V\.', '\nV. ', result)
+        result = re.sub(r'W\.', '\nW. ', result)
+        result = re.sub(r'X\.', '\nX. ', result)
+        result = re.sub(r'Y\.', '\nY. ', result)
+        result = re.sub(r'Z\.', '\nZ. ', result)
 
 
         result = re.sub(r' 1 ', '\n1 ', result)
@@ -67,11 +79,23 @@ def main():
         result = re.sub(r' 8 ', '\n8 ', result)
         result = re.sub(r' 9 ', '\n9 ', result)
         result = re.sub(r' 10 ', '\n10 ', result)
+        result = re.sub(r' 11 ', '\n11 ', result)
+        result = re.sub(r' 12 ', '\n12 ', result)
+        result = re.sub(r' 13 ', '\n13 ', result)
+        result = re.sub(r' 14 ', '\n14 ', result)
+        result = re.sub(r' 15 ', '\n15 ', result)
+        result = re.sub(r' 16 ', '\n16 ', result)
+        result = re.sub(r' 17 ', '\n17 ', result)
+        result = re.sub(r' 18 ', '\n18 ', result)
+        result = re.sub(r' 19 ', '\n19 ', result)
+        result = re.sub(r' 20 ', '\n20 ', result)
 
         result = re.sub(r'▶', '\n▶', result)
         result = re.sub(r'•', '\n•' , result)
 
         result = re.sub(r'USAGE ', '\nUSAGE\n' , result)
+        result = re.sub(r'PHRASES', '\nPHRASES\n' , result)
+        result = re.sub(r'WORD LINKS', '\nWORD LINKS\n' , result)
 
         result = re.sub(r'\n ', '\n' , result)
         print result
