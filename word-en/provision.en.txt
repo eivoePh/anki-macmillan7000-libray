@@ -1,7 +1,17 @@
 provision 
+prəˈviZHən
+
 ▶noun
-1 the provision of weapons to guerrillas: supplying, supply, providing, giving, presentation, donation; equipping, furnishing.
-2 there has been limited provision for gifted children: facilities, services, amenities, resource(s), arrangements; means, funds, benefits, assistance, allowance(s).
-3 (provisions) provisions for the trip: supplies, food and drink, stores, groceries, foodstuff(s), provender, rations; informal grub, eats, nosh; formal comestibles; literary viands; dated victuals.
-4 he made no provision for the future: preparations, plans, arrangements, prearrangement, precautions, contingency.
-5 the provisions of the law: term, clause; requirement, specification, stipulation; proviso, condition, qualification, restriction, limitation.
+1 the action of providing or supplying something for use: new contracts for the provision of services. 
+• (provision for/against) financial or other arrangements for future eventualities or requirements: farmers have been slow to make provision for their retirement. 
+• an amount set aside out of profits in the accounts of an organization for a known liability, especially a bad debt or the diminution in value of an asset.
+2 an amount or thing supplied or provided: low levels of social provision. 
+• (provisions) supplies of food, drink, or equipment, especially for a journey.
+3 a condition or requirement in a legal document: a key provision in civil rights law 
+an appraisal under the provisions of the National Housing Act.
+4 Christian Church, historical an appointment to a benefice, especially directly by the Pope rather than by the patron, and originally before it became vacant. 
+▶verb
+1 [with object] supply with food, drink, or equipment, especially for a journey: civilian contractors were responsible for provisioning these armies.
+2 [no object] set aside an amount in an organization's accounts for a known liability: financial institutions have to provision against loan losses. DERIVATIVES provisioner 
+prəˈviZH(ə)nər 
+nounORIGIN late Middle English (also in the sense ‘foresight’): via Old French from Latin provisio(n-), from providere ‘foresee, attend to’ (see provide). The verb dates from the early 19th century.

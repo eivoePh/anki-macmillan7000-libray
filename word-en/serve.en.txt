@@ -1,11 +1,33 @@
 serve 
-▶verb
-1 they served their masters faithfully: work for, be in the service of, be employed by; obey.
-2 this job serves the community: be of service to, be of use to, help, assist, aid, make a contribution to, do one's bit for, do something for, benefit.
-3 she served on the committee for years: be a member of, work on, be on, sit on, have a place on.
-4 he served his apprenticeship in Washington: carry out, perform, do, fulfill, complete, discharge; spend.
-5 serve the soup hot: dish up/out, give out, distribute; present, provide, supply.
-6 she served another customer: attend to, deal with, see to; assist, help, look after.
-7 they served him with a writ: present with, deliver to, give (to), hand over to.
-8 a plate serving as an ashtray: act as, function as, do the work of, be a substitute for.
-9 these three sizes of brush will serve for most paint jobs: suffice, be adequate, be good enough, fit/fill the bill, do, answer, be useful, meet requirements, suit.QUOTE They also serve who only stand and wait.John Milton "When I consider how my light is spent" (1673)
+sərv
+
+▶verb [with object]
+1 perform duties or services for (another person or an organization): Malcolm has served the church very faithfully. 
+• provide (an area or group of people) with a product or service: a telecommunications company that serves southern New England. 
+• [no object] be employed as a member of the armed forces: a military engineer who served with the army. 
+• spend (a period) in office, in an apprenticeship, or in prison: he is serving a ten-year jail sentence.
+2 present (food or drink) to someone: they serve wine instead of beer 
+serve white wines chilled. 
+• present (someone) with food or drink: I'll serve you with coffee and cake 
+[with two objects] : Peter served them generous portions of soup. 
+• (of food or drink) be enough for: the recipe serves four people. 
+• attend to (a customer in a store): she turned to serve the impatient customer. 
+• supply (goods) to a customer. 
+• [no object] Christian Church act as a server at the celebration of the Eucharist. 
+• [with two objects] archaic play (a trick) on (someone): I remember the trick you served me.
+3 Law deliver (a document such as a summons or writ) in a formal manner to the person to whom it is addressed: a warrant was served on Jack Sherman. 
+• deliver a document to (someone) in a formal manner: they were just about to serve him with a writ.
+4 be of use in achieving or satisfying: this book will serve a useful purpose 
+the union came into existence to serve the interests of musicians. 
+• [no object] be of some specified use: the island's one pub serves as a cafe by day 
+[with infinitive] : sweat serves to cool down the body. 
+• function for or treat (someone) in a specified way: the strategy served him well. 
+• (of a male breeding-animal) copulate with (a female).
+5 [no object] (in tennis and other racket sports) hit the ball or shuttlecock to begin play: he tossed the ball up to serve 
+[with object] : serve the ball onto the front wall.
+6 Nautical bind (a rope) with thin cord to protect or strengthen it.
+7 Military operate (a gun): before long Lodge was the only man in his section able to serve the guns. 
+▶noun (in tennis and other racket sports) an act or turn of hitting the ball or shuttlecock to start play: he was let down by an erratic serve. 
+PHRASES
+if my memory serves me if I remember correctly.serve at table act as a waiter. serve someone right be someone's deserved punishment or misfortune: it would serve you right if Jeff walked out on you. serve one's time (also serve out one's time) hold office for the normal period. 
+• (also serve time) spend time in office, in an apprenticeship, or in prison. serve two masters take orders from two superiors or follow two conflicting or opposing principles or policies at the same time. [with biblical allusion to Matt. 6:24.]PHRASAL VERBS serve out Tennis win the final game of a set or match while serving: Fitzgerald then served out for the set.ORIGIN Middle English: from Old French servir, from Latin servire, from servus ‘slave.’

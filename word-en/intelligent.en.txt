@@ -1,4 +1,7 @@
 intelligent 
-▶adjective
-1 an intelligent writer: clever, bright, brilliant, quick-witted, quick on the uptake, smart, canny, astute, intuitive, insightful, perceptive, perspicacious, discerning; knowledgeable; able, gifted, talented; informal brainy.
-2 an intelligent being: rational, higher-order, capable of thought.
+inˈteləjənt
+
+▶adjective having or showing intelligence, especially of a high level: Annabelle is intelligent and hardworking 
+an intelligent guess. 
+• (of a device, machine, or building) able to vary its state or action in response to varying situations, varying requirements, and past experience. 
+• (especially of a computer terminal) incorporating a microprocessor and having its own processing capability. Often contrasted with dumb. ORIGIN early 16th century: from Latin intelligent- ‘understanding,’ from the verb intelligere, variant of intellegere ‘understand,’ from inter ‘between’ + legere ‘choose.’

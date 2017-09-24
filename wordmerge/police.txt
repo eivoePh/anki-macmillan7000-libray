@@ -10,7 +10,12 @@ B.  transitive verb
 ② (control) «teachers, guards» 守卫 shǒuwèi ‹building, nightclub, frontier›
 ③ (enforce) 监督…的执行 jiāndū… de zhíxíng ‹regulations, treaty›
 police 
-▶noun we phoned the police as soon as we heard the collision: police force, police officers, policemen, policewomen, officers of the law, law officers, authorities, constabulary; border patrol; informal cops, fuzz, law, long arm of the law, boys/men in blue, coppers, force, heat.
-▶verb
-1 we must police the area: guard, watch over, protect, defend, patrol; control, regulate.
-2 the regulations will be policed by the ministry: enforce, regulate, oversee, supervise, monitor, observe, check.
+pəˈlēs
+
+▶noun (treated as plural, usually the police) the civil force of a national or local government, responsible for the prevention and detection of crime and the maintenance of public order. 
+• members of a police force: there are fewer women police than men. 
+• [with modifier] an organization engaged in the enforcement of official regulations in a specified domain: transit police 
+figurative, humorous : the fashion police. 
+▶verb [with object] (often as noun policing) (of a police force) have the duty of maintaining law and order in or for (an area or event). 
+• enforce regulations or an agreement in (a particular area or domain): a UN resolution to use military force to police the no-fly zone. 
+• enforce the provisions of (a law, agreement, or treaty): the regulations will be policed by factory inspectors. ORIGIN late 15th century (in the sense ‘public order’): from French, from medieval Latin politia ‘citizenship, government’ (see policy1). Current senses date from the early 19th century.

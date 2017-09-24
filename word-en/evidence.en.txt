@@ -1,8 +1,9 @@
 evidence 
-▶noun
-1 they found evidence of his plotting: proof, confirmation, verification, substantiation, corroboration, affirmation, attestation.
-2 the court accepted her evidence: testimony, statement, attestation, declaration, avowal, submission, claim, contention, allegation; Law deposition, representation, affidavit.
-3 evidence of a struggle: signs, indications, pointers, marks, traces, suggestions, hints; manifestation.
-▶verb the rise of racism is evidenced here: indicate, show, reveal, display, exhibit, manifest; testify to, confirm, prove, substantiate, endorse, bear out; formal evince. ANTONYMS disprove.
+ˈevədəns
+
+▶noun the available body of facts or information indicating whether a belief or proposition is true or valid: the study finds little evidence of overt discrimination. 
+• Law information given personally, drawn from a document, or in the form of material objects, tending or used to establish facts in a legal investigation or admissible as testimony in court: without evidence, they can't bring a charge. 
+• signs; indications: there was no obvious evidence of a break-in. 
+▶verb [with object] (usually be evidenced) be or show evidence of: that it has been populated from prehistoric times is evidenced by the remains of Neolithic buildings. 
 PHRASES
-in evidence team spirit was in evidence: noticeable, conspicuous, obvious, perceptible, visible, on view, on display, plain to see; palpable, tangible, unmistakable, undisguised, prominent, striking, glaring; informal as plain as the nose on your face, sticking out like a sore thumb, staring someone in the face.
+give evidence Law give information and answer questions formally and in person in court or at an inquiry. in evidence noticeable; conspicuous: his dramatic flair is still very much in evidence. turn state's (or British King's or Queen's) evidence Law (of a criminal) give information in court against one's partners in order to receive a less severe punishment oneself.ORIGIN Middle English: via Old French from Latin evidentia, from evident- ‘obvious to the eye or mind’ (see evident) .

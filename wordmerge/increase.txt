@@ -15,8 +15,16 @@ noun
 ① (in amount) 增加 zēngjiā a price/pay increase 涨价/加薪 a massive increase in unemployment 失业人数的大幅增长 a 5% increase, an increase of 5% 5%的增长 (to be) on the increase 正在增加 the problem of illiteracy is on the increase 文盲问题越来越严重 
 ② (in intensity) 增强 zēngqiáng a further increase in effort is needed 需要更加努力 an increase in support for [somebody]/[something] 对某人/某事物更多的支持 (to be) on the increase 正在增强 
 increase 
-▶verb
-1 demand is likely to increase: grow, get bigger, get larger, enlarge, expand, swell; rise, climb, escalate, soar, surge, rocket, shoot up, spiral; intensify, strengthen, extend, heighten, stretch, spread, widen; multiply, snowball, mushroom, proliferate, balloon, build up, mount up, pile up, accrue, accumulate; literary wax. ANTONYMS decrease.
-2 higher expectations will increase user demand: add to, make larger, make bigger, augment, supplement, top up, build up, extend, raise, swell, inflate; magnify, maximize, intensify, strengthen, heighten, amplify; informal up, jack up, hike up, bump up, torque up, crank up. ANTONYMS reduce.
-▶noun the increase in size 
-an increase in demand: growth, rise, enlargement, expansion, extension, multiplication, elevation, inflation; increment, addition, augmentation; magnification, intensification, amplification, climb, escalation, surge, upsurge, upswing, spiral, spurt; informal hike. ANTONYMS decrease, reduction.
+▶verb 
+inˈkrēs 
+become or make greater in size, amount, intensity, or degree: [no object] : car use is increasing at an alarming rate 
+[with object] : we are aiming to increase awareness of social issues 
+(as adjective increasing) : the increasing numbers of students. 
+▶noun 
+ˈinkrēs 
+an instance of growing or making greater: an increase from sixteen to eighteen clubs 
+some increase in inflation. 
+PHRASES
+on the increase becoming greater, more common, or more frequent.DERIVATIVES increasable 
+inˈkrēsəb(ə)l 
+adjectiveORIGIN Middle English (formerly also as encrease): from Old French encreistre, from Latin increscere, from in- ‘into’ + crescere ‘grow.’

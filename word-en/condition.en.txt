@@ -1,12 +1,30 @@
 condition 
+kənˈdiSH(ə)n
+
 ▶noun
-1 check the condition of your wiring: state, shape, order.
-2 they lived in appalling conditions: circumstances, surroundings, environment, situation, setup, setting, habitat.
-3 she was in top condition: fitness, health, form, shape, trim, fettle.
-4 a liver condition: disorder, problem, complaint, illness, disease, ailment, sickness, affliction, infection, upset.
-5 a condition of membership: stipulation, constraint, prerequisite, precondition, requirement, rule, term, specification, provision, proviso.
-▶verb
-1 their choices are conditioned by the economy: constrain, control, govern, determine, decide; affect, touch; form, shape, guide, sway, bias.
-2 our minds are conditioned by habit: train, teach, educate, guide; accustom, adapt, habituate, mold, inure.
-3 condition the boards with water: treat, prepare, prime, temper, process, acclimatize, acclimate, season.
-4 a product to condition your skin: improve, nourish, tone (up), moisturize.
+1 the state of something, especially with regard to its appearance, quality, or working order: the wiring is in good condition 
+[in singular] : the bridge is in an extremely dangerous condition. 
+• a person's or animal's state of health or physical fitness: he is in fairly good condition considering what he has has been through 
+[in singular] : she was in a serious condition. 
+• an illness or other medical problem: a heart condition. 
+• [in singular] a particular state of existence: a condition of misery. 
+• archaic social position or rank: those of humbler condition.
+2 (conditions) the circumstances affecting the way in which people live or work, especially with regard to their safety or well-being: harsh working and living conditions. 
+• the factors or prevailing situation influencing the performance or the outcome of a process: present market conditions. 
+• the prevailing state of the weather, ground, sea, or atmosphere at a particular time, especially as it affects a sporting event: the appalling conditions determined the style of play.
+3 a state of affairs that must exist or be brought about before something else is possible or permitted: for a member to borrow money, three conditions have to be met 
+all personnel should comply with this policy as a condition of employment 
+I'll accept your offer on one condition. 
+▶verb [with object]
+1 have a significant influence on or determine (the manner or outcome of something): national choices are conditioned by the international political economy. 
+• train or accustom (someone or something) to behave in a certain way or to accept certain circumstances: we have all been conditioned to the conventional format of TV 
+the child is conditioned to dislike food 
+(as noun conditioning) : the program examines aspects of social conditioning.
+2 bring (something) into the desired state for use: a product for conditioning leather. 
+• (often as adjective conditioned) make (a person or animal) fit and healthy: he was six feet two of perfectly conditioned muscle and bone. 
+• apply something to (the skin or hair) to give it a healthy or attractive look or feel: I condition my hair regularly. 
+• (often as adjective conditioned) bring (beer or stout) to maturation after fermentation while the yeast is still present: cask-conditioned real ales. 
+• [no object] (of a beer or stout) undergo conditioning: brews that are allowed to condition in the bottle.
+3 set prior requirements on (something) before it can occur or be done: Congressmen have sought to limit and condition military and economic aid. 
+PHRASES
+in (or out of) condition in a fit (or unfit) physical state. in no condition to do something certainly not fit or well enough to do something: you're in no condition to tackle the stairs. on condition that with the stipulation that: he proposed deep cuts in offensive forces, on condition that an agreement be reached.ORIGIN Middle English: from Old French condicion (noun), condicionner (verb), from Latin condicio(n-) ‘agreement,’ from condicere ‘agree upon,’ from con- ‘with’ + dicere ‘say.’

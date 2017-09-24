@@ -1,8 +1,9 @@
 speech 
+spēCH
+
 ▶noun
-1 he doesn't have the power of speech: speaking, talking, verbal expression, verbal communication.
-2 her speech was slurred: diction, elocution, articulation, enunciation, pronunciation; utterance, words.
-3 an after-dinner speech: talk, address, lecture, discourse, oration, disquisition, peroration, deliverance, presentation; sermon, homily; monologue, soliloquy; informal spiel.
-4 Spanish popular speech: language, tongue, parlance, idiom, dialect, vernacular, patois; informal lingo, patter, -speak, -ese.
-WORD LINKS
-speech oral , lingual , phonic relating to speech or speech soundsWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 the expression of or the ability to express thoughts and feelings by articulate sounds: he was born deaf and without the power of speech. 
+• a person's style of speaking: she wouldn't accept his correction of her speech. 
+• the language of a nation, region, or group: the distinctive rhythms of their speech.
+2 a formal address or discourse delivered to an audience: the headmistress made a speech about how much they would miss her. 
+• a sequence of lines written for one character in a play. ORIGIN Old English sprǣc, sprēc, later spēc: related to Dutch spraak,German Sprache, also to speak .

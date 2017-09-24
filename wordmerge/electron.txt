@@ -2,5 +2,7 @@ electron
 BrE ɪˈlɛktrɒn, AmE əˈlɛkˌtrɑn 
 noun 电子 diànzǐ 
 electron 
-BrE ɪˈlɛktrɒn, AmE əˈlɛkˌtrɑn 
-noun 电子 diànzǐ 
+əˈlekˌträn
+
+▶noun Physics a stable subatomic particle with a charge of negative electricity, found in all atoms and acting as the primary carrier of electricity in solids. The electron's mass is about
+9 × 10−28g, 1,836 times less than that of the proton. Electrons orbit the positively charged nuclei of atoms and are responsible for binding atoms together in molecules and for the electrical, thermal, optical, and magnetic properties of solids. Electric currents in metals and in semiconductors consist of a flow of electrons, and light, radio waves, X-rays, and much heat radiation are all produced by accelerating and decelerating electrons. ORIGIN late 19th century: from electric + -on .

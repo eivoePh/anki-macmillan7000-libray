@@ -1,5 +1,18 @@
 translate 
-▶verb
-1 the German original had been translated into English: render, put, express, convert, change; transcribe, transliterate.
-2 be prepared to translate plenty of jargon: render, paraphrase, reword, rephrase, convert, decipher, decode, gloss, explain.
-3 interesting ideas cannot always be translated into effective movies: adapt, change, convert, transform, alter, turn, transmute; informal transmogrify, morph.
+transˈlāt tranzˈlāt
+
+▶verb [with object]
+1 express the sense of (words or text) in another language: the German original has been translated into English. 
+• [no object] be expressed or be capable of being expressed in another language: shiatsu literally translates as “finger pressure.” 
+• (translate something into/translate into) convert or be converted into (another form or medium): [with object] : few of Shakespeare's other works have been translated into ballets.
+2 move from one place or condition to another: she had been translated from familiar surroundings to a foreign court. 
+• formal move (a bishop) to another see or pastoral charge. 
+• formal remove (a saint's relics) to another place. 
+• literary convey (someone, typically still alive) to heaven. 
+• Biology convert (a sequence of nucleotides in messenger RNA) to an amino-acid sequence in a protein or polypeptide during synthesis.
+3 Physics cause (a body) to move so that all its parts travel in the same direction, without rotation or change of shape. 
+• Mathematics transform (a geometric figure) in an analogous way. DERIVATIVES translatability 
+ˌtransˌlātəˈbilətē, ˌtranz- 
+noun. translatable 
+tranzˈlādəbəl tran(t)sˈlādəbəl 
+adjectiveORIGIN Middle English: from Latin translatus ‘carried across,’ past participle of transferre (see transfer).

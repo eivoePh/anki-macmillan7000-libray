@@ -11,7 +11,16 @@ B.  transitive verb
 ③ Religion (hear confession of) «priest» 聆听…的忏悔 língtīng… de chànhuǐ ‹parishioner, penitent›
 C.  reflexive verb formal to confess oneself to be [something]; 承认某事 chéngrèn mǒu shì she confessed herself to be reluctant to move 她承认不愿意搬家 
 confess 
-▶verb
-1 he confessed that he had done it: admit, acknowledge, reveal, disclose, divulge, avow, declare, profess; own up, tell all. ANTONYMS deny.
-2 they could not make him confess: own up, plead guilty, accept the blame; tell the truth, tell all, make a clean breast of it; informal come clean, spill the beans, let the cat out of the bag, get something off one's chest, let on, fess up.
-3 I confess I don't know: acknowledge, admit, concede, grant, allow, own, declare, affirm.
+kənˈfes
+
+▶verb [reporting verb] admit or state that one has committed a crime or is at fault in some way: [with clause] : he confessed that he had attacked the old man 
+[no object] : he wants to confess to Caroline's murder 
+[with direct speech] : “I damaged your car,” she confessed 
+[with object] : once apprehended, they would confess their guilt. 
+• admit or acknowledge something reluctantly, typically because one feels slightly ashamed or embarrassed: [with clause] : I must confess that I was slightly surprised 
+[no object] : he confessed to a lifelong passion for food 
+[with direct speech] : “I needed to see you, too,” he confessed. 
+• [with object] declare (one's religious faith): 150 people confessed faith in Christ. 
+• declare one's sins formally to a priest: [with object] : I could not confess all my sins to the priest 
+[no object] : he gave himself up after confessing to a priest. 
+• [with object] (of a priest) hear the confession of (someone): St. Ambrose would weep bitter tears when confessing a sinner. ORIGIN late Middle English: from Old French confesser, from Latin confessus, past participle of confiteri ‘acknowledge,’ from con- (expressing intensive force) + fateri ‘declare, avow.’

@@ -1,11 +1,23 @@
 calm 
+kä(l)m
+
 ▶adjective
-1 she seemed very calm: serene, tranquil, relaxed, unruffled, unperturbed, unflustered, untroubled; equable, even-tempered; placid, unexcitable, unemotional, phlegmatic; composed, 'calm, cool, and collected', coolheaded, nonconfrontational, self-possessed; informal unflappable, unfazed, nonplussed. ANTONYMS excited, nervous, upset.
-2 the night was calm: windless, still, tranquil, serene, quiet. ANTONYMS windy, stormy.
-3 the calm waters of the lake: tranquil, still, smooth, glassy, like a millpond; literary stilly. ANTONYMS rough, stormy.
+1 (of a person, action, or manner) not showing or feeling nervousness, anger, or other emotions: keep calm, she told herself 
+his voice was calm. 
+• (of a place) peaceful, especially in contrast to recent violent activity: the city was reported to be calm, but army patrols remained.
+2 (of the weather) pleasantly free from wind: the night was clear and calm. 
+• (of the sea) not disturbed by large waves. 
 ▶noun
-1 calm prevailed: tranquility, stillness, calmness, quiet, quietness, quietude, peace, peacefulness.
-2 his usual calm deserted him: composure, coolness, calmness, self-possession, sangfroid; serenity, tranquility, equanimity, equability, placidness, placidity; informal cool, unflappability.
-▶verb
-1 I tried to calm him down : soothe, pacify, placate, mollify, appease, conciliate, quiet (down), relax. ANTONYMS excite, upset.
-2 she forced herself to calm down : compose oneself, recover/regain one's composure, control oneself, pull oneself together, simmer down, cool down/off, take it easy; informal get a grip, keep one's shirt on, chill (out), chillax, take a chill pill, cool one's jets, hang/stay loose, decompress.
+1 the absence of violent or confrontational activity within a place or group: the elections proceeded in an atmosphere of relative calm 
+[in singular] : an edgy calm reigned in the capital. 
+• the absence of nervousness, agitation, or excitement in a person: his usual calm deserted him.
+2 the absence of wind: in the center of the storm calm prevailed. 
+• still air represented by force 0 on the Beaufort scale (less than
+1 knot). 
+• (often calms) an area of the sea without wind. 
+▶verb [with object] make (someone) tranquil and quiet; soothe: I took him inside and tried to calm him down 
+he lit a cigarette to calm his nerves 
+(as adjective calming) : a cup of tea will have a calming effect. 
+• [no object] (calm down) (of a person) become tranquil and quiet: gradually I calmed down and lost my anxiety. 
+PHRASES
+the calm before the storm see storm. ORIGIN late Middle English: via one of the Romance languages from Greek kauma ‘heat (of the day).’

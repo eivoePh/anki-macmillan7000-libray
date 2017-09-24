@@ -1,9 +1,23 @@
 curl 
+kərl
+
 ▶verb
-1 smoke curled up from his cigarette: spiral, coil, wreathe, twirl, swirl; wind, curve, bend, twist, twist and turn, loop, meander, snake, corkscrew, zigzag.
-2 Ruth curled her arms around his neck: wind, twine, entwine, wrap.
-3 she washed and curled my hair: crimp, perm, wave.
-4 they curled up together on the sofa: nestle, snuggle, cuddle.
+1 form or cause to form into a curved or spiral shape: [no object] : her fingers curled around the microphone 
+a slice of ham had begun to curl up at the edges 
+[with object] : she used to curl her hair with rags. 
+• [no object] (curl up) sit or lie with the knees drawn up: she curled up and went to sleep. 
+• move or cause to move in a spiral or curved course: [no object] : a wisp of smoke curling across the sky. 
+• (with reference to one's mouth or upper lip) raise or cause to raise slightly on one side as an expression of contempt or disapproval: [no object] : Maria saw his lip curl sardonically. 
+• (in weight training) lift (a weight) using only the hands, wrists, and forearms.
+2 [no object] play at the game of curling. 
 ▶noun
-1 the tangled curls of her hair: ringlet, corkscrew, kink, wave.
-2 a curl of smoke: spiral, coil, twirl, swirl, twist, corkscrew, curlicue, helix.
+1 something having a spiral or inwardly curved form, especially a lock of hair: her blond hair was a mass of tangled curls 
+a curl of blue smoke. 
+• (with reference to a person's hair) a state or condition of being curled: your hair has a natural curl 
+large perm rods give volume and control rather than lots of curl. 
+• a curling movement: the sneering curl of his lip. 
+• see leaf curl. 
+• a weightlifting exercise involving movement of only the hands, wrists, and forearms: a dumbbell curl.
+2 Mathematics the vector product of the operator del and a given vector. 
+PHRASES
+make someone's hair curl informal shock or horrify someone.ORIGIN late Middle English: from obsolete crulle ‘curly,’ from Middle Dutch krul .

@@ -1,2 +1,17 @@
 dynamic 
-▶adjective he was eclipsed by his more dynamic colleagues: energetic, spirited, active, lively, zestful, vital, vigorous, forceful, powerful, positive; high-powered, aggressive, bold, enterprising; magnetic, passionate, fiery, high-octane; informal go-getting, peppy, full of get-up-and-go, full of vim and vigor, gutsy, gutty, spunky, feisty, go-ahead; vulgar slang ass-kicking. ANTONYMS halfhearted.
+dīˈnamik
+
+▶adjective
+1 (of a process or system) characterized by constant change, activity, or progress: a dynamic economy. 
+• (of a person) positive in attitude and full of energy and new ideas: she's dynamic and determined. 
+• Physics relating to forces producing motion. Often contrasted with static. 
+• Linguistics (of a verb) expressing an action, activity, event, or process. Contrasted with stative. 
+• denoting or relating to web pages that update frequently or are generated according to an individual's search terms: the dynamic content of these sites keeps their audience informed and up to date. 
+• Electronics (of a memory device) needing to be refreshed by the periodic application of a voltage. 
+• Electronics relating to the volume of sound produced by a voice, instrument, or sound recording equipment.
+2 Music relating to the volume of sound produced by an instrument, voice, or recording: an astounding dynamic range. 
+▶noun
+1 a force that stimulates change or progress within a system or process: evaluation is part of the basic dynamic of the project.
+2 Music another term for dynamics ( sense 3). DERIVATIVES dynamical 
+dīˈnamək(ə)l 
+adjectiveORIGIN early 19th century (as a term in physics): from French dynamique, from Greek dunamikos, from dunamis ‘power.’

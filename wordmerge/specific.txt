@@ -6,6 +6,16 @@ A.  adjective
 ② (unique) 特定的 tèdìng de to be specific to [somebody]/[something] 为某人/某事物特有 
 B.  specifics noun plural (particular aspects or details) 详情 xiángqíng to get down to specifics 进入细节 
 specific 
+spəˈsifik
+
 ▶adjective
-1 a specific purpose: particular, specified, fixed, set, determined, distinct, definite; single, individual, peculiar, discrete, express, precise. ANTONYMS general.
-2 I gave specific instructions: detailed, explicit, express, clear-cut, unequivocal, precise, exact, meticulous, strict, definite. ANTONYMS vague.
+1 clearly defined or identified: increasing the electricity supply only until it met specific development needs. 
+• precise and clear in making statements or issuing instructions: when ordering goods be specific. 
+• belonging or relating uniquely to a particular subject: information needs are often very specific to companies and individuals.
+2 Biology relating to or connected with species or a species.
+3 (of a duty or a tax) levied at a fixed rate per physical unit of the thing taxed, regardless of its price.
+4 Physics of or denoting a number equal to the ratio of the value of some property of a given substance to the value of the same property of some other substance used as a reference, such as water, or of a vacuum, under equivalent conditions. 
+• of or denoting a physical quantity expressed in terms of a unit mass, volume, or other measure, in order to give a value independent of the properties or scale of the particular system studied. 
+▶noun
+1 dated a medicine or remedy effective in treating a particular disease or part of the body.
+2 (usually specifics) a precise detail: he worked through the specifics of the contract. ORIGIN mid 17th century (originally in the sense ‘having a special determining quality’): from late Latin specificus, from Latin species (see species) .

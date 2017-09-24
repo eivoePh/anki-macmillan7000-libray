@@ -1,5 +1,10 @@
 digital 
-BrE ˈdɪdʒɪt(ə)l, AmE ˈdɪdʒɪdl 
-adjective 
-① especially Computing 数字的 shùzì de ‹display›; 数码的 shùmǎ de ‹recording›a digital watch 数字式手表 
-② Anatomy (of fingers) 手指的 shǒuzhǐ de (of toes) 脚趾的 jiǎozhǐ de 
+ˈdijidl
+
+▶adjective
+1 (of signals or data) expressed as series of the digits 0 and 1, typically represented by values of a physical quantity such as voltage or magnetic polarization. Often contrasted with analog. 
+• relating to, using, or storing data or information in the form of digital signals: digital TV 
+a digital recording. 
+• involving or relating to the use of computer technology: the digital revolution.
+2 (of a clock or watch) showing the time by means of displayed digits rather than hands or a pointer.
+3 relating to a finger or fingers. ORIGIN late 15th century: from Latin digitalis, from digitus ‘finger, toe.’

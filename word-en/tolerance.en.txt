@@ -1,4 +1,11 @@
 tolerance 
+ˈtäl(ə)rəns
+
 ▶noun
-1 an attitude of tolerance toward other people: acceptance, toleration; open-mindedness, broad-mindedness, forbearance, liberality, liberalism; patience, charity, indulgence, understanding.
-2 she has a low tolerance to alcohol: endurance of, resistance to, resilience to, resistance to, immunity to.REFLECTIONS Francine Prosetolerance The various usages of this word promise, perhaps falsely, to reveal some hidden truth about what has become its most common use—that is, the freedom from racial and ethnic prejudice, the willingness to accept the differences between ourselves and our neighbors. How does this relate to the meaning that conveys endurance or forbearance (His tolerance for pain—or for large quantities of the experimental drug—was impressive) or the sense, employed in architecture and engineering, of allowable deviance from a standard? I've also heard the word used, informally, as a measure of physical space, most often narrow. The tolerance between the car and the walls of the alley was minuscule. Is this a helpful reminder that tolerance (in the sense of open-mindedness) may require a certain amount of flinty endurance, that it is unusual, and that it has something to do with how much room we have, with the space we are obliged to share with the neighbor whose differences we must learn to tolerate?Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+1 the ability or willingness to tolerate something, in particular the existence of opinions or behavior that one does not necessarily agree with: the tolerance of corruption 
+an advocate of religious tolerance. 
+• the capacity to endure continued subjection to something, especially a drug, transplant, antigen, or environmental conditions, without adverse reaction: the desert camel shows the greatest tolerance to dehydration 
+species were grouped according to pollution tolerance 
+various species of diatoms display different tolerances to acid. 
+• diminution in the body's response to a drug after continued use.
+2 an allowable amount of variation of a specified quantity, especially in the dimensions of a machine or part: 250 parts in his cars were made to tolerances of one thousandth of an inch. ORIGIN late Middle English (denoting the action of bearing hardship, or the ability to bear pain and hardship): via Old French from Latin tolerantia, from tolerare (see tolerate) .

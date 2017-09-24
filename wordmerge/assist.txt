@@ -6,6 +6,14 @@ B.  intransitive verb
 ① (help) 帮助 bāngzhù to assist in [something]/doing [something]; 在某事中帮忙/帮助做某事 
 ② (be present) 列席 lièxí they assisted at the ceremony 他们列席了典礼 
 assist 
-▶verb
-1 I spend my time assisting the chef: help, aid, lend a (helping) hand to, oblige, accommodate, serve; collaborate with, work with; support, back (up), second; abet; informal pitch in with. ANTONYMS hinder.
-2 the exchange rates assisted the firm's expansion: facilitate, aid, ease, expedite, spur, promote, boost, benefit, foster, encourage, stimulate, precipitate, accelerate, advance, further, forward. ANTONYMS impede.
+əˈsist
+
+▶verb [with object] help (someone), typically by doing a share of the work: a senior academic would assist him in his work 
+[with object] : he assisted her to find employment 
+[no object] : their presence would assist in keeping the peace. 
+• help by providing money or information: they were assisting police with their inquiries 
+[no object] : funds to assist with capital investment. 
+• [no object] be present as a helper or spectator: two midwives who assisted at a water birth. 
+▶noun chiefly North American an act of helping, typically by providing money: the budget must have an assist from tax policies. 
+• (chiefly in ice hockey, basketball, or baseball) the act of touching the puck or ball in a play in which a teammate scores or an opposing batter is put out: he led the league with
+14 outfield assists. DERIVATIVES assister noun. assistive adjectiveORIGIN late Middle English: from Old French assister, from Latin assistere ‘take one's stand by,’ from ad- ‘to, at’ + sistere ‘take one's stand.’

@@ -1,10 +1,19 @@
 preserve 
-▶verb
-1 oil helps preserve wood: conserve, protect, maintain, care for, look after.
-2 they wish to preserve the status quo: continue (with), conserve, keep going, maintain, uphold, sustain, perpetuate.
-3 preserving him from harassment: guard, protect, keep, defend, safeguard, shelter, shield.
-4 spices enable us to preserve food: conserve, bottle, can, freeze, dry, freeze-dry; cure, smoke, pickle.
+prəˈzərv
+
+▶verb [with object] maintain (something) in its original or existing state: all records of the past were zealously preserved 
+(as adjective preserved) : a magnificently preserved monastery. 
+• retain (a condition or state of affairs): a fight to preserve local democracy. 
+• maintain or keep alive (a memory or quality): the film has preserved all the qualities of the novel. 
+• keep safe from harm or injury: a place for preserving endangered species. 
+• treat or refrigerate (food) to prevent its decomposition or fermentation. 
+• prepare (fruit) for long-term storage by boiling it with sugar: (as adjective preserved) : those sweet preserved fruits associated with Cremona. 
+• keep (game or an area where game is found) undisturbed to allow private hunting or shooting. 
 ▶noun
-1 (preserves) strawberry preserves: jam, jelly, marmalade, conserve, fruit spread.
-2 the preserve of an educated middle-class: domain, area, field, sphere, orbit, realm, province, territory; informal turf, bailiwick.
-3 a game preserve: sanctuary, (game) reserve, reservation, protected area.
+1 (usually preserves) food made with fruit preserved in sugar, such as jam or marmalade: home-made preserves.
+2 a sphere of activity regarded as being reserved for a particular person or group: the civil service became the preserve of the educated middle class.
+3 chiefly North American a place where game is protected and kept for private hunting or shooting. DERIVATIVES preservable 
+prəˈzərvəb(ə)l 
+adjective. preserver 
+prəˈzərvər 
+nounORIGIN late Middle English (in the sense ‘keep safe from harm’): from Old French preserver, from late Latin praeservare, from prae- ‘before, in advance’ + servare ‘to keep.’

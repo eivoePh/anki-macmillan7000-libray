@@ -1,8 +1,19 @@
 composition 
+ˌkämpəˈziSH(ə)n
+
 ▶noun
-1 the composition of the council: makeup, constitution, configuration, structure, formation, form, framework, fabric, anatomy, organization; informal setup.
-2 a literary composition: work, work of art, creation, opus, oeuvre, piece, arrangement.
-3 we all participated in the composition of the school song: writing, creation, formulation, invention, concoction, orchestration.
-4 a school composition: essay, paper, study, piece of writing, theme.
-5 the composition of the painting: arrangement, disposition, layout; proportions, balance, symmetry.
-6 an adhesive composition: mixture, compound, amalgam, blend, mix.
+1 the nature of something's ingredients or constituents; the way in which a whole or mixture is made up: the social composition of villages. 
+• the action of putting things together; formation or construction: the composition of a new government was announced. 
+• a thing composed of various elements: a theory is a composition of interrelated facts. 
+• archaic mental constitution; character: persons who have a touch of madness in their composition. 
+• [often as modifier] a compound artificial substance, especially one serving the purpose of a natural one: composition flooring. 
+• Linguistics the formation of words into a compound word. 
+• Mathematics the successive application of functions to a variable, the value of the first function being the argument of the second, and so on: composition of functions, when defined, is associative. 
+• Physics the process of finding the resultant of a number of forces.
+2 a work of music, literature, or art: Chopin's most romantic compositions. 
+• the action or art of producing a work of music, literature, or art: the technical aspects of composition. 
+• an essay, especially one written by a school or college student. 
+• the artistic arrangement of the parts of a picture: spoiling the composition of many of the pictures.
+3 the preparing of text for printing by setting up the characters in order. See compose ( sense 4).
+4 a legal agreement to pay an amount of money in lieu of a larger debt or other obligation. 
+• an amount of money paid under a legal agreement. ORIGIN late Middle English: via Old French from Latin composition-, from componere ‘put together.’

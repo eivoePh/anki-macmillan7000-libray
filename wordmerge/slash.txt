@@ -17,11 +17,26 @@ B.  transitive verb
 C.  intransitive verb 
 ① (hit at with knife) 砍 kǎn to slash at [somebody]; 向某人砍去 to slash at [somebody] with a knife/broken bottle 持刀砍向/用破酒瓶砸向某人 
 ② (slice through) 割 gē to slash at [something]; 割 gē ‹undergrowth›to slash at a ball 击球 the rain was slashing at the window figurative 雨水猛烈地击打在窗户上 to slash through [something]; 割断 ‹cord› 裁开 cáikāi ‹fabric›
-slash 
-▶verb
-1 her tires had been slashed: cut (open), gash, slit, split open, lacerate, knife, make an incision in.
-2 informal the company slashed prices: reduce, cut, lower, bring down, mark down.
-3 informal they have slashed 10,000 jobs: get rid of, ax, cut, shed, make redundant.
+slash
+1 
+slaSH
+
+▶verb [with object] cut (something) with a violent sweeping movement, typically using a knife or sword: a tire was slashed on my car 
+they cut and slashed their way to the river 
+[no object] : the man slashed at him with a sword. 
+• informal reduce (a price, quantity, etc.) greatly: the workforce has been slashed by 2,000. 
+• archaic lash, whip, or thrash severely. 
+• archaic crack (a whip). 
+• archaic criticize (someone or something) severely. 
 ▶noun
-1 a slash across his arm: cut, gash, laceration, slit, incision; wound.
-2 sentence breaks are indicated by slashes: solidus, oblique, backslash.
+1 a cut made with a wide, sweeping stroke: the man took a mighty slash at his head with a large sword. 
+• a wound or gash made by a cut with a wide, sweeping stroke: he staggered over with a crimson slash across his temple. 
+• a bright patch or flash of color or light: yellow and gold foliage, with the odd slash of red.
+2 an oblique stroke (/) in print or writing, used between alternatives (e.g., and/or), in fractions (e.g., 3/4), in ratios (e.g., miles/day), or between separate elements of a text. 
+• [usually as modifier] a genre of fiction, published chiefly in fanzines or online, in which characters who appear together in movies, television, or other popular media are portrayed as having a sexual (especially homosexual) relationship. [1980s: from the use of an oblique stroke to link adjoining names or initials (as in Kirk/Spock and K/
+S. ]
+3 North American debris resulting from the felling or destruction of trees. 
+▶conjunction informal used to link alternatives or words describing or denoting a dual (or multiple) function or nature: a fashionable movie theater-slash-bar-slash-restaurant 
+a model slash actress 
+the most insane-slash-brilliant maneuver in the show's history. [from sense
+2 of the noun, as a verbal representation of the symbol.] ORIGIN late Middle English: perhaps imitative, or from Old French esclachier ‘break in pieces.’ The noun dates from the late 16th century.

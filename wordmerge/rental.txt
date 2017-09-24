@@ -4,7 +4,9 @@ nounUncountable
 ① (payment) 租金 zūjīn annual/quarterly/monthly/weekly/daily rental 年度/季度/月/周/日租费 
 ② (renting) 租赁 zūlìn car/office rental 汽车/办公室租赁 a rental firm 租赁公司 zūlìn gōngsī an exorbitant rental rate 离谱的租费 
 rental 
-BrE ˈrɛnt(ə)l, AmE ˈrɛn(t)l 
-nounUncountable
-① (payment) 租金 zūjīn annual/quarterly/monthly/weekly/daily rental 年度/季度/月/周/日租费 
-② (renting) 租赁 zūlìn car/office rental 汽车/办公室租赁 a rental firm 租赁公司 zūlìn gōngsī an exorbitant rental rate 离谱的租费 
+ˈren(t)l
+
+▶noun an amount paid or received as rent. 
+• the action of renting something: the office was on weekly rental. 
+• North American a rented house or car. 
+▶adjective relating to or available for rent: rental properties. ORIGIN late Middle English: from Anglo-Norman French, or from Anglo-Latin rentale, from Old French rente (see rent1) .

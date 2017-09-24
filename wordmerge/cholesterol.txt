@@ -2,5 +2,7 @@ cholesterol
 BrE kəˈlɛstərɒl, AmE kəˈlɛstəˌrɔl, kəˈlɛstəˌroʊl 
 nounUncountable胆固醇 dǎngùchún 
 cholesterol 
-BrE kəˈlɛstərɒl, AmE kəˈlɛstəˌrɔl, kəˈlɛstəˌroʊl 
-nounUncountable胆固醇 dǎngùchún 
+kəˈlestəˌrôl kəˈlestəˌrōl
+
+▶noun a compound of the sterol type found in most body tissues. Cholesterol and its derivatives are important constituents of cell membranes and precursors of other steroid compounds, but a high proportion in the blood of low-density lipoprotein (which transports cholesterol to the tissues) is associated with an increased risk of coronary heart disease. [Chemical formula: C 27H 45O
+H. ] ORIGIN late 19th century: from Greek kholē ‘bile’ + stereos ‘stiff’ + -ol .

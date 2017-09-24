@@ -13,11 +13,27 @@ noun
 ⑩ CountableBotany, Biology, Zoology 部 bù 
 ⑪ Countable BrE Politics 分组表决 fēnzǔ biǎojué 
 division 
+dəˈviZHən
+
 ▶noun
-1 the division of the island 
-cell division: dividing (up), breaking up, breakup, carving up, splitting, dissection, bisection; partitioning, separation, segregation.
-2 the division of his assets: sharing out, dividing up, parceling out, dishing out, allocation, allotment, apportionment; splitting up, carving up; informal divvying up.
-3 the division between nomadic and urban cultures: dividing line, divide, boundary, borderline, border, demarcation line.
-4 each class is divided into nine divisions: section, subsection, subdivision, category, class, group, grouping, set, subset, family.
-5 an independent division of the company: department, branch, arm, wing, sector, section, subsection, subdivision, subsidiary.
-6 the causes of social division: disunity, disunion, conflict, discord, disagreement, dissension, disaffection, estrangement, alienation, isolation.
+1 the action of separating something into parts, or the process of being separated: the division of the land into small fields 
+a gene that helps regulate cell division. 
+• the distribution of something separated into parts: the division of his estates between the two branches of his family. 
+• an instance of members of a legislative body separating into two groups to vote for or against a bill: the new clause was agreed without a division. 
+• the action of splitting the roots of a perennial plant into parts to be replanted separately, as a means of propagation: the plant can also be easily increased by division in autumn. 
+• Logic the action of dividing a wider class into two or more subclasses.
+2 disagreement between two or more groups, typically producing tension or hostility: a growing sense of division between north and south 
+a country with ethnic and cultural divisions.
+3 the process or skill of dividing one number by another. See also long division, short division. 
+• Mathematics the process of dividing a matrix, vector, or other quantity by another under specific rules to obtain a quotient.
+4 each of the parts into which something is divided: the main divisions of the book. 
+• a major unit or section of an organization, typically one handling a particular kind of work: a retail division. 
+• a group of army brigades or regiments: an infantry division. 
+• a number of teams or competitors grouped together in a sport for competitive purposes according to such characteristics as ability, size, or geographic location: the team will finish in fifth place in Division One. 
+• a part of a county, country, or city defined for administrative or political purposes: a licensing division of a district. 
+• British a part of a county or borough forming a parliamentary constituency: he was MP for the Lancaster division of North Lancashire. 
+• Botany a principal taxonomic category that ranks above class and below kingdom, equivalent to the phylum in zoology. 
+• Zoology any subsidiary category between major levels of classification.
+5 a partition that divides two groups or things: the villagers lived in a communal building and there were no solid divisions between neighbors. 
+PHRASES
+division of labor the assignment of different parts of a manufacturing process or task to different people in order to improve efficiency.ORIGIN late Middle English: from Old French devisiun, from Latin divisio(n-), from the verb dividere (see divide) .

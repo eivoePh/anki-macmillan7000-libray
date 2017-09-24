@@ -5,7 +5,9 @@ noun
 ② Countable(broadcast programme) 广播节目 guǎngbō jiémù (broadcast signal) 广播信号 guǎngbō xìnhào to broadcast a live transmission of the Prime Minister's speech 现场直播首相的演讲 
 ③ Countable and uncountableAuto 变速箱 biànsùxiāng manual/automatic transmission 手动/自动变速器 
 transmission 
+tranzˈmiSHən transˈmiSHən
+
 ▶noun
-1 the transmission of ideas: spread, transferral, communication, conveyance; dissemination, circulation, transference.
-2 a live transmission: broadcast, program, show, airing.
-3 her car had a faulty transmission: power train, drivetrain.
+1 the action or process of transmitting something or the state of being transmitted: the transmission of the HIV virus. 
+• a program or signal that is broadcast or sent out: television transmissions.
+2 the mechanism by which power is transmitted from an engine to the wheels of a motor vehicle. ORIGIN early 17th century: from Latin transmissio (see trans-, mission) .

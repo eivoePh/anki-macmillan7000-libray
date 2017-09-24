@@ -13,10 +13,24 @@ B.  transitive verb(present participle etc. -gg-) 给…装帆具 gěi… zhuān
 ② colloquial (in outfit) 为…提供装束 wèi… tígōng zhuāngshù he was rigged out as a fireman 他被装扮成一个消防员 rig up transitive verb[rig something up], [rig up something] 草草搭建 cǎocǎo dājiàn 
 rig
 1 
-▶verb
-1 the boats were rigged with a single sail: equip, fit out, supply, furnish, provide, arm.
-2 I rigged myself out in black: dress, clothe, attire, robe, garb, array, deck out, drape, accoutre, outfit, get up, trick out/up; informal doll up; archaic apparel.
-3 he will rig up a shelter: set up, erect, assemble, build; throw together, cobble together, put together, whip up, improvise, contrive.
+riɡ
+
+▶verb (rigs, rigging, rigged) [with object] make (a sailing ship or boat) ready for sailing by providing it with sails and rigging: the catamaran will be rigged as a ketch 
+[as adjective, in combination] (-rigged) : a gaff-rigged cutter. 
+• assemble and adjust (the equipment of a sailboat, aircraft, etc.) to make it ready for operation: most sails are kept ready rigged. 
+• set up (equipment or a device or structure), typically hastily or in makeshift fashion: he had rigged up a sort of tent 
+the crew began to rig the camera equipment on a platform. 
+• provide (someone) with clothes of a particular style or type: a cavalry regiment rigged out in green and gold. 
 ▶noun
-1 a CB radio rig: apparatus, appliance, machine, device, instrument, contraption, system; tackle, gear, kit, outfit.
-2 the rig of a Civil War cavalry officer: uniform, costume, ensemble, outfit, livery, attire, clothes, clothing, garments, dress, garb, regalia, trappings; informal getup, gear, togs, kit; formal apparel; archaic raiment, vestments.
+1 the particular way in which a sailboat's masts, sails, and rigging are arranged: the yacht will emerge from the yard with her original rig. 
+• the sail, mast, and boom of a sailboard.
+2 an apparatus, device, or piece of equipment designed for a particular purpose: a lighting rig. 
+• an oil rig or drilling rig. 
+• (in CB and shortwave radio) a transmitter and receiver. 
+• a particular type of construction for fishing tackle that bears the bait and hook. 
+• a set of amplifiers and speakers used by a live band or a DJ in a club.
+3 a person's costume, outfit, or style of dress: the rig of the Army Air Corps.
+4 chiefly North American & Australian/NZ a tractor-trailer. 
+• US another type of vehicle, such as a horse-drawn carriage. 
+PHRASES
+(in) full rig informal (wearing) fancy or ceremonial clothes.ORIGIN late 15th century (in nautical use): perhaps of Scandinavian origin: compare with Norwegian rigga ‘bind or wrap up.’ The noun dates from the early 19th century.

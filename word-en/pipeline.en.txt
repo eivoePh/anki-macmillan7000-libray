@@ -1,4 +1,13 @@
 pipeline 
-▶noun a gas pipeline: pipe, conduit, main, line, duct, tube.
+ˈpīpˌlīn
+
+▶noun
+1 a long pipe, typically underground, for conveying oil, gas, etc., over long distances. 
+• a channel supplying goods or information: the biggest heroin pipeline in history.
+2 Computing a linear sequence of specialized modules used for pipelining.
+3 (in surfing) the hollow formed by the breaking of a large wave. 
+▶verb [with object]
+1 convey (a substance) by a pipeline.
+2 (often as adjective pipelined) Computing design or execute (a computer or instruction) using the technique of pipelining. 
 PHRASES
-in the pipeline word of a layoff is in the pipeline: on the way, coming, forthcoming, upcoming, imminent, about to happen, near, close, brewing, in the offing, in the wind.
+in the pipeline awaiting completion or processing; being developed: new treatments are in the pipeline.

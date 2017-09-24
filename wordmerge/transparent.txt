@@ -4,7 +4,12 @@ adjective
 ① (see-through) 透明的 tòumíng de ‹fabric, film, coating›
 ② (obvious) 显而易见的 xiǎn ér yì jiàn de ‹lie, deception›; 坦白的 tǎnbái de ‹honesty›a transparent style of writing/meaning 清晰的写作风格/明确的意思 a transparent disguise 容易识破的伪装 to use transparent language 使用明白易懂的语言 he spoke to us with transparent sincerity 他坦诚地同我们谈话 
 transparent 
-▶adjective
-1 transparent blue water: clear, crystal clear, see-through, translucent, pellucid, limpid, glassy, vitreous. ANTONYMS opaque, cloudy.
-2 fine transparent fabrics: see-through, sheer, filmy, gauzy, diaphanous, translucent. ANTONYMS thick.
-3 a transparent attempt to win favor: obvious, evident, self-evident, undisguised, unconcealed, conspicuous, patent, clear, crystal clear, plain, (as) plain as the nose on your face, apparent, unmistakable, easily discerned, manifest, palpable, indisputable, unambiguous, unequivocal. ANTONYMS ambiguous, obscure.WORD TOOLKIT See diaphanous .Word Toolkits illustrate the difference between close synonyms by means of words typically used with them.
+transˈperənt
+
+▶adjective (of a material or article) allowing light to pass through so that objects behind can be distinctly seen: transparent blue water. 
+• easy to perceive or detect: the residents will see through any transparent attempt to buy their votes 
+the meaning of the poem is by no means transparent. 
+• having thoughts, feelings, or motives that are easily perceived: you'd be no good at poker—you're too transparent. 
+• (of an organization or its activities) open to public scrutiny: if you had transparent government procurement, corruption would go away. 
+• Physics transmitting heat or other electromagnetic rays without distortion. 
+• Computing (of a process or interface) functioning without the user being aware of its presence. ORIGIN late Middle English: from Old French, from medieval Latin transparent- ‘shining through,’ from Latin transparere, from trans- ‘through’ + parere ‘appear.’

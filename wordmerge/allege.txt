@@ -2,4 +2,9 @@ allege
 BrE əˈlɛdʒ, AmE əˈlɛdʒ 
 transitive verb 声称 shēngchēng X alleged that Y had phoned him X声称Y给他打过电话 the documents were alleged to be fakes 这些文件据说是伪造的 
 allege 
-▶verb both children allege that the babysitter had left them alone for hours at a time: claim, assert, charge, accuse, declare, state, contend, argue, affirm, maintain, attest, testify, swear; formal aver.
+əˈlej
+
+▶verb [reporting verb] claim or assert that someone has done something illegal or wrong, typically without proof that this is the case: [with clause] : he alleged that he had been assaulted 
+[with object and infinitive] : the offenses are alleged to have been committed outside the woman's home 
+he is alleged to have assaulted five men. 
+• (usually be alleged) suppose or affirm to be the case: the first artifact ever alleged to be from Earhart's aircraft. ORIGIN Middle English (in the sense ‘declare on oath’): from Old French esligier, based on Latin lis, lit- ‘lawsuit’; confused in sense with Latin allegare ‘allege.’

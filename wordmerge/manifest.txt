@@ -9,8 +9,12 @@ C.  reflexive verb to manifest itself; 显现 xiǎnxiàn fear manifests itself i
 D.  noun 
 ① Nautical 船货清单 chuán huò qīngdān 
 ② Aviation (of passengers) 乘客名单 chéngkè míngdān (of cargo) 货单 huòdān 
-manifest 
-▶verb
-1 she manifested signs of depression: display, show, exhibit, demonstrate, betray, present, reveal; formal evince. ANTONYMS hide.
-2 his positive potential is manifested by his art: be evidence of, be a sign of, indicate, show, attest to, reflect, bespeak, prove, establish, evidence, substantiate, corroborate, confirm; literary betoken. ANTONYMS mask.
-▶adjective his manifest lack of interest: obvious, clear, plain, apparent, evident, patent, palpable, distinct, definite, blatant, overt, glaring, barefaced, explicit, transparent, conspicuous, undisguised, unmistakable, noticeable, perceptible, visible, recognizable. ANTONYMS secret.
+manifest
+1 
+ˈmanəˌfest
+
+▶adjective clear or obvious to the eye or mind: the system's manifest failings. 
+▶verb [with object] display or show (a quality or feeling) by one's acts or appearance; demonstrate: Ray manifested signs of severe depression. 
+• (often be manifested in) be evidence of; prove: bad industrial relations are often manifested in disputes and strikes. 
+• [no object] (of an ailment) become apparent through the appearance of symptoms: a disorder that usually manifests in middle age. 
+• [no object] (of a ghost or spirit) appear: one deity manifested in the form of a bird. ORIGIN late Middle English: via Old French from Latin manifestus .

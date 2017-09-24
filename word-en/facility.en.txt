@@ -1,7 +1,11 @@
 facility 
-▶noun
-1 parking facilities: provision, space, means, potential, equipment.
-2 the facilities consisted of an old wooden outhouse: washroom, toilet, restroom, bathroom.
-3 a wealth of local facilities: amenity, resource, service, advantage, convenience, benefit.
-4 a medical facility: establishment, center, place, station, location, premises, site, post, base; informal joint, outfit, setup.
-5 his facility for drawing: aptitude, talent, gift, flair, bent, skill, knack, genius; ability, proficiency, competence, capability, capacity, faculty; expertness, adeptness, prowess, mastery, artistry.
+fəˈsilədē
+
+▶noun (plural facilities)
+1 a place, amenity, or piece of equipment provided for a particular purpose: cooking facilities 
+facilities for picnicking, camping, and hiking 
+a manufacturing facility. 
+• (the facilities) a public restroom. 
+• an option or service that gives the opportunity to do or benefit from something: the program includes a help facility and interactive windows.
+2 [usually in singular] an ability to do or learn something well and easily; a natural aptitude: he had a facility for languages. 
+• absence of difficulty or effort: the pianist played with great facility. ORIGIN early 16th century (denoting the means or unimpeded opportunity for doing something): from French facilité or Latin facilitas, from facilis ‘easy’ (see facile) .

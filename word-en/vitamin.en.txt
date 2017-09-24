@@ -1,3 +1,4 @@
 vitamin 
-BrE ˈvɪtəmɪn, ˈvʌɪtəmɪn, AmE ˈvaɪdəmən 
-noun 维生素 wéishēngsù vitamin A/B/C 维生素A/B/C with added vitamins, vitamin enriched 添加维生素的 to have a high/low vitamin content 维生素含量高/低 
+ˈvīdəmən
+
+▶noun any of a group of organic compounds that are essential for normal growth and nutrition and are required in small quantities in the diet because they cannot be synthesized by the body. ORIGIN early 20th century: from Latin vita ‘life’ + amine, because vitamins were originally thought to contain an amino acid.

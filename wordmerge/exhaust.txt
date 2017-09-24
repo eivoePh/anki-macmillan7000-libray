@@ -11,7 +11,19 @@ B.  noun
 ① Uncountable(fumes) 废气 fèiqì 
 ② Countable(pipe) 排气管 páiqìguǎn 
 exhaust 
-▶verb
-1 the effort had exhausted him: tire out, wear out, overtire, fatigue, weary, tire, drain, run someone into the ground; informal do in, take it out of one, wipe out, knock out, burn out, poop, tucker out. ANTONYMS invigorate, refresh.
-2 the country has exhausted its reserves: use up, run through, go through, consume, finish, deplete, spend, empty, drain, run out of; informal blow. ANTONYMS replenish.
-3 we've exhausted the subject: treat thoroughly, say all there is to say about, do to death, overwork.
+iɡˈzôst
+
+▶verb [with object]
+1 drain (someone) of their physical or mental resources; tire out: her day trip had exhausted her.
+2 use up (resources or reserves) completely: the country has exhausted its treasury reserves. 
+• expound on, write about, or explore (a subject or options) so fully that there is nothing further to be said or discovered: she seemed to have exhausted all permissible topics of conversation.
+3 expel (gas or steam) from or into a particular place. 
+▶noun waste gases or air expelled from an engine, turbine, or other machine in the course of its operation: buses spewing out black clouds of exhaust 
+[as modifier] : exhaust fumes. 
+• the system through which waste gases are expelled: [as modifier] : an exhaust pipe. DERIVATIVES exhauster 
+iɡˈzôstər 
+noun. exhaustibility 
+iɡˌzôstəˈbilədē 
+noun. exhaustible 
+iɡˈzôstəb(ə)l 
+adjectiveORIGIN mid 16th century (in the general sense ‘draw off or out’): from Latin exhaust- ‘drained out,’ from the verb exhaurire, from ex- ‘out’ + haurire ‘draw (water), drain.’

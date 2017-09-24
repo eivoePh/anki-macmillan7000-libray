@@ -10,20 +10,31 @@ A.  adverb
 B.  even though conjunction phrase 尽管 jǐnguǎn he rents his house even though he's so rich 他虽然很富有，却还是租房子住 
 C.  even so adverb phrase 虽然如此 suīrán rúcǐ I didn't understand the lecture completely, but it was interesting even so 我没有完全听懂讲座，但即便如此还是很有趣 
 D.  even then adverb phrase (at that time) 即使在那时 jíshǐ zài nà shí ; (all the same) 尽管如此 jǐnguǎn rúcǐ 
-even 
-▶adjective
-1 an even surface: flat, smooth, uniform, featureless; unbroken, undamaged; level, plane. ANTONYMS bumpy.
-2 an even temperature: uniform, constant, steady, stable, consistent, unvarying, unchanging, regular. ANTONYMS variable, irregular.
-3 they all have an even chance: equal, the same, identical, like, alike, similar, comparable, parallel. ANTONYMS unequal.
-4 the score was even: tied, drawn, level, all square, balanced; neck and neck; informal even-steven. ANTONYMS unequal.
-5 an even disposition: even-tempered, balanced, stable, equable, placid, calm, composed, poised, cool, relaxed, easy, imperturbable, unexcitable, unruffled, untroubled; informal together, laid-back, unflappable. ANTONYMS excitable, moody.
-▶verb
-1 the canal bottom was evened out : flatten, level (off/out), smooth (off/out), plane; make uniform, make regular.
-2 even up the portions: equalize, make equal, balance, square; standardize, regularize, homogenize.
-▶adverb
-1 it got even colder: still, yet, more, all the more.
-2 even the best hitters missed the ball: surprisingly, unexpectedly, paradoxically.
-3 she is afraid, even ashamed, to ask for help: indeed, you could say, veritably, in truth, actually, or rather; dated nay.
-4 she could not even afford food: not so much as, hardly, barely, scarcely.
+even
+1 
+ˈēvən
+
+▶adjective (evener, evenest)
+1 flat and smooth: prepare the site, then lay an even bed of mortar. 
+• in the same plane or line; level: run a file along the saw to make all of the teeth even with each other.
+2 equal in number, amount, or value: an even gender balance among staff and students. 
+• equally balanced: it's not an even fight. 
+• having little variation in quality; regular: they traveled at an even and leisurely pace. 
+• (of a person's temper or disposition) equable; calm: a man of good humor and even temper.
+3 (of a number, such as 2, 6, or 108) divisible by two without a remainder. 
+• bearing an even number: headers can be placed on odd or even pages or both. 
+• exactly equal to a round number; not having any fractions: the Dow Jones ended at an even 10,000. 
+▶verb make or become even: [with object] : she cut the hair again to even up the ends 
+[no object] : thereafter prices evened out. 
+▶adverb used to emphasize something surprising or extreme: they have never even heard of the US 
+they wore fur hats, even in summer. 
+• used in comparisons for emphasis: he knows even less about it than I do. 
 PHRASES
-even as we laugh even as we empathize with his discomfort: while, whilst, as, just as, at the very time that, during the time that. even so I feel better, but the doubts persist even so: nevertheless, nonetheless, all the same, just the same, anyway, anyhow, still, yet, however, notwithstanding, despite that, in spite of that, for all that, be that as it may, in any event, at any rate; informal anyhoo, anyways. get even Waite thinks he's struck the final blow, but I'll get even: have one's revenge, avenge oneself, take vengeance, even the score, settle the score, hit back, give as good as one gets, pay someone back, repay someone, reciprocate, retaliate, take reprisals, exact retribution; give someone their just deserts; informal give someone a taste of their own medicine, settle someone's hash; literary be revenged.
+even as at the very same time as: even as he spoke, their baggage was being unloaded. an even break informal a fair chance: suckers never get an even break. even if despite the possibility that; no matter whether: always try everything even if it turns out to be a dud. 
+• despite the fact that: he is a great president, even if he has many enemies. even now (or then)
+1 now (or then) as well as before: even now, after all these years, it upsets me.
+2 in spite of what has (or had) happened: even then he never raised his voice to me.
+3 at this (or that) very moment: very likely you are even now picking up the telephone to call.even so in spite of that; nevertheless: not the most exciting of places, but even so I was having a good time. even though despite the fact that: even though he was bigger, he never looked down on me. get (or be) even informal inflict trouble or harm on someone similar to that which they have inflicted on oneself: I'll get even with you for this. of even date Law or formal of the same date. on an even keel (of a ship or aircraft) having the same draft forward and aft. 
+• (of a person or situation) functioning normally after a period of difficulty: getting her life back on to an even keel after their breakup had been difficult.DERIVATIVES evenness 
+ˈēv(ə)nnəs 
+nounORIGIN Old English efen (adjective), efne (adverb), of Germanic origin; related to Dutch even, effen and German eben .

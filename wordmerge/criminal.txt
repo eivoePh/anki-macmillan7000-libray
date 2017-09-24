@@ -6,7 +6,10 @@ B.  adjective
 ① (relating to crime) 犯罪的 fànzuì de ; (concerning criminal law) 刑事的 xíngshì de the criminal elements in society 社会上的少数犯罪分子 
 ② figurative 可耻的 kěchǐ de it would be criminal to miss this chance 如果错过这次机会，就太不应该了 
 criminal 
-▶noun a convicted criminal: lawbreaker, offender, villain, delinquent, felon, convict, malefactor, wrongdoer, culprit, miscreant; thief, burglar, robber, armed robber, gunman, gangster, terrorist; informal crook, con, jailbird, hood, yardbird, perp; Law malfeasant.
-▶adjective
-1 criminal conduct: unlawful, illegal, illicit, lawless, felonious, delinquent, fraudulent, actionable, culpable; villainous, nefarious, corrupt, wrong, bad, evil, wicked, iniquitous; informal crooked; Law malfeasant. ANTONYMS lawful.
-2 informal a criminal waste of taxpayers' money: deplorable, shameful, reprehensible, disgraceful, inexcusable, unforgivable, unconscionable, unpardonable, outrageous, monstrous, shocking, scandalous, wicked. ANTONYMS commendable.
+ˈkrim(ə)n(ə)l
+
+▶noun a person who has committed a crime: these men are dangerous criminals. 
+▶adjective relating to crime: they are charged with conspiracy to commit criminal damage 
+a criminal offense. 
+• Law relating to crime as opposed to civil matters: a criminal court. 
+• informal (of an action or situation) deplorable and shocking: he may never fulfill his potential, and that would be a criminal waste. ORIGIN late Middle English (as an adjective): from late Latin criminalis, from Latin crimen, crimin- (see crime) .

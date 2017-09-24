@@ -10,7 +10,18 @@ C.  noun
 ① (gesture) 夸张动作 kuāzhāng dòngzuò with a flourish, she ushered them inside 她做了个夸张动作领他们进去 
 ② (curve) (in scrollwork) 流畅的曲线 liúchàng de qūxiàn (in handwriting) 花饰 huāshì to sign [something] with a flourish 用花体在某物上签名 
 flourish 
+ˈfləriSH
+
 ▶verb
-1 ferns flourish in the shade: grow, thrive, prosper, do well, burgeon, increase, multiply, proliferate; spring up, shoot up, bloom, blossom, bear fruit, burst forth, run riot. ANTONYMS die, wither.
-2 the arts flourished: thrive, prosper, bloom, be in good health, be vigorous, be in its heyday; progress, make progress, advance, make headway, develop, improve; evolve, make strides, move forward (in leaps and bounds), expand; informal be in the pink, go places, go great guns, get somewhere. ANTONYMS decline.
-3 he flourished the sword at them: brandish, wave, shake, wield; swing, twirl, swish; display, exhibit, flaunt, show off.
+1 [no object] (of a person, animal, or other living organism) grow or develop in a healthy or vigorous way, especially as the result of a particularly favorable environment: wild plants flourish on the banks of the lake. 
+• develop rapidly and successfully: the organization has continued to flourish. 
+• [with adverbial] (of a person) be working or at the height of one's career during a specified period: the caricaturist and wit who flourished in the early years of this century.
+2 [with object] (of a person) wave (something) around to attract the attention of others: “Happy New Year!” he yelled, flourishing a bottle of whiskey. 
+▶noun
+1 a bold or extravagant gesture or action, made especially to attract the attention of others: with a flourish, she ushered them inside. 
+• an instance of suddenly performing or developing in an impressively successful way: the Bulldogs produced a late second-half flourish. 
+• an elaborate rhetorical or literary expression. 
+• an ornamental flowing curve in handwriting or scrollwork: spiky gothic letters with an emphatic flourish beneath them.
+2 Music a fanfare played by brass instruments: a flourish of trumpets. 
+• an ornate musical passage. 
+• an improvised addition played especially at the beginning or end of a composition. DERIVATIVES flourisher nounORIGIN Middle English: from Old French floriss-, lengthened stem of florir, based on Latin florere, from flos, flor- ‘a flower.’ The noun senses ‘ornamental curve’ and ‘florid expression’ come from an obsolete sense of the verb, ‘adorn’ (originally with flowers).

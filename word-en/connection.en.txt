@@ -1,7 +1,20 @@
 connection 
+kəˈnekSH(ə)n 
+(British also connexion) 
 ▶noun
-1 the connection between commerce and art: link, relationship, relation, interconnection, interdependence, association; bond, tie, tie-in, correspondence, parallel, analogy.
-2 a poor connection in the plug: attachment, joint, fastening, coupling.
-3 he has the right connections: contact, friend, acquaintance, ally, colleague, associate; relation, relative, kin.
+1 a relationship in which a person, thing, or idea is linked or associated with something else: the connections between social attitudes and productivity 
+sufferers deny that their problems have any connection with drugs. 
+• the action of linking one thing with another: connection to the Internet. 
+• the placing of parts of an electric circuit in contact so that a current may flow. 
+• a link between pipes or electrical components: it is important to ensure that all connections between the wires are properly made. 
+• a link between two telephones: she replaced the receiver before the connection was made. 
+• an arrangement or opportunity for catching a connecting train, bus, aircraft, etc.: ferry connections are sporadic in the off season. 
+• a connecting train, bus, etc.: we had to wait for our connection to Frankfurt. 
+• (connections) people with whom one has social or professional contact or to whom one is related, especially those with influence and able to offer one help: he had connections with the music industry.
+2 informal, chiefly North American a supplier of narcotics: she introduced Jean to a number of her male drug connections. 
+• a narcotics sale or purchase.
+3 chiefly historical an association of Methodist churches. 
 PHRASES
-in connection with a man is being questioned in connection with the murder: regarding, concerning, with reference to, with regard to, with respect to, respecting, relating to, in relation to, on, connected with, on the subject of, in the matter of, apropos, re.
+in connection with with reference to; concerning: detectives are questioning two men in connection with alleged criminal damage. in this (or that) connection with reference to this (or that): of value in this connection was the work done by the state police.DERIVATIVES connectional 
+-SHənl 
+adjectiveORIGIN late Middle English: from Latin connexio(n-), from connectere (see connect). The spelling -ct (18th century) is from connect, on the pattern of pairs such as collect, collection.

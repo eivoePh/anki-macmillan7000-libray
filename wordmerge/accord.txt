@@ -7,11 +7,15 @@ A.  noun
 B.  transitive verb 给予 jǐyǔ ‹favour›these facts weren't accorded much space or importance in the report 报告没有给这些事实以足够的篇幅和重视 
 C.  intransitive verb to accord with [something]; 与某事物相符 yǔ mǒu shìwù xiāngfú I'm glad your plans accord with ours 很高兴，你们的计划与我们的一致 his statement did not accord with the evidence 他的陈述与证据不符 
 accord 
+əˈkôrd
+
 ▶verb
-1 the national assembly accorded him more power: give, grant, present, award, vouchsafe; confer on, bestow on, vest in, invest with. ANTONYMS withhold.
-2 his views accorded with mine: correspond to, agree with, match up with, concur with, be consistent with, harmonize with, be in harmony with, be compatible with, chime in with, be in tune with, correlate with, dovetail with; conform to; suit, fit, parallel, match; informal square with, jibe with. ANTONYMS disagree, contrast.
-▶noun
-1 a peace accord: pact, treaty, agreement, settlement, deal, entente, concordat, protocol, contract, convention.
-2 the two sides failed to reach accord: agreement, consensus, unanimity, harmony, unison, unity; formal concord.
+1 [with object] give or grant someone (power, status, or recognition): the powers accorded to the head of state 
+[with two objects] : the young man had accorded her little notice.
+2 [no object] (accord with) (of a concept or fact) be harmonious or consistent with. 
+▶noun an official agreement or treaty. 
+• agreement or harmony: the government and the rebels are in accord on one point 
+function and form in harmonious accord. 
 PHRASES
-of one's own accord Nels offered to fix the gate of his own accord: voluntarily, of one's own free will, of one's own volition, by choice; willingly, freely, readily. with one accord the committee decided with one accord to approve the drainage plans: unanimously, in complete agreement, with one mind, without exception, as one, of one voice, to a man.
+in accord with according to. of one's own accord voluntarily or without outside intervention: he would not seek treatment of his own accord 
+the rash may go away of its own accord. with one accord in a united way.ORIGIN Old English, from Old French acorder ‘reconcile, be of one mind,’ from Latin ad- ‘to’ + cor, cord- ‘heart’; influenced by concord .

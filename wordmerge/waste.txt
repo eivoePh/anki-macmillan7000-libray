@@ -18,18 +18,30 @@ D.  adjective
 ① (unwanted) 废弃的 fèiqì de waste water/gases/plastics 污水/废气/废塑料 waste materials or matter 废物 fèiwù 
 ② (derelict) 未开垦的 wèi kāikěn de ‹ground›to lay [something] waste or lay waste (to) [something] formal 把某处夷为平地 PHRASAL VERB waste away intransitive verb 变瘦弱 biàn shòuruò 
 waste 
+wāst
+
 ▶verb
-1 he doesn't like to waste money: squander, misspend, misuse, fritter away, throw away, lavish, dissipate, throw around; informal blow, splurge. ANTONYMS conserve.
-2 these children are wasting away in the streets: grow weak, grow thin, shrink, decline, wilt, fade, flag, deteriorate, degenerate, languish. ANTONYMS flourish, thrive.
-3 the disease wasted his legs: emaciate, atrophy, wither, debilitate, shrivel, shrink, weaken, enfeeble.
-4 informal I saw them waste the guy. See murder (sense
-1 of the verb). 
-▶adjective
-1 waste material: unwanted, excess, superfluous, left over, scrap, useless, worthless; unusable, unprofitable.
-2 waste ground: uncultivated, barren, desert, arid, bare; desolate, void, uninhabited, unpopulated; wild.
+1 [with object] use or expend carelessly, extravagantly, or to no purpose: we can't afford to waste electricity 
+I don't use the car, so why should I waste precious money on it? 
+• (usually be wasted on) bestow or expend on an unappreciative recipient: her small talk was wasted on this guest. 
+• (usually be wasted) fail to make full or good use of: we're wasted in this job.
+2 [no object] (of a person or a part of the body) become progressively weaker and more emaciated: she was dying of AIDS, visibly wasting away 
+(as adjective wasting) : a wasting disease. 
+• [with object] archaic cause to do this: these symptoms wasted the patients very much.
+3 [with object] literary devastate or ruin (a place): he seized their cattle and wasted their country. 
+• North American informal kill or severely injure (someone): I saw them waste the guy I worked for.
+4 [no object] literary (of time) pass away; be spent: the years were wasting. 
+▶adjective [attributive]
+1 (of a material, substance, or byproduct) eliminated or discarded as no longer useful or required after the completion of a process: ensure that waste materials are disposed of responsibly 
+plants produce oxygen as a waste product.
+2 (of an area of land, typically in a city or town) not used, cultivated, or built on: a patch of waste ground. 
 ▶noun
-1 a waste of money: misuse, misapplication, misemployment, abuse; extravagance, wastefulness, lavishness, overconsumption.
-2 household waste: garbage, rubbish, trash, refuse, litter, debris, flotsam and jetsam, dross, junk, detritus, scrap; dregs, scraps; sewage, effluent.
-3 (usually wastes) the frozen wastes of the Arctic: desert, wasteland, wilderness, wilds, emptiness.
+1 an act or instance of using or expending something carelessly, extravagantly, or to no purpose: it's a waste of time trying to argue with him 
+they had learned to avoid waste. 
+• archaic the gradual loss or diminution of something: he was pale and weak from waste of blood.
+2 material that is not wanted; the unusable remains or byproducts of something: bodily waste 
+(wastes) : hazardous industrial wastes.
+3 (usually wastes) a large area of barren, typically uninhabited land: the icy wastes of the Antarctic.
+4 Law damage to an estate caused by an act or by neglect, especially by a life-tenant. 
 PHRASES
-lay waste See lay1. QUOTE Don't waste your time trying to get into my head. There's nothing there.William Shatner as Denny Crane on the TV series Boston Legal (2004–08)
+go to waste be unused or expended to no purpose. lay waste to (or lay something (to) waste) completely destroy: a land laid waste by war.waste one's breath see breath. waste not, want not proverb if you use a commodity or resource carefully and without extravagance, you will never be in need. waste words see word. ORIGIN Middle English: from Old Northern French wast(e) (noun), waster (verb), based on Latin vastus ‘unoccupied, uncultivated’; compare with vast .

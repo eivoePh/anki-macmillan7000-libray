@@ -13,7 +13,21 @@ noun
 ⑨ University (part of course) 教学单元 jiàoxué dānyuán students must take three core units 学生必须选修3个核心单元 
 ⑩ especially AmE (apartment) 套 tào two-bedroomed units 两居室 
 unit 
+ˈyo͞onət
+
 ▶noun
-1 the family is the fundamental unit of society: component, element, building block, constituent; subdivision.
-2 a unit of currency: quantity, measure, denomination.
-3 a guerrilla unit: detachment, contingent, division, company, squadron, corps, regiment, brigade, platoon, battalion; cell, faction.
+1 an individual thing or person regarded as single and complete but which can also form an individual component of a larger or more complex whole: the family unit 
+large areas of land made up of smaller units 
+the sentence as a unit of grammar. 
+• a device that has a specified function, especially one forming part of a complex mechanism: the gearbox and transmission unit. 
+• a piece of furniture or equipment for fitting with others like it or made of complementary parts: a sink unit. 
+• a self-contained section of accommodations in a larger building or group of buildings: one- and two-bedroom units. 
+• a part of an institution such as a hospital having a special function: the intensive care unit. 
+• a subdivision of a larger military grouping: he returned to Germany with his unit. 
+• an amount of educational instruction, typically determined by the number of hours spent in class: students take three compulsory core units. 
+• an item manufactured: [as modifier] : unit cost. 
+• US a police car: he eased into his unit and flicked the siren on.
+2 a quantity chosen as a standard in terms of which other quantities may be expressed: a unit of measurement 
+fifty units of electricity.
+3 the number one. 
+• (units) the digit before the decimal point in decimal notation, representing an integer less than ten. ORIGIN late 16th century (as a mathematical term): from Latin unus, probably suggested by digit .

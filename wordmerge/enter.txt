@@ -22,13 +22,27 @@ B.  transitive verb
 ① formal (begin) 开始 kāishǐ ‹career, war›
 ② Law 正式占有 zhèngshì zhànyǒu ‹inheritance›
 enter 
+ˈen(t)ər
+
 ▶verb
-1 police entered the house from the side: go in/into, come in/into, get in/into, set foot in, cross the threshold of, gain access to, infiltrate, access. ANTONYMS leave.
-2 a bullet entered his chest: penetrate, pierce, puncture, perforate; literary transpierce. ANTONYMS leave.
-3 he entered politics in 1979: get involved in, join, throw oneself into, engage in, embark on, take up; participate in, take part in, play a part/role in, contribute to. ANTONYMS leave.
-4 the planning entered a new phase: reach, move into, get to, begin, start, commence. ANTONYMS finish.
-5 they entered the military at eighteen: join, become a member of, enroll in/for, enlist in, volunteer for, sign up for; take up. ANTONYMS leave.
-6 she entered a cooking competition: sign on/up for, put one's name down for, register for, enroll in/for, go in for; compete in, take part in, participate in.
-7 the cashier entered the details in a ledger: record, write, set down, put down, take down, note, jot down; put on record, minute, register, log. ANTONYMS erase.
-8 please enter your password: key (in), type (in).
-9 Law he entered a plea of guilty: submit, register, lodge, record, file, put forward, present. ANTONYMS withdraw.
+1 come or go into (a place): [with object] : she entered the kitchen 
+[no object] : the door opened and Karl entered 
+figurative : reading the Bible, we enter into an amazing new world of thoughts. 
+• [no object] used as a stage direction to indicate when a character comes on stage: enter Hamlet. 
+• [with object] penetrate (something): the bullet entered his stomach. 
+• [with object] (of a man) insert the penis into the vagina of (a woman). 
+• [with object] come or be introduced into: the thought never entered my head.
+2 [with object] begin to be involved in: in 1941 America entered the war. 
+• become a member of or start working in (an institution or profession): that autumn, he entered college. 
+• register as a competitor or participant in (a tournament, race, or examination). 
+• start or reach (a stage or period of time) in an activity or situation: the election campaign entered its final phase. 
+• [no object] (of a particular performer in an ensemble) start or resume playing or singing.
+3 write or key (information) in a book, computer, etc., so as to record it: children can enter the data into the computer. 
+• Law submit (a statement) in an official capacity, usually in a court of law: an attorney entered a plea of guilty on her behalf. 
+▶noun (also enter key) a key on a computer keyboard that is used to perform various functions, such as executing a command or selecting options on a menu. 
+PHRASES
+enter someone's head (or mind) [usually with negative] (of a thought or idea) occur to someone: such an idea never entered my head.PHRASAL VERBS enter into become involved in (an activity, situation, or matter): they have entered into a relationship. 
+• undertake to bind oneself by (an agreement or other commitment): the council entered into an agreement with a private firm. 
+• form part of or be a factor in: medical ethics also enter into the question. enter on/upon
+1 formal begin (an activity or job); start to pursue (a particular course in life): he entered upon a turbulent political career.
+2 Law (as a legal entitlement) go freely into property as or as if the owner.ORIGIN Middle English: from Old French entrer, from Latin intrare, from intra ‘within.’

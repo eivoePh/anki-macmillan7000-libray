@@ -1,3 +1,10 @@
 calorie 
-BrE ˈkaləri, AmE ˈkæl(ə)ri 
-noun 大卡 dàkǎ 
+ˈkal(ə)rē 
+(abbreviation cal.) 
+▶noun (plural calories) either of two units of heat energy. 
+• (also small calorie) (abbreviation cal) the energy needed to raise the temperature of
+1 gram of water through
+1 °C (now usually defined as 4.1868 joules). 
+• (also large calorie) (abbreviation Cal) the energy needed to raise the temperature of
+1 kilogram of water through
+1 °C, equal to one thousand small calories and often used to measure the energy value of foods. ORIGIN mid 19th century: from French, from Latin calor ‘heat’ + French suffix -ie (see -y3) .

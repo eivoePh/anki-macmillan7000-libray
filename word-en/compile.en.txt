@@ -1,2 +1,8 @@
 compile 
-▶verb he compiled a dossier of patients with tropical diseases: assemble, put together, make up, collate, compose, organize, arrange; gather, collect.
+kəmˈpīl
+
+▶verb [with object]
+1 produce (something, especially a list, report, or book) by assembling information collected from other sources: the local authority must compile a list of taxpayers. 
+• collect (information) in order to produce something: the figures were compiled from a survey of 2,000 schoolchildren. 
+• accumulate (a specified score): the 49ers have compiled a league-leading 14–2 record.
+2 Computing (of a computer) convert (a program) into a machine-code or lower-level form in which the program can be executed. ORIGIN Middle English: from Old French compiler or its apparent source, Latin compilare ‘plunder or plagiarize.’

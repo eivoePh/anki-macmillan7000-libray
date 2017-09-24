@@ -1,4 +1,7 @@
 anxiety 
-▶noun
-1 his anxiety grew: worry, concern, apprehension, apprehensiveness, uneasiness, unease, fearfulness, fear, disquiet, disquietude, inquietude, perturbation, agitation, angst, misgiving, nervousness, nerves, tension, tenseness; informal heebie-jeebies, butterflies (in one's stomach), jitteriness, the jitters, twitchiness. ANTONYMS calmness, serenity.
-2 an anxiety to please: eagerness, keenness, desire.
+aNGˈzīədē
+
+▶noun (plural anxieties) a feeling of worry, nervousness, or unease, typically about an imminent event or something with an uncertain outcome: he felt a surge of anxiety 
+anxieties about the moral decline of today's youth. 
+• [with infinitive] desire to do something, typically accompanied by unease: the housekeeper's eager anxiety to please. 
+• Psychiatry a nervous disorder characterized by a state of excessive uneasiness and apprehension, typically with compulsive behavior or panic attacks. ORIGIN early 16th century: from French anxiété or Latin anxietas, from anxius (see anxious) .

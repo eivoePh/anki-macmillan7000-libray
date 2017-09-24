@@ -4,6 +4,12 @@ intransitive verb
 ① to consist of [something] (be made up of) 由某事物组成 yóu mǒu shìwù zǔchéng the committee consists of five members 委员会由5名成员组成 
 ② to consist in [something] (to be essentially) 存在于某事物 cúnzài yú mǒu shìwù the beauty of the city consists in its magnificent buildings 这个城市的美在于它宏伟的建筑 
 consist 
-▶verb
-1 the exhibition consists of 180 drawings: be composed of, be made up of, be formed of; comprise, contain, include, incorporate.
-2 style consists in the choices that writers make: be inherent in, lie in, reside in, be present in, be contained in; be expressed by.
+▶verb 
+kənˈsist 
+[no object]
+1 (consist of) be composed or made up of: the exhibition consists of 180 drawings. 
+• (consist in) have as an essential feature: his duties consist in taking the condition of the barometer.
+2 (consist with) archaic be consistent with: the information perfectly consists with our friend's account. 
+▶noun 
+kənˈsist 
+a set of railroad vehicles forming a complete train. ORIGIN late Middle English (in the sense ‘be located or inherent in’): from Latin consistere ‘stand firm or still, exist,’ from con- ‘together’ + sistere ‘stand (still).’

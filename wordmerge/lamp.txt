@@ -1,5 +1,10 @@
 lamp 
 BrE lamp, AmE læmp 
 noun 灯 dēng to light a lamp 点灯 a street/table/sun lamp 路灯/台灯/太阳灯 
-lamp 
-▶noun we had plenty of illumination from our lamps: light, lantern; floor lamp, table lamp, bedside lamp, banker's lamp, gooseneck lamp; chandelier, gasolier; candelabra; trademark Tiffany lamp; floodlight, spotlight, strobe light, arc lamp; fluorescent lamp, track lights; lava lamp; sunlamp; flashlight; streetlight, streetlamp; Chinese lantern, Japanese lantern; storm lantern, hurricane lamp, oil lamp, kerosene lamp; trademark Coleman lamp.
+lamp
+1 
+lamp
+
+▶noun a device for giving light, either one consisting of an electric bulb together with its holder and shade or cover, or one burning gas or a liquid fuel and consisting of a wick or mantle and a glass shade: a table lamp. 
+• an electrical device producing ultraviolet, infrared, or other radiation, used for therapeutic purposes. 
+• literary a source of spiritual or intellectual inspiration. DERIVATIVES lamper noun. lampless adjectiveORIGIN Middle English: via Old French from late Latin lampada, from Latin lampas, lampad- ‘torch,’ from Greek.

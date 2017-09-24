@@ -16,21 +16,47 @@ D.  intransitive verb
 ① Botany 生根 shēnggēn 
 ② (search) 翻找 fānzhǎo he opened a drawer and rooted through it 他打开抽屉翻了个遍 
 ③ (turn up the ground) «animal» 用嘴拱土觅食 yòng zuǐ gǒng tǔ mì shí to root for [something]; 用嘴拱土寻找某物 PHRASAL VERBS root around, root about intransitive verb 搜寻 sōuxún to root around or about for [something] 四处搜寻某物 root for transitive verb[root for somebody/something] colloquial (cheer) 为…加油 wèi… jiāyóu good luck in the exams; we're all rooting for you! 祝你考试有好运，我们都为你加油鼓劲！ root out transitive verb[root out something], [rootsomething out] 根除 gēnchú ‹corruption, dissent, dissenter›root up transitive verb[root up something, root something up] 连根拔起 liángēn báqǐ ‹plant, bush›
-root 
+root
+1 
+ro͞ot
+
 ▶noun
-1 a plant's roots: rootstock, tuber, rootlet; Botany rhizome, radicle.
-2 the root of the problem: source, origin, germ, beginning(s), genesis; cause, reason, basis, foundation, bottom, seat; core, heart, nub, essence; informal ground zero.
-3 (roots) he rejected his roots: origins, beginnings, family, ancestors, predecessors, heritage; birthplace, homeland.
-▶verb
-1 has the shoot rooted? take root, grow roots, establish, strike, take.
-2 root the cuttings: plant, bed out, sow.
-3 he rooted around in the cupboard: rummage, hunt, search, rifle, delve, forage, dig, nose, poke.
+1 the part of a plant that attaches it to the ground or to a support, typically underground, conveying water and nourishment to the rest of the plant via numerous branches and fibers: cacti have deep and spreading roots 
+a tree root. 
+• the persistent underground part of a plant, especially when fleshy and enlarged and used as a vegetable, e.g., a turnip or carrot. 
+• any plant grown for its edible root. 
+• the embedded part of a bodily organ or structure such as a hair, tooth, or nail: her hair was fairer at the roots. 
+• the part of a thing attaching it to a greater or more fundamental whole; the end or base: a little lever near the root of the barrel.
+2 the basic cause, source, or origin of something: love of money is the root of all evil 
+jealousy was at the root of it 
+[as modifier] : the root cause of the problem. 
+• the essential substance or nature of something: matters at the heart and root of existence. 
+• (roots) family, ethnic, or cultural origins, especially as the reasons for one's long-standing emotional attachment to a place or community: it's always nice to return to my roots. 
+• (as adjective roots) denoting or relating to something, especially music, from a particular ethnic or cultural origin, especially a non-Western one: roots music. 
+• (in biblical use) a scion; a descendant: the root of David. 
+• Linguistics a morpheme, not necessarily surviving as a word in itself, from which words have been made by the addition of prefixes or suffixes or by other modification: many European words stem from this linguistic root 
+[as modifier] : the root form of the word. 
+• Music the fundamental note of a chord.
+3 Mathematics a number or quantity that when multiplied by itself, typically a specified number of times, gives a specified number or quantity: find the cube root of the result. 
+• short for square root. 
+• a value of an unknown quantity satisfying a given equation: the roots of the equation differ by an integer. 
+• [often as modifier] Computing a user account with full and unrestricted access to a system: make sure that these files can only be accessed by the root user 
+I need to log in as root on my system to resolve an issue. 
+▶verb [with object]
+1 cause (a plant or cutting) to grow roots: root your own cuttings from stock plants. 
+• [no object] (of a plant or cutting) establish roots: large trees had rooted in the canal bank.
+2 (usually be rooted) establish deeply and firmly: vegetarianism is rooted in Indian culture. 
+• (be rooted in) have as an origin or cause: the Latin dubitare is rooted in an Indo-European word. 
+• (often as adjective rooted) cause (someone) to stand immobile through fear or amazement: she found herself rooted to the spot in disbelief. 
+• Computing gain access to the root account of (a smartphone or computer): we explained how to manually root almost any Android device. 
 PHRASES
-put down roots they married and put down roots in Yemen: settle, establish oneself, make one's home, set up home. root and branch
-1 the company's accounting department should be eradicated, root and branch: completely, entirely, wholly, totally, thoroughly.
-2 a root-and-branch reform: complete, total, thorough, radical. root for informal Mollie roots for the Broncos: cheer, cheer on, applaud, support, encourage. root out
-1 the hedge was rooted out: uproot, deracinate, pull up, grub out.
-2 root out corruption: eradicate, eliminate, weed out, destroy, wipe out, stamp out, extirpate, abolish, end, put a stop to.
-3 he rooted out a dark secret: unearth, dig up, bring to light, uncover, discover, dredge up, ferret out, expose. take root
-1 leave the plants to take root: germinate, sprout, establish, strike, take.
-2 Christianity took root in Persia: become established, take hold; develop, thrive, flourish.
+at root basically; fundamentally: it is a moral question at root. put down roots (of a plant) begin to draw nourishment from the soil through its roots. 
+• (of a person) begin to have a settled life in a particular place. root and branch used to express the thorough or radical nature of a process or operation: root and branch reform of personal taxation. strike at the root (or roots) of affect in a vital area with potentially destructive results: the proposals struck at the roots of community life. take root (of a plant) begin to grow and draw nourishment from the soil through its roots. 
+• become fixed or established: the idea had taken root in my mind.PHRASAL VERBS root something out (also root something up) dig or pull up a plant by the roots. 
+• find and get rid of someone or something regarded as pernicious or dangerous: a campaign to root out corruption.DERIVATIVES rootedness 
+ˈro͞odədnəs 
+noun. rootlet 
+ˈro͞otlət 
+noun. rootlike 
+-ˌlīk 
+adjective. rooty adjectiveORIGIN late Old English rōt, from Old Norse rót; related to Latin radix, also to wort .

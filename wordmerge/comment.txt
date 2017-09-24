@@ -15,10 +15,18 @@ C.  intransitive verb
 ① (make remark) 评论 pínglùn to comment on [something]/[somebody] 对某事物/某人发表意见 
 ② Literature «scholar, text» 作评注 zuò píngzhù to comment on [something]; 对某事物作评注 
 comment 
-▶noun
-1 their comments on her appearance: remark, observation, statement, utterance; pronouncement, judgment, reflection, opinion, view; criticism.
-2 a great deal of comment: discussion, debate; interest.
-3 a comment in the margin: note, annotation, footnote, gloss, commentary, explanation.
-▶verb
-1 they commented on the food: remark on, speak about, talk about, discuss, mention.
-2 “It will soon be night,” he commented: remark, observe, reflect, say, state, declare, announce; interpose, interject.
+ˈkäment
+
+▶noun a verbal or written remark expressing an opinion or reaction: you asked for comments on the new proposals. 
+• discussion, especially of a critical nature, of an issue or event: the plans were not sent to the council for comment. 
+• an indirect expression of the views of the creator of an artistic work: their second single is a comment on the commercial nature of raves. 
+• an explanatory note in a book or other written text. 
+• archaic a written explanation or commentary. 
+• Computing a piece of specially tagged text placed within a program to help other users to understand it, which the computer ignores when running the program. 
+▶verb [with object] express (an opinion or reaction): the review commented that the book was agreeably written 
+[no object] : the company would not comment on the venture 
+“He's an independent soul,” she commented. 
+• [with object] Computing place a piece of specially tagged explanatory text within (a program) to assist other users. 
+• Computing turn (part of a program) into a comment so that the computer ignores it when running the program: you could try commenting out that line. 
+PHRASES
+no comment used in refusing to answer a question, especially in a sensitive situation.ORIGIN late Middle English (in the senses ‘expository treatise’ and ‘explanatory note’): from Latin commentum ‘contrivance’ (in late Latin also ‘interpretation’), neuter past participle of comminisci ‘devise.’

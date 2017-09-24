@@ -1,7 +1,28 @@
 code 
+kōd
+
 ▶noun
-1 a secret code: cipher, key; hieroglyphics; cryptogram.
-2 a strict social code: morality, convention, etiquette, protocol, value system.
-3 the penal code: law(s), rules, regulations; constitution, system.
-WORD LINKS
-code cryptography the art of writing or solving codes cryptology the study of codesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 a system of words, letters, figures, or other symbols substituted for other words, letters, etc., especially for the purposes of secrecy: the Americans cracked their diplomatic code 
+sending messages in code. 
+• a system of signals, such as sounds, light flashes, or flags, used to send messages: Morse code. 
+• a series of letters, numbers, or symbols assigned to something for the purposes of classification or identification: the genetic code 
+calls with either code will work in the 201 area.
+2 Computing program instructions: hundreds of lines of code 
+assembly code.
+3 a systematic collection of laws or regulations: the criminal code. 
+• a set of conventions governing behavior or activity in a particular sphere: a dress code. 
+• a set of rules and standards adhered to by a society, class, or individual: a stern code of honor. 
+▶verb [with object]
+1 convert (the words of a message) into a particular code in order to convey a secret meaning: only Mitch knew how to read the message—even the name was coded. 
+• express the meaning of (a statement or communication) in an indirect or euphemistic way: (as adjective coded) : a national campaign against “playing by ear,” a coded phrase that meant jazz. 
+• assign a code to (something) for purposes of classification, analysis, or identification: she coded the samples and sent them down for dissection.
+2 write code for (a computer program): most developers code C + + like C 
+[no object] : I no longer actively code in PH
+P. 
+3 [no object] (code for) Biochemistry specify the genetic sequence for (an amino acid or protein): genes that code for human growth hormone. 
+• be the genetic determiner of (a characteristic): one pair of homologous chromosomes that codes for eye color. 
+PHRASES
+bring something up to code North American renovate an old building or update its features in line with the latest building regulations.DERIVATIVES coder 
+ˈkōdər 
+nounORIGIN Middle English: via Old French from Latin codex, codic- (see codex). The term originally denoted a systematic collection of statutes made by one of the later Roman emperors, particularly that of Justinian; compare with sense
+3 of the noun (mid 18th century), the earliest modern sense.

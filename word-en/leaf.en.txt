@@ -1,9 +1,29 @@
 leaf 
-▶noun
-1 sycamore leaves: leaflet, frond, blade, needle; Botany cotyledon, blade, bract.
-2 a leaf in a book: page, sheet, folio.
-▶verb he leafed through the documents: flip through, thumb through, flick through, skim through/over, browse through, glance through/over, riffle through, rifle through; scan, run one's eye over, peruse.
+lēf
+
+▶noun (plural leaves 
+lēvz
+)
+1 a flattened structure of a higher plant, typically green and bladelike, that is attached to a stem directly or via a stalk. Leaves are the main organs of photosynthesis and transpiration. leaves Compare with compound leaf, leaflet. 
+• any of a number of plant structures similar to leaves, e.g., bracts, sepals, and petals. 
+• foliage regarded collectively. 
+• the state of having leaves: the trees are still in leaf. 
+• the leaves of tobacco or tea: [as modifier] : leaf tea.
+2 a thing that resembles a leaf in being flat and thin, typically something that is one of two or more similar items forming a set or stack. 
+• a single thickness of paper, especially in a book with each side forming a page. 
+• [with modifier] gold, silver, or other specified metal in the form of very thin foil. 
+• the hinged part or flap of a door, shutter, or table. 
+• an extra section inserted to extend a table. 
+• the inner or outer part of a cavity wall or double-glazed window. 
+• any of the stacked metal strips that form a leaf spring. 
+▶verb [no object]
+1 (of a plant, especially a deciduous one in spring) put out new leaves.
+2 (leaf through) turn over (the pages of a book or the papers in a pile), reading them quickly or casually: he leafed through the stack of notes. 
 PHRASES
-turn over a new leaf how many released prisoners actually turn over a new leaf? reform, improve, mend one's ways, make a fresh start, change for the better; informal go straight. 
-WORD LINKS
-leaf foliar relating to leavesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+shake (or tremble) like a leaf (of a person) tremble greatly, especially from fear. take a leaf out of someone's book see book. turn over a new leaf see turn. DERIVATIVES leafage 
+ˈlēfij 
+noun. leafless 
+ˈlēfləs 
+adjective. leaflike 
+-līk 
+adjectiveORIGIN Old English lēaf, of Germanic origin; related to Dutch loof and German Laub .

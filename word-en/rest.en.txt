@@ -1,12 +1,38 @@
 rest
 1 
-▶verb
-1 he needed to rest: relax, take a rest, ease up/off, let up, slow down, have/take a break, unbend, unwind, recharge one's batteries, be at leisure, take it easy, put one's feet up; lie down, go to bed, have/take a nap, catnap, doze, sleep; informal take five, have/take a breather, catch forty winks, get some shut-eye, take a load off, chill (out), chillax, catch some Zs.
-2 his hands rested on the rail: lie, be laid, repose, be placed, be positioned, be supported by.
-3 she rested her basket on the ground: support, prop (up), lean, lay, set, stand, position, place, put.
-4 the film script rests on an improbable premise: be based on, depend on, be dependent on, rely on, hinge on, turn on, be contingent on, revolve around, center on.
+rest
+
+▶verb [no object]
+1 cease work or movement in order to relax, refresh oneself, or recover strength: he needed to rest after the feverish activity 
+I'm going to rest up before traveling to England. 
+• [with object] allow to be inactive in order to regain strength, health, or energy: her friend read to her while she rested her eyes. 
+• [with object] leave (a player) out of a team temporarily: both men were rested for the final game. 
+• (of a dead person or body) lie buried: the king's body rested in his tomb. 
+• (of a problem or subject) be left without further investigation, discussion, or treatment: the council has urged the planning committee not to allow the matter to rest. 
+• [with object] allow (land) to lie fallow: the field should be grazed or rested. 
+• Law, North American conclude the case for the prosecution or the defense in a law case: the prosecution rests. See also rest one's case below.
+2 be placed or supported so as to stay in a specified position: her elbow was resting on the arm of the sofa. 
+• [with object] place (something) so that it is supported in a specified position: he rested a hand on her shoulder. 
+• (rest on/upon) (of a look) alight or be steadily directed on: his eyes rested briefly on the boy. 
+• (rest on/upon) be based on or grounded in; depend on: the country's security rested on its alliances. 
+• [with object] (rest something in/on) place hope, trust, or confidence on or in: she rested her hopes in her attorney. 
+• belong or be located at a specified place or with a specified person: ultimate control rested with the founders. 
 ▶noun
-1 get some rest: repose, relaxation, leisure, respite, time off, breathing space, downtime; sleep, nap, power nap, doze; informal shut-eye, snooze, lie-down, forty winks.
-2 a short rest from work: break, vacation, breathing space, interval, interlude, intermission, time off/out, holiday; informal breather.
-3 she took the poker from its rest: stand, base, holder, support, rack, frame, shelf.
-4 passengers queried why the train had come to rest several miles before the next station: a standstill, a halt, a stop.
+1 an instance or period of relaxing or ceasing to engage in strenuous or stressful activity: you look as though you need a rest 
+a couple of days of complete rest. 
+• a motionless state: the car accelerates rapidly from rest. 
+• Music an interval of silence of a specified duration. 
+• Music the sign denoting a rest. 
+• a pause in speech or verse.
+2 [in combination] an object that is used to support something: a chin-rest 
+a shoulder-rest. 
+• a support or hook for a telephone receiver when not in use. 
+• a support for a cue in billiards or pool. 
+PHRASES
+at rest not moving or exerting oneself. 
+• not agitated or troubled; tranquil: he felt at rest, the tension gone 
+if you think something's wrong, consult the doctor and put your mind at rest. 
+• dead and buried. come to rest stop moving; settle: the elevator came to rest at the first floor. give it a rest informal used to ask someone to stop doing something or talking about something that the speaker finds irritating or tedious. lay someone to rest bury someone's body in a grave: they couldn't lay him to rest as his body was never discovered. lay (or put) something to rest 
+• stop doubt, uncertainty, or anxiety by resolving or explaining an issue: suspicion will be laid to rest by fact rather than hearsay 
+I hope that my contribution will help put to rest some of these misconceptions. no rest for the weary see weary. rest one's case conclude one's presentation of evidence and arguments in a lawsuit. 
+• humorous said to show that one believes one has presented sufficient evidence for one's views. rest on one's laurels see laurel. rest (or God rest) his (or her) soul used to express a wish that God should grant someone's soul peace. rest on one's oars see oar. ORIGIN Old English ræst, rest (noun), ræstan, restan (verb), of Germanic origin, from a root meaning ‘league’ or ‘mile’ (referring to a distance after which one rests).

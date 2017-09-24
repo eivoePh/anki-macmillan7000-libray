@@ -1,8 +1,10 @@
 shall 
-BrE ʃal, ʃ(ə)l, AmE ʃæl, ʃəl 
-modal auxiliary(short form colloquial 'll; negative shall not or colloquial shan't) 
-① (expressing future) 将 jiāng I shall see you tomorrow 我明天见你 we shall not have a reply before Friday 我们在星期五之前不会得到答复 I shall have retired by then 到那时我已经退休了 
-② (in offers or suggestions, asking for advice) [在疑问句中表示提议或征求意见]shall I pick you up from the station? 要我去车站接你吗？ shall we go to the cinema tonight? 我们今晚去看电影好吗？ I’ll drive, shall I? 我来开车，好吗？ let's buy some peaches, shall we? 咱们买点桃子，好不好？ what shall we do this weekend? 我们这个周末干什么呢？ the meat was, how shall I put it?, a little overdone 这肉嘛，怎么说呢，做得稍微老了点儿 
-③ formal (in commands) 应该 yīnggāi you shall do as I say 你应该照我说的做 candidates shall remain in their seats until all the papers have been collected 考生应等所有试卷收毕方可离座 
-④ formal (expressing determination) 一定 yīdìng you shall not frighten me out of this 这事你吓不倒我 he is determined that you shall succeed 他决心使你成功 
-⑤ Law formal 必须 bìxū the sum shall be paid on signature of the contract 合同一经签署即须支付此款项 
+SHal SHəl
+
+▶modal verb (third singular present shall)
+1 (in the first person) expressing the future tense: this time next week I shall be in Scotland.
+2 expressing a strong assertion or intention: they shall succeed 
+you shall not frighten me out of this.
+3 expressing an instruction or command: you shall not steal.
+4 used in questions indicating offers or suggestions: shall I send you the book? 
+shall we go? ORIGIN Old English sceal, of Germanic origin; related to Dutch zal and German soll, from a base meaning ‘owe.’ usage: There is considerable confusion about when to use shall and will. The traditional rule in standard English is that shall is used with first person pronouns (I and we) to form the future tense, while will is used with second and third persons (you, he, she, it, they): I shall be late; she will not be there. To express a strong determination to do something, these positions are reversed, with will being used with the first person and shall with the second and third persons: I will not tolerate this; you shall go to school. In practice, however, shall and will are today used more or less interchangeably in statements (although not in questions). Given that the forms are frequently contracted (we'll, she'll, etc.), there is often no need to make a choice between shall and will, another factor no doubt instrumental in weakening the distinction. In modern English, the interchangeable use of shall and will is an acceptable part of standard US and British English.

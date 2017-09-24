@@ -10,8 +10,14 @@ B.  transitive verb
 ① (hire) 包租 bāozū a chartered plane 包机 bāojī 
 ② (grant charter to) 给…颁发执照 gěi… bānfā zhízhào 
 charter 
+ˈCHärdər
+
 ▶noun
-1 a royal charter: authority, authorization, sanction, dispensation, consent, permission; permit, license, warrant, franchise.
-2 the UN Charter: constitution, code, canon; fundamental principles, rules, laws.
-3 the charter of a yacht: hire, hiring, lease, leasing, rent, rental, renting; booking, reservation, reserving.
-▶verb they chartered a bus: hire, lease, rent; book, reserve.
+1 a written grant by a country's legislative or sovereign power, by which an institution such as a company, college, or city is created and its rights and privileges defined. 
+• a written constitution or description of an organization's functions.
+2 the reservation of an aircraft, boat, or bus for private use: a plane on charter to a multinational company. 
+• an aircraft, boat, or bus that is reserved for private use. 
+• a trip made by an aircraft, boat, or bus under charter: he liked to see the boat sparkling clean before each charter. 
+▶verb [with object]
+1 grant a charter to (a city, college, or other institution): the company was chartered in 1553.
+2 reserve (an aircraft, boat, or bus) for private use: he chartered a plane to take him to Paris. ORIGIN Middle English: from Old French chartre, from Latin chartula, diminutive of charta ‘paper’ (see card1) .

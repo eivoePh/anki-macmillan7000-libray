@@ -1,8 +1,27 @@
 recall 
-▶verb
-1 he recalled his student days: remember, recollect, call to mind; think back on/to, look back on, reminisce about. ANTONYMS forget.
-2 their exploits recall the days of chivalry: bring to mind, call to mind, put one in mind of, call up, conjure up, evoke.
-3 the ambassador was recalled: summon back, order back, call back. ANTONYMS prorogue.
-▶noun
-1 the recall of the ambassador: summoning back, ordering back, calling back.
-2 their recall of dreams: recollection, remembrance, memory.
+▶verb 
+rəˈkôl 
+[with object]
+1 bring (a fact, event, or situation) back into one's mind, especially so as to recount it to others; remember: I can still vaguely recall being taken to the hospital 
+[with direct speech] : “He was awfully fond of teasing people,” she recalled 
+[with clause] : he recalled how he felt at the time. 
+• cause one to remember or think of: the film's analysis of contemporary concerns recalls The Big Chill. 
+• (recall someone/something to) bring the memory or thought of someone or something to (a person or their mind): the smell of a black-currant bush has ever since recalled to me that evening. 
+• call up (stored computer data) for processing or display.
+2 officially order (someone) to return to a place: the Panamanian ambassador was recalled from Peru. 
+• select (a sports player) as a member of a team from which they have previously been dropped: the Fulham defender has been recalled to the Welsh squad for the World Cup. 
+• (of a manufacturer) request all the purchasers of (a certain product) to return it, as the result of the discovery of a fault. 
+• bring (someone) out of a state of inattention or reverie: her action recalled him to the present. 
+• archaic revoke or annul (an action or decision). 
+▶noun 
+ˈrēˌkôl rēˈkôl 
+
+1 an act or instance of officially recalling someone or something: a recall of Parliament. 
+• North American the removal of an elected government official from office by a petition followed by voting.
+2 the action or faculty of remembering something learned or experienced: he has amazing recall 
+people's understanding and subsequent recall of stories or events. 
+• the proportion of the number of relevant documents retrieved from a database in response to an inquiry. 
+PHRASES
+beyond recall in such a way that restoration is impossible: shopping developments have already blighted other parts of the city beyond recall.DERIVATIVES recallable 
+rəˈkôləb(ə)l 
+adjectiveORIGIN late 16th century (as a verb): from re- ‘again’ + call, suggested by Latin revocare or French rappeler ‘call back.’

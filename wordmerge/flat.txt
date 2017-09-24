@@ -38,21 +38,71 @@ C.  noun
 ⑥ Flat BrE Horse racing the Flat; 平地赛马 píngdì sàimǎ 
 ⑦ Music (note) 降半音 jiàng bànyīn (sign) 降半音符号 jiàng bànyīn fúhào 
 ⑧ usually plural Theatre 平面布景 píngmiàn bùjǐng 
-flat 
-▶adjective
-1 a flat surface: level, horizontal; smooth, even, uniform, regular, plane. ANTONYMS vertical, uneven.
-2 the sea was flat: calm, still, pacific, tranquil, glassy, undisturbed, without waves, like a millpond. ANTONYMS choppy.
-3 a flat wooden box: shallow, low-sided. ANTONYMS deep.
-4 flat sandals: low, low-heeled, without heels.
-5 the teacher's flat voice: monotonous, toneless, droning, boring, dull, tedious, uninvolving, uninteresting, unexciting, soporific; bland, dreary, colorless, featureless, emotionless, expressionless, lifeless, spiritless, lackluster, plain-vanilla. ANTONYMS exciting, emotional.
-6 he felt too flat to get out of bed: depressed, dejected, dispirited, despondent, downhearted, disheartened, low, low-spirited, down, unhappy, blue; without energy, enervated, sapped, weary, tired out, worn out, exhausted, drained; informal down in the dumps. ANTONYMS cheerful, energized.
-7 the market was flat: slow, inactive, sluggish, slack, quiet, depressed. ANTONYMS busy.
-8 a flat tire: deflated, punctured, burst. ANTONYMS inflated.
-9 a flat fee: fixed, set, regular, unchanging, unvarying, invariable.
-10 a flat denial: outright, direct, absolute, definite, positive, straight, plain, explicit; firm, resolute, adamant, assertive, emphatic, categorical, unconditional, unqualified, unequivocal.
+flat
+1 
+flat
+
+▶adjective (flatter 
+ˈflatə(r)
+, flattest 
+ˈflatist
+)
+1 smooth and even; without marked lumps or indentations: a flat wall 
+trim the surface of the cake to make it completely flat. 
+• (of land) without hills: thirty-five acres of flat countryside. 
+• (of an expanse of water) calm and without waves. 
+• not sloping: the flat roof of a garage. 
+• having a broad level surface but little height or depth; shallow: a flat rectangular box 
+a flat cap. 
+• (of the foot) having an arch that is lower than usual. 
+• (of shoes) without heels or with very low heels.
+2 lacking interest or emotion; dull and lifeless: “I'm sorry,” he said, in a flat voice 
+her drawings were flat and unimaginative. 
+• (of a person) without energy; dispirited: his sense of intoxication wore off until he felt flat and weary. 
+• (of a market, prices, etc.) showing little activity; sluggish: cash flow was flat at $214 million 
+flat sales in the drinks industry. 
+• (of a sparkling drink) having lost its effervescence: flat champagne. 
+• (of something kept inflated, especially a tire) having lost some or all of its air, typically because of a puncture: you've got a flat tire. 
+• (of a color) uniform: the dress was a deadly, flat shade of gray. 
+• (of a photographic print or negative) lacking contrast. 
+• US (of paint) without gloss; matte.
+3 [attributive] (of a fee, wage, or price) the same in all cases, not varying with changed conditions or in particular cases: a $30 flat fare. See also flat rate. 
+• (of a denial, contradiction, or refusal) completely definite and firm; absolute: his statement was a flat denial that he had misbehaved.
+4 (of musical sound) below true or normal pitch. 
+• [postpositive, in combination] (of a note) a semitone lower than a specified note: the double basses' opening low E-flat 
+you never have to change key from B-flat major. 
+• (of a key) having a flat or flats in the signature.
+5 (Flat) relating to flat racing: the Flat season. 
 ▶adverb
-1 she lay down flat on the floor: stretched out, outstretched, spread-eagle, sprawling, prone, supine, prostrate, recumbent.
-2 informal she turned me down flat: outright, absolutely, firmly, resolutely, adamantly, emphatically, insistently, categorically, unconditionally, unequivocally.
-▶noun (flats) they race their bikes across the flats: tidal flats, mud flats, tideland, intertidal area.
+1 in or to a horizontal position: he was lying flat on his back 
+she had been knocked flat by the blast. 
+• lying in close juxtaposition, especially against another surface: his black curly hair was blown flat across his skull. 
+• so as to become smooth and even: I hammered the metal flat.
+2 informal completely; absolutely: I'm turning you down flat 
+[as submodifier] : she was going to be flat broke in a couple of days. 
+• after a phrase expressing a period of time to emphasize how quickly something can be done or has been done: you can prepare a healthy meal in ten minutes flat.
+3 below the true or normal pitch of musical sound: it wasn't a question of singing flat, but of simply singing the wrong notes. 
+▶noun
+1 [in singular] the flat part of something: she placed the flat of her hand over her glass.
+2 a flat object, in particular: 
+• (often flats) an upright section of painted stage scenery mounted on a frame. 
+• informal, chiefly North American a flat tire. 
+• North American a shallow container in which seedlings are grown and sold. 
+• (often flats) a shoe with a very low heel or no heel. 
+• a railroad car with a flat floor and no sides or roof; a flatcar.
+3 (usually flats) an area of low level ground, especially near water: the Utah salt flats. See also mudflat.
+4 a musical note lowered a semitone below natural pitch. 
+• the sign ♭, indicating a flat. 
+▶verb (flats, flatting, flatted) [with object]
+1 (usually as adjective flatted) Music, North American lower (a note) by a semitone: “blue” harmony emphasizing the flatted third and seventh.
+2 archaic make flat; flatten: flat the loaves down. 
 PHRASES
-flat out I'd been working flat out: hard, as hard as possible, for all one's worth, to the limit, all out; at full speed, as fast as possible, at full tilt, full bore, full throttle, in high gear; informal like crazy, like mad, like the wind, firing on all cylinders, like a bat out of hell.
+fall flat fail completely to produce the intended or expected effect: his jokes fell flat. fall flat on one's face fall over forward. 
+• fail in an embarrassingly obvious way: the president could fall flat on his face if the economy doesn't start improving soon. (as) flat as a pancake see pancake. flat out
+1 as fast or as hard as possible: the whole team is working flat out to satisfy demand 
+(as adjective flat-out) : the album lacks the flat-out urgency of its predecessor.
+2 informal, chiefly North American without hesitation or reservation; unequivocally: in those early days I'd just flat out vote against foreign aid 
+(as adjective flat-out) : flat-out perjury.
+3 lying completely stretched out, especially asleep or exhausted: she was lying flat out on her pink bath towel. that's flat informal used to indicate that one has reached a decision and will not be persuaded to change one's mind: he won't go into a home and that's flat.DERIVATIVES flattish 
+ˈflatiSH 
+adjectiveORIGIN Middle English: from Old Norse flatr; related to plant, platy-, plaza .

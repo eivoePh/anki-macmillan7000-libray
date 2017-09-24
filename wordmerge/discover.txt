@@ -5,7 +5,16 @@ transitive verb
 ② (come upon) 发现 fāxiàn ‹person, place, thing›a talent waiting to be discovered 有待赏识的天才 
 ③ (try) 初次接触 chūcì jiēchù ‹activity, thing›to discover Thai food 初次品尝泰国菜 
 discover 
-▶verb
-1 firemen discovered a body in the debris: find, locate, come across/upon, stumble on, chance on, light on, bring to light, uncover, unearth, turn up; track down.
-2 eventually, I discovered the truth: find out, learn, realize, recognize, fathom, see, ascertain, work out, dig up/out, ferret out, root out; informal figure out, dope out.
-3 scientists discovered a new way of dating fossil crustaceans: hit on, come up with, invent, originate, devise, design, contrive, conceive of; pioneer, develop.
+dəˈskəvər
+
+▶verb [with object]
+1 find (something or someone) unexpectedly or in the course of a search: firemen discovered a body in the debris 
+she discovered her lover in the arms of another woman. 
+• become aware of (a fact or situation): the courage to discover the truth and possibly be disappointed 
+[with clause] : it was a relief to discover that he wasn't in. 
+• be the first to find or observe (a place, substance, or scientific phenomenon): Fleming discovered penicillin early in the twentieth century. 
+• perceive the attractions of (an activity or subject) for the first time: a teenager who has recently discovered fashion. 
+• be the first to recognize the potential of (an actor, singer, or musician): I discovered the band back in the mid 70s.
+2 archaic divulge (a secret): they contain some secrets which Time will discover. 
+• disclose the identity of (someone): she at last discovered herself to me. 
+• display (a quality or feeling): with what agility did these military men discover their skill in feats of war. ORIGIN Middle English (in the sense ‘make known’): from Old French descovrir, from late Latin discooperire, from Latin dis- (expressing reversal) + cooperire ‘cover completely’ (see cover) .

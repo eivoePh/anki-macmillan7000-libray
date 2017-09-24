@@ -1,4 +1,12 @@
 protocol 
+ˈprōdəˌkôl ˈprōdəˌkäl
+
 ▶noun
-1 a stickler for protocol: etiquette, conventions, formalities, customs, rules of conduct, procedure, ritual, accepted behavior, propriety, proprieties, one's Ps and Qs, decorum, good form, the done thing, the thing to do, punctilio.
-2 the two countries signed a protocol: agreement, treaty, entente, concordat, convention, deal, pact, contract, compact; formal concord.
+1 the official procedure or system of rules governing affairs of state or diplomatic occasions: protocol forbids the prince from making any public statement in his defense. 
+• the accepted or established code of procedure or behavior in any group, organization, or situation: what is the protocol at a conference if one's neighbor dozes off during the speeches? 
+• Computing a set of rules governing the exchange or transmission of data between devices.
+2 the original draft of a diplomatic document, especially of the terms of a treaty agreed to in conference and signed by the parties. 
+• an amendment or addition to a treaty or convention: a protocol to the treaty allowed for this Danish referendum.
+3 a formal or official record of scientific experimental observations. 
+• a procedure for carrying out a scientific experiment or a course of medical treatment. ORIGIN late Middle English (denoting the original record of an agreement, forming the legal authority for future dealings relating to it): from Old French prothocole, via medieval Latin from Greek prōtokollon ‘first page, flyleaf,’ from prōtos ‘first’ + kolla ‘glue.’ Sense
+1 derives from French protocole, the collection of set forms of etiquette to be observed by the French head of state, and the name of the government department responsible for this (in the 19th century).

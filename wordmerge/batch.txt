@@ -6,4 +6,10 @@ A.  noun
 ② Computing 批处理 pīchǔlǐ 
 B.  transitive verb 分批处理 fēnpī chǔlǐ ‹newspapers, orders›
 batch 
-▶noun when can we expect the next batch of invoices? group, quantity, lot, bunch, mass, cluster, raft, set, collection, bundle, pack; consignment, shipment.
+baCH
+
+▶noun a quantity or consignment of goods produced at one time: a batch of cookies 
+the company undertakes thirty-six separate quality control checks on every batch. 
+• informal a number of things or people regarded as a group or set: a batch of hostile letters came. 
+• Computing a group of records processed as a single unit, usually without input from a user. 
+▶verb [with object] arrange (things) in sets or groups. ORIGIN late 15th century (in the senses ‘process of baking,’ ‘quantity produced at one baking’): based on an Old English word related to bacan (see bake1). Current senses date from the early 18th century.

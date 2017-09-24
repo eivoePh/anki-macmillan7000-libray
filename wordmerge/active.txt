@@ -6,7 +6,26 @@ adjective
 ③ Linguistics 主动的 zhǔdòng de ‹voice, construction›
 ④ Law 正在审理的 zhèngzài shěnlǐ de ‹case, file›
 active 
+ˈaktiv
+
 ▶adjective
-1 despite her illness she remained active: energetic, lively, sprightly, spry, mobile, vigorous, vital, dynamic, sporty; busy, occupied; informal on the go. ANTONYMS listless.
-2 an active member of the union: hard-working, busy, industrious, diligent, tireless, contributing, effective, enterprising, involved, enthusiastic, keen, committed, devoted, zealous. ANTONYMS passive, indifferent.
-3 the mill was active until 1960: operative, working, functioning, functional, operating, operational, in action, in operation, running; live; informal up and running. ANTONYMS inoperative.
+1 (of a person) engaging or ready to engage in physically energetic pursuits: I needed to change my lifestyle and become more active. 
+• moving or tending to move about vigorously or frequently: active fish need a larger tank. 
+• characterized by energetic activity: they enjoyed an active social life. 
+• (of a person's mind or imagination) alert and lively.
+2 doing things for an organization, cause, or campaign, rather than simply giving it one's support: she was an active member of the church 
+he had never been very active in the affairs of the institute 
+he enjoyed the active support of the government. 
+• (of a person) participating or engaged in a particular sphere or activity: a politically active student body. 
+• [predicative] (of a person or animal) pursuing their usual occupation or activity, typically at a particular place or time: tigers are active mainly at night.
+3 working; operative: the old mill was active until 1960. 
+• (of a bank account) in continuous use. 
+• (of an electrical circuit) capable of modifying its state or characteristics automatically in response to input or feedback. 
+• (of a volcano) currently erupting, or that has erupted within historical times. Often contrasted with dormant or extinct. 
+• (of a disease) in which the symptoms are manifest; not in remission or latent: active colitis. 
+• having a chemical or biological effect on something: 350 active ingredients have been banned from pesticides.
+4 Grammar relating to or denoting the voice that attributes the action of a verb to the person or thing from which it logically proceeds (e.g., of the verbs in guns kill and we saw him). The opposite of passive. 
+▶noun Grammar an active form of a verb. 
+• (the active) the active voice. DERIVATIVES activeness 
+ˈaktivnəs 
+nounORIGIN Middle English (in the sense ‘preferring action to contemplation’): from Latin activus, from act- ‘done,’ from the verb agere .

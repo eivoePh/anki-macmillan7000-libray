@@ -1,2 +1,16 @@
 integrate 
-▶verb reserve forces will be more closely integrated with the regular forces: combine, amalgamate, merge, unite, fuse, blend, mingle, coalesce, consolidate, meld, intermingle, mix; incorporate, unify, assimilate, homogenize; desegregate. ANTONYMS separate.
+ˈin(t)əˌɡrāt
+
+▶verb [with object]
+1 combine (one thing) with another so that they become a whole: transportation planning should be integrated with energy policy. 
+• combine (two things) so that they become a whole: the problem of integrating the two approaches. 
+• [no object] (of a thing) combine with another to form a whole: the stone will blend with the environment and integrate into the landscape.
+2 bring (people or groups with particular characteristics or needs) into equal participation in or membership of a social group or institution: integrating children with special needs into ordinary schools. 
+• [no object] come into equal participation in or membership of society or an institution or body: she was anxious to integrate well into her husband's family. 
+• desegregate (a school, neighborhood, etc.), especially racially: there was a national campaign under way to integrate the lunch counters 
+[no object] : cities' efforts to integrate across urban-suburban lines.
+3 Mathematics find the integral of. DERIVATIVES integrability 
+ˌintiɡrəˈbilitē 
+noun. integrable 
+ˈin(t)əɡrəb(ə)l 
+adjectiveORIGIN mid 17th century: from Latin integrat- ‘made whole,’ from the verb integrare, from integer ‘whole’ (see integer). Compare with integral and integrity .

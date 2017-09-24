@@ -14,13 +14,25 @@ B.  transitive verb
 ④ Law 宣布反对 xuānbù fǎnduì ‹juror›; 对…表示怀疑 duì… biǎoshì huáiyí ‹witness›
 ⑤ Military «guard» 向…盘问口令 xiàng… pánwèn kǒulìng 
 challenge 
+ˈCHalənj
+
 ▶noun
-1 he accepted the challenge: dare, provocation; summons.
-2 a challenge to his leadership: test, questioning, dispute, stand, opposition, confrontation.
-3 it was proving quite a challenge: problem, difficult task, test, trial.
-▶verb
-1 we challenged their statistics: question, disagree with, dispute, take issue with, protest against, call into question, object to.
-2 he challenged one of my men to a duel: dare, summon, throw down the gauntlet to.
-3 changes that would challenge them: test, tax, strain, make demands on; stretch, stimulate, inspire, excite.
-USAGE
-challenged The use of challenged with a preceding adverb (e.g., physically challenged, originally intended to give a more positive tone than such terms as disabled or handicapped) arose in the US in the 1980s. Despite the originally serious intention, the term rapidly became stalled by uses whose intention was to make fun of the attempts at euphemism and whose tone was usually clearly ironic: examples include cerebrally challenged (not very smart), follicularly challenged (bald or balding), vertically challenged (short), etc.Usage notes show additional guidance on finer points of English usage.
+1 a call to take part in a contest or competition, especially a duel: he accepted the challenge. 
+• a task or situation that tests someone's abilities: the ridge is a challenge for experienced climbers. 
+• an attempt to win a contest or championship in a sport: a world title challenge.
+2 an objection or query as to the truth of something, often with an implicit demand for proof: a challenge to the legality of the order. 
+• a sentry's call for a password or other proof of identity. 
+• Law an objection regarding the eligibility or suitability of a jury member.
+3 Medicine exposure of the immune system to pathogenic organisms or antigens: recently vaccinated calves should be protected from challenge. 
+▶verb [with object]
+1 invite (someone) to engage in a contest: he challenged one of my men to a duel. 
+• enter into competition with or opposition against: incumbent Democrats are being challenged in the 29th district. 
+• make a rival claim to or threaten someone's hold on (a position): they were challenging his leadership. 
+• [with object and infinitive] invite (someone) to do something that one thinks will be difficult or impossible; dare: I challenged them to make up their own minds. 
+• test the abilities of: he needed something both to challenge his skills and to regain his crown as the king of the thriller.
+2 dispute the truth or validity of: employees challenged the company's requirement. 
+• Law object to (a jury member). 
+• (of a sentry) call on (someone) for proof of identity.
+3 Medicine expose (the immune system) to pathogenic organisms or antigens. DERIVATIVES challengeable 
+ˈCHalənjəb(ə)l 
+adjectiveORIGIN Middle English (in the senses ‘accusation’ and ‘accuse’): from Old French chalenge (noun), chalenger (verb), from Latin calumnia ‘calumny,’ calumniari ‘calumniate.’

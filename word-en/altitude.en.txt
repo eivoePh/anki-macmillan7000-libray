@@ -1,4 +1,10 @@
 altitude 
-▶noun clouds are classified according to form and altitude: height, elevation, distance above the sea/ground; loftiness.
-WORD LINKS
-altitude altimetry the measurement of altitudeWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+ˈaltəˌt(y)o͞od 
+(abbreviation alt.) 
+▶noun the height of an object or point in relation to sea level or ground level: flight data including airspeed and altitude 
+flying at altitudes over 15,000 feet. 
+• great height: the mechanism can freeze at altitude. 
+• Astronomy the apparent height of a celestial object above the horizon, measured as an angle. 
+• Geometry the length of the perpendicular line from a vertex to the opposite side of a figure. DERIVATIVES altitudinal 
+ˈaltəˌt(y)o͞od(ə)n(ə)l 
+adjectiveORIGIN late Middle English: from Latin altitudo, from altus ‘high.’

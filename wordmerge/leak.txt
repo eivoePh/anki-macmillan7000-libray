@@ -15,10 +15,22 @@ C.  transitive verb
 ① (escape accidentally) 泄漏 xièlòu 
 ② figurative (be accidentally disclosed) 被泄露 bèi xièlòu (be deliberately disclosed) 被透露 bèi tòulù this is sure to leak out 这肯定会泄露出去 it leaked out that there was a secret deal 据消息透露，有一宗秘密交易 
 leak 
-▶verb
-1 oil leaking from the tanker: seep (out), escape, ooze (out), secrete, bleed, emanate, issue, drip, dribble, drain; discharge, exude.
-2 civil servants leaked information to the press: disclose, divulge, reveal, make public, tell, impart, pass on, relate, communicate, expose, broadcast, publish, release, let slip, bring into the open; informal blab; (leak news/information) let the cat out of the bag, spill the beans.
+lēk
+
+▶verb [no object]
+1 (of a container or covering) accidentally lose or admit contents, especially liquid or gas, through a hole or crack: the roof leaked 
+(as adjective leaking) : a leaking gutter 
+[with object] : the drums were leaking an unidentified liquid. 
+• (of liquid, gas, etc.) pass in or out through a hole or crack by accident: water kept leaking in.
+2 (of secret information) become known: the news leaked out. 
+• [with object] intentionally disclose (secret information): who had a motive to leak the story? 
+(as adjective leaked) : a leaked government document. 
 ▶noun
-1 check that there are no leaks in the pipe: hole, opening, aperture, puncture, perforation, gash, slit, nick, rent, break, crack, fissure, rupture.
-2 a gas leak: discharge, leakage, seepage, drip, escape.
-3 leaks to the media: disclosure, revelation, exposé, leakage, tip-off, hot tip.
+1 a hole in a container or covering through which contents, especially liquid or gas, may accidentally pass: I checked all of the pipes for leaks. 
+• the action of leaking accidentally: the leak of fluid may occur 
+a gas leak.
+2 an intentional disclosure of secret information: one of the employees was responsible for the leak. 
+PHRASES
+take a leak informal urinate.DERIVATIVES leaker 
+ˈlēkər 
+nounORIGIN late Middle English: probably of Low German or Dutch origin and related to lack .

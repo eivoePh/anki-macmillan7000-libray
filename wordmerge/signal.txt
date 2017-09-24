@@ -14,11 +14,21 @@ C.  intransitive verb(present participle etc. -ll- BrE, -l- AmE ) 发信号 fā 
 D.  adjective attributive 极大的 jí dà de ‹triumph, failure, disaster›
 signal
 1 
+ˈsiɡnəl
+
 ▶noun
-1 a signal to stop: gesture, sign, wave, gesticulation, cue, indication, warning, motion.
-2 a clear signal that the company is in trouble: indication, sign, symptom, hint, pointer, intimation, clue, demonstration, evidence, proof.
-3 the encroaching dark is a signal for people to emerge: cue, prompt, impetus, stimulus; informal go-ahead.
-▶verb
-1 the driver signaled to her to cross: gesture, sign, give a sign to, direct, motion; wave, beckon, nod.
-2 they signaled displeasure by refusing to cooperate: indicate, show, express, communicate, proclaim, declare.
-3 his death signals the end of an era: mark, signify, mean, be a sign of, be evidence of, herald; literary betoken, foretoken.CHOOSE THE RIGHT WORD See sign .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 a gesture, action, or sound that is used to convey information or instructions, typically by prearrangement between the parties concerned: the firing of the gun was the signal for a chain of beacons to be lit 
+[with infinitive] : the policeman raised his hand as a signal to stop. 
+• an indication of a state of affairs: the markets are waiting for a clear signal about the direction of policy. 
+• an event or statement that provides the impulse or occasion for something specified to happen: the champion's announcement that he was retiring was the signal for scores of journalists to gather at his last match. 
+• an apparatus on a railroad, typically a colored light or a semaphore, giving indications to train engineers of whether or not the line is clear. 
+• Bridge a prearranged convention of bidding or play intended to convey information to one's partner.
+2 an electrical impulse or radio wave transmitted or received: equipment for receiving TV signals. 
+▶verb (signals, signaling, signaled; chiefly British signals, signalling, signalled) [no object] transmit information or instructions by means of a gesture, action, or sound: hold your fire until I signal. 
+• [with object and infinitive] instruct (someone) to do something by means of gestures or signs rather than explicit orders: she signaled Charlotte to be silent. 
+• (of a cyclist, motorist, or vehicle) indicate an intention to turn in a specified direction using an extended arm or flashing indicator: [with complement] : Stone signaled right 
+[with infinitive] : the truck signaled to turn left. 
+• indicate the existence or occurrence of (something) by actions or sounds: [with object] : they could signal displeasure by refusing to cooperate 
+[with clause] : she gave a glance that signaled that her father was being secretive. DERIVATIVES signaler 
+ˈsiɡnələr 
+nounORIGIN late Middle English: from Old French, from medieval Latin signale, neuter of late Latin signalis, from Latin signum ‘mark, token’ (see sign). The verb dates from the early 19th century.

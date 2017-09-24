@@ -1,2 +1,11 @@
 density 
-▶noun a loss of bone density: solidity, solidness, denseness, thickness, substance, mass; compactness, tightness, hardness.
+ˈdensədē
+
+▶noun (plural densities) the degree of compactness of a substance: a reduction in bone density. 
+• (also packing density) Computing a measure of the amount of information on a storage medium (tape or disk). For magnetic tape it is the amount of information recorded per unit length of tape (bits per inch or millimeter); for a disk, a fixed number of bits per sector, sectors per track, and tracks per disk: chip density doubles every eighteen months 
+[as modifier, in combination] : a low-density 5.25-inch floppy disk 
+a drive capable of handling high-density 1.44 megabyte disks. 
+• Physics degree of consistency measured by the quantity of mass per unit volume. 
+• the opacity of a photographic image. 
+• the quantity of people or things in a given area or space: areas of low population density 
+a density of 10,000 per square mile. ORIGIN early 17th century: from French densité or Latin densitas, from densus ‘dense.’

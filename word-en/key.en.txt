@@ -1,6 +1,42 @@
-key 
-▶noun
-1 I put my key in the lock: door key, latchkey, pass key, master key.
-2 the key to the mystery 
-the key to success: answer, clue, solution, explanation; basis, foundation, requisite, precondition, means, way, route, path, passport, secret, formula.
-▶adjective a key figure: crucial, central, essential, indispensable, pivotal, critical, dominant, vital, principal, prime, primary, chief, major, leading, main, important, significant. ANTONYMS peripheral.
+key
+1 
+kē
+
+▶noun (plural keys)
+1 a small piece of shaped metal with incisions cut to fit the wards of a particular lock, and that is inserted into a lock and turned to open or close it. 
+• a small, shaped metal implement for operating a switch in the form of a lock, especially one operating the ignition of a motor vehicle. 
+• short for key card. 
+• an instrument for grasping and turning a screw, peg, or nut, especially one for winding a clock or turning a valve. 
+• a pin, bolt, or wedge inserted between other pieces, or fitting into a hole or space designed for it, so as to lock parts together.
+2 each of several buttons on a panel for operating a computer, typewriter, or telephone. 
+• a lever depressed by the finger in playing an instrument such as the organ, piano, flute, or concertina. 
+• a lever operating a mechanical device for making or breaking an electric circuit, for example, in telegraphy.
+3 a thing that provides a means of gaining access to or understanding something: the key to Jack's behavior may lie submerged in his unhappy past. 
+• an explanatory list of symbols used in a map, table, etc. 
+• a set of answers to exercises or problems. 
+• a word or system for solving a cipher or code. 
+• the first move in the solution of a chess problem. 
+• Computing a field in a record that is used to identify that record uniquely.
+4 Music a group of notes based on a particular note and comprising a scale, regarded as forming the tonal basis of a piece or passage of music: the key of E minor. 
+• the tone or pitch of someone's voice: his voice had changed to a lower key. 
+• the prevailing tone or tenor of a piece of writing, situation, etc.: it was like the sixties all over again, in a new, more austerely intellectual key. 
+• the prevailing range of tones or intensities in a painting: these mauves, lime greens, and saffron yellows recall the high key of El Greco's palette.
+5 the dry winged fruit of an ash, maple, or sycamore maple, typically growing in bunches; a samara.
+6 British the part of a first coat of wall plaster that passes between the laths and so secures the rest. 
+• [in singular] the roughness of a surface, helping the adhesion of plaster or other material.
+7 Basketball the keyhole-shaped area marked on the court near each basket, comprising the free-throw circle and the foul line. 
+▶adjective of paramount or crucial importance: she became a key figure in the suffragette movement. 
+▶verb (keys, keying, keyed 
+kēd
+) [with object]
+1 enter or operate on (data) by means of a computer keyboard or telephone keypad: she keyed in a series of commands 
+[no object] : a hacker caused considerable disruption after keying into a vital database.
+2 (usually be keyed) fasten (something) in position with a pin, wedge, or bolt: the coils may be keyed into the slots by fiber wedges.
+3 British roughen (a surface) to help the adhesion of plaster or other material.
+4 word (an advertisement in a particular periodical), typically by varying the form of the address given, so as to identify the publication generating particular responses.
+5 North American informal be the crucial factor in achieving: Ewing keyed a 73–35 advantage on the boards with twenty rebounds.
+6 vandalize a car by scraping the paint from it with a key: somebody could key your car and not get punished. 
+PHRASES
+in (or out of) key in (or out of) harmony: this vaguely uplifting conclusion is out of key with the body of his book. under lock and key see lock1. PHRASAL VERBS key someone/something into (or in with) cause someone or something to be in harmony with: to those who are keyed into his lunatic sense of humor, the arrival of any Bergman movie is a major comic event.key something to chiefly North American make something fit in with or be linked to: this optimism is keyed to the possibility that the US might lead in the research field. be keyed up be nervous, tense, or excited, especially before an important event.DERIVATIVES keyer noun. keyless 
+ˈkēləs 
+adjectiveORIGIN Old English cǣg, cǣge, of unknown origin.

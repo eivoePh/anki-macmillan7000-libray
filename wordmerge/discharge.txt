@@ -26,20 +26,48 @@ noun
 ⑦ Uncountable(firing) 发射 fāshè 
 ⑧ UncountableElectricity (electricity from charged object) 放电 fàngdiàn (flow of electricity) 电流 diànliú 
 discharge 
-▶verb
-1 after his third violation, Vance was discharged: dismiss, eject, expel, throw out, give someone notice; release, let go, fire, terminate; Military cashier; informal sack, give someone the sack, boot out, give someone the boot, turf out, give someone their marching orders, show someone the door, send packing, pink-slip, give someone the (old) heave-ho. ANTONYMS recruit, engage.
-2 he was discharged from prison: release, free, set free, let go, liberate, let out. ANTONYMS imprison.
-3 oil is routinely discharged from ships: send out, release, eject, let out, pour out, void, give off.
-4 the swelling will burst and discharge pus: emit, exude, ooze, leak. ANTONYMS absorb.
-5 he accidentally discharged the gun: fire, shoot, let off; set off, trigger, explode, detonate.
-6 the ferry was discharging passengers: unload, offload, put off; remove. ANTONYMS load.
-7 they discharged their duties efficiently: carry out, perform, execute, conduct, do; fulfill, accomplish, achieve, complete.
-8 the executor must discharge the funeral expenses: pay, pay off, settle, clear, honor, meet, liquidate, defray, make good; informal square.
-▶noun
-1 his discharge from the service: dismissal, release, removal, ejection, expulsion; Military cashiering; informal the sack, the boot, the ax, a/the pink slip.
-2 her discharge from prison: release, liberation.
-3 a discharge of diesel oil into the river: leak, leakage, emission, release, flow.
-4 a watery discharge from the eyes: emission, secretion, excretion, seepage, suppuration; pus, matter; Medicine exudate.
-5 a single discharge of his gun: shot, firing, blast; explosion, detonation.
-6 the discharge of their duties: carrying out, performance, performing, execution, conduct; fulfillment, accomplishment, completion.
-7 the discharge of all debts: payment, repayment, settlement, clearance, meeting, liquidation.
+▶verb 
+disˈCHärj 
+[with object]
+1 tell (someone) officially that they can or must leave, in particular: 
+• send (a patient) out of the hospital because they are judged fit to go home. 
+• dismiss or release (someone) from a job, especially from service in the armed forces or police. 
+• release (someone) from the custody or restraint of the law: he ordered that 1,671 prisoners of war be discharged from prison. 
+• relieve (a juror or jury) from serving in a case. 
+• Law relieve (a bankrupt) of liability. 
+• release (a party) from a contract or obligation: the insurer is discharged from liability from the day of breach.
+2 allow (a liquid, gas, or other substance) to flow out from where it has been confined: industrial plants discharge highly toxic materials into rivers 
+[no object] : the overflow should discharge in an obvious place. 
+• (of an orifice or diseased tissue) emit (pus, mucus, or other liquid): the swelling will eventually break down and discharge pus 
+[no object] : the eyes and nose began to discharge. 
+• Physics release or neutralize the electric charge of (an electric field, battery, or other object): the electrostatic field that builds up on a monitor screen can be discharged 
+[no object] : batteries have a tendency to discharge slowly. 
+• (of a person) fire (a gun or missile): when you shoot you can discharge as many barrels as you wish. 
+• [no object] (of a firearm) be fired: there was a dull thud as the gun discharged. 
+• (of a person) allow (an emotion) to be released: he discharged his resentment in the harmless form of memoirs. 
+• unload (cargo or passengers) from a ship: the ferry was discharging passengers 
+[no object] : ninety ships were waiting to discharge.
+3 do all that is required to fulfill (a responsibility) or perform (a duty). 
+• pay off (a debt or other financial claim).
+4 Law (of a judge or court) cancel (an order of a court). 
+• cancel (a contract) because of completion or breach: an existing mortgage to be discharged on completion. 
+▶noun 
+ˈdisˌCHärj 
+
+1 the action of discharging someone from a hospital or from a job: his discharge from the hospital 
+offending policemen receive a dishonorable discharge. 
+• British an act of releasing someone from the custody or restraint of the law: four days in jail and one year conditional discharge. 
+• Law the action of relieving a bankrupt from residual liability.
+2 the action of discharging a liquid, gas, or other substance: those germs might lead to vaginal discharge. 
+• a substance that has been discharged: large volumes of sewage discharge 
+environmental damage from toxic chemical discharges. 
+• Physics the release of electricity from a charged object: slow discharge of a condenser is fundamental to oscillatory circuits. 
+• a flow of electricity through air or other gas, especially when accompanied by emission of light: a sizzling discharge between sky and turret. 
+• the action of firing a gun or missile: a police permit for discharge of an air gun 
+sounds like discharges of artillery. 
+• the action of unloading a ship of its cargo or passengers.
+3 the action of doing all that is required to fulfill a responsibility or perform a duty: directors must use skill in the discharge of their duties. 
+• the payment of a debt or other financial claim: money paid in discharge of a claim.
+4 Law the action of canceling an order of a court. DERIVATIVES dischargeable 
+disˈCHärjəb(ə)l 
+adjectiveORIGIN Middle English (in the sense ‘relieve of an obligation’): from Old French descharger, from late Latin discarricare ‘unload,’ from dis- (expressing reversal) + carricare ‘to load’ (see charge) .

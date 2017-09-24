@@ -1,8 +1,25 @@
 gauge 
+ɡāj 
+(chiefly technical also gage) 
 ▶noun
-1 the temperature gauge: measuring device, measuring instrument, meter, measure; indicator, dial, scale, display.
-2 exports are an important gauge of economic activity: measure, indicator, barometer, point of reference, guide, guideline, touchstone, yardstick, benchmark, criterion, test, litmus test.
-3 guitar strings of a different gauge: size, diameter, thickness, width, breadth; measure, capacity, magnitude; bore, caliber.
-▶verb
-1 astronomers can gauge the star's intrinsic brightness: measure, calculate, compute, work out, determine, ascertain; count, weigh, quantify, put a figure on, pin down.
-2 it is difficult to gauge how effective the ban was: assess, evaluate, determine, estimate, form an opinion of, appraise, get the measure of, judge, guess; informal guesstimate, size up.
+1 an instrument or device for measuring the magnitude, amount, or contents of something, typically with a visual display of such information. 
+• a tool for checking whether something conforms to a desired dimension. 
+• a means of estimating something; a criterion or test: emigration is perhaps the best gauge of public unease.
+2 the thickness, size, or capacity of something, especially as a standard measure, in particular: 
+• the diameter of a string, fiber, tube, etc.: [as modifier] : a fine 0.018-inch gauge wire. 
+• [in combination] a measure of the diameter of a gun barrel, or of its ammunition, expressed as the number of spherical pieces of shot of the same diameter as the barrel that can be made from
+1 pound (454 g) of lead: [as modifier] : a 12-gauge shotgun. 
+• [in combination] the thickness of sheet metal or plastic: [as modifier] : 500-gauge polyethylene. 
+• the distance between the rails of a line of railroad track: the line was laid to a gauge of
+2 ft.
+9 in.
+3 (usually the gage) Nautical, historical the position of a sailing vessel to windward (weather gage) or leeward (lee gage) of another. 
+▶verb [with object]
+1 estimate or determine the magnitude, amount, or volume of: astronomers can gauge the star's intrinsic brightness. 
+• form a judgment or estimate of (a situation, mood, etc.): she is unable to gauge his mood.
+2 measure the dimensions of (an object) with a gauge: when dry, the assemblies can be gauged exactly and planed to width. 
+• (as adjective gauged) made in standard dimensions: gauged sets of strings. DERIVATIVES gaugeable 
+ˈɡājəb(ə)l 
+adjective. gauger 
+ˈɡājər 
+nounORIGIN Middle English (denoting a standard measure): from Old French gauge (noun), gauger (verb), variant of Old Northern French jauge (noun), jauger (verb), of unknown origin.

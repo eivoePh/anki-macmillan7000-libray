@@ -1,2 +1,6 @@
 predict 
-▶verb no one can predict the outcome: forecast, foretell, foresee, prophesy, anticipate, tell in advance, envision, envisage; literary previse; archaic augur, presage.
+prəˈdikt
+
+▶verb [with object] say or estimate that (a specified thing) will happen in the future or will be a consequence of something: it is too early to predict a result 
+[with clause] : he predicts that the trend will continue 
+(as adjective predicted) : the predicted growth is 47 percent. ORIGIN early 17th century: from Latin praedict- ‘made known beforehand, declared,’ from the verb praedicere, from prae- ‘beforehand’ + dicere ‘say.’

@@ -1,4 +1,5 @@
 consensus 
-▶noun
-1 there was consensus among delegates: agreement, harmony, concurrence, accord, unity, unanimity, solidarity; formal concord. ANTONYMS disagreement.
-2 the consensus was that they should act: general opinion, majority opinion, common view.
+kənˈsensəs
+
+▶noun [usually in singular] general agreement: a consensus of opinion among judges 
+[as modifier] : a consensus view. ORIGIN mid 17th century: from Latin,‘agreement,’ from consens- ‘agreed,’ from the verb consentire .

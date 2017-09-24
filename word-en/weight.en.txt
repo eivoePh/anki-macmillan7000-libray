@@ -1,6 +1,28 @@
 weight 
+wāt
+
 ▶noun
-1 the weight of the book: heaviness, mass, load, burden, pressure, force; poundage, tonnage.
-2 his recommendation will carry great weight: influence, force, leverage, sway, pull, importance, significance, consequence, value, substance, power, authority; informal clout.
-3 a weight off her mind: burden, load, millstone, albatross, encumbrance; trouble, worry, pressure, strain.
-4 the weight of the evidence is against him: preponderance, majority, bulk, body, lion's share, predominance; most, almost all.
+1 a body's relative mass or the quantity of matter contained by it, giving rise to a downward force; the heaviness of a person or thing: he was at least 175 pounds in weight. 
+• Physics the force exerted on the mass of a body by a gravitational field. Compare with mass. 
+• the quality of being heavy: as he came upstairs the boards creaked under his weight. 
+• a unit or system of units used for expressing how much an object or quantity of matter weighs. 
+• a piece of metal known to weigh a definite amount and used on scales to determine how heavy an object or quantity of a substance is. 
+• the amount that a jockey is expected or required to weigh, or the amount that a horse can easily carry. 
+• the surface density of cloth, used as a measure of its quality.
+2 a heavy object, especially one being lifted or carried. 
+• a heavy object used to give an impulse or act as a counterweight in a mechanism. 
+• a heavy object propelled by a shot-putter. 
+• (weights) blocks or discs of metal or other heavy material used in weightlifting or weight training.
+3 the ability of someone or something to influence decisions or actions: a recommendation by the committee will carry great weight. 
+• the importance attached to something: individuals differ in the weight they attach to various aspects of a job. 
+• Statistics a factor associated with one of a set of numerical quantities, used to represent its importance relative to the other members of the set. 
+▶verb [with object]
+1 hold (something) down by placing a heavy object on top of it: a mug half filled with coffee weighted down a stack of papers. 
+• make (something) heavier by attaching a heavy object to it, especially so as to make it stay in place: the jugs were covered with muslin veils weighted with colored beads.
+2 attach importance or value to: speaking, reading, and writing should be weighted equally in the assessment. 
+• (be weighted) be planned or arranged so as to put a specified person, group, or factor in a position of advantage or disadvantage: the balance of power is weighted in favor of the government. 
+• Statistics multiply the components of (an average) by factors to take account of their importance.
+3 assign a handicap weight to (a horse).
+4 treat (a fabric) with a substance to make it seem thicker and heavier. 
+PHRASES
+put on (or lose) weight become fatter (or thinner). throw one's weight around informal be unpleasantly self-assertive.throw one's weight behind informal use one's influence to help support. the weight of the world used in reference to a very heavy burden of worry or responsibility: he continues to carry the weight of the world on his shoulders. be a weight off one's mind come as a great relief after one has been worried. worth one's weight in gold (of a person) exceedingly useful or helpful.ORIGIN Old English (ge)wiht, of Germanic origin; related to Dutch wicht and German Gewicht. The form of the word has been influenced by weigh1 .

@@ -1,8 +1,25 @@
 flag
 1 
-▶noun he raised the flag: banner, standard, ensign, pennant, banderole, streamer, jack, gonfalon; colors; Stars and Stripes, Old Glory, Union Jack; Jolly Roger; Canadian Red Ensign, Maple Leaf.
-▶verb flag the misspelled words: indicate, identify, point out, mark, label, tag, highlight.
+flaɡ
+
+▶noun
+1 a piece of cloth or similar material, typically oblong or square, attachable by one edge to a pole or rope and used as the symbol or emblem of a country or institution or as a decoration during public festivities: the American flag. 
+• used in reference to the country to which a person has allegiance: the private's heroism served as an example for every soldier under the flag. 
+• a ship's country of registry. 
+• a small piece of cloth, typically attached at one edge to a pole, used as a marker or signal in various sports: jumped the starter's flag, did he? 
+• the ensign carried by a flagship as an emblem of an admiral's rank.
+2 a device, symbol, or drawing typically resembling a flag, used as a marker: golf courses are indicated by a numbered flag on the map. 
+• Computing a variable used to indicate a particular property of the data in a record.
+3 US a hook attached to the stem of a musical note, determining the rhythmic value of the note. 
+▶verb (flags, flagging, flagged) [with object]
+1 mark (an item) for attention or treatment in a specified way: “greatfully” would be flagged as a misspelling of “gratefully.” 
+• draw attention to: problems often flag the need for organizational change. 
+• American Football charge (a player) with a penalty by dropping a penalty flag: a play in which he was flagged for being offside.
+2 [with object] direct (someone) to go in the specified direction by waving a flag or using hand signals: have him flagged off the course. 
+• (flag someone/something down) signal to a vehicle or driver to stop, especially by waving one's arm: she flagged down a patrol car. 
+• [no object] (of an official in football, soccer, and other sports) raise or throw a flag to indicate a breach of the rules: the rookie cornerback managed to get flagged for three penalties in one game.
+3 provide or decorate with a flag or flags. 
+• register (a vessel) in a specific country, under whose flag it then sails: the flagging out of much of the fleet to flags of convenience. 
 PHRASES
-flag down we had no luck flagging down a cab: hail, wave down, signal to stop, stop, halt. 
-WORD LINKS
-flagvexillary relating to flags vexillology the study of flagsWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+fly the flag (of a ship) be registered in a particular country and sail under its flag. 
+• (also show or carry or wave the flag) represent or demonstrate support for one's country, political party, or organization, especially when one is abroad: he will never consider buying an import, because he likes to fly the flag. show the flag (of a naval vessel) make an official visit to a foreign port, especially as a show of strength. wrap oneself in the flag chiefly North American make an excessive show of one's patriotism, especially for political ends.DERIVATIVES flagger nounORIGIN mid 16th century: perhaps from obsolete flag ‘drooping,’ of unknown ultimate origin.

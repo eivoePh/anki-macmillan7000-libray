@@ -4,8 +4,9 @@ noun
 ① Uncountable(of occasion, language) 正式 zhèngshì with a minimum of formality 尽量不拘谨 the children were overawed by the formality of the occasion 这种庄重严肃的场面使孩子们感到惶恐 
 ② formalities plural (legal convention) 正式手续 zhèngshì shǒuxù (social convention) 俗套 sútào to dispense with or skip the formalities 免去繁文缛节 to observe the formalities 遵守俗套 legal formalities 法律手续 
 formality 
-▶noun
-1 the formality of the occasion: ceremony, ceremoniousness, ritual, conventionality, red tape, protocol, decorum; stateliness, courtliness, solemnity. ANTONYMS informality.
-2 his formality was off-putting: aloofness, reserve, remoteness, detachment, unapproachability; stiffness, primness, stuffiness, staidness, correctness, decorum, punctiliousness, inflexibility; informal standoffishness. ANTONYMS informality.
-3 (formalities) we keep the formalities to a minimum: official procedure, bureaucracy, red tape, paperwork.
-4 the medical examination is just a formality: routine, routine practice, normal procedure.
+fôrˈmalədē
+
+▶noun (plural formalities) the rigid observance of rules of convention or etiquette: he retained the formality of his social background. 
+• stiffness of behavior or style: with disconcerting formality, the brothers shook hands. 
+• (usually formalities) a thing that is done simply to comply with requirements of etiquette, regulations, or custom: legal formalities. 
+• (a formality) something that is done as a matter of course and without question; an inevitability: her saying no was just a formality, and both of them knew it. ORIGIN mid 16th century (in the sense ‘accordance with legal rules or conventions’): from French formalité or medieval Latin formalitas, from formalis (see formal) .

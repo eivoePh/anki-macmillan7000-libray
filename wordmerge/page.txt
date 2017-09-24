@@ -15,6 +15,18 @@ C.  intransitive verb
 ② Computing to page up/down; 向上/向下翻页 xiàng shàng/xiàng xià fān yè 
 page
 1 
-▶noun
-1 a book of 672 pages: folio, sheet, side, leaf.
-2 a glorious page in her life: period, time, stage, phase, epoch, era, chapter; episode, event.
+pāj
+
+▶noun one side of a sheet of paper in a collection of sheets bound together, especially as a book, magazine, or newspaper. 
+• the material written or printed on a page: she silently read several pages. 
+• [with modifier] a page of a newspaper or magazine set aside for a particular topic: the editorial page. 
+• Printing the type set for the printing of a page. 
+• Computing a section of stored data, especially that which can be displayed on a screen at one time. 
+• a significant episode or period considered as a part of a longer history: the inconsistency of this transaction has no parallel on any page of our political history. 
+▶verb
+1 [no object] (page through) leaf through (a book, magazine, or newspaper): she was paging through an immense pile of Sunday newspapers. 
+• Computing move through and display (text) one page at a time.
+2 [with object] (usually as noun paging) Computing divide (a piece of software or data) into sections, keeping the most frequently accessed in main memory and storing the rest in virtual memory.
+3 [with object] assign numbers to the pages in (a book or periodical); paginate. 
+PHRASES
+on the same page US (of two or more people) in agreement.DERIVATIVES paged adjective [in combination] : a many-paged volumeORIGIN late 16th century: from French, from Latin pagina, from pangere ‘fasten.’

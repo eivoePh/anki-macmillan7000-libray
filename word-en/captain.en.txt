@@ -1,6 +1,14 @@
 captain 
-▶noun
-1 the ship's captain: commander, master; informal skipper.
-2 the team captain: leader, head; informal boss, skipper.
-3 a captain of industry: magnate, tycoon, industrialist; chief, head, leader, principal; informal boss, number one, bigwig, big shot, big gun, big cheese, big kahuna, honcho, top dog, top banana.
-▶verb a vessel captained by a cutthroat: command, run, be in charge of, control, manage, govern; informal skipper.
+ˈkaptən
+
+▶noun the person in command of a ship. 
+• the pilot in command of a civil aircraft. 
+• a naval officer of high rank, in particular (in the US Navy or Coast Guard) an officer ranking above commander and below commodore. 
+• an army officer of high rank, in particular (in the US Army, Marine Corps, or Air Force) an officer ranking above first lieutenant and below major. 
+• a police officer in charge of a precinct, ranking below a chief: captain of the 20th precinct. 
+• US the head of a precinct's fire department. 
+• the leader of a team, especially in sports. 
+• a powerful or influential person in a particular field: a captain of industry. 
+• a political party leader in a local district. 
+• North American a supervisor of waiters or bellboys. 
+▶verb [with object] be the captain of (a ship, aircraft, or sports team). ORIGIN late Middle English (in the general sense ‘chief or leader’): from Old French capitain (superseding earlier chevetaigne ‘chieftain’), from late Latin capitaneus ‘chief,’ from Latin caput, capit- ‘head.’

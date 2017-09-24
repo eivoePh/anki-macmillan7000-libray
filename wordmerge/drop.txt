@@ -58,31 +58,62 @@ B.  transitive verb
 ③ (disappear) 消失 xiāoshī the coins will gradually drop out of circulation 这些硬币将逐渐退出流通 
 ④ (straighten out) «crease(s)» 抻平 chēnpíng drop over intransitive verbcolloquial = drop round drop round intransitive verb colloquial 顺便访问 shùnbiàn fǎngwèn (do) drop round some time 有空来坐坐 
 drop 
-▶verb
-1 Eric dropped the box: let fall, let go of, lose one's grip on; release, unhand, relinquish. ANTONYMS lift, hold on to.
-2 water drops from the cave roof: drip, fall, dribble, trickle, run, plop, leak.
-3 a plane dropped out of the sky: fall, descend, plunge, plummet, dive, nosedive, tumble, pitch. ANTONYMS rise.
-4 she dropped to her knees: fall, sink, collapse, slump, tumble. ANTONYMS rise.
-5 informal I was so tired I thought I would drop: collapse, faint, pass out, black out, swoon, keel over; informal conk out.
-6 the track drops from the ridge: slope downward, slant downward, descend, go down, fall away, sink, dip. ANTONYMS lift.
-7 the exchange rate dropped: decrease, lessen, reduce, diminish, depreciate; fall, decline, dwindle, sink, slump, plunge, plummet, drop off. ANTONYMS increase.
-8 you can drop algebra if you wish: give up, drop out of, finish with, withdraw from; discontinue, end, stop, cease, halt; abandon, forgo, relinquish, dispense with, have done with; informal pack in, quit. ANTONYMS take up, continue.
-9 he was dropped from the team: exclude, discard, expel, oust, throw out, leave out; dismiss, discharge, let go; informal boot out, kick out. ANTONYMS pick, keep.
-10 he dropped his unsuitable friends: abandon, desert, throw over; renounce, disown, turn one's back on, wash one's hands of; reject, give up, cast off; neglect, shun; literary forsake. ANTONYMS keep.
-11 he dropped all reference to compensation: omit, leave out, eliminate, take out, delete, cut, erase. ANTONYMS insert, include.
-12 the taxi dropped her off : deliver, bring, take, convey, carry, transport; leave, unload. ANTONYMS pick up.
-13 drop the gun on the ground: put, place, deposit, set, lay, leave; informal pop, plonk. ANTONYMS pick up.
-14 she dropped names: mention, refer to, hint at; bring up, raise, broach, introduce; show off.
-15 the team has yet to drop a point: lose, concede, give away. ANTONYMS gain, win.
+dräp
+
+▶verb (drops, dropping, dropped) [with object]
+1 let or make (something) fall vertically: the fire was caused by someone dropping a lighted cigarette 
+they dropped bombs on London during the raid. 
+• deliver (supplies or troops) by parachute: the airlift dropped food into the camp. 
+• Rugby score (a goal) by a drop kick. 
+• (of an animal, especially a mare, cow, or ewe) give birth to (young). 
+• informal take (a drug, especially LSD) orally: he dropped a lot of acid in the Sixties.
+2 [no object] fall vertically: the spoon dropped with a clatter from her hand. 
+• (of a person) allow oneself to fall; let oneself down without jumping: they escaped by climbing out of the window and dropping to the ground. 
+• (of a person or animal) sink to or toward the ground: he dropped to his knees in the mud. 
+• informal collapse or die from exhaustion: he looked ready to drop. 
+• (of ground) slope steeply down: the cliff drops ninety yards to the valley below.
+3 make or become lower, weaker, or less: he dropped his voice as she came into the room 
+[no object] : pretax profits dropped by 37 percent 
+tourism has dropped off in the last few years.
+4 abandon or discontinue (a course of action or study): the charges against him were dropped last year 
+drop everything and get over here! 
+• discard or exclude (someone or something): they were dropped from the team in the reshuffle. 
+• informal stop associating with: I was under pressure from family and friends to drop Barbara. 
+• omit (a letter or syllable) in speech: our English au pair drops her h's.
+5 set down or unload (a passenger or goods), especially on the way to somewhere else: he dropped the load off at a dealer's 
+his mom dropped him outside and drove off to work. 
+• put or leave in a particular place without ceremony or formality: just drop it in the mail when you've got time. 
+• mention in passing, typically in order to impress: she dropped a remark about having been included in the selection.
+6 (in sports) fail to win (a point, game, or match). 
+• informal lose (money), especially through gambling: they drifted into a roulette parlor and dropped about fifteen dollars.
+7 Bridge force or be forced to play (a relatively high card) as a loser under an opponent's higher card, because it is the only card in its suit held in the hand: West dropped the nine 
+[no object] : the queen dropped. 
 ▶noun
-1 a drop of water: droplet, blob, globule, bead, bubble, tear, dot; informal glob; (drops of water/rain) rare stillicide.
-2 it needs a drop of oil: small amount, little, bit, dash, spot; dribble, driblet, sprinkle, trickle, splash; dab, speck, smattering, sprinkling, modicum; informal smidgen, tad. ANTONYMS great deal.
-3 a lemon drop: candy, lozenge, pastille.
-4 a small drop in profits: decrease, reduction, decline, falloff, downturn, slump; cut, cutback, curtailment; depreciation. ANTONYMS increase.
-5 I walked to the edge of the drop: cliff, abyss, chasm, gorge, gully, precipice; slope, descent, incline.
+1 a small round or pear-shaped portion of liquid that hangs or falls or adheres to a surface: the first drops of rain splashed on the ground. 
+• [often with negative] a very small amount of liquid: there was not a drop of water in sight. 
+• [usually with negative] a drink of alcoholic liquor: he doesn't touch a drop during the week. 
+• (drops) liquid medicine to be measured or applied in very small amounts: eye drops.
+2 [usually in singular] an instance of falling or dropping: they left within five minutes of the drop of the curtain. 
+• an act of dropping supplies or troops by parachute: the planes finally managed to make the drop. 
+• a fall in amount, quality, or rate: a significant drop in consumer spending. 
+• an abrupt fall or slope: standing on the lip of a sixty-foot drop. 
+• (the drop) Bridge the playing of a high card underneath an opponent's higher card, because it is the only card in its suit held in the hand.
+3 informal a delivery: I got to the depot and made the drop. 
+• US a mailbox. 
+• a hiding place for stolen, illicit, or secret things: the lavatory's toilet tank could be used as a letter drop.
+4 [usually with modifier] a piece of candy or a lozenge: a lemon drop.
+5 (also drop earring) an earring that hangs down from the earlobe: silver drop earrings 
+simple amethyst and diamond drops.
+6 a section of theatrical scenery lowered from the flies; a drop cloth or drop curtain.
+7 a trapdoor on a gallows, the opening of which causes the prisoner to fall and thus be hanged. 
+• (the drop) execution by hanging. 
 PHRASES
-drop back/behind he dropped back and was soon lost in the crowd: fall back/behind, get left behind, lag behind; straggle, linger, dawdle, dally, hang back, loiter, bring/take up the rear, dilly-dally. drop off
-1 trade dropped off sharply. See drop (sense
-7 of the verb).
-2 she kept dropping off: fall asleep, doze (off), nap, catnap, drowse; informal nod off, drift off, snooze, take forty winks. drop out of he dropped out of his studies. See drop (sense
-8 of the verb). REFLECTIONS Zadie Smithstillicide Of incredible value to the crime writer or anybody else wishing to build suspense into a landscape, stillicide is the falling of water, especially in drops, or a succession of drops. Inexplicably underused—every day brings a new way to employ it.Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+at the drop of a hat informal without delay or good reason: he used to be very bashful, blushing at the drop of a hat. drop the ball North American informal make a mistake; mishandle things: I really dropped the ball on this one. [with allusion to mishandling in baseball.] drop dead die suddenly and unexpectedly: she had seen her father drop dead of a heart attack. 
+• [in imperative] informal used as an expression of intense scorn or dislike. drop a (or the) dime on informal inform on (someone) to the police. drop like flies see fly2. drop one's guard abandon one's habitual defensive or protective stance. drop a hint (or drop hints) let fall a hint or hints, as if casually or unconsciously: he was dropping hints that in the future he would be taking a back seat in politics.a drop in the bucket (or British ocean) a very small amount compared with what is needed or expected: the $550 million is likely to be a drop in the bucket.drop someone a line send someone a note or letter in a casual manner: drop me a line at the usual address. drop names see name-dropping. drop one's serve (in tennis) lose a game in which one is serving. drop a stitch let a stitch fall off the end of a knitting needle. drop one's trousers deliberately let one's trousers fall down, especially in a public place. have the drop on informal have the advantage over: if your enemy gets the drop on you he can kill you. a drop too much informal enough alcohol to make one drunk: you drive, because he has taken a drop too much.PHRASAL VERBS drop back/behind fall back or get left behind: the colt was struggling to stay with the pace and started to drop back. drop by/in call informally and briefly as a visitor: they would unexpectedly drop in on us. drop into
+1 call casually and informally at (a place): he'd actually considered dropping into one of the pickup bars.
+2 pass quickly and easily into (a habitual state or manner): she couldn't help dropping into a Brooklyn accent. drop off fall asleep easily, especially without intending to: struggle as she might, she kept dropping off. drop out
+1 cease to participate in a race or competition.
+2 abandon a course of study: kids who had dropped out of college.
+3 reject conventional society to pursue an alternative lifestyle: a child of the sixties who had temporarily dropped out.
+4 Rugby restart play with a drop kick. 
+• score a drop goal.DERIVATIVES droppable adjectiveORIGIN Old English dropa (noun), droppian (verb), of Germanic origin; related to German Tropfen ‘a drop,’ tropfen ‘to drip,’ also to drip and droop .

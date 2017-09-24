@@ -12,11 +12,24 @@ B.  transitive verb(present participle etc. -tt-)
 ④ (on graph) 绘制 huìzhì ‹curve›; 标定 biāodìng ‹point, figure›
 C.  intransitive verb (present participle etc. -tt-) 密谋 mìmóu to plot against the government 密谋反政府 
 plot 
+plät
+
 ▶noun
-1 a plot to overthrow him: conspiracy, intrigue, secret plan; machinations.
-2 the plot of her novel: storyline, story, scenario, action, thread; formal diegesis.
-3 a three-acre plot: piece of ground, patch, area, tract, acreage, allotment, lot, plat, homesite.
-▶verb
-1 he plotted their downfall: plan, scheme, arrange, organize, hatch, concoct, devise, dream up; informal cook up.
-2 his brother was plotting against him: conspire, scheme, intrigue, collude, connive, machinate.
-3 the fifty-three sites were plotted: mark, chart, map, represent, graph.CHOOSE THE RIGHT WORD plot, cabal, conspiracy, intrigue, machination If you come up with a secret plan to do something, especially with evil or mischievous intent, it's called a plot (a plot to seize control of the company). If you get other people or groups involved in your plot, it's called a conspiracy (a conspiracy to overthrow the government). Cabal usually applies to a small group of political conspirators (a cabal of right-wing extremists), while machination (usually plural) suggests deceit and cunning in devising a plot intended to harm someone (the machinations of the would-be assassins). An intrigue involves more complicated scheming or maneuvering than a plot and often employs underhanded methods in an attempt to gain one's own ends (she had a passion for intrigue, particularly where romance was involved).These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 a plan made in secret by a group of people to do something illegal or harmful: [with infinitive] : there's a plot to overthrow the government.
+2 the main events of a play, novel, movie, or similar work, devised and presented by the writer as an interrelated sequence.
+3 a small piece of ground marked out for a purpose such as building or gardening: a vegetable plot.
+4 a graph showing the relation between two variables. 
+• chiefly US a diagram, chart, or map. 
+▶verb (plots, plotting, plotted) [with object]
+1 secretly make plans to carry out (an illegal or harmful action): the two men are serving sentences for plotting a bomb campaign 
+[no object] : Erica has been plotting against me all along.
+2 devise the sequence of events in (a play, novel, movie, or similar work).
+3 mark (a route or position) on a chart: he started to plot lines of ancient sites. 
+• mark out or allocate (points) on a graph. 
+• make (a curve) by marking out a number of points on a graph. 
+• illustrate by use of a graph: it is possible to plot fairly closely the rate at which recruitment of girls increased. 
+PHRASES
+lose the plot informal lose one's ability to understand or cope with what is happening: many people believe that he is feeling the strain or has lost the plot. the plot thickens see thicken. DERIVATIVES plotless 
+ˈplätləs 
+adjectiveORIGIN late Old English ( sense
+3 of the noun), of unknown origin. The sense ‘secret plan,’ dating from the late 16th century, is associated with Old French complot ‘dense crowd, secret project,’ the same term being used occasionally in English from the mid 16th century Compare with plat1 .

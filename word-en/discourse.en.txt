@@ -1,7 +1,11 @@
 discourse 
-▶noun
-1 they prolonged their discourse outside the door: discussion, conversation, talk, dialogue, conference, debate, consultation; parley, powwow, chat, confab; formal confabulation, colloquy.
-2 a discourse on critical theory: essay, treatise, dissertation, paper, study, critique, monograph, disquisition, tract; lecture, address, speech, oration; sermon, homily.
-▶verb
-1 he discoursed at length on his favorite topic: hold forth, expatiate, pontificate; talk, give a talk, give a speech, lecture, sermonize, preach; informal spout, sound off; formal perorate.
-2 Edward was discoursing with his friends: converse, talk, speak, debate, confer, consult, parley, chat.
+▶noun 
+ˈdisˌkôrs 
+written or spoken communication or debate: the language of political discourse 
+an imagined discourse between two people traveling in France. 
+• a formal discussion of a topic in speech or writing: a discourse on critical theory. 
+• Linguistics a connected series of utterances; a text or conversation. 
+▶verb 
+disˈkôrs 
+[no object] speak or write authoritatively about a topic: she could discourse at great length on the history of Europe. 
+• engage in conversation: he spent an hour discoursing with his supporters in the courtroom. ORIGIN late Middle English (denoting the process of reasoning, also in the phrase discourse of reason): from Old French discours, from Latin discursus ‘running to and fro’ (in medieval Latin ‘argument’), from the verb discurrere, from dis- ‘away’ + currere ‘to run’; the verb influenced by French discourir .

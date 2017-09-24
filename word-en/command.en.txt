@@ -1,10 +1,23 @@
 command 
+kəˈmand
+
 ▶verb
-1 he commanded his men to retreat: order, tell, direct, instruct, call on, require; literary bid.
-2 Jones commanded a tank squadron: be in charge of, be in command of, be the leader of; head, lead, control, direct, manage, supervise, oversee; informal head up.
-3 they command great respect: receive, get, gain, secure.
-▶noun
-1 officers shouted commands: order, instruction, directive, direction, commandment, injunction, decree, edict, demand, stipulation, requirement, exhortation, bidding, request.
-2 he had 160 men under his command: authority, control, charge, power, direction, dominion, guidance; leadership, rule, government, management, supervision, jurisdiction.
-3 a brilliant command of Italian: knowledge, mastery, grasp, comprehension, understanding.CHOOSE THE RIGHT WORD See jurisdiction .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.QUOTE Seven months ago I could give a command and 541,000 people would immediately obey it. Today I can’t get a plumber to come to my house.
-H.  Norman Schwarzkopf, US Army general
+1 [reporting verb] give an authoritative order: [with object and infinitive] : a gruff voice commanded us to enter 
+[with direct speech] : “Stop arguing!” he commanded 
+[with clause] : he commanded that work should cease 
+[with object] : my mother commands my presence. 
+• [with object] Military have authority over; be in charge of (a unit): he commanded a battalion at Normandy. 
+• [with object] dominate (a strategic position) from a superior height: the two castles commanded the harbor. 
+• [with object] archaic control or restrain (oneself or one's feelings): he commanded himself with an effort.
+2 [with object] be in a strong enough position to have or secure (something): no party commanded a majority 
+a moral force that commanded respect. 
+▶noun an authoritative order: it's unlikely they'll obey your commands. 
+• Computing an instruction or signal that causes a computer to perform one of its basic functions. 
+• authority, especially over armed forces: an officer took command 
+who's in command? 
+we will have nearly thirty thousand people under our command. 
+• [in singular] the ability to use or control something: he had a brilliant command of English. 
+• [treated as singular or plural] Military a group of officers exercising control over a particular group or operation. 
+• Military a body of troops or a district under the control of a particular officer. 
+PHRASES
+at someone's command at someone's disposal; available: he had at his command a vast number of ready-made phrases.ORIGIN Middle English: from Old French comander ‘to command,’ from late Latin commandare, from com- (expressing intensive force) + mandare ‘commit, command.’ Compare with commend .

@@ -1,29 +1,97 @@
 open 
+ˈōpən
+
 ▶adjective
-1 the door's open: not shut, not closed, unlocked, unbolted, unlatched, off the latch, unfastened, unsecured; ajar, gaping, wide open, yawning. ANTONYMS closed, shut.
-2 a blue silk shirt, open at the neck: unfastened, not done up, undone, loose; unbuttoned, unzipped, unbuckled, untied, unlaced.
-3 the main roads are open: clear, passable, navigable, unblocked, unobstructed. ANTONYMS blocked, impassable.
-4 open countryside 
-open spaces: unenclosed, rolling, sweeping, extensive, wide open, unfenced, exposed, unsheltered; spacious, airy, uncrowded, uncluttered; undeveloped, unbuilt-up. ANTONYMS enclosed, developed.
-5 a map was open beside him: spread out, unfolded, unfurled, unrolled; extended, stretched out. ANTONYMS closed (up), folded.
-6 the bank wasn't open: open for business, open to the public. ANTONYMS closed.
-7 the position is still open: available, vacant, free, unfilled; informal up for grabs. ANTONYMS unavailable, filled.
-8 the system is open to abuse: vulnerable to, subject to, susceptible to, liable to, exposed to, an easy target for, at risk of, permitting of. ANTONYMS immune.
-9 she was open about her feelings: frank, candid, honest, forthcoming, communicative, forthright, direct, unreserved, plain-spoken, outspoken, straightforward, blunt, not afraid to call a spade a spade; informal upfront; archaic free-spoken. ANTONYMS secretive, withdrawn.
-10 open hostility: overt, obvious, patent, manifest, palpable, conspicuous, plain, undisguised, unconcealed, clear, apparent, evident; blatant, flagrant, barefaced, brazen. ANTONYMS concealed.
-11 the case is still open: unresolved, undecided, unsettled, yet to be settled, up in the air; open to debate, open for discussion, arguable, debatable, moot. ANTONYMS resolved, concluded.
-12 an open mind: impartial, unbiased, unprejudiced, objective, disinterested, nonpartisan, nondiscriminatory, neutral, dispassionate, detached. ANTONYMS biased, one-sided.
-13 I'm open to suggestions: receptive, amenable, willing to listen, ready to listen, responsive.
-14 what other options are open to us? available, accessible, on hand, obtainable.
-15 an open meeting: public, general, unrestricted, nonexclusive, nonrestrictive. ANTONYMS private.
-▶verb
-1 she opened the front door: unfasten, unlatch, unlock, unbolt, unbar; throw wide. ANTONYMS close, shut.
-2 Katherine opened the parcel: unwrap, undo, untie, unseal. ANTONYMS wrap, seal.
-3 shall I open another bottle? uncork, broach, crack (open). ANTONYMS seal, cork.
-4 Adam opened the map: spread out, unfold, unfurl, unroll, straighten out; extend, stretch out. ANTONYMS close, fold up.
-5 he opened his heart to her: reveal, uncover, expose, lay bare, bare, pour out, disclose, divulge.
-6 we're hoping to open next month: open for business, start trading, set up shop; informal hang out one's shingle.
-7 Valerie opened the meeting: begin, start, commence, initiate, set in motion, launch, get going, get underway, get the ball rolling, get off the ground; inaugurate; informal kick off, get the show on the road. ANTONYMS conclude, end.
-8 the lounge opens on to a balcony: give access to, lead to, be connected to, communicate with; face, overlook, command a view of.
-WORD LINKS
-open agoraphobia irrational fear of open or public placesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 allowing access, passage, or a view through an empty space; not closed or blocked up: it was a warm evening and the window was open 
+the door was wide open 
+the pass is kept open all year by snowplows. 
+• (of a container) not fastened or sealed: the case burst open and its contents flew all over the place. 
+• (of the mouth or eyes) with lips or lids parted: his eyes were open but he could see nothing. 
+• (of a garment or its fasteners) not buttoned or fastened: his tie was knotted below the open collar of his shirt. 
+• Phonetics (of a vowel) produced with a relatively wide opening of the mouth and the tongue kept low. 
+• Phonetics (of a syllable) ending in a vowel. 
+• (of the bowels) not constipated. 
+• (of a game or style of play) characterized by action that is spread out over the field.
+2 [attributive] exposed to the air or to view; not covered: an open fire burned in the grate 
+days without food and water in an open boat. 
+• (of an area of land) not covered with buildings or trees: increasing numbers of new houses in open countryside. 
+• (of a fabric) loosely knitted or woven. 
+• US (of a team member in a game) unguarded and therefore able to receive a pass: the trick is spreading the defense so that at least one receiver gets open. 
+• (of a goal or other object of attack in a game) unprotected; vulnerable. 
+• [predicative] (open to) likely to suffer from or be affected by; vulnerable or subject to: the system is open to abuse. 
+• (of a town or city) officially declared to be undefended, and so immune under international law from bombardment. 
+• with the outer edges or sides drawn away from each other; unfolded: the trees had buds and a few open flowers. 
+• (of a book or file) with the covers parted or the contents in view, allowing it to be read: she was copying verses from an open Bible. 
+• (of a hand) not clenched into a fist. 
+• [as complement] damaged or injured by a deep cut in the surface: he had his arm slashed open.
+3 [predicative] (of a store, place of entertainment, etc.) officially admitting customers or visitors; available for business: the store stays open until
+9 p.m. 
+• (of a bank account) available for transactions: the minimum required to keep the account open. 
+• (of a telephone line) ready to take calls: our free advice line is open from 8:30 to 5:30. 
+• (of a choice, offer, or opportunity) still available; such that people can take advantage of it: the offer is open while supplies last 
+we need to consider what options are left open.
+4 (of a person) frank and communicative; not given to deception or concealment: she was open and naive 
+I was quite open about my views. 
+• not concealed; manifest: his eyes showed open admiration. 
+• [attributive] (of conflict) fully developed and unconcealed: the dispute erupted into open war. 
+• involving no concealment, restraint, or deception; welcoming discussion, criticism, and inquiry: the conclusions were reached in open discussion.
+5 (of a question, case, or decision) not finally settled; still admitting of debate: students' choice of major can be kept open until the second year. 
+• (of the mind) accessible to new ideas; unprejudiced: I'm keeping an open mind about my future. 
+• [predicative] (open to) receptive to: the union was open to suggestions for improvements. 
+• [predicative] (open to) admitting of; making possible: the message is open to different interpretations. 
+• freely available or accessible; offered without restriction: the service is open to all students at the university. 
+• (also Open) with no restrictions on those allowed to attend or participate: an open audition was announced 
+each horse had won two open races. 
+• (of a ticket) not restricted as to day of travel.
+6 Music (of a string) allowed to vibrate along its whole length. 
+• (of a pipe) unstopped at each end. 
+• (of a note) sounded from an open string or pipe.
+7 (of an electrical circuit) having a break in the conducting path.
+8 Mathematics (of a set) not containing any of its limit points. 
+▶verb [with object]
+1 move or adjust (a door or window) so as to leave a space allowing access and view: she opened the door and went in 
+[no object] : “Open up!” he said. 
+• [no object] (of a door or window) be moved or adjusted to leave a space allowing access and view: the door opened and a man came out. 
+• undo or remove the lid, cover, or fastening of (a container, package, letter, etc.) to get access to the contents: he opened a bottle inexpertly, spilling some of the wine 
+can we open the presents now? 
+• part the lips or lids of (a mouth or eye): she opened her mouth to argue. 
+• [no object] (of the mouth or eyes) have the lips or lids parted in this way: her eyes slowly opened. 
+• [no object] come apart; lose or lack its protective covering: old wounds opened and I bled a little bit. 
+• improve or make possible access to or passage through: the president announced that his government would open the border. 
+• cause evacuation of (the bowels). 
+• [no object] (open onto/into) (of a room, door, or window) give access to: beautiful French doors that opened onto a balcony. 
+• [no object] (of a panorama) come into view; spread out before someone: stop to marvel at the views that open out below. 
+• Nautical achieve a clear view of (a place) by sailing past a headland or other obstruction: we shall open Simon's Bay at any minute now.
+2 unfold or be unfolded; spread out: [with object] : the eagle opened its wings and circled up into the air 
+the tail looks like a fan when it is opened out fully 
+[no object] : the flowers never opened beyond narrow points. 
+• part the covers or display the contents of (a book or file) to read it: she opened her book at the prologue. 
+• [no object] (open out) become wider or more spacious: the path opened out into a glade.
+3 make available or more widely known: the new plan proposed to open up opportunities to immigrants 
+the move may force the company to open up its plans for the future. 
+• [no object] (open up) become more communicative or confiding: neither one of them had opened up to me about their troubles. 
+• make (one's mind or heart) more receptive or sympathetic: open your mind to what is going on around you. 
+• (open someone (up) to) make someone vulnerable to: the process is going to open them to a legal threat.
+4 establish (a new business, movement, or enterprise): they have opened a new restaurant across the street. 
+• [no object] (of an enterprise, meeting, or event) begin or be formally established: two new restaurants open this week. 
+• make or become officially ready for customers, visitors, or business: [with object] : one woman raised $731 by opening her home and selling coffee and tea 
+[no object] : the mall didn't open until 10. 
+• take the action required to make ready for use: they have the $10 necessary to open a savings account 
+click twice to open a file. 
+• [no object] (of a piece of writing or music) begin: the chapter opens with a discussion of Anglo-American relations. 
+• (open up) [no object] (of a process) start to develop: a new and dramatic phase was opening up. 
+• officially or ceremonially declare (a building, road, etc.) to be completed and ready for use: we will have to wait until a new bypass is opened before we can tackle the problem of congestion. 
+• (of a counsel in a court of law) make a preliminary statement in (a case) before calling witnesses. 
+• Bridge make (the first bid) in the auction.
+5 break the conducting path of (an electrical circuit): the switch opens the motor circuit. 
+• [no object] (of an electrical circuit or device) suffer a break in its conducting path. 
+▶noun
+1 (Open) a championship or competition with no restrictions on who may qualify to compete: the venue for the British Open.
+2 an accidental break in the conducting path for an electrical current. 
+PHRASES
+be open with speak frankly to; conceal nothing from: I had always been completely open with my mother. an open book a person or thing that is easy to understand or about which everything is known: her mind was an open book to him. in (or into) the open out of doors; not under cover. 
+• not subject to concealment or obfuscation; made public: we have never let our dislike for him come into the open. in open court in a court of law, before the judge and the public. open-and-shut 
+ˌōp(ə)n(ə)nˈSHət 
+(of a case or argument) admitting no doubt or dispute; straightforward. open the door to see door. open someone's eyes see eye. open fire begin to shoot a weapon. an open mind see mind. with one's eyes open see eye. with open arms see arm1. PHRASAL VERBS open up begin shooting: the enemy artillery had opened up. open something up
+1 accelerate a motor vehicle.
+2 (of an athlete or team) create an advantage for one's side: he opened up a lead of 14–8.DERIVATIVES openable adjectiveORIGIN Old English open (adjective), openian (verb), of Germanic origin; related to Dutch open and German offen, from the root of the adverb up .

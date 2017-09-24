@@ -41,15 +41,28 @@ B.  transitive verb[help somebody out]
 ② (financially) 资助 zīzhù to help [somebody] out with the rent/mortgage 帮某人付房租/抵押贷款 
 ③ (in emergency) 帮助…摆脱困境 bāngzhù… bǎituō kùnjìng to help each other out in times of trouble 在困难时互相帮助 help through transitive verb[help somebody through something] 帮…度过 bāng… dùguò ‹difficult time, divorce›
 help 
-▶verb
-1 can you help me please? assist, aid, lend a (helping) hand to, give assistance to, come to the aid of; be of service to, be of use to; do someone a favor, do someone a service, do someone a good turn, bail someone out, come to someone's/the rescue, give someone a leg up; informal get someone out of a tight spot, save someone's bacon, save someone's skin. ANTONYMS hinder.
-2 this credit card helps cancer research: support, contribute to, give money to, donate to; promote, boost, back; further the interests of, bankroll. ANTONYMS impede.
-3 sore throats are helped by lozenges: relieve, soothe, ease, alleviate, make better, improve, assuage, lessen; remedy, cure, heal. ANTONYMS worsen.
-▶noun
-1 I'll take help wherever I can find it 
-this may be of help to you: assistance, aid, a helping hand, support, succor, advice, guidance; benefit, use, advantage, service, comfort; informal a shot in the arm.
-2 he sought help for his eczema: relief, alleviation, improvement, assuagement, healing; a remedy, a cure, a restorative.
-3 they treated the help badly: domestic worker, domestic servant, cleaner, cleaning lady, housekeeper, maid, hired help, helper.
-▶exclamation we heard the faint cries of "Help!" in the distance: SOS, mayday.
+help
+
+▶verb [with object]
+1 make it easier for (someone) to do something by offering one's services or resources: Roger's companion helped him with the rent 
+[with object and infinitive] : she helped him find a buyer 
+[no object] : the teenager helped out in the corner store. 
+• improve (a situation or problem); be of benefit to: upbeat comments about prospects helped confidence 
+sore throats can be helped by gargling 
+[no object] : legislation to fit all new cars with catalytic converters will help. 
+• [with object] assist (someone) to move in a specified direction: I helped her up. 
+• (help someone on/off with) assist someone to put on or take off (a garment).
+2 (help someone to) serve someone with (food or drink): she helped herself to a cookie. 
+• (help oneself) take something without permission: he helped himself to the wages she had brought home.
+3 (can/could not help) cannot or could not avoid: he could not help laughing 
+you can't help but agree. 
+• (can/could not help oneself) cannot or could not stop oneself from acting in a certain way: she couldn't help herself; she burst into tears. 
+▶noun the action of helping someone to do something; assistance: I asked for help from my neighbors 
+thank you for your help. 
+• [in singular] a person or thing that helps: he was a great help. 
+• a domestic employee: she has taught herself to cook since the defection of the last of the village helps 
+(as plural noun the help) : the help cleaned up the leftover food and half-drunk cocktails. 
+• [as modifier] giving assistance to a computer user in the form of displayed instructions: a help menu. 
+▶exclam. used as an appeal for urgent assistance: Help! I'm drowning! 
 PHRASES
-cannot help he could not help laughing: be unable to stop, be unable to refrain from, be unable to keep from. help oneself to Tara helped herself to one of the photo albums that we left on the table: steal, take, appropriate, borrow, liberate, pocket, lift, purloin, commandeer; informal swipe, nab, filch, walk off with, run off with, pinch.
+so help me (God) used to emphasize that one means what one is saying.there is no help for it there is no way of avoiding or remedying a situation.ORIGIN Old English helpan (verb), help (noun), of Germanic origin; related to Dutch helpen and German helfen .

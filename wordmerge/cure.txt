@@ -10,10 +10,24 @@ B.  noun
 ② Uncountable(recovery) 治愈 zhìyù to effect or work a cure 治愈 zhìyù beyond or past cure 无药可治的 → prevention 
 ③ Uncountable and countable(solution) 解决方法 jiějué fāngfǎ a cure for [something]; 解决某事的方法 the situation is beyond cure 这种局面已无可救药了 
 cure 
-▶verb
-1 after a long course of treatment, he was cured: heal, restore to health, make well/better; archaic cleanse.
-2 economic equality cannot cure all social ills: rectify, remedy, put/set right, right, fix, mend, repair, heal, make better; solve, sort out, be the answer/solution to; eliminate, end, put an end to.
-3 the farmers cured their own bacon: preserve, smoke, salt, dry, pickle.
+kyo͝or
+
+▶verb [with object]
+1 relieve (a person or animal) of the symptoms of a disease or condition: he was cured of the disease 
+figurative : centuries of science have not cured us of our superstitions. 
+• eliminate (a disease, condition, or injury) with medical treatment: this technology could be used to cure diabetes. 
+• solve (a problem): stopping foreign investment is no way to cure the fundamental problem.
+2 preserve (meat, fish, tobacco, or an animal skin) by various methods such as salting, drying, or smoking: some farmers cured their own bacon 
+(as adjective cured) : home-cured ham. 
+• harden (rubber, plastic, concrete, etc.) after manufacture by a chemical process such as vulcanization. 
+• [no object] undergo curing by a chemical process. 
 ▶noun
-1 a cure for cancer: remedy, medicine, medication, medicament, antidote, antiserum; treatment, therapy; archaic physic.
-2 interest rate cuts are not the cure for the problem: solution, answer, antidote, nostrum, panacea, cure-all; informal quick fix, magic bullet, silver bullet.
+1 a substance or treatment that cures a disease or condition: the search for a cure for the common cold. 
+• restoration to health: he was beyond cure. 
+• a solution to a problem: the cure is to improve the clutch operation.
+2 the process of curing rubber, plastic, or other material.
+3 a Christian minister's pastoral charge or area of responsibility for spiritual ministry: a benefice involving the cure of souls. 
+• a parish. DERIVATIVES curer 
+ˈkyo͝orər 
+nounORIGIN Middle English (as a noun): from Old French curer (verb), cure (noun), both from Latin curare ‘take care of,’ from cura ‘care.’ The original noun senses were ‘care, concern, responsibility,’ in particular spiritual care (hence sense
+3 of the noun). In late Middle English the senses ‘medical care’ and ‘successful medical treatment’ arose, and hence ‘remedy.’

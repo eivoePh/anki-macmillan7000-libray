@@ -7,4 +7,12 @@ noun
 ④ (measure) 指示物 zhǐshìwù a good indicator of the government's popularity 政府受欢迎程度的有效标志 
 ⑤ Chemistry 指示剂 zhǐshìjì 
 indicator 
-▶noun the test is used as an indicator of performance: measure, gauge, barometer, guide, index, mark, sign, signal, symptom; bellwether, herald, hint; standard, touchstone, yardstick, benchmark, criterion, point of reference, guideline, test, litmus test.
+ˈindəˌkādər
+
+▶noun
+1 a thing, especially a trend or fact, that indicates the state or level of something: car ownership is frequently used as an indicator of affluence.
+2 a device providing specific information on the state or condition of something, in particular: 
+• [usually with modifier] a gauge or meter of a specified kind: a speed indicator. 
+• British a turn signal.
+3 Chemistry a compound that changes color at a specific pH value or in the presence of a particular substance and can be used to monitor acidity, alkalinity, or the progress of a reaction.
+4 (also indicator species) an animal or plant species that can be used to infer conditions in a particular habitat.

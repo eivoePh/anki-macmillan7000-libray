@@ -20,18 +20,29 @@ C.  adverb
 ③ (in competition) 最末 zuì mò to rank last 名列末位 to come (in) or finish last; 得最后一名 to put [somebody]/[something] last; 把某人/某事物摆在最不重要的位置 
 last
 1 
-▶adjective
-1 the last woman in line: rearmost, hindmost, endmost, at the end, at the back, furthest (back), final, ultimate. ANTONYMS first, leading.
-2 Rembrandt spent his last years in Amsterdam: closing, concluding, final, ending, end, terminal; later, latter. ANTONYMS initial, early.
-3 I'd be the last person to say anything against him: least likely, most unlikely, most improbable; least suitable, most unsuitable, most inappropriate, least appropriate. ANTONYMS first, most likely.
-4 we met last year: the previous, the preceding; the prior, the former. ANTONYMS next.
-5 this was his last chance: final, only remaining.
-▶adverb the entrant arriving last is eliminated: at the end, at/in the rear.
-▶noun the most important business was left to the last: end, ending, finish, close, conclusion, finale, termination. ANTONYMS beginning.
+last
+
+▶adjective [attributive]
+1 coming after all others in time or order; final: they caught the last bus. 
+• met with or encountered after any others: the last house in the village. 
+• the lowest in importance or rank: finishing in last place 
+[as complement] : he came last in the race. 
+• (the last) the least likely or suitable: addicts are often the last people to face up to their problems 
+the last thing she needed was a husband.
+2 most recent in time; latest: last year 
+[postpositive] : your letter of Sunday last. 
+• immediately preceding in order; previous in a sequence or enumeration: their last album 
+this last point is critical.
+3 only remaining: it's our last hope. 
+▶adverb
+1 on the last occasion before the present; previously: he looked much older than when I'd last seen him.
+2 [in combination] after all others in order or sequence: the two last-mentioned classes.
+3 (especially in enumerating points) finally; in conclusion: and last, I'd like to thank you all for coming. 
+▶noun (plural same) the last person or thing; the one occurring, mentioned, or acting after all others: the last of their guests had gone 
+eating as if every mouthful were his last. 
+• (the last of) the only part of something that remains: they drank the last of the wine. 
+• [in singular] last position in a race, contest, or ranking: he came from last in a slowly run race. 
+• (the last) the end or last moment, especially death: she did love me to the last. 
+• (the last) the last mention or sight of someone or something: that was the last we saw of her. 
 PHRASES
-at last at last, the rain stopped: finally, at long last, after a long time, in the end, eventually, ultimately, in (the fullness of) time. last word
-1 that's my last word: final decision, definitive statement, conclusive comment.
-2 she was determined to have the last word: concluding remark, final say, closing statement.
-3 the last word in luxury and efficiency: best, peak, acme, epitome, latest; pinnacle, apex, apogee, ultimate, height, zenith, nonpareil, crème de la crème; archaic nonsuch. last hurrah Sunday's performance was Shelley's last hurrah: swan song, grand finale, finale, curtain call. 
-USAGE
-last, latest In precise usage, latest means 'most recent' (my latest project is wallpapering my dining room), and last means 'final' (the last day of the school year will be June 18). But last is often used in place of latest, especially in informal contexts: I read his last novel.Usage notes show additional guidance on finer points of English usage.
+at last (or at long last) after much delay: you've come back to me at last! —— one's last do something for the last time: the dying embers sparked their last. last but not least last in order of mention or occurrence but just as important. last call (British last orders) (in a bar) said to inform customers that closing time is approaching and that any further drinks should be purchased immediately: the hours were 11:00 last call and drink up by 11:15. one's (or the) last gasp see gasp. the last straw see straw. on one's last legs see leg. ORIGIN Old English latost (adverb) ‘after all others in a series,’ of Germanic origin; related to Dutch laatst, lest and German letzt, also to late .

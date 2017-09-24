@@ -6,8 +6,12 @@ A.  adjective
 ② (relating to dentistry) 牙科的 yákē de ‹examination, treatment›[somebody's] dental records 某人的牙科病历 
 B.  noun Linguistics 齿音 chǐyīn 
 dental 
-BrE ˈdɛnt(ə)l, AmE ˈdɛn(t)l 
-A. adjective 
-① (relating to teeth) 牙齿的 yáchǐ de ‹problem, health, hygiene, decay›
-② (relating to dentistry) 牙科的 yákē de ‹examination, treatment›[somebody's] dental records 某人的牙科病历 
-B.  noun Linguistics 齿音 chǐyīn 
+ˈden(t)l
+
+▶adjective
+1 [attributive] relating to the teeth: dental health. 
+• (abbreviation dent.) relating to dentistry: dental councils.
+2 Phonetics (of a consonant) pronounced with the tip of the tongue against the upper front teeth (as th) or the alveolar ridge (as n, d, t). 
+▶noun Phonetics a dental consonant. DERIVATIVES dentalize 
+ˈdentlˌīz 
+verb (Phonetics). dentally adverbORIGIN late 16th century: from late Latin dentalis, from Latin dens, dent- ‘tooth.’

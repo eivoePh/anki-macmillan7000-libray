@@ -1,15 +1,26 @@
 finish 
-▶verb
-1 Mrs. Porter had just finished the task: complete, end, conclude, stop, cease, terminate, bring to a conclusion/end/close, wind up; crown, cap, round off, put the finishing touches to; accomplish, discharge, carry out, do, get done, fulfill; informal wrap up, sew up, polish off. ANTONYMS start.
-2 Sarah has finished school: leave, give up, drop; stop, discontinue, have done with, complete; informal pack in, quit. ANTONYMS begin, continue.
-3 Hitch finished his dinner: consume, eat, devour, drink, finish off, polish off, gulp (down); use (up), exhaust, empty, drain, get through, run through; informal down. ANTONYMS start.
-4 the program has finished: end, come to an end, stop, conclude, come to a conclusion/end/close, cease. ANTONYMS start, begin.
-5 some items were finished in a black lacquer: varnish, lacquer, veneer, coat, stain, wax, shellac, enamel, glaze.
+ˈfiniSH
+
+▶verb [with object]
+1 bring (a task or activity) to an end; complete: they were straining to finish the job 
+[with present participle] : we finished eating our meal 
+[no object] : the musician finished to thunderous applause. 
+• consume or get through the final amount or portion of (something, especially food or drink): finish your fajita while it's still hot 
+Jerry finished off a margarita. 
+• [no object] (of an activity) come to an end: the war has finished but nothing has changed. 
+• [no object] (finish with) have no more need for or nothing more to do with: “I've finished with Tom,” Gloria said. 
+• reach the end of a race or other sporting competition, typically in a particular position: [with complement] : she finished third in the 3-meter springboard diving.
+2 (usually be finished) complete the manufacture or decoration of (a material, object, or place) by giving it an attractive surface appearance: the interior was finished with V-jointed American oak. 
+• complete the fattening of (livestock) before slaughter. 
+• dated prepare (a girl) for entry into fashionable society. 
 ▶noun
-1 the finish of filming: end, ending, completion, conclusion, close, closing, cessation, termination; final part/stage, finale, denouement; informal sewing up, polishing off. ANTONYMS start, beginning.
-2 a gallop to the finish: finishing line, finishing post, tape.
-3 an antiquated paint finish: veneer, lacquer, lamination, glaze, coating, covering; surface, texture.
+1 [usually in singular] an end or final part or stage of something: a bowl of raspberries was the perfect finish to the meal 
+I really enjoyed the film from start to finish. 
+• a point or place at which a race or competition ends: he surged into a winning lead 200 meters from the finish.
+2 the manner in which the manufacture of an article is completed in detail: wide variation in specification and finish. 
+• the surface appearance of a manufactured material or object, or the material used to produce this: lightweight nylon with a shiny finish. 
+• the final taste impression of a wine or beer: the wine has a lemony tang on the finish. 
 PHRASES
-finish off
-1 the executioners finished them off: kill, take/end the life of, execute, terminate, exterminate, liquidate, get rid of; informal wipe out, do in, bump off, take out, dispose of, do away with, ice, rub out, waste.
-2 financial difficulties finished off the business: overwhelm, overcome, defeat, get the better of, worst, bring down; informal drive to the wall, best.
+a fight to the finish a fight or contest that ends only with the complete defeat of one of the parties involved.PHRASAL VERBS finish someone off kill, destroy, or comprehensively defeat someone. finish up complete an action or process: he hadn't finished up the paperwork on it. 
+• end a period of time or course of action by doing something or being in a particular position: Tony started out running the back elevator and finished up as bell captain 
+we finished up with a plate of meats.ORIGIN Middle English: from Old French feniss-, lengthened stem of fenir, from Latin finire, from finis ‘end.’

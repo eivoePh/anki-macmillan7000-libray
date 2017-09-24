@@ -1,13 +1,23 @@
 grade 
+ɡrād
+
 ▶noun
-1 a higher grade of steel: category, set, class, classification, grouping, group, bracket.
-2 his job is of the lowest grade: rank, level, echelon, standing, position, class, status, order; step, rung, stratum, tier.
-3 she got the best grades in the class: mark, score; assessment, evaluation, appraisal.
-4 he's in grade 5: year; class.
-5 a steep grade. See gradient. 
-▶verb
-1 eggs are graded by size: classify, class, categorize, bracket, sort, group, arrange, pigeonhole; rank, evaluate, rate, value.
-2 the essays have been graded: score, mark, assess, judge, evaluate, appraise.
-3 the colors grade into one another: blend, shade, merge, pass.
+1 a particular level of rank, quality, proficiency, intensity, or value: sea salt is usually available in coarse or fine grades 
+grade AA butter. 
+• a level in a salary or employment structure. 
+• chiefly North American a mark indicating the quality of a student's work: I got good grades last semester. 
+• British an examination, especially in music: I took grade five and got a distinction. 
+• (with specifying ordinal number) those students in a school or school system who are grouped by age or ability for teaching at a particular level for a year: she teaches first grade. 
+• (in historical linguistics) one in a series of related root forms exhibiting ablaut. 
+• Zoology a group of animals at a similar evolutionary level.
+2 chiefly North American a gradient or slope: just over the crest of a long seven percent grade.
+3 [usually as modifier] a variety of cattle produced by crossing with a superior breed: grade stock. 
+▶verb [with object] (usually be graded)
+1 arrange in or allocate to grades; class or sort: they are graded according to thickness 
+(as adjective graded) : carefully graded exercises. 
+• chiefly North American give a mark to (a student or a piece of work).
+2 [no object] pass gradually from one level, especially a shade of color, into another: the sky graded from blue to white on the horizon.
+3 reduce (a road) to an easy gradient.
+4 cross (livestock) with a superior breed. 
 PHRASES
-make the grade informal he lacked the experience to make the grade: qualify, be up to scratch, come up to standard, pass, pass muster, measure up; succeed, win through; informal be up to snuff, cut it, cut the mustard.
+at grade North American on the same level: the crossing at grade of two streets. make the grade informal succeed; reach the desired standard.ORIGIN early 16th century: from French, or from Latin gradus ‘step.’ Originally used as a unit of measurement of angles (a degree of arc), the term later referred to degrees of merit or quality.

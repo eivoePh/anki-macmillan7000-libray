@@ -1,9 +1,17 @@
 risk 
-▶noun
-1 there is a certain amount of risk: chance, uncertainty, unpredictability, precariousness, instability, insecurity, perilousness, riskiness. ANTONYMS safety.
-2 the risk of fire: possibility, chance, probability, likelihood, danger, peril, threat, menace, fear, prospect. ANTONYMS impossibility.
-▶verb
-1 he risked his life to save them: endanger, imperil, jeopardize, hazard, gamble, gamble with, chance; put on the line, put in jeopardy.
-2 you risk getting cold and wet: chance, stand a chance of.
+risk
+
+▶noun a situation involving exposure to danger: flouting the law was too much of a risk 
+all outdoor activities carry an element of risk. 
+• [in singular] the possibility that something unpleasant or unwelcome will happen: reduce the risk of heart disease 
+[as modifier] : a high consumption of caffeine was suggested as a risk factor for loss of bone mass. 
+• [usually in singular with adjective] a person or thing regarded as likely to turn out well or badly, as specified, in a particular context or respect: Western banks regarded Romania as a good risk. 
+• [with adjective] a person or thing regarded as a threat or likely source of danger: she's a security risk 
+gloss paint can burn strongly and pose a fire risk. 
+• (usually risks) a possibility of harm or damage against which something is insured. 
+• the possibility of financial loss: [as modifier] : project finance is essentially an exercise in risk management. 
+▶verb [with object] expose (someone or something valued) to danger, harm, or loss: he risked his life to save his dog. 
+• act or fail to act in such a way as to bring about the possibility of (an unpleasant or unwelcome event): unless you're dealing with pure alcohol you're risking contamination from benzene. 
+• incur the chance of unfortunate consequences by engaging in (an action): he was far too intelligent to risk attempting to deceive her. 
 PHRASES
-at risk our soldiers are at risk every day: in danger, in peril, in jeopardy, under threat.
+at risk exposed to harm or danger: 23 million people in Africa are at risk from starvation. at one's (own) risk used to indicate that if harm befalls a person or their possessions through their actions, it is their own responsibility: they undertook the adventure at their own risk. at the risk of doing something although there is the possibility of something unpleasant resulting: at the risk of boring people to tears, I repeat the most important rule in painting. at risk to oneself (or something) with the possibility of endangering oneself or something: he visited prisons at considerable risk to his health. risk one's neck put one's life in danger. run the risk (or run risks) expose oneself to the possibility of something unpleasant occurring: she preferred not to run the risk of encountering his sister.ORIGIN mid 17th century: from French risque (noun), risquer (verb), from Italian risco ‘danger’ and rischiare ‘run into danger.’

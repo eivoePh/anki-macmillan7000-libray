@@ -2,13 +2,24 @@ added
 BrE ˈadɪd, AmE ˈædəd 
 adjective 额外的 éwài de ‹benefit, disappointment›; 附加的 fùjiā de ‹features›it's expensive, added to which it's ugly! 这东西又贵又难看！ 
 add 
-▶verb
-1 the back room was added in 1971 
-add more sugar to the mix: attach, build on, join, append, affix, connect, annex; include, incorporate, throw in, toss in; admix. ANTONYMS remove.
-2 they added all the numbers: total, add up, count, count up, compute, calculate, reckon, tally; dated cast up. ANTONYMS subtract.
-3 the subsidies added up to $1,700: amount to, come to, run to, make, total, equal, number.
-4 it all adds up to a deepening crisis: amount to, constitute; signify, signal, mean, indicate, denote, point to, be evidence of, be symptomatic of; informal spell.
-5 her decision just added to his woe: increase, magnify, amplify, augment, intensify, heighten, deepen; compound, reinforce; add fuel to the fire of, fan the flames of, rub salt on the wound of.
-6 she added that she had every confidence in Laura: go on to say, state further, continue, carry on.
-PHRASES
-add up informal the situation just didn't add up: make sense, stand to reason, hold up, hold water, ring true, be convincing.
+ad
+
+▶verb [with object]
+1 join (something) to something else so as to increase the size, number, or amount: a new wing was added to the building 
+some box offices now add on a handling charge 
+(as adjective added) : one vitamin tablet daily will give added protection 
+[no object] : this development added to the problems facing the staff. 
+• [no object] (add up) increase in amount, number, or degree: watch those air miles add up! 
+• put or mix (an ingredient) together with another as one of the stages in the preparation of a dish: add the flour to the eggs, stirring continuously. 
+• put (something) in or on something else so as to improve or alter its quality or nature: chlorine is added to the water to kill bacteria 
+(as adjective added) : the fruit juice contains no added sugar. 
+• contribute (an enhancing quality) to something: the canopy will add a touch of class to your bedroom.
+2 put together (two or more numbers or amounts) to calculate their total value: they added all the figures up 
+add the two numbers together 
+[no object] : children learned to add and subtract quickly and accurately. 
+• [no object] (add up to) amount to: this adds up to a total of 400 calories 
+figurative : these isolated incidents don't add up to a true picture of the situation. 
+• [no object, usually with negative] (add up) informal seem reasonable or consistent; make sense: many things in her story didn't add up.
+3 [reporting verb] say as a further remark: [with direct speech] : “I hope we haven't been too much trouble,” she added politely 
+[with object] : we would like to add our congratulations 
+[with clause] : he added that few of America's allies would support military action. ORIGIN late Middle English: from Latin addere, from ad- ‘to’ + the base of dare ‘put.’

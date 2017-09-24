@@ -6,6 +6,9 @@ transitive verb
 ③ (erode) «sea» 侵蚀…的基础 qīnshí… de jīchǔ ‹cliff, road›; «sea» 侵蚀 qīnshí ‹foundations›
 ④ (dig beneath) 在…下挖 zài… xia wā ‹wall›
 undermine 
-▶verb
-1 their integrity is being undermined: subvert, undercut, sabotage, threaten, weaken, compromise, diminish, reduce, impair, mar, spoil, ruin, damage, hurt, injure, cripple, sap, shake; informal drag through the mud. ANTONYMS strengthen, enhance.
-2 rivers undermined their banks: erode, wear away, eat away at.
+ˌəndərˈmīn
+
+▶verb [with object]
+1 erode the base or foundation of (a rock formation). 
+• dig or excavate beneath (a building or fortification) so as to make it collapse.
+2 damage or weaken (someone or something), especially gradually or insidiously: this could undermine years of hard work. DERIVATIVES underminer nounORIGIN Middle English: from under- + the verb mine2, probably suggested by Middle Dutch ondermineren .

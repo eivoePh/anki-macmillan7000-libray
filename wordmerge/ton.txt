@@ -6,11 +6,21 @@ noun
 1 0 0 yīnglǐ shísù (score) 100分
 1 0 0 fēn [体育比赛得分]to do a ton 以100英里的时速驾驶 he scored a ton at cricket 他在板球比赛中得了100分 
 ③ colloquial (a lot) 许多 xǔduō a ton of; 大量的 tons of 许多 xǔduō we've tons left 我们还剩下很多 her new car is tons better than the other one 她的新车比另一辆好得多 
-ton 
-BrE tʌn, AmE tən 
-noun 
-① BrE (in weight) 吨 dūn a three-ton truck 一辆三吨的卡车 to weigh a ton figurative 非常重 to come down on [somebody] like a ton of bricks (criticize) 严厉斥责某人 (punish harshly) 严厉惩处某人 
-② BrE colloquial (a hundred) (speed) 100英里时速
-1 0 0 yīnglǐ shísù (score) 100分
-1 0 0 fēn [体育比赛得分]to do a ton 以100英里的时速驾驶 he scored a ton at cricket 他在板球比赛中得了100分 
-③ colloquial (a lot) 许多 xǔduō a ton of; 大量的 tons of 许多 xǔduō we've tons left 我们还剩下很多 her new car is tons better than the other one 她的新车比另一辆好得多 
+ton
+1 
+tən 
+(abbreviation t also tn) 
+▶noun
+1 (also short ton) chiefly North American a unit of weight equal to 2,000 pounds avoirdupois (907.19 kg). 
+• (also long ton) a unit of weight equal to 2,240 pounds avoirdupois (1016.05 kg). 
+• short for metric ton. 
+• (also displacement ton) a unit of measurement of a ship's weight representing the weight of water it displaces, equal to 2,240 pounds or 35 cubic feet (0.99 cu m). 
+• (also freight ton) a unit of weight or volume of sea cargo, equal to a metric ton (1,000 kg) or 40 cubic feet. 
+• (also gross ton) a unit of gross internal capacity, equal to 100 cubic feet (2.83 cu. m). 
+• (also net or register ton) an equivalent unit of net internal capacity. 
+• a unit of refrigerating power able to freeze 2,000 pounds of water at 0°C in 24 hours. 
+• a measure of capacity for various materials, especially 40 cubic feet of timber.
+2 (usually a ton of/tons of) informal a large number or amount: all of a sudden I had tons of friends 
+that bag of yours weighs a ton. 
+PHRASES
+like a ton of bricks see brick. weigh a ton informal be extremely heavy: his boots were completely waterlogged and weighed a ton.ORIGIN Middle English: variant of tun, both spellings being used for the container and the weight. The senses were differentiated in the late 17th century.

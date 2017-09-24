@@ -1,9 +1,23 @@
 safe 
+sāf
+
 ▶adjective
-1 the jewels are safe in the bank: secure, protected, shielded, sheltered, guarded, out of harm's way. ANTONYMS insecure, at risk.
-2 the lost children are all safe: unharmed, unhurt, uninjured, unscathed, all right, well, in one piece, out of danger, home free; informal O
-K.  ANTONYMS in danger.
-3 a safe place to hide: secure, sound, impregnable, unassailable, invulnerable. ANTONYMS dangerous.
-4 a safe driver: cautious, circumspect, prudent, attentive; unadventurous, conservative, unenterprising. ANTONYMS reckless.
-5 the drug is safe: harmless, innocuous, benign, nontoxic, nonpoisonous. ANTONYMS harmful.
-▶noun I keep the ring in a safe: strongbox, safety-deposit box, safe-deposit box, coffer, strongroom, vault.
+1 [predicative] protected from or not exposed to danger or risk; not likely to be harmed or lost: eggs remain in the damp sand, safe from marine predators 
+she felt safer with them than alone. 
+• Baseball having reached a base without being put out: Davis was safe when the right fielder dropped a fly ball. 
+• Baseball allowing the batter to reach base and not involving an error: a safe hit. 
+• not likely to cause or lead to harm or injury; not involving danger or risk: we have to cross the river where it's safe for us to do so 
+a safe investment that produced regular income. 
+• (of a place) affording security or protection: put it in a safe place. 
+• often derogatory cautious and unenterprising: MacGregor would be a compromise, the safe choice. 
+• based on good reasons or evidence and not likely to be proved wrong: the verdict is safe and satisfactory 
+his world, it's safe to say, will not fall apart.
+2 uninjured; with no harm done: they had returned safe and sound 
+hopes of her safe return later faded. 
+▶noun
+1 a strong fireproof cabinet with a complex lock, used for the storage of valuables.
+2 North American informal a condom. 
+PHRASES
+in safe hands see hand. safe in the knowledge that used to indicate that one can do something without risk or worry on account of a specified fact: they used to recruit hundreds a year, safe in the knowledge that many would leave. to be on the safe side in order to have a margin of security against risks: to be on the safe side, she had recorded everything.DERIVATIVES safeness 
+ˈsāfnis 
+nounORIGIN Middle English (as an adjective): from Old French sauf, from Latin salvus ‘uninjured.’ The noun is from the verb save1, later assimilated to the adjectival form.

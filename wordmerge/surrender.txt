@@ -21,8 +21,14 @@ D.  nounUncountable and countable
 ⑤ Finance (cancellation of policy) 退保 tuìbǎo 
 ⑥ Law (giving up of lease, tenancy) 弃租 qì zū 
 surrender 
-▶verb
-1 the army surrendered: capitulate, give in, give (oneself) up, give way, yield, concede (defeat), submit, climb down, back down, cave in, relent, crumble; lay down one's arms, raise the white flag, throw in the towel. ANTONYMS resist.
-2 they surrendered power to the workers: give up, relinquish, renounce, forgo, forswear; cede, abdicate, waive, forfeit, sacrifice; hand over, turn over, yield, resign, transfer, grant. ANTONYMS seize.
-3 don't surrender all hope of changing things: abandon, give up, cast aside.
-▶noun the ordeal ended with their peaceful surrender: capitulation, submission, yielding, succumbing, acquiescence; fall, defeat, resignation.CHOOSE THE RIGHT WORD See relinquish .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+səˈrendər
+
+▶verb [no object] cease resistance to an enemy or opponent and submit to their authority: over 140 rebels surrendered to the authorities. 
+• [with object] give up or hand over (a person, right, or possession), typically on compulsion or demand: in 1815 Denmark surrendered Norway to Sweden 
+they refused to surrender their weapons. 
+• [with object] (in a sports contest) lose (a point, game, or advantage): she surrendered only twenty games in her five qualifying matches. 
+• (surrender to) abandon oneself entirely to (a powerful emotion or influence); give in to: he was surprised that Miriam should surrender to this sort of jealousy 
+he surrendered himself to the mood of the hills. 
+• [with object] (of an insured person) cancel (a life insurance policy) and receive back a proportion of the premiums paid. 
+▶noun the action of surrendering. 
+• the action of surrendering a life insurance policy. ORIGIN late Middle English (chiefly in legal use): from Anglo-Norman French (see sur-1, render) .

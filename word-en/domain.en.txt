@@ -1,4 +1,9 @@
 domain 
-▶noun
-1 they extended their domain: realm, kingdom, empire, dominion, province, territory, land.
-2 the domain of art: field, area, sphere, discipline, province, world.
+dōˈmān
+
+▶noun an area of territory owned or controlled by a ruler or government: the southwestern French domains of the Plantagenets. 
+• a specified sphere of activity or knowledge: the expanding domain of psychology 
+figurative : visual communication is the domain of the graphic designer. 
+• Physics a discrete region of magnetism in ferromagnetic material. 
+• Computing a distinct subset of the Internet with addresses sharing a common suffix or under the control of a particular organization or individual. 
+• Mathematics the set of possible values of the independent variable or variables of a function. ORIGIN late Middle English (denoting heritable or landed property): from French domaine, alteration (by association with Latin dominus ‘lord’) of Old French demeine ‘belonging to a lord’ (see demesne) .

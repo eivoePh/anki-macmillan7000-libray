@@ -11,8 +11,14 @@ C.  reflexive verb
 ① (establish identity) to identify oneself (as …) 自称（是…） zìchēng(shì… ) 
 ② (sympathize with) to identify oneself with [somebody]; 同情某人 tóngqíng mǒu rén 
 identify 
-▶verb
-1 the driver was identified by two witnesses: recognize, single out, pick out, spot, point out, pinpoint, put one's finger on, put a name to, name, know; discern, distinguish; remember, recall, recollect; informal finger; formal espy.
-2 I identified four problem areas: determine, establish, ascertain, make out, diagnose, discern, distinguish; verify, confirm; informal figure out, get a fix on, peg.
-3 they identify professional sports with wealth and glamour: associate, link, connect, relate, bracket, couple; mention in the same breath as, put side by side with.
-4 Peter identifies with the hero: empathize with, be in tune with, have a rapport with, feel at one with, sympathize with; be on the same wavelength as, speak the same language as; understand, relate to, feel for.
+īˈden(t)əˌfī
+
+▶verb (identifies, identifying, identified) [with object]
+1 establish or indicate who or what (someone or something) is: the judge ordered that the girl not be identified 
+the contact would identify himself simply as Cobra. 
+• recognize or distinguish (especially something considered worthy of attention): a system that ensures that the student's real needs are identified. 
+• [no object] (identify as) assign (a particular characteristic or categorization) to oneself; describe oneself as belonging to (a particular category or group): she identifies as a feminist 
+3.2% of the men identified as gay or bisexual.
+2 (identify someone/something with) associate (someone) closely with; regard (someone) as having strong links with: he was equivocal about being identified too closely with the peace movement. 
+• equate (someone or something) with: because of my upstate accent, people identified me with a homely farmer's wife. 
+• [no object] (identify with) regard oneself as sharing the same characteristics or thinking as someone else: I liked Fromm and identified with him. ORIGIN mid 17th century (in the sense ‘treat as being identical with’): from medieval Latin identificare, from late Latin identitas (see identity) + Latin -ficare (from facere ‘make’).

@@ -1,10 +1,33 @@
-state
-1 
+state 
+stāt
+
 ▶noun
-1 the state of the economy: condition, shape, situation, circumstances, position; predicament, plight.
-2 informal don't get into a state: fluster, frenzy, fever, fret, panic, state of agitation/anxiety; informal flap, tizzy, dither, stew, sweat.
-3 informal your room is in a state: mess, chaos, disorder, disarray, confusion, muddle, heap, shambles; clutter, untidiness, disorganization, imbroglio.
-4 an autonomous state: country, nation, land, sovereign state, nation state, kingdom, realm, power, republic, confederation, federation.
-5 the country is divided into thirty-two states: province, federal state, region, territory, canton, department, county, district, shire.
-6 the power of the state: government, parliament, administration, regime, authorities.
-▶adjective a state visit to France: ceremonial, official, formal, governmental, national, public. ANTONYMS unofficial, private, informal.
+1 the particular condition that someone or something is in at a specific time: the state of the company's finances 
+we're worried about her state of mind. 
+• a physical condition as regards internal or molecular form or structure: water in a liquid state. 
+• [in singular] (a state) informal an agitated or anxious condition: don't get into a state. 
+• [in singular] informal a dirty or untidy condition: look at the state of you—what a mess! 
+• Physics short for quantum state.
+2 a nation or territory considered as an organized political community under one government: Germany, Italy, and other European states. 
+• an organized political community or area forming part of a federal republic: the German state of Bavaria. 
+• (the States) informal term for United States.
+3 the civil government of a country: services provided by the state 
+[in combination] : state-run agency 
+King Fahd appointed a council to advise him on affairs of state. 
+• (the States) the legislative body in Jersey, Guernsey, and Alderney.
+4 pomp and ceremony associated with monarchy or high levels of government: he was buried in state.
+5 [usually with modifier] an impression taken from an etched or engraved plate at a particular stage. 
+• a particular printed version of the first edition of a book, distinguished from others by prepublication changes. 
+▶adjective [attributive]
+1 of, provided by, or concerned with the civil government of a country: the future of state education 
+a state secret.
+2 used or done on ceremonial occasions; involving the ceremony associated with a head of state: a state visit to Hungary by Queen Elizabeth. 
+▶verb
+1 [reporting verb] express something definitely or clearly in speech or writing: [with clause] : the report stated that more than 51 percent of voters failed to participate 
+[with direct speech] : “Money hasn't changed me,” she stated firmly 
+[with object] : people will be invited to state their views. 
+• [with object] chiefly Law specify the facts of (a case) for consideration: judges must give both sides an equal opportunity to state their case.
+2 [with object] Music present or introduce (a theme or melody) in a composition. 
+PHRASES
+state of affairs (or things) a situation or set of circumstances: the survey revealed a sorry state of affairs in schools.state of the art the most recent stage in the development of a product, incorporating the newest ideas and the most up-to-date features. 
+• (as adjective state-of-the-art) incorporating the newest ideas and the most up-to-date features: a new state-of-the-art hospital. state of emergency a situation of national danger or disaster in which a government suspends normal constitutional procedures in order to regain control: the government has declared a state of emergency. state of grace a condition of being free from sin. state of life (in religious contexts) a person's occupation, calling, or status. state of war a situation when war has been declared or is in progress.DERIVATIVES statable adjectiveORIGIN Middle English (as a noun): partly a shortening of estate, partly from Latin status ‘manner of standing, condition’ (see status). The current verb senses date from the mid 17th century.

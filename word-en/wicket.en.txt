@@ -1,6 +1,13 @@
 wicket 
-BrE ˈwɪkɪt, AmE ˈwɪkɪt 
-noun 
-① (gate, door) 小门 xiǎo mén a wicket gate or door 小门 xiǎo mén 
-② AmE (in bank, ticket office) 窗口 chuāngkǒu 
-③ (in cricket) (structure) 三柱门 sānzhù mén (ground) 三柱门之间的草地 sānzhùmén zhījiān de cǎodì (dismissal) 出局 chūjú to be on a sticky wicket 处境不利 
+ˈwikit
+
+▶noun
+1 (also wicket door or wicket gate) a small door or gate, especially one beside or in a larger one. 
+• North American an opening in a door or wall, often fitted with glass or a grille and used for selling tickets or a similar purpose. 
+• North American one of the wire hoops on a croquet course.
+2 Cricket each of the sets of three stumps with two bails across the top at either end of the pitch, defended by a batsman. 
+• the prepared strip of ground between the wickets. 
+• the dismissal of a batsman; each of ten dismissals regarded as marking a division of a side's innings: Darlington won by four wickets. 
+PHRASES
+a sticky wicket Cricket a pitch that has been drying after rain and is difficult to bat on. 
+• [in singular] informal a tricky or awkward situation: the problem of who sits where can create a sticky wicket. take a wicket Cricket (of a bowler or a fielding side) dismiss a batsman.ORIGIN Middle English (in the sense ‘small door or grille’): from Anglo-Norman French and Old Northern French wiket; origin uncertain, usually referred to the Germanic root of Old Norse víkja ‘to turn, move.’ Cricket senses date from the late 17th century.

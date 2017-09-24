@@ -7,7 +7,10 @@ B.  transitive verb
 ② (outlive) 比…活得长 bǐ… huó de cháng she is survived by three daughters 她身后留下3个女儿 to survive [somebody] by
 10 years 比某人多活10年 
 survive 
-▶verb
-1 he survived by escaping through a hole: remain alive, live, sustain oneself, pull through, get through, hold on/out, make it, keep body and soul together.
-2 the theater must survive: continue, remain, persist, endure, live on, persevere, abide, go on, carry on, be extant, exist.
-3 he was survived by his sons: outlive, outlast; live longer than.
+sərˈvīv
+
+▶verb [no object] continue to live or exist, especially in spite of danger or hardship: against all odds the child survived. 
+• [with object] continue to live or exist in spite of (an accident or ordeal): he has survived several assassination attempts. 
+• [with object] remain alive after the death of (a particular person): he was survived by his wife and six children 
+(as adjective surviving) : there were no surviving relatives. 
+• [no object] manage to keep going in difficult circumstances: she had to work day and night and survive on two hours sleep. ORIGIN late Middle English: from Old French sourvivre, from Latin supervivere, from super- ‘in addition’ + vivere ‘live.’

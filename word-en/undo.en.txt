@@ -1,5 +1,11 @@
 undo 
-▶verb
-1 he undid another button: unfasten, unbutton, unhook, untie, unlace; unlock, unbolt; loosen, disentangle, extricate, release, detach, free, open; disconnect, disengage, separate. ANTONYMS fasten.
-2 they will undo a decision by the superior court: revoke, overrule, overturn, repeal, rescind, reverse, retract, countermand, cancel, annul, nullify, invalidate, void, negate; Law vacate; formal abrogate. ANTONYMS ratify.
-3 she undid much of the good work done: ruin, undermine, subvert, overturn, scotch, sabotage, spoil, impair, mar, destroy, wreck, eradicate, obliterate; cancel out, neutralize, thwart, foil, frustrate, hamper, hinder, obstruct; informal blow, put the kibosh on, foul up, scuttle. ANTONYMS enhance.
+ˌənˈdo͞o
+
+▶verb (undoes 
+-ˈdəz
+, undoing; past undid; past participle undone) [with object]
+1 unfasten, untie, or loosen (something): the knot was difficult to undo.
+2 cancel or reverse the effects or results of (a previous action or measure): there wasn't any way Evelyn could undo the damage. 
+• cancel (the last one or more commands executed by a computer).
+3 formal cause the downfall or ruin of: Iago's hatred of women undoes him. 
+▶noun Computing a feature of a computer program that allows a user to cancel or reverse the last one or more commands executed. ORIGIN Old English undōn (see un-2, do1) .

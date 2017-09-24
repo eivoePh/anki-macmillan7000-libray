@@ -6,9 +6,20 @@ B.  transitive verb
 ① (make map of) 绘制…的地图 huìzhì… de dìtú ‹area›
 ② (show on map) 在地图上标出 zài dìtú shang biāochū ‹route›PHRASAL VERB map out transitive verb[map out something], [map something out] 详细安排 xiángxì ānpái ‹future, career›to map out one's plans for the holiday 详细制订度假计划 
 map 
-▶noun we'll never find their house without a map: plan, chart, cartogram, survey, plat, plot; road map, street map, guide; atlas, globe; relief map, contour map; Mercator projection, Peters projection.
-▶verb the region was mapped from the air: chart, plot, delineate, draw, depict, portray.
+map
+
+▶noun
+1 a diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc.: a street map 
+figurative : expansion of the service sector is reshaping the map of employment. 
+• a two-dimensional representation of the positions of stars or other astronomical objects. 
+• a diagram or collection of data showing the spatial arrangement or distribution of something over an area: an electron density map. 
+• Biology a representation of the sequence of genes on a chromosome or of bases in a DNA or RNA molecule. 
+• Mathematics another term for mapping.
+2 informal, dated a person's face. 
+▶verb (maps, mapping, mapped) [with object] represent (an area) on a map; make a map of: inaccessible parts will be mapped from the air. 
+• record in detail the spatial distribution of (something): the project to map the human genome. 
+• associate (a group of elements or qualities) with an equivalent group, according to a particular formula or model: the transformational rules map deep structures into surface structures. 
+• Mathematics associate each element of (a set) with an element of another set. 
+• [no object] be associated or linked to something: it is not obvious that the subprocesses of language will map onto individual brain areas. 
 PHRASES
-map out he mapped out the plan for our campaign: outline, set out, lay out, sketch out, trace out, rough out, block out, delineate, detail, draw up, formulate, work out, frame, draft, plan, plot out, arrange, design, program. 
-WORD LINKS
-map cartographic relating to maps cartography the science of drawing mapsWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+off the map (of a place) very distant or remote: just a hick town, right off the map. put something on the map bring something to prominence: the exhibition put Cubism on the map. wipe something off the map obliterate something totally.PHRASAL VERBS map something out plan a route or course of action in detail: I mapped out a route over familiar country near home.DERIVATIVES mapless adjective. mappable adjective. mapper nounORIGIN early 16th century: from medieval Latin mappa mundi, literally ‘sheet of the world,’ from Latin mappa ‘sheet, napkin’ + mundi ‘of the world’ (genitive of mundus).

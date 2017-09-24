@@ -20,12 +20,27 @@ B.  intransitive verb
 ④ colloquial (make money) 获得大笔款项 huòdé dà bǐ kuǎnxiàng 
 C.  reflexive verb to collect oneself 镇静下来 zhènjìng xialai 
 D.  adverb AmE 由接收人付款 yóu jiēshōurén fùkuǎn to call ([somebody]) collect （给某人）打由受话人付费的电话 PHRASAL VERBS collect together transitive verb [collect something together, collect together something] 收拾 shōushi collect up transitive verb [collect something up, collect up something] 把…收放好 bǎ… shōu fàng hǎo 
-collect 
-▶verb
-1 he collected the rubbish 
-she collects figurines: gather, accumulate, assemble; amass, stockpile, pile up, heap up, store (up), hoard, save; mass, accrue. ANTONYMS squander, distribute.
-2 a crowd collected in the square: gather, assemble, meet, muster, congregate, convene, converge, flock together. ANTONYMS disperse.
-3 I must collect the children: fetch, go/come to get, call for, meet. ANTONYMS take, drop off.
-4 they collect money for charity: raise, appeal for, ask for, solicit; obtain, acquire, gather. ANTONYMS give away, distribute.
-5 he paused to collect himself : recover, regain one's composure, pull oneself together, steady oneself; informal get a grip (on oneself). ANTONYMS disperse, distribute.
-6 she collected her thoughts: gather, summon (up), muster, get together, marshal. ANTONYMS disperse, distribute.
+collect
+1 
+kəˈlekt
+
+▶verb [with object]
+1 bring or gather together (things, typically when scattered or widespread): he went around the office collecting old coffee cups 
+he collected up all his clothing. 
+• accumulate and store over a period of time: collect rainwater to use on the garden. 
+• systematically seek and acquire (items of a particular kind) as a hobby: I've started collecting stamps 
+[no object] : the urge to collect, to have the full set, is in us all. 
+• [no object] come together and form a group or mass: worshipers collected together in a stadium 
+dust and dirt collect so quickly.
+2 call for and take away; fetch: the children were collected from school. 
+• go somewhere and accept or receive (something), especially as a right or due: she went to Oxford to collect her honorary degree. 
+• solicit and receive (donations), especially for charity: collecting money for the war effort 
+[no object] : we collected for the United Way. 
+• receive (money that is due); be paid: [with object] : they called to collect a debt 
+[no object] : he'd come to collect.
+3 (collect oneself) regain control of oneself, typically after a shock. 
+• bring together and concentrate (one's thoughts).
+4 archaic conclude; infer: by all best conjectures, I collect Thou art to be my fatal enemy.
+5 cause (a horse) to bring its hind legs further forward as it moves, thereby shortening the stride and increasing balance and impulsion. 
+▶adverb & adjective North American (with reference to a telephone call) to be paid for by the person receiving it: [as adverb] : I called my mother collect 
+[as adjective] : a collect call. ORIGIN late Middle English: from Old French collecter or medieval Latin collectare, from Latin collect- ‘gathered together,’ from the verb colligere, from col- ‘together’ + legere ‘choose or collect.’

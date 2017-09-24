@@ -1,7 +1,37 @@
 bind 
-▶verb
-1 they bound our hands and feet: tie (up), fasten (together), hold together, secure, make fast, attach; rope, strap, lash, fetter, truss, hog-tie, tether. ANTONYMS untie, release.
-2 the experience had bound them together : unite, join, bond, knit together, draw together, yoke together. ANTONYMS separate.
-3 we were bound by a rigid timetable: constrain, restrict, restrain, trammel, tie hand and foot, tie down, fetter, shackle, hog-tie; hamper, hinder, inhibit.
-4 the edges are bound in a contrasting color: trim, hem, edge, border, fringe; finish; archaic purfle.
-▶noun we're in a terrible bind: predicament, awkward situation, difficult situation, quandary, dilemma, plight, spot, tight spot; informal Catch-22, fix, hole.
+bīnd
+
+▶verb (past and past participle bound 
+bound
+) [with object]
+1 tie or fasten (something) tightly: floating bundles of logs bound together with ropes 
+the magician bound her wrists with a silk scarf. 
+• restrain (someone) by the tying up of hands and feet: the raider then bound and gagged Mr. Glenn. 
+• wrap (something) tightly: her hair was bound up in a towel. 
+• bandage (a wound): he cleaned the wound and bound it up with a clean dressing 
+she had bound his wounds with a poultice of herbs. 
+• (be bound with) (of an object) be encircled by something, typically metal bands, in order to strengthen it: an ancient oak chest, bound with brass braces. 
+• Linguistics (of a rule or set of grammatical conditions) determine the relationship between (coreferential noun phrases).
+2 cohere or cause to cohere in a single mass: [with object] : mix the flour with the coconut and enough egg white to bind them 
+[no object] : clay is made up chiefly of tiny soil particles that bind together tightly. 
+• cause (painting pigments) to form a smooth medium by mixing them with oil: use a white that is bound in linseed oil. 
+• hold by chemical bonding: a protein in a form that can bind DN
+A.  
+• [no object] (bind to) combine with (a substance) through chemical bonding: these proteins have been reported to bind to calmodulin.
+3 cause (people) to feel united: the comradeship that had bound such a disparate bunch of young men together. 
+• (bind someone to) cause someone to feel strongly attached to (a person or place): loosened the ties that had bound him to the university.
+4 formal impose a legal or contractual obligation on: a party who signs a document will normally be bound by its terms. 
+• indenture (someone) as an apprentice: he was bound apprentice at the age of sixteen. 
+• (bind oneself) formal make a contractual or enforceable undertaking: the government cannot bind itself as to the form of subsequent legislation. 
+• secure (a contract), typically with a sum of money. 
+• (be bound by) be hampered or constrained by: Sarah did not want to be bound by a rigid timetable.
+5 fix together and enclose (the pages of a book) in a cover: a small, fat volume, bound in red morocco.
+6 trim (the edge of a piece of material) with a decorative strip: a ruffle with the edges bound in a contrasting color.
+7 Logic (of a quantifier) be applied to (a given variable) so that the variable falls within its scope. [For example, in an expression of the form ‘For every x, if x is a dog, x is an animal,’ the universal quantifier is binding the variable x.] 
+▶noun
+1 a problematical situation: he is in a political bind over the welfare issue.
+2 formal a statutory constraint: the moral bind of the law.
+3 British Music another term for tie.
+4 another term for bine. 
+PHRASES
+bind someone hand and foot see hand. PHRASAL VERBS bind off North American cast off in knitting. bind someone over (usually be bound over) (of a court of law) require someone to fulfill an obligation, typically by paying a sum of money as surety: he was bound over for trial on a felony charge.ORIGIN Old English bindan, of Germanic origin; related to Dutch and German binden, from an Indo-European root shared by Sanskrit bandh .

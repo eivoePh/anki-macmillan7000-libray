@@ -5,9 +5,21 @@ noun
 ② Countable(point in time) 时刻 shíkè (occasion) 时机 shíjī an important moment in history 重要历史关头 the moment of birth/death 出生/死亡的那一刻 at that moment 在那时 at the same moment 同时 the moment that … 一…（就…） at the moment 目前 at this moment in time 此时此刻 at any moment 随时 for the moment (for now) 暂时 (at present) 目前 of the moment 当前最重要的 the moment of truth 关键时刻 on the spur of the moment 一时冲动地 in the heat of the moment 一时激动之下 never a dull moment colloquial 从不感到乏味 to have one's or its moments colloquial 也有走红的时候 to change from one moment to the next 一会儿一变 to live for the moment colloquial 过一天算一天 to leave everything to the last moment 什么事情都拖到最后一刻 
 ③ Uncountableliterary (importance) 重要 zhòngyào of (great) moment; （非常）重要的 of little/some moment 无足轻重的/有点儿重要的 
 moment 
+ˈmōmənt
+
 ▶noun
-1 he thought for a moment: little while, short time, bit, minute, instant, second, split second; informal sec.
-2 the moment they met: point (in time), time, hour.
-3 formal issues of little moment: importance, import, significance, consequence, note, weight, concern, interest.
+1 a very brief period of time: she was silent for a moment before replying 
+a few moments later he returned to the office. 
+• an exact point in time: she would always remember the moment they met. 
+• an appropriate time for doing something; an opportunity: I was waiting for the right moment. 
+• a particular stage in something's development or in a course of events: one of the great moments in aviation history.
+2 formal importance: the issues were of little moment to the electorate.
+3 Physics a turning effect produced by a force acting at a distance on an object. 
+• the magnitude of a turning effect produced by a force acting at a distance, expressed as the product of the force and the distance from its line of action to a given point.
+4 Statistics a quantity that expresses the average or expected value of the first, second, third, or fourth power of the deviation of each component of a frequency distribution from some given value, typically mean or zero. The first moment is the mean, the second moment the variance, the third moment the skew, and the fourth moment the kurtosis. 
 PHRASES
-in a moment the show will start in a moment: very soon, in a minute, in a second, in a trice, shortly, any minute (now), in the twinkling of an eye, in (less than) no time, in no time at all, momentarily; informal in a jiff, in a jiffy, in two shakes (of a lamb's tail), in the blink of an eye, in a snap, in a heartbeat, in a flash; literary ere long.
+any moment (or at any moment) very soon.at the (or this) moment at the present time; now. for the moment for now. have a moment informal be currently popular or in fashion: the hitherto unfashionable Tyrol is currently having a moment 
+Brady believes foreign language films definitely had a moment about
+7 years ago. have one's (or its) moments have short periods that are better or more impressive than others: thanks to his gently comic performance, the film has its moments. in a moment
+1 very soon: I'll be back in a moment.
+2 instantly: the fugitive was captured in a moment. live for the moment live or act without worrying about the future. the moment —— as soon as ——: the heavens opened the moment we left the house. moment of truth a time when a person or thing is tested, a decision has to be made, or a crisis has to be faced. [with allusion to the final sword-thrust in a bullfight.] not a moment too soon almost too late. not for a (or one) moment not at all; never. of the moment currently popular, famous, or important: the buzzword of the moment. one moment (or just a moment) a request for someone to wait for a short period of time, especially to allow the speaker to do or say something.share a moment informal experience a joint sensation of heightened emotion: Alan and Barbara shared a moment yesterday after the memorial service.ORIGIN late Middle English: from Latin momentum (see momentum).

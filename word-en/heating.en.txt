@@ -1,11 +1,4 @@
-heat 
-▶noun
-1 a plant sensitive to heat: warmth, hotness, warmness, high temperature; hot weather, warm weather, sultriness, mugginess, humidity; heat wave, hot spell. ANTONYMS cold.
-2 he took the heat out of the dispute: passion, intensity, vehemence, warmth, fervor, fervency; enthusiasm, excitement, agitation; anger, fury. ANTONYMS apathy.
-3 a female bear in heat: estrus, season, sexual receptivity.
-▶verb
-1 the food was heated: warm, warm up, heat up, make hot, make warm; reheat, cook, microwave; informal nuke, zap. ANTONYMS cool, chill.
-2 the pipes expand as they heat up : become hot, become warm, get hotter, get warmer, increase in temperature. ANTONYMS cool (down).
-3 he calmed down as quickly as he had heated up : become impassioned, become excited, become animated; get angry, become enraged.
-WORD LINKS
-heat thermal , caloric relating to heatWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+heating 
+ˈhēdiNG
+
+▶noun equipment or devices used to provide heat, especially to a building: baseboard heating.

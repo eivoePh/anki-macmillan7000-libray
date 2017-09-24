@@ -19,10 +19,26 @@ B.  transitive verb
 ⑨ Art, Literature, Music 涉及 shèjí ‹subject, composition›to handle all aspects of the subject 论及这个问题的各个方面 
 C.  intransitive verb Auto to handle well/badly 容易/难以驾驶 róngyì/nányǐ jiàshǐ 
 handle 
-▶verb
-1 the equipment must be handled with care: hold, pick up, grasp, grip, lift; feel, touch, finger; informal paw.
-2 a car that is easy to handle: control, drive, steer, operate, maneuver, manipulate.
-3 she handled the problems well: deal with, manage, tackle, take care of, take charge of, attend to, see to, sort out, apply oneself to, take in hand; respond to, field.
-4 the advertising company that is handling the account: administer, manage, control, conduct, direct, guide, supervise, oversee, be in charge of, take care of, look after.
-5 the traders handled goods manufactured in the Rhineland: trade in, deal in, buy, sell, supply, peddle, traffic in, purvey, hawk, tout, market.
-▶noun the knife's handle: haft, shank, stock, shaft, grip, handgrip, hilt, helve, butt; knob.
+ˈhandl
+
+▶verb [with object]
+1 feel or manipulate with the hands: heavy paving slabs can be difficult to handle 
+people who handle food. 
+• drive or control (a vehicle): where did you learn to handle a boat? 
+• [no object] (of a vehicle) respond in a specified manner when being driven or controlled: a roadworthy bicycle that also handles well off the pavement.
+2 manage (a situation or problem): a lawyer's ability to handle a case properly. 
+• informal deal with (someone or something): I don't think I could handle it if they turned me down. 
+• control or manage commercially: the advertising company that is handling the account. 
+• [with adverbial] (handle oneself) conduct oneself in a specified manner: he handled himself with considerable aplomb. 
+• (handle oneself) informal defend oneself physically or verbally: I can handle myself in a fight. 
+▶noun
+1 the part by which a thing is held, carried, or controlled: the pan features helpful lifting handles. 
+• (a handle on) a means of understanding, controlling, or approaching a person or situation: it'll give people some kind of handle on these issues 
+get a handle on your life.
+2 informal a name or nickname: that's some handle for a baby 
+a former Washington DJ whose handle was ‘Fat Daddy’ 
+• a person’s username on an online forum or social media site: she's changed her Twitter handle.
+3 [in singular] US informal the total amount of money bet over a particular time (typically at a casino) or at a particular sporting event: the monthly handle of a couple of casinos in Las Vegas.
+4 US a large bottle in which liquor is sold, typically holding one half gallon: a handle of Jim Beam. DERIVATIVES handleability 
+ˌhandl-əˈbilitē 
+noun. handleable adjective. handleless adjectiveORIGIN Old English handle (noun), handlian (verb), from hand .

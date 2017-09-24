@@ -7,10 +7,13 @@ noun
 ④ AmE (of record) 唱片套 chàngpiàntào 
 ⑤ (of potato) 土豆皮 tǔdòu pí a jacket potato 带皮烤的土豆 
 jacket 
-BrE ˈdʒakɪt, AmE ˈdʒækət 
-noun 
-① (garment) 夹克 jiākè jacket pocket 夹克口袋 
-② Technology (insulating cover) 保温套 bǎowēntào 
-③ (of book) 护封 hùfēng 
-④ AmE (of record) 唱片套 chàngpiàntào 
-⑤ (of potato) 土豆皮 tǔdòu pí a jacket potato 带皮烤的土豆 
+ˈjakət
+
+▶noun an outer garment extending either to the waist or the hips, typically having sleeves and a fastening down the front. 
+• an outer covering, especially one placed around a tank or pipe to insulate it. 
+• a metal casing for a bullet. 
+• the skin of a potato: potatoes cooked in their jackets. 
+• the dust jacket of a book. 
+• a record sleeve. 
+• a steel frame fixed to the seabed, forming the support structure of an oil production platform. 
+▶verb (jackets, jacketing, jacketed) [with object] cover with a jacket. ORIGIN late Middle English: from Old French jaquet, diminutive of jaque (see jack2) .

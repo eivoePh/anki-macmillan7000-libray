@@ -6,7 +6,15 @@ noun
 ③ Countable(part) (of poem) 诗节 shījié (of song) 段落 duànluò 
 ④ CountableBible 节 jié 
 verse 
-▶noun
-1 Elizabethan verse: poetry, versification, poetic form; poems, balladry, lyrics, lines, doggerel; literary poesy. ANTONYMS prose.
-2 a verse he'd composed for our anniversary: poem, lyric, ballad, sonnet, ode, limerick, rhyme, ditty, lay.
-3 a poem with sixty verses: stanza, canto, couplet, cinquain; strophe.REFLECTIONS See poetry Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+vərs
+
+▶noun writing arranged with a metrical rhythm, typically having a rhyme: a lament in verse 
+[as modifier] : verse drama. 
+• a group of lines that form a unit in a poem or song; a stanza: the second verse. 
+• each of the short numbered divisions of a chapter in the Bible or other scripture. 
+• a versicle. 
+• archaic a line of poetry. 
+• a passage in an anthem for a soloist or a small group of voices. 
+▶verb [no object] archaic speak in or compose verse; versify. DERIVATIVES verselet 
+ˈvərslət 
+nounORIGIN Old English fers, from Latin versus ‘a turn of the plow, a furrow, a line of writing,’ from vertere ‘to turn’; reinforced in Middle English by Old French vers, from Latin versus .

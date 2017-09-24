@@ -1,6 +1,7 @@
 amendment 
-BrE əˈmɛn(d)m(ə)nt, AmE əˈmɛn(d)mənt 
-noun 
-① CountableLaw, Politics (alteration to law, contract) 修正案 xiūzhèng'àn 
-② UncountableLaw, Politics (altering) 修改 xiūgǎi 
-③ Uncountableformal (improvement) 改进 gǎijìn 
+əˈmen(d)mənt
+
+▶noun a minor change in a document. 
+• a change or addition to a legal or statutory document: an amendment to existing bail laws. 
+• (Amendment) an article added to the US Constitution: the First Amendment. 
+• something that is added to soil in order to improve its texture or fertility. ORIGIN Middle English (in the sense ‘improvement, correction’): from Old French amendement, from amender (see amend) .

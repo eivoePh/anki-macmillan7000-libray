@@ -1,17 +1,34 @@
 feel 
-▶verb
-1 she felt the fabric: touch, stroke, caress, fondle, finger, thumb, handle.
-2 she felt a breeze on her back: perceive, sense, detect, discern, notice, be aware of, be conscious of.
-3 you will not feel any pain: experience, undergo, go through, bear, endure, suffer.
-4 he felt his way toward the door: grope, fumble, scrabble, pick.
-5 feel the temperature of the water: test, try (out), check, assess.
-6 he feels that he should go to the meeting: believe, think, consider (it right), be of the opinion, hold, maintain, judge; informal reckon, figure.
-7 I feel that he is only biding his time: sense, have a (funny) feeling, get the impression, have a hunch, intuit.
-8 the air feels damp: seem, appear, strike one as.
-▶noun
-1 the divers worked by feel: (sense of) touch, tactile sense, feeling (one's way).
-2 the feel of the paper: texture, surface, finish; weight, thickness, consistency, quality.
-3 the feel of a room: atmosphere, ambience, aura, mood, feeling, air, impression, character, tenor, spirit, flavor; informal vibrations, vibes.
-4 a feel for languages: aptitude, knack, flair, bent, talent, gift, faculty, ability.
+fēl
+
+▶verb (past and past participle felt 
+felt
+) [with object]
+1 be aware of (a person or object) through touching or being touched: she felt someone touch her shoulder. 
+• be aware of (something happening) through physical sensation: she felt the ground give way beneath her. 
+• examine or search by touch: he touched her head and felt her hair 
+[no object] : he felt around for the matches. 
+• [no object] be capable of sensation: the dead cannot feel. 
+• [no object, with complement] give a sensation of a particular physical quality when touched: the wool feels soft. 
+• (feel something out) informal investigate something cautiously: they want to feel out the situation. 
+• (feel someone up) informal fondle someone for one's own sexual stimulation.
+2 experience (an emotion or sensation): I felt a sense of excitement 
+[no object] : I felt angry and humiliated 
+we feel very strongly about freedom of expression. 
+• [no object, with complement] consider oneself to be in a particular state or exhibiting particular qualities: he doesn't feel obliged to visit every weekend. 
+• (feel up to) have the strength and energy to do or deal with: after the accident she didn't feel up to driving. 
+• [usually with negative] (feel oneself) be healthy and well: Ruth was not quite feeling herself. 
+• be emotionally affected by: he didn't feel the loss of his mother so keenly. 
+• (feel for) have compassion for: poor woman—I feel for her.
+3 [with clause] have a belief or impression, especially without an identifiable reason: she felt that the woman positively disliked her. 
+• hold an opinion: I felt I could make a useful contribution. 
+▶noun [usually in singular]
+1 an act of touching something to examine it. 
+• the sense of touch: he worked by feel rather than using his eyes.
+2 a sensation given by an object or material when touched: nylon cloth with a cotton feel. 
+• the impression given by something: the restaurant has a modern bistro feel.
+3 (feels) informal feelings of heightened emotion: fans will undoubtedly get the feels when they see how things haven't changed 
+I cried a ton because I had too many feels. 
 PHRASES
-feel for tell your mother we certainly feel for her: sympathize with, be sorry for, pity, feel pity for, feel sympathy for, feel compassion for, be moved by; commiserate with, condole with. feel like I feel like some lemon meringue pie: want, would like, wish for, desire, fancy, feel in need of, long for; informal yen for, be dying for.
+feel one's age become aware that one is growing older and less energetic. feel free (to do something) have no hesitation or shyness (often used as an invitation or for reassurance): feel free to say what you like.feel like (doing) something be inclined to have or do: I feel like celebrating. feel one's oats see oat. feel the pinch see pinch. feel the pulse of see pulse1. feel small see small. feel strange see strange. feel one's way find one's way by touch rather than sight: she plunged into the darkness of the tunnel, feeling her way along the walls. 
+• act cautiously, especially in an area with which one is unfamiliar: she was new in the job, still feeling her way. get a (or the) feel for (or of) familiarize oneself with: you can explore to get a feel of the place.have a feel for have a sensitive appreciation or an intuitive understanding of: you have to have a feel for animals. make oneself (or one's presence) felt have a noticeable effect or influence: the economic crisis began to make itself felt.ORIGIN Old English fēlan.

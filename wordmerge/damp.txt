@@ -11,8 +11,21 @@ C.  transitive verb
 ① (reduce) 使…减弱 shǐ… jiǎnruò ‹fire, furnace›
 ② (extinguish) 使…熄灭 shǐ… xīmiè ‹fire, furnace›
 damp 
-▶adjective her hair was damp: moist, moistened, wettish, dampened, dampish; humid, steamy, muggy, clammy, sweaty, sticky, dank, moisture-laden, wet, wetted; rainy, drizzly, showery, misty, foggy, vaporous, dewy. ANTONYMS dry.
-▶noun the damp in the air: moisture, dampness, humidity, wetness, wet, water, condensation, steam, vapor; clamminess, dankness; rain, dew, drizzle, precipitation, spray; perspiration, sweat. ANTONYMS dryness.
-▶verb
-1 sweat damped his hair. See dampen (sense 1).
-2 nothing damped my enthusiasm. See dampen (sense 2). WORD TOOLKIT See wet .Word Toolkits illustrate the difference between close synonyms by means of words typically used with them.
+damp
+
+▶adjective slightly wet: her hair was still damp from the shower. 
+▶noun
+1 moisture diffused through the air or a solid substance or condensed on a surface, typically with detrimental or unpleasant effects. 
+• foul, stifling, or poisonous gas, especially in a mine. 
+• (damps) archaic damp air or atmosphere.
+2 archaic a check or discouragement: shame gave a damp to her triumph. 
+▶verb [with object]
+1 make (something) slightly wet: damp a small area with water.
+2 control or restrain (a feeling or a state of affairs): she tried to damp down her feelings of despair. 
+• make (a fire) burn less strongly by reducing the flow of air to it.
+3 restrict the amplitude of vibrations on (a piano or other musical instrument) so as to reduce the volume of sound: rapidly damping the cymbals after repeatedly clashing them together. 
+• Physics progressively reduce the amplitude of (an oscillation or vibration): concrete structures damp out any vibrations. DERIVATIVES dampish 
+ˈdampiSH 
+adjective. damply 
+ˈdamplē 
+adverbORIGIN Middle English (in the noun sense ‘noxious inhalation’); related to a Middle Low German word meaning ‘vapor, steam, smoke.’

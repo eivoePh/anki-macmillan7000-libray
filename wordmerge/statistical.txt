@@ -2,5 +2,6 @@ statistical
 BrE stəˈtɪstɪk(ə)l, AmE stəˈtɪstək(ə)l 
 adjective 统计的 tǒngjì de ‹evidence, analysis, error, work›
 statistical 
-BrE stəˈtɪstɪk(ə)l, AmE stəˈtɪstək(ə)l 
-adjective 统计的 tǒngjì de ‹evidence, analysis, error, work›
+stəˈtistək(ə)l
+
+▶adjective relating to the use of statistics: a statistical comparison.

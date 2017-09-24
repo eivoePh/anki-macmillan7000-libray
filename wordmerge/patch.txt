@@ -19,13 +19,32 @@ A.  [patch up something, patch something up] transitive verb
 ② figurative colloquial (restore relations after) 调停 tiáotíng ‹quarrel, dispute›; 弥合 míhé ‹differences›
 B.  [patch somebody up, patch somebody up] transitive verb colloquial 为…临时包扎 wèi… línshí bāozā 
 patch 
+paCH
+
 ▶noun
-1 a patch over one eye: cover, eye patch, covering, pad.
-2 a reddish patch on her wrist: blotch, mark, spot, smudge, speckle, smear, stain, streak, blemish; informal splotch.
-3 a patch of ground: plot, area, piece, strip, tract, parcel; bed, allotment, lot, plat.
-4 informal they are going through a difficult patch: period, time, spell, phase, stretch.
-▶verb her jeans were neatly patched: mend, repair, put a patch on, sew (up), stitch (up).
+1 a piece of cloth or other material used to mend or strengthen a torn or weak point. 
+• a pad or shield worn over a sightless or injured eye or an eye socket. 
+• a piece of cloth sewn onto clothing as a badge or distinguishing mark. 
+• Computing a small piece of code inserted into a program to improve its functioning or to correct an error. 
+• an adhesive piece of drug-impregnated material worn on the skin so that the drug can be absorbed gradually over a period of time. 
+• a part of something marked out from the rest by a particular characteristic: his hair was combed forward to hide a growing bald patch. 
+• a small area or amount of something: patches of bluebells in the grass. 
+• historical a small disk of black silk attached to the face, especially as worn by women in the 17th and 18th centuries for adornment.
+2 a small piece of ground, especially one used for gardening: they spent Sundays digging their vegetable patch. 
+• British informal an area for which someone is responsible or in which they operate: we didn't want any secret organizations on our patch.
+3 informal a period of time seen as a distinct unit with a characteristic quality: he may have been going through a bad patch.
+4 a temporary electrical or telephone connection. 
+• a preset configuration or sound-data file in an electronic musical instrument, especially a synthesizer. 
+▶verb [with object]
+1 mend or strengthen (fabric or an item of clothing) by putting a piece of material over a hole or weak point in it: her jeans were neatly patched. 
+• Medicine place a patch over (a good eye) in order to encourage a lazy eye to work: the amblyopia may be treated by patching the good eye. 
+• Computing correct, enhance, or modify (a routine or program) by inserting a patch. 
+• (usually be patched) cover small areas of (a surface) with something different, causing it to appear variegated: the grass was patched with sandy stretches. 
+• (patch someone/something up) informal treat someone's injuries or repair the damage to something, especially hastily: they did their best to patch up the gaping wounds. 
+• (patch something together) construct something hastily from unsuitable components: lean-tos patched together from aluminum siding and planks 
+figurative : they were trying to patch together an arrangement for cooperation. 
+• (patch something up) informal restore peaceful or friendly relations after a quarrel or dispute: any ill feeling could be patched up with a phone call 
+they sent him home to patch things up with his wife.
+2 connect by a temporary electrical, radio, or telephonic connection: Ralph had patched her through to the meeting by walkie-talkie. 
 PHRASES
-patch up informal
-1 the houses were being patched up: repair, mend, fix hastily, do a makeshift repair on.
-2 he's trying to patch things up with his wife: reconcile, make up, settle, remedy, put to rights, rectify, clear up, set right, make good, resolve, square.
+not a patch on British informal greatly inferior to: he no longer looked so handsome—he wasn't a patch on Peter.DERIVATIVES patcher nounORIGIN late Middle English: perhaps from a variant of Old French pieche, dialect variant of piece ‘piece.’

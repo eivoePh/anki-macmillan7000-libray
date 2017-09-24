@@ -1,2 +1,13 @@
 noise 
-▶noun I have a headache from all the noise: sound, din, hubbub, clamor, racket, uproar, tumult, commotion, pandemonium, babel; informal hullabaloo. ANTONYMS silence.
+noiz
+
+▶noun
+1 a sound, especially one that is loud or unpleasant or that causes disturbance: making a noise like a pig in a trough 
+what's that rustling noise outside the door? 
+• a series or combination of loud, confused sounds, especially when causing disturbance: dazed with the heat and noise 
+vibration and noise from traffic. 
+• (noises) conventional remarks or other sounds that suggest some emotion or quality: Clarissa made encouraging noises.
+2 technical irregular fluctuations that accompany a transmitted electrical signal but are not part of it and tend to obscure it. 
+• random fluctuations that obscure or do not contain meaningful data or other information: over half the magnitude of the differences came from noise in the data. 
+▶verb [with object] (usually be noised about) dated talk about or make known publicly: you've discovered something that should not be noised about. 
+• [no object] literary make much noise. ORIGIN Middle English (also in the sense ‘quarreling’): from Old French, from Latin nausea ‘seasickness’ (see nausea).

@@ -12,10 +12,23 @@ A.  adjective
 ⑧ (impartial) 客观公正的 kèguān gōngzhèng de ‹report, jury›
 B.  noun Politics 无党派人士 wúdǎngpài rénshì to stand for election as an independent 以独立候选人身份参选 
 independent 
+ˌindəˈpendənt
+
 ▶adjective
-1 an independent country: self-governing, self-ruling, self-determining, sovereign, autonomous, free, nonaligned. ANTONYMS subservient, dependent.
-2 two independent groups of biologists verified the results: separate, different, unconnected, unrelated, dissociated, discrete. ANTONYMS connected.
-3 independent schools: private, private-sector, non-state-run, fee-paying; privatized, denationalized. ANTONYMS public, state-run.
-4 her grown-up, independent children: self-sufficient, self-supporting, self-reliant, standing on one's own two feet. ANTONYMS dependent.
-5 independent advice: impartial, unbiased, unprejudiced, neutral, disinterested, uninvolved, uncommitted, detached, dispassionate, objective, nonpartisan, nondiscriminatory. ANTONYMS biased.
-6 an independent spirit: freethinking, free, individualistic; unconventional, maverick, bold, unconstrained, unfettered, untrammeled. ANTONYMS orthodox, constrained.
+1 free from outside control; not depending on another's authority: the study is totally independent of central government 
+Canada's largest independent investment firm. 
+• (of a country) self-governing: India became independent in 1947. 
+• not belonging to or supported by a political party: the independent candidate. 
+• (of broadcasting, a school, etc.) not supported by public funds. 
+• not influenced or affected by others; impartial: a thorough and independent investigation of the case. 
+• (Independent) historical Congregational.
+2 not depending on another for livelihood or subsistence: I wanted to remain independent in old age. 
+• capable of thinking or acting for oneself: advice for independent travelers. 
+• (of income or resources) making it unnecessary to earn one's living: a woman of independent means.
+3 not connected with another or with each other; separate: we need two independent witnesses to testify 
+the legislature and the judicature are independent of each other. 
+• not depending on something else for strength or effectiveness; freestanding: an independent electric shower. 
+• Mathematics (of one of a set of axioms, equations, or quantities) incapable of being expressed in terms of, or derived or deduced from, the others. 
+▶noun an independent person or body. 
+• an independent political candidate, voter, etc. 
+• (Independent) historical a Congregationalist. ORIGIN early 17th century (as an adjective): partly on the pattern of French indépendant .

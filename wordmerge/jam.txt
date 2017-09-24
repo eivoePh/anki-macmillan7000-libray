@@ -25,12 +25,26 @@ B.  intransitive verb 挤进来 jǐ jinlai a large crowd had jammed in to see th
 ② (cause to stop moving) 卡住 qiǎzhù ‹lock, gun, switch, door›
 jam
 1 
-▶verb
-1 he jammed a finger in each ear: stuff, shove, force, ram, thrust, press, push, stick, squeeze, cram.
-2 hundreds of people jammed into the hall: crowd, pack, pile, press, squeeze, squish, cram, wedge; throng, mob, occupy, fill, overcrowd, obstruct, block, congest.
-3 the rudder had jammed: stick, become stuck, catch, seize (up), become trapped.
-4 dust can jam the mechanism: immobilize, paralyze, disable, cripple, put out of action, bring to a standstill; clog.
-5 we were just jamming and his amp blew: improvise, play (music), extemporize, ad lib.
+jam
+
+▶verb (jams, jamming, jammed)
+1 [with object] squeeze or pack tightly into a specified space: four of us were jammed in one compartment 
+people jammed their belongings into cars 
+[no object] : 75,000 refugees jammed into a stadium today to denounce the accord. 
+• push (something) roughly and forcibly into position or a space: he jammed his hat on. 
+• crowd onto (a road) so as to block it: the roads were jammed with traffic. 
+• cause (telephone lines) to be continuously busy with a large number of calls: listeners jammed WBOQ's switchboard with calls.
+2 become or make unable to move or work due to a part seizing or becoming stuck: [no object] : the photocopier jammed 
+[with object] : the doors were jammed open. 
+• [with object] make (a broadcast or other electronic signal) unintelligible by causing interference: GPS signals are weak and easily jammed.
+3 [no object] informal improvise with other musicians, especially in jazz or blues: the opportunity to jam with Atlanta blues musicians. 
 ▶noun
-1 a traffic jam: congestion, holdup, bottleneck, gridlock, backup, tie-up, snarl-up.
-2 informal we are in a real jam: predicament, plight, tricky situation, difficulty, problem, quandary, dilemma, muddle, mess, imbroglio, mare's nest, dire straits; informal pickle, stew, fix, hole, scrape, bind, tangle, spot, tight spot, corner, tight corner, hot/deep water, can of worms.
+1 an instance of a machine or thing seizing or becoming stuck: paper jams. 
+• informal an awkward situation or predicament: I'm in a jam. 
+• short for traffic jam. 
+• [often with adjective] Climbing a handhold obtained by stuffing a part of the body such as a hand or foot into a crack in the rock.
+2 (also jam session) an informal gathering of musicians improvising together, especially in jazz or blues. 
+• (especially in dance or urban music) a song or track: an ultra catchy jam, driven by the drums but given substance by the interjection of horns 
+the band dedicated about a quarter of the set to new jams. 
+PHRASES
+jam on the brakes operate the brakes of a vehicle suddenly and forcibly, typically in an emergency.ORIGIN early 18th century: probably symbolic; compare with jag1 and cram .

@@ -8,10 +8,11 @@ A.  noun
 ④ Countable BrE (drink) 汽水 qìshuǐ 
 B.  adjective 矿物的 kuàngwù de mineral salts 矿物盐 mineral deposits 矿藏 
 mineral 
-BrE ˈmɪn(ə)r(ə)l, AmE ˈmɪn(ə)rəl 
-A. noun 
-① Countable(substance, class) 矿物 kuàngwù a metallic/non-metallic mineral 金属矿/非金属矿 
-② Uncountable(inorganic solid) 无机物 wújīwù to class or classify [something] as mineral 将某物归入无机物类 
-③ Countable(substance extracted by mining) 开采物 kāicǎiwù 
-④ Countable BrE (drink) 汽水 qìshuǐ 
-B.  adjective 矿物的 kuàngwù de mineral salts 矿物盐 mineral deposits 矿藏 
+ˈmin(ə)rəl
+
+▶noun
+1 a solid inorganic substance of natural occurrence. 
+• a substance obtained by mining. 
+• an inorganic substance needed by the human body for good health.
+2 (minerals) British (in commercial use) effervescent soft drinks. 
+▶adjective of or denoting a mineral: mineral ingredients such as zinc oxide. ORIGIN late Middle English: from medieval Latin minerale, neuter (used as a noun) of mineralis, from minera ‘ore.’

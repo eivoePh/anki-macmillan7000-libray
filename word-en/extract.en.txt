@@ -1,10 +1,19 @@
 extract 
-▶verb
-1 he extracted the videocassette: take out, draw out, pull out, remove, withdraw; free, release, extricate. ANTONYMS insert.
-2 extracting money: wrest, exact, wring, screw, squeeze, obtain by force, obtain by threat(s), extort, blackmail someone for; informal put the bite on someone for.
-3 the roots are crushed to extract the juice: squeeze out, express, press out, obtain. ANTONYMS add, infuse.
-4 the figures are extracted from the report: excerpt, select, reproduce, copy, take. ANTONYMS insert.
-5 ideas extracted from a variety of theories: derive, develop, evolve, deduce, infer, obtain; formal educe.
-▶noun
-1 an extract from his article: excerpt, passage, citation, quotation; (excerpts) analects.
-2 an extract of the ginseng root: decoction, distillation, distillate, abstraction, concentrate, essence, juice.
+▶verb 
+ikˈstrakt 
+[with object] remove or take out, especially by effort or force: the decayed tooth will have to be extracted. 
+• obtain (something such as money or an admission) from someone in the face of initial unwillingness: I won't let you go without trying to extract a promise from you. 
+• obtain (a substance or resource) from something by a special method: lead was extracted from the copper. 
+• select (a passage from a piece of writing, music, or film) for quotation, performance, or reproduction: the table is extracted from the report. 
+• derive (an idea or the evidence for it) from a body of information: the desire to extract meaningful lessons from a few experiments. 
+• Mathematics calculate (a root of a number). 
+▶noun 
+ˈekˌstrakt 
+
+1 a short passage taken from a piece of writing, music, or film: an extract from a historical film.
+2 a preparation containing the active ingredient of a substance in concentrated form: vanilla extract 
+extract of chamomile. DERIVATIVES extractability 
+ikˌstraktəˈbilitē 
+noun. extractable 
+ikˈstraktəb(ə)l 
+adjectiveORIGIN late Middle English: from Latin extract- ‘drawn out,’ from the verb extrahere, from ex- ‘out’ + trahere ‘draw.’

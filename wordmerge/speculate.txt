@@ -6,6 +6,9 @@ A.  intransitive verb
 ② Finance 投机 tóujī to speculate on the Stock Exchange 炒股 to speculate for or on a rise/fall 看涨/看跌投机 to speculate in [something]; 做某物的投机买卖 one must speculate to accumulate 想发财就得敢冒险 
 B.  transitive verb 猜测 cāicè to speculate that … 推测… tuīcè… it has been widely speculated that … 人们普遍猜测… rénmen pǔbiàn cāicè… to speculate what/where/who … 对是什么/在哪里/是谁…作推测 duì shì shénme/zài nǎli/shì shuí… zuò tuīcè 
 speculate 
-▶verb
-1 they speculated about my private life: conjecture, theorize, hypothesize, guess, surmise; think, wonder, muse.
-2 investors speculate on the stock market: gamble on, take a risk on, venture in, wager on; invest in, play.
+ˈspekyəˌlāt
+
+▶verb [no object]
+1 form a theory or conjecture about a subject without firm evidence: my colleagues speculate about my private life 
+[with clause] : observers speculated that the authorities wished to improve their image.
+2 invest in stocks, property, or other ventures in the hope of gain but with the risk of loss: he didn't look as though he had the money to speculate in stocks. ORIGIN late 16th century: from Latin speculat- ‘observed from a vantage point,’ from the verb speculari, from specula ‘watchtower,’ from specere ‘to look.’

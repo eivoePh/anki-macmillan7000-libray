@@ -1,6 +1,14 @@
 inject 
-▶verb
-1 he injected a painkiller: administer, introduce; informal shoot (up), mainline.
-2 a pump injects air into the valve: insert, introduce, feed, push, force, shoot.
-3 he injected new life into the team: introduce, instill, infuse, imbue, breathe.
-4 she injected a note of realism into the debate: interject, interpose, throw in, add, contribute.
+inˈjekt
+
+▶verb [with object]
+1 drive or force (a liquid, especially a drug or vaccine) into a person or animal's body with a syringe or similar device: the doctor injected a painkilling drug. 
+• administer a drug or medicine to (a person or animal) in this way: he injected himself with a drug overdose. 
+• [no object] inject oneself with a narcotic drug, especially habitually: people who want to stop injecting. 
+• introduce (something) into a passage, cavity, or solid material under pressure: inject the foam and allow it to expand. 
+• Physics introduce or feed (a current, beam of particles, etc.) into a substance or device. 
+• place (a spacecraft or other object) into an orbit or trajectory: many meteoroids are injected into hyperbolic orbits.
+2 introduce (a new or different element) into something, especially as a boost or interruption: she tried to inject scorn into her tone. 
+• (inject something with) imbue something with (a new element): he injected his voice with a confidence he didn't feel. DERIVATIVES injectable 
+inˈjektəb(ə)l 
+adjective & nounORIGIN late 16th century (in the sense ‘throw or cast on something’): from Latin inject- ‘thrown in,’ from the verb inicere, from in- ‘into’ + jacere ‘throw.’

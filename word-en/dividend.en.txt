@@ -1,4 +1,9 @@
 dividend 
+ˈdivəˌdend
+
 ▶noun
-1 an annual dividend: share, portion, premium, return, gain, profit, commission; informal cut.
-2 the research will produce dividends in the future: benefit, advantage, gain; bonus, extra, plus.
+1 a sum of money paid regularly (typically quarterly) by a company to its shareholders out of its profits (or reserves). 
+• a payment divided among a number of people, e.g., members of a cooperative or creditors of an insolvent estate. 
+• an individual's share of a dividend. 
+• (dividends) a benefit from an action or policy: persistence pays dividends. See also peace dividend.
+2 Mathematics a number to be divided by another number. ORIGIN late 15th century (in the general sense ‘portion, share’): from Anglo-Norman French dividende, from Latin dividendum ‘something to be divided,’ from the verb dividere (see divide) .

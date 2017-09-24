@@ -11,7 +11,23 @@ B.  noun
 ② AmE (subsidiary subject in university) 辅修科目 fǔxiū kēmù 
 C.  intransitive verb AmE (study a subsidiary subject) 辅修 fǔxiū to minor in …; 辅修… 
 minor 
+ˈmīnər
+
 ▶adjective
-1 a minor problem: slight, small; unimportant, insignificant, inconsequential, inconsiderable, subsidiary, negligible, trivial, trifling, paltry, petty, nickel-and-dime; informal piffling, piddling; Law de minimis. ANTONYMS major.
-2 a minor poet: little known, unknown, lesser, unimportant, insignificant, obscure, minor-league; informal small-time, two-bit. ANTONYMS important.
-▶noun the heir to the throne was a minor: child, infant, youth, adolescent, teenager, boy, girl; informal kid, kiddie. ANTONYMS adult.WORD TOOLKITminorslightunimportantinjurybreezebackwaterleaguesmovementtownoffenseadvantagepoetmiracleexaggerationliteraturesurgeryanglecolonysetbackpossibilitypaperworkWord Toolkits illustrate the difference between close synonyms by means of words typically used with them.
+1 lesser in importance, seriousness, or significance: minor alterations.
+2 Music (of a scale) having intervals of a semitone between the second and third degrees, and (usually) the fifth and sixth, and the seventh and eighth. Contrasted with major. 
+• (of an interval) characteristic of a minor scale and less by a semitone than the equivalent major interval. Compare with diminished. 
+• [usually postpositive] (of a key or mode) based on a minor scale, tending to produce a sad or pensive effect: Concerto in A minor.
+3 Logic (of a term) occurring as the subject of the conclusion of a categorical syllogism. 
+• (of a premise) containing the minor term in a categorical syllogism. 
+▶noun
+1 a person under the age of full legal responsibility.
+2 Music a minor key, interval, or scale. 
+• (Minor) Bell-ringing a system of change-ringing using six bells.
+3 (the minors) North American the minor leagues in a particular professional sport, especially baseball: he's been pitching in the minors for six years.
+4 North American a college student's subsidiary subject or area of concentration: a minor in American Indian studies.
+5 Logic a minor term or premise.
+6 Bridge short for minor suit. 
+▶verb [no object] (minor in) North American study or qualify in as a subsidiary subject at college or university. 
+PHRASES
+in a minor key (especially of a literary work) understated.ORIGIN Middle English: from Latin, ‘smaller, less’; related to minuere ‘lessen.’ The term originally denoted a Franciscan friar, suggested by the Latin name Fratres Minores (‘Lesser Brethren’), chosen by St. Francis for the order.

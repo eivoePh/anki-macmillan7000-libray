@@ -1,5 +1,8 @@
 balanced 
-▶adjective
-1 a balanced view: fair, equitable, just, unbiased, unprejudiced, objective, impartial, even-handed, dispassionate. ANTONYMS partial.
-2 a balanced diet: mixed, varied; healthy, sensible, well balanced. ANTONYMS unhealthy.
-3 a balanced individual: levelheaded, well balanced, well adjusted, mature, stable, sensible, practical, realistic, grounded, with both feet on the ground, pragmatic, reasonable, rational, sane, even-tempered, commonsensical, full of common sense; informal together. ANTONYMS neurotic.
+ˈbalənst
+
+▶adjective keeping or showing a balance; arranged in good proportions: she assembled a balanced team. 
+• taking everything into account; fairly judged or presented: accurate and balanced information. 
+• (especially of food) having different elements in the correct proportions: a healthy, balanced diet. 
+• (of a person or state of mind) having no emotion lacking or too strong; stable: a balanced personality. 
+• (of an electrical circuit or signal) being symmetrical with respect to a reference point, typically ground.

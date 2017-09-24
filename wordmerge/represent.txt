@@ -11,13 +11,27 @@ transitive verb
 ⑧ (portray on stage, film) 演绎 yǎnyì ‹character, situation›
 ⑨ (present) 声称 shēngchēng he represented himself as a technical expert 他声称自己是技术专家 his supporters represent him to be a great statesman 他的支持者把他说成是一个伟大的政治家 
 represent 
-▶verb
-1 a character representing a single quality: symbolize, stand for, personify, epitomize, typify, embody, illustrate.
-2 the initials that represent her qualification: stand for, designate, denote; literary betoken.
-3 Hathor is represented as a woman with cow's horns: depict, portray, render, picture, delineate, show, illustrate; literary limn.
-4 he represented himself as the owner of the factory: describe as, present as, profess to be, claim to be, pass oneself off as, pose as, pretend to be.
-5 aging represents a threat to one's independence: constitute, be, amount to, be regarded as.
-6 a panel representing a cross section of the public: be a typical sample of, be representative of, typify.
-7 her lawyer represented her in court: appear for, act for, speak on behalf of; informal go to bat for.
-8 the governor general represented the royal family: deputize for, substitute for, stand in for.
-9 formal I represented the case as I saw it: point out, state, present, put forward.
+ˌreprəˈzent
+
+▶verb [with object]
+1 be entitled or appointed to act or speak for (someone), especially in an official capacity: for purposes of litigation, an infant can and must be represented by an adult. 
+• (of a competitor) participate in a sports event or other competition on behalf of (one's club, town, region, or country): Owens represented the 
+U. 
+S.  
+• be an elected member of a legislature for (a particular constituency, party, or group): she became the first woman to represent her district. 
+• (usually be represented) act as a substitute for (someone), especially on an official or ceremonial occasion: the president was represented by the secretary of state.
+2 constitute; amount to: this figure represents eleven percent of the company's total sales. 
+• be a specimen or example of; typify: twenty parents, picked to represent a cross section of rural life. 
+• (be represented) (of a group or type of person or thing) be present or found in something, especially to a particular degree: abstraction is well represented in this exhibition.
+3 depict (a particular subject) in a picture or other work of art: santos are small wooden figures representing saints. 
+• [with object or infinitive] describe or depict (someone or something) as being of a certain nature; portray in a particular way: the young were consistently represented as being in need of protection. 
+• (of a sign or symbol) have a particular signification; stand for: the numbers 1–10 represent the letters A–
+J.  
+• be a symbol or embodiment of (a particular quality or thing): the three heads of Cerberus represent the past, present, and future. 
+• play the part of (someone) in a theatrical production.
+4 formal state or point out (something) clearly: it was represented to him that she would be an unsuitable wife. 
+• [with clause] allege; claim: the vendors have represented that such information is accurate. DERIVATIVES representability 
+ˌrepriˌzentəˈbilətē 
+noun. representable 
+ˌreprəˈzen(t)əb(ə)l 
+adjectiveORIGIN late Middle English: from Old French representer or Latin repraesentare, from re- (expressing intensive force) + praesentare ‘to present.’

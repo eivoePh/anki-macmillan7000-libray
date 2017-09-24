@@ -8,7 +8,20 @@ noun
 ⑤ Uncountable and countableReligion, Politics 皈依 guīyī to undergo a conversion to Buddhism 转而皈依佛教 
 ⑥ CountableSport 附加得分 fùjiā défēn 
 conversion 
+kənˈvərZHən
+
 ▶noun
-1 the conversion of waste into energy: change, changing, transformation, metamorphosis, transfiguration, transmutation, sea change; humorous transmogrification.
-2 the conversion of the building: adaptation, alteration, modification, reconstruction, rebuilding, redevelopment, redesign, renovation, rehabilitation.
-3 his religious conversion: rebirth, regeneration, reformation.
+1 the act or an instance of converting or the process of being converted: the conversion of food into body tissues. 
+• the fact of changing one's religion or beliefs or the action of persuading someone else to change theirs: my conversion to the Catholic faith. 
+• Christian Theology repentance and change to a godly life. 
+• the adaptation of a building for a new purpose: the conversion of a house into apartments. 
+• British a building or part of a building that has been adapted in this way. 
+• Law the changing of real into personal property, or of joint into separate property, or vice versa. 
+• Psychiatry the manifestation of a mental disturbance as a physical disorder or disease: [as modifier] : conversion disorders. 
+• Logic the transposition of the subject and predicate of a proposition according to certain rules to form a new proposition by inference.
+2 American Football the act of scoring an extra point or points after having scored a touchdown. 
+• the act of gaining a first down.
+3 (also conversion rate) (in the context of online marketing) the proportion of people viewing an advertisement and going on to buy the product, click on a link, etc.: you'll see better conversion rates for your local advertising if you include your physical address on your website 
+keeping things simple will improve conversion.
+4 Law the action of wrongfully dealing with goods in a manner inconsistent with the owner's rights: he was found guilty of the fraudulent conversion of clients' monies.
+5 Physics the change in a quantity's numerical value as a result of using a different unit of measurement. ORIGIN Middle English (in the sense ‘turning of sinners to God’): via Old French from Latin conversio(n-), from convers- ‘turned around,’ from the verb convertere (see convert) .

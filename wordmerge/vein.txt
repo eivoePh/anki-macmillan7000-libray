@@ -8,10 +8,19 @@ noun
 ⑤ (in marble, cheese) 纹路 wénlu 
 ⑥ singular figurative (mood, tone) (in text) 主调 zhǔdiào (in speech) 语调 yǔdiào a vein of nostalgia/seriousness 怀旧情绪/严肃的语气 to continue in a similar vein 用类似的腔调接着说 
 vein 
+vān
+
 ▶noun
-1 a vein in his neck pulsed: blood vessel.
-2 the mineral veins in the rock: layer, lode, seam, stratum, stratification, deposit, pipe.
-3 white marble with gray veins: streak, marking, mark, line, stripe, strip, band, thread, strand; technical stria, striation.
-4 he closes the article in a humorous vein: mood, frame of mind, temper, disposition, attitude, tenor, tone, key, spirit, character, fashion, feel, flavor, quality, atmosphere, humor; manner, mode, way, style.
-WORD LINKS
-vein vascular , venous relating to a vein or veins phlebotomy the surgical opening or incision of a veinWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 any of the tubes forming part of the blood circulation system of the body, carrying in most cases oxygen-depleted blood toward the heart. Compare with artery. 
+• (in general and figurative use) a blood vessel: he felt the adrenaline course through his veins. 
+• (in plants) a slender rib running through a leaf or bract, typically dividing or branching, and containing a vascular bundle. 
+• (in insects) a hardened branching rib that forms part of the supporting framework of a wing, consisting of an extension of the tracheal system; a nervure.
+2 a fracture in rock containing a deposit of minerals or ore and typically having an extensive course underground. 
+• a streak or stripe of a different color in wood, marble, cheese, etc. 
+• a body of subsurface water, especially as considered a source or potential source of water for a well or wells and thought of as flowing in a channel. 
+• a source of a specified quality or other abstract resource: he managed to tap into the thick vein of discontent to his own advantage.
+3 [in singular] a distinctive quality, style, or tendency: he closes his article in a somewhat humorous vein. DERIVATIVES veinless adjective. veinlet 
+ˈvānlit 
+noun. veinlike 
+ˈvānˌlīk 
+adjective. veiny adjective (veinier, veiniest) ORIGIN Middle English: from Old French veine, from Latin vena. The earliest senses were ‘blood vessel’ and ‘small natural underground channel of water.’

@@ -11,8 +11,21 @@ B.  adjectivebefore noun
 ① (belonging to a family) 家庭的 jiātíng de ‹estate, life, ties›to be in the family way colloquial 有喜 
 ② (suitable for a family) 适合全家的 shìhé quánjiā de ‹car, accommodation, activity›
 family 
-▶noun
-1 I met his family: relatives, relations, kin, next of kin, kinsfolk, kindred, one's (own) flesh and blood, nearest and dearest, people, connections; extended family, in-laws; clan, tribe; informal folks.
-2 he had the right kind of family: ancestry, parentage, pedigree, genealogy, background, family tree, descent, lineage, bloodline, blood, extraction, stock; forebears, forefathers, antecedents, roots, origins, heritage, dual heritage.
-3 she is married with a family : children, little ones, youngsters; offspring, progeny, descendants, scions, heirs; a brood; Law issue; informal kids, kiddies, tots.
-4 the warbler family: taxonomic group, order, class, genus, species; stock, strain, line; Zoology phylum.QUOTE Happiness is having a large, loving, caring, close-knit family in another city.George Burns, American comedian
+ˈfam(ə)lē
+
+▶noun (plural families)
+1 [treated as singular or plural] a group consisting of parents and children living together in a household. 
+• a group of people related to one another by blood or marriage: friends and family can provide support. 
+• the children of a person or couple: she has the sole responsibility for a large family. 
+• a person or people related to one and so to be treated with a special loyalty or intimacy: I could not turn him away, for he was family. 
+• a group of people united in criminal activity. 
+• Biology a principal taxonomic category that ranks above genus and below order, usually ending in -idae (in zoology) or -aceae (in botany). 
+• a group of objects united by a significant shared characteristic. 
+• Mathematics a group of curves or surfaces obtained by varying the value of a constant in the equation generating them.
+2 all the descendants of a common ancestor: the house has been owned by the same family for 300 years. 
+• a race or group of peoples from a common stock. 
+• all the languages ultimately derived from a particular early language, regarded as a group: the Austronesian language family. 
+▶adjective [attributive] designed to be suitable for children as well as adults: a family newspaper. 
+PHRASES
+in the family way informal pregnant.ORIGIN late Middle English ( sense
+2 of the noun): from Latin familia ‘household servants, household, family,’ from famulus ‘servant.’

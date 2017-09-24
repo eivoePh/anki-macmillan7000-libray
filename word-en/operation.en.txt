@@ -1,9 +1,14 @@
 operation 
+ˌäpəˈrāSH(ə)n
+
 ▶noun
-1 the slide bars ensure smooth operation: functioning, working, running, performance, action.
-2 the operation of the factory: management, running, control, direction, governing, administration, supervision.
-3 a cardiologist from Atlanta will perform the operation: surgery, surgical procedure.
-4 a military operation: action, activity, exercise, undertaking, enterprise, maneuver, campaign.
-5 their mining operation in Pennsylvania: business, enterprise, company, organization, firm, concern; informal outfit, setup.
-PHRASES
-in operation only one of the automatic doors was in operation. See operational. 
+1 the fact or condition of functioning or being active: the construction and operation of power stations 
+some of these ideas could be put into operation. 
+• an active process; a discharge of a function: the operations of the mind. 
+• a business organization; a company: he reopened his operation under a different name. 
+• an activity in which a business is involved: the company is selling most of its commercial banking operations.
+2 an act of surgery performed on a patient.
+3 [often with modifier] a piece of organized and concerted activity involving a number of people, especially members of the armed forces or the police: a rescue operation 
+military operations. 
+• (Operation) preceding a code name for an organized military or police activity: Operation Desert Storm.
+4 Mathematics a process in which a number, quantity, expression, etc., is altered or manipulated according to formal rules, such as those of addition, multiplication, and differentiation. ORIGIN late Middle English: via Old French from Latin operatio(n-), from the verb operari ‘expend labor on’ (see operate) .

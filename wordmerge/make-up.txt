@@ -1,9 +1,15 @@
-make-up nounUncountable
+make-up
+ˈmākˌəp
+nounUncountable
 ① (cosmetics) 化妆品 huàzhuāngpǐn to put on one's make-up 上妆 she never wears make-up 她从来不化妆 
 ② (character) 性格 xìnggé jealousy is not in his or not part of his make-up 嫉妒不是他的品性 
 ③ (composition) 组成 zǔchéng to alter the make-up of the committee 改组委员会 the make-up of a compound 化合物的构成 
 makeup 
+ˈmākˌəp
+
 ▶noun
-1 she used excessive makeup: cosmetics, maquillage; greasepaint, face paint; informal war paint.
-2 the cellular makeup of plants: composition, constitution, structure, configuration, arrangement, organization, formation.
-3 jealousy isn't part of his makeup: character, nature, temperament, personality, disposition, mentality, persona, psyche; informal what makes someone tick.
+1 cosmetics such as lipstick or powder applied to the face, used to enhance or alter the appearance.
+2 the composition or constitution of something: studying the makeup of ocean sediments. 
+• the combination of qualities that form a person's temperament: a nastiness that had long been in his makeup.
+3 Printing the arrangement of type, illustrations, etc., on a printed page: page makeup.
+4 North American a supplementary test or assignment given to a student who missed or failed the original one: [as modifier] : Tony has a makeup exam.

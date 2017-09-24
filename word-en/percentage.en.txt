@@ -1,6 +1,10 @@
 percentage 
-BrE pəˈsɛntɪdʒ, AmE pərˈsɛn(t)ɪdʒ 
-noun 
-① (rate, number, amount) 百分比 bǎifēnbǐ the figure was expressed as a percentage 这个数字是用百分率表示的 in percentage terms, this represents a real increase 按百分比来说，这代表着实实在在的增长 
-② (proportion) 比例 bǐlì a high percentage are unemployed 很大一部分人失业 
-③ colloquial (profit) 利润分成 lìrùn fēnchéng I got a percentage on the deal 我从这笔交易中得到一份提成 
+pərˈsen(t)ij
+
+▶noun a rate, number, or amount in each hundred: the percentage of cesareans at the hospital was three percent higher than the national average 
+[as modifier] : a large percentage increase in the population over 85. 
+• an amount, such as an allowance or commission, that is a proportion of a larger sum of money: I hope to be on a percentage. 
+• any proportion or share in relation to a whole: only a small percentage of black Americans have Caribbean roots. 
+• [in singular] informal personal benefit or advantage: you explain to me the percentage in looking like a hoodlum. 
+PHRASES
+play the percentages (or the percentage game) informal choose a safe and methodical course of action when calculating the odds in favor of success. [referring to the calculated percentage of success from statistics.]

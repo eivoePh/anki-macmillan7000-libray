@@ -1,12 +1,19 @@
 need 
-▶verb
-1 do you need money? require, be in need of, have need of, want; be crying out for, be desperate for; demand, call for, necessitate, entail, involve; lack, be without, be short of.
-2 you needn't come: have to, be obliged to, be compelled to.
-3 she needed him so much: yearn for, pine for, long for, desire, miss.
+nēd
+
+▶verb [with object]
+1 require (something) because it is essential or very important: I need help now 
+[with present participle] : this shirt needs washing 
+[with infinitive] : they need to win tomorrow. 
+• (not need something) not want to be subjected to something: I don't need your sarcasm.
+2 [as modal with negative or in questions] expressing necessity or obligation: need I say more? 
+I need not have worried.
+3 [no object] archaic be necessary: lest you, even more than needs, embitter our parting. 
 ▶noun
-1 there's no need to apologize: necessity, obligation, requirement, call, demand.
-2 basic human needs: requirement, essential, necessity, want, requisite, prerequisite, demand, desideratum.
-3 their need was particularly pressing: neediness, want, poverty, deprivation, privation, hardship, destitution, indigence.
-4 my hour of need: difficulty, trouble, distress; crisis, emergency, urgency, extremity.
+1 circumstances in which something is necessary, or that require some course of action; necessity: the basic human need for food 
+[with infinitive] : there's no need to cry.
+2 (often needs) a thing that is wanted or required: his day-to-day needs.
+3 the state of requiring help, or of lacking basic necessities such as food: help us in our hour of need 
+children in need. 
 PHRASES
-in need these children are in need: needy, necessitous, deprived, disadvantaged, underprivileged, poor, impoverished, poverty-stricken, destitute, impecunious, indigent; formal penurious.
+at need archaic when needed; in an emergency: men whose experience could be called upon at need. had need archaic ought to: you had need hire men to chip it all over artistically. have need of formal need: Alida had need of company. if need be if necessary. in need of requiring or needing (something): he was in desperate need of medical care.ORIGIN Old English nēodian (verb), nēod, nēd (noun), of Germanic origin; related to Dutch nood and German Not ‘danger.’

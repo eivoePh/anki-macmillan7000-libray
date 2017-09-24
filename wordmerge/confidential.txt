@@ -2,6 +2,9 @@ confidential
 BrE kɒnfɪˈdɛnʃ(ə)l, AmE ˌkɑnfəˈdɛn(t)ʃəl 
 adjective 机密的 jīmì de ‹information›; 秘密的 mìmì de ‹service›strictly confidential 绝密的 a confidential secretary 机要秘书 
 confidential 
-▶adjective
-1 a confidential chat: private, personal, intimate, quiet; secret, sensitive, classified, restricted, unofficial, unrevealed, undisclosed, unpublished; informal hush-hush, mum; formal sub rosa; archaic privy.
-2 a confidential friend: trusted, trustworthy, trusty, faithful, reliable, dependable; close, bosom, intimate.
+ˌkänfəˈden(t)SHəl
+
+▶adjective intended to be kept secret: confidential information 
+knowledge that was privileged and confidential. 
+• (of a person's tone of voice) indicating that what one says is private or secret: he dropped his voice to a confidential whisper. 
+• entrusted with private or restricted information: a confidential secretary.

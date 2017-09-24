@@ -11,10 +11,33 @@ B.  transitive verb
 ② (examine) 测验 cèyàn she tested the whole class on or in irregular verbs 她对全班进行了不规则动词的测验 
 ③ (strain, tax) 考验 kǎoyàn the climb tested our strength and endurance 登山考验了我们的力气和耐力 your behaviour is testing my patience 你的行为让我难以忍受 to test [something] to the limit 最大限度地考验某物 
 C.  intransitive verb 检测 jiǎncè to test for air and water pollution 检测空气和水污染 to test negative/positive 化验呈阴性/阳性 sugar content tested low 检测出来的含糖量很低 
-test 
+test
+1 
+test
+
 ▶noun
-1 a series of scientific tests: trial, experiment, test case, case study, pilot study, trial run, tryout, dry run; check, examination, assessment, evaluation, appraisal, investigation, inspection, analysis, scrutiny, study, probe, exploration; screening, workup; technical assay.
-2 candidates may be required to take a test: exam, examination, quiz.
-▶verb
-1 a small-scale prototype was tested: try out, put to the test, put through its paces, experiment with, pilot; check, examine, assess, evaluate, appraise, investigate, analyze, scrutinize, study, probe, explore, trial; sample; screen; technical assay.
-2 such behavior would test any marriage: put a strain on, strain, tax, try; make demands on, stretch, challenge.
+1 a procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use: no sparking was visible during the tests. 
+• a short written or spoken examination of a person's proficiency or knowledge: a spelling test. 
+• an event or situation that reveals the strength or quality of someone or something by putting them under strain: this is the first serious test of the peace agreement. 
+• an examination of part of the body or a body fluid for medical purposes, especially by means of a chemical or mechanical procedure rather than simple inspection: a test for HIV 
+eye tests. 
+• Chemistry a procedure employed to identify a substance or to reveal the presence or absence of a constituent within a substance. 
+• the result of a medical examination or analytical procedure: a positive test for protein. 
+• a means of establishing whether an action, item, or situation is an instance of a specified quality, especially one held to be undesirable: a statutory test of obscenity.
+2 Metallurgy a movable hearth in a reverberating furnace, used for separating gold or silver from lead. 
+▶verb [with object] take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice: this range has not been tested on animals 
+(as noun testing) : the testing and developing of prototypes 
+figurative : a useful way to test out ideas before implementation. 
+• reveal the strengths or capabilities of (someone or something) by putting them under strain: such behavior would severely test any marriage. 
+• give (someone) a short written or oral examination of their proficiency or knowledge: all children are tested at eleven. 
+• judge or measure (someone's proficiency or knowledge) by means of an examination. 
+• carry out a medical test on (a person, a part of the body, or a body fluid). 
+• [no object] produce a specified result in a medical test, especially a drug test or AIDS test: he tested positive for steroids after the race. 
+• Chemistry examine (a substance) by means of a reagent. 
+• touch or taste (something) to check that it is acceptable before proceeding further: she tested the water with the tip of her elbow. 
+PHRASES
+put someone/something to the test find out how useful, strong, or effective someone or something is. stand the test of time last or remain popular for a long time. test the water judge people's feelings or opinions before taking further action.DERIVATIVES testability 
+ˌtestəˈbilitē 
+noun. testee 
+-ˈtē 
+nounORIGIN late Middle English (denoting a cupel used to treat gold or silver alloys or ore): via Old French from Latin testu, testum ‘earthen pot,’ variant of testa ‘jug, shell.’ Compare with test2. The verb dates from the early 17th century.

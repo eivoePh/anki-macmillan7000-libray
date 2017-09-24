@@ -20,15 +20,20 @@ B.  intransitive verb dated «person, family» 搬家 bānjiā ; «company» 搬
 C.  reflexive verb formal to remove oneself; 走开 zǒukāi to remove oneself to a country/city; 去某国/某城市 qù mǒu guó/mǒu chéngshì 
 D.  noun formal 间距 jiānjù to be (at) one remove from [somebody]/[something] 与某人/某事物隔开一段距离 to live at one remove from reality 生活在现实之外 to be several/many removes from [somebody]/[something] 与某人/某事物相差颇远/很远 life in some villages is only a few removes from a feudal society 某些村庄的生活与封建社会相差无几 it is a far remove from [something] (to [something]) 从某事物（到某事物）差距很大 at this remove 如此看来 
 remove 
-▶verb
-1 remove the plug: detach, unfasten; pull out, take out, disconnect. ANTONYMS attach.
-2 she removed the lid: take off, undo, unfasten. ANTONYMS put on.
-3 he removed a twenty from his wallet: take out, produce, bring out, get out, pull out, withdraw. ANTONYMS insert.
-4 police removed boxes of documents: take away, carry away, move, transport; confiscate; informal cart off. ANTONYMS put back, replace.
-5 Sheila removed the mud: clean off, wash off, wipe off, rinse off, scrub off, sponge out.
-6 Harry removed his coat: take off, pull off, slip out of, peel off; dated doff. ANTONYMS put on, don.
-7 she was removed from her post: dismiss, discharge, dislodge, displace, expel, oust, depose; informal fire, sack, kick out, boot out. ANTONYMS install, appoint.
-8 tax relief was removed: withdraw, abolish, eliminate, get rid of, do away with, stop, cut; informal ax. ANTONYMS introduce.
-9 Gabriel removed two words: delete, erase, rub out, cross out, strike out, obliterate; informal deep-six. ANTONYMS add.
-10 weeds have to be removed: uproot, pull out, eradicate.
-11 it's important to remove weak or dying branches: cut off, chop off, lop off, hack off.
+rəˈmo͞ov
+
+▶verb [with object]
+1 take (something) away or off from the position occupied: Customs officials removed documents from the premises 
+she sat down to remove her make-up. 
+• take off (clothing): he sat down and quickly removed his shoes and socks. 
+• [no object] (remove to) dated change one's home or place of residence by moving to (another place): he removed to Mexico and began afresh. 
+• South African historical compel (someone) by law to move to another area: a man is removed to the tribal district of his forbears.
+2 eliminate or get rid of: the iron can be removed by filtration 
+they removed thousands of needy youngsters from the system. 
+• dismiss from a job or office: he was removed from his teaching position.
+3 (be removed) be distant from: it is an isolated place, far removed from the London art world. 
+• be very different from: an explanation that is far removed from the truth.
+4 (as adjective removed) separated by a particular number of steps of descent: his second cousin once removed. 
+▶noun a degree of remoteness or separation: at this remove, the whole incident seems insane. DERIVATIVES remover 
+rəˈmo͞ovər 
+nounORIGIN Middle English (as a verb): from the Old French stem remov-, from Latin removere, from re- ‘back’ + movere ‘to move.’

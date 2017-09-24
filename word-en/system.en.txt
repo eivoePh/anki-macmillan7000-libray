@@ -1,6 +1,24 @@
 system 
+ˈsistəm
+
 ▶noun
-1 a system of canals: structure, organization, arrangement, complex, network; informal setup.
-2 a system for regulating sales: method, methodology, technique, process, procedure, approach, practice; means, way, mode, framework, modus operandi; scheme, plan, policy, program, regimen, formula, routine.
-3 there was no system in his work: order, method, orderliness, systematization, planning, logic, routine.
-4 youngsters have no faith in the system : the establishment, the administration, the authorities, the powers that be; bureaucracy, officialdom; the status quo.
+1 a set of connected things or parts forming a complex whole, in particular: 
+• a set of things working together as parts of a mechanism or an interconnecting network: the state railroad system 
+fluid is pushed through a system of pipes or channels. 
+• Physiology a set of organs in the body with a common structure or function: the digestive system. 
+• the human or animal body as a whole: you need to get the cholesterol out of your system. 
+• Computing a group of related hardware units or programs or both, especially when dedicated to a single application. 
+• Geology (in chronostratigraphy) a major range of strata that corresponds to a period in time, subdivided into series. 
+• Astronomy a group of celestial objects connected by their mutual attractive forces, especially moving in orbits about a center: the system of bright stars known as the Gould Belt. 
+• short for crystal system.
+2 a set of principles or procedures according to which something is done; an organized scheme or method: a multiparty system of government 
+the public school system. 
+• orderliness; method: there was no system at all in the company. 
+• a method of choosing one's procedure in gambling. 
+• a set of rules used in measurement or classification: the metric system. 
+• (the system) the prevailing political or social order, especially when regarded as oppressive and intransigent: don't try bucking the system.
+3 Music a set of staves in a musical score joined by a brace. 
+PHRASES
+get something out of one's system informal get rid of a preoccupation or anxiety: she let her get the crying out of her system.DERIVATIVES systemless 
+ˈsistəmləs 
+adjectiveORIGIN early 17th century: from French système or late Latin systema, from Greek sustēma, from sun- ‘with’ + histanai ‘set up.’

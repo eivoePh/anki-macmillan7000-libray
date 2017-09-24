@@ -1,11 +1,5 @@
 hardness 
-BrE ˈhɑːdnəs, AmE hɑrdnəs 
-nounUncountable
-① (rigidity) 坚硬 jiānyìng level of hardness 硬度 yìngdù 
-② (difficulty) (of problem) 困难 kùnnan (of physical work) 艰辛 jiānxīn (of life) 艰苦 jiānkǔ 
-③ (force of blow, fall) 力度 lìdù 
-④ (sternness) 冷酷无情 lěngkù wúqíng hardness of heart 铁石心肠 
-⑤ colloquial (toughness) 坚强 jiānqiáng 
-⑥ (harshness of light) 刺眼 cìyǎn ; (harshness of sound) 刺耳 cì'ěr 
-⑦ (starkness of line) 生硬 shēngyìng 
-⑧ Chemistry 硬度 yìngdù 
+ˈhärdnəs
+
+▶noun the quality or condition of being hard: people complained about the hardness of the chairs 
+a lack of mental hardness.

@@ -68,14 +68,41 @@ B.  intransitive verb colloquial 挪开 nuókāi push over! 挪过去！ push th
 A.  transitive verb[push something through, push through something] 使…获得批准 shǐ… huòdé pīzhǔn ‹policy, deal›to push a bill through parliament 促使议会通过一项法案 he promised to push through her visa application 他答应让她的签证申请尽快办下来 
 B.  intransitive verb «person, vehicle» 挤过去 jǐ guoqu push up transitive verb[push something up, push up something] 使持续增长 shǐ chíxù zēngzhǎng ‹price, rate, unemployment, inflation›the shortage of building land is bound to push up house prices 建筑用地短缺肯定会推高房价 
 push 
+po͝oSH
+
 ▶verb
-1 she tried to push him away: shove, thrust, propel; send, drive, force, prod, poke, nudge, elbow, shoulder; sweep, bundle, hustle, manhandle. ANTONYMS pull.
-2 she pushed her way into the apartment: force, shove, thrust, squeeze, jostle, elbow, shoulder, bundle, hustle; work, inch.
-3 he pushed the panic button: press, depress, bear down on, hold down, squeeze; operate, activate.
-4 don't push her to join in: urge, press, pressure, force, impel, coerce, nag; prevail on; informal lean on, twist someone's arm, bulldoze.
-5 they push their own products: advertise, publicize, promote, bang the drum for; sell, market, merchandise; informal plug, hype (up), puff (up), flog, ballyhoo.
+1 [with object, usually with adverbial] exert force on (someone or something), typically with one's hand, in order to move them away from oneself or the origin of the force: she pushed her glass toward him 
+[with object and complement] : Lydia pushed the door shut 
+[no object] : he pushed at the skylight, but it wouldn't budge. 
+• [with object] hold and exert force on (something) so as to cause it to move along in front of one: a woman was pushing a stroller. 
+• move one's body or a part of it into a specified position, especially forcefully or with effort: she pushed her hands into her pockets. 
+• [with object] press (a part of a machine or other device): he pushed the button for the twentieth floor. 
+• [with adverbial] cause to reach a particular level or state: they expect that the huge crop will push down prices 
+the political chaos could push the country into recession.
+2 [no object] move forward by using force to pass people or cause them to move aside: she pushed her way through the crowded streets 
+he pushed past an old woman in his haste. 
+• (of an army) advance over territory: the guerrillas have pushed south to within 100 miles of the capital. 
+• exert oneself to attain something or surpass others: I was pushing hard until about
+10 laps from the finish. 
+• (push for) demand persistently: the council continued to push for the better management of water resources. 
+• [with object] compel or urge (someone) to do something, especially to work hard: she believed he was pushing their daughter too hard. 
+• (be pushed) informal have very little of something, especially time: I'm a bit pushed for time at the moment. 
+• (be pushing) informal be nearly (a particular age): she must be pushing forty, but she's still a good looker.
+3 [with object] informal promote the use, sale, or acceptance of: the company is pushing a $500 asking price. 
+• put forward (an argument or demand) with undue force or in too extreme a form: he thought that the belief in individualism had been pushed too far 
+you were pushing it a bit—was it wise to annoy him like that? 
+• sell (a narcotic drug) illegally.
+4 [with object] Computing prepare (a stack) to receive a piece of data on the top. 
+• transfer (data) to the top of a stack.
+5 [with object] Photography develop (film) so as to compensate for deliberate underexposure. 
 ▶noun
-1 I felt a push in the back: shove, thrust, nudge, ram, bump, jolt, butt, prod, poke.
-2 the enemy's eastward push: advance, drive, thrust, charge, attack, assault, onslaught, onrush, offensive, sortie, sally, incursion.
+1 an act of exerting force on someone or something in order to move them away from oneself: he closed the door with a push. 
+• an act of pressing a part of a machine or device: the door locks at the push of a button. 
+• something that encourages or assists something else: the fall in prices was given a push by official policy.
+2 a vigorous effort to do or obtain something: many clubs are joining in the fund-raising push 
+he determined to make one last push for success. 
+• a military attack in force: the army was engaged in a push against guerrilla strongholds. 
+• forcefulness and enterprise: an investor with the necessary money and push. 
 PHRASES
-push around she wasn't used to being pushed around: bully, domineer, ride roughshod over, trample on, bulldoze, browbeat, tyrannize, intimidate, threaten, victimize, pick on; informal lean on, boss around. push for the workers are pushing for flexible hours: demand, call for, request, press for, campaign for, lobby for, speak up for; urge, promote, advocate, champion, espouse. push off informal you're not welcome here, so push off: go away, depart, leave, get out; go, get moving, be off (with you), shoo; informal skedaddle, vamoose, split, scram, run along, beat it, get lost, shove off, buzz off, clear off, bug off, take a powder, take a hike; literary begone. push on I decided to push on toward the coast: press on, continue one's journey, carry on, advance, proceed, go on, progress, make headway, forge ahead.
+get (or give someone) the push (or shove) British informal be dismissed (or dismiss someone) from a job. 
+• be rejected in (or end) a relationship.push the boat out see boat. push someone's buttons see button. pushing up daisies see daisy. push one's luck informal take a risk on the assumption that one will continue to be successful or in favor. when push comes to shove informal when one must commit oneself to an action or decision: when push came to shove, I always stood up for him.PHRASAL VERBS push ahead proceed with or continue a course of action or policy: he promised to push ahead with economic reform. push along British informal go away; depart. push someone around informal treat someone roughly or inconsiderately.push off use an oar, boathook, etc., to exert pressure so as to move a boat out from shore or away from another vessel. push on continue on a journey: the light was already fading, but she pushed on. push something through get a proposed measure completed or accepted quickly.ORIGIN Middle English (as a verb): from Old French pousser, from Latin pulsare ‘to push, beat, pulse’ (see pulse1). The early sense was ‘exert force on,’ giving rise later to ‘make a strenuous effort, endeavor.’

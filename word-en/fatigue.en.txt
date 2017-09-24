@@ -1,3 +1,15 @@
 fatigue 
-▶noun his body was slumped from fatigue: tiredness, weariness, sleepiness, drowsiness, exhaustion, enervation, languor, lethargy, torpor, prostration; war-weariness. ANTONYMS energy.
-▶verb the troops were fatigued: tire (out), exhaust, wear out, drain, weary, wash out, overtire, prostrate, enervate; informal knock out, take it out of, do in, poop, bush, wear to a frazzle. ANTONYMS invigorate.
+fəˈtēɡ
+
+▶noun
+1 extreme tiredness, typically resulting from mental or physical exertion or illness: he was nearly dead with fatigue. 
+• a reduction in the efficiency of a muscle or organ after prolonged activity. 
+• weakness in materials, especially metal, caused by repeated variations of stress: metal fatigue. 
+• [with modifier] a lessening in one's response to or enthusiasm for something, typically as a result of overexposure to it: museum fatigue.
+2 (also fatigue detail) a group of soldiers ordered to perform menial, nonmilitary tasks, sometimes as a punishment. 
+• (fatigues) loose-fitting clothing, typically khaki, olive drab, or camouflaged, worn by soldiers: battle fatigues. 
+▶verb (fatigues, fatiguing, fatigued) [with object] (often be fatigued) cause (someone) to feel tired or exhausted: they were fatigued by their journey. 
+• reduce the efficiency of (a muscle or organ) by prolonged activity. 
+• weaken (a material, especially metal) by repeated variations of stress. DERIVATIVES fatiguability 
+fəˌtēɡəˈbilitē 
+noun. fatiguable adjective (also fatigable) ORIGIN mid 17th century (in the sense ‘task or duty that causes weariness’): from French fatigue (noun), fatiguer (verb), from Latin fatigare ‘tire out,’ from ad fatim, affatim ‘to satiety or surfeit, to bursting.’

@@ -1,9 +1,21 @@
 class 
+klas
+
 ▶noun
-1 a hotel of the first class: category, grade, rating, classification, group, grouping.
-2 a new class of heart drug: kind, sort, type, variety, genre, brand; species, genus, breed, strain, stripe.
-3 the middle class: social division, social stratum, rank, level, echelon, group, grouping, income group; social status; dated estate; archaic condition.
-4 a math class: lesson, period; seminar, tutorial, workshop, study group.
-5 informal a woman of class: style, stylishness, elegance, chic, sophistication, taste, refinement, quality, excellence.
-▶verb the 12-seater is classed as a commercial vehicle: classify, categorize, group, grade; order, sort, codify; bracket, designate, label, pigeonhole.
-▶adjective informal a class player: classy, decent, gracious, respectable, noble.REFLECTIONS Michael Dirdaclass Class —meaning socioeconomic status—now carries loads of connotation, but often very little meaning. How does one determine a person's 'class'? Nowadays, millionaires regard themselves as working stiffs or, at best, as middle class. A salaried employee earning $100,000 a year feels poor if all his neighbors make twice that just from their stock portfolios. In other words, there are no clear markers. Should ghetto drug-lords with shiny BMWs be viewed as members of the 'underclass'? Is the owner of a Kwik-E-Mart who pays two college kids to run the register and stock the shelves in the same class as an autoworker at the Ford assembly plant? What if the small-time entrepreneur takes home only $30,000 a year, while the grunt on the line earns $60,000? Nobody, of course, ever admits to being upper class. People with private jets will quietly murmur, after a self-deprecating smile, “Oh, we're just comfortable,” or even “We're getting by.” In summarizing people's economic status, just say what you think: He's rich, she's poor. Better yet, describe the actual conditions of life: The Smiths reside in a tract house that cost $40,000, and they can barely afford the mortgage.Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+1 a set or category of things having some property or attribute in common and differentiated from others by kind, type, or quality: the accommodations were good for a hotel of this class 
+a new class of heart drug. 
+• Biology a principal taxonomic grouping that ranks above order and below phylum or division, such as Mammalia or Insecta.
+2 the system of ordering a society in which people are divided into sets based on perceived social or economic status: people who are socially disenfranchised by class 
+[as modifier] : the class system. 
+• a social division based on social or economic status: the ruling class. 
+• (the classes) archaic the rich or educated. 
+• informal impressive stylishness in appearance or behavior: she's got class—she looks like a princess.
+3 a group of students who are taught together. 
+• an occasion when students meet with their teacher for instruction; a lesson: I was late for a class. 
+• a course of instruction: I took classes in Indian music. 
+• chiefly North American all those graduating from a school or college in a particular year: the class of 1907. 
+▶verb [with object] (often be classed as) assign or regard as belonging to a particular category: conduct that is classed as criminal. 
+▶adjective [attributive] informal showing stylish excellence: he's a class player. 
+PHRASES
+class act a person or thing displaying impressive and stylish excellence. in a class of (or on) its (or one's) own unequaled, especially in excellence or performance: the delicacy of English roses puts them in a class of their own.ORIGIN mid 16th century ( sense
+3 of the noun): from Latin classis ‘a division of the Roman people, a grade, or a class of pupils.’

@@ -18,17 +18,28 @@ C.  transitive verb
 ⑤ (retain as right) 保留 bǎoliú ‹power›all rights reserved 版权所有 the publisher reserves the film rights on the novel 出版商保留这部小说的电影版权 to reserve the right to do [something] 保留做某事的权利 
 ⑥ (not make) 暂不作 zàn bù zuò ‹decision, verdict›; 保留 bǎoliú ‹opinion›to reserve (one's) judgement 暂不评判 
 reserve 
-▶verb
-1 ask the library to reserve a copy for you: put to one side, put aside, set aside, keep, keep back, save, hold, put on hold, keep in reserve, earmark.
-2 he reserved a table: book, make a reservation for, order, arrange for, secure, preorder; formal bespeak; dated engage.
-3 the management reserves the right to alter the program: retain, maintain, keep, hold.
-4 reserve your judgment until you know him better: defer, postpone, put off, delay, withhold.
+rəˈzərv
+
+▶verb [with object] refrain from using or disposing of (something); retain for future use: roll out half the dough and reserve the other half. 
+• arrange for (a room, seat, ticket, etc.) to be kept for the use of a particular person and not given to anyone else: a place was reserved for her in the front row. 
+• retain or hold (an entitlement to something), especially by formal or legal stipulation: [with object and infinitive] : the editor reserves the right to edit letters. 
+• refrain from delivering (a judgment or decision) immediately or without due consideration or evidence: I'll reserve my views on his ability until he's played again. 
+• (reserve something for) use or engage in something only in or at (a particular circumstance or time): Japanese food has been presented as expensive and reserved for special occasions. 
+• (in church use) retain (a portion of the consecrated elements) after mass for communion of the sick or as a focus for devotion. 
 ▶noun
-1 reserves of gasoline: stock, store, supply, stockpile, pool, hoard, cache.
-2 the army is calling up reserves: reinforcements, the militia, extras, auxiliaries.
-3 a nature reserve: national park, sanctuary, preserve, conservation area, protected area, wildlife park.
-4 it was difficult to get past his reserve: reticence, detachment, distance, remoteness, coolness, aloofness, constraint, formality; shyness, diffidence, timidity, taciturnity, inhibition; informal standoffishness.
-5 she trusted him without reserve: reservation, qualification, condition, limitation, hesitation, doubt.
-▶adjective a reserve goaltender: backup, substitute, stand-in, relief, replacement, fallback, spare, extra.
+1 (often reserves) a supply of a commodity not needed for immediate use but available if required: Australia has major coal, gas, and uranium reserves. 
+• a force or body of troops kept back from action to reinforce or protect others, or additional to the regular forces and available in an emergency. 
+• a member of the military reserve. 
+• an extra player who is a possible substitute in a team. 
+• (the reserves) the second-string team. 
+• funds kept available by a bank, company, or government: the foreign exchange reserves. 
+• a part of a company's profits added to capital rather than paid as a dividend.
+2 a place set aside for special use, in particular: 
+• an area designated as a habitat for an indigenous people. 
+• a protected area for wildlife.
+3 a lack of warmth or openness in manner or expression: she smiled and some of her natural reserve melted. 
+• qualification or doubt attached to some statement or claim: she trusted him without reserve.
+4 short for reserve price.
+5 (in the decoration of ceramics or textiles) an area that still has the original color of the material or the color of the background. 
 PHRASES
-in reserve we have four generators in reserve: available, on hand, ready, in readiness, set aside, at one's disposal.
+in reserve unused and available if required: the platoon that had been kept in reserve.DERIVATIVES reservable adjective. reserver nounORIGIN Middle English: from Old French reserver, from Latin reservare ‘keep back,’ from re- ‘back’ + servare ‘to keep.’

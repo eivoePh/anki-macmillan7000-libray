@@ -17,12 +17,22 @@ C.  adjective
 D.  transitive verb 集中 jízhōng 
 E.  intransitive verb 聚集 jùjí 
 mass 
+mas
+
 ▶noun
-1 a soggy mass of fallen leaves: pile, heap; accumulation, aggregation, accretion, concretion, buildup; informal batch, wad.
-2 a mass of cyclists: crowd, horde, large group, throng, host, troop, army, herd, flock, drove, swarm, mob, pack, press, crush, flood, multitude.
-3 the mass of our students are licensed drivers: majority, greater part/number, best/better part, major part, bulk, main body, lion's share; (the mass) most.
-4 (masses) bringing the news to the masses: common people, populace, public, people, rank and file, crowd, proletariat; mob; derogatory hoi polloi, rabble, riffraff, (great) unwashed, (common) herd, proles, plebs; humorous sheeple; historical third estate.
-5 informal a mass of food. See lot (sense
-1 of the noun). 
-▶adjective mass hysteria: widespread, general, wholesale, universal, large-scale, extensive, pandemic.
-▶verb they began massing troops in the region: assemble, marshal, gather together, muster, round up, mobilize, rally.
+1 a coherent, typically large body of matter with no definite shape: a mass of curly hair 
+from here the trees were a dark mass. 
+• a large number of people or objects crowded together: a mass of cyclists. 
+• a large amount of material: a mass of conflicting evidence. 
+• (masses) informal a large quantity or amount of something: we get masses of homework. 
+• any of the main portions in a painting or drawing that each have some unity in color, lighting, or some other quality: the masterly distribution of masses.
+2 (the mass of) the majority of: the great mass of the population had little interest in the project. 
+• (the masses) the ordinary people.
+3 Physics the quantity of matter that a body contains, as measured by its acceleration under a given force or by the force exerted on it by a gravitational field. 
+• (in general use) weight. 
+▶adjective [attributive] relating to, done by, or affecting large numbers of people or things: the movie has mass appeal 
+a mass exodus of refugees. 
+▶verb assemble or cause to assemble into a mass or as one body: [with object] : both countries began massing troops in the region 
+[no object] : clouds massed heavily on the horizon. 
+PHRASES
+be a mass of be completely covered with: his face was a mass of bruises. in the mass as a whole: her genuine affection for humanity in the mass.DERIVATIVES massless adjectiveORIGIN late Middle English: from Old French masse, from Latin massa, from Greek maza ‘barley cake’; perhaps related to massein ‘knead.’

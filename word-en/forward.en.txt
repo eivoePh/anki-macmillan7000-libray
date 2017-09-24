@@ -1,13 +1,36 @@
 forward 
-▶adverb
-1 the traffic moved forward: ahead, forwards, onward, onwards, on, further.
-2 the winner stepped forward: toward the front, out, forth, into view.
-3 from that day forward: onward, onwards, on, forth; for ever, into eternity; until now.
+ˈfôrwərd
+
+▶adverb (also forwards)
+1 toward the front; in the direction that one is facing or traveling: he started up the engine and the car moved forward 
+Lori leaned forward over the table. 
+• in, near, or toward the bow or nose of a ship or aircraft. 
+• in the normal order or sequence: the number was the same backward as forward.
+2 onward so as to make progress; toward a successful conclusion: there's no way forward for the relationship. 
+• into a position of prominence or notice: he is pushing forward a political ally.
+3 toward the future; ahead in time: from that day forward, the assembly was at odds with us. 
+• to an earlier time: the special issue has been moved forward to winter. 
 ▶adjective
-1 in a forward direction: moving forward, moving forward, moving ahead, onward, advancing, progressing, progressive. ANTONYMS backward.
-2 the fortress served as the Austrian army's forward base against the Russians: front, advance, foremost, head, leading, frontal. ANTONYMS rear.
-3 forward planning: future, forward-looking, for the future, prospective.
-4 the girls seemed very forward: bold, brazen, brazen-faced, barefaced, brash, shameless, immodest, audacious, daring, presumptuous, familiar, overfamiliar, pert; informal fresh. ANTONYMS shy.
-▶verb
-1 my mother forwarded me your email: send on, mail on, redirect, re-address, pass on.
-2 the goods were forwarded by sea: send, dispatch, transmit, carry, convey, deliver, ship.
+1 directed or facing toward the front or the direction that one is facing or traveling: forward flight 
+the pilot's forward view. 
+• positioned near the enemy lines: troops moved to the forward areas. 
+• (in sports) moving toward the opponents' goal: a forward pass. 
+• in, near, or toward the bow or nose of a ship or aircraft. 
+• Electronics (of a voltage applied to a semiconductor junction) in the direction that allows significant current to flow.
+2 [attributive] relating to or concerned with the future: a twelve-month forward forecast.
+3 moving or tending onward to a successful conclusion: the decision is a forward step. 
+• developing or acting earlier than expected or required; advanced or precocious: an alarmingly forward yet painfully vulnerable child.
+4 (of a person) bold or familiar in manner, especially in a presumptuous way. 
+▶noun
+1 an attacking player in basketball, hockey, or other sports. 
+• American Football an offensive or defensive lineman.
+2 (forwards) Finance short for forward contract. 
+▶verb [with object]
+1 send (a letter or email) on to a further destination: (as adjective forwarding) : a forwarding address. 
+• hand over or send (an official document): their final report was forwarded to the Commanding Officer. 
+• dispatch (goods): (as adjective forwarding) : a freight forwarding company.
+2 help to advance (something); promote: the scientists are forwarding the development of biotechnology. 
+PHRASES
+take something forward take responsibility for dealing with a task or developing a project: he's designed a potentially successful product and we're doing all we can to help him take it forward.DERIVATIVES forwardly 
+ˈfôrwərdlē 
+adverbORIGIN Old English forweard (in the sense ‘toward the future,’ as in from this day forward), variant of forthweard (see forth, -ward) .

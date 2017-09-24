@@ -1,9 +1,19 @@
 import 
-▶verb
-1 Greenland imports just about everything that is consumed: buy from abroad, bring in, ship in. ANTONYMS export.
-2 practices imported from the business world: derive, obtain, take, extract, glean; informal steal, crib, filch.
-▶noun
-1 a tax on imports : imported goods, foreign goods, imported merchandise, foreign merchandise, imported commodities, foreign commodities.
-2 the import of foreign books: importation, importing, introduction, bringing in, bringing from abroad, shipping in.
-3 a matter of great import: importance, significance, consequence, momentousness, magnitude, substance, weight, note, gravity, seriousness; formal moment. ANTONYMS insignificance.
-4 the full import of her words: meaning, sense, essence, gist, drift, purport, connotation, message, thrust, point, substance, implication.
+▶verb 
+imˈpôrt 
+[with object]
+1 bring (goods or services) into a country from abroad for sale: Japan's reluctance to import more cars. 
+• introduce (an idea) from a different place or context: new beliefs were often imported by sailors. 
+• Computing transfer (data) into a file or document.
+2 archaic indicate or signify: having thus seen, what is imported in a Man's trusting his Heart. 
+• express or make known: [with clause] : they passed a resolution importing that they relied on His Majesty's gracious promise. 
+▶noun 
+ˈimˌpôrt 
+
+1 (usually imports) a commodity, article, or service brought in from abroad for sale. 
+• (imports) sales of goods or services brought in from abroad, or the revenue from such sales: this surplus pushes up the yen, which ought to boost imports. 
+• the action or process of importing goods or services: the import of live cattle from Canada.
+2 [in singular] the meaning or significance of something, especially when not directly stated: the import of her message is clear. 
+• great significance; importance: pronouncements of world-shaking import. DERIVATIVES importable 
+imˈpôrdəb(ə)l 
+adjectiveORIGIN late Middle English (in the sense ‘signify’): from Latin importare ‘bring in’ (in medieval Latin ‘imply, mean, be of consequence’), from in- ‘in’ + portare ‘carry.’

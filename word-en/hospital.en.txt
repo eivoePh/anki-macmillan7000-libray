@@ -1,2 +1,7 @@
 hospital 
-▶noun the hospitals were overwhelmed with cases of influenza: infirmary, medical center, health center, clinic, sanatorium, hospice; Military field hospital; dated asylum.
+ˈhäˌspidl
+
+▶noun
+1 an institution providing medical and surgical treatment and nursing care for sick or injured people.
+2 historical a hospice, especially one run by the Knights Hospitaller.
+3 [usually in names] British Law a charitable institution for the education of the young. ORIGIN Middle English ( sense 2): via Old French from medieval Latin hospitale, neuter of Latin hospitalis ‘hospitable,’ from hospes, hospit- (see host1) .

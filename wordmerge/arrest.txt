@@ -7,10 +7,18 @@ A.  transitive verb
 ③ (attract) 吸引 xīyǐn 
 B.  noun Law 逮捕 dàibǔ to be under arrest 被捕 to put [somebody] under arrest 逮捕某人 
 arrest 
-▶verb
-1 police arrested him for murder: apprehend, take into custody, take prisoner, imprison, incarcerate, detain, jail, put in jail; informal pick up, pull in, run in, pinch, bust, nab, collar. ANTONYMS release.
-2 the spread of the disease can be arrested: stop, halt, check, block, hinder, restrict, limit, inhibit, impede, curb; prevent, obstruct; literary stay.
-3 she tried to arrest his attention: attract, capture, catch, hold, engage; absorb, occupy, engross.
+əˈrest
+
+▶verb [with object]
+1 seize (someone) by legal authority and take into custody: the police arrested him for possession of marijuana 
+two youths aged
+16 were arrested.
+2 stop or check (progress or a process): the spread of the disease can be arrested 
+(as adjective arrested) : arrested development may occur. 
+• [no object] suffer a heart attack: they were trying to resuscitate a patient who had arrested.
+3 attract the attention of (someone): his attention was arrested by a strange sound. 
 ▶noun
-1 a warrant for your arrest: detention, apprehension, seizure, capture, takedown.
-2 a cardiac arrest: stoppage, halt, interruption.
+1 the action of seizing someone to take into custody: I have a warrant for your arrest 
+they placed her under arrest 
+at least 69 arrests were made.
+2 a stoppage or sudden cessation of motion: a respiratory arrest. ORIGIN late Middle English: from Old French arester, based on Latin ad- ‘at, to’ + restare ‘remain, stop.’

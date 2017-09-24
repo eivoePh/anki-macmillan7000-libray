@@ -22,8 +22,33 @@ conjunction
 ⑯ (introducing question) 那么 nàme [引出与前文相关的提问]I found the letter in her bag — and did you open it? 我在她的包里找到了这封信──那么你拆开了吗？ I'm the new teacher — and? 我是新来的老师──然后呢？ 
 ⑰ (introducing new topic) [表示转入新话题]and now the main point on the agenda 下面谈谈议程的要点 
 and 
-▶conjunction coffee and a scone: together with, along with, with, as well as, in addition to, also; besides, furthermore; informal plus.
-USAGE
-and
-1 It is still widely taught and believed that conjunctions such as and (as well as but and because) should not be used to start a sentence, the argument being that a sentence starting with and expresses an incomplete thought and is therefore incorrect. Writers down the centuries have readily ignored this advice, however, using and to start a sentence, typically for rhetorical effect: What are the government's chances of winning in court? And what are the consequences?
-2 A small number of verbs—notably try, come, and go —can be followed by and with another verb, as in sentences like we're going to try and explain it to them or why don't you come and see the film? Such structures in these verbs correspond to the use of the infinitive ‘to,’ as in we're going to try to explain it to them or why don't you come to see the film? Since these structures are grammatically odd and (though extremely common) are mainly restricted to informal English, they are regarded as wrong by some and should be avoided in formal standard English.Usage notes show additional guidance on finer points of English usage.
+and (ə)n
+
+▶conjunction
+1 used to connect words of the same part of speech, clauses, or sentences that are to be taken jointly: bread and butter 
+red and black tiles 
+they can read and write 
+a hundred and fifty. 
+• used to connect two clauses when the second happens after the first: he turned around and walked out 
+she washed and dried her hair. 
+• used to connect two clauses, the second of which results from the first: do that once more, and I'll skin you alive. 
+• connecting two identical comparatives, to emphasize a progressive change: getting better and better 
+he felt more and more like an outsider. 
+• connecting two identical words, implying great duration or great extent: I cried and cried 
+it takes hours and hours. 
+• used to connect two identical words to indicate that things of the same name or class have different qualities: all human conduct is determined or caused—but there are causes and causes. 
+• used to connect two numbers to indicate that they are being added together: six and four make ten. 
+• archaic used to connect two numbers, implying succession: a line of men marching two and two.
+2 used to introduce an additional comment or interjection: if it came to a choice—and this was the worst thing—she would turn her back on her parents 
+they believe they are descended from him, and quite right, too. 
+• used to introduce a question in connection with what someone else has just said: “I found the letter in her bag.” “And did you steam it open?” 
+• (especially in broadcasting) used to introduce a statement about a new topic: and now to the dessert.
+3 informal used after some verbs and before another verb to indicate intention, instead of “to”: I would try and do what he said 
+come and see me. 
+▶noun (usually AND) Logic & Electronics a Boolean operator that gives the value one if and only if all the operands are one, and otherwise has a value of zero. 
+• (also AND gate) a circuit that produces an output signal only when signals are received simultaneously through all input connections. 
+PHRASES
+and/or either or both of two stated possibilities: audio and/or video components.ORIGIN Old English and, ond, of Germanic origin; related to Dutch en and German und . usage:
+1 It is still widely taught and believed that conjunctions such as and (and also but and because) should not be used to start a sentence, the argument being that a sentence starting with and expresses an incomplete thought and is therefore incorrect. Writers down the centuries have readily ignored this advice, however, using and to start a sentence, typically for rhetorical effect: What are the government's chances of winning in court? And what are the consequences?
+2 A small number of verbs—notably try, come, and go—can be followed by ‘and’ with another verb, as in sentences like we're going to try and explain it to them or why don't you come and see the film? Such structures in these verbs correspond to the use of the infinitive ‘to,’ as in we're going to try to explain it to them or why don't you come to see the film? Since these structures are grammatically odd and, though extremely common, are mainly restricted to informal English, they are regarded as wrong by some and should be avoided in formal standard English.
+3 On whether it is more correct to say both the boys and the girls or both the boys and girls, see usage at both.4 Where a number of items are separated by and, the following verb needs to be in the plural: see usage at or1 .

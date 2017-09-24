@@ -1,6 +1,7 @@
 quest 
-▶noun
-1 their quest for her killer: search, hunt.
-2 Sir Galahad's quest: expedition, journey, voyage, trek, travels, odyssey, adventure, exploration, search; crusade, mission, pilgrimage; informal Holy Grail.
-PHRASES
-in quest of thousands flocked north in quest of gold: in search of, in pursuit of, seeking, looking for, on the lookout for, after.
+kwest
+
+▶noun a long or arduous search for something: the quest for a reliable vaccine has intensified. 
+• (in medieval romance) an expedition made by a knight to accomplish a prescribed task. 
+▶verb [no object] search for something: he was a real scientist, questing after truth. 
+• [with object] literary search for; seek out. DERIVATIVES quester (also questor) noun. questingly adverbORIGIN late Middle English: from Old French queste (noun), quester (verb), based on Latin quaerere ‘ask, seek.’ See also inquest .

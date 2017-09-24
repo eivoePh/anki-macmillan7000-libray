@@ -1,7 +1,10 @@
 machine 
-▶noun
-1 a threshing machine: apparatus, appliance, device, contraption, contrivance, mechanism, engine, gadget, tool.
-2 an efficient publicity machine: organization, system, structure, arrangement, machinery; informal setup.
-3 he's an eating machine: powerhouse, human dynamo; wonder, phenomenon, sensation; automaton.
-WORD LINKS
-machine mechanical relating to or operated by a machine or machineryWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.REFLECTIONS Joshua Ferrismachine I have become acquainted recently with a good number of machines—from the common tractor with its combines and manure spreaders, to the bulldozer, which not only clears and levels the ground but digs into hard earth with its rear shanks; the grader, used to make the land level, ideal for large housing tracts; the scraper, which digs up dirt via the apron and auger and deposits it in the bowl for relocation; the roller; the paver; the skid-steer, commonly just called a bobcat after the name of its first manufacturer; the excavator, useful for deep digging, especially in tight places; the front-end loader, which is responsible for filling up truck beds with rocks and gravel and other stuff using an assortment of attachments, including buckets and grapple hooks; the wonderfully named, weirdly humanoid feller-buncher, which comes up behind a standing tree and appears to hug it lovingly just as it severs it at its trunk; the delimber, which strips logs of their limbs in mid-air; and the backhoe, sometimes called the backhoe loader, because it contains both a digger and a loader. Machine is an exemplar of a generic word behind which resides a rich lode of specificity which, until your two-year-old becomes a tractor fanatic, you ignore entirely, content to consider it only as that idle, forlorn thing resting on the roadside as you pass by.Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+məˈSHēn
+
+▶noun an apparatus using or applying mechanical power and having several parts, each with a definite function and together performing a particular task: a fax machine 
+a shredding machine. 
+• [usually with modifier] a coin-operated dispenser: a candy machine. 
+• technical any device that transmits a force or directs its application. 
+• an efficient and well-organized group of powerful people: his campaign illustrated the continuing strength of a powerful political machine. 
+• a person who acts with the mechanical efficiency of a machine: comedians are more than just laugh machines. 
+▶verb [with object] (especially in manufacturing) make or operate on with a machine: (as adjective machined) : a decoratively machined brass rod. ORIGIN mid 16th century (originally denoting a structure of any kind): from French, via Latin from Doric Greek makhana (Attic Greek mēkhanē, from mēkhos ‘contrivance’).

@@ -24,9 +24,27 @@ B.  intransitive verb «oil, water, blood» 涌出 yǒngchū ; figurative «musi
 ① (inflate) [pump something up, pump up something] 给…充气 gěi… chōngqì ‹tyre, inflatable›
 ② [pump somebody up] figurative colloquial (enthuse) 为…加油 wèi… jiāyóu to be pumped up; 士气高涨 
 ③ [pump something up, pump up something] colloquial (increase) 提高 tígāo ‹rate›; 开大 kāidà ‹volume›
-pump 
+pump
+1 
+pəmp
+
+▶noun a mechanical device using suction or pressure to raise or move liquids, compress gases, or force air into inflatable objects such as tires: a gas pump. 
+• [in singular] an instance of moving something by or as if by a pump: the pump of blood to her heart. 
+• [with modifier] Physiology an active transport mechanism in living cells by which specific ions are moved through the cell membrane against a concentration gradient: the bacterium's sodium pump. 
+• a pump-action shotgun. 
 ▶verb
-1 I pumped air out of the tube: force, drive, push; suck, draw, tap, siphon, withdraw, expel, extract, bleed, drain.
-2 she pumped up the tire: inflate, aerate, blow up, fill up; swell, enlarge, distend, expand, dilate, puff up.
-3 blood was pumping from his leg: spurt, spout, squirt, jet, surge, spew, gush, stream, flow, pour, spill, well, cascade, run, course.
-4 informal I pumped them for information: interrogate, cross-examine, ask, question, quiz, probe, sound out, catechize, give someone the third degree; informal grill.
+1 [with object] force (liquid, gas, etc.) to move in a specified direction by or as if by means of a pump: the blood is pumped around the body 
+[no object] : if we pump long enough, we should bring the level up. 
+• [no object] move in spurts as though driven by a pump: blood was pumping from a wound in his shoulder. 
+• informal try to elicit information from (someone) by persistent questioning: she began to pump her friend for details.
+2 fill (something such as a tire or balloon) with liquid or gas using a pump: I fetched the bike and pumped up the back tire 
+my veins had been pumped full of glucose. 
+• shoot (bullets) into a target.
+3 move vigorously up and down: [with object] : we had to pump the handle like mad 
+[no object] : that's superb running—look at his legs pumping. 
+• apply and release (a brake pedal or lever) several times in quick succession, typically to prevent skidding. 
+• Baseball move one's arm as if throwing a ball held in the hand, but without releasing the ball: [in combination] : behind the plate Howard double-pumped, then threw to second. 
+PHRASES
+pump someone's hand shake a person's hand vigorously. pump iron informal exercise with weights.PHRASAL VERBS pump something in/into informal invest a large amount of money in (something): he pumped all his savings into building the boat. pump something out produce or emit (something) in large quantities or amounts: that little printing press pumped out our brochures for more than twenty years. pump something up informal increase: she needs to read and pump up her political grip. 
+• turn up the volume of (music): let's pump up those tunes, man. 
+• give inappropriate support and encouragement to: we let them pump up our egos.ORIGIN late Middle English (originally in nautical use): related to Dutch pomp ‘ship's pump’ (earlier in the sense ‘wooden or metal conduit’), probably partly of imitative origin.

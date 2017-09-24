@@ -6,6 +6,11 @@ adjective
 ③ (uniform) 不变的 bùbiàn de ‹level, quality›to be of a consistent standard 前后标准统一 
 ④ (logical) 连贯一致的 liánguàn yīzhì de ‹argument, performance, method›to be consistent with [something]; 与某事物相符 it is consistent that he pay no attention to the rules 他一贯都无视规定 
 consistent 
-▶adjective
-1 consistent opinion-poll evidence: constant, regular, uniform, steady, stable, even, unchanging, undeviating, unfluctuating; dependable, reliable, predictable. ANTONYMS irregular.
-2 her injuries were consistent with a knife attack: compatible with, congruous with, consonant with, in tune with, in line with, reconcilable with; corresponding to, conforming to. ANTONYMS incompatible.
+kənˈsistənt
+
+▶adjective acting or done in the same way over time, especially so as to be fair or accurate: the parents are being consistent and firm in their reactions 
+a consistent worldwide application of its policies. 
+• unchanging in nature, standard, or effect over time: he is their most consistent player this season 
+the mixtures are of consistent quality. 
+• compatible or in agreement with something: the injuries are consistent with falling from a great height. 
+• (of an argument or set of ideas) not containing any logical contradictions: a consistent explanation. ORIGIN late 16th century (in the sense ‘consisting or composed of’): from Latin consistent- ‘standing firm or still, existing,’ from the verb consistere (see consist) .

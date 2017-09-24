@@ -2,4 +2,11 @@ vibration
 BrE vʌɪˈbreɪʃ(ə)n, AmE vaɪˈbreɪʃ(ə)n 
 nounUncountable and countable(of wing, string) 颤动 chàndòng ; (of aircraft, machine, mobile phone) 震动 zhèndòng 
 vibration 
-▶noun loose bolts are causing the vibration: tremor, shaking, quivering, quaking, shuddering, throb, throbbing, pulsation; chiefly British judder, juddering.
+vīˈbrāSH(ə)n
+
+▶noun an instance of vibrating: powerful vibrations from an earthquake 
+the big-capacity engine generated less vibration. 
+• Physics an oscillation of the parts of a fluid or an elastic solid whose equilibrium has been disturbed, or of an electromagnetic wave. 
+• (vibrations) informal a person's emotional state, the atmosphere of a place, or the associations of an object, as communicated to and felt by others. DERIVATIVES vibrational 
+vīˈbrāSH(ə)n(ə)l 
+adjectiveORIGIN mid 17th century: from Latin vibratio(n-), from the verb vibrare (see vibrate) .

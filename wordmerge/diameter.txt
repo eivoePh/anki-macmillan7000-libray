@@ -3,4 +3,12 @@ BrE dʌɪˈamɪtə, AmE daɪˈæmədər
 noun 直径 zhíjìng the circle is
 2 m in diameter 这个圆的直径是2米 
 diameter 
-▶noun the diameter of the hole is less than two inches: breadth, width, thickness; caliber, bore, gauge.
+dīˈamədər 
+(abbreviation diam.) 
+▶noun
+1 a straight line passing from side to side through the center of a body or figure, especially a circle or sphere. 
+• the length of the diameter of a figure, especially a circle or sphere. 
+• a transverse measurement of something; width or thickness.
+2 a unit of linear measurement of magnifying power. DERIVATIVES diametral 
+dīˈamətrəl 
+adjectiveORIGIN late Middle English: from Old French diametre, via Latin from Greek diametros (grammē)‘(line) measuring across,’ from dia ‘across’ + metron ‘measure.’

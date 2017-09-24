@@ -6,6 +6,14 @@ intransitive verb
 ③ (linger) 踌躇 chóuchú 
 ④ (remain at level) «prices, profits, inflation» 徘徊 páihuái 
 hover 
-▶verb
-1 helicopters hovered overhead: be suspended, be poised, hang, levitate, float; fly.
-2 she hovered anxiously nearby: linger, loiter, wait (around); informal hang around/about, stick around.
+ˈhəvər
+
+▶verb [no object] remain in one place in the air: army helicopters hovered overhead. 
+• remain poised uncertainly in one place or between two states: her hand hovered over the console 
+his expression hovered between cynicism and puzzlement. 
+• (of a person) wait or linger close at hand in a tentative or uncertain manner: she hovered anxiously in the background. 
+• remain at or near a particular level: inflation will hover around the
+4 percent mark. 
+• Computing use a mouse or other device to position the cursor over a particular area of a computer screen so as to cause a program to respond (typically by displaying additional information or options), without clicking a button on the device: if you hover over the video, it will play a preview with sound 
+[with object] : you can hover your cursor over any button to see an explanation. 
+▶noun [in singular] an act of remaining in the air in one place. DERIVATIVES hoverer nounORIGIN late Middle English: from archaic hove ‘hover, linger,’ of unknown origin.

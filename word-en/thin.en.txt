@@ -1,12 +1,34 @@
 thin 
-▶adjective
-1 a thin white line: narrow, fine, attenuated. ANTONYMS thick, broad.
-2 a thin cotton nightdress: lightweight, light, fine, delicate, floaty, flimsy, diaphanous, gossamer, insubstantial; sheer, gauzy, filmy, transparent, see-through; paper-thin. ANTONYMS thick, heavy.
-3 a tall, thin woman: slim, lean, slender, rangy, willowy, svelte, sylphlike, spare, slight; skinny, underweight, scrawny, waiflike, scraggy, bony, angular, rawboned, hollow-cheeked, gaunt, skin-and-bones, emaciated, skeletal, wasted, pinched, undernourished, underfed; lanky, spindly, gangly, gangling, weedy; size-zero; informal anorexic, (looking) like a bag of bones. ANTONYMS plump, overweight, fat.
-4 his thin gray hair: sparse, scanty, wispy, thinning. ANTONYMS thick, abundant.
-5 a bowl of thin soup: watery, weak, dilute, diluted; runny. ANTONYMS thick, hearty.
-6 her thin voice: weak, faint, feeble, small, soft; reedy. ANTONYMS strong, loud.
-7 the plot is very thin: insubstantial, flimsy, slight, feeble, lame, poor, weak, tenuous, inadequate, insufficient, unconvincing, unbelievable, implausible. ANTONYMS meaty, convincing.
-▶verb
-1 some paint must be thinned down before use: dilute, water down, weaken.
-2 the crowds were beginning to thin out : disperse, dissipate, scatter; become less dense, become less in number, decrease, diminish, dwindle.WORD TOOLKITthinleangauntlayermeatfacelinebodyfigurefilamentmuscleappearanceslicebeeffeaturescoatingtissuecheekscrustproteineyesblanketphysiqueshadowWord Toolkits illustrate the difference between close synonyms by means of words typically used with them.
+THin
+
+▶adjective (thinner, thinnest)
+1 having opposite surfaces or sides close together; of little thickness or depth: thin slices of bread. 
+• (of a person) having little, or too little, flesh or fat on their body: she was painfully thin. 
+• (of a garment or other knitted or woven item) made of light material for coolness or elegance. 
+• (of a garment) having had a considerable amount of fabric worn away. 
+• (of script or type) consisting of narrow lines: tall, thin lettering.
+2 having few parts or members relative to the area covered or filled; sparse: a depressingly thin crowd 
+his hair was going thin. 
+• not dense: the thin cold air of the mountains. 
+• containing much liquid and not much solid substance: thin soup. 
+• Climbing denoting a route on which the holds are small or scarce.
+3 (of a sound) faint and high-pitched: a thin, reedy little voice. 
+• (of a smile) weak and forced. 
+• too weak to justify a result or effect; inadequate: the evidence is rather thin. 
+▶adverb [often in combination] with little thickness or depth: thin-sliced ham 
+cut it as thin as possible. 
+▶verb (thins, thinning, thinned)
+1 make or become less dense, crowded, or numerous: [with object] : the remorseless fire of archers thinned their ranks 
+[no object] : the trees began to thin out 
+(as adjective thinning) : thinning hair. 
+• [with object] remove some plants from (a row or area) to allow the others more room to grow: thin out overwintered rows of peas. 
+• make or become weaker or more watery: [with object] : if the soup is too thick, add a little water to thin it down 
+[no object] : the blood thins.
+2 make or become smaller in width or thickness: [with object] : their effect in thinning the ozone layer is probably slowing the global warming trend 
+[no object] : the trees have thinned and diminished in size.
+3 [with object] Golf hit (a ball) above its center. 
+PHRASES
+on thin ice see ice. thin air used to refer to the state of being invisible or nonexistent: she just vanished into thin air 
+they seemed to pluck numbers out of thin air. the thin blue line informal used to refer to the police, typically in the context of situations of civil unrest. thin end of the wedge see wedge1. thin on top informal balding.DERIVATIVES thinnish 
+ˈTHiniSH 
+adjectiveORIGIN Old English thynne, of Germanic origin; related to Dutch dun and German dünn, from an Indo-European root shared by Latin tenuis .

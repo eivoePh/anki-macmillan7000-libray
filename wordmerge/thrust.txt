@@ -13,12 +13,23 @@ D.  reflexive verb(past tense, past participle thrust) to thrust oneself; (force
 ① literal (push to one side) 把…抛在一边 bǎ… pāo zài yībiān 
 ② figurative (reject) 对…置之不理 duì… zhì zhī bù lǐ thrust out transitive verb[thrust something out], [thrust out something] 猛推 měng tuī ‹object›; 突然伸出 tūrán shēnchū ‹part of body›he thrust out his tongue 他突然吐出舌头 she opened the door and thrust her head out 她打开门，探出头来 to thrust [something] out of the way 将某物推开 
 thrust 
-▶verb
-1 she thrust her hands into her pockets: shove, push, force, plunge, stick, drive, propel, ram, poke, jam.
-2 fame had been thrust on him: force, foist, impose, inflict.
-3 he thrust his way past her: push, shove, force, elbow, shoulder, barge, bulldoze.
+THrəst
+
+▶verb (thrusts, thrusting; past and past participle thrust) [with object] push (something or someone) suddenly or violently in the specified direction: she thrust her hands into her pockets 
+figurative : Howard was thrust into the limelight 
+[no object] : he thrust at his opponent with his sword. 
+• [no object] (of a person) move or advance forcibly: she thrust through the bramble canes 
+he tried to thrust his way past her. 
+• [no object] (of a thing) extend so as to project conspicuously: beside the boathouse a jetty thrust out into the water. 
+• (thrust something on/upon) force (someone) to accept or deal with something: he felt that fame had been thrust upon him. 
 ▶noun
-1 a hard thrust: shove, push, lunge, poke.
-2 a thrust led by Canadian forces: advance, push, drive, attack, assault, onslaught, offensive, charge, sortie, foray, raid, sally, invasion, incursion.
-3 only one engine is producing thrust: force, propulsive force, propulsion, power, impetus, momentum.
-4 the thrust of the speech: gist, substance, drift, burden, meaning, sense, theme, message, import, tenor.
+1 a sudden or violent lunge with a pointed weapon or a bodily part: he drove the blade upward with one powerful thrust. 
+• a forceful attack or effort: executives led a new thrust in business development. 
+• [in singular] the principal purpose or theme of a course of action or line of reasoning: anti-Americanism became the main thrust of their policy.
+2 the propulsive force of a jet or rocket engine. 
+• the lateral pressure exerted by an arch or other support in a building.
+3 (also thrust fault) Geology a reverse fault of low angle, with older strata displaced horizontally over younger. 
+PHRASES
+cut and thrust 
+ˌkəd ən ˈTHrəst 
+see cut. ORIGIN Middle English (as a verb): from Old Norse thrýsta; perhaps related to Latin trudere ‘to thrust.’ The noun is first recorded (early 16th century) in the sense ‘act of pressing.’

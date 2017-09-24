@@ -7,9 +7,15 @@ noun
 B.  /BrE ˈsʌplɪmɛnt, sʌplɪˈmɛnt, AmE ˈsəpləˌmɛnt, ˈsəpləmənt
 transitive verb 补充 bǔchōng ‹diet, knowledge›; 增加 zēngjiā ‹income›to supplement [something] with [something]; 用某物补充某物 he's supplementing his income by doing odd jobs 他通过打零工来增加收入 
 supplement 
-▶noun
-1 a mouse is a keyboard supplement: addition, accessory, supplementation, supplementary, extra, add-on, adjunct, appendage; Computing peripheral.
-2 a single room supplement: surcharge, addition, increase.
-3 a supplement to the essay: appendix, addendum, adhesion, end matter, tailpiece, codicil, postscript, addition, coda.
-4 a special supplement with today's paper: pullout, insert, extra section.
-▶verb they supplemented their incomes by waiting tables on weekends: augment, increase, add to, boost, swell, amplify, enlarge, top up.
+▶noun 
+ˈsəpləmənt 
+
+1 something that completes or enhances something else when added to it: the handout is a supplement to the official manual. 
+• a substance taken to remedy the deficiencies in a person's diet: multivitamin supplements. 
+• a separate section, especially a color magazine, added to a newspaper or periodical.
+2 Geometry the amount by which an angle is less than 180°. 
+▶verb 
+ˈsəpləˌment ˈsəpləmənt 
+[with object] add an extra element or amount to: she took the job to supplement her husband's income. DERIVATIVES supplementally 
+ˌsəpləˈmentl-ē 
+adverbORIGIN late Middle English: from Latin supplementum, from supplere ‘fill up, complete’ (see supply1) .

@@ -1,9 +1,22 @@
 law 
+lô
+
 ▶noun
-1 a new law was passed: regulation, statute, enactment, act, bill, decree, edict, bylaw, rule, ruling, ordinance, dictum, command, order, directive, pronouncement, proclamation, dictate, fiat.
-2 a career in law: the legal profession, the bar.
-3 informal on the run from the law. See police (noun).
-4 the laws of the game: rule, regulation, principle, convention, instruction, guideline.
-5 a moral law: principle, rule, precept, directive, injunction, commandment, belief, creed, credo, maxim, tenet, doctrine, canon.
-WORD LINKS
-law legal , judicial , juridical relating to laws jurisprudence the theory or philosophy of lawWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 (often the law) the system of rules that a particular country or community recognizes as regulating the actions of its members and may enforce by the imposition of penalties: they were taken to court for breaking the law 
+a license is required by law 
+[as modifier] : law enforcement. 
+• an individual rule as part of a system of law: an initiative to tighten up the laws on pornography. 
+• systems of law as a subject of study or as the basis of the legal profession: he was still practicing law 
+[as modifier] : a law firm. Compare with jurisprudence. 
+• a thing regarded as having the binding force or effect of a formal system of rules: what he said was law. 
+• (the law) informal the police: he'd never been in trouble with the law in his life. 
+• statutory law and the common law. Compare with equity. 
+• a rule defining correct procedure or behavior in a sport: the laws of the game.
+2 a statement of fact, deduced from observation, to the effect that a particular natural or scientific phenomenon always occurs if certain conditions are present: the second law of thermodynamics. 
+• a generalization based on a fact or event perceived to be recurrent: the first law of American corporate life is that dead wood floats.
+3 the body of divine commandments as expressed in the Bible or other religious texts. 
+• (the Law) the Pentateuch as distinct from the other parts of the Hebrew Bible (the Prophets and the Writings). 
+• (also the Law of Moses) the precepts of the Pentateuch. Compare with Torah. 
+PHRASES
+at (or in) law according to or concerned with the laws of a country: an agreement enforceable at law 
+an attorney-at-law. be a law unto oneself behave in a manner that is not conventional or predictable. go to law resort to legal action in order to settle a matter. law and order a situation characterized by respect for and obedience to the rules of a society. the law of the jungle see jungle. lay down the law issue instructions to other people in an authoritative or dogmatic way. take the law into one's own hands punish someone for an offense according to one's own ideas of justice, especially in an illegal or violent way. take someone to law initiate legal proceedings against someone. there's no law against it informal used in spoken English to assert that one is doing nothing wrong, especially in response to an actual or implied criticism: I can laugh, can't I? There's no law against it.ORIGIN Old English lagu, from Old Norse lag ‘something laid down or fixed,’ of Germanic origin and related to lay1 .

@@ -5,18 +5,9 @@ nounUncountable
 ② (of products) 包装 bāozhuāng 
 ③ (material) 包装材料 bāozhuāng cáiliào 
 ④ Technology (filling) 填料 tiánliào 
-pack 
-▶noun
-1 a pack of cigarettes: packet, container, package, box, carton, parcel.
-2 with a pack on his back: backpack, knapsack, rucksack, day pack, kit bag, bag.
-3 a pack of youngsters: crowd, mob, group, band, troupe, troop, party, set, clique, gang, rabble, horde, herd, throng, huddle, mass, assembly, gathering, host; informal crew, bunch.
-▶verb
-1 she helped pack the picnic basket: fill (up), put things in, load.
-2 they packed their belongings: stow, put away, store, box up.
-3 the glasses were packed in straw: wrap (up), package, parcel, swathe, swaddle, encase, enfold, envelop, bundle.
-4 Christmas shoppers packed the store: throng, crowd (into), fill (to overflowing), cram, jam, squash into, squeeze into.
-5 pack the cloth against the wall: compress, press, squash, squeeze, jam, tamp.
-PHRASES
-pack off informal we packed our youngest son off to college just last week: send off, dispatch, bundle off. pack up
-1 pack up your toys now: put away, tidy up/away, clear up/away.
-2 informal it's time to pack up: stop, call it a day, finish, cease; informal knock off, quit, pack it in.
+packing 
+ˈpakiNG
+
+▶noun the action or process of packing something: the handling, packing, and shipping of products. 
+• material used to protect fragile goods, especially in transit: polystyrene packing. 
+• material used to seal a joint or assist in lubricating an axle.

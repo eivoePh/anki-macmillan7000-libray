@@ -2,5 +2,8 @@ geometry
 BrE dʒɪˈɒmɪtri, AmE dʒiˈɑmətri 
 noun Uncountable几何学 jǐhéxué a geometry book/lesson 几何学书/课 
 geometry 
-BrE dʒɪˈɒmɪtri, AmE dʒiˈɑmətri 
-noun Uncountable几何学 jǐhéxué a geometry book/lesson 几何学书/课 
+jēˈämətrē
+
+▶noun the branch of mathematics concerned with the properties and relations of points, lines, surfaces, solids, and higher dimensional analogs. 
+• (plural geometries) a particular system of geometry: non-Euclidean geometries. 
+• [in singular] the shape and relative arrangement of the parts of something: the geometry of spiders' webs. ORIGIN Middle English: via Old French from Latin geometria, from Greek, from gē ‘earth’ + metria (see -metry) .

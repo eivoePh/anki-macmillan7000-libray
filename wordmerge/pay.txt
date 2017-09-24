@@ -25,21 +25,30 @@ C.  [pay something off, pay off something] transitive verb (repay) 还清 huánq
 ② (let out) 徐徐放出 xúxú fàngchū ‹rope›pay up 
 A.  intransitive verb 还清欠款 huánqīng qiànkuǎn 
 B.  transitive verb[pay up something] 还清 huánqīng he paid up everything he owed me 他还清了欠我的所有款项 
-pay 
-▶verb
-1 I want to pay him for his work: reward, reimburse, recompense, give payment to, remunerate.
-2 Tom must pay a few more dollars: spend, expend, pay out, dish out, disburse; informal lay out, shell out, fork out, cough up; ante up, pony up.
-3 he paid his debts: discharge, settle, pay off, clear, liquidate.
-4 hard work will pay dividends: yield, return, produce.
-5 he made the buses pay: be profitable, make money, make a profit.
-6 it doesn't pay to get involved: be advantageous, be of advantage, be beneficial, benefit.
-7 paying compliments: bestow, grant, give, offer.
-8 he will pay for his mistakes: suffer, suffer the consequences, be punished, atone, pay the penalty/price.
-▶noun equal pay for women: salary, wages, payment; earnings, remuneration, reimbursement, income, revenue; formal emolument(s).
+pay
+1 
+pā
+
+▶verb (past and past participle paid)
+1 [with object] give (someone) money that is due for work done, goods received, or a debt incurred: [with object and infinitive] : he paid the locals to pick his coffee beans 
+[no object] : TV licenses can be paid for by direct debit. 
+• give (a sum of money) in exchange for goods or work done or in discharge of a debt: he paid $1,000 to have it built in 1977 
+[with two objects] : a museum paid him a four-figure sum for it. 
+• hand over or transfer the amount due of (a debt, wages, etc.) to someone: bonuses were paid to savers whose policies completed their full term. 
+• (of work, an investment, etc.) yield or provide someone with (a specified sum of money): jobs that pay $5 or $6 an hour. 
+• [no object] (of a business or undertaking, or an attitude) be profitable or advantageous to someone: crime doesn't pay 
+[with infinitive] : it pays to choose varieties carefully.
+2 [no object] suffer a loss or other misfortune as a consequence of an action: the destroyer responsible for these atrocities would have to pay with his life. 
+• [with object] give what is due or deserved to (someone); reward or punish.
+3 [with two objects] give or bestow (attention, respect, or a compliment) on (someone): no one paid them any attention. 
+• make (a visit or a call) to (someone): she has been prevailed upon to pay us a visit. 
+▶noun the money paid to someone for regular work: those working on contract may receive higher rates of pay 
+showing up and collecting your pay. 
 PHRASES
-pay back
-1 she has sworn to pay him back for his philandering: get one's revenge on, be revenged on, avenge oneself on, get back at, get even with, settle accounts with, exact retribution on.
-2 they eventually paid back the money: repay, pay off, give back, return, reimburse, refund. pay for I'll pay for dinner: fund, finance, defray the cost of, settle up for, treat someone to; informal foot the bill for, shell out for, fork out for, cough up for, ante up for, pony up for. pay off
-1 he was busted for trying to pay off a cop: bribe, suborn, buy (off); informal grease someone's palm.
-2 she paid off the car loan in less than a year: pay (in full), settle, discharge, clear, liquidate.
-3 his hard work paid off: meet with success, be successful, be effective, get results. pay out how much did you have to pay out for that bike? spend, expend, dish out, put up, part with, hand over; informal shell out, fork out/up, lay out, cough up. pay up you have one more week to pay up: make payment, settle up, pay (in full); informal cough up.
+in the pay of employed by. pay one's compliments see compliment. pay court to see court. pay dearly obtain something at a high cost or great effort: his master must have paid dearly for such a magnificent beast. 
+• suffer for an error or failure: they paid dearly for wasting goalscoring opportunities. pay one's dues see due. pay for itself (of an object or system) earn or save enough money to cover the cost of its purchase: the best insulation will pay for itself in less than a year. pay it forward respond to a person's kindness to oneself by being kind to someone else: I will take the support I have had and try to pay it forward whenever I can. pay its (or one's) way (of an enterprise or person) earn enough to cover its (or one's) costs: some students are paying their way through college. pay one's last respects show respect toward a dead person by attending their funeral. pay one's respects make a polite visit to someone: we went to pay our respects to the head lama. pay through the nose informal pay much more than a fair price.PHRASAL VERBS pay someone back repay a loan to someone: a regular amount was deducted from my wages to pay her back. 
+• take revenge on someone: would you like to pay him back for hitting you like that? 
+• reward someone for something done earlier: I took Aunt Shirley a cake to pay her back for solving a problem my grandmother had. pay something back repay a loan to someone: the money should be paid back with interest 
+[with two objects] : they did pay me back the money. pay something in pay money into a bank account. pay off informal (of a course of action) yield good results; succeed: all the hard work I had done over the summer paid off. pay someone off dismiss someone with a final payment: when directors are fired, they should not be lavishly paid off. pay something off pay a debt in full: you may have saved up enough to pay off your second mortgage. pay something out (or pay out)
+1 pay a large sum of money from funds under one's control: insurers can refuse to pay out.
+2 let out (a rope) by slackening it: I began paying out the nylon line.pay up (or pay something up) pay a debt in full: you've got ninety days to pay up the principal.ORIGIN Middle English (in the sense ‘pacify’): from Old French paie (noun), payer (verb), from Latin pacare ‘appease,’ from pax, pac- ‘peace.’ The notion of ‘payment’ arose from the sense of ‘pacifying’ a creditor.

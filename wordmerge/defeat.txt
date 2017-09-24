@@ -12,11 +12,13 @@ B.  transitive verb
 ④ (thwart) 使…落空 shǐ… luòkōng ‹hope, plan, ambition›to be defeated in one's attempts/efforts (to do [something]); （做某事的）企图/努力受挫 don't be defeated! 别气馁！ to defeat one's own purpose or ends 违背初衷 
 ⑤ (baffle) «problem, task, concept» 难倒 nándǎo ‹person›the instruction manual completely defeated me 说明书完全把我搞晕了 
 defeat 
-▶verb
-1 the army that defeated the rebels: beat, conquer, win against, triumph over, get the better of, vanquish; rout, trounce, overcome, overpower, crush, subdue; informal lick, thrash, whip, wipe the floor with, make mincemeat of, clobber, slaughter, demolish, cream, skunk, nose out.
-2 these complex plans defeat their purpose: thwart, frustrate, foil, ruin, scotch, debar, derail; obstruct, impede, hinder, hamper; informal put the kibosh on, stymie, scuttle.
-3 the motion was defeated: reject, overthrow, throw out, dismiss, outvote, turn down; informal give the thumbs down.
-4 how to make it work defeats me: baffle, perplex, bewilder, mystify, bemuse, confuse, confound, throw; informal beat, flummox, faze, stump.
-▶noun
-1 a crippling defeat: loss, conquest, vanquishment; rout, trouncing; downfall; informal thrashing, hiding, drubbing, licking, pasting, massacre, slaughter, beatdown. ANTONYMS victory.
-2 the defeat of his plans: failure, downfall, collapse, ruin; rejection, frustration, abortion, miscarriage; undoing, reverse. ANTONYMS success.
+dəˈfēt
+
+▶verb [with object] win a victory over (someone) in a battle or other contest; overcome or beat: Arab armies defeated the Byzantine garrison. 
+• prevent (someone) from achieving an aim: she was defeated by the last steep hill. 
+• prevent (an aim) from being achieved: don't cheat by allowing your body to droop—this defeats the object of the exercise. 
+• reject or block (a motion or proposal): the amendment was defeated. 
+• be impossible for (someone) to understand: this line of reasoning defeats me, I must confess. 
+• Law render null and void; annul. 
+▶noun an instance of defeating or being defeated: the defeat of the Armada in 1588 
+she had still not quite admitted defeat. ORIGIN late Middle English (in the sense ‘undo, destroy, annul’): from Old French desfait ‘undone,’ past participle of desfaire, from medieval Latin disfacere ‘undo.’

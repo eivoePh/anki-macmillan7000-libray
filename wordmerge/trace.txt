@@ -15,11 +15,31 @@ B.  transitive verb
 ④ (draw, form) 勾画出 gōuhuà chū ‹letters, figure›a tear traced a path down her cheek 一滴眼泪顺着她的面颊流了下来 PHRASAL VERBS trace back transitive verb[trace something back], [trace back something] 追溯 zhuīsù ‹history›; 追踪 zhuīzōng ‹tracks›to trace footprints/a trail back to [something]; 追踪脚印/踪迹到某处 the root of the problem was traced back to … 最后查出问题的根源是… how far back can you trace your ancestors? 你可以追溯自己的祖先到多远？ trace out transitive verb[trace something out], [trace out something] 
 ① (copy) 描摹 miáomó ‹map, drawing, design›
 ② (draw, form) 勾画出 gōuhuà chū ‹figure, letters, pattern›to trace out the route on a map 在地图上描出路线 to trace out [something] in the sand/on the wall 在沙子里/墙上画写某物 
-trace 
-▶verb
-1 police hope to trace the owner of the vehicle: track down, find, discover, detect, unearth, turn up, hunt down, ferret out.
-2 she traced a pattern in the sand with her toe: draw, outline, mark, sketch.
-3 the analysis traces the origins of cowboy poetry: outline, map out, follow, sketch out, delineate, depict, show, indicate.
+trace
+1 
+trās
+
+▶verb [with object]
+1 find or discover by investigation: police are trying to trace a white van seen in the area. 
+• find or describe the origin or development of: Bob's book traces his flying career with the Marines. 
+• follow or mark the course or position of (something) with one's eye, mind, or finger: through the binoculars, I traced the path I had taken the night before. 
+• take (a particular path or route): a tear traced a lonely path down her cheek.
+2 copy (a drawing, map, or design) by drawing over its lines on a superimposed piece of transparent paper. 
+• draw (a pattern or line), especially with one's finger or toe. 
+• give an outline of: the article traces out some of the connections between education, qualifications, and the labor market. 
 ▶noun
-1 no trace had been found of the runaways: vestige, sign, mark, indication, evidence, clue; trail, tracks, marks, prints, footprints, spoor; remains, remnant, relic.
-2 a trace of bitterness crept into her voice: bit, touch, hint, suggestion, suspicion, shadow, whiff; drop, dash, tinge, speck, shred, iota; smidgen, tad.CHOOSE THE RIGHT WORD trace, remnant, track, trail, vestige You can follow the track of a deer in the snow, the trace of a sleigh, or the trail of someone who has just cut down a Christmas tree and is dragging it back to the car. A track is a line or a series of marks left by the passage of something or someone; it often refers specifically to a line of footprints or a path worn into the ground by the feet (to follow the track of a grizzly bear). Trace may refer to a line or a rut made by someone or something that has been present or passed by; it may also refer to a mark serving as evidence that something has happened or been there (traces of mud throughout the house; the telephoto shots have a trace of camera shake). Trail may refer to the track created by the passage of animals or people, or to the mark or marks left by something being dragged along a surface (they followed the trail of the injured dog). Vestige and remnant come closer in meaning to trace, as they refer to what remains after something has passed away. A vestige is always slight when compared to what it recalls (the last vestiges of a great civilization), while a remnant is a fragment or scrap of something (all that remained of the historic tapestry after the fire were a few scorched remnants).These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 a mark, object, or other indication of the existence or passing of something: remove all traces of the old adhesive 
+the aircraft disappeared without trace. 
+• North American & West Indian a beaten path or small road; a track. 
+• a physical change in the brain presumed to be caused by a process of learning or memory. 
+• a procedure to investigate the source of something, such as the place from which a telephone call was made, or the origin of an error in a computer program.
+2 a very small quantity, especially one too small to be accurately measured: his body contained traces of amphetamines 
+[as modifier] : trace quantities of PCBs. 
+• a slight indication or barely discernible hint of something: just a trace of a smile.
+3 a line or pattern displayed by an instrument using a moving pen or a luminous spot on a screen to show the existence or nature of something that is being investigated. 
+• a line that represents the projection of a curve or surface on a plane or the intersection of a curve or surface with a plane.
+4 Mathematics the sum of the elements in the principle diagonal of a square matrix. DERIVATIVES traceability 
+ˌtrāsəˈbilədē 
+noun. traceless 
+ˈtrāsləs 
+adjectiveORIGIN Middle English (first recorded as a noun in the sense ‘path that someone or something takes’): from Old French trace (noun), tracier (verb), based on Latin tractus (see tract1) .

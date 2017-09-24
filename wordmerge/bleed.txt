@@ -13,10 +13,25 @@ B.  (past tense, past participle bled /bled/) transitive verb
 ④ Printing 把…印成出血版 bǎ… yìnchéng chūxiěbǎn 
 C.  noun Medicine 出血 chūxiě 
 bleed 
-▶verb
-1 his arm was bleeding: lose blood, hemorrhage.
-2 the doctor bled him: draw blood from; Medicine exsanguinate; archaic phlebotomize.
-3 one color bled into another: flow, run, seep, filter, percolate, leach.
-4 sap was bleeding from the trunk: flow, run, ooze, seep, exude, weep.
-5 funds are in danger of being bled dry : drain, sap, deplete, milk, exhaust.
-6 my heart bleeds for them: grieve for, ache for, sorrow for, mourn for, lament for, feel for, suffer for; sympathize with, pity.
+blēd
+
+▶verb (past and past participle bled 
+bled
+)
+1 [no object] lose blood from the body as a result of injury or illness: the cut was bleeding steadily 
+some casualties were left to bleed to death 
+(as noun bleeding) : the bleeding has stopped now. 
+• (of a dye or color) seep into an adjacent color or area: I worked loosely with the oils, allowing colors to bleed into one another. 
+• Printing (with reference to an illustration or design) print or be printed so that it runs off the page after trimming: the picture bleeds on three sides 
+[with object] : Faye showed us how to bleed the images for our brochure layout.
+2 [with object] draw blood from (someone), especially as a once-common method of treatment in medicine. 
+• remove blood from (an animal carcass): the first steer rolled out on the floor to be bled, skinned, and dressed. 
+• [with object] informal drain (someone) of money or resources: his policy of attempting to bleed unions of funds. 
+• [with object] allow (fluid or gas) to escape from a closed system through a valve: open the valves and bleed air from the pump chamber. 
+• [with object] treat (a system) by allowing fluid or gas to escape through a valve: bleeding the radiator at the air vent. 
+▶noun an instance of bleeding: a lot of blood was lost from the placental bleed. 
+• Printing an instance of printing an illustration, design, or text to the edge of the page: it allows printing of a tabloid page with full bleed. 
+• the escape of fluid or gas from a closed system through a valve: the amount of air bleed from the compressor. 
+• the action or process of a dye, ink, or color seeping into an adjacent color or area: color bleed is apparent on brighter hues. 
+PHRASES
+bleed someone/something dry (or white) drain someone or something of wealth or resources: the railroads claimed that personnel costs were bleeding them dry.my heart bleeds (for you) used ironically to express the speaker's belief that the person spoken about does not deserve the sympathetic response sought: “I flew out here feeling tired and overworked.” “My heart bleeds for you!” she replied.ORIGIN Old English blēdan, of Germanic origin; related to blood .

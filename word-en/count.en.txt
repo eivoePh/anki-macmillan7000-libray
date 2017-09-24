@@ -1,14 +1,41 @@
-count 
+count
+1 
+kount
+
 ▶verb
-1 Vern counted the money again: add up, add together, reckon up, total, tally, calculate, compute, tot up; census; formal enumerate; dated cast up.
-2 a company with 250 employees, not counting overseas staff: include, take into account, take account of, take into consideration, allow for.
-3 I count it a privilege to be asked: consider, think, feel, regard, look on as, view as, hold to be, judge, deem, account.
-4 it's your mother's feelings that count: matter, be of consequence, be of account, be significant, signify, be important, carry weight.
+1 [with object] determine the total number of (a collection of items): I started to count the stars I could see 
+they counted up their change. 
+• [no object] recite numbers in ascending order, usually starting at the number one: hold the position as you count to five. 
+• [no object] (count down) recite or display numbers backward to zero to indicate the time remaining before the launch of a rocket or the start of an operation: the floor manager pointed at the camera and counted down. 
+• [no object] (count down) prepare for a significant event in the short time remaining before it: with more orders expected, the company is counting down to a bumper Christmas.
+2 [with object] take into account; include: the staff has shrunk to four, or five if you count the summer intern. 
+• (count someone in) include someone in an activity or the plans for it: if the project gets started, count me in. 
+• regard or be regarded as possessing a specified quality or fulfilling a specified role: she met some rebuffs from people she had counted as her friends 
+[with object and complement] : I count myself fortunate to have known him 
+[no object] : the rebate counts as taxable income.
+3 [no object] be significant: it did not matter what the audience thought—it was the critics that counted. 
+• (of a factor) play a part in influencing opinion for or against someone or something: he hopes his sportsmanlike attitude will count in his favor. 
+• (count for) be worth (a specified amount): he has no power base and his views count for little. 
+• (count toward) be included in an assessment of (a final result or amount): reduced rate contributions do not count toward your pension. 
+• (count on/upon) rely on: whatever you're doing, you can count on me. 
 ▶noun
-1 at last count, the committee had 57 members: calculation, computation, reckoning, tally; formal enumeration.
-2 her white blood cell count: amount, number, total.
+1 an act of determining the total number of something: at the last count, fifteen applications were still outstanding 
+the party's only candidate was eliminated at the first count. 
+• the total determined by counting: there was a moderate increase in the white cell count in both patients.
+2 an act of reciting numbers in ascending order, up to the specified number: hold the position for five counts 
+hold it for a count of seven. 
+• Boxing an act of reciting numbers up to ten by the referee when a boxer is knocked down, the boxer being considered knocked out if still down when ten is reached. 
+• Baseball the number of balls and strikes that have been charged to the batter, as recalculated with each pitch: the count on Gwynn is
+1 ball and
+2 strikes.
+3 a point for discussion or consideration: the program remained vulnerable on a number of counts. 
+• Law a separate charge in an indictment: he pleaded guilty to five counts of murder.
+4 the measure of the fineness of a yarn expressed as the weight of a given length or the length of a given weight. 
+• a measure of the fineness of a woven fabric expressed as the number of warp or weft threads in a given length. 
 PHRASES
-count on/upon
-1 you can count on me: rely on, depend on, bank on, trust (in), be sure of, have (every) confidence in, believe in, put one's faith in, take for granted, take as read.
-2 they hadn't counted on his indomitable spirit: expect, reckon on, anticipate, envisage, allow for, be prepared for, bargain for/on, figure on. down for the count informal See unconscious (sense
-1 of the adjective). 
+—— and counting used to say that a figure is constantly increasing: nearly seven years later (and counting), Hackett remains undefeated. beat the count (of a boxer who has been knocked down) get up before the referee counts to ten. count one's blessings be grateful for what one has. count the cost calculate the consequences of something, typically a careless or foolish action. count the days (or hours) be impatient for time to pass: they counted the days until they came home on leave.count (something) on the fingers of one hand used to emphasize the small number of a particular thing: I could count on the fingers of one hand the men I know who are desperate to experience fatherhood. count (one's) pennies see penny. count sheep see sheep. don't count your chickens before they're hatched proverb don't be too confident in anticipating success or good fortune before it is certain: I wouldn't count your chickens—I've agreed to sign the contract but that's all I've agreed to. down (or British out) for the count Boxing defeated by being knocked to the canvas and unable to rise within ten seconds. 
+• unconscious or soundly asleep. keep count (or a count) take note of the number or amount of something: you can protect yourself by keeping a count of what you drink.lose count forget how many of something there are, especially because the number is so high: I've lost count of the hundreds of miles I've covered. take the count Boxing be knocked out.PHRASAL VERBS count someone out
+1 complete a count of ten seconds over a fallen boxer to indicate defeat.
+2 not include someone in an activity: if this is a guessing game, you can count me out.
+3 (in children's games) select a player for dismissal or a special role by using a counting rhyme. count something out take items one by one from a stock of something, especially money, keeping a note of how many one takes: opening the wallet, I counted out
+19 dollars.ORIGIN Middle English (as a noun): from Old French counte (noun), counter (verb), from the verb computare ‘calculate’ (see compute).

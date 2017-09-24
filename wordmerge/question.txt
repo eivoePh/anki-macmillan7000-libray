@@ -9,16 +9,20 @@ B.  transitive verb
 ① (ask, interrogate) 问 wèn over half of those questioned said they rarely took any exercise 被问到的人有一半以上都说他们很少锻炼身体 she was arrested and questioned about the fire 她被拘留讯问有关火灾的事情 the witness was questioned about his drinking habits 证人被问到他的喝酒习惯 
 ② (be doubtful of) 怀疑 huáiyí to question [somebody's] judgement 对某人的判断表示怀疑 I question whether he really paid that money into her account 我怀疑他是否真的把钱划入她的账户了 
 question 
-▶noun
-1 please answer my question: inquiry, query; interrogation. ANTONYMS answer, response.
-2 there is no question that he is ill: doubt, dispute, argument, debate, uncertainty, dubiousness, reservation. ANTONYMS certainty.
-3 the political questions of the day: issue, matter, business, problem, concern, topic, theme, case; debate, argument, dispute, controversy.
-▶verb
-1 the lieutenant questions the suspect: interrogate, cross-examine, cross-question, quiz, catechize; interview, debrief, examine, give the third degree to; informal grill, pump.
-2 she questioned his motives: query, call into question, challenge, dispute, cast aspersions on, doubt, suspect, have suspicions about, have reservations about.
+ˈkwesCH(ə)n
+
+▶noun a sentence worded or expressed so as to elicit information: we hope this leaflet has been helpful in answering your questions. 
+• a doubt about the truth or validity of something: there is no question that America faces the threat of Balkanization. 
+• the raising of a doubt about or objection to something: Edward was the only one she obeyed without question 
+her loyalty is really beyond question. 
+• a matter forming the basis of a problem requiring resolution: we have kept an eye on the question of political authority. 
+• a matter or concern depending on or involving a specified condition or thing: it was not simply a question of age and hierarchy. 
+▶verb [with object] ask questions of (someone), especially in an official context: four men were being questioned about the killings 
+(as noun questioning) : the young lieutenant escorted us to the barracks for questioning. 
+• feel or express doubt about; raise objections to: members had questioned the cost of the scheme. 
 PHRASES
-beyond question
-1 her loyalty is beyond question: undoubted, beyond doubt, certain, indubitable, indisputable, incontrovertible, unquestionable, undeniable, clear, patent, manifest.
-2 the results demonstrated this beyond question: indisputably, irrefutably, incontestably, incontrovertibly, unquestionably, undeniably, undoubtedly, beyond doubt, without doubt, clearly, patently, obviously. in question the matter in question: at issue, under discussion, under consideration, on the agenda, to be decided. out of the question changing the date of the wedding is out of the question: impossible, impracticable, unfeasible, unworkable, inconceivable, unimaginable, unrealizable, unsuitable. 
-WORD LINKS
-question interrogative expressing a questionWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+be (just or only) a question of time be certain to happen sooner or later. bring something into question raise an issue for further consideration or discussion: technology had brought into question the whole future of work. come into question become an issue for further consideration or discussion: our Sunday trading laws have come into question. in question
+1 being considered or discussed: on the day in question, there were several serious emergencies.
+2 in doubt: all of the old certainties are in question. no question of no possibility of. out of the question too impracticable or unlikely to merit discussion. question of fact Law an issue to be decided by a jury. question of law Law an issue to be decided by a judge. put the question (in a formal debate or meeting) require supporters and opponents of a proposal to record their votes.DERIVATIVES questioningly 
+ˈkwesCH(ə)niNGlē 
+adverbORIGIN late Middle English: from Old French question (noun), questionner (verb), from Latin quaestio(n-), from quaerere ‘ask, seek.’

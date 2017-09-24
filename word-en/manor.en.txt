@@ -1,5 +1,8 @@
 manor 
-BrE ˈmanə, AmE ˈmænər 
-noun 
-① especially History (estate) 庄园 zhuāngyuán Lord/Lady of the manor 领主/女领主 
-② manor (house) 庄园宅第 zhuāngyuán zháidì 
+ˈmanər
+
+▶noun (also manor house) a large country house with lands; the principal house of a landed estate. 
+• chiefly historical (especially in England and Wales) a unit of land, originally a feudal lordship, consisting of a lord's demesne and lands rented to tenants. 
+• historical (in North America) an estate or district leased to tenants, especially one granted by royal charter in a British colony or by the Dutch governors of what is now New York State. DERIVATIVES manorial 
+məˈnôrēəl 
+adjectiveORIGIN Middle English: from Anglo-Norman French maner ‘dwelling,’ from Latin manere ‘remain.’

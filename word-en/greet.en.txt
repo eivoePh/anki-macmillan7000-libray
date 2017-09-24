@@ -1,4 +1,7 @@
-greet 
-▶verb
-1 she greeted Hank cheerily: say hello to, address, salute, hail; welcome, meet, receive.
-2 the decision was greeted with outrage: receive, acknowledge, respond to, react to, take.
+greet
+1 
+ɡrēt
+
+▶verb [with object] give a polite word or sign of welcome or recognition to (someone) on meeting. 
+• receive or acknowledge (something) in a specified way: everyone present greeted this idea warmly. 
+• (of a sight or sound) become apparent to or be noticed by (someone) on arrival somewhere: flowers and cheers greeted the shipyard workers. ORIGIN Old English grētan ‘approach, attack, or salute’; related to Dutch groeten and German grüssen ‘greet.’

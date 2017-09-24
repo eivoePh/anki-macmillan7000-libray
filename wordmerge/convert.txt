@@ -18,8 +18,22 @@ noun
 ① Religion 皈依者 guīyīzhě 
 ② Politics 改变信仰者 gǎibiàn xìnyǎng zhě 
 convert 
-▶verb
-1 plants convert the sun's energy into chemical energy: change, turn, transform, metamorphose, transfigure, transmute; humorous transmogrify; technical permute.
-2 the factory was converted into lofts: adapt, turn, change, alter, modify, rebuild, reconstruct, redevelop, refashion, redesign, restyle, revamp, renovate, rehabilitate; informal do up, rehab.
-3 they sought to convert sinners: proselytize, evangelize, bring to God, redeem, save, reform, re-educate, cause to see the light.
-▶noun Christian converts: proselyte, neophyte, new believer; Christianity catechumen.
+▶verb 
+kənˈvərt 
+
+1 [with object] cause to change in form, character, or function: production processes that converted raw material into useful forms. 
+• [no object] change or be able to change from one form to another: the seating converts to a double or two single beds. 
+• [no object] change one's religious faith or other beliefs: at sixteen he converted to Catholicism. 
+• persuade (someone) to do this: he was converted in his later years to the socialist cause. 
+• change (money, stocks, or units in which a quantity is expressed) into others of a different kind: the figures have been converted at $0.545 to the Dutch guilder. 
+• adapt (a building) to make it suitable for a new purpose: the space can be easily converted into a home office 
+(as adjective converted) : they lived in a converted chicken house. 
+• Logic transpose the subject and predicate of (a proposition) according to certain rules to form a new proposition by inference.
+2 [with object] score from (a penalty kick, pass, or other opportunity) in a sport or game. 
+• [no object] American Football score an extra point or points after having scored a touchdown by kicking a goal (one point) or running another play into the end zone (two points). 
+• [no object] American Football advance the ball far enough during a down to earn a first down: the Oilers converted on over half of their third downs. 
+▶noun 
+ˈkänˌvərt 
+a person who has been persuaded to change their religious faith or other beliefs: he is a recent convert to the church. 
+PHRASES
+convert something to one's own use Law wrongfully make use of another's property.ORIGIN Middle English (in the sense ‘turn around, send in a different direction’): from Old French convertir, based on Latin convertere ‘turn around,’ from con- ‘altogether’ + vertere ‘turn.’

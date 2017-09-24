@@ -1,4 +1,12 @@
 assembly 
-▶noun
-1 an assembly of civil servants: gathering, meeting, congregation, convention, rally, convocation, assemblage, group, body, crowd, throng, company; informal get-together.
-2 the labor needed in car assembly: construction, manufacture, building, fabrication, erection.
+əˈsemblē
+
+▶noun (plural assemblies)
+1 a group of people gathered together in one place for a common purpose: an assembly of scholars and poets. 
+• a group of people elected to make laws or decisions for a particular country or region, especially the lower legislative house in some US states: the Connecticut General Assembly.
+2 the action of gathering together as a group for a common purpose: a decree guaranteeing freedom of assembly. 
+• a regular gathering of the teachers and students of a school: catcalling occurred during the assembly. 
+• (usually the assembly) chiefly historical a signal for troops to assemble, given by drum or bugle.
+3 [often as modifier] the action of fitting together the component parts of a machine or other object: a car assembly plant. 
+• a unit consisting of components that have been fitted together: the tail assembly of the aircraft. 
+• [usually as modifier] Computing the conversion of instructions in low-level code to machine code by an assembler. ORIGIN Middle English: from Old French asemblé, feminine past participle of asembler (see assemble) .

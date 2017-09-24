@@ -19,13 +19,29 @@ A.  intransitive verb
 ① (fit together) «parts, designs» 相配 xiāngpèi 
 ② to match up to [something] (be as good as, equal) 比得上 bǐdeshàng ‹standard, quality›; 与…相适应 yǔ… xiāng shìyìng ‹reputation, hopes›somehow it doesn't quite match up to my expectations 不知为什么事情总不如我所料想的 
 B.  transitive verb[match something up, match up something] 使…相配 shǐ… xiāngpèi ‹garments, colours›
-match 
+match
+1 
+maCH
+
 ▶noun
-1 we won the match: contest, competition, game, tournament, event, trial, test, meet, matchup; bout, fight; derby; playoff, replay, rematch, engagement; deathmatch; Scottish & Canadian bonspiel.
-2 he was no match for the champion: equal, rival, equivalent, peer, counterpart; formal compeer.
-3 the vase was an exact match of the one she already owned: look-alike, double, twin, duplicate, mate, fellow, companion, counterpart; replica, copy; informal spitting image, dead ringer.
-4 a love match: marriage, betrothal, relationship, partnership, union.
-▶verb
-1 the curtains matched the duvet cover: go with, coordinate with, complement, suit; be the same as, be similar to.
-2 did their statements match? correspond, be in agreement, tally, agree, match up, coincide, accord, conform, square.
-3 no one can match him at chess: equal, be a match for, measure up to, compare with, parallel, be in the same league as, be on a par with, touch, keep pace with, keep up with, emulate, rival, vie with, compete with, contend with; informal hold a candle to.
+1 a contest in which people or teams compete against each other in a particular sport: a boxing match.
+2 a person or thing able to contend with another as an equal in quality or strength: they were no match for the trained mercenaries.
+3 a person or thing that resembles or corresponds to another: the child's identical twin would be a perfect match for organ donation. 
+• Computing a string that fulfills the specified conditions of a computer search. 
+• a pair that corresponds or is very similar: the headdresses and bouquet were a perfect match. 
+• the fact or appearance of corresponding: stones of a perfect match and color.
+4 a person viewed in regard to their eligibility for marriage, especially as regards class or wealth: he was an unsuitable match for any of their girls. 
+• a marriage: a dynastic match. 
+▶verb [with object]
+1 correspond or cause to correspond in some essential respect; make or be harmonious: [with object] : we bought green and blue curtains to match the bedspread 
+she matched her steps to his 
+[no object] : the jacket and pants do not match. 
+• team (someone or something) with someone or something else appropriate or harmonious: they matched suitably qualified applicants with institutions that had vacancies 
+she was trying to match the draperies to the couch.
+2 be equal to (something) in quality or strength: his anger matched her own. 
+• succeed in reaching or equaling (a standard or quality): he tried to match her nonchalance. 
+• equalize (two coupled electrical impedances) so as to bring about the maximum transfer of power from one to the other.
+3 place (a person or group) in contest or competition with another: the big names were matched against nobodies 
+(as adjective, with submodifier matched) : evenly matched teams. 
+PHRASES
+make a match form a partnership, especially by getting married. meet one's match encounter one's equal in strength or ability: Iris had met her match. to match corresponding in some essential respect with something previously mentioned or chosen: a new coat and a hat to match.PHRASAL VERBS match up to be as good as or equal to: she matches up to the challenges of the job. match someone with archaic bring about the marriage of someone to: try if you can to match her with a duke.DERIVATIVES matchable adjectiveORIGIN Old English gemæcca ‘mate, companion’; related to the base of make .

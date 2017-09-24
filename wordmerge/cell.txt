@@ -7,7 +7,18 @@ noun
 ④ Telecommunications 基站信号覆盖区 jīzhàn xìnhào fùgàiqū 
 ⑤ Electricity, Chemistry 电池 diànchí 
 cell 
+sel
+
 ▶noun
-1 a prison cell: room, cubicle, chamber; dungeon, oubliette, lockup.
-2 each cell of the honeycomb: compartment, cavity, hole, hollow, section.
-3 terrorist cells: unit, faction, arm, section, ring, coterie, group.
+1 a small room in which a prisoner is locked up or in which a monk or nun sleeps. 
+• historical a small monastery or nunnery dependent on a larger one.
+2 Biology the smallest structural and functional unit of an organism, typically microscopic and consisting of cytoplasm and a nucleus enclosed in a membrane. Microscopic organisms typically consist of a single cell, which is either eukaryotic or prokaryotic. 
+• an enclosed cavity in an organism. 
+• a small compartment in a larger structure such as a honeycomb.
+3 a small group forming a nucleus of political activity, typically a secret, subversive one: the weapons may be used to arm terrorist cells.
+4 the local area covered by one of the short-range transmitters in a cellular telephone system. 
+• North American short for cellular phone: I'll just call him on his cell.
+5 a device containing electrodes immersed in an electrolyte, used for current-generation or electrolysis. 
+• a unit in a device for converting chemical or solar energy into electricity. DERIVATIVES celled adjective [in combination] : a single-celled organism. cell-like 
+-ˌlīk 
+adjectiveORIGIN Old English, from Old French celle or Latin cella ‘storeroom or chamber.’

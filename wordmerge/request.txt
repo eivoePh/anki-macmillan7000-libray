@@ -6,10 +6,16 @@ A.  noun
 ② Radio 点播节目 diǎnbō jiémù to play a request for [somebody] 为某人播放点播节目 
 B.  transitive verb 要求 yāoqiú ‹action, assistance›; 请求给予 qǐngqiú jǐyǔ ‹bill, facts›to request [somebody] (not) to do [something] 要求某人（不）做某事 as requested 按照要求 to request the company of [somebody] 敬请某人的光临 to request a favour of [somebody] 请求某人帮忙 
 request 
-▶noun
-1 requests for assistance: appeal, entreaty, plea, petition, application, demand, call; formal adjuration; literary behest.
-2 Charlotte spoke, at Ursula's request: bidding, entreaty, demand, insistence.
-3 indicate your requests on the form: requirement, wish, desire; choice.
-▶verb
-1 the government requested military aid: ask for, appeal for, call for, seek, solicit, plead for, apply for, demand; formal adjure.
-2 I requested him to help: call on, beg, entreat, implore; literary beseech.
+rəˈkwest
+
+▶noun an act of asking politely or formally for something: a request for information 
+the club's excursion was postponed at the request of some of the members. 
+• a thing that is asked for: to have our ideas taken seriously is surely a reasonable request. 
+• an instruction to a computer to provide information or perform another function. 
+• a tune or song played on a radio program, in some instances accompanied by a personal message, in response to a letter or call asking for it. 
+• archaic the state of being sought after: human intelligence, which is in constant request in a family. 
+▶verb [with object] politely or formally ask for: he received the information he had requested 
+[with clause] : the chairman requested that the reports be considered. 
+• [with infinitive] politely ask (someone) to do something: the letter requested him to report to New York immediately. 
+PHRASES
+by (or on) request in response to an expressed wish.DERIVATIVES requester (also requestor) nounORIGIN Middle English: from Old French requeste (noun), based on Latin requirere (see require) .

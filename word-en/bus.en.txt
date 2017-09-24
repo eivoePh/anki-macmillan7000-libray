@@ -1,2 +1,13 @@
 bus 
-▶noun take a bus to the airport: motorcoach, coach, school bus, shuttle bus, minibus, double-decker, trolley; historical omnibus.
+bəs
+
+▶noun (plural buses or busses)
+1 a large motor vehicle carrying passengers by road, especially one serving the public on a fixed route and for a fare: [as modifier] : a bus service.
+2 Computing a distinct set of conductors carrying data and control signals within a computer system, to which pieces of equipment may be connected in parallel. 
+▶verb (buses, bused, busing or busses, bussed, bussing)
+1 [with object] transport in a communal road vehicle: managerial staff was bused in and out of the factory. 
+• North American transport (a child of one race) to a school where another race is predominant, in an attempt to promote racial integration.
+2 [with object] North American remove (dirty tableware) from a table in a restaurant or cafeteria: I'd never bused so many dishes in one night. 
+• remove dirty tableware from (a table): Chad buses tables on weekends. 
+PHRASES
+throw someone under the bus informal, chiefly US cause someone else to suffer in order to save oneself or gain personal advantage: the government is ready to throw rural voters under the bus.ORIGIN early 19th century: shortening of omnibus .

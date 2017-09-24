@@ -1,7 +1,22 @@
 prompt 
-▶verb
-1 curiosity prompted him to look: induce, make, move, motivate, lead, dispose, persuade, incline, encourage, stimulate, prod, impel, spur on, inspire. ANTONYMS discourage.
-2 the statement prompted a hostile reaction: give rise to, bring about, cause, occasion, result in, lead to, elicit, produce, bring on, engender, induce, precipitate, trigger, spark off, provoke. ANTONYMS restrain.
-3 the actors needed prompting: remind, cue, feed, help out; jog someone's memory.
-▶adjective a prompt reply: quick, swift, rapid, speedy, fast, direct, immediate, instant, expeditious, early, punctual, in good time, on time, timely. ANTONYMS slow, late.
-▶noun the actor stopped, and Julia supplied a prompt: reminder, cue, feed.
+präm(p)t
+
+▶verb [with object]
+1 (of an event or fact) cause or bring about (an action or feeling): his death has prompted an industry-wide investigation of safety violations. 
+• cause (someone) to take a course of action: a demonstration by 20,000 people prompted the government to step up security.
+2 assist or encourage (a hesitating speaker) to say something: [with direct speech] : “And the picture?” he prompted. 
+• supply a forgotten word or line to (an actor) during the performance of a play. 
+• Computing (of a computer) request input from (a user). 
+▶noun
+1 an act of assisting or encouraging a hesitating speaker: with barely a prompt, Barbara talked on. 
+• the word or phrase spoken as a reminder to an actor of a forgotten word or line. 
+• Computing a message or symbol on a screen to show that the system is waiting for input. 
+• another term for prompter.
+2 the time limit for the payment of an account, as stated on a prompt note. 
+▶adjective done without delay; immediate: the owner would have died but for the prompt action of two paramedics. 
+• (of a person) acting without delay: the fans were prompt and courteous in complying with police requests. 
+• (of goods) for immediate delivery and payment. DERIVATIVES promptitude 
+ˈpräm(p)təˌt(y)o͞od 
+noun. promptness 
+ˈprämp(t)nəs 
+nounORIGIN Middle English (as a verb): based on Old French prompt or Latin promptus ‘brought to light,’ also ‘prepared, ready,’ past participle of promere ‘to produce,’ from pro- ‘out, forth’ + emere ‘take.’

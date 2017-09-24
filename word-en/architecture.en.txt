@@ -1,6 +1,8 @@
 architecture 
+ˈärkəˌtek(t)SHər
+
 ▶noun
-1 modern architecture: building design, building style, planning, building, construction; formal architectonics.
-2 the architecture of a computer system: structure, construction, organization, layout, design, build, anatomy, makeup; informal setup.
-WORD LINKS
-architecturearchitectonics the scientific study of architectureWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 the art or practice of designing and constructing buildings. 
+• the style in which a building is designed or constructed, especially with regard to a specific period, place, or culture: Victorian architecture.
+2 the complex or carefully designed structure of something: the chemical architecture of the human brain. 
+• the conceptual structure and logical organization of a computer or computer-based system: a client/server architecture. ORIGIN mid 16th century: from Latin architectura, from architectus (see architect) .

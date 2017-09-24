@@ -1,13 +1,36 @@
 report 
+rəˈpôrt
+
 ▶verb
-1 the government reported a fall in inflation: announce, describe, give an account of, detail, outline, communicate, divulge, disclose, reveal, make public, publish, broadcast, proclaim, publicize.
-2 the newspapers reported on the scandal: cover, write about, describe, give details of, commentate on; investigate, look into, inquire into.
-3 I reported him to the police: inform on, tattle on; informal tell on, squeal on, rat on.
-4 Juliet reported for duty: present oneself, arrive, turn up, clock in, sign in, punch in; informal show up.
+1 [reporting verb] give a spoken or written account of something that one has observed, heard, done, or investigated: [with object] : the representative reported a decline in milk and meat production 
+[with clause] : police reported that the flood waters were abating 
+[no object] : the teacher should report on the child's progress. 
+• [no object] cover an event or subject as a journalist or a reporter: the press reported on Republican sex scandals 
+[with clause] : the Egyptian news agency reported that a coup attempt had taken place 
+[with object] : the paper reported a secret program by the country to build nuclear warheads. 
+• (be reported) used to indicate that something has been stated, although one cannot confirm its accuracy: [with infinitive] : these hoaxers are reported to be hacking into airline frequencies to impersonate air traffic controllers 
+(as adjective reported) : a reported $50,000 in debt. 
+• [with object] make a formal statement or complaint about (someone or something) to the necessary authority: undisclosed illegalities are reported to the company's directors 
+[with object and complement] : eight horses have been reported missing in the last month. 
+• [with object] (of a legislative committee) formally announce that the committee has dealt with (a bill): the chairman shall report the bill to the House. See also report a bill out below.
+2 [no object] present oneself formally as having arrived at a particular place or as ready to do something: he was given three days to say goodbye to his family and report for active duty.
+3 [no object] (report to) be responsible to (a superior or supervisor): the appointee will report to the chairman of the committee. 
 ▶noun
-1 a full report on the meeting: account, review, record, description, statement; transactions, proceedings, transcripts, minutes.
-2 reports of drug dealing: news, information, word, intelligence; literary tidings.
-3 newspaper reports: story, account, article, piece, item, column, feature, bulletin, dispatch.
-4 a school report: assessment, report card, evaluation, appraisal.
-5 reports of his imminent resignation: rumor, whisper; informal buzz; archaic bruit.
-6 the report of a gun: bang, blast, crack, shot, gunshot, explosion, boom.
+1 an account given of a particular matter, especially in the form of an official document, after thorough investigation or consideration by an appointed person or body: the chairman's annual report. 
+• a spoken or written description of an event or situation, especially one intended for publication or broadcast in the media: press reports suggested that the government was still using secret police to help maintain public order. 
+• a teacher's written assessment of a student's work, progress, and conduct, issued at the end of a term or academic year. 
+• Law a detailed formal account of a case heard in a court, giving the main points in the judgment, especially as prepared for publication. 
+• a piece of information that is unsupported by firm evidence and that the speaker feels may or may not be true: reports were circulating that the chairman was about to resign. 
+• dated rumor: report has it that the beetles have now virtually disappeared. 
+• archaic the way in which someone or something is regarded; reputation: whatsoever things are lovely and of good report.
+2 a sudden loud noise of or like an explosion or gunfire.
+3 an employee who is supervised by another employee: all of his reports are twenty-somethings with no concept of proper attire for work. 
+PHRASES
+on report (especially of a prisoner or member of the armed forces) on a disciplinary charge.PHRASAL VERBS report back (or report something back)
+1 deliver a spoken or written account of something one has been asked to do or investigate: the deadpan voice of a police officer reporting back to his superior 
+every movement I made was reported back to him.
+2 return to work or duty after a period of absence. report a bill out US (of a committee of Congress) return a bill to the legislative body for action.DERIVATIVES reportable 
+rəˈpôrdəb(ə)l 
+adjectiveORIGIN late Middle English: from Old French reporter (verb), report (noun), from Latin reportare ‘bring back,’ from re- ‘back’ + portare ‘carry.’ The sense ‘give an account’ gave rise to ‘submit a formal report,’ hence ‘inform an authority of one's presence’ ( sense
+2 of the verb, mid 19th century) and ‘be accountable (to a superior)’ ( sense
+3 of the verb, late 19th century).

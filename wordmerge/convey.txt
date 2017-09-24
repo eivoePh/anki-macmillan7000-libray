@@ -4,8 +4,12 @@ transitive verb
 ① (communicate) 表达 biǎodá ‹feelings, ideas›; 传达 chuándá ‹order, information›to convey (to [somebody]) that … （向某人）传达… this conveys nothing to me! 这没有向我传递任何信息！ to convey one's thanks to [somebody] 向某人表示谢意 
 ② (transport) 运送 yùnsòng ‹passengers, cargo›; 传送 chuánsòng ‹sound waves›; 递送 dìsòng ‹letter›to convey [somebody]/[something] to [somebody]/[something]; 将…送给某人/送到某处 to convey [something] from A to B; 将某物从A处送到B处 
 convey 
-▶verb
-1 taxis conveyed guests to the station: transport, carry, bring, take, fetch, bear, move, ferry, shuttle, shift, transfer.
-2 he conveyed the information to me: communicate, pass on, make known, impart, relay, transmit, send, hand on/off, relate, tell, reveal, disclose.
-3 it's impossible to convey how I felt: express, communicate, get across/over, put across/over, indicate, say.
-4 he conveys an air of competence: project, exude, emit, emanate.
+kənˈvā
+
+▶verb [with object] transport or carry to a place: pipes were laid to convey water to the house. 
+• make (an idea, impression, or feeling) known or understandable to someone: the real virtues and diversity of America had never been conveyed in the movies 
+it's impossible to convey how lost I felt. 
+• communicate (a message or information): Mr. Harvey and his daughter have asked me to convey their very kind regards. 
+• Law transfer the title to (property). DERIVATIVES conveyable 
+kənˈvāəb(ə)l 
+adjectiveORIGIN Middle English (in the sense ‘escort’; compare with convoy): from Old French conveier, from medieval Latin conviare, from con- ‘together’ + Latin via ‘way.’

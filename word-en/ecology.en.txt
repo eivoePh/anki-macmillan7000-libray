@@ -1,5 +1,6 @@
 ecology 
-BrE ɪˈkɒlədʒi, ɛˈkɒlədʒi, AmE iˈkɑlədʒi 
-nounUncountable
-① (relations of organisms) 生态 shēngtài 
-② (study) 生态学 shēngtàixué 
+ēˈkäləjē
+
+▶noun
+1 the branch of biology that deals with the relations of organisms to one another and to their physical surroundings.
+2 (also Ecology) the political movement that seeks to protect the environment, especially from pollution. ORIGIN late 19th century (originally as oecology): from Greek oikos ‘house’ + -logy .

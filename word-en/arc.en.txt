@@ -1,3 +1,15 @@
 arc 
-▶noun the arc of a circle: curve, arch, crescent, semicircle, half-moon; curvature, convexity.
-▶verb I sent the ball arcing out over the river: curl, curve; arch.
+ärk
+
+▶noun
+1 a part of the circumference of a circle or other curve. 
+• a curved shape, or something shaped like a curve: the huge arc of the sky. 
+• a curving trajectory: he swung his flashlight in a wide arc. 
+• [as modifier] Mathematics indicating the inverse of a trigonometrical function. [from the former method of defining trigonometrical functions by arcs.]
+2 (also electric arc) a luminous electrical discharge between two electrodes or other points.
+3 (in a novel, play, or movie) the development or resolution of the narrative or principal theme: his transformation provides the emotional arc of the story. 
+▶verb (arcs, arcing, arced) [no object]
+1 [with adverbial of direction] move with a curving trajectory: the ball arced across the room.
+2 (usually as noun arcing) form an electric arc: check that switches operate properly with no sign of arcing. 
+PHRASES
+minute of arc see minute1 ( sense 2). second of arc see second2 ( sense 2). ORIGIN late Middle English (denoting the path of a celestial object, especially the sun, from horizon to horizon): via Old French from Latin arcus ‘bow, curve.’

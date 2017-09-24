@@ -1,23 +1,25 @@
-rise 
-▶verb
-1 the sun rose: move up/upward(s), come up, make one's/its way up, arise, ascend, climb, mount, soar. ANTONYMS fall, descend, set.
-2 the mountains rising above us: loom, tower, soar, rise up, rear (up).
-3 prices rose: go up, increase, soar, shoot up, surge, leap, jump, rocket, escalate, spiral. ANTONYMS drop.
-4 living standards have risen: improve, get better, advance, go up, soar, shoot up. ANTONYMS worsen.
-5 her voice rose: get higher, grow, increase, become louder, swell, intensify. ANTONYMS drop.
-6 he rose from his chair: stand up, get to one's feet, get up, jump up, leap up; formal arise. ANTONYMS sit.
-7 she rises at dawn: get up, get out of bed, rouse oneself, stir, bestir oneself, be up and about; informal rise and shine, surface; formal arise. ANTONYMS retire, go to bed.
-8 the court rose at midday: adjourn, recess, be suspended, pause, take a break; informal knock off, take five. ANTONYMS resume, continue.
-9 he rose through the ranks: make progress, climb, advance, get on, work one's way, be promoted.
-10 she wouldn't rise to the bait: react to, respond to; take.
-11 on the third day, Christ rose: come back to life, be resurrected, revive. ANTONYMS die.
-12 the dough started to rise: swell, expand, enlarge, puff up.
-13 the nation rose against its oppressors: rebel, revolt, mutiny, riot, take up arms. ANTONYMS kowtow.
-14 the river rises in the mountains: originate in, begin in, start in, emerge in/from; issue from, spring from, flow from, emanate from.
-15 her spirits rose: brighten, lift, cheer up, improve, pick up; informal buck up.
-16 the ground rose gently: slope upward, go uphill, incline, climb. ANTONYMS drop away, drop.
+rose
+1 
+rōz
+
 ▶noun
-1 a price rise: increase, hike, leap, upsurge, upswing, climb, escalation.
-2 a rise in standards: improvement, amelioration, upturn, leap.
-3 her rise to power: progress, climb, promotion, elevation, aggrandizement.
-4 we walked up the rise: slope, incline, hillock, hill; formal eminence.
+1 a prickly bush or shrub that typically bears red, pink, yellow, or white fragrant flowers, native to north temperate regions. Numerous hybrids and cultivars have been developed and are widely grown as ornamentals. [Genus Rosa, family Rosaceae (the rose family). This large family includes most temperate fruits (apple, plum, peach, cherry, blackberry, strawberry) as well as the hawthorns, rowans, potentillas, and avens.] 
+• the flower of a rose bush: he sent her a dozen red roses 
+[as modifier] : a rose garden. 
+• used in names of other plants whose flowers resemble roses, e.g., rose of Sharon. 
+• used in similes and comparisons in reference to the rose flower's beauty or its typical rich red color: she looked as beautiful as a rose. 
+• [often with negative] (roses) used to express favorable circumstances or ease of success: all is not roses in the firm today.
+2 a thing representing or resembling the flower, in particular: 
+• a stylized representation of the flower in heraldry or decoration, typically with five petals (especially as a national emblem of England): the Tudor rose. 
+• short for compass rose. 
+• short for rose window.
+3 a perforated cap attached to a shower, the spout of a watering can, or the end of a hose to produce a spray.
+4 a warm pink or light crimson color: the rose and gold of dawn 
+[as modifier] : the 100% cotton line is available in rose pink and ocean blue 
+[in combination] : leaves with rose-red margins. 
+• (usually roses) used in reference to a rosy complexion, especially that of a young woman: the fresh air will soon put the roses back in her cheeks. 
+▶verb [with object] literary make rosy: a warm flush now rosed her hitherto blue cheeks. 
+PHRASES
+a bed of roses see bed. come up roses (of a situation) develop in a very favorable way: new boyfriend, successful career—everything was coming up roses. under the rose archaic in confidence; under pledge of secrecy. See also sub rosa. DERIVATIVES roselike 
+-ˌlīk 
+adjectiveORIGIN Old English rōse, of Germanic origin, from Latin rosa; reinforced in Middle English by Old French rose .

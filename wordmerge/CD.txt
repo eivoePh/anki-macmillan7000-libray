@@ -1,13 +1,7 @@
 CD
+CD
 abbreviation
 = compact disc
-CD 1
-noun (plural CDs)
-a compact disc.
-CD 2 |ˌsēˈdē|
-abbreviation
-1 certificate of deposit.
-2 civil defense.
-3 corps diplomatique.
-
-CD abbreviation = compact disc 
+CD
+1 
+▶noun (plural CDs) a compact disc.

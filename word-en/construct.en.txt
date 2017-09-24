@@ -1,4 +1,16 @@
 construct 
-▶verb
-1 a new high-rise was being constructed: build, erect, put up, set up, raise, establish, assemble, manufacture, fabricate, create, make. ANTONYMS demolish.
-2 he constructed a faultless argument: formulate, form, put together, create, devise, design, compose, work out; fashion, mold, shape, frame.
+▶verb 
+kənˈstrəkt 
+[with object] build or erect (something, typically a building, road, or machine): a company that constructs oil rigs. 
+• form (an idea or theory) by bringing together various conceptual elements, typically over a period of time: Ptolemy combined his interests to construct a theory in support of Aristotle. 
+• Grammar form (a sentence) according to grammatical rules. 
+• Geometry draw or delineate (a geometric figure) accurately to given conditions. 
+▶noun 
+ˈkänˌstrəkt 
+an idea or theory containing various conceptual elements, typically one considered to be subjective and not based on empirical evidence: history is largely an ideological construct. 
+• Linguistics a group of words forming a phrase. 
+• a physical thing that is deliberately built or formed. DERIVATIVES constructible 
+kənˈstrəktəb(ə)l 
+adjective. constructor 
+kənˈstrəktər 
+nounORIGIN late Middle English: from Latin construct- ‘heaped together, built,’ from the verb construere, from con- ‘together’ + struere ‘pile, build.’

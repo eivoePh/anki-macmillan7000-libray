@@ -7,11 +7,23 @@ A.  noun
 ② figurative (small amount) 少许 shǎoxǔ inch by inch 一点一点地 I cannot see an inch 我一点儿也看不见 to be within an inch of death or one's life 险些丧命 to miss being run over by inches 险些被碾压 to know every inch of [something] 对某事物了如指掌 she won't give or budge an inch 她不会作出丝毫让步 he's every inch an aristocrat 他是个地地道道的贵族 give him an inch and he will take a mile 他会得寸进尺 
 B.  intransitive verb 缓慢移动 huǎnmàn yídòng to inch towards [something] 向某物缓慢移动 to inch one's way along/across [something] 一点一点地沿某处前行/穿过某处 
 C.  transitive verb 使缓慢移动 shǐ huǎnmàn yídòng to inch [something] in/out etc. ; 慢慢将某物挪进来/挪出去等 PHRASAL VERB inch up intransitive verb «inflation, interest rate, price» 缓慢上升 huǎnmàn shàngshēng 
-inch 
-BrE ɪn(t)ʃ, AmE ɪn(t)ʃ 
-A. noun 
-① (measurement) 英寸 yīngcùn
-8 inches of rain/snow; 8英寸的降雨量/降雪量 
-② figurative (small amount) 少许 shǎoxǔ inch by inch 一点一点地 I cannot see an inch 我一点儿也看不见 to be within an inch of death or one's life 险些丧命 to miss being run over by inches 险些被碾压 to know every inch of [something] 对某事物了如指掌 she won't give or budge an inch 她不会作出丝毫让步 he's every inch an aristocrat 他是个地地道道的贵族 give him an inch and he will take a mile 他会得寸进尺 
-B.  intransitive verb 缓慢移动 huǎnmàn yídòng to inch towards [something] 向某物缓慢移动 to inch one's way along/across [something] 一点一点地沿某处前行/穿过某处 
-C.  transitive verb 使缓慢移动 shǐ huǎnmàn yídòng to inch [something] in/out etc. ; 慢慢将某物挪进来/挪出去等 PHRASAL VERB inch up intransitive verb «inflation, interest rate, price» 缓慢上升 huǎnmàn shàngshēng 
+inch
+1 
+in(t)SH
+
+▶noun
+1 a unit of linear measure equal to one twelfth of a foot (2.54 cm): the toy train is four inches long 
+eighteen inches of thread. (Symbol: ʺ) 
+• [often with negative] a very small amount or distance: I had no intention of budging an inch.
+2 a unit used to express other quantities, in particular: 
+• (as a unit of rainfall) a quantity that would cover a horizontal surface to a depth of one inch. 
+• (also inch of mercury) (as a unit of atmospheric pressure) an amount that would support a column of mercury one-inch high in a barometer (equal to 33.86 millibars, 29.5 inches being equal to one bar). 
+▶verb [no object] move slowly and carefully in a specified direction: the 2,000 mourners inched along narrow country lanes 
+figurative : the stock market inched ahead today. 
+• [with object] cause (something) to move slowly and carefully: he inched the car forward. 
+PHRASES
+by inches
+1 only just: the shot missed her by inches.
+2 very slowly and gradually; bit by bit: you can't let him die by inches like this. every inch
+1 the whole surface, distance, or area: between them they know every inch of the country.
+2 entirely; very much so: he's every inch the gentleman. give someone an inch and he (or she) will take a mile proverb once concessions have been made to someone they will demand a great deal. inch by inch gradually; bit by bit: inch by inch he crept along the wall. within an inch of very close to: her mouth was within an inch of his chin. (to) within an inch of one's life almost to the point of death: he was beaten within an inch of his life.ORIGIN late Old English ynce, from Latin uncia ‘twelfth part,’ from unus ‘one’ (probably denoting a unit). Compare with ounce1 .

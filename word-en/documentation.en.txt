@@ -1,5 +1,7 @@
 documentation 
-BrE ˌdɒkjʊmɛnˈteɪʃ(ə)n, AmE ˌdɑkjəmənˈteɪʃ(ə)n 
-nounUncountable
-① (documents) 证明文件 zhèngmíng wénjiàn 
-② (act of recording) (of person, vehicle, goods) 登记 dēngjì (of facts, historical process) 记录 jìlù 
+ˌdäkyəmənˈtāSH(ə)n
+
+▶noun
+1 material that provides official information or evidence or that serves as a record: you will have to complete the relevant documentation. 
+• the written specification and instructions accompanying a computer program or hardware.
+2 the process of classifying and annotating texts, photographs, etc.: she arranged the collection and documentation of photographs.

@@ -31,20 +31,94 @@ D.  intransitive verb
 ① (indicate) «person, finger» 指 zhǐ ; «signpost, weapon, compass needle» 指向 zhǐxiàng Hunting «dog» 指示猎物位置 zhǐshì lièwù wèizhi it's rude to point 对人指指画画很不礼貌 she pointed in the direction of the exit 她手指着出口方向 to point at or to or towards [something]/[somebody] 指向某物/某人 
 ② (suggest) «evidence, facts, signs» 表明 biǎomíng everything points in that direction/to the same conclusion 一切都指向那一个方向/同一结论 the forensic evidence points to it being murder rather than suicide 法医证据表明这是谋杀而不是自杀 
 ③ (cite) 援引 yuányǐn to point to [something] as evidence of success 把某事作为证明成功的证据来引用 PHRASAL VERBS point out transitive verb[point something/somebody out, point out something/somebody] (show) 指示 zhǐshì ‹sight, object, person›; 指出 zhǐchū ‹fact, advantage, discrepancy›to point [something] out to [somebody]; 向某人指出某事物 to point out that/where/who/what … 指出…/哪里…/谁…/什么… she pointed out the flaws in the argument (to me) 她（给我）指出了这段论述中的错误 point up transitive verb[point something up, point up something] 强调 qiángdiào ‹contrast, similarity›; 昭示 zhāoshì ‹fact, incompetence›
+point 
 point
-1 
+
 ▶noun
-1 the point of a needle: tip, (sharp) end, extremity; prong, spike, tine, nib, barb.
-2 points of light: pinpoint, dot, spot, speck, fleck.
-3 a meeting point: place, position, location, site, spot, area.
-4 this point in her life: time, stage, juncture, period, phase.
-5 the tension had reached such a high point: level, degree, stage, pitch, extent.
-6 an important point: detail, item, fact, thing, argument, consideration, factor, element; subject, issue, topic, question, matter.
-7 get to the point: heart of the matter, most important part, essence, nub, keynote, core, pith, crux; meaning, significance, gist, substance, thrust, bottom line, burden, relevance; informal brass tacks, nitty-gritty.
-8 what's the point of this? purpose, aim, object, objective, goal, intention; use, sense, value, advantage.
-9 he had his good points: attribute, characteristic, feature, trait, quality, property, aspect, side.
+1 the tapered, sharp end of a tool, weapon, or other object: the point of his dagger 
+a pencil point. 
+• Archaeology a pointed flake or blade, especially one that has been worked. 
+• Ballet another term for pointe. 
+• Boxing the tip of a person's chin as a spot for a blow. 
+• the prong of a deer's antler.
+2 a dot or other punctuation mark, in particular a period. 
+• a decimal point: fifty-five point nine. 
+• a dot or small stroke used in the alphabets of Semitic languages to indicate vowels or distinguish particular consonants. 
+• a very small dot or mark on a surface: the sky was studded with points of light.
+3 a particular spot, place, or position in an area or on a map, object, or surface: turn left at the point where you see a sign to Apple Grove 
+the furthermost point of the gallery 
+the check-in point. 
+• a particular moment in time or stage in a process: from this point onward, the teacher was completely won over. 
+• (usually the point) the critical or decisive moment: when it came to the point, he would probably do what was expected of him. 
+• (the point of) the verge or brink of (doing or being something): she was on the point of leaving. 
+• [usually with modifier] a stage or level at which a change of state occurs: it is packed to the bursting point. 
+• (in geometry) something having position but not spatial extent, magnitude, dimension, or direction, for example the intersection of two lines. 
+• [with modifier] British a wall outlet or jack: a telephone point.
+4 a single item or detail in an extended discussion, list, or text: you ignore a number of important points. 
+• an argument or idea put forward by a person in discussion: he made the point that economic regulation involves controls on pricing. 
+• (usually the point) the significant or essential element of what is intended or being discussed: it took her a long time to come to the point. 
+• [in singular, usually with negative or in questions] advantage or purpose that can be gained from doing something: there was no point in denying the truth 
+what's the point of having things I don't need? 
+• relevance or effectiveness. 
+• a distinctive feature or characteristic, typically a good one, of a person or thing: he has his good points.
+5 (in sports and games) a mark or unit of scoring: he scored
+13 of his team's final
+19 points against Houston. 
+• (in craps) the combination total of the two thrown dice (4, 5, 6, 8, 9, or 10) that permits a shooter to keep throwing until he or she throws the same number again and wins. 
+• a unit used in measuring value, achievement, or extent: the shares index was down seven points. 
+• an advantage or success in an argument or discussion: she smiled, assuming she had won her point. 
+• a unit of credit toward an award or benefit. 
+• a percentage of the profits from a movie or recording offered to certain people involved in its production. 
+• a punishment imposed by the courts for a driving offense and recorded cumulatively on a person's driver's license: operating under the influence meant ten points marked up against the driver. 
+• a unit of weight (one hundredth of a carat, or
+2 mg) for diamonds. 
+• a unit of varying value, used in quoting the price of stocks, bonds, or futures. 
+• Bridge a value assigned to certain cards (4 points for an ace,
+3 for a king,
+2 for a queen, and
+1 for a jack, sometimes with extra points for long or short suits) by a player in assessing the strength of a hand. 
+• (point of) (in piquet) the longest suit in a player's hand, containing a specified number of up to eight cards.
+6 each of thirty-two directions marked at equal distances around a compass. 
+• the corresponding direction toward the horizon. 
+• the angular interval between two successive points of a compass, i.e., one eighth of a right angle (11° 15ʹ). 
+• (points ——) unspecified places considered in terms of their direction from a specified place: they headed down I-95 to Philadelphia and points south.
+7 a narrow piece of land jutting out into a lake or ocean: the boat came around the point 
+[in names] : Sandy Point.
+8 (usually points) British another term for switch ( sense
+4 of the noun).
+9 Printing a unit of measurement for type sizes and spacing, which in the US and UK is one twelfth of a pica, or 0.013835 inch (0.351 mm), and in Europe is 0.015 inch (0.376 mm).
+10 Basketball a position at the front of the court, usually manned by the guard who sets up the team's defense. 
+• Ice Hockey either of two areas in each attacking zone, just inside the blue line where it meets the boards.
+11 (usually points) each of a set of electrical contacts in the distributor of a motor vehicle.
+12 a small leading party of an advanced guard of troops. 
+• chiefly North American the position at the head of a column or wedge of troops: another marine said he would walk point because I had done it on the last patrol. 
+• chiefly North American short for point man.
+13 (usually points) the extremities of an animal, typically a horse or cat, such as the face, paws, and tail of a Siamese cat.
+14 Hunting a spot to which a straight run is made. 
+• a straight run: our fox made his point to Moorhill.
+15 (usually points) historical a tagged piece of ribbon or cord used for lacing a garment or attaching breeches to a doublet.
+16 a short piece of cord for tying up a reef in a sail.
+17 the action or position of a dog in pointing: a bird dog on point.
+18 Music an important phrase or subject, especially in a contrapuntal composition. Compare with counterpoint. 
 ▶verb
-1 she pointed the gun at him: aim, direct, level, train.
-2 the evidence pointed to his guilt: indicate, suggest, evidence, signal, signify, denote, bespeak, reveal, manifest.
+1 [no object] direct someone's attention to the position or direction of something, typically by extending one's finger: the boys were nudging each other and pointing at me 
+he gripped her arm and pointed to the seat 
+it's rude to point. 
+• [with adverbial of direction] indicate a particular time, direction, or reading: a sign pointing left. 
+• [with object] direct or aim (something) at someone or something: he pointed the flashlight beam at the floor. 
+• [with adverbial of direction] face or be turned in a particular direction: two of its toes point forward and two point back. 
+• [with adverbial] cite or put forward a fact or situation as evidence of something: he points to several factors supporting this conclusion. 
+• (point to) (of a situation) be evidence or an indication that (something) is likely to happen or be the case: everything pointed to an eastern attack. 
+• [with object] (of a dog) indicate the presence of (game) by acting as pointer. 
+• [with object] chiefly Ballet extend (the toes or feet) by tensing the foot and ankle so as to form a point.
+2 [with object] give force or emphasis to (words or actions): he wouldn't miss the opportunity to point a moral.
+3 [with object] fill in or repair the joints of (brickwork, a brick structure, or tiling) with smoothly finished mortar or cement.
+4 [with object] give a sharp, tapered point to: he twisted and pointed his mustache.
+5 [with object] insert points in (written Hebrew). 
+• mark (Psalms) with signs for chanting. 
 PHRASES
-beside the point those accusations are beside the point: irrelevant, immaterial, unimportant, neither here nor there, inconsequential, incidental, out of place, unconnected, peripheral, tangential, extraneous; off-topic. in point of fact in point of fact, all three of these gentlemen have immaculate service records: in fact, as a matter of fact, actually, in actual fact, really, in reality, as it happens, in truth. make a point of she made a point of letting us know she was recently divorced: make an effort to, go out of one's way to, put emphasis on. on the point of we were on the point of quitting, but something kept us going: (just) about to (be), on the verge of, on the brink of, going to (be), all set to (be). point of view we have different points of view: opinion, view, belief, attitude, feeling, sentiment, thoughts; position, perspective, viewpoint, standpoint, outlook. point out the flaws in the plan have already been pointed out: identify, show, designate, draw attention to, indicate, specify, detail, mention. point up it's as if he deliberately points up every negative aspect of our work: emphasize, highlight, draw attention to, accentuate, underline, spotlight, foreground, put emphasis on, stress, play up, accent, bring to the fore. to the point his observations were concise and to the point: relevant, pertinent, apposite, germane, applicable, apropos, appropriate, apt, fitting, suitable, material; formal ad rem. up to a point I agree with you, but only up to a point: partly, to some extent, to a certain degree, in part, somewhat, partially.
+beside the point irrelevant. case in point an instance or example that illustrates what is being discussed: the “green revolution” in agriculture is a good case in point. get the point understand or accept the validity of someone's idea or argument: I get the point about not sending rejections. in point of fact see fact. make one's point put across a proposition clearly and convincingly. make a point of make a special and noticeable effort to do (a specified thing): she made a point of taking a walk each day. off the point irrelevant. on point relevant: none of the above comments are on point. 
+• US informal extremely good, attractive, or stylish: her outfit was on point 
+Janet's vocals were on point. point the finger openly accuse someone or apportion blame. the point of no return the point in a journey or enterprise at which it becomes essential or more practical to continue to the end instead of returning to the point of departure. point of sailing a sailboat's heading in relation to the wind. score points deliberately make oneself appear superior to someone else by making clever remarks: she was constantly trying to think of ways to score points off him. take someone's point chiefly British accept the validity of someone's idea or argument. to the point relevant: his evidence was brief and to the point. up to a point to some extent but not completely. win on points Boxing win by scoring more points than one's opponent (as awarded by the judges and/or the referee) rather than by a knockout.PHRASAL VERBS point something out direct someone's gaze or attention toward something, especially by extending one's finger. 
+• [reporting verb] say something to make someone aware of a fact or circumstance: [with clause] : she pointed out that his van had been in the parking lot all day 
+[with direct speech] : “Most of the people around here are very poor,” I pointed out. point something up reveal the true nature or importance of something: he did so much to point up their plight in the 1960s.ORIGIN Middle English: the noun partly from Old French point, from Latin punctum ‘something that is pricked,’ giving rise to the senses ‘unit, mark, point in space or time’; partly from Old French pointe, from Latin puncta ‘pricking,’ giving rise to the senses ‘sharp tip, promontory’ The verb is from Old French pointer, and in some senses from the English noun.

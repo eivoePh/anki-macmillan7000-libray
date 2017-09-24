@@ -19,10 +19,34 @@ B.  intransitive verb
 C.  noun 救球 jiù qiú to make a save 救球 jiù qiú PHRASAL VERB save up 
 A.  intransitive verb 攒钱 zǎn qián to save up for or towards [something]; 为某事物攒钱 we're saving up for a skiing trip 我们正在攒钱准备去滑雪旅行 
 B.  transitive verb[save something up], [save up something] 积攒 jīzǎn they saved up enough money to pay off the debt 他们攒够钱把债务还清了 
-save 
-▶verb
-1 the captain was saved by his crew: rescue, come to someone's rescue, save someone's life; set free, free, liberate, deliver, extricate; bail out; informal save someone's bacon/neck/skin.
-2 the farmhouse has been saved from demolition: preserve, keep safe, keep, protect, safeguard; salvage, retrieve, reclaim, rescue.
-3 start saving money: put aside, set aside, put by, put to one side, save up, keep, retain, reserve, conserve, stockpile, store, hoard, save for a rainy day; informal salt away, squirrel away, stash away, hang on to.
-4 asking me first would have saved a lot of trouble: prevent, obviate, forestall, spare; stop; avoid, avert.
-▶preposition & conjunction formal no one needed to know save herself: except, apart from, but, other than, besides, aside from, bar, barring, excluding, leaving out, saving; informal outside of.
+save
+1 
+sāv
+
+▶verb [with object]
+1 keep safe or rescue (someone or something) from harm or danger: she saved a boy from drowning. 
+• prevent (someone) from dying: the doctors did everything they could to save him. 
+• (in Christian use) preserve (a person's soul) from damnation. 
+• keep (someone) in health (used in exclamations and formulaic expressions): God save the Queen.
+2 keep and store up (something, especially money) for future use: she had never been able to save much from her salary 
+[no object] : you can save up for retirement in a number of ways. 
+• Computing keep (data) by moving a copy to a storage location, especially from memory: save it to a new file. 
+• preserve (something) by not expending or using it: save your strength till later. 
+• [in imperative] (save it) North American informal used to tell someone to stop talking: save it, Joey—I'm in big trouble now.
+3 avoid the need to use up or spend (money, time, or other resources): save $20 on a new camcorder 
+[with two objects] : an efficient dishwasher would save them one year and three months at the sink. 
+• avoid, lessen, or guard against: this approach saves wear and tear on the books 
+[with two objects] : the statement was made to save the government some embarrassment.
+4 prevent an opponent from scoring (a goal or point) in a game or from winning (the game): the powerful German saved three match points. 
+• Baseball (of a relief pitcher in certain game situations) finish (a game) while preserving a winning position gained by another pitcher. 
+• (of a goalkeeper in soccer and hockey) stop (a shot) from entering the goal. 
+▶noun
+1 Baseball an instance of a relief pitcher saving a game. 
+• (in soccer and hockey) an act of preventing an opponent's scoring: the keeper made a great save. 
+• Bridge another term for sacrifice.
+2 Computing an act of saving data to a storage location, usually the hard drive: the recovery feature enables you to retrieve most of the edits you made since the last save. 
+PHRASES
+save one's breath [often in imperative] not bother to say something because it is pointless. save the day find or provide a solution to a difficulty or disaster.save (someone's) face see face. save someone's life prevent someone's dying by taking specific action. 
+• (cannot do something to save one's life) be completely incompetent at doing something: Adrian couldn't draw to save his life. save someone's skin (or neck or hide) rescue someone from danger or difficulty.save someone the trouble (or bother) avoid involving someone in useless or pointless effort: write it down and save yourself the trouble of remembering.DERIVATIVES savable 
+ˈsāvəb(ə)l 
+(also saveable) adjectiveORIGIN Middle English: from Old French sauver, from late Latin salvare, from Latin salvus ‘safe.’ The noun dates from the late 19th century.

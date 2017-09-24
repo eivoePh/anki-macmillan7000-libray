@@ -1,4 +1,6 @@
 data 
-▶noun or plural noun a lack of data on the drug's side effects: facts, figures, statistics, details, particulars, specifics; information, intelligence, material, input; informal info.
-USAGE
-data In Latin, data is the plural of datum and, historically and in specialized scientific fields, it is also treated as a plural in English, taking a plural verb, as in the data were collected and classified. In modern nonscientific use, however, it is generally not treated as a plural. Instead, it is treated as a mass noun, similar to a word like information, which takes a singular verb. Sentences such as data was collected over a number of years are now widely accepted in standard English.Usage notes show additional guidance on finer points of English usage.
+ˈdadə ˈdādə
+
+▶noun [treated as singular or plural] facts and statistics collected together for reference or analysis. See also datum. 
+• Computing the quantities, characters, or symbols on which operations are performed by a computer, being stored and transmitted in the form of electrical signals and recorded on magnetic, optical, or mechanical recording media. 
+• Philosophy things known or assumed as facts, making the basis of reasoning or calculation. ORIGIN mid 17th century (as a term in philosophy): from Latin, plural of datum . usage: In Latin, data is the plural of datum and, historically and in specialized scientific fields, it is also treated as a plural in English, taking a plural verb, as in the data were collected and classified. In modern nonscientific use, however, it is generally not treated as a plural. Instead, it is treated as a mass noun, similar to a word like information, which takes a singular verb. Sentences such as data was collected over a number of years are now widely accepted in standard English.

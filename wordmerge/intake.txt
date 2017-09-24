@@ -6,9 +6,12 @@ noun
 ③ Countable(inlet) 入口 rùkǒu an air/a fuel intake 进气口/进油口 
 ④ Countable(number admitted) School, University 新生 xīnshēng Military 新兵 xīnbīng (into profession) 新员工 xīnyuángōng 
 intake 
-BrE ˈɪnteɪk, AmE ˈɪnˌteɪk 
-noun 
-① Uncountable(consumption) 摄取量 shèqǔliàng a high sugar intake 高糖摄取量 
-② Uncountable(inhalation) 吸入 xīrù an intake of breath 倒吸一口气 
-③ Countable(inlet) 入口 rùkǒu an air/a fuel intake 进气口/进油口 
-④ Countable(number admitted) School, University 新生 xīnshēng Military 新兵 xīnbīng (into profession) 新员工 xīnyuángōng 
+ˈinˌtāk
+
+▶noun
+1 an amount of food, air, or another substance taken into the body: your daily intake of calories 
+his alcohol intake. 
+• an act of taking something into the body: she heard his sharp intake of breath 
+a protective factor is the intake of cereal fiber.
+2 a location or structure through which something is taken in, e.g., water into a channel or pipe from a river, fuel or air into an engine or machine, commodities into a place, etc.: cut rectangular holes for the air intake. 
+• the action of taking something in: facilities for the intake of grain by road. ORIGIN Middle English (originally Scots and northern English): from in + take .

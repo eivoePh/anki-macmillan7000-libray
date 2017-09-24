@@ -1,10 +1,23 @@
 retreat 
-▶verb
-1 the army retreated: withdraw, retire, draw back, pull back/out, fall back, give way, give ground, beat a retreat, beat a hasty retreat. ANTONYMS advance.
-2 the tide was retreating: go out, ebb, recede, fall, go down, wane.
-3 the government had to retreat: change one's mind, change one's plans; back down, climb down, do a U-turn, backtrack, backpedal, give in, concede defeat; informal pull a U-ey, do a one-eighty.
+rəˈtrēt
+
+▶verb [no object] (of an army) withdraw from enemy forces as a result of their superior power or after a defeat: the French retreated in disarray. 
+• move back or withdraw: it becomes so hot that the lizards retreat into the shade 
+a series of trenches which filled with water when the ice retreated 
+(as adjective retreating) : the sound of retreating footsteps. 
+• withdraw to a quiet or secluded place: after the funeral he retreated to the shore. 
+• change one's decisions, plans, or attitude, as a result of criticism from others: his proposals were clearly unreasonable and he was soon forced to retreat. 
+• (of shares of stock) decline in value: [with complement] : shares retreated 32 points to 653 points. 
+• [with object] Chess move (a piece) back from a forward or threatened position on the board. 
 ▶noun
-1 the retreat of the army: withdrawal, pulling back.
-2 the president's retreat: about-face, U-turn; informal one-eighty.
-3 her rural retreat: refuge, haven, sanctuary; hideaway, hideout, hiding place, escape.
-4 a period of retreat from the world: seclusion, withdrawal, retirement, solitude, isolation, sanctuary.
+1 an act of moving back or withdrawing: a speedy retreat 
+the army was in retreat. 
+• an act of changing one's decisions, plans, or attitude, especially as a result of criticism from others: the unions made a retreat from their earlier position. 
+• a decline in the value of shares of stock.
+2 a signal for a military force to withdraw: the bugle sounded a retreat. 
+• a military musical ceremony carried out at sunset, originating in the playing of drums and bugles to tell soldiers to return to camp for the night.
+3 a quiet or secluded place in which one can rest and relax: their mountain retreat in New Hampshire. 
+• a period of seclusion for the purposes of prayer and meditation: the bishop is away on his annual retreat 
+before his ordination he went on retreat. 
+PHRASES
+beat a retreat see beat. ORIGIN late Middle English: from Old French retret (noun), retraiter (verb), from Latin retrahere ‘pull back’ (see retract) .

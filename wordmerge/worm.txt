@@ -13,15 +13,28 @@ C.  transitive verb
 ② (extract) 刺探 cìtàn to worm a secret/the truth out of [somebody]; 从某人嘴里套出秘密/实情 
 ③ Veterinary medicine 给…除肠虫 gěi… chú chángchóng ‹animal›
 worm 
-BrE wəːm, AmE wərm 
-A. noun 
-① (invertebrate) 蠕虫 rúchóng [尤指蚯蚓]the worm will turn figurative 老实人被逼急了也会反抗 
-② (insect larva) 幼虫 yòuchóng this apple is full of worms 这个苹果里满是蛀虫 
-③ colloquial (wretch) 懦夫 nuòfū 
-④ usually singular Technology (endless screw) 蜗杆 wōgǎn (coiled pipe) 螺旋管 luóxuánguǎn 
-⑤ usually singular Computing (virus) 蠕虫病毒 rúchóng bìngdú 
-B.  worms noun plural Veterinary medicine, Medicine 肠虫 chángchóng to have/get worms 有/生肠虫 
-C.  transitive verb 
-① (wriggle) to worm one's way 蠕动 rúdòng to worm one's way into [somebody's] heart/confidence figurative 慢慢赢得某人的心/信任 mànmàn yíngdé mǒu rén de xīn/xìnrèn 
-② (extract) 刺探 cìtàn to worm a secret/the truth out of [somebody]; 从某人嘴里套出秘密/实情 
-③ Veterinary medicine 给…除肠虫 gěi… chú chángchóng ‹animal›
+wərm
+
+▶noun
+1 any of a number of creeping or burrowing invertebrate animals with long, slender, soft bodies and no limbs. [Phyla Annelida (segmented worms), Nematoda (roundworms), and Platyhelminthes (flatworms), and up to twelve minor phyla.] 
+• short for earthworm. 
+• (worms) intestinal or other internal parasites. 
+• used in names of long, slender insect larvae, especially those in fruit or wood, e.g., army worm, woodworm. 
+• used in names of other animals that resemble worms in some way, e.g., slow-worm, shipworm. 
+• a maggot supposed to eat buried corpses: food for worms. 
+• Computing a self-replicating program able to propagate itself across a network, typically having a detrimental effect.
+2 informal a weak or despicable person (used as a general term of contempt).
+3 a helical device or component, in particular: 
+• the threaded cylinder in a worm gear. 
+• the coiled pipe of a still in which the vapor is cooled and condensed. 
+▶verb
+1 [no object] move with difficulty by crawling or wriggling: I wormed my way along the roadside ditch. 
+• (worm one's way into) insinuate one's way into: the educated dealers may later worm their way into stockbroking. 
+• [with object] move (something) into a confined space by wriggling it: I wormed my right hand between my body and the earth. 
+• (worm something out of) obtain information from (someone) by cunning persistence: I did manage to worm a few details out of him.
+2 [with object] treat (an animal) with a preparation designed to expel parasitic worms.
+3 [with object] Nautical, archaic make (a rope) smooth by winding small cordage between the strands. 
+PHRASES
+(even) a worm will turn proverb (even) a meek person will resist or retaliate if pushed too far.DERIVATIVES wormlike 
+-ˌlīk 
+adjectiveORIGIN Old English wyrm (noun), of Germanic origin; related to Latin vermis ‘worm’ and Greek rhomox ‘woodworm.’

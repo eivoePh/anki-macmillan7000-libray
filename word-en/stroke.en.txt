@@ -1,10 +1,29 @@
 stroke 
+strōk
+
 ▶noun
-1 five strokes of the ax: blow, hit, thump, punch, slap, smack, cuff, knock; informal wallop, clout, whack, thwack, bash, swipe; archaic smite.
-2 she hit the green in three strokes: shot, hit, strike.
-3 light upward strokes: movement, action, motion.
-4 a stroke of genius: feat, accomplishment, achievement, master stroke.
-5 broad brush strokes: mark, line.
-6 the budget was full of bold strokes: detail, touch, point.
-7 he suffered a stroke: thrombosis, seizure; Medicine ictus.
-▶verb she stroked the cat: caress, fondle, pat, pet, touch, rub, massage, soothe.
+1 an act of hitting or striking someone or something; a blow: he received three strokes of the cane. 
+• a method of striking the ball in sports or games. 
+• Golf an act of hitting the ball with a club, as a unit of scoring: won by two strokes. 
+• the sound made by a striking clock.
+2 an act of moving one's hand or an object across a surface, applying gentle pressure: massage the cream into your skin using light upward strokes. 
+• a mark made by drawing a pen, pencil, or paintbrush in one direction across paper or canvas: the paint had been applied in careful, regular strokes. 
+• a line forming part of a written or printed character. 
+• a short printed or written diagonal line typically separating characters or figures.
+3 a movement, especially one of a series, in which something moves out of its position and back into it; a beat: the ray swam with effortless strokes of its huge wings. 
+• the whole motion of a piston in either direction. 
+• the rhythm to which a series of repeated movements is performed: the rowers sing to keep their stroke. 
+• a movement of the arms and legs forming one of a series in swimming. 
+• style of moving the arms and legs in swimming: front crawl is a popular stroke. 
+• (in rowing) the mode or action of moving the oar. 
+• (also stroke oar) the oar or oarsman nearest the stern of a boat, setting the timing for the other rowers.
+4 a sudden disabling attack or loss of consciousness caused by an interruption in the flow of blood to the brain, especially through thrombosis. 
+▶verb [with object]
+1 move one's hand with gentle pressure over (a surface, especially hair, fur, or skin), typically repeatedly; caress: he put his hand on her hair and stroked it. 
+• apply (something) to a surface using a gentle movement: she strokes blue eyeshadow on her eyelids. 
+• North American informal reassure or flatter (someone), especially in order to gain their cooperation: production executives were expert at stroking stars and brokering talent.
+2 act as the stroke of (a boat or crew): he stroked Penn's rowing eight to victory.
+3 hit or kick (a ball) smoothly and deliberately: Miller calmly stroked three-pointers throughout the tournament. 
+• score (a run or point) by hitting or kicking a ball smoothly: the senior stroked a two-run single. 
+PHRASES
+at a (or one) stroke by a single action having immediate effect: attitudes cannot be changed at one stroke. not (or never) do a stroke of work do no work at all. on the stroke of —— precisely at the specified time: he arrived on the stroke of two. put someone off their stroke disconcert someone so that they do not work or perform as well as they might; break the pattern or rhythm of someone's work. stroke of business a profitable transaction. stroke of genius an outstandingly brilliant and original idea. stroke of luck (or good luck) a fortunate occurrence that could not have been predicted or expected.ORIGIN Old English strācian ‘caress lightly,’ of Germanic origin; related to Dutch streek ‘a stroke,’ German streichen ‘to stroke,’ also to strike. The earliest noun sense ‘blow’ is first recorded in Middle English.

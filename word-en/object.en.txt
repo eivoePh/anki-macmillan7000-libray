@@ -1,6 +1,20 @@
 object 
-▶noun
-1 wooden objects: thing, article, item, device, gadget, entity; informal doodad, thingamajig, thingamabob, whatsit, whatchamacallit, thingy, doohickey, dingus.
-2 he spent five years as the object of a frenzied manhunt: target, butt, focus, recipient, victim.
-3 the object was to let everyone have a voice in the decision: objective, aim, goal, target, purpose, end, plan; ambition, design, intent, intention, point, idea.
-▶verb people attending the meeting objected to nearly every element of the new ordinance: protest (against), lodge a protest against, oppose, raise objections to, express disapproval of, take exception to, take issue with, take a stand against, argue against, quarrel with, condemn, draw the line at, demur at, disapprove of, mind, complain about, cavil at, quibble about; beg to differ with; informal kick up a fuss/stink about, kvetch about. ANTONYMS approve, accept.
+▶noun 
+ˈäbjekt 
+
+1 a material thing that can be seen and touched: he was dragging a large object 
+small objects such as shells. 
+• Philosophy a thing external to the thinking mind or subject.
+2 a person or thing to which a specified action or feeling is directed: disease became the object of investigation. 
+• a goal or purpose: the institute was opened with the object of promoting scientific study. 
+• Grammar a noun or noun phrase governed by an active transitive verb or by a preposition. 
+• Computing a data construct that provides a description of something that may be used by a computer (such as a processor, a peripheral, a document, or a data set) and defines its status, its method of operation, and how it interacts with other objects. 
+▶verb 
+əbˈjekt 
+[reporting verb] say something to express one's disapproval of or disagreement with something: [no object] : residents object to the volume of traffic 
+[with clause] : the boy's father objected that the police had arrested him unlawfully. 
+• [with object] archaic adduce as a reason against something: Bryant objects this very circumstance to the authenticity of the Iliad. 
+PHRASES
+no object not influencing or restricting choices or decisions: a tycoon for whom money is no object.DERIVATIVES objectless 
+ˈäbjəktləs 
+adjectiveORIGIN late Middle English: from medieval Latin objectum ‘thing presented to the mind,’ neuter past participle (used as a noun) of Latin obicere, from ob- ‘in the way of’ + jacere ‘to throw’; the verb may also partly represent the Latin frequentative objectare .

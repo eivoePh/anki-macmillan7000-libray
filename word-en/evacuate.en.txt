@@ -1,7 +1,13 @@
 evacuate 
-▶verb
-1 local residents were evacuated: remove, clear, move out, take away, shift.
-2 they evacuated the bombed town: leave, vacate, abandon, desert, move out of, quit, withdraw from, retreat from, decamp from, flee, depart from, escape from.
-3 police evacuated the area: clear, empty.
-4 patients couldn't evacuate their bowels: empty (out), void, open, move, purge; defecate.
-5 he evacuated the contents of his stomach: expel, eject, discharge, excrete, void, empty (out), vomit up.
+iˈvakyəˌwāt
+
+▶verb [with object]
+1 remove (someone) from a place of danger to a safe place: several families were evacuated from their homes. 
+• leave or cause the occupants to leave (a place of danger): fire alarms forced staff to evacuate the building 
+[no object] : residents have to evacuate because of a hurricane. 
+• (of troops) withdraw from (a place): the last American troops evacuated the Canal Zone.
+2 technical remove air, water, or other contents from (a container): when it springs a leak, evacuate the pond 
+(as adjective evacuated) : an evacuated bulb. 
+• empty (the bowels or another bodily organ). 
+• discharge (feces or other matter) from the body. 
+• deprive (something) of contents, value, or force: he evacuated time and history of significance. ORIGIN late Middle English (in the sense ‘clear the contents of’): from Latin evacuat- ‘(of the bowels) emptied,’ from the verb evacuare, from e- (variant of ex-)‘out of’ + vacuus ‘empty.’

@@ -1,8 +1,11 @@
 tea 
-BrE tiː, AmE ti 
-noun 
-① Uncountable(drink) 茶 chá strong/weak tea 浓/淡茶 to make (the) tea 泡茶 a pot of tea 一壶茶 [somebody's] cup of tea colloquial 某人的所好 he's not really my cup of tea 他其实并不是我喜欢的那种人 to give [somebody] tea and sympathy colloquial 给某人同情与关怀 
-② Countable(serving) 一杯茶 yī bēi chá two teas please 请来两杯茶 
-③ Uncountable and countable(substance) (as preparation) 茶叶 cháyè (as cash crop) 茶树 chá shù not for all the tea in China 无论报酬多少都不 
-④ Uncountable and countable(other infusion) 冲泡饮料 chōngpào yǐnliào mint or peppermint tea 薄荷茶 
-⑤ Uncountable and countableespecially BrE (meal) (in late afternoon) 茶点 chádiǎn (in evening) 晚点 wǎndiǎn 
+tē
+
+▶noun
+1 a hot drink made by infusing the dried, crushed leaves of the tea plant in boiling water. 
+• the dried leaves used to make tea. 
+• [usually with adjective or noun modifier] a hot drink made from the infused leaves, fruits, or flowers of other plants: herbal tea 
+fruit teas.
+2 (also tea plant) the evergreen shrub or small tree that produces tea leaves, native to South and eastern Asia and grown as a major cash crop. [Camellia sinensis, family Theaceae.]
+3 chiefly British a light afternoon meal consisting typically of tea to drink, sandwiches, and cakes. 
+• British a cooked evening meal. See also high tea. ORIGIN mid 17th century: probably via Malay from Chinese (Min dialect) te; related to Mandarin chá. Compare with char3 .

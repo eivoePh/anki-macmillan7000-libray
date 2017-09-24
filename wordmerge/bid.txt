@@ -16,9 +16,18 @@ C.  intransitive verb(present participle -dd-; past tense, past participle bid)
 ② [bid somebody up, bid up somebody] (force to pay more) 迫使对…出高价 pòshǐ duì… chū gāojià 
 bid
 1 
-▶verb
-1 we bid $650 for the antique table: offer, make an offer of, put in a bid of, put up, tender, proffer, propose.
-2 she is bidding for a place on the UConn team: try to obtain, try to get, make a pitch for, make a bid for.
-▶noun
-1 a bid of $3,000: offer, tender, proposal.
-2 a bid to cut crime: attempt, effort, endeavor, try; informal crack, go, shot, stab; formal essay.
+bid
+
+▶verb (bids, bidding; past and past participle bid) [with object] offer (a certain price) for something, especially at an auction: a consortium of dealers bid a world record price for a snuff box 
+what am I bid? 
+[no object] : guests will bid for pieces of fine jewelry. 
+• [no object] (bid for) (of a contractor) offer to do (work) for a stated price; tender for: nineteen companies have indicated their intention to bid for the contract. 
+• [no object] (bid for) make an effort or attempt to achieve: the two freshmen are bidding for places in the varsity swim team. 
+• Bridge make a statement during the auction undertaking to make (a certain number of tricks with a stated suit as trumps) if the bid is successful and one becomes the declarer: North bids four hearts 
+[no object] : with this hand, South should not bid. 
+▶noun an offer of a price, especially at an auction: several buyers made bids for the Van Gogh sketches. 
+• an offer to buy the shares of a company in order to gain control of it: a takeover bid. 
+• an offer to do work or supply goods at a stated price; a tender. 
+• an attempt or effort to achieve something: [with infinitive] : an investigation would be carried out in a bid to establish what had happened 
+she did not hesitate to help him make a bid for the presidency. 
+• Bridge an undertaking by a player in the auction to make a stated number of tricks with a stated suit as trumps. ORIGIN Old English bēodan ‘to offer, command,’ of Germanic origin; related to Dutch bieden and German bieten .

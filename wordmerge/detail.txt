@@ -10,14 +10,21 @@ B.  transitive verb
 ① (give facts about) 详述 xiángshù ‹event›; 详细列举 xiángxì lièjǔ ‹items›
 ② Military (assign) 派遣 pàiqiǎn to detail [somebody] to [something]/to do [something]; 分派某人某事/派某人做某事 
 detail 
+dəˈtāl ˈdētāl
+
 ▶noun
-1 the picture is correct in every detail: particular, respect, feature, characteristic, attribute, specific, aspect, facet, part, unit, component, constituent; fact, piece of information, point, element, circumstance, consideration.
-2 that's just a detail: unimportant point, trivial fact, triviality, technicality, nicety, subtlety, trifle, fine point, incidental, inessential, nothing.
-3 records with a considerable degree of detail: precision, exactness, accuracy, thoroughness, carefulness, scrupulousness, particularity.
-4 a guard detail: unit, detachment, squad, troop, contingent, outfit, task force, patrol, border patrol.
-5 I got kitchen detail: duty, task, job, chore, charge, responsibility, assignment, function, mission, engagement, occupation, undertaking, errand.
-▶verb
-1 the report details our objections: describe, explain, expound, relate, catalog, list, spell out, itemize, particularize, identify, specify; state, declare, present, set out, frame; cite, quote, instance, mention, name.
-2 troops were detailed to prevent their escape: assign, allocate, appoint, delegate, commission, charge; send, post; nominate, vote, elect, co-opt.
+1 an individual feature, fact, or item: we shall consider every detail of the bill 
+her meticulous attention to detail. 
+• a minor or less significant item or feature: he didn't want them to get sidetracked on a detail of policy. 
+• a minor decorative feature of a building or work of art: a detail on Charlemagne's tomb. 
+• the style or treatment of minor decorative features: the classical French detail of the building's facade. 
+• a small part of a picture or other work of art reproduced separately for close study: detail of right eye showing marks on the lids. 
+• (details) British itemized facts or information about someone; personal particulars: the official asked for my father's details.
+2 a small detachment of troops or police officers given a special duty: the candidate's security detail. 
+• [often with modifier] a special duty assigned to a detachment of troops or police officers. 
+▶verb [with object]
+1 describe item by item; give the full particulars of: the report details the environmental and health costs of the car.
+2 [with object and infinitive] assign (someone) to undertake a particular task: the ships were detailed to keep watch.
+3 US clean (a motor vehicle) intensively and minutely: the Buick dealer gave him a job washing and detailing cars. 
 PHRASES
-in detail this will be examined in detail in the next chapter: thoroughly, in depth, exhaustively, minutely, closely, meticulously, rigorously, scrupulously, painstakingly, carefully; completely, comprehensively, fully, extensively.
+go into detail give a full account of something. in detail as regards every feature or aspect; fully: we will have to examine the proposals in detail.DERIVATIVES detailer nounORIGIN early 17th century (in the sense ‘minor items or events regarded collectively’): from French détail (noun), détailler (verb), from dé- (expressing separation) + tailler ‘to cut’ (based on Latin talea ‘twig, cutting’).

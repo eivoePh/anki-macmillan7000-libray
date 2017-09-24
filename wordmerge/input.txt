@@ -9,7 +9,15 @@ A.  noun
 ⑤ UncountableComputing 输入 shūrù the input of new information and data 新信息与数据的输入 
 B.  transitive verb (present participle -tt-; past tense, past participle input or inputted) 输入 shūrù to input data into a computer 把数据输入计算机 
 input 
+ˈinˌpo͝ot
+
 ▶noun
-1 an error resulted from invalid input: data, details, information, material; facts, figures, statistics, particulars, specifics; informal info.
-2 I value your input: contribution, offering, idea, opinion.
-▶verb she was hired to input the data from an old system: feed in, put in, load, insert; key in, type in, enter; code, store.
+1 what is put in, taken in, or operated on by any process or system: perceptions and sensory input. 
+• a contribution of work, information, or material: there is little input from other professional members of the team. 
+• energy supplied to a device or system; an electrical signal: the input is a low-frequency signal. 
+• the action or process of putting or feeding something in: the input of data to the system. 
+• the information fed into a computer or computer program: pen-based computers take input from a stylus.
+2 Electronics a place where, or a device through which, energy or information enters a system: the signal being fed through the main input. 
+▶verb (inputs, inputting; past and past participle input or inputted) [with object] put (data) into a computer. DERIVATIVES inputter 
+-ˌpo͝otər 
+noun

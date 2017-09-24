@@ -1,2 +1,7 @@
 democracy 
-▶noun freedom of speech is essential to democracy: representative government, elective government; self-government, government by the people; republic, commonwealth. ANTONYMS dictatorship.QUOTE Democracy means government by discussion, but it is only effective if you can stop people talking.Clement Attlee, UK prime minister
+dəˈmäkrəsē
+
+▶noun (plural democracies) a system of government by the whole population or all the eligible members of a state, typically through elected representatives: capitalism and democracy are ascendant in the third world. 
+• a state governed by a democracy: a multiparty democracy. 
+• control of an organization or group by the majority of its members: the intended extension of industrial democracy. 
+• the practice or principles of social equality: demands for greater democracy. ORIGIN late 16th century: from French démocratie, via late Latin from Greek dēmokratia, from dēmos ‘the people’ + -kratia ‘power, rule.’

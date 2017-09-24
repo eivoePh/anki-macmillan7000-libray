@@ -1,7 +1,15 @@
 capture 
-▶verb
-1 the spy was captured that night along with the documents: catch, apprehend, seize, arrest; take prisoner, take captive, imprison, detain, put/throw in jail, put behind bars, put under lock and key, incarcerate; informal nab, collar, bag, pick up. ANTONYMS free.
-2 guerrillas captured a strategic district: occupy, invade, conquer, seize, take, take over, take possession of.
-3 the music captured the atmosphere of a summer morning: express, reproduce, represent, encapsulate.
-4 the tales of pirates captured the children's imaginations: engage, attract, catch, seize, hold.
-▶noun he tried to evade capture: arrest, apprehension, seizure, being taken prisoner, being taken captive, imprisonment.
+ˈkapCHər
+
+▶verb [with object] take into one's possession or control by force: the Russians captured 13,000 men. 
+• record or express accurately in words or pictures: she did a series of sketches, trying to capture all his moods. 
+• Physics absorb (an atomic or subatomic particle). 
+• (in chess and other board games) make a move that secures the removal of (an opposing piece) from the board. 
+• Astronomy (of a star, planet, or other celestial body) bring (a less massive body) permanently within its gravitational influence. 
+• (of a stream) divert the upper course of (another stream) by encroaching on its catchment area. 
+• cause (data) to be stored in a computer or in a digital format. 
+▶noun the action of capturing or of being captured: the capture of the city marks the high point of his career 
+he was killed while resisting capture. 
+• a person or thing that has been captured. 
+PHRASES
+capture someone's imagination (or attention) fascinate someone: the project has captured the imagination of the local public.DERIVATIVES capturer nounORIGIN mid 16th century (as a noun): from French, from Latin captura, from capt- ‘seized, taken,’ from the verb capere .

@@ -1,5 +1,14 @@
-disc, disk 
+disk 
+disk 
+(also disc) 
 ▶noun
-1 the sun was a huge scarlet disc: circle, round, saucer, discus, ring, round; coin.
-2 computer disks. See disk (sense 1).
-3 dated an old Stones disc: record, album, LP, vinyl.
+1 a flat, thin, round object: heavy metal disks the size of hockey pucks 
+onion soup ladled over a disk of cheese. 
+• an information storage device for a computer in the shape of a round flat plate that can be rotated to give access to all parts of the surface. The data may be stored either magnetically (in a magnetic disk) or optically (in an optical disk such as a CD-ROM). 
+• (disc) a CD or record. 
+• (discs) one of the suits in some tarot packs, corresponding to coins in others.
+2 a shape or surface that is round and flat in appearance: the smudged yellow disk of the moon.
+3 a roundish, flattened part in an animal or plant, in particular: 
+• (disc or intervertebral disc) a layer of cartilage separating adjacent vertebrae in the spine: he suffered a prolapsed disc. 
+• Botany (in a composite flower head of the daisy family) a close-packed cluster of disk florets in the center, forming the yellow part of the flower head. 
+▶verb [with object] cultivate (a field) with a disk harrow. DERIVATIVES diskless adjectiveORIGIN mid 17th century (originally referring to the seemingly flat round form of the sun or moon): from French disque or Latin discus (see discus) . usage: Generally speaking, the US spelling is disk and the British spelling is disc, although there is much overlap and variation between the two. In particular, the spelling for senses relating to computers is nearly always disk, as in floppy disk, disk drive, etc., but disc is the norm for compact disc, disc brakes, and disc camera.

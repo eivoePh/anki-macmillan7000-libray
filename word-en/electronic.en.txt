@@ -1,3 +1,9 @@
 electronic 
-BrE ɪlɛkˈtrɒnɪk, ɛlɛkˈtrɒnɪk, AmE əˌlɛkˈtrɑnɪk 
-adjective 电子的 diànzǐ de 
+əˌlekˈtränik
+
+▶adjective
+1 (of a device) having or operating with the aid of many small components, especially microchips and transistors, that control and direct an electric current: an electronic calculator. 
+• (of music) produced by electronic instruments. 
+• relating to electronics: a degree in electronic engineering.
+2 relating to electrons.
+3 carried out or accessed by means of a computer or other electronic device, especially over a network: electronic banking. ORIGIN early 20th century: from electron + -ic .

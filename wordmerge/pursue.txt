@@ -6,9 +6,15 @@ transitive verb
 ③ (engage in) 从事 cóngshì ‹studies, profession›
 ④ (continue to investigate) 追查 zhuīchá ‹clue›the police are not pursuing the matter 警方没在追查此事 
 pursue 
-▶verb
-1 I pursued him through the garden: follow, run after, chase; hunt, stalk, track, trail, shadow, hound, course; informal tail. ANTONYMS avoid.
-2 pursue the goal of political union: strive for, work toward, seek, search for, aim at/for, aspire to. ANTONYMS eschew.
-3 he had been pursuing her for weeks: chase, run after, go after; informal make up to; dated woo, court, romance.
-4 she pursued a political career: engage in, be occupied in, practice, follow, prosecute, conduct, ply, take up, undertake, carry on. ANTONYMS shun.
-5 we will not pursue the matter: investigate, research, inquire into, look into, examine, scrutinize, analyze, delve into, probe.
+pərˈso͞o
+
+▶verb (pursues, pursuing, pursued) [with object]
+1 follow (someone or something) in order to catch or attack them: the officer pursued the van 
+figurative : a heavily indebted businessman was being pursued by creditors. 
+• seek to form a sexual relationship with (someone) in a persistent way: Sophie was being pursued by a number of men. 
+• seek to attain or accomplish (a goal), especially over a long period: should people pursue their own happiness at the expense of others? 
+• archaic or literary (of something unpleasant) persistently afflict (someone): mercy lasts as long as sin pursues man.
+2 (of a person or way) continue or proceed along (a path or route): the road pursued a straight course over the scrubland. 
+• engage in (an activity or course of action): Andrew was determined to pursue a computer career 
+the council decided not to pursue an appeal. 
+• continue to investigate, explore, or discuss (a topic, idea, or argument): we shall not pursue the matter any further. DERIVATIVES pursuable adjectiveORIGIN Middle English (originally in the sense ‘follow with enmity’): from Anglo-Norman French pursuer, from an alteration of Latin prosequi ‘prosecute.’

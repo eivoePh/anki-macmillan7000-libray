@@ -1,14 +1,9 @@
 than 
-BrE ðan, ð(ə)n, AmE ðæn, ðən 
-A. preposition 
-① (in comparisons) 比 bǐ I'm thinner than him 我比他瘦 we got there later than usual 我们比平时晚到那里 
-② (expressing quantity, degree, value) …于 … yú less than 100 少于100 more than half 超过一半 temperatures lower than 30 degrees 30度以下的温度 
-③ (except for) 除…之外 chú… zhī wài I don’t know any French people other than you 我只认识你一个法国人 
-④ (in preference to) 而不是 ér bùshi rather or sooner [somebody]/[something] than [somebody]/[something]; 宁可是某人/某事物而不是某人/某事物 I'd rather or sooner bread than rice 我宁愿要面包不要米饭 
-⑤ especially AmE (from) [用以区分两个人或事物]to be different than [somebody]/[something]; 与某人/某事物不同 she is different than I'd expected 她和我预想中的不一样 
-B.  conjunction 
-① (in comparisons) 比 bǐ she's much older than I am 她比我大得多 it was further away than I remembered 它比我记忆中的更远 there's nothing better/worse than doing [something] 没有什么比做某事更好/更糟糕的了 
-② (except for) 除了 chúle we had no alternative than to buy it 我们除了买下它别无选择 
-③ (expressing preference) 而不是 ér bùshi I'd sooner or rather do X than do Y, I'd do X sooner or rather than do Y 我宁愿做X而不做Y he would die sooner than give in 他宁死不屈 
-④ (when) 就 jiù no sooner … than …, hardly … than …, scarcely … than …,; 刚…就… no sooner had he left than the phone rang 他刚离开电话铃就响了 
-⑤ especially AmE (from the way that) [用以区分两个人或事物]they do it differently than we do 他们的做法和我们的不同 
+T͟Han T͟Hən
+
+▶conjunction & preposition
+1 introducing the second element in a comparison: [as preposition] : he was much smaller than his son 
+[as conjunction] : Jack doesn't know any more than I do.
+2 used in expressions introducing an exception or contrast: [as preposition] : he claims not to own anything other than his home 
+[as conjunction] : they observe rather than act.
+3 [conjunction] used in expressions indicating one thing happening immediately after another: scarcely was the work completed than it was abandoned. ORIGIN Old English than(ne), thon(ne), thænne, originally the same word as then . usage: Traditional grammar holds that personal pronouns following than should be in the subjective rather than the objective case: he is smaller than she (rather than he is smaller than her). This is based on an analysis of than by which than is a conjunction and the personal pronoun (‘she’) is standing in for a full clause: he is smaller than she is. However, it is arguable that than in this context is not a conjunction but a preposition, similar grammatically to words like with, between, or for. In this case, the personal pronoun is objective: he is smaller than her is standard in just the same way as, for example, I work with her is standard (not I work with she). Whatever the grammatical analysis, the evidence confirms that sentences like he is smaller than she are uncommon in modern English except in the most formal contexts. Uses such as he is smaller than her, on the other hand, are almost universally accepted. For more explanation, see usage at personal pronoun and between .

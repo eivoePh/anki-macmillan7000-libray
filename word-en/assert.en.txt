@@ -1,6 +1,10 @@
 assert 
-▶verb
-1 they asserted that all aboard were safe: declare, maintain, contend, argue, state, claim, propound, proclaim, announce, pronounce, swear, insist, avow; formal aver, opine; rare asseverate.
-2 we find it difficult to assert our rights: insist on, stand up for, uphold, defend, contend, establish, press for, push for, stress.
-PHRASES
-assert oneself she was finally asserting herself, just like everyone told her to: behave confidently, speak confidently, be assertive, put oneself forward, take a stand, make one's presence felt; informal put one's foot down.
+əˈsərt
+
+▶verb [reporting verb] state a fact or belief confidently and forcefully: [with clause] : the company asserts that the cuts will not affect development 
+[with object] : he asserted his innocence 
+[with direct speech] : “I don't know why she came,” he asserted. 
+• [with object] cause others to recognize (one's authority or a right) by confident and forceful behavior: the good librarian is able to assert authority when required. 
+• (assert oneself) behave or speak in a confident and forceful manner: it was time to assert himself. DERIVATIVES asserter 
+əˈsərdər 
+nounORIGIN early 17th century: from Latin asserere ‘claim, affirm,’ from ad- ‘to’ + serere ‘to join.’

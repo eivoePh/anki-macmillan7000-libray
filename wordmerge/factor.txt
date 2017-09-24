@@ -5,4 +5,21 @@ noun
 ② Mathematics (divisor) 因子 yīnzǐ (multiplier) 商 shāng (highest) common factor （最大）公因子 
 ③ Busn 代理商 dàilǐshāng PHRASAL VERB factor in transitive verb[factor somebody/something in], [factor in somebody/something] 把…作为考虑因素 bǎ… zuòwéi kǎolǜ yīnsù 
 factor 
-▶noun this had been a key factor in his decision to withdraw: element, part, component, ingredient, strand, constituent, point, detail, item, feature, facet, aspect, characteristic, consideration, influence, circumstance.
+ˈfaktər
+
+▶noun
+1 a circumstance, fact, or influence that contributes to a result or outcome: his legal problems were not a factor in his decision 
+she worked fast, conscious of the time factor. 
+• Biology a gene that determines a hereditary characteristic: the Rhesus factor.
+2 a number or quantity that when multiplied with another produces a given number or expression. 
+• Mathematics a number or algebraic expression by which another is exactly divisible.
+3 Physiology any of a number of substances in the blood, mostly identified by numerals, which are involved in coagulation. See factor VII
+I. 
+4 a business agent; a merchant buying and selling on commission. 
+• a company that buys a manufacturer's invoices at a discount and takes responsibility for collecting the payments due on them. 
+• archaic an agent, deputy, or representative. 
+▶verb [with object]
+1 Mathematics another term for factorize.
+2 sell (one's receivable debts) to a factor. 
+PHRASES
+the —— factor used to indicate that something specified will have a powerful, though unpredictable, influence on a result or outcome: the feel-good factor.PHRASAL VERBS factor something in (or out) include (or exclude) something as a relevant element when making a calculation or decision: when the psychological costs are factored in, a different picture will emerge.DERIVATIVES factorable adjectiveORIGIN late Middle English (meaning ‘doer, perpetrator,’ also in the Scots sense ‘agent’): from French facteur or Latin factor, from fact- ‘done,’ from the verb facere .

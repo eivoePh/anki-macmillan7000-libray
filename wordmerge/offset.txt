@@ -8,4 +8,21 @@ noun
 ① (counterbalancing factor) 抵消 dǐxiāo as an offset to [something]; 作为对某事的补偿 
 ② (in pipe) 弯管 wānguǎn 
 offset 
-▶verb we were not able to offset our losses over the last quarter: counterbalance, balance (out), cancel (out), even out/up, counteract, countervail, neutralize, compensate for, make up for, make good, redeem, indemnify; atone for, make amends for, make restitution for.
+▶noun 
+ˈôfˌset ˈäfˌset 
+
+1 a consideration or amount that diminishes or balances the effect of a contrary one: an offset against taxable profits.
+2 the amount or distance by which something is out of line: these wheels have an offset of four inches. 
+• Surveying a short distance measured perpendicularly from the main line of measurement. 
+• Electronics a small deviation or bias in a voltage or current.
+3 a side shoot from a plant serving for propagation. 
+• a spur in a mountain range.
+4 Architecture a sloping ledge in a wall or other feature where the thickness of the part above is diminished.
+5 a bend in a pipe to carry it past an obstacle.
+6 [often as modifier] a method of printing in which ink is transferred from a plate or stone to a uniform rubber surface and from that to the paper. 
+▶verb 
+ˌôfˈset ˈôfˌset 
+(offsets, offsetting; past and past participle offset)
+1 [with object] counteract (something) by having an opposing force or effect: the deficit has been more than offset by capital inflows.
+2 [with object] place out of line: several places where the ridge was offset at right angles to its length.
+3 [no object] (of ink or a freshly printed page) transfer an impression to the next leaf or sheet.

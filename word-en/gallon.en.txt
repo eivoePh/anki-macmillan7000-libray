@@ -1,3 +1,10 @@
 gallon 
-BrE ˈɡalən, AmE ˈɡælən 
-noun 加仑 jiālún 
+ˈɡalən
+
+▶noun
+1 a unit of volume for liquid measure equal to four quarts, in particular: 
+• US equivalent to 3.79 liters. 
+• (also imperial gallon) British equivalent to 4.55 liters (also used for dry measure).
+2 (gallons of) informal a large volume: gallons of fake blood. DERIVATIVES gallonage 
+-nij 
+nounORIGIN Middle English: from Anglo-Norman French galon, from the base of medieval Latin galleta, galletum ‘pail, liquid measure,’ perhaps of Celtic origin.

@@ -5,4 +5,16 @@ transitive verb
 ② (convert into different form) 改变…的形态 gǎibiàn… de xíngtài ‹matter, energy›cooling transforms the moisture into ice particles 冷却使湿气变成了冰粒 to transform heat into motive power 将热转化成动力 
 ③ Mathematics, Electricity 变换 biànhuàn ‹equation, expression, current›
 transform 
-▶verb the old inn has been transformed into an outpatient medical facility: change, alter, convert, metamorphose, transfigure, transmute, mutate; revolutionize, overhaul; remodel, reshape, redo, reconstruct, rebuild, reorganize, rearrange, rework, renew, revamp, remake, retool; informal transmogrify, morph.
+tran(t)sˈfôrm
+
+▶verb [with object] make a thorough or dramatic change in the form, appearance, or character of: lasers have transformed cardiac surgery 
+he wanted to transform himself into a successful businessman. 
+• [no object] undergo a transformation: an automobile that transformed into a boat. 
+• change the voltage of (an electric current). 
+• Mathematics change (a mathematical entity) by transformation. 
+▶noun 
+ˈtran(t)sfôrm 
+Mathematics & Linguistics the product of a transformation. 
+• a rule for making a transformation. DERIVATIVES transformable 
+tran(t)sˈfôrməb(ə)l 
+adjectiveORIGIN Middle English (as a verb): from Old French transformer or Latin transformare (see trans-, form) .

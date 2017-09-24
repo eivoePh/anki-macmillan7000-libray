@@ -2,4 +2,6 @@ pessimistic
 BrE ˌpɛsɪˈmɪstɪk, AmE ˌpɛsəˈmɪstɪk 
 adjective 悲观的 bēiguān de to be or feel pessimistic about or at [something]; 对某事物感到悲观 
 pessimistic 
-▶adjective a pessimistic outlook on life: gloomy, negative, defeatist, downbeat, cynical, bleak, fatalistic, dark, black, despairing, despondent, depressed, hopeless; suspicious, distrustful, doubting. ANTONYMS optimistic.
+ˌpesəˈmistik
+
+▶adjective tending to see the worst aspect of things or believe that the worst will happen: he was pessimistic about the prospects. DERIVATIVES pessimistically adverb

@@ -1,18 +1,5 @@
-wash 
-▶verb
-1 he is washing in the guest bathroom: clean oneself; bathe, take a bath, shower, soak, freshen up; formal perform one's ablutions.
-2 he washed her socks: clean, cleanse, rinse, launder, scour; shampoo, lather, sponge, scrub, wipe; sluice, douse, swab, disinfect; literary lave. ANTONYMS soil.
-3 waves washed against the hull: splash, lap, splosh, dash, crash, break, beat, surge, ripple, roll.
-4 the wreckage was washed downriver: sweep, carry, convey, transport.
-5 it washed up on my front lawn: land, come to rest, be deposited, be beached.
-6 guilt washed over her: surge through, rush through, course through, flood over, flow over; affect, overcome.
-7 informal this story just won't wash: be accepted, be acceptable, be plausible, be convincing, hold up, hold water, stand up, bear scrutiny; do.
-▶noun
-1 she needs a wash: clean, shower, dip, bath, soak; formal ablutions.
-2 that shirt should go in the wash: laundry, washing.
-3 antiseptic skin wash: lotion, salve, preparation, rinse, liquid; liniment.
-4 the wash of the boat: backwash, wake, trail, path.
-5 the wash of the waves on the beach: surge, flow, swell, sweep, rise and fall, roll, splash.
-6 a light watercolor wash: paint, stain, film, coat, coating; tint, glaze.
-PHRASES
-wash one's hands of I'm going to wash my hands of the whole business: disown, renounce, reject, forswear, disavow, give up on, turn one's back on, cast aside, abandon; formal abjure. wash up you kids can wash up after dinner: wash the dishes, do the dishes, clean up.
+washing 
+ˈwäSHiNG ˈwôSHiNG
+
+▶noun the action of washing oneself or laundering clothes, bed linen, etc. 
+• a quantity of clothes, bed linen, etc., that is to be washed or has just been washed: she took her washing around to the laundromat.

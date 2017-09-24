@@ -13,12 +13,42 @@ B.  transitive verb
 ③ (devise) 构想出 gòuxiǎng chū ‹plan, idea›; 制定 zhìdìng ‹policy›
 ④ colloquial (for a crime) «person, police» 作伪证诬陷 zuò wěizhèng wūxiàn 
 frame 
+frām
+
 ▶noun
-1 a tubular metal frame: framework, structure, substructure, skeleton, chassis, shell, casing, body, bodywork; support, scaffolding, foundation, infrastructure.
-2 his tall, slender frame: body, figure, form, shape, physique, build, size, proportions.
-3 a picture frame: setting, mount, mounting.
-▶verb
-1 he had the picture framed: mount, set in a frame.
-2 the legislators who frame the regulations: formulate, draw up, draft, plan, shape, compose, put together, form, devise, create, establish, conceive, think up, originate; informal dream up.
+1 a rigid structure that surrounds or encloses something such as a door or window. 
+• (frames) a metal or plastic structure holding the lenses of a pair of glasses. 
+• a case or border enclosing a mirror or picture. 
+• the rigid supporting structure of an object such as a vehicle, building, or piece of furniture. 
+• a person's body with reference to its size or build: a shiver shook her slim frame. 
+• a boxlike structure of glass or plastic in which seeds or young plants are grown. 
+• [in singular] archaic or literary the universe, or part of it, regarded as an embracing structure. 
+• [in singular] archaic or literary the structure, constitution, or nature of someone or something: we have in our inward frame various affections.
+2 [usually in singular] a basic structure that underlies or supports a system, concept, or text: the establishment of conditions provides a frame for interpretation. 
+• technical short for frame of reference. 
+• the genre or form of a literary text determining its expected style and content: my poems look as though they have a classical frame. 
+• [often as modifier] an enclosing section of narrative, especially one which foregrounds or comments on the primary narrative of a text: a frame narrator reports the narrative spoken by an inner narrator.
+3 Linguistics a structural environment within which a class of words or other linguistic units can be correctly used. For example I —— him is a frame for a large class of transitive verbs.
+4 a single complete picture in a series forming a movie, television, or video film. 
+• a single picture in a comic strip. 
+• Computing a graphic panel in a display window, especially in a web browser, that encloses a self-contained section of data and permits multiple independent document viewing.
+5 another term for rack1 ( sense
+4 of the noun). 
+• a round of play in bowling. 
+• US informal an inning in a baseball game: he closed out the game by pitching two hitless frames.
+6 North American short for frame-up. 
+▶verb [with object]
+1 place (a picture or photograph) in a frame: he had the photo framed. 
+• surround so as to create a sharp or attractive image: a short, strong style cut to frame the face.
+2 US erect the framework of a building.
+3 create or formulate (a concept, plan, or system): the staff have proved invaluable in framing the proposals. 
+• form or articulate (words): he walked out before she could frame a reply. 
+• archaic make or construct (something) by fitting parts together or in accordance with a plan: what immortal hand or eye could frame thy fearful symmetry?
+4 informal produce false evidence against (an innocent person) so that they appear guilty: he claims he was framed. 
 PHRASES
-frame of mind what was your frame of mind at the time just preceding the accident? mood, state of mind, humor, temper, disposition.
+frame of mind a particular mood that influences one's attitude or behavior.DERIVATIVES frameable 
+-məbəl 
+adjective. frameless 
+ˈfrāmləs 
+adjectiveORIGIN Old English framian ‘be useful,’ of Germanic origin and related to from. The general sense in Middle English, ‘make ready for use,’ probably led to sense
+2 of the verb; it also gave rise to the specific meaning ‘prepare timber for use in building,’ later ‘make the wooden parts of a building,’ essentially the framework, hence the noun sense ‘structure’ (late Middle English).

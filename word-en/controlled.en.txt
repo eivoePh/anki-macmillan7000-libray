@@ -1,13 +1,31 @@
 control 
+kənˈtrōl
+
 ▶noun
-1 the 
-U. 
-S.  retained control over the islands: jurisdiction, sway, power, authority, command, dominance, government, mastery, leadership, rule, sovereignty, supremacy, ascendancy; charge, management, direction, supervision, superintendence.
-2 strict import controls: restraint, constraint, limitation, restriction, check, curb, brake, rein; regulation.
-3 her control deserted her: self-control, self-restraint, self-possession, self-command, composure, calmness; informal cool.
-4 easy-to-use controls: switch, knob, button, dial, handle, lever.
-5 mission control: headquarters, HQ, base, center of operations, command post, nerve center.
-▶verb
-1 one family had controlled the company since its formation: be in charge of, run, manage, direct, administer, head, preside over, supervise, superintend, steer; command, rule, govern, lead, dominate, hold sway over, be at the helm; informal head up, be in the driver's seat, run the show.
-2 she struggled to control her temper: restrain, keep in check, curb, check, contain, hold back, bridle, rein in, suppress, repress, master.
-3 public spending was controlled: limit, restrict, curb, cap, constrain; informal put the brakes on.
+1 the power to influence or direct people's behavior or the course of events: the whole operation is under the control of a production manager 
+the situation was slipping out of her control. 
+• the ability to manage a machine, vehicle, or other moving object: he lost control of his car 
+improve your ball control. 
+• the restriction of an activity, tendency, or phenomenon: pest control. 
+• the power to restrain something, especially one's own emotions or actions: give children time to get control of their emotions. 
+• (often controls) a means of limiting or regulating something: growing controls on local spending. 
+• a switch or other device by which a machine is regulated: the volume control. 
+• the place where a particular item is verified: passport control. 
+• the base from which a system or activity is directed: communications could be established with central control 
+mission control. 
+• Bridge a high card that will prevent opponents from establishing a particular suit. 
+• Computing short for control key.
+2 Statistics a group or individual used as a standard of comparison for checking the results of a survey or experiment: they saw no difference between the cancer patients and the controls.
+3 a member of an intelligence organization who personally directs the activities of a spy. 
+▶verb (controls, controlling, controlled)
+1 [with object] determine the behavior or supervise the running of: he was appointed to control the company's marketing strategy. 
+• maintain influence or authority over: you shouldn't have dogs if you can't control them. 
+• limit the level, intensity, or numbers of: he had to control his temper. 
+• (control oneself) remain calm and reasonable despite provocation: he made an effort to control himself. 
+• regulate (a mechanical or scientific process): the airflow is controlled by a fan. 
+• (as adjective controlled) (of a drug) restricted by law with respect to use and possession: a sentence for possessing controlled substances.
+2 [no object] Statistics (control for) take into account (an extraneous factor that might affect results) when performing an experiment: no attempt was made to control for variations 
+(as adjective controlled) : a controlled trial. 
+• check; verify. 
+PHRASES
+in control able to direct a situation, person, or activity: I felt calm and in control. out of control no longer possible to manage: fires burning out of control. under control (of a danger or emergency) being dealt with successfully and competently: it took two hours to bring the blaze under control.ORIGIN late Middle English (as a verb in the sense ‘check or verify accounts,’ especially by referring to a duplicate register): from Anglo-Norman French contreroller ‘keep a copy of a roll of accounts,’ from medieval Latin contrarotulare, from contrarotulus ‘copy of a roll,’ from contra- ‘against’ + rotulus ‘a roll.’ The noun is perhaps via French contrôle .

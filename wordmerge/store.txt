@@ -24,11 +24,22 @@ D.  intransitive verb «food» 可保存 kě bǎocún these truffles will store 
 ② (bottle up) 把…郁积在心 bǎ… yùjī zài xīn ‹strong feelings›she had stored up all her anger and eventually snapped 她把所有的愤怒都憋在心里，最后终于爆发了 
 ③ (not deal with) 使…积累 shǐ… jīlěi ‹problems›by ignoring your feelings, you are only storing up trouble for yourself 你回避自己的感情问题，将来必有麻烦 
 store 
+stôr
+
 ▶noun
-1 a store of money: stock, supply, stockpile, hoard, cache, reserve, bank, pool; informal war chest, pork barrel.
-2 a grain store: storeroom, storehouse, repository, depository, stockroom, depot, warehouse, magazine; informal lockup.
-3 ship's stores: supplies, provisions, stocks, necessities; food, rations, provender; materials, equipment, hardware; Military matériel, accoutrements; Nautical chandlery.
-4 a hardware store: shop, (retail) outlet, boutique, department store, general store, chain store, emporium; market, supermarket, superstore, megastore; dated groceteria.
-▶verb rabbits don't store food: keep, keep in reserve, stockpile, lay in, put/set aside, put away/by, put away for a rainy day, save, collect, accumulate, hoard, cache; informal squirrel away, salt away, stash away. ANTONYMS use, discard.
+1 chiefly North American a retail establishment selling items to the public: a health-food store. 
+• [as modifier] store-bought: there's a loaf of store bread.
+2 a quantity or supply of something kept for use as needed: the squirrel has a store of food 
+figurative : her vast store of knowledge. 
+• a place where things are kept for future use or sale: a grain store. 
+• (stores) supplies of equipment and food kept for use by members of an army, navy, or other institution, or the place where they are kept. 
+• British a computer memory.
+3 chiefly British a sheep, steer, cow, or pig acquired or kept for fattening. 
+▶verb [with object] keep or accumulate (something) for future use: a small room used for storing furniture. 
+• retain or enter (information) for future electronic retrieval: the data is stored on disk. 
+• (be stored with) have a supply of (something useful): a mind well stored with esoteric knowledge. 
+• [no object] remain fresh while being stored: they do not ship or store well. 
 PHRASES
-set (great) store by Gwen set great store by good manners: value, attach great importance to, put a high value on, put a premium on; think highly of, hold in (high) regard, have a high opinion of; informal rate.
+in store
+1 in a safe place while not being used or displayed: items held in store.
+2 coming in the future; about to happen: he did not yet know what lay in store for him. set (or lay or put) store by (or on) consider (something) to be of a particular degree of importance or value: many people set much store by privacy.PHRASAL VERBS store something up create problems for the future by failing to address a particular situation adequately at the time: they're storing up trouble by denying opportunities to younger players.DERIVATIVES storable adjective. storer nounORIGIN Middle English: shortening of Old French estore (noun), estorer (verb), from Latin instaurare ‘renew’; compare with restore .

@@ -4,7 +4,12 @@ noun
 ① Mathematics 分数 fēnshù to express as a fraction; 用分数表示 to resolve a fraction; 解分数 
 ② (tiny amount) 一小部分 yī xiǎo bùfen a fraction of [something]; 某物的一小部分 to miss by a fraction 差点打中 to move a fraction 稍微挪一下 
 fraction 
+ˈfrakSH(ə)n
+
 ▶noun
-1 a fraction of the population: part, subdivision, division, portion, segment, slice, section, sector; proportion, percentage, ratio, measure. ANTONYMS whole.
-2 only a fraction of the collection: tiny part, fragment, snippet, snatch, smattering, selection.
-3 he moved a fraction closer: tiny amount, little, bit, touch, soupçon, trifle, mite, shade, jot; informal smidgen, smidge, tad.CHOOSE THE RIGHT WORD See fragment .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 a numerical quantity that is not a whole number (e.g., 1/2, 0.5). 
+• a small or tiny part, amount, or proportion of something: he hesitated for a fraction of a second 
+her eyes widened a fraction. 
+• a dissenting group within a larger one. 
+• each of the portions into which a mixture may be separated by a process in which the individual components behave differently according to their physical properties.
+2 (usually the Fraction) (in the Christian Church) the breaking of the Eucharistic bread. ORIGIN late Middle English: via Old French from ecclesiastical Latin fractio(n-) ‘breaking (bread),’ from Latin frangere ‘to break.’

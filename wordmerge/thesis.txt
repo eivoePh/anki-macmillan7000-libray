@@ -4,6 +4,14 @@ noun(plural theses /ˈθiːsiːz/)
 ① (dissertation) 论文 lùnwén a postgraduate/doctoral/master's thesis 硕士/博士/学士学位论文 a thesis on [something]; 有关某课题的论文 
 ② (argument) 论点 lùndiǎn 
 thesis 
-▶noun
-1 the central thesis of his lecture: theory, contention, argument, line of argument, proposal, proposition, idea, claim, premise, assumption, hypothesis, postulation, supposition.
-2 a doctoral thesis: dissertation, essay, paper, treatise, disquisition, composition, monograph, study.
+ˈTHēsis
+
+▶noun (plural theses 
+-sēz
+)
+1 a statement or theory that is put forward as a premise to be maintained or proved: his central thesis is that psychological life is not part of the material world. 
+• (in Hegelian philosophy) a proposition forming the first stage in the process of dialectical reasoning. Compare with antithesis, synthesis.
+2 a long essay or dissertation involving personal research, written by a candidate for a college degree: a doctoral thesis.
+3 
+ˈTHesis 
+Prosody an unstressed syllable or part of a metrical foot in Greek or Latin verse. Often contrasted with arsis. ORIGIN late Middle English ( sense 3): via late Latin from Greek, literally ‘placing, a proposition,’ from the root of tithenai ‘to place.’

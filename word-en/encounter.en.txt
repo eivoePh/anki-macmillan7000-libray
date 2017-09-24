@@ -1,7 +1,7 @@
 encounter 
-▶verb
-1 I encountered a teacher I used to know: meet, meet by chance, run into, come across/upon, stumble across/on/upon, chance on/upon, happen on/upon; informal bump into.
-2 we encountered a slight problem: experience, hit, run into, come up against, face, be faced with, confront.
-▶noun
-1 an unexpected encounter: meeting, chance meeting.
-2 a violent encounter between police and demonstrators: battle, fight, clash, confrontation, struggle, skirmish, engagement; informal run-in, set-to, scrap.
+inˈkoun(t)ər enˈkoun(t)ər
+
+▶verb [with object] unexpectedly experience or be faced with (something difficult or hostile): we have encountered one small problem. 
+• meet (someone) unexpectedly. 
+▶noun an unexpected or casual meeting with someone or something. 
+• a confrontation or unpleasant struggle: his close encounter with death. ORIGIN Middle English (in the senses ‘meet as an adversary’ and ‘a meeting of adversaries’; formerly also as incounter): from Old French encontrer (verb), encontre (noun), based on Latin in- ‘in’ + contra ‘against.’

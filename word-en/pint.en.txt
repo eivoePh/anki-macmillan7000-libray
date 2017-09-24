@@ -1,5 +1,5 @@
 pint 
-BrE pʌɪnt, AmE paɪnt 
-noun 
-① (liquid measure) 品脱 pǐntuō a two-pint carton of milk 一盒两品脱装的牛奶 
-② BrE colloquial (glass, tankard) 品脱杯 pǐntuōbēi (of beer) 一品脱啤酒 yī pǐntuō píjiǔ to go for a pint 去喝杯啤酒 he's fond of a pint 他喜欢喝啤酒 
+pīnt 
+(abbreviation pt) 
+▶noun a unit of liquid or dry capacity equal to one half of a quart. 
+• British informal a pint of beer. ORIGIN late Middle English: from Old French pinte, of unknown origin.

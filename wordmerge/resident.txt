@@ -8,7 +8,18 @@ B.  adjective
 ① (in country, town, house) 常住的 chángzhù de the resident population 常住人口 
 ② (live-in) 住在任所的 zhùzài rènsuǒ de ‹artist, landlord›resident maid 住家保姆 resident physician/nurse 住院医师/护士 
 resident 
-▶noun the residents of Ivoryton: inhabitant, local, citizen, native; townsfolk, townspeople; householder, homeowner, occupier, tenant; formal denizen.
-▶adjective
-1 is he currently resident in New Brunswick? living, residing, in residence; formal dwelling.
-2 a resident nurse: live-in, living in.
+ˈrez(ə)dənt
+
+▶noun
+1 a person who lives somewhere permanently or on a long-term basis. 
+• a bird, butterfly, or other animal of a species that does not migrate. 
+• US a person who boards at a boarding school. 
+• historical a British government agent in any semi-independent state, especially the governor general's agent at the court of an Indian state.
+2 North American a medical graduate engaged in specialized practice under supervision in a hospital. 
+▶adjective living somewhere on a long-term basis: he has been resident in Brazil for a long time. 
+• having quarters on the premises of one's work: resident farm workers. 
+• attached to and working regularly for a particular institution: the film studio needed a resident historian. 
+• (of a bird, butterfly, or other animal) nonmigratory; remaining in an area throughout the year. 
+• (of a computer program, file, etc.) immediately available in computer memory, rather than having to be loaded from elsewhere. DERIVATIVES residentship 
+-ˌSHip 
+noun ( historical)ORIGIN Middle English: from Latin resident- ‘remaining,’ from the verb residere (see reside) .

@@ -1,2 +1,9 @@
 energy 
-▶noun a good night's sleep will restore their energy: vitality, vigor, life, liveliness, animation, vivacity, spirit, spiritedness, verve, enthusiasm, zest, vibrancy, spark, sparkle, effervescence, ebullience, exuberance, buoyancy, sprightliness; strength, stamina, forcefulness, power, dynamism, drive; fire, passion, ardor, zeal; informal zip, zing, pep, pizzazz, punch, bounce, oomph, moxie, mojo, go, get-up-and-go, vim and vigor, feistiness.
+ˈenərjē
+
+▶noun (plural energies)
+1 the strength and vitality required for sustained physical or mental activity: changes in the levels of vitamins can affect energy and well-being. 
+• (energies) a person's physical and mental powers, typically as applied to a particular task or activity.
+2 power derived from the utilization of physical or chemical resources, especially to provide light and heat or to work machines.
+3 Physics the property of matter and radiation that is manifest as a capacity to perform work (such as causing motion or the interaction of molecules): a collision in which no energy is transferred. 
+• a degree or level of energy possessed by something or required by a process: gamma rays at different energies. ORIGIN mid 16th century (denoting force or vigor of expression): from French énergie, or via late Latin from Greek energeia, from en- ‘in, within’ + ergon ‘work.’

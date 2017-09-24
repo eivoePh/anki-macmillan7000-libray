@@ -7,7 +7,10 @@ noun
 ④ (degree of growth, increase) 扩大程度 kuòdà chéngdù 
 ⑤ Mathematics 展开 zhǎnkāi 
 expansion 
-▶noun
-1 expansion and contraction of blood vessels: enlargement, increase in size, swelling, dilation; lengthening, elongation, stretching, thickening. ANTONYMS contraction.
-2 the expansion of the company: growth, increase in size, enlargement, extension, development; spread, proliferation, multiplication. ANTONYMS reduction in size.
-3 an expansion of a lecture given last year: elaboration, enlargement, amplification, development. ANTONYMS abridgment, summary.
+ikˈspanSHən
+
+▶noun the action of becoming larger or more extensive: the rapid expansion of suburban Washington 
+a small expansion of industry. 
+• extension of a state's territory by encroaching on that of other nations, pursued as a political strategy: German expansion in the 1930s. 
+• a thing formed by the enlargement, broadening, or development of something: the book is an expansion of a lecture given last year. 
+• the increase in the volume of fuel on combustion in the cylinder of an engine, or the piston stroke in which this occurs. ORIGIN early 17th century: from late Latin expansion-, from Latin expandere (see expand) .

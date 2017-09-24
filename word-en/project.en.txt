@@ -1,11 +1,29 @@
 project 
-▶noun
-1 an engineering project: plan, program, enterprise, undertaking, venture; proposal, idea, concept, scheme.
-2 a history project: assignment, piece of work, piece of research, task.
-▶verb
-1 profits are projected to rise: forecast, predict, expect, estimate, calculate, reckon.
-2 his projected book: intend, plan, propose, devise, design, outline.
-3 balconies projected over the lake: stick out, jut (out), protrude, extend, stand out, bulge out, poke out, thrust out, cantilever.
-4 seeds are projected from the tree: propel, discharge, launch, throw, cast, fling, hurl, shoot.
-5 the sun projected his shadow on the wall: cast, throw, send, shed, shine.
-6 she tried to project a calm image: convey, put across, put over, communicate, present, promote.CHOOSE THE RIGHT WORD See bulge .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+▶noun 
+ˈpräjˌekt 
+
+1 an individual or collaborative enterprise that is carefully planned and designed to achieve a particular aim: a research project 
+a nationwide project to encourage business development. 
+• a school assignment undertaken by a student or group of students, typically as a long-term task that requires independent research: a history project. 
+• a proposed or planned undertaking: the novel undermines its own stated project of telling a story.
+2 (also housing project) North American a government-subsidized housing development with relatively low rents: her family still lives in the projects. 
+▶verb 
+prəˈjekt 
+[with object]
+1 estimate or forecast (something) on the basis of present trends: spending was projected at $72 million. 
+• (often as adjective projected) plan (a scheme or undertaking): a projected exhibition of contemporary art.
+2 [no object] extend outward beyond something else; protrude: I noticed a slip of paper projecting from the book 
+(as adjective projecting) : a projecting bay window.
+3 throw or cause to move forward or outward: seeds are projected from the tree. 
+• cause (light, shadow, or an image) to fall on a surface: the one light projected shadows on the wall. 
+• cause (a sound, especially the voice) to be heard at a distance: being audible depends on your ability to project your voice. 
+• imagine (oneself, a situation, etc.) as having moved to a different place or time: people may be projecting the present into the past.
+4 present or promote (a particular view or image): he strives to project an image of youth. 
+• present (someone or something) in a way intended to create a favorable impression: she liked to project herself more as a friend than a doctor. 
+• display (an emotion or quality) in one's behavior: everyone would be amazed that a young girl could project such depths of emotion. 
+• (project something onto) transfer or attribute one's own emotion or desire to (another person), especially unconsciously: men may sometimes project their own fears onto women.
+5 Geometry draw straight lines from a center of or parallel lines through every point of (a given figure) to produce a corresponding figure on a surface or a line by intersecting the surface. 
+• produce (such a corresponding figure).
+6 make a projection of (the earth, sky, etc.) on a plane surface. DERIVATIVES projectable 
+prəˈjektəbəl 
+adjectiveORIGIN late Middle English (in the sense ‘preliminary design, tabulated statement’): from Latin projectum ‘something prominent,’ neuter past participle of proicere ‘throw forth,’ from pro- ‘forth’ + jacere ‘to throw.’ Early senses of the verb were ‘plan, devise’ and ‘cause to move forward.’

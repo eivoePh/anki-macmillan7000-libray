@@ -1,9 +1,28 @@
 divide 
+dəˈvīd
+
 ▶verb
-1 he divided his estate into separate holdings: split (up), cut up, carve up; dissect, bisect, halve, quarter; literary sunder. ANTONYMS unify, join, converge.
-2 a curtain divided her cabin from the galley: separate, segregate, partition, screen off, section off, split off. ANTONYMS unify, join, converge.
-3 the stairs divide at the mezzanine: diverge, separate, part, branch (off), fork, split (in two), bifurcate. ANTONYMS unify, join, converge.
-4 Jack divided up the cash: share out, allocate, allot, apportion, portion out, ration out, parcel out, deal out, dole out, dish out, distribute, dispense; informal divvy up.
-5 he aimed to divide his opponents: disunite, drive apart, break up, split up, set at variance, set at odds; separate, isolate, estrange, alienate; literary tear asunder. ANTONYMS unify, unite.
-6 living things are divided into three categories: classify, sort (out), categorize, order, group, grade, rank. ANTONYMS combine.
-▶noun the sectarian divide: breach, gulf, gap, split; borderline, boundary, dividing line.
+1 separate or be separated into parts: [with object] : consumer magazines can be divided into a number of different categories 
+[no object] : the cell clusters began to divide rapidly. 
+• [with object] separate (something) into portions and distribute a share to each of a number of people: Jack divided up the rest of the cash 
+the property was divided among his heirs. 
+• [with object] allocate (different parts of one's time, attention, or efforts) to different activities or places: the last years of her life were divided between Bermuda and Paris. 
+• [with object] form a boundary between (two people or things): the artificial barrier that has divided an academic education from a vocational one. 
+• (of a legislative assembly) separate or be separated into two groups for voting: [no object] : the House divided: 287 for, 196 against.
+2 disagree or cause to disagree: [with object] : the question had divided Frenchmen since the Revolution 
+(as adjective divided) : a divided party leadership 
+[no object] : cities where politicians frequently divide along racial lines.
+3 [with object] Mathematics find how many times (a number) contains another: 36 divided by
+2 equals
+18 
+[no object] : the program helps children to multiply and divide quickly and accurately. 
+• [no object] (of a number) be susceptible to division without a remainder: 30 does not divide by 8. 
+• find how many times (a number) is contained in another: divide
+4 into 20. 
+• [no object] (of a number) be contained in a number without a remainder:
+3 divides into 15. 
+▶noun a wide divergence between two groups, typically producing tension or hostility: there was still a profound cultural divide between the parties. 
+• a boundary between two things: symbolically, the difference of sex is a divide. 
+• chiefly US a ridge or line of high ground forming the division between two valleys or river systems. 
+PHRASES
+divide and conquer (or rule) the policy of maintaining control over one's subordinates or subjects by encouraging dissent between them.divided against itself (of a group that should be coherent) split by factional interests: the regime is profoundly divided against itself.ORIGIN Middle English (as a verb): from Latin dividere ‘force apart, remove.’ The noun dates from the mid 17th century.

@@ -1,14 +1,37 @@
 print 
-▶verb
-1 the newspaper is printed just after midnight: send to press, set in print, run off, reprint.
-2 patterns were printed on the cloth: imprint, impress, stamp, mark.
-3 they printed 30,000 copies: publish, issue, release, circulate.
-4 the incident is printed on her memory: register, record, impress, imprint, engrave, etch, stamp, mark.
+print
+
+▶verb [with object]
+1 produce (books, newspapers, magazines, etc.), especially in large quantities, by a mechanical process involving the transfer of text, images, or designs to paper: a thousand copies of the book were printed. 
+• produce (text or a picture) by printing: the words had been printed in blue type. 
+• (of a newspaper or magazine) publish (a piece of writing) within its pages: the article was printed in the first edition. 
+• (of a publisher or printer) arrange for (a book, manuscript, etc.) to be reproduced in large quantities: Harper printed her memoirs in 1930. 
+• produce a paper copy of (information stored on a computer): the results of a search can be printed out. 
+• send (a computer file) to a printer or to another, temporary file. 
+• produce (a photographic print) from a negative: any make of film can be developed and printed.
+2 write (text) clearly without joining the letters: print your name and address on the back of the check 
+[no object] : it will be easier to read if I print.
+3 mark (a surface, typically a textile or a garment) with a colored design or pattern: a delicate fabric printed with roses. 
+• transfer (a colored design or pattern) to a surface: patterns of birds, flowers, and trees were printed on the cotton. 
+• make (a mark or indentation) on a surface or in a soft substance by pressing something onto it: he printed a mark on her soft skin. 
+• mark or indent (the surface of a soft substance): we printed the butter with carved wooden butter molds. 
+• fix (something) firmly or indelibly in someone's mind: his face, with its clearly drawn features, was printed on her memory. 
 ▶noun
-1 small print: type, printing, letters, lettering, characters, type size, typeface, font.
-2 prints of his left hand: impression, fingerprint, footprint.
-3 Rockwell prints are on sale in the lobby: picture, design, engraving, etching, lithograph, linocut, woodcut.
-4 prints and negatives: photograph, photo, snapshot, picture, still.
-5 soft floral prints: printed cloth/fabric, patterned cloth/fabric, chintz.
+1 the text appearing in a book, newspaper, or other printed publication, especially with reference to its size, form, or style: squinting at the tiny print 
+bold print. 
+• the state of being available in published form: the news will never get into print. 
+• a newspaper or magazine: [as modifier] : the print media. 
+• [as modifier] relating to the printing industry or the printed media: the print unions 
+a print worker.
+2 an indentation or mark left on a surface or soft substance by pressure, especially that of a foot or hand: there were paw prints everywhere. 
+• (prints) fingerprints: the FBI matched the prints to those of the Las Vegas drug suspect.
+3 a picture or design printed from a block or plate or copied from a painting by photography: the walls were hung with wildlife prints. 
+• a photograph printed on paper from a negative or transparency. 
+• a copy of a motion picture on film, especially a particular version of it.
+4 a piece of fabric or clothing with a decorative colored pattern or design printed on it: light summer prints 
+[as modifier] : a floral print dress. 
+• a printed pattern or design. 
 PHRASES
-in print the book is still in print: published, printed, available in bookstores. out of print they will help you track down editions that are out of print: no longer published, discontinued, unavailable, unobtainable.
+appear in print (of an author) have one's work published. in print
+1 (of a book) available from the publisher: he was surprised to find it was still in print.
+2 in printed or published form: she did not live to see her work in print. out of print (of a book) no longer available from the publisher: the title I want is out of print. the printed word language or ideas as expressed in books, newspapers, or other publications, especially when contrasted with their expression in speech.ORIGIN Middle English (denoting the impression made by a stamp or seal): from Old French preinte ‘pressed,’ feminine past participle of preindre, from Latin premere ‘to press.’

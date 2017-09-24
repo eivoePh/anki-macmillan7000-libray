@@ -1,4 +1,8 @@
 health 
-▶noun
-1 he was restored to health: well-being, healthiness, fitness, good condition, good shape, fine fettle; strength, vigor, wellness. ANTONYMS illness.
-2 bad health forced him to retire: physical state, physical shape, condition, constitution.
+helTH
+
+▶noun the state of being free from illness or injury: he was restored to health 
+[as modifier] : a health risk. 
+• a person's mental or physical condition: bad health forced him to retire 
+figurative : a standard for measuring the financial health of a company. 
+• used to express friendly feelings toward one's companions before drinking. ORIGIN Old English hǣlth, of Germanic origin; related to whole .

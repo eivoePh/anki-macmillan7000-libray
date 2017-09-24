@@ -5,6 +5,14 @@ nounUncountable
 ② (conformity with ruling, regulation, standard) 服从 fúcóng to bring [something] into compliance with …; 使某事物符合… to do [something] in compliance with procedure/the law 遵照程序/法律办某事 
 ③ (yielding disposition) 顺从 shùncóng compliance with [something]; 对某事物的顺从 
 compliance 
+kəmˈplīəns 
+(also compliancy 
+-ˈplīənsē
+) 
 ▶noun
-1 compliance with international law: obedience to, observance of, adherence to, conformity to, respect for. ANTONYMS violation.
-2 he mistook her silence for compliance: acquiescence, agreement, assent, consent, acceptance; docility, complaisance, pliability, meekness, submission. ANTONYMS defiance.
+1 the action or fact of complying with a wish or command: they must secure each other's cooperation or compliance. 
+• the state or fact of according with or meeting rules or standards: all imports of timber are in compliance with regulations 
+[as modifier] : this paper estimates the compliance costs of such a policy change. 
+• unworthy or excessive acquiescence: the appalling compliance with government views shown by the commission.
+2 Physics the property of a material of undergoing elastic deformation or (of a gas) change in volume when subjected to an applied force. It is equal to the reciprocal of stiffness. 
+• Medicine the ability of an organ to distend in response to applied pressure.

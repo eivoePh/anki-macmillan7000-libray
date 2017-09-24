@@ -1,23 +1,56 @@
 rise 
-▶verb
-1 the sun rose: move up/upward(s), come up, make one's/its way up, arise, ascend, climb, mount, soar. ANTONYMS fall, descend, set.
-2 the mountains rising above us: loom, tower, soar, rise up, rear (up).
-3 prices rose: go up, increase, soar, shoot up, surge, leap, jump, rocket, escalate, spiral. ANTONYMS drop.
-4 living standards have risen: improve, get better, advance, go up, soar, shoot up. ANTONYMS worsen.
-5 her voice rose: get higher, grow, increase, become louder, swell, intensify. ANTONYMS drop.
-6 he rose from his chair: stand up, get to one's feet, get up, jump up, leap up; formal arise. ANTONYMS sit.
-7 she rises at dawn: get up, get out of bed, rouse oneself, stir, bestir oneself, be up and about; informal rise and shine, surface; formal arise. ANTONYMS retire, go to bed.
-8 the court rose at midday: adjourn, recess, be suspended, pause, take a break; informal knock off, take five. ANTONYMS resume, continue.
-9 he rose through the ranks: make progress, climb, advance, get on, work one's way, be promoted.
-10 she wouldn't rise to the bait: react to, respond to; take.
-11 on the third day, Christ rose: come back to life, be resurrected, revive. ANTONYMS die.
-12 the dough started to rise: swell, expand, enlarge, puff up.
-13 the nation rose against its oppressors: rebel, revolt, mutiny, riot, take up arms. ANTONYMS kowtow.
-14 the river rises in the mountains: originate in, begin in, start in, emerge in/from; issue from, spring from, flow from, emanate from.
-15 her spirits rose: brighten, lift, cheer up, improve, pick up; informal buck up.
-16 the ground rose gently: slope upward, go uphill, incline, climb. ANTONYMS drop away, drop.
+rīz
+
+▶verb (past rose 
+rōz
+; past participle risen 
+ˈrizən
+) [no object]
+1 move from a lower position to a higher one; come or go up: the tiny aircraft rose from the ground. 
+• (of the sun, moon, or another celestial body) appear above the horizon: the sun had just risen. 
+• (of a fish) come to the surface of water: a fish rose and was hooked and landed. 
+• (of a voice) become higher in pitch: my voice rose an octave or two as I screamed. 
+• reach a higher position in society or one's profession: the officer was a man of great courage who had risen from the ranks. 
+• (rise above) succeed in not being limited or constrained by (a restrictive environment or situation): he struggled to rise above his humble background. 
+• (rise above) be superior to: I try to rise above prejudice.
+2 get up from lying, sitting, or kneeling: she pushed back her chair and rose. 
+• get out of bed, especially in the morning: I rose and got dressed. 
+• chiefly British (of a meeting or a session of a court) adjourn: the judge's remark heralded the signal for the court to rise. 
+• be restored to life: your sister has risen from the dead 
+he would rise again from the dead on the third day. 
+• (of a wind) start to blow or to blow more strongly: the wind continued to rise. 
+• (of a river) have its source: the Euphrates rises in Turkey. 
+• cease to be submissive, obedient, or peaceful: the activists urged militant factions to rise up. 
+• (rise to) (of a person) react with annoyance or argument to (provocation): he didn't rise to my teasing. 
+• (rise to) find the strength or ability to respond adequately to (a challenging situation): many participants in the race had never sailed before, but they rose to the challenge.
+3 (of land or a feature following the contours of the land) incline upward; become higher: the moorlands rise and fall in gentle folds. 
+• (of a building, mountain, or other high object or structure) be much taller than the surrounding landscape: the cliff rose more than a hundred feet above us. 
+• (of someone's hair) stand on end: he felt the hairs rise on the back of his neck. 
+• (of a building) undergo construction from the foundations: rows of two-story houses are slowly rising. 
+• (of dough) swell by the action of yeast: leave the dough in a warm place to rise. 
+• (of a bump, blister, or weal) appear as a swelling on the skin: blisters rose on his burned hand. 
+• (of a person's stomach) become nauseated: Fabio's stomach rose at the foul bedding.
+4 increase in number, size, amount, or quality: land prices had risen. 
+• (of the sea, a river, or other body of water) increase in height to a particular level, typically through tidal action or flooding: the river level rose so high the work had to be abandoned 
+figurative : the rising tide of crime. 
+• (of an emotion) develop and become more intense: he felt a tide of resentment rising in him. 
+• (of a sound) become louder; be audible above other sounds: her voice rose above the clamor. 
+• (of a person's mood) become more cheerful: her spirits rose as they left the ugly city behind. 
+• (of the color in a person's face) become deeper, especially as a result of embarrassment: he was teasing her, and she could feel her color rising. 
+• (of a barometer or other measuring instrument) give a higher reading.
+5 (rising) approaching (a specified age): she was thirty-nine rising forty 
+Polly shall have a young mare rising three years old. 
 ▶noun
-1 a price rise: increase, hike, leap, upsurge, upswing, climb, escalation.
-2 a rise in standards: improvement, amelioration, upturn, leap.
-3 her rise to power: progress, climb, promotion, elevation, aggrandizement.
-4 we walked up the rise: slope, incline, hillock, hill; formal eminence.
+1 an upward movement; an instance of becoming higher: the bird has a display flight of steep flapping rises. 
+• an act of a fish moving to the surface to take a fly or bait. 
+• an increase in sound or pitch: the rise and fall of his voice. 
+• an instance of social, commercial, or political advancement: few models have had such a meteoric rise. 
+• an upward slope or hill. 
+• the vertical height of a step, arch, or incline. 
+• another term for riser ( sense 2).
+2 an increase in amount, extent, size, or number: local people are worried by the rise in crime. 
+• British an increase in salary or wages.
+3 [in singular] a source; an origin: it was here that the brook had its rise. 
+PHRASES
+get (or take) a rise out of informal provoke an angry or irritated response from (someone), especially by teasing. on the rise becoming greater or more numerous; increasing: prices were on the rise. 
+• becoming more successful: young stars on the rise. rise and shine [usually in imperative] informal get out of bed smartly; wake up. rise to the bait see bait. rise with the sun (or lark) get up early in the morning.someone's star is rising someone is becoming more successful or popular.ORIGIN Old English rīsan ‘make an attack,’ ‘wake, get out of bed,’ of Germanic origin; related to Dutch rijzen and German reisen .

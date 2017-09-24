@@ -6,7 +6,15 @@ B.  transitive verb
 ① (obtain) 获得 huòdé ‹benefit, joy›to derive [something] from [something] 从某物中获得某物 
 ② Linguistics 衍生 yǎnshēng ‘canine’is derived from the Latin ‘canis’ canine源自拉丁文词canis 
 derive 
-▶verb
-1 he derives consolation from his poetry: obtain, get, take, gain, acquire, procure, extract, attain, glean.
-2 “coffee” derives from the Turkish “kahveh”: originate in, stem from, descend from, spring from, be taken from.
-3 his fortune derives from real estate: originate in, be rooted in; stem from, come from, spring from, proceed from, issue from.
+dəˈrīv
+
+▶verb [with object] (derive something from) obtain something from (a specified source): they derived great comfort from this assurance. 
+• (derive something from) base a concept on a logical extension or modification of (another concept): Eliot derived his poetics from the French Symbolists. 
+• [no object] (derive from) (of a word) have (a specified word, usually of another language) as a root or origin: the word “punch” derives from the Hindustani “pancha” 
+(be derived from) : the word “man” is derived from the Sanskrit “manu.” 
+• [no object] (derive from) arise from or originate in (a specified source): words whose spelling derives from Dr. Johnson's incorrect etymology. 
+• (be derived from) Linguistics (of an expression in a natural language) be linked by a set of stages to (its underlying abstract form). 
+• (be derived from) (of a substance) be formed or prepared by (a chemical or physical process affecting another substance): strong acids are derived from the combustion of fossil fuels. 
+• Mathematics obtain (a function or equation) from another by a sequence of logical steps, for example by differentiation. DERIVATIVES derivable 
+dəˈrīvəb(ə)l 
+adjectiveORIGIN late Middle English (in the sense ‘draw a fluid through or into a channel’): from Old French deriver or Latin derivare, from de- ‘down, away’ + rivus ‘brook, stream.’

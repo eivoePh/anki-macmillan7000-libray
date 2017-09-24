@@ -1,6 +1,15 @@
 satisfy 
-▶verb
-1 a last chance to satisfy his hunger for romance: fulfill, gratify, meet, fill; indulge, cater to, pander to; appease, assuage; quench, slake, satiate, sate, take the edge off. ANTONYMS frustrate.
-2 she satisfied herself that it had been an accident: convince, persuade, assure; reassure, put someone's mind at rest.
-3 products that satisfy the criteria: comply with, meet, fulfill, answer, conform to; measure up to, come up to; suffice, be good enough, fit/fill the bill.
-4 there was insufficient collateral to satisfy the loan: repay, pay (off), settle, make good, discharge, square, liquidate, clear.
+ˈsadəsˌfī
+
+▶verb (satisfies, satisfying, satisfied) [with object] meet the expectations, needs, or desires of (someone): I have never been satisfied with my job 
+[no object] : wealth, the promise of the eighties, has failed to satisfy. 
+• fulfill (a desire or need): social services is trying to satisfy the needs of so many different groups. 
+• provide (someone) with adequate information or proof so that they are convinced about something: [with object and clause] : people need to be satisfied that the environmental assessments are accurate 
+the chief engineer satisfied himself that it was not a weapon. 
+• adequately meet or comply with (a condition, obligation, or demand): the whole team is working to satisfy demand. 
+• Mathematics (of a quantity) make (an equation) true. 
+• pay off (a debt or creditor): there was insufficient collateral to satisfy the loan. DERIVATIVES satisfiability 
+ˌsatisˌfīəˈbilitē 
+noun. satisfiable 
+ˈsadəˌsfīəb(ə)l 
+adjectiveORIGIN late Middle English: from Old French satisfier, formed irregularly from Latin satisfacere ‘to content,’ from satis ‘enough’ + facere ‘make.’

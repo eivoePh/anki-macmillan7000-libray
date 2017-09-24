@@ -1,8 +1,15 @@
 background 
+ˈbakˌɡround
+
 ▶noun
-1 a background of palm trees: backdrop, backcloth, surrounding(s), setting, scene.
-2 students from many different backgrounds: social circumstances, family circumstances; environment, class, culture, tradition; upbringing.
-3 her nursing background: experience, record, history, past, training, education, grounding, knowledge; backstory.
-4 the political background: circumstances, context, conditions, situation, environment, milieu, scene, scenario.
-PHRASES
-in the background maybe there was a sugar daddy in the background: behind the scenes, out of the public eye, out of the spotlight, out of the limelight, backstage; inconspicuous, unobtrusive, unnoticed.
+1 [in singular] the area or scenery behind the main object of contemplation, especially when perceived as a framework for it: the house stands against a background of sheltering trees. 
+• the part of a picture or design that serves as a setting to the main figures or objects, or that appears furthest from the viewer: the background shows a landscape of domes and minarets 
+the word is written in white on a red background. 
+• a position or function that is not prominent or conspicuous: after that evening, Athens remained in the background. 
+• Computing used to describe tasks or processes running on a computer that do not need input from the user: programs can be left running in the background. 
+• Physics low-intensity radiation from radioisotopes present in the natural environment. 
+• unwanted signals, such as noise in the reception or recording of sound.
+2 the circumstances or situation prevailing at a particular time or underlying a particular event: the political and economic background 
+[as modifier] : background information. 
+• a person's education, experience, and social circumstances: she has a background in nursing 
+a mix of students from many different backgrounds.

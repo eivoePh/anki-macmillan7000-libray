@@ -4,6 +4,13 @@ noun
 ① (sth. produced) 产品 chǎnpǐn food products 食品 consumer products 消费品 the finished product 成品 children who are the products of broken homes figurative 破裂家庭的产儿 the product of [somebody's] imagination figurative 某人想象力的产物 the end product 最终结果 
 ② Mathematics （乘）积 (chéng)jī 
 product 
+ˈprädəkt
+
 ▶noun
-1 a household product: artifact, commodity, manufactured article; creation, invention; (products) goods, wares, merchandise, produce.
-2 his skill is a product of experience: result, consequence, outcome, effect, upshot, fruit, by-product, spin-off.
+1 an article or substance that is manufactured or refined for sale: marketing products and services 
+food products. 
+• a substance produced during a natural, chemical, or manufacturing process: waste products. 
+• a thing or person that is the result of an action or process: his daughter, the product of his first marriage. 
+• a person whose character and identity have been formed by a particular period or situation: an aging academic who is a product of the 1960s. 
+• commercially manufactured articles, especially recordings, viewed collectively: too much product of too little quality.
+2 Mathematics a quantity obtained by multiplying quantities together, or from an analogous algebraic operation. ORIGIN late Middle English (as a mathematical term): from Latin productum ‘something produced,’ neuter past participle (used as a noun) of producere ‘bring forth’ (see produce) .

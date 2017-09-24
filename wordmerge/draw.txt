@@ -108,26 +108,70 @@ A.  transitive verb[draw something up, draw up something]
 B.  reflexive verb to draw oneself up; 站得笔直 zhàn de bǐzhí 
 C.  intransitive verb 停下 tíngxià draw upon transitive verb = draw on 
 draw 
-▶verb
-1 he drew the house: sketch, make a drawing (of), delineate, outline, draft, rough out, illustrate, render, represent, trace; portray, depict.
-2 she drew her chair closer to the fire: pull, haul, drag, tug, heave, lug, trail, tow; informal yank.
-3 the train drew into the station: move, go, come, proceed, progress, travel, advance, pass, drive; inch, roll, glide, cruise; forge, sweep; back.
-4 she drew the curtains: close, shut, lower; open, part, pull back, pull open, fling open, raise.
-5 the doctor drew some fluid off the knee: drain, extract, withdraw, remove, suck, pump, siphon, milk, bleed, tap; Medicine aspirate.
-6 he drew his gun: pull out, take out, produce, fish out, extract, withdraw; unsheathe.
-7 I drew on my line of credit: withdraw, take out.
-8 while I draw breath: breathe in, inhale, inspire, respire.
-9 she was drawing huge audiences: attract, interest, win, capture, catch, engage, lure, entice; absorb, occupy, rivet, engross, fascinate, mesmerize, spellbind, captivate, enthrall, grip.
-10 what conclusion can we draw? deduce, infer, conclude, derive, gather, glean.
+drô
+
+▶verb (past drew 
+dro͞o
+; past participle drawn 
+drôn
+) [with object]
+1 produce (a picture or diagram) by making lines and marks, especially with a pen or pencil, on paper: he drew a map. 
+• produce an image of (someone or something) by making lines and marks: I asked her to draw me 
+[no object] : she draws really well. 
+• trace or produce (a line or mark) on a surface: she drew a wavering line down the board 
+figurative : where will we draw the outer boundaries of this Europe?
+2 pull or drag (something such as a vehicle) so as to make it follow behind: a cart drawn by two horses. 
+• pull or move (something) in a specified direction: I drew back the blanket and uncovered the body. 
+• gently pull or guide (someone) in a specified direction: “David,” she whispered, drawing him aside. 
+• [no object] move in a slow steady way: the driver slowed as he drew even with me 
+the train drew into the station. 
+• [no object] come to or arrive at a point in time or a specified point in a process: the campaign drew to a close 
+the time for the parade itself is drawing near. 
+• pull (curtains, blinds, or other such coverings) shut or open: do you want me to draw the drapes? 
+she drew back the curtains and looked out. 
+• make (wire) by pulling a piece of metal through successively smaller holes.
+3 extract (an object or liquid) from a container or receptacle: he drew his gun and peered into the gloomy apartment 
+the children went down to the pond to draw water 
+the syringe drew off most of the fluid 
+(as adjective drawn) : he met them with a drawn sword. 
+• run (a bath): she drew him a hot bath. 
+• (draw something from) obtain something from (a particular source): an independent panel of judges drawn from members of the public 
+he draws inspiration from ordinary scenes and simple places. 
+• (draw on) use (one's experience, talents, or skills) as a resource: Sue has a lot of past experience to draw on. 
+• obtain or withdraw (money) from a bank or other source: this check draws against my personal account. 
+• Hunting search (cover) for game. 
+• Bridge (of player) force the opponents to play (cards in a particular suit) by leading cards in that suit: before establishing his diamonds, declarer must draw trumps. 
+• (draw on) suck smoke from (a cigarette or pipe). 
+• [no object] (of a chimney, flue, or fire) allow air to flow in and upward freely, so that a fire can burn: failure of a fire to draw properly can have a number of causes. 
+• take in (a breath): Mrs. Feather drew a long breath and let it out. 
+• [no object] (of tea) be left standing so that the flavor is extracted from the leaves: a pot of tea is allowed to draw. 
+• disembowel: after a mockery of a trial he was hanged, drawn, and quartered.
+4 be the cause of (a specified response): he drew criticism for his lavish spending. 
+• attract (someone) to come to a place or an event: you really drew the crowds with your playing 
+customers drawn in by the reductions. 
+• (usually be drawn) induce (someone) to reveal or do something: I would rather not be drawn into your argument. 
+• direct or attract (someone's attention) to something: it was an outrage and we had to draw people's attention to it. 
+• reach (a conclusion) by deduction or inference from a set of circumstances: the moral to be drawn is that spending wins votes. 
+• formulate or perceive (a comparison or distinction): the law drew a clear distinction between innocent and fraudulent misrepresentation.
+5 Golf hit (the ball) so that it travels slightly to the left (for a left-handed player, the right), usually as a result of spin given to the ball: he had to learn to draw the ball—not least for the tee shots at Augusta. Compare with fade ( sense
+3 of the verb). 
+• Billiards impart backspin to (the cue ball), making it move backwards after hitting an object ball.
+6 (of a ship) require (a specified depth of water) to float in; have (a certain draft): boats that draw only a few inches of water.
+7 [no object] (of a sail) be filled with wind.
+8 British finish (a contest or game) with an even score; tie: [with object and complement] : Brazil had drawn a stormy match 1–1. 
 ▶noun
-1 the match ended in a draw: tie, dead heat, stalemate.
-2 the draw of the city: attraction, lure, allure, pull, appeal, glamour, enticement, temptation, charm, seduction, fascination, magnetism.
+1 an act of selecting names randomly, typically by extracting them from a bag or other container, to match competitors in a game or tournament: the draw has been made for this year's tournament.
+2 a game that ends with the score even; a tie.
+3 a person or thing that is very attractive or interesting: the museum has turned out to be a big draw for schoolchildren in the city.
+4 an act of inhaling smoke from a cigar: superb cigars offering tons of peppery smoke on each draw.
+5 an act of removing a gun from its holster in order to shoot.
+6 Golf a shot causing the ball to deviate to the left (or, for a left-handed golfer, the right). 
+• Billiards backspin imparted to a cue ball, causing it to move backwards after hitting an object ball. 
 PHRASES
-draw on you can always draw on your carpentry skills: call on, have recourse to, avail oneself of, turn to, look to, fall back on, rely on, exploit, use, employ, utilize, bring into play. draw out
-1 he drew out a gun. See draw (sense
-6 of the verb).
-2 they always drew out their goodbyes: prolong, protract, drag out, spin out, string out, extend, lengthen.
-3 you'll have to carefully draw him out with specific questions: encourage to talk, put at ease. draw up
-1 a car drew up beside us: stop, pull up, halt, come to a standstill, brake, park; arrive.
-2 we drew up a list: compose, formulate, frame, write down, draft, prepare, think up, devise, work out; create, invent, design.
-3 he drew up his forces in battle array: arrange, marshal, muster, assemble, group, order, range, rank, line up, dispose, position, array.
+draw a bead on see bead. draw a blank see blank. draw blood cause someone to bleed, especially in the course of a fight: the blow drew blood from the corner of his mouth 
+figurative : she knew she'd drawn blood when the smile faded from his face. draw fire attract hostile criticism, usually away from a more important target: the vaccination campaign continued to draw fire. draw lots see lot. draw the short straw see straw. quick on the draw very fast in taking one's gun from its holster. 
+• very fast in acting or reacting.PHRASAL VERBS draw back choose not to do something that one was expected to do: the government has drawn back from attempting reform. draw something down (or draw down) reduce the size of a military force in an area: more had to be done before the US could begin to draw down its forces in any significant number 
+we need to start letting them stand on their own feet, and that isn't going to happen until we start drawing down. 
+• withdraw money from a fund or loan facility: I'm not actually going to be drawing down any of the loan until early 1999 
+she would have to draw down on her $253,000 investments at a rate of 7.2 per cent. 
+• withdraw water, oil, or gas from a reservoir or repository: the state began drawing down some of its stored water. draw on (of a period of time) pass by and approach its end: he remembered sitting in silence with his grandmother as evening drew on. draw something on put an item of clothing on: she drew on her gloves. draw someone out gently or subtly persuade someone to talk or become more expansive: she drew me out and flattered me. draw something out make something last longer: the transition was long drawn out. draw up come to a halt: drivers drew up at the lights. draw something up prepare a plan, proposal, agreement, or other document in detail: they instructed an attorney to draw up a sales agreement. draw oneself up make oneself stand in a stiffly upright manner: Sarah drew herself up, full of indignation that he should presume to judge her.ORIGIN Old English dragan, of Germanic origin; related to Dutch dragen and German tragen, also to draft .

@@ -1,6 +1,6 @@
 navigation 
-BrE navɪˈɡeɪʃ(ə)n, AmE ˌnævəˈɡeɪʃ(ə)n 
-nounUncountable
-① (plotting of course) 导航 dǎoháng 
-② (steering, piloting) 驾驶 jiàshǐ 
-③ (passage) 航行 hángxíng there has been an increase in navigation along this canal 这条运河的来往船只有所增多 
+ˌnavəˈɡāSH(ə)n
+
+▶noun
+1 the process or activity of accurately ascertaining one's position and planning and following a route.
+2 the passage of ships: bridges to span rivers without hindering navigation. ORIGIN early 16th century (denoting the action of traveling on water): from French, or from Latin navigatio(n-), from the verb navigare (see navigate) .

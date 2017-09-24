@@ -1,14 +1,28 @@
 rank
 1 
+raNGk
+
 ▶noun
-1 she was elevated to an administrative rank: position, level, grade, echelon; class, status, standing; dated station.
-2 a family of rank: high standing, blue blood, high birth, nobility, aristocracy; eminence, distinction, prestige; prominence, influence, consequence, power.
-3 a rank of riflemen: row, line, file, column, string, train, procession.
-▶verb
-1 this orchid is ranked as endangered: classify, class, categorize, rate, grade, bracket, group, pigeonhole, designate; catalog, file, list.
-2 he ranked them in order of experience: prioritize, order, organize, arrange, list; triage.
-3 she ranked below the others: have a rank, be graded, have a status, be classed, be classified, be categorized; belong.
+1 a position in the hierarchy of the armed forces: an army officer of fairly high rank 
+he was promoted to the rank of Captain. 
+• a position within the hierarchy of an organization or society: only two cabinet members had held ministerial rank before. 
+• high social position: persons of rank and breeding. 
+• Statistics a number specifying position in a numerically ordered series.
+2 a single line of soldiers or police officers drawn up abreast. 
+• (the ranks) common soldiers as opposed to officers: he was fined and reduced to the ranks. 
+• (ranks) the people belonging to or constituting a group or class: the ranks of the unemployed. 
+• a regular row or line of things or people: conifer plantations growing in serried ranks. 
+• Chess each of the eight rows of eight squares running from side to side across a chessboard. Compare with file2.
+3 Mathematics the value or the order of the largest nonzero determinant of a given matrix. 
+• an analogous quantity in other kinds of groups. 
+▶verb [with object]
+1 give (someone or something) a rank or place within a grading system: rank them in order of preference 
+[with object and complement] : she is ranked number four in the world. 
+• [no object] have a specified rank or place within a grading system: he ranks with Newman as one of the outstanding English theologians. 
+• US take precedence over (someone) in respect to rank; outrank: the Secretary of State ranks all the other members of the cabinet.
+2 arrange in a rank or ranks: the tents were ranked in orderly rows. 
 PHRASES
-rank and file
-1 the officers and the rank and file: other ranks, soldiers, NCOs, noncommissioned officers, lower ranks, enlisted personnel; men, troops; informal noncoms.
-2 a speech appealing to the rank and file: people, common people, proletariat, masses, populace, commonality, plebeians; derogatory hoi polloi, rabble, riffraff, (great) unwashed, (common) herd, proles, plebs; humorous sheeple; historical third estate.
+break rank (or ranks) (of soldiers or police officers) fail to remain in line. 
+• fail to maintain solidarity: the government is prepared to break ranks with the Allied states.close ranks (of soldiers or police officers) come closer together in a line. 
+• unite in order to defend common interests: the family had always closed ranks in times of crisis. keep rank (of soldiers or police officers) remain in line. pull rank take unfair advantage of one's seniority or privileged position. rise through (or from) the ranks (of a private or a noncommissioned officer) receive a commission. 
+• advance in an organization by one's own efforts: he rose through the ranks to become managing director.ORIGIN Middle English: from Old French ranc, of Germanic origin; related to ring1 .

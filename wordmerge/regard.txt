@@ -14,14 +14,19 @@ D.  transitive verb
 ③ formal (pay attention to) 考虑 kǎolǜ ‹advice›without regarding our wishes 未考虑我们的愿望 
 ④ formal (concern) «point» 涉及 shèjí ‹topic›the next item on the agenda regards our current situation 议事日程上的下一项与我们的现状有关 
 regard 
-▶verb
-1 we regard these results as encouraging: consider, look on, view, see, think of, judge, deem, estimate, assess, reckon, adjudge, rate, gauge.
-2 he regarded her coldly: look at, contemplate, eye, gaze at, stare at; watch, observe, view, study, scrutinize; literary behold.
+rəˈɡärd
+
+▶verb [with object] consider or think of (someone or something) in a specified way: she regarded Omaha as her base 
+he was highly regarded by senators of both parties. 
+• gaze at steadily in a specified fashion: Professor Ryker regarded him with a faint smile. 
+• (of a thing) have relation to or connection with; concern: if these things regarded only myself, I could stand it with composure. 
+• archaic pay attention to; heed: he talked very wisely, but I regarded him not. 
 ▶noun
-1 she has no regard for human life: consideration, care, concern, thought, notice, heed, attention.
-2 doctors are held in high regard: esteem, respect, acclaim, admiration, approval, approbation, estimation.
-3 (regards) Jamie sends his regards: best wishes, good wishes, greetings, kind/kindest regards, felicitations, salutations, respects, compliments, best, love.
-4 his steady regard: look, fixed look, gaze, stare; observation, contemplation, study, scrutiny.
-5 in this regard I disagree with you: respect, aspect, point, item, particular, detail, specific; matter, issue, topic, question.
+1 attention to or concern for something: the court must have regard to the principle of welfare 
+she rescued him without regard for herself. 
+• high opinion; liking and respect; esteem: she had a particular regard for Eliot. 
+• [in singular] a gaze; a steady or significant look: he shifted uneasily before their clear regard.
+2 (regards) best wishes (used to express friendliness in greetings, especially at the end of letters): Warm regards, Helen 
+give her my regards. 
 PHRASES
-with/in regard to See regarding. 
+as regards concerning; with respect to: as regards content, the program will cover important current issues. in this (or that) regard in connection with the point previously mentioned: there was little incentive for them to be active in this regard. with (or in) regard to as concerns; with respect to: he made inquiries with regard to Beth.DERIVATIVES regardable adjectiveORIGIN Middle English: from Old French regarder ‘to watch,’ from re- ‘back’ (also expressing intensive force) + garder ‘to guard.’

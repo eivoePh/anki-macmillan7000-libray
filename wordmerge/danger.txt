@@ -4,7 +4,11 @@ noun
 ① Uncountable(risk) 危险 wēixiǎn to be in danger (of [something]); 处于（某事的）危险之中 to be out of danger; 脱离危险 to put [somebody]/[something] in danger 置某人/某物于危险之中 there is (no) danger in doing [something]/that … 做某事/…（没）有危险 the danger is that … 危险在于… 
 ② Countable(hazard) (person) 危险之人 wēixiǎn zhī rén (thing) 危险事物 wēixiǎn shìwù a danger to [somebody]/[something]; 对某人/某事物的威胁 
 danger 
-▶noun
-1 an element of danger: peril, hazard, risk, jeopardy; perilousness, riskiness, precariousness, uncertainty, instability, insecurity. ANTONYMS safety.
-2 that car is a danger on the roads: menace, hazard, threat, risk; informal death trap, widow-maker.
-3 a serious danger of fire: possibility, chance, risk, probability, likelihood, fear, prospect.
+ˈdānjər
+
+▶noun the possibility of suffering harm or injury: his life was in danger. 
+• a person or thing that is likely to cause harm or injury: infertile soils where drought is a danger. 
+• the possibility of something unwelcome or unpleasant: there was no danger of the champagne running out. 
+• British the status of a railroad signal indicating that the line is not clear and that a train should not proceed. 
+PHRASES
+in danger of likely to incur or to suffer from: the animal is in danger of extinction. out of danger (of a person who has suffered a serious injury or illness) not expected to die.ORIGIN Middle English: from Old French dangier, based on Latin dominus ‘lord.’ The original sense was ‘jurisdiction or power,’ specifically ‘power to harm,’ hence the current meaning ‘liability to be harmed.’

@@ -5,4 +5,11 @@ adjective
 ② (superfluous) 多余的 duōyú de ‹skills, word, detail›
 ③ Engin, Technology 冗余的 rǒngyú de ‹circuit, system›
 redundant 
-▶adjective the system is hobbled by redundant paperwork: unnecessary, not required, inessential, unessential, needless, unneeded, uncalled for; surplus, superfluous. ANTONYMS essential, necessary.
+rəˈdəndənt
+
+▶adjective not or no longer needed or useful; superfluous: this redundant brewery has been converted into a library 
+many of the old skills had become redundant. 
+• (of words or data) able to be omitted without loss of meaning or function: our peculiar affection for redundant phrases 
+most of the inflectional endings are redundant. 
+• Engineering (of a component) not strictly necessary to functioning but included in case of failure in another component. 
+• chiefly British (of a person) no longer employed because there is no more work available: eight permanent staff were made redundant. DERIVATIVES redundantly adverbORIGIN late 16th century (in the sense ‘abundant’): from Latin redundant- ‘surging up,’ from the verb redundare (see redound) .

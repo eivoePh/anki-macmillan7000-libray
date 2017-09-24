@@ -1,13 +1,26 @@
-shot 
+shot
+1 
+SHät
+
 ▶noun
-1 a shot rang out: bang, crack, blast; (shots) gunfire.
-2 the cannons have run out of shot: bullets, cannonballs, pellets, ammunition.
-3 the winning shot: stroke, hit, strike; kick, throw, pitch, lob.
-4 Mike was an excellent shot: marksman, markswoman, shooter.
-5 a shot of us on holiday: photograph, photo, snap, snapshot, picture, print, slide, still.
-6 informal it's nice to get a shot at driving: attempt, try; turn, chance, opportunity; informal go, stab, crack; formal essay.
-7 tetanus shots: injection, inoculation, immunization, vaccination, booster; informal jab, needle.
+1 the firing of a gun or cannon: he brought down a caribou with a single shot to the neck 
+figurative : the opening shots have been fired in a legal battle over repairs. 
+• an attempt to hit a target by shooting: he asked me if I would like to have a shot at a pheasant. 
+• [with modifier] the range of a gun or cannon: six more desperadoes came galloping up and halted just out of rifle shot. 
+• a critical or aggressive remark: Paul tried one last shot—“You realize what you want will cost more money?” 
+• [with adjective] a person with a specified level of ability in shooting: he was an excellent shot at short and long distances.
+2 a hit, stroke, or kick of the ball in sports such as basketball, tennis, or golf: his partner pulled off a winning backhand shot. 
+• an attempt to drive a ball into a goal; an attempt to score: he took a shot that the goalie stopped. 
+• informal an attempt to do something: several of the competitors will have a shot at the title.
+3 (plural same) a ball of stone or metal used as a missile fired from a large gun or cannon. 
+• (also lead shot) tiny lead pellets used in quantity in a single charge or cartridge in a shotgun. 
+• a heavy ball thrown by a shot-putter.
+4 a photograph: she took a shot of me holding a lamp near my face. 
+• a film sequence photographed continuously by one camera: the movie's opening shot is of a character walking across a featureless landscape. 
+• the range of a camera's view: a prop man was standing just out of shot.
+5 a small drink, especially of distilled liquor: he took a shot of whiskey. 
+• a single serving of espresso: steamed milk with a shot of espresso. 
+• an injection of a drug or vaccine: Jerry gave the monkey a shot of a sedative.
+6 [usually with modifier] the launch of a space rocket: a moon shot. 
 PHRASES
-a shot in the arm informal the new sidewalks and landscaping have been a shot in the arm to downtown commerce: boost, tonic, stimulus, spur, impetus, encouragement. a shot in the dark my answer was just a shot in the dark: (wild) guess, surmise, supposition, conjecture, speculation. like a shot informal when they called his name he ran on to the stage like a shot: without hesitation, unhesitatingly, eagerly, enthusiastically; immediately, at once, right away/now, straightaway, instantly, instantaneously, without delay; informal in/like a flash. long shot
-1 it's a long shot, but you could win big: gamble, venture, speculation, risk, chance, outside chance.
-2 he was the long shot in the sprint: underdog, dark horse, weaker one, little guy, David. not by a long shot he is not yet out of the woods, not by a long shot: by no (manner of) means, not at all, in no way, certainly not, absolutely not, definitely not.
+give it one's best shot informal do the best that one can. like a shot informal without hesitation; willingly: “Would you go back?” “Like a shot.” not by a long shot North American by no means: we're not there yet, not by a long shot. a shot across the bows see bow3. a shot in the arm informal an encouraging stimulus: the movie was a real shot in the arm for our crew. a shot in the dark see dark. ORIGIN Old English sc(e)ot, gesc(e)ot, of Germanic origin; related to German Geschoss, from the base of the verb shoot .

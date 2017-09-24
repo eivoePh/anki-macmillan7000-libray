@@ -10,8 +10,16 @@ C.  mains noun plural
 ① (network) (for water, gas, sewers) 管网系统 guǎnwǎng xìtǒng (for electricity) 电力网 diànlìwǎng is the house connected to the mains? 这幢房子通水电气了吗？ 
 ② (starting place of supply) (of water) 水源 shuǐyuán (of gas) 燃气源 ránqìyuán (of electricity) 电源 diànyuán to turn off the water at the mains 把水的总阀关掉 
 ③ before noun 主干线的 zhǔ gànxiàn de is the house on the mains supply? 这幢房子通水电气了吗？ a mains plug 电源插头 a mains radio 交流电收音机 
-main 
-▶adjective the main item: principal, chief, head, leading, foremost, most important, major, ruling, dominant, central, focal, key, prime, master, premier, primary, first, first-line, fundamental, supreme, predominant, (most) prominent, preeminent, paramount, overriding, cardinal, crucial, critical, pivotal, salient, elemental, essential, staple. ANTONYMS subsidiary, minor.
-▶noun a burst water main: pipe, channel, duct, conduit.
+main
+1 
+mān
+
+▶adjective [attributive] chief in size or importance: a main road 
+the main problem is one of resources. 
+▶noun
+1 a principal pipe carrying water or gas to buildings, or taking sewage from them: a faulty gas main. 
+• British a principal cable carrying electricity.
+2 (the main) archaic or literary the open ocean.
+3 Nautical short for mainsail or mainmast. 
 PHRASES
-in the main in the main, we want the menu to offer a nice selection of kosher alternatives. See mainly. 
+by main force through sheer strength. in the main on the whole; chiefly.ORIGIN Middle English: from Old English mægen ‘physical force,’ reinforced by Old Norse meginn, megn ‘strong, powerful,’ both from a Germanic base meaning ‘have power.’

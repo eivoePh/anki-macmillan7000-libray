@@ -22,9 +22,36 @@ noun
 ⑤ Countable BrE (picture, design) 转印图案 zhuǎnyìn tú'àn an iron-on transfer 烫印图案 
 ⑥ Countable AmE (ticket) a (bus/train) transfer （公共汽车/火车）换乘票 (gōnggòng qìchē/huǒchē)huànchéngpiào 
 transfer 
-▶verb
-1 the hostages were transferred to a safe house: move, convey, take, bring, shift, remove, carry, transport; transplant, relocate, resettle.
-2 the property was transferred to his wife: hand over, pass on, make over, turn over, sign over, consign, devolve, assign, delegate.
-▶noun
-1 he died shortly after his transfer to hospital: move, conveyance, transferral, transference, shift, relocation, removal, switch, transplantation.
-2 keep your bus transfer in your pocket: ticket, pass; receipt, proof of purchase.
+▶verb 
+transˈfər ˈtransfər 
+(transfers, transferring, transferred)
+1 move from one place to another: [with object] : he would have to transfer money to his own account 
+[no object] : I went to sleep on the couch before transferring to my bedroom later in the night. 
+• move to another group, occupation, or service: [no object] : she transferred to the Physics Department 
+[with object] : employees have been transferred to the installation team. 
+• [no object] enroll in a different school or college: Ron transferred to the University of Idaho. 
+• (in professional sports) move or cause to move to another team: [no object] : he transferred to the Dodgers 
+[with object] : when a player is transferred to the minors by a major league club. 
+• redirect (a telephone call) to another line or extension. 
+• [with object] copy (a drawing or design) from one surface to another. 
+• [with object] copy (data, music, etc.) from one medium or device to another: you can easily transfer your personal data to another PC using the export feature.
+2 [no object] change to another place, route, or means of transportation during a journey: John advised him to transfer from Rome airport to the railroad station.
+3 [with object] make over the possession of (property, a right, or a responsibility) to someone else.
+4 [with object] (usually as adjective transferred) change (the sense of a word or phrase) by extension or metaphor: a transferred use of the Old English noun. 
+▶noun 
+ˈtran(t)sfər 
+
+1 an act of moving something or someone to another place: a transfer of wealth to the poorer nations 
+she was going to ask her boss for a transfer to the city 
+a patient had died after transfer from the County Hospital to St. Peter's. 
+• British an act of selling or moving an athlete to another team: his transfer from Rangers cost £800,000. 
+• a student who has enrolled in a different school or college. 
+• a conveyance of property, especially stocks, from one person to another. 
+• the action of copying data from one medium or device to another.
+2 a small colored picture or design on paper that can be transferred to another surface by being pressed or heated: T-shirts with iron-on transfers.
+3 an act of changing to another place, route, or means of transportation during a journey: it took three hours and several bus transfers to get there. 
+• North American a ticket allowing a passenger to change from one public transportation vehicle to another as part of a single journey. DERIVATIVES transferee 
+ˌtran(t)sfəˈrē 
+noun. transferor 
+tran(t)sˈfərər ˈtran(t)sfərər 
+noun (chiefly Law). transferrer nounORIGIN late Middle English (as a verb): from French transférer or Latin transferre, from trans- ‘across’ + ferre ‘to bear.’ The earliest use of the noun (late 17th century) was as a legal term in the sense ‘conveyance of property.’

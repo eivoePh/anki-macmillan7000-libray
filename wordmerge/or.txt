@@ -6,11 +6,23 @@ conjunction
 ③ (indicating approximation) 或许 huòxǔ once or twice a week 每周一两次 buy him a tie or something 给他买条领带之类的东西 or so; 大约 in a week or so 大约一周后 
 ④ (otherwise) 否则 fǒuzé hurry up, or you'll be late 快点，要不然你就要迟到了 do as you're told, or else! colloquial 按吩咐的去做，否则的话，哼！ it can't have been serious, or she'd have called us 不会很严重，不然她就会给我们打电话了 
 ⑤ (in other words) 或者说 huòzhě shuō geology, or the science of the earth's crust 地质学，即研究地壳的科学 
-or 
-BrE ɔː, AmE ɔr 
-conjunction 
-① (linking alternatives, adding afterthought) 或者 huòzhě roasted, grilled, or fried 焙、烧烤或油煎的 do you have any brothers or sisters? 你有兄弟或姐妹吗？ with or without sugar? 要不要加糖？ I can't come today or tomorrow 我今明两天都不能来 I knew her, or at least I thought I did! 我认识她，或者至少我是这么认为的！ or rather; 更确切地说 my car, or rather our car 我的汽车，确切说是我们的汽车 it's all over, or is it? 都过去了吧，还是说没完？ 
-② (linking opposing alternatives) 还是 háishi will you or won't you come? 你来还是不来？ either … or …; 要么…要么… essays may be either handwritten or typed 文章可以手写，也可以打印 whether … or …; 是…还是… I didn't know whether to laugh or cry 我哭笑不得 whether (…) or not; 不管是否（…） whether you like it or not, whether or not you like it 不管你愿不愿意 [something] or no [something]; 无论是否有某物 car or no car, I've got to get to work 不管有没有汽车开，我都得去上班 
-③ (indicating approximation) 或许 huòxǔ once or twice a week 每周一两次 buy him a tie or something 给他买条领带之类的东西 or so; 大约 in a week or so 大约一周后 
-④ (otherwise) 否则 fǒuzé hurry up, or you'll be late 快点，要不然你就要迟到了 do as you're told, or else! colloquial 按吩咐的去做，否则的话，哼！ it can't have been serious, or she'd have called us 不会很严重，不然她就会给我们打电话了 
-⑤ (in other words) 或者说 huòzhě shuō geology, or the science of the earth's crust 地质学，即研究地壳的科学 
+or
+1 
+ôr
+
+▶conjunction
+1 used to link alternatives: a cup of tea or coffee 
+are you coming or not? 
+she couldn't read or write 
+I either take taxis or walk everywhere 
+it doesn't matter whether the theory is right or wrong.
+2 introducing a synonym or explanation of a preceding word or phrase: the espionage novel, or, as it is known in the trade, the thriller.
+3 otherwise (used to introduce the consequences of something not being done or not being the case): hurry up, or you'll miss it all.
+4 introducing an afterthought, usually in the form of a question: John's indifference—or was it?—left her unsettled.
+5 literary either: to love is the one way to know or God or man. 
+▶noun (often OR) Electronics a Boolean operator that gives the value one if at least one operand (or input) has a value of one, and otherwise has a value of zero. 
+• (also OR gate) a circuit that gives an output signal if there is a signal on any of its inputs. 
+PHRASES
+or else see else. or so (after a quantity) approximately: a dozen or so people.ORIGIN Middle English: a reduced form of the obsolete conjunction other (which superseded Old English oththe ‘or’), of uncertain ultimate origin. usage:
+1 Where a verb follows a list separated by or, the traditional rule is that the verb should be singular, as long as the things in the list are individually singular, as in a sandwich or other snack is included in the price (rather than a sandwich or other snack are included in the price). The argument is that each of the elements agrees separately with the verb. The opposite rule applies when the elements are joined by and—here the verb should be plural: a sandwich and a cup of coffee are included in the price. These traditional rules are observed in good English writing style but are often disregarded in speech.
+2 On the use of either … or, see usage at either .

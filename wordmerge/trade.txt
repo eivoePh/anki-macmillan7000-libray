@@ -20,15 +20,30 @@ C.  transitive verb
 ① (balance) 平衡 pínghéng ‹advantage, gain›to trade [something] off against [something]; 用某物平衡某物 you have to trade the pleasure off against the risk 你必须在享乐和风险之间权衡 
 ② (swap) 换取 huànqǔ ‹advantage, gain›to trade [something] off for [something]; 以某物换取某物 trade on transitive verb[trade on something] 利用 lìyòng trade up intransitive verb (give sth. in part-exchange for sth. more expensive) 折价换购 zhéjià huàngòu (sell sth. in order to buy sth. more expensive) 卖次买好 mài cì mǎi hǎo to trade up and get [something] 折价换购某物 to trade up to a larger house 卖掉小房买大房 
 trade 
+trād
+
 ▶noun
-1 the illicit trade in stolen cattle: commerce, buying and selling, dealing, traffic, trafficking, business, marketing, merchandising; dealings, transactions, deal-making.
-2 we shook hands as we made the trade: exchange, transaction, swap, trade-off; archaic truck.
-3 the glazier's trade: craft, occupation, job, career, profession, business, line of work, line, métier, vocation, calling, walk of life, field; work, employment, livelihood.
+1 the action of buying and selling goods and services: a move to ban all trade in ivory 
+a significant increase in foreign trade 
+the meat trade. 
+• dated, chiefly derogatory the practice of making one's living in business, as opposed to in a profession or from unearned income: the aristocratic classes were contemptuous of those in trade. 
+• North American (in sports) a transfer; an exchange: players can demand a trade after five years of service.
+2 a skilled job, typically one requiring manual skills and special training: the fundamentals of the construction trade 
+a carpenter by trade. 
+• (the trade) [treated as singular or plural] the people engaged in a particular area of business: in the trade this sort of computer is called “a client-based system.” 
+• (the trade) [treated as singular or plural] British people licensed to sell alcoholic drink. 
+• informal a person in gay male sexual encounters who is not penetrated sexually and usually considers himself to be heterosexual.
+3 (usually trades) a trade wind: the north-east trades. 
 ▶verb
-1 he made his fortune trading in beaver pelts: deal (in), buy and sell, traffic (in), market, merchandise, peddle, vend; informal hawk, run.
-2 the business is trading at a loss: operate, run, do business.
-3 I traded the old machine for a newer model: swap, exchange, switch; barter, trade in.
+1 [no object] buy and sell goods and services: middlemen trading in luxury goods. 
+• [with object] buy or sell (a particular item or product): she has traded millions of dollars' worth of metals. 
+• (especially of shares or currency) be bought and sold at a specified price: the dollar was trading where it was in January.
+2 [with object] exchange (something) for something else, typically as a commercial transaction: they trade mud-shark livers for fish oil 
+the hostages were traded for arms. 
+• give and receive (something, typically insults or blows): they traded a few punches. 
+• North American transfer (a player) to another club or team. 
 PHRASES
-trade on he trades on his friendship with powerful people: exploit, take advantage of, capitalize on, profit from, use, make use of; milk; informal cash in on. 
-WORD LINKS
-trade mercantile relating to trade or commerceWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+trade places US change places.PHRASAL VERBS trade down (or up) sell something in order to buy something similar but less (or more) expensive.trade something in exchange a used article in part payment for another: she traded in her Ford for a BM
+W.  trade something off exchange something of value, especially as part of a compromise: the government traded off economic advantages for political gains. trade on take advantage of (something), especially in an unfair way: the government is trading on fears of inflation.DERIVATIVES tradable 
+ˈtrādəb(ə)l 
+(or tradeable) adjectiveORIGIN late Middle English (as a noun): from Middle Low German, literally ‘track’; related to tread. Early senses included ‘course, way of life,’ which gave rise in the 16th century to ‘habitual practice of an occupation,’ ‘skilled handicraft.’ The current verb senses date from the late 16th century.

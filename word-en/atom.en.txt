@@ -1,4 +1,6 @@
 atom 
-▶noun
-1 they build tiny circuits atom by atom: particle, molecule, bit, piece, fragment, fraction.
-2 there wasn't an atom of truth in the allegations: grain, iota, jot, whit, mite, scrap, shred, ounce, scintilla, trace, smidgen, modicum.
+ˈadəm
+
+▶noun the basic unit of a chemical element. 
+• atoms as a source of nuclear energy: the power of the atom. 
+• [usually with negative] an extremely small amount of a thing or quality: I shall not have one atom of strength left. An atom, roughly 10−8 cm in diameter, consists of a tiny, dense, positively charged nucleus made of neutrons and protons, surrounded by a cloud of negatively charged electrons. Each chemical element consists of atoms that possess a characteristic number of protons. Atoms are held together in molecules by sharing electrons. ORIGIN late 15th century: from Old French atome, via Latin from Greek atomos ‘indivisible,’ based on a- ‘not’ + temnein ‘to cut.’

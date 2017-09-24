@@ -22,16 +22,25 @@ C.  intransitive verb
 ③ (grow blunt) «blade, edge» 变钝 biàndùn 
 ④ (lose intensity) «pain, anguish» 减轻 jiǎnqīng ; «delight, pleasure» 减少 jiǎnshǎo 
 dull 
+dəl
+
 ▶adjective
-1 a dull novel: uninteresting, boring, tedious, monotonous, unrelieved, unvaried, unimaginative, uneventful; characterless, featureless, colorless, lifeless, insipid, unexciting, uninspiring, unstimulating, uninvolving, jejune, flat, bland, dry, stale, tired, banal, lackluster, ho-hum, stodgy, dreary, humdrum, mundane; mind-numbing, wearisome, tiring, tiresome, irksome, dullsville. ANTONYMS interesting.
-2 a dull morning: overcast, cloudy, gloomy, dark, dismal, dreary, somber, gray, murky, sunless. ANTONYMS sunny, bright.
-3 dull colors: drab, dreary, somber, dark, subdued, muted, lackluster, faded, washed out, muddy, dingy. ANTONYMS bright.
-4 a dull sound: muffled, muted, quiet, soft, faint, indistinct; stifled, suppressed. ANTONYMS loud, resonant.
-5 the chisel became dull: blunt, unsharpened, edgeless, worn down. ANTONYMS sharp.
-6 a rather dull child: unintelligent, stupid, slow, witless, vacuous, empty-headed, stunned, brainless, mindless, foolish, idiotic; informal dense, dim, moronic, halfwitted, thick, dumb, dopey, dozy, bovine, slow on the uptake, wooden-headed, fat-headed. ANTONYMS clever.
-7 her cold made her feel dull: sluggish, lethargic, enervated, listless, languid, torpid, slow, sleepy, drowsy, weary, tired, fatigued; apathetic; informal dozy, dopey, yawny, logy. ANTONYMS lively.
-▶verb
-1 the pain was dulled by drugs: lessen, decrease, diminish, reduce, dampen, blunt, deaden, allay, ease, soothe, assuage, alleviate. ANTONYMS intensify.
-2 sleep dulled her mind: numb, benumb, deaden, desensitize, stupefy, daze. ANTONYMS enliven.
-3 rain dulled the sky: darken, blacken, dim, veil, obscure, shadow, fog. ANTONYMS brighten.
-4 the somber atmosphere dulled her spirit: dampen, lower, depress, crush, sap, extinguish, smother, stifle. ANTONYMS raise, brighten.
+1 lacking interest or excitement: your diet doesn't have to be dull and boring. 
+• archaic (of a person) feeling bored and dispirited: she said she wouldn't be dull and lonely.
+2 lacking brightness, vividness, or sheen: his face glowed in the dull lamplight 
+his black hair looked dull. 
+• (of the weather) overcast; gloomy: next morning dawned dull. 
+• (of sound) not clear; muffled: a dull thud of hooves. 
+• (of pain) indistinctly felt; not acute: there was a dull pain in his lower jaw. 
+• (of an edge or blade) blunt: a lot more people are cut with dull knives than with sharp ones.
+3 (of a person) slow to understand; stupid: the voice of a teacher talking to a rather dull child. 
+• archaic (of a person's senses) not perceiving things distinctly; insensitive. 
+• (of activity) sluggish, slow-moving: gold closed lower in dull trading. 
+▶verb make or become dull or less intense: [with object] : time dulls the memory 
+[no object] : Albert's eyes dulled a little. 
+PHRASES
+(as) dull as dishwater extremely dull.dull the edge of cause to be less keenly felt; reduce the intensity or effectiveness of: she'd have to find something to dull the edges of the pain.DERIVATIVES dullish 
+ˈdəliSH 
+adjective. dully 
+ˈdəlˌlē 
+adverbORIGIN Old English dol ‘stupid,’ of Germanic origin; related to Dutch dol ‘crazy’ and German toll ‘mad, fantastic, wonderful.’

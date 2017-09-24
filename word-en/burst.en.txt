@@ -1,13 +1,23 @@
 burst 
-▶verb
-1 one balloon burst: split open, rupture, break, tear.
-2 a shell burst in the distance: explode, blow up, detonate, go off.
-3 water burst through the hole: break, erupt, surge, gush, rush, stream, flow, pour, spill; spout, spurt, jet, spew.
-4 he burst into the room: barge, charge, plunge, plow, hurtle, career, careen, rush, dash, tear.
-5 they burst into tears: break out in, launch into, erupt in, have a fit of.
-▶noun
-1 mortar bursts: explosion, detonation, blast, eruption, bang.
-2 a burst of gunfire: volley, salvo, fusillade, barrage, discharge; hail, rain.
-3 a burst of activity: outbreak, eruption, flare-up, blaze, attack, fit, rush, gale, storm, surge, upsurge, spurt.
+bərst
+
+▶verb (past and past participle burst) [no object] (of a container) break suddenly and violently apart, spilling the contents, typically as a result of an impact or internal pressure: we inflated dozens of balloons and only one burst. 
+• [with object] cause to burst: he burst the balloon 
+the swollen river was expected to burst its banks. 
+• be so full as almost to break open: the drawers were bursting with clothes. 
+• feel a very strong or irrepressible emotion or impulse: he was bursting with joy and excitement 
+[with infinitive] : she was bursting to say something. 
+• suddenly begin doing something as an expression of a strong feeling: if anyone said anything to upset me, I'd burst out crying 
+she burst into a fresh flood of tears. 
+• issue suddenly and uncontrollably, as though from a splitting container: the words burst from him in an angry rush 
+an aircraft crashed and burst into flames. 
+• be opened suddenly and forcibly: a door burst open and a girl raced out. 
+• [with adverbial of direction] make one's way suddenly and typically violently: he burst into the room without knocking. 
+• [with object] separate (continuous stationery) into single sheets. 
+▶noun an instance of breaking or splitting as a result of internal pressure or puncturing; an explosion. 
+• a sudden issuing forth: her breath was coming in short bursts. 
+• a sudden outbreak, typically short and often violent or noisy: a sudden burst of activity 
+he heard a burst of gunfire. 
+• a short, sudden, and intense effort: he sailed 474 miles in one 24-hour burst. 
 PHRASES
-burst out “I don't care!” she burst out: exclaim, blurt, cry, shout, yell; dated ejaculate.
+burst someone's bubble see bubble. ORIGIN Old English berstan, of Germanic origin; related to Dutch bersten, barsten .

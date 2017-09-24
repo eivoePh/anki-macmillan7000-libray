@@ -7,8 +7,12 @@ noun
 ③ Countable BrE History (for washing) 大铜锅 dà tóngguō 
 copper
 1 
-BrE ˈkɒpə, AmE ˈkɑpər 
-noun 
-① UncountableChemistry 铜 tóng copper pipe/alloy 铜管/铜合金 
-② Countable BrE colloquial (coin) 铜币 tóngbì it only costs a few coppers 这东西花不了几个钱 
-③ Countable BrE History (for washing) 大铜锅 dà tóngguō 
+ˈkäpər
+
+▶noun
+1 a red-brown metal, the chemical element of atomic number 29. American copper (Symbol: Cu) Copper was the earliest metal to be used by humans, first by itself and then later alloyed with tin to form bronze. A ductile, easily worked metal, it is a very good conductor of heat and electricity and is used especially for electrical wiring.
+2 dated a copper coin, especially a penny: you could hire a raft for a few coppers.
+3 a reddish-brown color like that of copper.
+4 [with modifier] a small butterfly of North America and Eurasia. The upper surface of its wings is typically bright reddish-orange or purple. [Genus Lycaena, family Lycaenidae: numerous species, including the American copper (
+L.  phlaeas) of the eastern US and arctic North America.] 
+▶verb [with object] cover or coat (something) with copper. ORIGIN Old English copor, coper (related to Dutch koper and German Kupfer), based on late Latin cuprum, from Latin cyprium aes ‘Cyprus metal’ (so named because Cyprus was the chief source).

@@ -1,12 +1,15 @@
-pose 
+pose
+1 
+pōz
+
 ▶verb
-1 pollution poses a threat to health: constitute, present, create, cause, produce, be.
-2 the question posed earlier: raise, ask, put, set, submit, advance, propose, suggest, moot.
-3 she posed for the artist: model, sit.
-4 he posed her on the sofa: position, place, put, arrange, dispose, locate, situate.
-5 I wonder what poor sucker she's posing for tonight: behave affectedly, strike a pose, posture, attitudinize, put on airs; informal show off.
+1 [with object] present or constitute (a problem, danger, or difficulty): the sheer number of visitors is posing a threat to the area. 
+• raise (a question or matter for consideration): a statement that posed more questions than it answered.
+2 [no object] assume a particular attitude or position in order to be photographed, painted, or drawn: she posed for a swarm of TV cameramen. 
+• [with object] place (someone) in a particular attitude or position in order to be photographed, painted, or drawn: he posed her on the sofa. 
+• (pose as) set oneself up as or pretend to be (someone or something): a detective posing as a customer 
+figurative : a literary novel posing as a spy thriller.
+3 behave affectedly in order to impress others: some people like to drive these cars, but most just like to pose in them. 
 ▶noun
-1 a sexy pose: posture, position, stance, attitude, bearing.
-2 her pose of aggrieved innocence: pretense, act, affectation, facade, show, front, display, masquerade, posture.
-PHRASES
-pose as they pay us to pose as the celebrities we resemble: pretend to be, impersonate, pass oneself off as, masquerade as, profess to be, represent oneself as; formal personate.
+1 a particular way of standing or sitting, usually adopted for effect or in order to be photographed, painted, or drawn: photographs of boxers in ferocious poses.
+2 a particular way of behaving adopted in order to give others a false impression or to impress others: the man dropped his pose of amiability. DERIVATIVES posable adjectiveORIGIN Middle English: from Old French poser (verb), from late Latin pausare ‘to pause,’ which replaced Latin ponere ‘to show off.’ The noun dates from the early 19th century.

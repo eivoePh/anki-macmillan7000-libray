@@ -1,10 +1,25 @@
 depth 
+depTH
+
 ▶noun
-1 the depth of the caves: deepness, distance downward, distance inward; drop, vertical extent; archaic profundity. ANTONYMS shallowness.
-2 the depth of his knowledge: extent, range, scope, breadth, width; magnitude, scale, degree.
-3 her lack of depth: profundity, deepness, wisdom, understanding, intelligence, sagacity, discernment, penetration, insight, astuteness, acumen, shrewdness; formal perspicuity. ANTONYMS shallowness.
-4 a work of great depth: complexity, intricacy; profundity, gravity, weight. ANTONYMS triviality.
-5 depth of color: intensity, richness, deepness, vividness, strength, brilliance.
-6 (depths) the depths of the sea: deepest part, bottom, floor, bed; abyss. ANTONYMS surface.
+1 the distance from the top or surface of something to its bottom: shallow water of no more than
+12 feet in depth. 
+• distance from the nearest to the farthest point of something or from the front to the back: the depth of the wardrobe. 
+• used to specify the distance below the top or surface of something to which someone or something percolates or at which something happens: [in singular] : loosen the soil to a depth of
+8 inches. 
+• the apparent existence of three dimensions in a picture, photograph, or other two-dimensional representation; perspective: texture in a picture gives it depth. 
+• lowness of pitch: my voice had not yet acquired husky depths.
+2 complexity and profundity of thought: the book has unexpected depth. 
+• extensive and detailed study or knowledge: third-year courses typically go into more depth. 
+• intensity of emotion, usually considered as a laudable quality: a man of compassion and depth of feeling. 
+• intensity of color: the wine shows good depth of color.
+3 (the depths) a point far below the surface: he lifted the manhole cover and peered into the depths beneath. 
+• (also the depth) the worst or lowest part or state:
+4 a.m. in the depths of winter 
+the putrid depths to which morality has sunk. 
+• a time when one's negative feelings are at their most intense: she was in the depths of despair. 
+• a place that is remote and inaccessible: a remote little village somewhere in the depths of Russia.
+4 the strength of a sports team in its reserve of substitute players: they have so much depth that they could afford the luxury of breaking in their players slowly. 
 PHRASES
-in depth choose one aspect of the case and investigate it in depth: thoroughly, extensively, comprehensively, rigorously, exhaustively, completely, fully; meticulously, scrupulously, painstakingly.
+hidden depths usually admirable but previously unnoticed qualities of a person: hidden depths and insights within children. in depth in great detail; comprehensively and thoroughly: research students pursue a specific aspect of a subject in depth. See also in-depth. out of one's depth in water too deep to stand in. 
+• beyond one's knowledge or ability to cope: the governor is out of his depth, politically adrift.ORIGIN late Middle English: from deep + -th2, on the pattern of pairs such as long, length.

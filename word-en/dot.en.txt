@@ -1,7 +1,17 @@
-dot 
-▶noun a pattern of tiny dots: spot, speck, fleck, speckle; decimal point, period, pixel.
-▶verb
-1 spots of rain dotted his shirt: spot, fleck, mark, stipple, freckle, sprinkle; literary bestrew, besprinkle.
-2 the streets are dotted with restaurants: scatter, pepper, sprinkle, strew.
+dot
+1 
+dät
+
+▶noun a small round mark or spot: a symbol depicted in colored dots. 
+• a dot written or printed as part of an i or j, as a diacritical mark, as one of a series of marks to signify omission, or as a period. 
+• Music a dot used to denote the lengthening of a note or rest by half, or to indicate staccato. 
+• the shorter signal of the two used in Morse code. Compare with dash ( sense
+3 of the noun). 
+• used to refer to an object that appears tiny because it is far away: the desert shrank figures to mere dots. 
+• used to indicate the punctuation separating parts of an email or website address: drop me a note at heatvision dot com. 
+▶verb (dots, dotting, dotted) [with object] mark with a small spot or spots: wet spots of rain began to dot his shirt. 
+• (of a number of items) be scattered over (an area): churches dot the countryside. 
+• place a dot over (a letter): you need to dot the i. 
+• Music mark (a note or rest) to show that the time value is increased by half: (as adjective dotted) : a dotted quarter note. 
 PHRASES
-on the dot informal ring the bell at 1:15 on the dot: precisely, exactly, sharp, prompt, dead on, on the stroke of ——; informal on the button, on the nose.
+dot the i's and cross the t's informal ensure that all details are correct. on the dot informal exactly on time: he arrived on the dot at nine o'clock.DERIVATIVES dotter nounORIGIN Old English dott ‘head of a boil.’ The word is recorded only once in Old English, then not until the late 16th century, when it is found in the sense ‘a small lump or clot,’ perhaps influenced by Dutch dot ‘a knot.’ The sense ‘small mark or spot’ dates from the mid 17th century.

@@ -1,5 +1,11 @@
 difference 
-▶noun
-1 the difference between the two sets of data: dissimilarity, contrast, distinction, differentiation, variance, variation, divergence, disparity, deviation, polarity, gulf, gap, imbalance, contradiction, contradistinction. ANTONYMS similarity.
-2 we've had our differences in the past: disagreement, difference of opinion, dispute, argument, quarrel, wrangle, contretemps, altercation; informal tiff, set-to, run-in, spat, row.
-3 I am willing to pay the difference: balance, remainder, rest, remaining amount, residue.
+ˈdif(ə)rəns
+
+▶noun a point or way in which people or things are not the same: the differences between men and women. 
+• the state or condition of being dissimilar or unlike: their difference from one another. 
+• a disagreement, quarrel, or dispute: the couple are patching up their differences. 
+• a quantity by which amounts differ; the remainder left after subtraction of one value from another: the gross margin is the difference between the total cost of the goods and the final selling price. 
+• Heraldry an alteration in a coat of arms to distinguish members or branches of a family. 
+▶verb [with object] Heraldry alter (a coat of arms) to distinguish members or branches of a family. 
+PHRASES
+make a (or no) difference have a significant effect (or no effect) on a person or situation: the law will make no difference to my business. with a difference having a new or unusual feature or treatment: a fashion show with a difference.ORIGIN Middle English: via Old French from Latin differentia (see differentia) .

@@ -10,8 +10,13 @@ A.  noun
 B.  transitive verb 暗示 ànshì to hint (to [somebody]) that … （向某人）暗示说… 
 C.  intransitive verb 暗示 ànshì to hint at [something] 暗示某事 to keep hinting about [something] 一直在暗示某事物 
 hint 
-▶noun
-1 a hint that he would leave: clue, inkling, suggestion, indication, indicator, sign, signal, pointer, intimation, insinuation, innuendo, mention, whisper.
-2 handy hints about painting: tip, suggestion, pointer, clue, guideline, recommendation; advice, help; informal how-to.
-3 a hint of mint: trace, touch, suspicion, suggestion, dash, soupçon, tinge, modicum, whiff, taste, undertone; informal smidgen, tad, speck.
-▶verb what are you hinting at ? imply, insinuate, intimate, suggest, indicate, signal; allude to, refer to, drive at, mean; informal get at.
+hint
+
+▶noun a slight or indirect indication or suggestion: he has given no hint of his views. 
+• a small piece of practical information or advice: handy hints about what to buy. 
+• a very small trace of something: Randy smiled with a hint of mockery. 
+▶verb [no object] suggest or indicate something indirectly or covertly: there were those who hinted at doctored evidence 
+[with clause] : Edwards has hinted that he will dispose of his majority shareholding. 
+• (hint at) (of a thing) be a slight or possible indication of: the restrained fronts of the terraced houses only hinted at the wealth within. 
+PHRASES
+drop a hint see drop. take a (or the) hint understand and act on a hint: she tried to put him off but he didn't take the hint.ORIGIN early 17th century (in the sense ‘occasion, opportunity’): apparently from obsolete hent ‘grasp, get hold of,’ from Old English hentan, of Germanic origin; related to hunt. The basic notion is ‘something that may be taken advantage of.’

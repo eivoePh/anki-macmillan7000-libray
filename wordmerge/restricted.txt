@@ -2,8 +2,9 @@ restricted
 BrE rɪˈstrɪktɪd, AmE rəˈstrɪktəd 
 adjective 有限的 yǒuxiàn de ‹circulation, choice, visibility›; 受控制的 shòu kòngzhì de ‹development, quantity›a restricted market 限制性市场 a restricted document 保密文件 
 restricted 
-▶adjective
-1 restricted space: cramped, confined, constricted, small, narrow, tight. ANTONYMS roomy.
-2 a restricted calorie intake: limited, controlled, regulated, reduced, rangebound. ANTONYMS unlimited.
-3 a restricted zone: out of bounds, off limits, private, exclusive. ANTONYMS public.
-4 restricted information: secret, top secret, classified; informal hush-hush.
+rəˈstriktəd
+
+▶adjective [attributive] limited in extent, number, scope, or action: Western scientists had only restricted access to the site. 
+• (of a document or information) for limited circulation and not to be revealed to the public for reasons of national security. 
+• Biology (of a virus) unable to reproduce at its normal rate in certain hosts. 
+• Biochemistry (of DNA) subject to degradation by a restriction enzyme. DERIVATIVES restrictedly adverb. restrictedness noun

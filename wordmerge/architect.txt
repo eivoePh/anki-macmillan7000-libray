@@ -4,6 +4,8 @@ noun
 ① (designer of buildings) 建筑设计师 jiànzhù shèjìshī 
 ② figurative (deviser) 设计师 shèjìshī 
 architect 
-▶noun
-1 the architect of St. Mary's Cathedral: designer, planner, draftsman.
-2 Andrew was the architect of the plan: originator, author, creator, founder, father, founding father; engineer, inventor, mastermind; literary begetter.
+ˈärkəˌtekt
+
+▶noun a person who designs buildings and in many cases also supervises their construction. 
+• a person who is responsible for inventing or realizing a particular idea or project: a chief architect of the plan to slash income taxes. 
+▶verb [with object] (usually be architected) Computing design and make: few software packages were architected with Ethernet access in mind. ORIGIN mid 16th century: from French architecte, from Italian architetto, via Latin from Greek arkhitektōn, from arkhi- ‘chief’ + tektōn ‘builder.’

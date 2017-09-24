@@ -15,12 +15,22 @@ transitive verb
 D.  /BrE ˈmɒdəreɪt, AmE ˈmɑdəˌreɪt
 intransitive verb «weather» 转好 zhuǎn hǎo ; «storm, wind» 减弱 jiǎnruò ; «opinions» 变得温和 biàn de wēnhé ; «drinking» 有节制 yǒu jiézhì ; «hostility» 减弱 jiǎnruò 
 moderate 
-▶adjective
-1 moderate success: average, modest, medium, middling, ordinary, common, commonplace, everyday, workaday; tolerable, passable, adequate, fair; mediocre, indifferent, unexceptional, unremarkable, run-of-the-mill; informal OK, so-so, ‘comme ci, comme ça’, fair-to-middling, plain-vanilla, no great shakes, not up to much. ANTONYMS great, massive.
-2 moderate prices: reasonable, acceptable; inexpensive, low, fair, modest. ANTONYMS outrageous, unreasonable.
-3 moderate views: middle-of-the-road, nonextreme, nonradical, centrist. ANTONYMS extreme.
-4 moderate behavior: restrained, controlled, sober; tolerant, lenient. ANTONYMS unreasonable.
-▶verb
-1 the wind has moderated somewhat: die down, abate, let up, calm down, lessen, decrease, diminish; recede, weaken, subside. ANTONYMS increase.
-2 you can help to moderate her anger: curb, control, check, temper, restrain, subdue; repress, tame, lessen, decrease, lower, reduce, diminish, alleviate, allay, appease, assuage, ease, soothe, calm, tone down. ANTONYMS exacerbate, aggravate.
-3 the panel was moderated by one of the writers: chair, take the chair of, preside over.
+▶adjective 
+ˈmäd(ə)rət 
+average in amount, intensity, quality, or degree: we walked at a moderate pace. 
+• (of a person, party, or policy); not radical or excessively right- or left-wing: a moderate reform program. 
+▶noun 
+ˈmäd(ə)rət 
+a person who holds moderate views, especially in politics. 
+▶verb 
+ˈmädəˌrāt 
+
+1 make or become less extreme, intense, rigorous, or violent: [with object] : I shall not moderate my criticism 
+(as adjective moderating) : his moderating influence in the army was now needed more than ever 
+[no object] : the weather has moderated considerably.
+2 [with object] (in academic and ecclesiastical contexts) preside over (a deliberative body) or at (a debate): a panel moderated by a Harvard University law professor. 
+• [no object] preside; act as a moderator.
+3 [with object] monitor (an Internet forum or online discussion) for inappropriate or offensive content.
+4 [with object] Physics retard (neutrons) with a moderator. DERIVATIVES moderatism 
+-ˌtizəm 
+nounORIGIN late Middle English: from Latin moderat- ‘reduced, controlled,’ from the verb moderare; related to modest .

@@ -1,10 +1,18 @@
-log 
+log
+1 
+lôɡ läɡ
+
 ▶noun
-1 a fallen log: branch, trunk; piece of wood; (logs) timber, firewood.
-2 a log of phone calls: record, register, logbook, journal, diary, minutes, chronicle, daybook, record book, ledger, account, tally; trademark daytimer.
-▶verb
-1 all complaints are logged: register, record, make a note of, note down, write down, jot down, put in writing, enter, file.
-2 the pilot had logged 95 hours: attain, achieve, chalk up, make, do, go.
-3 he was injured while logging: cut down trees, chop down trees, fell trees, clear cut, harvest trees.
+1 a part of the trunk or a large branch of a tree that has fallen or been cut off.
+2 (also logbook) an official record of events during the voyage of a ship or aircraft: a ship's log. 
+• a regular or systematic record of incidents or observations: keep a detailed log of your activities.
+3 an apparatus for determining the speed of a ship, originally consisting of a float attached to a knotted line wound on a reel, the distance run out in a certain time being used as an estimate of the vessel's speed. 
+▶verb (logs, logging, logged) [with object]
+1 enter (an incident or fact) in the log of a ship or aircraft or in another systematic record: the incident has to be logged 
+the red book where we log our calls. 
+• (of a ship, aircraft, or pilot) achieve (a certain distance, speed, or time): she had logged more than 12,000 miles since she had been launched. 
+• make a systematic recording of (events, observations, or measurements): the virus can log keystrokes that you make when you access all sorts of services.
+2 cut down (an area of forest) in order to exploit the timber commercially. 
 PHRASES
-log in just go to our Web site and log in: sign in, register, enter, log on.
+(as) easy as falling off a log informal very easy.PHRASAL VERBS log in (or on) go through the procedures to begin use of a computer, database, or system. log off (or out) go through the procedures to conclude use of a computer, database, or system.ORIGIN Middle English (in the sense ‘bulky mass of wood’): of unknown origin; perhaps symbolic of the notion of heaviness. Sense
+3 of the noun originally denoted a thin quadrant of wood loaded to float upright in the water, whence ‘ship's journal’ in which information from the log board was recorded.

@@ -4,6 +4,9 @@ noun
 ① (list of dishes) 菜单 càidān [something] is on/off the menu; 菜单上有/没有某物 to put or take [something] on/off the menu; 将某物加入/撤出菜单 
 ② Computing 功能菜单 gōngnéng càidān 
 menu 
-▶noun
-1 she studied the menu before ordering: bill of fare, carte du jour, table d'hôte; set menu; wine list.
-2 a drop-down menu: list of commands, options, toolbar.
+ˈmenyo͞o
+
+▶noun (plural menus) a list of dishes available in a restaurant: the waiter handed her a menu 
+figurative : politics and sport are on the menu tonight. 
+• the food available or to be served in a restaurant or at a meal: a no-fuss dinner-party menu. 
+• Computing a list of commands or options, especially one displayed on screen. ORIGIN mid 19th century: from French, ‘detailed list’ (noun use of menu ‘small, detailed’), from Latin minutus ‘very small.’

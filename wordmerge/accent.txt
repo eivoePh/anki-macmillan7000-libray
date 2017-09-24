@@ -8,9 +8,19 @@ transitive verb
 ① Linguistics 重读 zhòngdú Music 以重音演奏 yǐ zhòngyīn yǎnzòu 
 ② figurative (make prominent) 强调 qiángdiào 
 accent 
-▶noun
-1 a Bronx accent: pronunciation, intonation, enunciation, articulation, inflection, tone, modulation, cadence, timbre, manner of speaking, delivery; brogue, burr, drawl, twang.
-2 the accent is on the first syllable: stress, emphasis, accentuation, force, prominence; beat; technical ictus.
-3 the accent is on comfort: emphasis, stress, priority; importance, prominence.
-4 an acute accent: mark, diacritic, diacritical mark.
-▶verb fabrics that accent the background colors in the room: focus attention on, draw attention to, point up, underline, underscore, accentuate, highlight, spotlight, foreground, feature, play up, bring to the fore, heighten, stress, emphasize.
+▶noun 
+ˈakˌsent 
+
+1 a distinctive mode of pronunciation of a language, especially one associated with a particular nation, locality, or social class: a strong German accent 
+she never mastered the French accent.
+2 a distinct emphasis given to a syllable or word in speech by stress or pitch. 
+• a mark on a letter, typically a vowel, to indicate pitch, stress, or vowel quality. 
+• Music an emphasis on a particular note or chord.
+3 [in singular] a special or particular emphasis: the accent is on participation. 
+• a feature that gives a distinctive visual emphasis to something: blue woodwork and accents of red. 
+▶verb 
+ˈakˌsent akˈsent 
+[with object] emphasize (a particular feature): fabrics that accent the background colors in the room. 
+• Music play (a note, a beat of the bar, etc.) with an accent. DERIVATIVES accentual 
+akˈsen(t)SH(o͞o)əl 
+adjectiveORIGIN late Middle English (in the sense ‘intonation’): from Latin accentus ‘tone, signal, or intensity’ (from ad- ‘to’ + cantus ‘song’), translating Greek prosōidia ‘a song sung to music, intonation.’

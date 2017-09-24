@@ -9,6 +9,21 @@ B.  transitive verb
 ① (provide with power lines) 给…接电缆 gěi… jiē diànlǎn ; (provide with cable television) 给…装有线电视 gěi… zhuāng yǒuxiàn diànshì 
 ② dated (send a message to) 给…发电报 gěi… fā diànbào (send by telegraph) 用电报发 yòng diànbào fā ‹message›to cable [something] to [somebody]; 电告某人某事 to cable [somebody] with [something]; 电告某人某事 
 cable 
+ˈkābəl
+
 ▶noun
-1 a thick cable moored the ship: rope, cord, line, guy, wire; hawser, stay, bridle; choker.
-2 electric cables: wire, lead; power line, hydro line, transmission line.
+1 a thick rope of wire or nonmetallic fiber, typically used for construction, mooring ships, and towing vehicles. 
+• the chain of a ship's anchor. 
+• Nautical a length of 200 yards (182.9 m) or (in the US) 240 yards (219.4 m). 
+• short for cable stitch. 
+• (also cable molding) Architecture a molding resembling twisted rope.
+2 an insulated wire or wires having a protective casing and used for transmitting electricity or telecommunication signals: an underground cable 
+transatlantic phone calls went by cable. 
+• a cablegram. 
+• short for cable television. 
+▶verb [with object]
+1 contact or send a message to (someone) by cablegram. 
+• transmit (a message) by cablegram. 
+• [no object] send a cablegram: we cabled to a boat at sea, asking it to stop.
+2 provide (an area or community) with power lines or with the equipment necessary for cable television.
+3 Architecture decorate (a structure) with rope-shaped moldings. ORIGIN Middle English: from an Anglo-Norman French variant of Old French chable, from late Latin capulum ‘halter.’

@@ -1,11 +1,30 @@
 wait 
-▶verb
-1 Jill waited while Jack fetched the water: stay (put), remain, rest, stop, halt, pause; linger, loiter, dally; informal stick around, hang out, hang around, kill time, waste time, kick one's heels, twiddle one's thumbs; archaic tarry.
-2 Joey waited until she nodded: hold on, hold back, bide one's time, hang fire, mark time, stand by, sit tight, hold one's horses.
-3 they were waiting for the kettle to boil: await; anticipate, look forward, long, pine, yearn, expect, be ready.
-4 the movie will have to wait: be postponed, be delayed, be put off, be deferred; informal be put on the back burner, be put on ice.
-▶noun a long wait: delay, holdup, interval, interlude, intermission, pause, break, stay, cessation, suspension, stoppage, halt, interruption, lull, respite, recess, moratorium, hiatus, gap, rest.
+wāt
+
+▶verb [no object]
+1 stay where one is or delay action until a particular time or until something else happens: he did not wait for a reply 
+we're waiting for Allan to get back 
+they will wait on a Supreme Court ruling 
+[with infinitive] : Ben stood on the street corner waiting to cross 
+[with object] : I had to wait my turn to play. 
+• (wait for or on) stay where one is or delay action until (someone) arrives or is ready: he sits on the corner waiting for Mary 
+she was waiting on her boyfriend. 
+• remain in readiness for some purpose: he found the train waiting at the platform. 
+• be left until a later time before being dealt with: we shall need a statement later, but that will have to wait. 
+• [with object] informal defer (a meal) until a person's arrival: he will wait supper for me.
+2 (cannot wait) used to indicate that one is eagerly impatient to do something or for something to happen: I can't wait for tomorrow 
+[with infinitive] : I can't wait to get started again.
+3 act as a waiter or waitress, serving food and drink: a local man was employed to wait on them at table 
+[with object] : we had to wait tables in the mess hall. 
+▶noun
+1 [in singular] a period of waiting: we had a long wait.
+2 (waits) British archaic street singers of Christmas carols. 
+• historical official bands of musicians maintained by a city or town. 
 PHRASES
-wait on he waits on her as if he were a paid servant: serve, attend to, tend (to), cater for/to; minister to, take care of, look after, see to. wait up
-1 she waited up for him every night: stay awake, stay up, keep vigil.
-2 hey, wait up! stop, slow down, hold on, wait for me.
+wait and see wait to find out what will happen before doing or deciding something. you wait used to convey a threat, warning, or promise: just you wait till your father comes home!PHRASAL VERBS wait on (or upon)
+1 act as an attendant to (someone): a maid was appointed to wait on her. 
+• serve (a customer) in a store. 
+• archaic pay a respectful visit to.
+2 chiefly British await the convenience of: we can't wait on the government; we have to do it ourselves.wait up
+1 not go to bed until someone arrives or something happens.
+2 North American go more slowly or stop until someone catches up.ORIGIN Middle English: from Old Northern French waitier, of Germanic origin; related to wake1. Early senses included ‘lie in wait (for),’ ‘observe carefully,’ and ‘be watchful.’

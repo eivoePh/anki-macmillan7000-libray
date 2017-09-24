@@ -1,4 +1,15 @@
 economy 
-▶noun
-1 the nation's economy: wealth, (financial) resources; financial system, financial management.
-2 one can combine good living with economy: thrift, thriftiness, providence, prudence, careful budgeting, economizing, saving, scrimping, restraint, frugality, abstemiousness. ANTONYMS extravagance.
+əˈkänəmē
+
+▶noun (plural economies)
+1 the wealth and resources of a country or region, especially in terms of the production and consumption of goods and services. 
+• a particular system or stage of an economy: a free-market economy 
+the less-developed economies.
+2 careful management of available resources: even heat distribution and fuel economy. 
+• sparing or careful use of something: economy of words. 
+• (usually economies) a financial saving: there were many economies to be made by giving up our offices in Manhattan. 
+• (also economy class) the cheapest class of air or rail travel: we flew economy. 
+▶adjective [attributive] (of a product) offering the best value for the money: [in combination] : an economy pack. 
+• designed to be economical to use: an economy car. 
+PHRASES
+economy of scale a proportionate saving in costs gained by an increased level of production. economy of scope a proportionate saving gained by producing two or more distinct goods, when the cost of doing so is less than that of producing each separately.ORIGIN late 15th century (in the sense ‘management of material resources’): from French économie, or via Latin from Greek oikonomia ‘household management,’ based on oikos ‘house’ + nemein ‘manage.’ Current senses date from the 17th century.

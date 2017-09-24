@@ -11,8 +11,13 @@ A.  noun
 ⑦ Scottish colloquial (housing) 社会保障性住房 shèhuì bǎozhàngxìng zhùfáng 
 B.  intransitive verb pejorative 密谋 mìmóu to scheme to do [something]; 密谋做某事 to scheme against [somebody]/[something]; 算计某人/某事物 to scheme for [somebody]/[something]; 为某人/某事物策划 
 scheme 
+skēm
+
 ▶noun
-1 crazy fundraising schemes: plan, project, plan of action, program, strategy, stratagem, tactic, game plan, course/line of action; system, procedure, design, formula, recipe.
-2 police uncovered a scheme to steal the paintings: plot, intrigue, conspiracy; ruse, ploy, stratagem, maneuver, subterfuge; machinations; informal game, racket, con, scam.
-3 the sonnet's rhyme scheme: arrangement, system, organization, configuration, pattern, format; technical schema.
-▶verb he schemed to bring about the collapse of the government: plot, hatch a plot, conspire, intrigue, connive, maneuver, plan.
+1 a large-scale systematic plan or arrangement for attaining some particular object or putting a particular idea into effect: a clever marketing scheme. 
+• a secret or underhanded plan; a plot: police uncovered a scheme to steal paintings worth more than $250,000. 
+• a particular ordered system or arrangement: a classical rhyme scheme.
+2 Scottish informal a public housing complex: the whole scheme is plunged into darkness, bar the light in Victor's house. 
+▶verb [no object] make plans, especially in a devious way or with intent to do something illegal or wrong: [with infinitive] : he schemed to bring about the collapse of the government. 
+PHRASES
+the scheme of things a supposed or apparent overall system, within which everything has a place and in relation to which individual details are ultimately to be assessed: in the overall scheme of things, we didn't do badly.ORIGIN mid 16th century (denoting a figure of speech): from Latin schema, from Greek (see schema). An early sense was ‘diagram of the position of celestial objects,’ giving rise to ‘diagram, outline,’ whence the current senses. The unfavorable notion “plot”arose in the mid 18th century.

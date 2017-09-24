@@ -5,8 +5,12 @@ noun
 ② (of emotion, support) 表达 biǎodá unrestrained demonstrations of affection 爱的恣意表露 
 ③ (protest) 示威游行 shìwēi yóuxíng to stage a demonstration 举行示威游行 to go on a demonstration against/for [something]; 进行反对/支持某事的示威游行 a human rights demonstration 人权示威游行 
 demonstration 
+ˌdemənˈstrāSH(ə)n
+
 ▶noun
-1 his book is a brilliant demonstration of this thesis: proof, substantiation, confirmation, affirmation, corroboration, verification, validation; evidence, indication, witness, testament.
-2 a demonstration of woodcarving: exhibition, presentation, display, exposition, teach-in, expo; informal demo.
-3 his paintings are a demonstration of his talent: manifestation, indication, sign, mark, token, embodiment; expression.
-4 an anti-racism demonstration: protest, march, rally, lobby, sit-in, counterdemonstration; stoppage, strike, walkout, picket (line); informal demo.
+1 the action or process of showing the existence or truth of something by giving proof or evidence: it is not capable of mathematical demonstration 
+Lind's demonstration that citrus fruits cure scurvy. 
+• the outward showing of feeling: physical demonstrations of affection. 
+• a practical exhibition and explanation of how something works or is performed: a microwave cooking demonstration.
+2 a public meeting or march protesting against something or expressing views on a political issue. ORIGIN late Middle English (also in the senses ‘proof provided by logic’ and ‘sign, indication’): from Latin demonstratio(n-), from demonstrare ‘point out’ (see demonstrate). Sense
+2 dates from the mid 19th century.

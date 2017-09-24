@@ -28,25 +28,66 @@ C.  transitive verb
 ③ (arrange) 安排 ānpái ‹life›; 整理 zhěnglǐ ‹room, items›to order entries alphabetically 按字母顺序排列词条 
 D.  intransitive verb 点菜 diǎn cài are you ready to order? 可以点菜了吗？ PHRASAL VERBS order about, order around transitive verb[order somebody about] 支使 zhīshi he likes ordering people about 他喜欢支使别人 don't order me about! 别使唤我！ order off transitive verb[order somebody off] 命令…离开 mìnglìng… líkāi to order [somebody] off [something]; 命令某人离开某处 to order [somebody] off the grass 命令某人退出草坪 to order a player off (the field) 把运动员罚下场 order out transitive verb[order somebody out] 命令…出去 mìnglìng… chūqu to order [somebody] out of [something]; 命令某人离开某处 to order a pupil out of the classroom 把学生赶出教室 
 order 
+ˈôrdər
+
 ▶noun
-1 alphabetical order: sequence, arrangement, organization, disposition, system, series, succession; grouping, classification, categorization, codification, systematization.
-2 his tidy desk demonstrates his sense of order: tidiness, neatness, orderliness, organization, method, system; symmetry, uniformity, regularity; routine. ANTONYMS chaos, disarray.
-3 the police were needed to keep order: peace, control, law (and order), lawfulness, discipline, calm, (peace and) quiet, peacefulness, peaceableness.
-4 the equipment was in good order: condition, state, repair, shape.
-5 I had to obey her orders: command, instruction, directive, direction, decree, edict, injunction, mandate, dictate, commandment, rescript; law, rule, regulation, diktat; demand, bidding, requirement, stipulation; informal say-so; formal ordinance; literary behest. ANTONYMS suggestion.
-6 the company has won the order: commission, contract, purchase order, request, requisition; booking, reservation. ANTONYMS chaos.
-7 the lower orders of society: class, level, rank, grade, degree, position, category; dated station.
-8 the established social order: (class) system, hierarchy, pecking order, grading, ranking, scale.
-9 the higher orders of insects: taxonomic group, class, family, species, breed; taxon.
-10 a religious order: community, brotherhood, sisterhood, organization, association, society, fellowship, fraternity, confraternity, congregation, sodality, lodge, guild, league, union, club; sect.
-11 skills of a very high order: type, kind, sort, nature, variety; quality, caliber, standard.
+1 the arrangement or disposition of people or things in relation to each other according to a particular sequence, pattern, or method: I filed the cards in alphabetical order. 
+• a state in which everything is in its correct or appropriate place: she tried to put her shattered thoughts into some semblance of order. 
+• a state in which the laws and rules regulating the public behavior of members of a community are observed and authority is obeyed: the army was deployed to keep order. 
+• [with adjective] the overall state or condition of something: the house had just been vacated and was in good order. 
+• a particular social, political, or economic system: if only the peasantry would rise up against the established order 
+the social order of Britain. 
+• the prescribed or established procedure followed by a meeting, legislative assembly, debate, or court of law: the meeting was called to order. 
+• a stated form of liturgical service, or of administration of a rite or ceremony, prescribed by ecclesiastical authority.
+2 an authoritative command, direction, or instruction: he was not going to take orders from a mere administrator 
+[with infinitive] : the skipper gave the order to abandon ship. 
+• an oral or written request for something to be made, supplied, or served: the company has won an order for six tankers. 
+• a thing made, supplied, or served as a result of an oral or written request: orders will be delivered the next business day. 
+• a written direction of a court or judge: a judge's order forbidding the reporting of evidence. 
+• a written direction to pay money or deliver property.
+3 (often orders) a social class: the upper social orders. 
+• Biology a principal taxonomic category that ranks below class and above family. 
+• a grade or rank in the Christian ministry, especially that of bishop, priest, or deacon. 
+• (orders) the rank or position of a member of the clergy or an ordained minister of a church: he took priest's orders. See also holy orders. 
+• Theology any of the nine grades of angelic beings in the celestial hierarchy.
+4 (also Order) a society of monks, priests, nuns, etc., living according to certain religious and social regulations and discipline and at least some of whose members take solemn vows: the Franciscan Order. 
+• historical a society of knights bound by a common rule of life and having a combined military and monastic character. 
+• an institution founded by a monarch for the purpose of conferring an honor or honors for merit on those appointed to it. 
+• the insignia worn by members of an order of honor or merit. 
+• a Masonic or similar fraternal organization.
+5 [in singular] used to describe the quality, nature, or importance of something: with musical talent of this order, von Karajan would have been a phenomenon in any age.
+6 any of the five classical styles of architecture (Doric, Ionic, Corinthian, Tuscan, and Composite) based on the proportions of columns, amount of decoration, etc. 
+• any style or mode of architecture subject to uniform established proportions.
+7 [with modifier] Military equipment or uniform for a specified purpose or of a specified type: drill order. 
+• (the order) the position in which a rifle is held after ordering arms. See order arms below.
+8 Mathematics the degree of complexity of an equation, expression, etc., as denoted by an ordinal number. 
+• the number of differentiations required to reach the highest derivative in a differential equation. 
+• the number of elements in a finite group. 
+• the number of rows or columns in a square matrix. 
 ▶verb
-1 he ordered me to return: instruct, command, direct, enjoin, tell, require, charge; formal adjure; literary bid.
-2 the judge ordered that their assets be confiscated: decree, ordain, rule, legislate, dictate, prescribe.
-3 you can order your tickets by phone: request, apply for, place an order for; book, reserve, preorder; formal bespeak.
-4 the messages are ordered chronologically: organize, put in order, arrange, sort out, marshal, dispose, lay out; group, classify, categorize, catalog, codify, systematize, systemize.
+1 [reporting verb] give an authoritative direction or instruction to do something: [with object and infinitive] : she ordered me to leave 
+[with direct speech] : “Stop frowning,” he ordered 
+[with clause] : the court ordered that the case should be heard at the end of August 
+[with object] : her father ordered her back home 
+the judge ordered a retrial. 
+• [with object] (order someone around/about) continually tell someone in an overbearing way what to do. 
+• [with object and complement] North American command (something) to be done or (someone) to be treated in a particular way: he ordered the anchor dropped.
+2 [with object] request (something) to be made, supplied, or served: my friend ordered the tickets last week 
+[with two objects] : I asked the security guard to order me a taxi 
+[no object] : Are you ready to order, sir?
+3 [with object] arrange (something) in a methodical or appropriate way: all entries are ordered by date 
+[as adjective in combination] (-ordered) : her normally well-ordered life. 
 PHRASES
-in order
-1 list the dates in order: in sequence, in series.
-2 he found everything in order: tidy, neat, orderly, straight, trim, shipshape, in apple-pie order; in position, in place.
-3 I think it's in order for me to take the credit: appropriate, fitting, suitable, acceptable, (all) right, permissible, permitted, allowable; informal okay. order about/around what makes him think he can just waltz in and start ordering us about? tell what to do, give orders to, dictate to; lay down the law to; informal boss around, push around. out of order the elevator's out of order: not working, not in working order, not functioning, broken, broken-down, out of service, out of commission, faulty, defective, inoperative; down; informal conked out, bust, busted, (gone) kaput, on the fritz, on the blink, out of whack.
+by order of according to directions given by the proper authority: he was released from prison by order of the court. in order
+1 according to a particular sequence.
+2 in the correct condition for operation or use.
+3 in accordance with the rules of procedure at a meeting, legislative assembly, etc. 
+• appropriate in the circumstances: a little bit of flattery was now in order. in order for so that: employees must be committed to the change in order for it to succeed.in order that with the intention; so that: she used her mother's kitchen in order that the turkey might be properly cooked. in order to as a means to: he slouched into his seat in order to avoid drawing attention to himself. of the order of
+1 approximately: sales increases are of the order of 20%.
+2 Mathematics having the order of magnitude specified by. on order (of goods) requested but not yet received from the supplier or manufacturer. on the order of
+1 another term for of the order of.
+2 along the lines of; similar to: singers on the order of Janis Joplin. Order! a call for silence or the observance of prescribed procedures by someone in charge of a trial, legislative assembly, etc.order arms Military hold a rifle with its butt on the ground close to one's right side. order of battle the units, formations, and equipment of a military force. orders are orders commands must be obeyed, however much one may disagree with them. out of order
+1 (of an electrical or mechanical device) not working properly or at all.
+2 not in the correct sequence.
+3 not according to the rules of a meeting, legislative assembly, etc. 
+• informal (of a person or their behavior) unacceptable or wrong: he's getting away with things that are out of order. to order according to a customer's specific request or requirements: the sweaters are knitted to order.DERIVATIVES orderer nounORIGIN Middle English: from Old French ordre, from Latin ordo, ordin- ‘row, series, rank.’

@@ -1,4 +1,12 @@
 inhibit 
-▶verb
-1 the obstacles that inhibit change: impede, hinder, hamper, hold back, discourage, interfere with, obstruct, slow down, retard; curb, check, suppress, restrict, fetter, cramp, frustrate, stifle, prevent, block, thwart, foil, stop, halt. ANTONYMS encourage, allow.
-2 she feels inhibited from taking part: prevent, disallow, exclude, forbid, prohibit, preclude, ban, bar, interdict. ANTONYMS encourage.CHOOSE THE RIGHT WORD See thwart .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+inˈhibit
+
+▶verb (inhibits, inhibiting, inhibited) [with object]
+1 hinder, restrain, or prevent (an action or process): cold inhibits plant growth. 
+• prevent or prohibit (someone) from doing something: the earnings rule inhibited some retired people from working. 
+• Psychology voluntarily or involuntarily restrain the direct expression of (an instinctive impulse). 
+• chiefly Physiology & Biochemistry (chiefly of a drug or other substance) slow down or prevent (a process, reaction, or function) or reduce the activity of (an enzyme or other agent).
+2 make (someone) self-conscious and unable to act in a relaxed and natural way: his mother's strictures would always inhibit him.
+3 (in ecclesiastical law) forbid (a member of the clergy) to exercise clerical functions. DERIVATIVES inhibitive 
+-tiv 
+adjectiveORIGIN late Middle English (in the sense ‘forbid (a person) to do something’): from Latin inhibere ‘hinder,’ from in- ‘in’ + habere ‘hold.’

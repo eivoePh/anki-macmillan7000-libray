@@ -37,17 +37,37 @@ B.  intransitive verb
 ② (get used up) «patience» 耗尽 hàojìn wear through 
 A.  intransitive verb «trousers, sole» 磨破 mópò ; «metal» 磨损 mósǔn ; «glaze» 磨掉 módiào 
 B.  transitive verb [wear something through], [wear through something] 磨破 mópò ‹trousers, sole›; 磨薄 móbáo ‹metal›; 磨掉 módiào ‹glaze›
-wear 
-▶verb
-1 he wore a suit: dress in, be clothed in, have on, sport, model; put on, don.
-2 Barbara wore a smile: bear, have (on one's face), show, display, exhibit; give, put on, assume.
-3 the bricks have been worn down : erode, abrade, rub away, grind away, wash away, crumble (away), wear down; corrode, eat away (at), dissolve.
-4 the tires are wearing well: last, endure, hold up, bear up, prove durable.
+wear
+1 
+wer
+
+▶verb (past wore 
+wôr
+; past participle worn 
+wôrn
+)
+1 [with object] have on one's body or a part of one's body as clothing, decoration, protection, or for some other purpose: he was wearing a dark suit 
+both ladies wore a bunch of violets. 
+• habitually have on one's body or be dressed in: although she was a widow, she didn't wear black. 
+• exhibit or present (a particular facial expression or appearance): they wear a frozen smile on their faces. 
+• [with object or adverbial] have (one's hair or beard) at a specified length or arranged in a specified style: the students wore their hair long. 
+• (of a ship) fly (a flag).
+2 [with object or complement] damage, erode, or destroy by friction or use: the track has been worn down in part to bare rock. 
+• [no object or complement] undergo damage, erosion, or destruction by friction or use: mountains are wearing down with each passing second. 
+• [with object] form (a hole, path, etc.) by constant friction or use: the water was forced up through holes it had worn. 
+• [no object] (wear on) cause weariness or fatigue to: some losses can wear on you.
+3 [no object] withstand continued use or life in a specified way: a carpet-type finish seems to wear well. 
+• [with object, usually with negative] British informal tolerate; accept: the environmental health people wouldn't wear it.
+4 [no object] (wear on) (of a period of time) pass, especially slowly or tediously: as the afternoon wore on, he began to look unhappy. 
+• [with object] literary pass (a period of time) in some activity: spinning long stories, wearing half the day. 
 ▶noun
-1 you won't get much wear out of that: use, wearing, service, utility, value; informal mileage.
-2 evening wear: clothes, clothing, garments, dress, attire, garb, wardrobe; informal getup, gear, togs, duds; formal apparel; literary array.
-3 the varnish will withstand wear: damage, friction, erosion, attrition, abrasion; weathering.
+1 the wearing of something or the state of being worn as clothing: some new tops for wear in the evening.
+2 [with modifier] clothing suitable for a particular purpose or of a particular type: evening wear.
+3 damage or deterioration sustained from continuous use: you need to make a deduction for wear and tear on all your belongings. 
+• the capacity for withstanding continuous use without damage: old things were relegated to the bedrooms because there was plenty of wear left in them. 
 PHRASES
-wear down he wore down her resistance: gradually overcome, slowly reduce, erode, wear away, exhaust, undermine. wear off the novelty soon wore off: fade, diminish, lessen, dwindle, decrease, wane, ebb, peter out, fizzle out, pall, disappear, run out. wear on the afternoon wore on: pass, elapse, proceed, advance, progress, go by, roll by, march on, slip by/away, fly by/past. wear out
-1 the fabric will eventually wear out: deteriorate, become worn, wear thin, fray, become threadbare, wear through.
-2 the grandkids wore me out: fatigue, tire out, weary, exhaust, drain, sap, overtax, enervate, debilitate, jade, prostrate; informal poop, frazzle, do in.
+wear one's heart on one's sleeve see heart. wear thin be gradually used up or become less convincing or acceptable: his patience was wearing thin 
+the joke had started to wear thin. wear the pants see pants. PHRASAL VERBS wear someone/something down overcome or exhaust someone or something by persistence. wear off lose effectiveness or intensity. wear something out (or wear out)
+1 use or be used until no longer in good condition or working order: wearing out the stair carpet 
+the type was used again and again until it wore out.
+2 (wear someone/something out) exhaust or tire someone or something: an hour of this wandering wore out Lampard's patience.ORIGIN Old English werian, of Germanic origin, from an Indo-European root shared by Latin vestis ‘clothing.’

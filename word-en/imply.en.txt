@@ -1,4 +1,6 @@
 imply 
-▶verb
-1 are you implying he is mad? insinuate, suggest, hint (at), intimate, say indirectly, indicate, give someone to understand, convey the impression, signal.
-2 the forecasted traffic increase implies more roads: involve, entail; mean, point to, signify, indicate, signal, connote, denote; necessitate, require, presuppose.CHOOSE THE RIGHT WORD See infer .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+imˈplī
+
+▶verb (implies, implying, implied) [with object] strongly suggest the truth or existence of (something not expressly stated): the salesmen who uses jargon to imply his superior knowledge 
+[with clause] : the report implies that two million jobs might be lost. 
+• (of a fact or occurrence) suggest (something) as a logical consequence: the forecasted traffic increase implied more roads and more air pollution. ORIGIN late Middle English: from Old French emplier, from Latin implicare, from in- ‘in’ + plicare ‘to fold.’ The original sense was ‘entwine, entangle’; in the 16th and 17th centuries the word also meant ‘employ’ Compare with employ and implicate . usage: Imply and infer do not mean the same thing and should not be used interchangeably: see usage at infer .

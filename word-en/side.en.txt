@@ -1,17 +1,50 @@
 side 
+sīd
+
 ▶noun
-1 they were standing on the side of the road: edge, border, verge, boundary, margin, fringe(s), flank, bank, perimeter, extremity, periphery, (outer) limit, limits, bounds; literary marge, bourn. ANTONYMS center.
-2 you're driving on the wrong side of the road: half, part; lane.
-3 the east side of the city: district, quarter, area, region, part, neighborhood, sector, section, zone, ward.
-4 one side of the paper: surface, face, plane.
-5 his side of the argument: point of view, viewpoint, perspective, opinion, way of thinking, standpoint, position, outlook, slant, angle.
-6 the losing side in the war: faction, camp, bloc, party, wing.
-7 the players on their side: team, squad, lineup.
-▶adjective
-1 elaborate side pieces: lateral, wing, flanking. ANTONYMS front.
-2 a side issue: subordinate, lesser, lower-level, secondary, minor, peripheral, incidental, ancillary, subsidiary, of little account, extraneous. ANTONYMS central.
-▶verb siding with the underdog: support, be on someone's side, take someone's side, take someone's part, stand by, back, give someone one's backing, be loyal to, defend, champion, ally (oneself) with, sympathize with, favor.
+1 a position to the left or right of an object, place, or central point: a town on the other side of the river 
+on either side of the entrance was a garden 
+Rachel tilted her head to one side. 
+• either of the two halves of an object, surface, or place regarded as divided by an imaginary central line: she lay on her side of the bed 
+the left side of the brain. 
+• the right or the left part of a person's or animal's body, especially of the human torso: he has been paralyzed on his right side since birth. 
+• [in singular] a place or position closely adjacent to someone: his wife stood at his side. 
+• either of the lateral halves of the body of a butchered animal, or an animal prepared for eating: a side of beef.
+2 an upright or sloping surface of a structure or object that is not the top or bottom and generally not the front or back: a car crashed into the side of the house 
+line the sides of the cake pan 
+[as modifier] : a side entrance. 
+• each of the flat surfaces of a solid object. 
+• either of the two surfaces of something flat and thin, such as paper or cloth. 
+• the amount of writing needed to fill one side of a sheet of paper: she told us not to write more than three sides. 
+• either of the two faces of a record or of the two separate tracks on a length of recording tape.
+3 a part or region near the edge and away from the middle of something: a minivan was parked at the side of the road 
+cabins on the south side of the clearing. 
+• [as modifier] subsidiary to or less important than something: a side dish of fresh vegetables. 
+• chiefly North American a dish served as subsidiary to the main one: sides of German potato salad and red cabbage. 
+• each of the lines forming the boundary of a plane rectilinear figure: the farm buildings formed three sides of a square.
+4 a person or group opposing another or others in a dispute, contest, or debate: the two sides agreed to resume border trade 
+whose side are you on? 
+• chiefly British a sports team. 
+• the position, interests, or attitude of one person or group, especially when regarded as being in opposition to another or others: Mrs. Burt hasn't kept her side of the bargain 
+the conservationists are on the city's side of the case. 
+• a particular aspect of something, especially a situation or a person's character: her ability to put up with his disagreeable side. 
+• a person's kinship or line of descent as traced through either their father or mother: Richard was of French descent on his mother's side.
+5 (also sidespin) horizontal spinning motion given to a ball. 
+• Billiards another term for English ( sense
+3 of the noun). 
+▶verb
+1 [no object] (side with/against) support or oppose in a conflict, dispute, or debate: he felt that Max had betrayed him by siding with Beatrice.
+2 [with object] provide with a side or sides; form the side of: the hills that side a long valley. 
 PHRASES
-side by side they worked side by side: alongside (each other), beside each other, abreast, shoulder to shoulder, close together; in collaboration, in solidarity. take someone's side I was surprised to see you taking Jack's side: support, be on someone's side, take someone's part, side with, stand by, back, give someone one's backing, be loyal to, defend, champion, ally (oneself) with, sympathize with, favor. 
-WORD LINKS
-side lateral relating to the side of somethingWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+by (or at) someone's side close to someone, especially so as to give them comfort or moral support: a stepson who stayed by your side when your own son deserted you. by the side of close to: a house by the side of the road. from side to side
+1 alternately left and right from a central point: I shook my head frantically from side to side.
+2 across the entire width; right across: the fleet stretched four miles from side to side. have something on one's side (or something is on one's side) something is operating to one's advantage: now that he had time on his side, Tom relaxed a little.on (or to) one side out of one's way; aside. 
+• to be dealt with or considered later, especially because tending to distract one from something more important: before the kickoff a player has to set his disappointments and frustrations to one side. on the —— side tending toward being ——; rather —— (used to qualify an adjective): these shoes are a bit on the tight side. on the side
+1 in addition to one's regular job or as a subsidiary source of income: no one lived in the property, but the caretaker made a little on the side by renting rooms out.
+2 secretly, especially with regard to a relationship in addition to one's legal or regular partner: Brian had a mistress on the side.
+3 North American served separately from the main dish: a club sandwich with french fries on the side. side by side (of two or more people or things) close together and facing the same way: on we jogged, side by side, for a mile. 
+• together: we have been using both systems, side by side, for two years. 
+• (of people or groups) supporting each other; in cooperation: the two institutions worked side by side in complete harmony. side of the fence see fence. take sides support one person or cause against another or others in a dispute, conflict, or contest: I do not want to take sides in this matter. take (or draw) someone to one side speak to someone in private, especially so as to advise or warn them about something. this side of
+1 before (a particular time, date, or event): this side of midnight. 
+• yet to reach (a particular age): I'm this side of forty-five.
+2 informal used in superlative expressions to denote that something is comparable with a paragon or model of its kind: the finest coffee this side of Brazil.DERIVATIVES sideless adjectiveORIGIN Old English sīde ‘left or right part of the body,’ of Germanic origin; related to Dutch zijde and German Seite, probably from a base meaning ‘extending lengthwise.’

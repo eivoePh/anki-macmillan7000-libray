@@ -1,7 +1,15 @@
 animal 
-▶noun
-1 endangered animals: creature, beast, living thing; informal critter, beastie; (animals) wildlife, fauna.
-2 the man was an animal: brute, beast, monster, devil, demon, fiend; informal swine, bastard, pig.
-▶adjective a grunt of animal passion: carnal, fleshly, bodily, physical; brutish, beastly, bestial, unrefined, uncultured, coarse.
-WORD LINKS
-animal zoology the scientific study of animalsWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+ˈanəməl
+
+▶noun a living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli: animals such as spiders 
+wild animals adapt badly to a caged life 
+humans are the only animals who weep. 
+• a living organism other than a human being: are humans superior to animals, or just different? 
+• a mammal, as opposed to a bird, reptile, fish, or insect: the snowfall seemed to have chased all birds, animals, and men indoors. 
+• a person whose behavior is regarded as devoid of human attributes or civilizing influences, especially someone who is very cruel, violent, or repulsive: those men have to be animals—what they did to that boy was savage. 
+• [with adjective or noun modifier] a particular type of person or thing: I am a political animal 
+the government that followed the election was a very different animal. Animals are generally distinguished from plants by being unable to synthesize organic molecules from inorganic ones, so that they have to feed on plants or on other animals. They are typically able to move about, although this ability is sometimes restricted to a particular stage in the life cycle. The great majority of animals are invertebrates, of which there are some thirty phyla; the vertebrates constitute but a single subphylum. See also higher animals, lower animals . 
+▶adjective [attributive] relating to or characteristic of animals: a wide range of animal species 
+animal welfare. 
+• of animals as distinct from plants: tissues of animal and vegetable protein. 
+• characteristic of the physical and instinctive needs of animals; of the flesh rather than the spirit or intellect: a crude surrender to animal lust. ORIGIN Middle English: as a noun from Latin animal, based on Latin animalis ‘having breath,’ from anima ‘breath’; as an adjective via Old French, from Latin animalis .

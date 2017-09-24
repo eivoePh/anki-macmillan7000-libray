@@ -1,11 +1,27 @@
 edge 
+ej
+
 ▶noun
-1 the edge of the lake: border, boundary, extremity, fringe, margin, side; lip, rim, brim, brink, verge; perimeter, circumference, periphery, limits, bounds. ANTONYMS middle.
-2 she had an edge in her voice: sharpness, severity, bite, sting, asperity, acerbity, acidity, trenchancy; sarcasm, acrimony, malice, spite, venom. ANTONYMS kindness.
-3 they have an edge over their rivals: advantage, lead, head start, the whip hand, the upper hand; superiority, dominance, ascendancy, supremacy, primacy; informal inside track. ANTONYMS disadvantage.
+1 the outside limit of an object, area, or surface; a place or part farthest away from the center of something: a willow tree at the water's edge 
+figurative : these measures are merely tinkering at the edges of a wider issue. 
+• an area next to a steep drop: the cliff edge. 
+• [in singular] the point or state immediately before something unpleasant or momentous occurs: the economy was teetering on the edge of recession.
+2 the sharpened side of the blade of a cutting implement or weapon: a knife with a razor-sharp edge. 
+• the line along which two surfaces of a solid meet. 
+• [in singular] an intense, sharp, or striking quality: a flamenco singer brings a primitive edge to the music 
+she was still smiling, but there was an edge to her voice. 
+• [in singular] a quality or factor that gives superiority over close rivals or competitors: the veal had the edge on flavor. 
 ▶verb
-1 poplars edged the orchard: border, fringe, verge, skirt; surround, enclose, encircle, circle, encompass, bound, outline.
-2 a nightie edged with lace: trim, pipe, band, decorate, finish; border, fringe; bind, hem.
-3 he edged closer to the fire: creep, inch, work one's way, pick one's way, ease oneself; sidle, steal, slink.
+1 [with object] provide with a border or edge: the pool is edged with paving.
+2 move gradually, carefully, or furtively in a particular direction: [no object] : she tried to edge away from him 
+Nick edged his way through the crowd 
+[with object] : Hazel quietly edged him away from the others. 
+• [with object] US informal defeat by a small margin: Connecticut avoided an upset and edged Yale 49–48.
+3 [with object] give an intense or sharp quality to: the bitterness that edged her voice.
+4 [no object] ski with one's weight on the edges of one's skis. 
 PHRASES
-on edge they were always on edge when Uncle Herman visited. See edgy (sense 1). CHOOSE THE RIGHT WORD See border .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+on edge tense, nervous, or irritable: never had she felt so on edge before an interview. on the edge of one's seat informal very excited and giving one's full attention to something. set someone's teeth on edge (especially of an unpleasantly harsh sound) cause someone to feel intense discomfort or irritation: a grating that set her teeth on edge. take the edge off reduce the intensity or effect of (something unpleasant or severe): the tablets will take the edge off the pain.PHRASAL VERBS edge someone out remove a person from an organization or role by indirect means: she was edged out of the organization by the director.DERIVATIVES edgeless 
+ˈejləs 
+adjective. edger 
+ˈejər 
+nounORIGIN Old English ecg ‘sharpened side of a blade,’ of Germanic origin; related to Dutch egge and German Ecke, also to Old Norse eggja (see egg2), from an Indo-European root shared by Latin acies ‘edge’ and Greek akis ‘point.’

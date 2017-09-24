@@ -1,6 +1,8 @@
 discovery 
-▶noun
-1 the discovery of the body: finding, location, uncovering, unearthing.
-2 the discovery that she was pregnant: realization, recognition; revelation, disclosure; informal light-bulb moment, aha moment.
-3 the discovery of new drugs: invention, origination, devising; pioneering.
-4 he failed to take out a patent on his discoveries: find, finding; invention, breakthrough, innovation.
+dəˈskəv(ə)rē
+
+▶noun (plural discoveries)
+1 the action or process of discovering or being discovered: the discovery of the body 
+he made some startling discoveries. 
+• a person or thing discovered: the drug is not a new discovery.
+2 Law the compulsory disclosure, by a party to an action, of relevant documents referred to by the other party. ORIGIN mid 16th century: from discover, on the pattern of the pair recover, recovery.

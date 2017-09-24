@@ -1,7 +1,8 @@
 gamble 
-▶verb
-1 he started to gamble more often: bet, place/lay a bet on something, stake money on something, back the horses, game; informal play the ponies.
-2 investors are gambling that the British pound will fall: take a chance, take a risk; informal stick one's neck out, go out on a limb.
-▶noun
-1 his grandfather enjoyed a gamble: bet, wager, speculation; game of chance.
-2 I took a gamble and it paid off: risk, chance, hazard, shot in the dark, leap of faith; pig in a poke, pot luck; rare salto mortale.
+ˈɡambəl
+
+▶verb [no object]
+1 play games of chance for money; bet: she was fond of gambling on cards and horses. 
+• [with object] bet (a sum of money) on a game of chance: he was gambling every penny he had on the spin of a wheel.
+2 take risky action in the hope of a desired result: [with clause] : the British could only gamble that something would turn up. 
+▶noun [usually in singular] an act of gambling; an enterprise undertaken or attempted with a risk of loss and a chance of profit or success. ORIGIN early 18th century: from obsolete gamel ‘play games,’ or from the verb game1 .

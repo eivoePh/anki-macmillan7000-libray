@@ -9,12 +9,19 @@ B.  transitive verb
 ① (improve hardness of) 使…回火 shǐ… huíhuǒ ‹metal, blade›tempered steel 回火钢 
 ② (moderate) 缓和 huǎnhé ‹effect, rigours›; 使…下降 shǐ… xiàjiàng ‹expectation, enthusiasm›
 temper 
+ˈtempər
+
 ▶noun
-1 he walked out in a temper: fit of rage, rage, fury, fit of pique, tantrum, bad mood, mood, sulk, huff; informal grump, snit, hissy fit.
-2 a display of temper: anger, fury, rage, annoyance, vexation, irritation, irritability, ill humor, spleen, pique, petulance, testiness, tetchiness, touchiness, crabbiness; literary ire, choler.
-3 she struggled to keep her temper: composure, equanimity, self-control, self-possession, sangfroid, calm, good humor; informal cool.
-▶verb
-1 the steel is tempered by heat: harden, strengthen, toughen, fortify, anneal.
-2 their idealism is tempered with realism: moderate, modify, modulate, mitigate, alleviate, reduce, weaken, lighten, soften.
+1 [in singular] a person's state of mind seen in terms of their being angry or calm: he rushed out in a very bad temper. 
+• a tendency to become angry easily: I know my temper gets the better of me at times. 
+• an angry state of mind: Drew had walked out in a temper 
+I only said it in a fit of temper.
+2 the degree of hardness and elasticity in steel or other metal: the blade rapidly heats up and the metal loses its temper. 
+▶verb [with object]
+1 improve the hardness and elasticity of (steel or other metal) by reheating and then cooling it. 
+• improve the consistency or resiliency of (a substance) by heating it or adding particular substances to it.
+2 (often be tempered with) serve as a neutralizing or counterbalancing force to (something): their idealism is tempered with realism.
+3 tune (a piano or other instrument) so as to adjust the note intervals correctly. 
 PHRASES
-lose one's temper calm down, there's no need to lose your temper: get angry, fly into a rage, erupt, lose control, go berserk, breathe fire, flare up, boil over; informal go mad, go crazy, go bananas, have a fit, see red, fly off the handle, blow one's top, hit the roof, go off the deep end, go ape, flip, freak out. CHOOSE THE RIGHT WORD See alleviate .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+keep (or lose) one's temper refrain (or fail to refrain) from becoming angry. out of temper in an irritable mood.DERIVATIVES temperer nounORIGIN Old English temprian ‘bring something into the required condition by mixing it with something else,’ from Latin temperare ‘mingle, restrain oneself.’ Sense development was probably influenced by Old French temprer ‘to temper, moderate.’ The noun originally denoted a proportionate mixture of elements or qualities, also the combination of the four bodily humors, believed in medieval times to be the basis of temperament, hence sense
+1 of the noun (late Middle English). Compare with temperament .

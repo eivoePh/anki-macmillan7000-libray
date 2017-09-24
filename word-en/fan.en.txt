@@ -1,7 +1,27 @@
 fan
 1 
-▶noun a ceiling fan: ventilator, blower, air conditioner.
-▶verb
-1 she fanned her face: cool, aerate, ventilate; freshen, refresh.
-2 they fanned public fears: intensify, increase, agitate, inflame, exacerbate; stimulate, stir up, whip up, fuel, kindle, spark, arouse.
-3 the police squad fanned out : spread (out), branch (out); outspread.
+fan
+
+▶noun
+1 an apparatus with rotating blades that creates a current of air for cooling or ventilation.fan1
+2 2 a device, typically folding and shaped like a segment of a circle when spread out, that is held in the hand and waved so as to cool the person holding it by causing the air to move. 
+• a thing or shape resembling an open handheld fan. 
+• an alluvial or talus deposit spread out in an open fan shape at the foot of a slope. 
+• a small sail for keeping the head of a windmill toward the wind.
+3 a device for winnowing grain. 
+▶verb (fans, fanning, fanned)
+1 [with object] cool (especially a person or a part of the body) by waving something to create a current of air: he fanned himself with his hat. 
+• (of breath or a breeze) blow gently on: his breath fanned her skin as he leaned toward her. 
+• [with object] brush or drive away with a waving movement: a veil of smoke which she fanned away with a jeweled hand. 
+• [no object] Baseball & Hockey swing at and miss the ball or puck. 
+• [no object] Baseball (of a batter) strike out. 
+• Baseball (of a pitcher) strike out (a batter).
+2 [with object] increase the strength of (a fire) by blowing on it or stirring up the air near it: gusty wind fanned fires in Yellowstone Park. 
+• cause (a belief or emotion) to become stronger or more widespread: long-range weather forecasts fanned fears of drought damage.
+3 [no object] disperse or radiate from a central point to cover a wide area: the arriving passengers began to fan out through the town in search of lodgings. 
+• spread out or cause to spread out into a semicircular shape: [no object] : a dress made of tiny pleats that fanned out as she walked 
+[with object] : a wind fanned her hair out behind her. DERIVATIVES fanlike 
+-ˌlīk 
+adjective. fanner 
+ˈfanər 
+nounORIGIN Old English fann (as a noun denoting a device for winnowing grain), fannian (verb), from Latin vannus ‘winnowing fan.’ Compare with vane .

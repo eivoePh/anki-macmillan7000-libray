@@ -30,21 +30,35 @@ C.  intransitive verb
 ① (face or front the direction of) 面向 miànxiàng she was facing towards the road 她面朝着马路 this room faces towards the south 这间屋子朝南 when travelling on a train I prefer to face forwards 我乘火车旅行时喜欢面朝前坐 
 ② AmE Military 改变方向 gǎibiàn fāngxiàng about/left/right face! 向后/左/右转！ PHRASAL VERBS face down transitive verb[face somebody/something down, face down somebody/something] 决然把…压倒 juérán bǎ… yādǎo she faced down the protestors 她挫败了反对者 he faced down some severe questioning 他抗住了严厉的质问 face out transitive verb[face somebody/something out] 与…硬顶到底 yǔ… yìngdǐng dàodǐ ‹person, critics›; 在…中坚持到底 zài… zhōng jiānchí dàodǐ ‹situation, crisis, matter›face up to transitive verb[face up to somebody/something] 勇于面对 yǒngyú miànduì to face up to the fact that … 正视…的现实 to face up to one's responsibilities 勇于承担自己的责任 
 face 
+fās
+
 ▶noun
-1 a beautiful face: countenance, physiognomy, features; informal mug; puss; literary visage; archaic front.
-2 her face grew sad: (facial) expression, look, appearance, air, manner, bearing, countenance, mien.
-3 he made a face at the sourness of the drink: grimace, scowl, wry face, wince, frown, glower, pout, moue.
-4 a cube has six faces: side, aspect, flank, surface, plane, facet, wall, elevation.
-5 a watch face: dial, display.
-6 changing the face of the industry: appearance, outward appearance, aspect, nature, image.
-7 he put on a brave face: front, show, display, act, appearance, facade, exterior, mask, masquerade, pretense, pose, veneer.
-8 criticism should never cause the recipient to lose face: respect, honor, esteem, regard, admiration, approbation, acclaim, approval, favor, appreciation, popularity, prestige, standing, status, dignity; self-respect, self-esteem.
-▶verb
-1 the hotel faces the sea: look out on, front on to, look toward, be facing, look over/across, overlook, give on to, be opposite (to).
-2 you'll just have to face the facts: accept, become reconciled to, get used to, become accustomed to, adjust to, acclimatize oneself to; learn to live with, cope with, deal with, come to terms with, become resigned to.
-3 he faces a humiliating rejection: be confronted by, be faced with, encounter, experience, come into contact with, come up against.
-4 the problems facing our police force: beset, worry, distress, trouble, bother, confront; harass, oppress, vex, irritate, exasperate, strain, stress, tax; torment, plague, blight, bedevil, curse; formal discommode.
-5 he faced the challenge boldly: brave, face up to, encounter, meet, meet head-on, confront; oppose, resist, withstand.
-6 a wall faced with stucco: cover, clad, veneer, overlay, surface, dress, put a facing on, laminate, coat, line.
+1 the front part of a person's head from the forehead to the chin, or the corresponding part in an animal. 
+• the face as expressing emotion; an expression shown on the face: the happy faces of these children. 
+• a manifestation or outward aspect of something: the unacceptable face of social drinking. 
+• [with adjective] a person of a particular type: this season's squad has a lot of old faces in it.
+2 the surface of a thing, especially one that is presented to the view or has a particular function, in particular: 
+• Geometry each of the surfaces of a solid: the faces of a cube. 
+• a vertical or sloping side of a mountain or cliff: the south face of Broad Peak. 
+• the side of a planet or moon facing the observer. 
+• the front of a building. 
+• the plate of a clock or watch bearing the digits or hands. 
+• the distinctive side of a playing card. 
+• short for typeface. 
+• the side of a coin showing the head or principal design. 
+▶verb [with object]
+1 be positioned with the face or front toward (someone or something): he turned to face her. 
+• [no object] have the face or front pointing in a specified direction: the house faces due east. 
+• [no object] (of a soldier) turn in a particular direction: they immediately faced about.
+2 confront and deal with or accept: honesty forced her to face facts 
+[no object] : the candidates choose not to face up to the pragmatic issues. 
+• (face someone/something down) overcome someone or something by a show of determination: he faced down persistent hecklers at a noontime rally. 
+• have (a difficult event or situation) in prospect: each defendant faced a maximum sentence of
+10 years. 
+• (of a problem or difficult situation) present itself to and require action from (someone): if you were suddenly faced with an emergency, would you know how to cope?
+3 (usually be faced with) cover the surface of (a thing) with a layer of a different material: the external basement walls were faced with granite slabs. 
 PHRASES
-face to face the two men stood face to face: facing (each other), opposite (each other), across from each other. on the face of it on the face on it, the peace talks are going quite well: ostensibly, to all appearances, to all intents and purposes, at first glance, on the surface, superficially; apparently, seemingly, outwardly, it seems (that), it would seem (that), it appears (that), it would appear (that), as far as one can see/tell, by all accounts.
+face down with the face or surface turned toward the ground: he lay face down on his bed.face the music be confronted with the unpleasant consequences of one's actions. the face of the earth used for emphasis or exaggeration, to refer to the existence or disappearance of someone or something: he's just disappeared off the face of the earth 
+the most grueling training on the face of the earth. face up with the face or surface turned upward to view: place the panel face up before cutting.get out of someone's face [usually as imperative] North American informal stop harassing or annoying someone: shut up and get out of my face. have the face to do something dated have the effrontery to do something. in one's face directly at or against one; as one approaches: she slammed the door in my face. in the face of when confronted with: her resolution in the face of the enemy. 
+• in spite of: reform had been introduced in the face of considerable opposition. in your face see in-your-face. lose face suffer a loss of respect; be humiliated: the code of conduct required that he strike back or lose face. loss of face a loss of respect; humiliation: he could step aside now without loss of face. make a face (or faces) produce an expression on one's face that shows dislike, disgust, or some other negative emotion, or that is intended to be amusing: she made a face and tossed her purse at him.on the face of it without knowing all of the relevant facts; at first glance: on the face of it, these improvements look to be insignificant. put a good (or brave or bold) face on something act as if something unpleasant or upsetting is not as bad as it really is: he tried to put a good face on the financial picture. put one's face on informal apply makeup to one's face. save face retain respect; avoid humiliation: an outcome that allows them all to save face. set one's face against oppose or resist with determination: he had set his face against the idea. throw something back in someone's face reject something in a brusque or ungracious manner: she'd given him her trust and he'd thrown it back in her face. to one's face openly in one's presence: you're telling me to my face I'm a liar.PHRASAL VERBS face off chiefly North American take up an attitude of confrontation, especially at the start of a fight or game: close to a million soldiers face off in the desert. 
+• Ice Hockey start or restart play with a face-off.ORIGIN Middle English: from Old French, based on Latin facies ‘form, appearance, face.’

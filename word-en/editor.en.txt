@@ -1,10 +1,8 @@
 editor 
-BrE ˈɛdɪtə, AmE ˈɛdədər 
-noun 
-① (of book, manuscript) 编辑 biānjí 
-② (of anthology) 选编者 xuǎnbiānzhě 
-③ (of dictionary) 编纂者 biānzuǎnzhě 
-④ (of writer, literary work) 评注者 píngzhùzhě 
-⑤ (of film, tape, etc.) 剪辑者 jiǎnjízhě 
-⑥ (of newspaper, magazine, section) 主编 zhǔbiān 
-⑦ Computing 编辑程序 biānjí chéngxù 
+ˈedədər
+
+▶noun
+1 a person who is in charge of and determines the final content of a text, particularly a newspaper or magazine: the editor of The New York Times 
+a sports editor. 
+• a person who works for a publishing company, commissioning or preparing material for publication.
+2 a computer program enabling the user to enter or alter text. ORIGIN mid 17th century: from Latin, ‘producer (of games), publisher,’ from edit- ‘produced, put forth,’ from the verb edere .

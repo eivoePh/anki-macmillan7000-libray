@@ -4,6 +4,13 @@ conjunction 也不 yě bù I have neither the time nor the money 我既没有时
 A. 
 ① 
 nor 
-BrE nɔː, nə, AmE nɔr 
-conjunction 也不 yě bù I have neither the time nor the money 我既没有时间也没有钱 he's not Spanish — nor is John 他不是西班牙人──约翰也不是 not a building nor a tree was left standing formal 房屋和树木无一例外全倒了 → here A.
-① 
+nôr
+
+▶conjunction & adverb
+1 used before the second or further of two or more alternatives (the first being introduced by a negative such as “neither” or “not”) to indicate that they are each untrue or each do not happen: they were neither cheap nor convenient 
+the sheets were never washed, nor the towels, nor his shirts. 
+• [as adverb] literary term for neither: nor God nor demon can undo the done.
+2 used to introduce a further negative statement: the struggle did not end, nor was it any less diminished.
+3 [conjunction or preposition] archaic or dialect than: she thinks she knows better nor me. 
+▶noun (usually NOR) Electronics a Boolean operator that gives the value one if and only if all operands have a value of zero and otherwise has a value of zero. 
+• (also NOR gate) a circuit that produces an output signal only when there are no signals on any of the input connections. ORIGIN Middle English: contraction of Old English nother ‘neither.’ usage: On the use of neither … nor, see usage at neither .

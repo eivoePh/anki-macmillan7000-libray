@@ -8,10 +8,12 @@ noun
 ⑤ CountableLaw (proposition or argument) [向法官或陪审团提出的] 意见 yìjiàn to make a submission that … 提出…的意见 
 ⑥ Countableformal (opinion) 看法 kànfa in my submission 依我之见 
 submission 
+səbˈmiSHən
+
 ▶noun
-1 submission to authority: yielding, capitulation, acceptance, consent, compliance. ANTONYMS defiance.
-2 Tim raised his hands in submission: surrender, capitulation, resignation, defeat.
-3 he wanted her total submission: compliance, submissiveness, acquiescence, passivity, obedience, docility, deference, subservience, servility, subjection. ANTONYMS defiance, resistance.
-4 a report for submission to the Board: presentation, presenting, proffering, tendering, proposal, proposing.
-5 his original submission: proposal, suggestion, proposition, recommendation.
-6 the judge rejected her submission: argument, assertion, contention, statement, claim, allegation.
+1 the action or fact of accepting or yielding to a superior force or to the will or authority of another person: they were forced into submission. 
+• Wrestling an act of surrendering to a hold by one's opponent. 
+• archaic humility; meekness: servile flattery and submission.
+2 the action of presenting a proposal, application, or other document for consideration or judgment: reports should be prepared for submission at partners' meetings. 
+• a proposal, application, or other document presented in this way. 
+• Law a proposition or argument presented by a lawyer to a judge or jury. ORIGIN late Middle English: from Old French, or from Latin submissio(n-), from the verb submittere (see submit) .

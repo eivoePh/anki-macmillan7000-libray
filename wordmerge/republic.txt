@@ -2,5 +2,7 @@ republic
 BrE rɪˈpʌblɪk, AmE rəˈpəblɪk 
 noun 共和国 gònghéguó the People's Republic of China 中华人民共和国 
 republic 
-BrE rɪˈpʌblɪk, AmE rəˈpəblɪk 
-noun 共和国 gònghéguó the People's Republic of China 中华人民共和国 
+rəˈpəblik
+
+▶noun a state in which supreme power is held by the people and their elected representatives, and which has an elected or nominated president rather than a monarch. 
+• archaic a group with a certain equality between its members. ORIGIN late 16th century: from French république, from Latin respublica, from res ‘entity, concern’ + publicus ‘of the people, public.’

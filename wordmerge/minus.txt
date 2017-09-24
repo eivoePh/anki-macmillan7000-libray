@@ -15,17 +15,19 @@ C.  noun(plural minuses)
 ① (sign) 减号 jiǎnhào two minuses make a plus 负负得正 
 ② (drawback) 缺点 quēdiǎn 
 minus 
-BrE ˈmʌɪnəs, AmE ˈmaɪnəs 
-A. preposition 
-① (less, reduced by) 减去 jiǎnqù six minus two equals four 六减二得四 it is minus
-15 (degrees) 气温是零下15度 
-② colloquial (without) 缺少 quēshǎo 
-B.  adjective 
-① (involving subtraction) 表示减的 biǎoshì jiǎn de minus symbol/key 减号/减号键 
-② (less than zero) 负的 fù de a minus number/value 负数/负值 
-③ (negative) 不利的 bùlì de ‹factor, side›
-④ (below grade in school) 略差的 lüè chà de he got two A minuses 他得了两个A-
-⑤ Electricity 负电的 fùdiàn de minus pole/terminal 负极/负极端子 
-C.  noun(plural minuses) 
-① (sign) 减号 jiǎnhào two minuses make a plus 负负得正 
-② (drawback) 缺点 quēdiǎn 
+ˈmīnəs
+
+▶preposition
+1 with the subtraction of: what's ninety-three minus seven? 
+• informal lacking; deprived of: he was minus a finger on each hand.
+2 (of temperature) below zero: minus 10° Fahrenheit. 
+▶adjective
+1 (before a number) below zero; negative: minus five.
+2 (after a grade) slightly worse than: my lowest grade was a B minus.
+3 having a negative electric charge. 
+▶noun
+1 short for minus sign. 
+• a mathematical operation of subtraction.
+2 a disadvantage: for every plus with this equipment there can be a minus. 
+PHRASES
+on the minus side used to introduce a negative statement: on the minus side, the economy is unbalanced.ORIGIN late 15th century: from Latin, neuter of minor ‘less.’

@@ -2,6 +2,8 @@ appraisal
 BrE əˈpreɪz(ə)l, AmE əˈpreɪzəl 
 noun 评价 píngjià to make an appraisal of [something] (estimation) 评价某事物 to give an appraisal of [something] (statement of value) 给某物估价 
 appraisal 
-▶noun
-1 an objective appraisal of the book: assessment, evaluation, estimation, judgment, rating, gauging, sizing up, summing-up, consideration.
-2 a free insurance appraisal: valuation, estimate, estimation, quotation, pricing; survey.
+əˈprāzəl
+
+▶noun an act of assessing something or someone: treatment begins with a thorough appraisal of the patient's condition 
+the report has been subject to appraisal. 
+• an expert estimate of the value of something: the final figure is just a little more than triple the appraisal.

@@ -1,5 +1,9 @@
 define 
-▶verb
-1 the dictionary defines it succinctly: explain, expound, interpret, elucidate, describe, clarify; give the meaning of, put into words.
-2 he defined the limits of the law: determine, establish, fix, specify, designate, decide, stipulate, set out; demarcate, delineate.
-3 the farm buildings were defined against the fields: outline, delineate, silhouette.
+dəˈfīn
+
+▶verb [with object]
+1 state or describe exactly the nature, scope, or meaning of: the contract will seek to define the client's obligations. 
+• give the meaning of (a word or phrase), especially in a dictionary. 
+• make up or establish the character of: for some, the football team defines their identity.
+2 mark out the boundary or limits of: (as adjective defined) : clearly defined boundaries. 
+• make clear the outline of; delineate: she defined her eyes by applying eyeshadow. DERIVATIVES definer nounORIGIN late Middle English (also in the sense ‘bring to an end’): from Old French definer, from a variant of Latin definire, from de- (expressing completion) + finire ‘finish’ (from finis ‘end’).

@@ -10,9 +10,7 @@ DVD drive
 DVD机
 DVD player
 ②digital versatile disc [通用数字光盘]
-DVD |ˌdē vē ˈdē|
-noun (plural DVDs)
-a type of compact disc able to store large amounts of data, especially high-resolution audiovisual material.
-ORIGIN
-1990s: abbreviation of digital versatile disc (originally of digital video disc).
-DVD abbreviation = Digital Versatile Disc 数字影碟 shùzì yǐngdié 
+DVD 
+ˌdē vē ˈdē
+
+▶noun (plural DVDs) a type of compact disc able to store large amounts of data, especially high-resolution audiovisual material. ORIGIN 1990s: abbreviation of digital versatile disc (originally of digital video disc).

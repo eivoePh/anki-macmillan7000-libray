@@ -9,9 +9,17 @@ A.  noun
 ⑤ BrE (tax form) 报税表 bàoshuìbiǎo 
 B.  transitive verb 安排 ānpái the publication of the novel is scheduled for September 小说定于九月出版 the plane/flight is scheduled to arrive at midday 飞机/航班定于正午到达 as scheduled 按计划 the power station was scheduled for completion in 2005 发电站计划于2005年完工 
 schedule 
+ˈskejəl
+
 ▶noun
-1 we need to draw up a production schedule: plan, program, timetable, scheme.
-2 I have a very busy schedule: timetable, agenda, diary, calendar, timeline; itinerary.
-▶verb another meeting was scheduled for April 20: arrange, organize, plan, program, timetable, set up, calendarize, line up, slate.
+1 a plan for carrying out a process or procedure, giving lists of intended events and times: we have drawn up an engineering schedule. 
+• (usually one's schedule) one's day-to-day plans or timetable: take a moment out of your busy schedule. 
+• a timetable: information on airline schedules.
+2 chiefly Law an appendix to a formal document or statute, especially as a list, table, or inventory.
+3 (with reference to an income tax system) any of the forms (named “A,” “B,” etc.) issued for completion and relating to the various classes into which taxable income is divided. 
+▶verb [with object] arrange or plan (an event) to take place at a particular time: the release of the single is scheduled for April. 
+• make arrangements for (someone or something) to do something: [with object and infinitive] : he is scheduled to be released from prison this spring. 
 PHRASES
-behind schedule the museum renovations are behind schedule: late, running late, overdue, behind time, behind, behindhand.
+ahead of (or behind) schedule earlier (or later) than planned or expected. on (or according to) schedule on time; as planned or expected.DERIVATIVES schedular 
+-ər 
+adjectiveORIGIN late Middle English (in the sense ‘scroll, explanatory note, appendix’): from Old French cedule, from late Latin schedula ‘slip of paper,’ diminutive of scheda, from Greek skhedē ‘papyrus leaf.’ The verb dates from the mid 19th century.

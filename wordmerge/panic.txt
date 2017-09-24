@@ -7,8 +7,14 @@ A.  noun
 ③ Countable(financial alarm) 经济恐慌 jīngjì kǒnghuāng to throw Wall Street into a panic 使华尔街陷入恐慌 
 B.  intransitive verb (present participle etc. -ck-) 感到惊慌 gǎndào jīnghuāng to panic at the idea/sight of … 想到/看到…惊慌失措 
 C.  transitive verb (present participle etc. -ck-) 使恐慌 shǐ kǒnghuāng to panic [somebody] into doing [something]; 使某人仓皇做某事 
-panic 
-▶noun a wave of panic: alarm, anxiety, nervousness, fear, fright, trepidation, dread, terror, agitation, hysteria, consternation, perturbation, dismay, apprehension; informal flap, fluster, cold sweat, funk, tizzy, swivet. ANTONYMS calm.
-▶verb
-1 there's no need to panic: be alarmed, be scared, be nervous, be afraid, take fright, be agitated, be hysterical, lose one's nerve, get overwrought, get worked up; informal flap, get in a flap, lose one's cool, get into a tizzy, freak out, get in a stew, have kittens.
-2 talk of love panicked her: frighten, alarm, scare, unnerve; informal throw into a tizzy, freak out.
+panic
+1 
+ˈpanik
+
+▶noun sudden uncontrollable fear or anxiety, often causing wildly unthinking behavior: she hit him in panic 
+[in singular] : he ran to the library in a blind panic. 
+• widespread financial or commercial apprehension provoking hasty action: he caused an economic panic by his sudden resignation 
+[as modifier] : panic selling. 
+• informal a frenzied hurry to do something: a workload of constant panics and rush jobs. 
+▶verb (panics, panicking, panicked) feel or cause to feel panic: [no object] : the crowd panicked and stampeded for the exit 
+[with object] : talk of love panicked her. ORIGIN early 17th century: from French panique, from modern Latin panicus, from Greek panikos, from the name of the god Pan, noted for causing terror, to whom woodland noises were attributed.

@@ -9,8 +9,19 @@ noun
 ⑥ Uncountable(provision of sth. promised) 交出 jiāochū 
 ⑦ Uncountable(deliverance) 解救 jiějiù 
 delivery 
-▶noun
-1 the delivery of the goods: conveyance, carriage, transportation, transport, distribution; dispatch, remittance; haulage, shipment.
-2 we get several deliveries a day: consignment, load, shipment.
-3 the midwife had assisted at four deliveries: birth, childbirth; formal parturition.
-4 her delivery was stilted: speech, pronunciation, enunciation, articulation, elocution; utterance, recitation, recital, execution.
+dəˈliv(ə)rē
+
+▶noun (plural deliveries)
+1 the action of delivering letters, packages, or ordered goods: allow up to 28 days for delivery. 
+• a regular or scheduled occasion for this: there will be around
+15 deliveries a week. 
+• an item or items delivered on a particular occasion: they are getting smaller deliveries. 
+• Law the formal or symbolic handing over of property, especially a sealed deed, to a grantee or third party.
+2 the process of giving birth: injuries sustained during delivery 
+practically all deliveries take place in a hospital 
+[as modifier] : the delivery room.
+3 an act of throwing or bowling a ball or striking a blow: a quick, compact delivery that sent the ball zinging.
+4 the manner or style of giving a speech: her delivery was stilted.
+5 the supply or provision of something: delivery of electricity at a specified price. 
+PHRASES
+take delivery of receive (something purchased): we took delivery of the software in February.ORIGIN late Middle English: from Anglo-Norman French delivree, feminine past participle of delivrer (see deliver) .

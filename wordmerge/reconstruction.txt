@@ -6,9 +6,10 @@ noun
 ③ Countable(model) 重构物 chónggòuwù a reconstruction of the skeleton of a brontosaurus 雷龙的骨骼复原模型 
 ④ Uncountable(reorganization) 重组 chóngzǔ a system badly in need of reconstruction 亟待改革的制度 
 reconstruction 
-BrE riːkənˈstrʌkʃn, AmE ˌrikənˈstrəkʃ(ə)n 
-noun 
-① Uncountable(rebuilding) 重建 chóngjiàn 
-② Countable(re-enactment) 再现 zàixiàn police staged a reconstruction of the crime 警方放映了重现犯罪情形的短片 
-③ Countable(model) 重构物 chónggòuwù a reconstruction of the skeleton of a brontosaurus 雷龙的骨骼复原模型 
-④ Uncountable(reorganization) 重组 chóngzǔ a system badly in need of reconstruction 亟待改革的制度 
+ˌrēkənˈstrəkSH(ə)n
+
+▶noun the action or process of reconstructing or being reconstructed: the economic reconstruction of Russia 
+[as modifier] : reconstruction work. 
+• a thing that has been rebuilt after being damaged or destroyed: comparison between the original and the reconstruction. 
+• an impression, model, or re-enactment of a past event formed from the available evidence: a reconstruction of the accident would be staged to try to discover the cause of the tragedy. 
+• (Reconstruction) the period 1865–77 following the Civil War, during which the states of the Confederacy were controlled by the federal government and social legislation, including the granting of new rights to African-Americans, was introduced.

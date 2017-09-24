@@ -5,9 +5,11 @@ noun
 ② Countable(preferred thing) 偏爱的事物 piān'ài de shìwù (preferred person) 偏爱的人 piān'ài de rén 
 ③ Uncountable(favour) 偏心 piānxīn to give preference to [somebody] (over [somebody]) 优先考虑某人（而不是某人） to show preference to or towards [somebody]; 表现出偏爱某人 
 preference 
+ˈpref(ə)rəns
+
 ▶noun
-1 her preference for boys' games: liking, partiality, predilection, proclivity, fondness, taste, inclination, leaning, bias, bent, penchant, predisposition.
-2 my preference is rock music: favorite, (first) choice, selection; informal cup of tea, thing, druthers.
-3 preference will be given to applicants speaking Japanese: priority, favor, precedence, preferential treatment.
-PHRASES
-in preference to the thief chose their home in preference to others: rather than, instead of, in place of, sooner than. REFLECTIONS See druthers Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+1 a greater liking for one alternative over another or others: a preference for long walks and tennis over jogging 
+he chose a clock in preference to a watch. 
+• a thing preferred: my musical preferences are blues and swing. 
+• favor shown to one person or thing over another or others: preference is given to those who make a donation.
+2 Law a prior right or precedence, especially in connection with the payment of debts: debts owed to the community should be accorded a preference. ORIGIN late Middle English (in the sense ‘promotion’): from Old French, from medieval Latin praeferentia, from Latin praeferre ‘carry in front’ (see prefer) .

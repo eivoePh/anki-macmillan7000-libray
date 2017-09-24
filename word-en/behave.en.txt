@@ -1,4 +1,9 @@
 behave 
-▶verb
-1 she behaved badly: conduct oneself, act, acquit oneself, bear oneself; formal comport oneself; archaic deport oneself.
-2 the children behaved themselves: act correctly, act properly, conduct oneself well, be well behaved, be good; be polite, show good manners, mind one's manners. ANTONYMS misbehave.
+bəˈhāv
+
+▶verb [no object]
+1 [with adverbial] act or conduct oneself in a specified way, especially toward others: he always behaved like a gentleman 
+you should behave affectionately toward the patient. 
+• (of a machine or natural phenomenon) work or function in a specified way: each car behaves differently.
+2 [often in imperative] conduct oneself in accordance with the accepted norms of a society or group: you can go as long as you behave 
+(behave oneself) : they were expected to behave themselves. ORIGIN late Middle English: from be- + have in the sense ‘have or bear (oneself) in a particular way’ (corresponding to modern German sich behaben).

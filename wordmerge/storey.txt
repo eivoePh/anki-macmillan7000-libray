@@ -2,11 +2,7 @@ storey
 BrE ˈstɔːri, AmE ˈstɔri 
 noun(plural storeys) 楼层 lóucéng on the top storey 在顶楼 a single-storey building 单层建筑 a three-storeyed building 一座三层楼 
 story
-1 
-▶noun
-1 a story about his summer in Hawaii: tale, narrative, account, anecdote; informal yarn, spiel.
-2 the novel has a good story: plot, storyline, scenario, libretto.
-3 the story appeared in the papers: news item, news report, article, feature, piece.
-4 there have been a lot of stories going around: rumor, piece of gossip, whisper; speculation.
-5 Harper changed his story: testimony, statement, report, account, version.
-6 Ellie never told stories. See falsehood (sense 1). REFLECTIONS David Crystalstory People tell stories about their stories at literature festivals. It's interesting how the meaning of this word has come full circle. Originally, in the 13th century, stories had to be true: the word was a synonym for 'history'—indeed, it came from Latin historia. But very soon it was applied to stories alleged to be true, and then (by the 16th century) to stories that were definitely not true. Today, the original meaning seems to be reasserting itself: I've lost track of the number of historical television programmes called "The story of something-or-other." Maybe it's time to resuscitate the verb use too: in the 16th century, there was a splendid usage: to story forth, meaning 'to proclaim the story of.' It's what happens in dictionaries and thesauruses, after all. Which reminds me of the story that Eric Partridge tells, in The Gentle Art of Lexicography, of the old lady who borrowed a dictionary from the town library. She returned it with the comment: "A very unusual book indeed—but the stories are extremely short, aren't they?"Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+2 
+ˈstôrē 
+(British also storey) 
+▶noun (plural stories or storeys) North American a part of a building comprising all the rooms that are on the same level: [in combination] : a three-story building. ORIGIN late Middle English: shortening of Latin historia ‘history, story,’ a special use in Anglo-Latin, perhaps originally denoting a tier of painted windows or sculptures on the front of a building (representing a historical subject).

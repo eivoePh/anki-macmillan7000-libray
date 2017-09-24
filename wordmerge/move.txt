@@ -116,24 +116,49 @@ A.  intransitive verb
 ③ Finance (increase) «stocks, index» 上升 shàngshēng to move up two points 升高两点 
 B.  transitive verb [move somebody up] (promote) 使…晋升 shǐ… jìnshēng ‹employee›; Sport 使…排名提高 shǐ… páimíng tígāo ‹team, player›to move [somebody] up (a class) BrE 让…升（高一年）级 ‹pupil›
 move 
+mo͞ov
+
 ▶verb
-1 she moved to the door 
-don't move! go, walk, proceed, progress, advance; budge, stir, shift, change position.
-2 he moved the chair closer to the fire: carry, transport, transfer, shift.
-3 things were moving too fast: (make) progress, make headway, advance, develop.
-4 he urged the council to move quickly: take action, act, take steps, do something, take measures; informal get moving.
-5 she's moved to Rotterdam: relocate, move away, change one's address, leave, go away, go down the road, decamp, pull up stakes.
-6 I was deeply moved by the story: affect, touch, impress, shake, upset, disturb, make an impression on.
-7 she was moved to act: inspire, prompt, stimulate, motivate, provoke, influence, rouse, induce, incite.
-8 they are not prepared to move on this issue: change, budge, shift one's ground, change one's tune, change one's mind, have second thoughts; make a U-turn, do an about-face.
-9 she moves in the art world: circulate, mix, socialize, keep company, associate; informal hang out/around.
-10 I move that we adjourn: propose, submit, suggest, advocate, recommend, urge.
-▶noun
-1 his eyes followed her every move: movement, motion, action; gesture, gesticulation.
-2 his recent move to Sarasota: relocation, change of address, transfer, posting.
-3 the latest move in the war against drugs: initiative, step, action, act, measure, maneuver, tactic, stratagem.
-4 it's your move: turn, go; opportunity, chance.
+1 [no object] go in a specified direction or manner; change position: she stood up and moved to the door 
+he let his eyes move across the rows of faces. 
+• [with object] change the place or position of: she moved the tray to a side table. 
+• change one's place of residence or work: his family moved to London when he was a child. 
+• (of a player) change the position of a piece in a board game: White has forced his opponent to move 
+[with object] : if Black moves his bishop, he loses a pawn.
+2 change or cause to change from one state, opinion, sphere, or activity to another: [no object] : the school moved over to the new course in 1987 
+[with object] : she deftly moved the conversation to safer territory. 
+• [with object] influence or prompt (someone) to do something: his deep love of music moved him to take lessons with Dr. Hill. 
+• [no object] take action: hard-liners may yet move against him, but their success might be limited. 
+• [with object] provoke a strong feeling, especially of sorrow or sympathy, in: he was moved to tears by a get-well message from the president. 
+• [with object] archaic stir up (an emotion) in someone: he justly moves one's derision.
+3 [no object] make progress; develop in a particular manner or direction: aircraft design had moved forward a long way 
+legislators are anxious to get things moving as soon as possible. 
+• informal depart; start off: let's move—it's time we started shopping. 
+• [in imperative] (move it) informal used to urge or command someone to hurry up: come on—move it! 
+• informal go quickly: Kenny was really moving when he made contact with a tire at the hairpin and flipped over. 
+• (with reference to merchandise) sell or be sold: [no object] : despite the high prices, goods are moving 
+[with object] : She moves more pickups than her male counterparts.
+4 [no object] (move in/within) spend one's time or be socially active in (a particular sphere) or among (a particular group of people): they moved in different circles of friends.
+5 [with object] propose for discussion and resolution at a meeting or legislative assembly: she intends to move an amendment to the bill 
+[with clause] : I beg to move that this House deplores the current economic policies. 
+• make a formal request or application to (a court or assembly) for something: his family moved the court for adequate “maintenance expenses” to run the household.
+6 [with object] empty (one's bowels). 
+▶noun a change of place, position, or state: she made a sudden move toward me 
+his eyes followed her every move 
+the country's move to independence 
+a career move. 
+• a change of house or business premises. 
+• an action that initiates or advances a process or plan: my next move is to talk to Matthew. 
+• a maneuver in a sport or game. 
+• a change of position of a piece in a board game: that move will put your king in check. 
+• a player's turn to make a change of position: it's your move. 
 PHRASES
-get a move on informal c'mon guys, let's get a move on: hurry up, speed (it) up, move faster; informal get cracking, get moving, step on it, shake a leg, hop to it; dated make haste. make a move waiting for the other side to make a move: do something, take action, act, take the initiative; informal get moving. on the move
-1 she's always on the move: traveling, in transit, moving, journeying, on the road; informal on the go.
-2 the economy is on the move: progressing, making progress, advancing, developing.
+get a move on [often in imperative] informal hurry up. get moving [often in imperative] informal make a prompt start (on a journey or an undertaking): you're here to work, so get moving. make a move take action: each army was waiting for the other side to make a move. 
+• British set off; leave somewhere: I think I'd better be making a move. make a move on (or put the moves on) informal make a proposition to (someone), especially of a sexual nature.move the goalposts see goalpost. move heaven and earth see heaven. move mountains see mountain. move with the times keep abreast of current thinking or developments. not move a muscle see muscle. on the move in the process of moving from one place or job to another: it's difficult to contact her because she's always on the move. 
+• making progress: the economy appeared to be on the move.PHRASAL VERBS move along [often in imperative] change to a new position, especially to avoid causing an obstruction: “Move along, move along,” said the cop. move aside see move over below. move in
+1 take possession of a new house or business premises. 
+• (move in with) start to share accommodations with (an existing resident).
+2 intervene, especially so as to take control of a situation: this riot could have been avoided had the police moved in earlier. move in on approach, especially so as to take action: the police moved in on him. 
+• become involved with so as to take control of or put pressure on: the bank did not usually move in on doubtful institutions until they were almost bankrupt. move on (or move someone on) go or cause to leave somewhere, especially because one is causing an obstruction: the Mounties briskly ordered them to move on. 
+• (move on) progress: ballet has moved on, leaving Russia behind.move out (or move someone out) leave or cause to leave one's place of residence or work.move over (or aside) adjust one's position to make room for someone else: Jo motioned to the girls on the couch to move over. 
+• relinquish a job or leading position, typically because of being superseded by someone or something more competent or important: it's time for the film establishment to move aside and make way for a new generation.move up adjust one's position, either to be nearer or make room for someone else: there'd be room for me if you'd just move up a bit.ORIGIN Middle English: from Old French moveir, from Latin movere .

@@ -17,10 +17,31 @@ B.  transitive verb[steam something off, steam off something] 用蒸汽使脱离
 A.  intransitive verb 蒙上水汽 méngshang shuǐqì my glasses have steamed up! 我的眼镜上起了一层雾！ 
 B.  transitive verb[steam something up, steam up something] 使蒙上水汽 shǐ méngshang shuǐqì 
 steam 
-▶noun
-1 steam from the kettle: water vapor, condensation, mist, haze, fog, moisture.
-2 he ran out of steam: energy, vigor, vitality, stamina, enthusiasm; momentum, impetus, force, strength, thrust, impulse, push, drive; speed, pace.
+stēm
+
+▶noun the vapor into which water is converted when heated, forming a white mist of minute water droplets in the air. 
+• the invisible gaseous form of water, formed by boiling, from which vapor condenses. 
+• the expansive force of steam used as a source of power for machines: the equipment was originally powered by steam 
+[as modifier] : a steam train. 
+• locomotives and railroad systems powered by steam: the last years of steam. 
+• energy and momentum or impetus: the anticorruption drive gathered steam. 
+▶verb
+1 [no object] give off or produce steam: a mug of coffee was steaming at her elbow. 
+• (steam up or steam something up) become or cause to become covered or misted over with steam: the glass keeps steaming up 
+[with object] : the warm air had begun to steam up the windows. 
+• (often be/get steamed up) informal be or become extremely agitated or angry: you got all steamed up over nothing! 
+after steaming behind the closed door in his office, he came out and screamed at her.
+2 [with object] cook (food) by heating it in steam from boiling water: steam the vegetables until just tender. 
+• [no object] (of food) cook by being heated in steam from boiling water: add the mussels and leave them to steam. 
+• clean or otherwise treat with steam: he steamed his shirts in the bathroom to remove the wrinkles. 
+• [with object and complement or adverbial] apply steam to (something fixed with adhesive) so as to open or loosen it: he'd steamed the letter open and then resealed it. 
+• operate (a steam locomotive).
+3 [no object, with adverbial of direction] (of a ship or train) travel somewhere under steam power: the 11:54 steamed into the station. 
+• informal come, go, or move somewhere rapidly or in a forceful way: Jerry steamed in ten minutes late 
+figurative : the company has steamed ahead with its investment program. 
+• [no object] (steam in) British informal start or join a fight. 
+• [no object] (often as noun steaming) British informal (of a gang of thieves) move rapidly through a public place, stealing things or robbing people on the way. 
 PHRASES
-steamed up informal
-1 he got steamed up about forgetting his papers. See agitated.
-2 they get steamed up about the media. See angry (sense 1). let/blow off steam informal you'll go nuts if you don't let off steam once in a while: give vent to one's feelings, speak one's mind, speak out, sound off, lose one's inhibitions, let oneself go; use up surplus energy.
+pick up (or get up) steam
+1 generate enough pressure to drive a steam engine.
+2 (of a project in its early stages) gradually gain more impetus and driving force: his campaign steadily picked up steam. have steam coming out of one's ears informal be extremely angry or irritated. in steam (of a steam locomotive) ready for work, with steam in the boiler. let (or blow) off steam informal (of a person) get rid of pent-up energy or strong emotion. run out of (or lose) steam informal lose impetus or enthusiasm: a rebellion that had run out of steam. under one's own steam (with reference to travel) without assistance from others: we're going to have to get there under our own steam. under steam (of a machine) being operated by steam.ORIGIN Old English stēam ‘vapor,’ stēman ‘emit a scent, be exhaled,’ of Germanic origin; related to Dutch stoom ‘steam.’

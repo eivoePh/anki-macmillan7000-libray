@@ -1,13 +1,29 @@
 release 
-▶verb
-1 all prisoners were released: free, set free, let go/out, allow to leave, liberate, set at liberty; historical manumit. ANTONYMS imprison.
-2 Burke released the animal: untie, undo, loose, let go, unleash, unfetter. ANTONYMS tie up.
-3 this released staff for other duties: make available, free, free up, put at someone's disposal, supply, furnish, provide. ANTONYMS detain.
-4 she released Stephen from his promise: excuse, exempt, discharge, deliver, absolve; informal let off.
-5 police released the news yesterday: make public, make known, issue, break, announce, declare, report, reveal, divulge, disclose, publish, broadcast, circulate, communicate, disseminate. ANTONYMS suppress, withhold.
-6 the film has been released on video: launch, put on the market, put on sale, bring out, make available.
+rəˈlēs
+
+▶verb [with object]
+1 allow or enable to escape from confinement; set free: the government announced that the prisoners would be released.
+2 allow (something) to move, act, or flow freely: she released his arm and pushed him aside 
+growth hormone is released into the blood during the first part of sleep. 
+• remove restrictions or obligations from (someone or something) so that they become available for other activity: the strategy would release forces for service in other areas. 
+• remove (part of a machine or appliance) from a fixed position, allowing something else to move or function: he released the handbrake. 
+• allow (something) to return to its resting position by ceasing to put pressure on it: press and release the reset button quickly.
+3 allow (information) to be generally available: no details about the contents of the talks were released. 
+• make (a movie or recording) available for general viewing or purchase: nine singles and one album had been released.
+4 Law remit or discharge (a debt). 
+• surrender (a right). 
+• make over (property or money) to another person or entity. 
 ▶noun
-1 the release of political prisoners: freeing, liberation, deliverance, bailout; freedom, liberty.
-2 the release of the news: issuing, announcement, declaration, reporting, revealing, divulging, disclosure, publication, communication, dissemination.
-3 a press release: announcement, bulletin, news flash, dispatch, proclamation.
-4 the hot new band's latest release: CD, album, single, record; video, film; book.
+1 the action or process of releasing or being released: a campaign by the prisoner's mother resulted in his release. 
+• a handle or catch that releases part of a mechanism.
+2 the action of making a movie, recording, or other product available for general viewing or purchase: the film was withheld for two years before its release. 
+• a movie or other product issued for viewing or purchase: his current album release has topped the charts for six months. 
+• a press release.
+3 Law the action of releasing property, money, or a right to another. 
+• a document effecting this. DERIVATIVES releasable adjective. releasee 
+riˌlēˈsē 
+noun (Law). releaser 
+rəˈlēsər 
+noun. releasor 
+rəˈlēsər 
+noun (Law)ORIGIN Middle English: from Old French reles (noun), relesser (verb), from Latin relaxare ‘stretch out again, slacken’ (see relax) .

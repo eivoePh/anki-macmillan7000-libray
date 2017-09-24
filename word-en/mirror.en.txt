@@ -1,5 +1,10 @@
 mirror 
-▶noun
-1 a quick look in the mirror: reflecting surface; full-length mirror, hand mirror, side mirror, rear-view mirror; chiefly British looking glass, glass.
-2 his life was a mirror of her own: reflection, twin, replica, copy, match, parallel.
-▶verb her music mirrored the mood of desperation: reflect, match, reproduce, imitate, simulate, copy, mimic, echo, parallel, correspond to.
+ˈmirər
+
+▶noun a reflective surface, now typically of glass coated with a metal amalgam, that reflects a clear image. 
+• something regarded as accurately representing something else: the stage is supposed to be the mirror of life. 
+• (also mirror site) Computing a site on a network that stores some or all of the contents from another site. 
+▶verb [with object] (of a reflective surface) show a reflection of: the clear water mirrored the sky. 
+• correspond to: gradations of educational attainment that mirror differences in social background. 
+• Computing keep a copy of some or all of the contents of (a network site) at another site, typically in order to improve accessibility. 
+• (usually as noun mirroring) Computing store copies of data on (two or more hard disks) as a method of protecting it. ORIGIN Middle English: from Old French mirour, based on Latin mirare ‘look at.’ Early senses also included ‘a crystal used in magic’ and ‘a person deserving imitation.’

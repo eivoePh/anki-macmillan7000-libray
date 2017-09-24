@@ -1,18 +1,42 @@
 raise 
-▶verb
-1 he raised a hand in greeting: lift, lift up, hold aloft, elevate, uplift, upraise, upthrust; hoist, haul up, hitch up. ANTONYMS lower.
-2 he raised himself in the bed: set upright, set vertical; sit up, stand up. ANTONYMS lay down, knock over.
-3 they raised prices: increase, put up, push up, up, mark up, escalate, inflate; informal hike (up), jack up, bump up. ANTONYMS lower, reduce.
-4 he raised his voice: amplify, louden, magnify, intensify, boost, lift, increase, heighten, augment. ANTONYMS lower.
-5 the temple was raised in 900 BC : build, construct, erect, assemble, put up. ANTONYMS raze, demolish.
-6 how will you raise the money? get, obtain, acquire; accumulate, amass, collect, fetch, net, make. ANTONYMS distribute, spend.
-7 the city raised troops to fight for them: recruit, enlist, sign up, conscript, call up, mobilize, rally, assemble, draft. ANTONYMS demobilize, stand down.
-8 a tax raised on imports: levy, impose, exact, demand, charge.
-9 he raised several objections: bring up, air, ventilate; present, table, propose, submit, advance, suggest, moot, put forward. ANTONYMS withdraw, keep quiet about.
-10 the disaster raised doubts about safety: give rise to, occasion, cause, produce, engender, elicit, create, result in, lead to, prompt, awaken, arouse, induce, kindle, incite, stir up, trigger, spark off, provoke, instigate, foment, whip up; literary beget. ANTONYMS allay, end.
-11 most parents try to raise their children well: bring up, rear, nurture, look after, care for, provide for, mother, parent, tend, cherish; hand-rear; educate, train.
-12 she raised cattle: breed, rear, nurture, keep, tend; grow, farm, cultivate, produce.
-13 he was raised to a captaincy: promote, advance, upgrade, elevate, ennoble; informal kick upstairs. ANTONYMS demote.
-▶noun the workers wanted a raise: pay increase, increment.
+rāz
+
+▶verb [with object]
+1 lift or move to a higher position or level: she raised both arms above her head 
+his flag was raised over the city. 
+• lift or move to a vertical position; set upright: Melody managed to raise him to his feet. 
+• construct or build (a structure): a fence was being raised around the property. 
+• cause to rise or form: the galloping horse raised a cloud of dust. 
+• bring to the surface (something that has sunk). 
+• cause (bread) to rise, especially by the action of yeast. 
+• make (a nap) on cloth.
+2 increase the amount, level, or strength of: the bank raised interest rates 
+the aim was to raise awareness of the plight of the homeless. 
+• promote (someone) to a higher rank: the king raised him to the title of Count Torre Bella. 
+• (usually as noun raising) Linguistics (in transformational grammar) move (a noun phrase) out of a subordinate clause and into a main clause under certain conditions. 
+• (raise something to) Mathematics multiply a quantity by itself to (a specified power):
+3 raised to the 7th power is 2,187. 
+• [with two objects] (in poker or brag) bet (a specified amount) more than (another player): I'll raise you another hundred dollars. 
+• [with object] Bridge make a higher bid in the same suit as that bid by (one's partner).
+3 cause to occur or be considered: the alarm was raised when he failed to return home 
+doubts have been raised about the future of the reprocessing plant. 
+• generate (an invoice or other document).
+4 collect, levy, or bring together (money or resources): she was attempting to raise $20,000.
+5 bring up (a child): he was born and raised in San Francisco. 
+• breed or grow (animals or plants): they raised pigs and kept a pony.
+6 bring (someone) back from death: God raised Jesus from the dead.
+7 abandon or force an enemy to abandon (a siege, blockade, or embargo).
+8 drive (an animal) from its lair: the jack rabbit was only 250 yards from where he first raised it. 
+• cause (a ghost or spirit) to appear: figurative : the piece raises the ghosts of a number of twentieth-century art ideas. 
+• British informal establish contact with (someone), especially by telephone or radio: I raised him on the open line. 
+• (of someone at sea) come in sight of (land or another ship): they raised the low coast by evening.
+9 Medicine stimulate production of (an antiserum, antibody, or other biologically active substance) against the appropriate target cell or substance. 
+▶noun
+1 North American an increase in salary: he wants a raise and some perks.
+2 (in poker or brag) an increase in a stake. 
+• Bridge a higher bid in the suit that one's partner has bid.
+3 [usually with adjective] Weightlifting an act of lifting or raising a part of the body while holding a weight: bent-over raises. 
 PHRASES
-raise hell informal see hell. 
+raise Cain see Cain. raise the devil informal make a noisy disturbance. raise one's eyebrows see eyebrow. raise one's glass drink a toast: I raised my glass to Susan. raise one's hand strike or seem to be about to strike someone: she raised her hand to me. raise one's hat briefly remove one's hat as a gesture of courtesy or respect to someone. raise hell informal make a noisy disturbance. 
+• complain vociferously: he raised hell with real estate developers and polluters. raise hob see hob2. raise a laugh make people laugh. raise the roof make or cause someone else to make a great deal of noise, especially through cheering: when I finally scored, the fans raised the roof. raise one's voice speak more loudly. 
+• begin to speak or sing.DERIVATIVES raisable adjectiveORIGIN Middle English: from Old Norse reisa; related to the verb rear2 .

@@ -22,20 +22,38 @@ D.  intransitive verb
 ② (divide) «crowd» 散去 sànqù ; «lips» 张开 zhāngkāi ; «curtains» 拉开 lākāi the clouds parted, and the sun shone through 云开日见 
 ③ (break) «rope, cable, line» 断裂 duànliè PHRASAL VERB part with transitive verb[part with something] 割舍 gēshě ‹cherished object›
 part 
+pärt
+
 ▶noun
-1 the last part of the cake 
-a large part of their life: bit, slice, chunk, lump, hunk, wedge, fragment, scrap, piece; portion, proportion, percentage, fraction. ANTONYMS whole.
-2 car parts: component, bit, constituent, element, module.
-3 body parts: part of the body, organ, limb, member.
-4 the third part of the book: section, division, volume, chapter, act, scene, installment.
-5 another part of the country: district, neighborhood, quarter, section, area, region.
-6 the part of Juliet: (theatrical) role, character, persona.
-7 she's learning her part: lines, words, script, speech; libretto, lyrics, score.
-8 he was jailed for his part in the affair: involvement, role, function, hand, work, responsibility, capacity, position, participation, contribution; informal bit.
-▶verb
-1 the curtains parted: separate, divide (in two), split (in two), move apart. ANTONYMS join.
-2 we parted on bad terms: leave, take one's leave, say goodbye/farewell, say one's goodbyes/farewells, go one's (separate) ways, split, go away, depart. ANTONYMS meet.
-▶adjective a part payment: incomplete, partial, half, semi-, limited, inadequate, insufficient, unfinished. ANTONYMS complete.
-▶adverb it is part finished: to a certain extent/degree, to some extent/degree, partly, partially, in part, half, relatively, comparatively, (up) to a point, somewhat; not totally, not entirely, (very) nearly, almost, just about, all but. ANTONYMS completely.
+1 a piece or segment of something such as an object, activity, or period of time, which combined with other pieces makes up the whole: divide the circle into three equal parts 
+the early part of 1989. 
+• an element or constituent that belongs to something and is essential to its nature: I was part of the family. 
+• a component of a machine: the production of aircraft parts. 
+• a measure allowing comparison between the amounts of different ingredients used in a mixture: repot plants in a mixture of three parts soil, one part sand. 
+• a specified fraction of a whole: they paid a twentieth part of the cost. 
+• a division of a book treated as a unit in which a particular topic is discussed. 
+• (parts) informal short for private parts.
+2 some but not all of something: the painting tells only part of the story. 
+• a point on or area of something: hold the furthest part of your leg that you can reach. 
+• (parts) informal a region, especially one not clearly specified or delimited: they wanted to know why he was loitering in these parts.
+3 a character as represented in a play or movie; a role played by an actor or actress: she played a lot of leading parts 
+he took the part of Prospero. 
+• the words and directions to be learned and performed by an actor playing a role: she was memorizing a part. 
+• Music a melody or other constituent of harmony assigned to a particular voice or instrument in a musical work: he coped well with the percussion part. 
+• the contribution made by someone or something to an action or situation: he played a key part in ending the revolt 
+he may be jailed for his part in the robbery. 
+• the behavior appropriate to or expected of a person in a particular role or situation; a person's duty: in such a place his part is to make good.
+4 (parts) archaic abilities.
+5 North American a line of scalp revealed in a person's hair by combing the hair away in opposite directions on either side. 
+▶verb [no object] (of two things) move away from each other: his lips parted in a smile. 
+• divide to leave a central space: [no object] : at that moment the mist parted 
+[with object] : she parted the ferns and looked between them. 
+• leave someone's company: there was a good deal of kissing and more congratulations before we parted. 
+• (be parted) leave the company of someone: she can't bear to be parted from her daughter again. 
+• (part with) give up possession of; hand over: even quite small companies parted with large sums. 
+• [with object] separate (the hair of the head on either side of the part) with a comb. 
+▶adverb to some extent; partly (often used to contrast different parts of something): the city is now part slum, part consumer paradise. 
 PHRASES
-for the most part See mostly. in part the water damage is due in part to the clogged gutters: to a certain extent/degree, to some extent/degree, partly, partially, slightly, in some measure, (up) to a point. on the part of there is increased interest in these coins on the part of collectors: (made/done) by, carried out by, caused by, from. part with Danielle could not part with her stuffed animals: give up/away, relinquish, forgo, surrender, hand over, deliver up, dispose of. take part anyone who cares to can take part: participate, join in, get involved, enter, play a part/role, be a participant, contribute, have a hand, help, assist, lend a hand; informal get in on the act. take part in all students must take part in this course before the end of junior year: participate in, engage in, join in, get involved in, share in, play a part/role in, be a participant in, contribute to, be associated with, have a hand in. CHOOSE THE RIGHT WORD See fragment .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+act the part behave in a way appropriate to the particular role or situation that one is in. be part and parcel of be an essential feature or element of: it's best to accept that some inconveniences are part and parcel of travel. for my (or his, her, etc.) part used to focus attention on one person or group and distinguish them from others involved in a situation: for my part I was glad when the end of September came. in part to some extent though not entirely: the cause of the illness is at least in part psychological. look the part have an appearance or style of dress appropriate to a particular role or situation. a man of (many) parts a man showing great ability in many different areas. on the part of (or on my, their, etc., part) used to ascribe responsibility for something to someone: there was a series of errors on my part.part company (of two or more people) cease to be together; go in different directions: they parted company outside the Red Lion. 
+• (of two or more parties) cease to associate with each other, especially as the result of a disagreement: the chairman has parted company with the club. take part join in an activity; be involved: we have come here to take part in a major game 
+they ran away and took no part in the battle. take the part of give support and encouragement to (someone) in a dispute.ORIGIN Old English (denoting a part of speech), from Latin pars, part-. The verb (originally in Middle English in the sense ‘divide into parts’) is from Old French partir, from Latin partire, partiri ‘divide, share.’

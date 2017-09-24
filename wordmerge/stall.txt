@@ -17,11 +17,24 @@ D.  transitive verb
 ① Aviation 使…失速 shǐ… shīsù ‹aircraft›Auto 使…熄火 shǐ… xīhuǒ ‹engine›; 使…抛锚 shǐ… pāomáo ‹vehicle›
 ② (hold up) 拖延 tuōyán ‹negotiations, process, person›
 stall 
+stôl
+
 ▶noun
-1 a market stall: stand, table, counter, booth, kiosk.
-2 stalls for larger animals: pen, coop, sty, corral, enclosure, compartment.
+1 a stand, booth, or compartment for the sale of goods in a market or large covered area: fruit and vegetable stalls.
+2 an individual compartment for an animal in a stable or barn, enclosed on three sides. 
+• a stable. 
+• North American a marked-out parking space for a vehicle. 
+• a compartment for one person in a shower room, restroom, or similar facility.
+3 a fixed seat in the choir or chancel of a church, more or less enclosed at the back and sides and often canopied, typically reserved for a particular member of the clergy.
+4 (stalls) British the seats on the ground floor in a theater.
+5 an instance of an engine, vehicle, aircraft, or boat stalling: speed must be maintained to avoid a stall and loss of control. 
 ▶verb
-1 the government has stalled the project: obstruct, impede, interfere with, hinder, hamper, block, interrupt, hold up, hold back, thwart, balk, sabotage, delay, stonewall, check, stop, halt, derail, put a brake on; informal stymie.
-2 the project has stalled: stop, fizzle, flatline, die, reach an impasse, hit a roadblock.
-3 quit stalling: use delaying tactics, play for time, temporize, gain time, procrastinate, hedge, beat around the bush, drag one's feet, delay, filibuster, stonewall, give someone the runaround.
-4 stall him for a bit: delay, divert, distract; hold off, stave off, fend off, keep off, ward off, keep at bay.
+1 [no object] (of a motor vehicle or its engine) stop running, typically because of an overload on the engine: her car stalled at the crossroads. 
+• (of an aircraft or its pilot) reach a condition where the speed is too low to allow effective operation of the controls. 
+• Sailing have insufficient wind power in the sails to give controlled motion. 
+• [with object] cause (an engine, vehicle, aircraft, or boat) to stall.
+2 stop or cause to stop making progress: [no object] : his career had stalled, hers taken off 
+[with object] : the government has stalled the much-needed project. 
+• speak or act in a deliberately vague way in order to gain more time to deal with a question or issue; prevaricate: she was stalling for time. 
+• [with object] delay or divert (someone) by stalling: stall him until I've had time to take a look.
+3 [with object] put or keep (an animal) in a stall, especially in order to fatten it. ORIGIN Old English steall ‘stable or cattle shed,’ of Germanic origin; related to Dutch stal, also to stand. Early senses of the verb included ‘reside, dwell’ and ‘bring to a halt.’

@@ -22,7 +22,32 @@ C.  intransitive verb 传中 chuánzhōng PHRASAL VERBS centre around transitive
 ① (have as focus) «thoughts, emotion, activity» 集中于 jízhōng yú ‹person, topic›public interest centres on the outcome of next week's elections 公众的注意力集中在下周的选举结果上 
 ② (cause to be focus) 使集中于 shǐ jízhōng yú discussions were centred on developments in eastern Europe 讨论围绕着东欧的发展而展开 centre round transitive verb = centre around centre upon transitive verb = centre on 
 center 
-▶noun the center of the town: middle, nucleus, heart, core, hub; middle point, midpoint, halfway point, mean, median. ANTONYMS edge.
-▶verb the story centers on a doctor: focus, concentrate, pivot, hinge, revolve, be based.
-USAGE
-center around The construction center around (as opposed to center on or revolve around) has been denounced as incorrect and illogical since it first appeared in the mid 19th century. Although the phrase is common, it defies geometry by confusing the orbit with the fixed point. Accurately, the earth revolves around (or its revolution centers on) the sun. In a sentence such as 'Our discussion tonight centers around the issue of charter schools,' the speaker would do well to avoid the imprecise expression centers around in favor of the more appropriate centers on, revolves around, concerns, or involves .Usage notes show additional guidance on finer points of English usage.
+ˈsen(t)ər 
+(British centre) 
+▶noun
+1 the middle point of a circle or sphere, equidistant from every point on the circumference or surface. 
+• a point or part that is equally distant from all sides, ends, or surfaces of something; the middle: the center of the ceiling 
+the center of a vast territory. 
+• a pivot or axis of rotation: the galactic rotation of the solar system around the galactic center. 
+• a political party or group holding moderate opinions. 
+• (in many sports) the middle player in a line or group: many coaches instruct their center to charge viciously on all plays. 
+• Basketball the player who is positioned near the basket and is typically tallest on the team: only
+10 centers averaged more than
+10 points per game last year. 
+• Baseball short for center field: he flied out to center. 
+• a core, such as the filling in a piece of chocolate: truffles with liqueur centers. 
+• a conical adjustable support for a workpiece in a lathe or similar machine.
+2 the point from which an activity or process is directed, or on which it is focused: the city was a center of discontent 
+two issues at the center of the health-care debate. 
+• the most important place in the respect specified: Geneva was then the center of the international world.
+3 a place or group of buildings where a specified activity is concentrated: a center for medical research 
+a shopping center. 
+▶verb
+1 [no object] (center around/on or center something around/on) have or cause to have something as (a major concern or theme): the case centers around the couple's adopted children 
+the plot centers on two young men 
+[with object] : he is centering his discussion on an analysis of patterns of mortality. 
+• (be centered in) (of an activity) occur mainly in or around (a specified place): the mercantile association was centered in northern Germany.
+2 [with object] place in the middle: to center the needle, turn the knob. 
+• American Football pass the ball back from the ground to another player to begin a down; snap. DERIVATIVES centermost 
+-ˌmōst 
+adjectiveORIGIN late Middle English centre, from Old French, or from Latin centrum, from Greek kentron ‘sharp point, stationary point of a pair of compasses,’ related to kentein ‘to prick.’ usage: The construction center around (as opposed to center on, or revolve around) has been denounced as incorrect and illogical since it first appeared in the mid 19th century. Although the phrase is common, it defies geometry by confusing the orbit with the fixed point: the earth revolves around (or its revolution centers on) the sun. A careful writer will use a precise expression, such as centers on, revolves around, concerns, or involves.

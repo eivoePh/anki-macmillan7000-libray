@@ -13,12 +13,20 @@ C.  transitive verb
 ① (provide) 供应 gōngyìng they were accused of supplying arms to the rebels 他们被指控向叛乱者提供武器 the hens supply more eggs than we can eat 母鸡下的蛋多得我们吃不完 
 ② (equip) 为…提供 wèi… tígōng the bakery has been supplying these shops for years 这家面包房多年来一直给这些商店供货 the boat is supplied with satellite navigation 这条船配有卫星导航系统 
 ③ (satisfy) 满足 mǎnzú ‹need, requirement›
-supply 
-▶verb
-1 they supplied money to rebels: give, contribute, provide, furnish, donate, bestow, grant, endow, impart; dispense, disburse, allocate, assign; informal fork out, shell out.
-2 the lake supplies the city with water: provide, furnish, endow, serve, confer; equip, arm.
-3 windmills supply their power needs: satisfy, meet, fulfill, cater for.
-▶noun
-1 a limited supply of food: stock, store, reserve, reservoir, stockpile, hoard, cache; storehouse, repository; fund, mine, bank.
-2 the supply of liquor: provision, dissemination, distribution, serving.
-3 (supplies) go to the grocery store for supplies: provisions, stores, stocks, rations, food, foodstuffs, eatables, produce, necessities; informal eats; formal comestibles.
+supply
+1 
+səˈplī
+
+▶verb (supplies, supplying, supplied) [with object] make (something needed or wanted) available to someone; provide: the farm supplies apples to cider makers. 
+• provide (someone) with something needed or wanted: they struggled to supply the besieged island with aircraft. 
+• be adequate to satisfy (a requirement or demand): the two reservoirs supply about 1% of the city's needs. 
+• archaic take over (a place or role left by someone else): when she died, no one could supply her place. 
+▶noun (plural supplies) a stock of a resource from which a person or place can be provided with the necessary amount of that resource: there were fears that the drought would limit the exhibition's water supply. 
+• the action of providing what is needed or wanted: the deal involved the supply of forty fighter aircraft. 
+• Economics the amount of a good or service offered for sale. 
+• (supplies) the provisions and equipment necessary for an army or for people engaged in a particular project or expedition. 
+• (supplies) British a grant of money by Parliament for the costs of government. 
+• [usually as modifier] a person acting as a temporary substitute for another. 
+• [as modifier] providing necessary goods and equipment: a supply ship. 
+PHRASES
+in short supply not easily obtainable; scarce: he meant to go, but time and gas were in short supply. supply and demand the amount of a commodity, product, or service available and the desire of buyers for it, considered as factors regulating its price: by the law of supply and demand the cost of health care will plummet.ORIGIN late Middle English: from Old French soupleer, from Latin supplere ‘fill up,’ from sub- ‘from below’ + plere ‘fill.’ The early sense of the noun was ‘assistance, relief’ (chiefly a Scots use).

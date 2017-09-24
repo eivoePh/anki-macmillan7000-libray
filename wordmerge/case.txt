@@ -24,10 +24,31 @@ C.  in case conjunction phrase
 D.  in case of preposition phrase 如果发生 rúguǒ fāshēng in case of fire, ring the alarm bell 如遇火警，即按警铃 
 case
 1 
+kās
+
 ▶noun
-1 a classic case of overreaction: instance, occurrence, manifestation, demonstration, exposition, exhibition; example, illustration, specimen, sample, exemplification.
-2 if that is the case, I will have to find somebody else: situation, position, state of affairs, lay of the land; circumstances, conditions, facts; way things stand; informal score.
-3 the officers on the case: investigation, inquiry, examination, exploration, probe, search, inquest.
-4 only urgent cases were admitted for immediate examination: patient, sick person, invalid, sufferer, victim.
-5 she lost her case: lawsuit, (legal) action, legal dispute, suit, trial, legal/judicial proceedings, litigation.
-6 a strong case: argument, contention, reasoning, logic, defense, justification, vindication, exposition, thesis.
+1 an instance of a particular situation; an example of something occurring: a case of mistaken identity 
+in many cases, valid statistics are not available. 
+• [usually in singular] the situation affecting or relating to a particular person or thing; one's circumstances or position: I'll make an exception in your case. 
+• an incident or set of circumstances under police investigation: a murder case.
+2 an instance of a disease or problem: 200,000 cases of hepatitis 
+B.  
+• a person or their particular problem requiring or receiving medical or welfare attention: most breast cancer cases were older women 
+the welfare office discussed Gerald's case 
+urgent cases were turned away from the hospital. 
+• [with adjective or noun modifier] informal a person whose situation is regarded as pitiable or as having no chance of improvement: Vicky was a very sad case. 
+• informal, dated an amusing or eccentric person.
+3 a legal action, especially one to be decided in a court of law: a libel case 
+a former employee brought the case against the council. 
+• a set of facts or arguments supporting one side in a legal action: the case for the defense. 
+• a legal action that has been decided and may be cited as a precedent. 
+• a set of facts or arguments supporting one side of a debate or controversy: the case against tobacco advertising.
+4 Grammar any of the inflected forms of a noun, adjective, or pronoun that express the semantic relation of the word to other words in the sentence: the accusative case. 
+• the relation of a grammatical case to other words in the sentence, whether indicated by inflection or not: English normally expresses case by the use of prepositions. 
+PHRASES
+as the case may be according to the circumstances (used when referring to two or more possible alternatives): the authorities will decide if they are satisfied or not satisfied, as the case may be. be the case be so. in any case whatever happens or may have happened. 
+• used to confirm or support a point or idea just mentioned: he wasn't allowed out yet, and in any case he wasn't well enough. (just) in case
+1 as a provision against something happening or being true: we put on thick sweaters, in case it was cold.
+2 if it is true that: in case you haven't figured it out, let me explain. in case of in the event of (a particular situation): instructions about what to do in case of fire. in no case under no circumstances. in that case if that happens or has happened; if that is the situation: “I'm free this evening.” “In that case, why not have dinner with me?” on (or off) someone's case informal continually (or no longer) criticizing or harassing someone: the teacher will get on your case if you keep forgetting your homework. on the case actively engaged in an official investigation: officers on the case are unable to find a motive. 
+• in the process of dealing with a particular situation or task: the city council's pest control team are on the case.ORIGIN Middle English: from Old French cas, from Latin casus ‘fall,’ related to cadere ‘to fall’; sense
+4 directly from Latin, translating Greek ptōsis, literally ‘fall.’

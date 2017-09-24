@@ -1,8 +1,13 @@
 observe 
-▶verb
-1 every time he looked at her now, he observed something new 
-other behavioral problems have been observed in our patient population: notice, see, note, perceive, discern, detect, spot; literary espy, descry, behold. ANTONYMS overlook.
-2 I may not even observe them unawares: watch, look at, eye, contemplate, view, witness, survey, regard, keep an eye on, scrutinize, keep under observation, keep (a) watch on, keep under surveillance, surveil, monitor, check out, keep a weather eye on, keep tabs on, spy on; informal eyeball.
-3 she'd observed that the Christmas tree looked underdecorated: remark, comment, say, mention, note, declare, announce, state, pronounce; formal opine.
-4 both countries agreed to observe the ceasefire: comply with, abide by, keep, obey, adhere to, heed, honor, be heedful of, respect, follow, consent to, acquiesce in, accept, fulfill. ANTONYMS disregard, ignore.
-5 this year he observed the anniversary at a ceremony on the South Lawn: commemorate, mark, keep, memorialize, solemnize, remember, recognize, celebrate.QUOTE You see, but you do not observe.Arthur Conan Doyle "A Scandal in Bohemia" (1891)
+əbˈzərv
+
+▶verb [with object]
+1 notice or perceive (something) and register it as being significant: [with clause] : young people observe that decisions are made by others. 
+• watch (someone or something) carefully and attentively: Rob stood in the hallway, where he could observe the happenings on the street. 
+• take note of or detect (something) in the course of a scientific study: the behavior observed in groups of chimpanzees. 
+• [reporting verb] make a remark or comment: [with direct speech] : “It's chilly,” she observed 
+[with clause] : a stockbroker once observed that dealers live and work in hell.
+2 fulfill or comply with (a social, legal, ethical, or religious obligation): a tribunal must observe the principles of natural justice. 
+• maintain (silence) in compliance with a rule or custom, or temporarily as a mark of respect: a minute's silence will be observed. 
+• perform or take part in (a rite or ceremony): relations gather to observe the funeral rites. 
+• celebrate or acknowledge (an anniversary): many observed the one-year anniversary of the flood. ORIGIN late Middle English ( sense 2): from Old French observer, from Latin observare ‘to watch,’ from ob- ‘toward’ + servare ‘attend to, look at.’

@@ -1,19 +1,35 @@
 word 
-▶noun
-1 the Italian word for “ham”: term, name, expression, designation, locution, vocable; formal appellation.
-2 his words were meant kindly: remark, comment, observation, statement, utterance, pronouncement.
-3 (words) I've got three weeks to learn the words: script, lyrics, libretto.
-4 I give you my word: promise, word of honor, assurance, guarantee, undertaking; pledge, vow, oath, bond; formal troth.
-5 I want a word with you: talk, conversation, chat, tête-à-tête, heart-to-heart, one-to-one, man-to-man; discussion, consultation; informal confab, powwow; formal confabulation.
-6 there's no word from the hospital: news, information, communication, intelligence; message, report, communiqué, dispatch, bulletin; informal info, dope; literary tidings.
-7 word has it he's turned over a new leaf: rumor, hearsay, talk, gossip; informal the grapevine, the word on the street.
-8 I'm waiting for the word from HQ: instruction, order, command; signal, prompt, cue, tip-off; informal go-ahead, thumbs up, green light.
-9 Heather's word was law: command, order, decree, edict; bidding, will.
-10 our word now must be success: motto, watchword, slogan, catchword, buzzword.
-▶verb the question was carefully worded: phrase, express, put, couch, frame, formulate, style; say, utter.
+wərd
+
+▶noun a single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed. 
+• a single distinct conceptual unit of language, comprising inflected and variant forms. 
+• (usually words) something that someone says or writes; a remark or piece of information: his grandfather's words had been meant kindly 
+a word of warning. 
+• speech as distinct from action: he conforms in word and deed to the values of a society that he rejects. 
+• [with negative] (a word) even the smallest amount of something spoken or written: don't believe a word of it. 
+• (one's word) a person's account of the truth, especially when it differs from that of another person: in court it would have been his word against mine. 
+• (one's word) a promise or assurance: everything will be taken care of—you have my word. 
+• (words) the text or spoken part of a play, opera, or other performed piece; a script: he had to learn his words. 
+• (words) angry talk: her father would have had words with her about that. 
+• a message; news: I was afraid to leave Washington in case there was word from the office. 
+• a command, password, or motto: someone gave me the word to start playing. 
+• a basic unit of data in a computer, typically
+16 or 32 bits long. 
+▶verb [with object] choose and use particular words in order to say or write (something): he words his request in a particularly ironic way 
+(as adjective, with submodifier worded) : a strongly worded letter of protest. 
+▶exclam. informal used to express agreement: “That Jay is one dangerous character.” “Word.” 
 PHRASES
-have words we had words, and Jason walked out: quarrel, argue, disagree, squabble, bicker, fight, wrangle, dispute, fall out, clash, row. in a word in a word, it was a miserable day for sailing: briefly, to be brief, in short, in a nutshell, to come to the point, to cut a long story short, not to put too fine a point on it; to sum up, to summarize, in summary. word for word
-1 they took down the speeches word for word: verbatim, letter for letter, to the letter; exactly, faithfully.
-2 a word-for-word translation: verbatim, literal, exact, direct, accurate, faithful; unadulterated, unabridged. 
-WORD LINKS
-word verbal , lexical relating to wordsWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+at a word as soon as requested: ready to leave again at a word. be as good as one's word do what one has promised to do. break one's word fail to do what one has promised. have a word speak briefly to someone: I'll just have a word with him. in other words expressed in a different way; that is to say. in so many words [often with negative] in the way mentioned: I haven't told him in so many words, but he'd understand. in a word briefly. keep one's word do what one has promised. a man/woman of his/her word a person who keeps their promises. (on/upon) my word an exclamation of surprise or emphasis: my word, you were here quickly! of few words taciturn: he's a man of few words. put something into words express something in speech or writing: he felt a vague disappointment which he couldn't put into words. put words into someone's mouth falsely or inaccurately report what someone has said. 
+• prompt or encourage someone to say something that they may not otherwise have said. take someone at their word interpret a person's words literally or exactly, especially by believing them or doing as they suggest. take the words out of someone's mouth say what someone else was about to say. take someone's word (for it) believe what someone says or writes without checking for oneself.too —— for words informal extremely ——: going around by the road was too tedious for words. waste words
+1 talk in vain.
+2 talk at length. the Word (of God)
+1 the Bible, or a part of it.
+2 Jesus Christ (see Logos).word for word in exactly the same or, when translated, exactly equivalent words. word of honor a solemn promise: I'll be good to you always, I give you my word of honor. word of mouth 
+ˌwərd əv ˈmouTH 
+spoken language; informal or unofficial discourse. the word on the street informal a rumor or piece of information currently being circulated. words fail me used to express one's disbelief or dismay. a word to the wise a hint or brief explanation given, that being all that is required.PHRASAL VERBS word up [as imperative] informal listen: word up, my brother, you got me high as a kite.DERIVATIVES wordage 
+ˈwərdij 
+noun. wordlessly 
+ˈwərdləslē 
+adverb. wordlessness 
+ˈwərdləsnəs 
+nounORIGIN Old English, of Germanic origin; related to Dutch woord and German Wort, from an Indo-European root shared by Latin verbum ‘word.’

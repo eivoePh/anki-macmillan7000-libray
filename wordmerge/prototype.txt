@@ -2,6 +2,14 @@ prototype
 BrE ˈprəʊtətʌɪp, AmE ˈproʊdəˌtaɪp 
 noun (original example) 原型 yuánxíng (first model) 样品 yàngpǐn a prototype of the weapon 武器样品 a prototype aircraft/car 样机/样车 
 prototype 
-▶noun
-1 a prototype of the weapon: original, first example/model, master, mold, template, framework, mock-up, pattern, sample; design, guide, blueprint.
-2 the prototype of an ideal wife: paradigm, typical example, archetype, exemplar, essence.
+ˈprōdəˌtīp
+
+▶noun a first, typical or preliminary model of something, especially a machine, from which other forms are developed or copied: the firm is testing a prototype of the weapon 
+the prototype of all careerists is Judas. 
+• the archetypal example of a class of living organisms, astronomical objects, or other items: these objects are the prototypes of a category of rapidly spinning neutron stars. 
+• Electronics a basic filter network with specified cutoff frequencies, from which other networks may be derived to obtain sharper cutoffs, constancy of characteristic impedance with frequency, etc. 
+▶verb [with object] make a prototype of (a product). DERIVATIVES prototypal 
+ˌprōtəˈtīpəl 
+adjective. prototypic 
+ˌprōtəˈtipik 
+adjectiveORIGIN late 16th century (denoting the original of which something else is a copy or derivative): via French or late Latin from Greek prōtotupos (see proto-, type) .

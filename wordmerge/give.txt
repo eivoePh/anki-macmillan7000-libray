@@ -86,27 +86,69 @@ D.  reflexive verb
 ④ (succumb) to give way to [something]; 禁不住 jīnbuzhù ‹temptation, fear, depression, desire›I gave way to panic 我恐慌不安 wǒ kǒnghuāng bù'ān 
 ⑤ (be replaced) to give way to [something]; 被…所代替 bèi… suǒ dàitì ‹feeling, conditions, environment, season›the dark clouds gave way to bright sunshine 乌云散去，明媚的阳光重新普照大地 her discomfort gave way to anger 她由不安转为愤怒 winter gives way to spring 冬去春来 dōng qù chūn lái 
 give 
-▶verb
-1 she gave them $2000: present with, provide with, supply with, furnish with, let someone have; hand (over to), offer, proffer; award, grant (to), bestow on/upon, accord, confer on, make over to; donate to, contribute to. ANTONYMS receive, take.
-2 can I give him a message? convey to, pass on to, impart to, communicate to, transmit to; send, deliver (to), relay to; tell (to).
-3 a baby given into their care: entrust, commit, consign, assign; formal commend.
-4 she gave her life for them: sacrifice, give up, relinquish; devote, dedicate.
-5 he gave her time to think: allow, permit, grant, accord; offer.
-6 this leaflet gives our opening times: show, display, set out, indicate, detail, list.
-7 they gave no further trouble: cause, make, create, occasion.
-8 garlic gives flavor: produce, yield, afford, impart, lend.
-9 she gave a party: organize, arrange, throw, host, hold, have, provide.
-10 Dominic gave a bow: perform, execute, make, do.
-11 she gave a shout: utter, let out, emit, produce, make.
-12 he gave Larry a beating: administer, deliver, deal, inflict, impose.
-13 the door gave: give way, cave in, collapse, break, fall apart; bend, buckle.
-▶noun informal there isn't enough give in the jacket: elasticity, flexibility, stretch, stretchiness; slack, play.
+ɡiv
+
+▶verb (past gave 
+ɡāv
+; past participle given 
+ˈɡivən
+)
+1 [with two objects] freely transfer the possession of (something) to (someone); hand over to: they gave her water to drink 
+the check given to the jeweler proved worthless 
+[with object] : he gave the papers back. 
+• bestow (love, affection, or other emotional support): his parents gave him the encouragement he needed to succeed 
+(as adjective giving) : he was very giving and supportive. 
+• administer (medicine): she was given antibiotics. 
+• hand over (an amount) in exchange or payment; pay: how much did you give for that? 
+• (give something for) place a specified value on (something): he never gave anything for French painting or for abstraction. 
+• [with object] used hyperbolically to express how greatly one wants to have or do something: I'd give anything for a cup of tea 
+I'd give my right arm to be in Othello. 
+• communicate or impart (a message) to (someone): give my love to all the girls. 
+• [with object] commit, consign, or entrust: a baby given into their care by the accident of her birth. 
+• freely devote, set aside, or sacrifice for a purpose: all who have given thought to the matter agree 
+[no object] : committee members who give so generously of their time and effort. 
+• [with object] (of a man) sanction the marriage of (his daughter) to someone: he gave her in marriage to an English noble. 
+• (give oneself to) dated consent to have sexual intercourse with (someone). 
+• pass on (an illness or infection) to (someone): I hope I don't give you my cold. 
+• [usually in imperative] make a connection to allow (someone) to speak to (someone else) on the telephone: give me the police. 
+• cite or present when making a toast or introducing a speaker or entertainer: for your entertainment this evening I give you … Mister Albert DeNiro!
+2 [with two objects] cause or allow (someone or something) to have (something, especially something abstract); provide or supply with: you gave me such a fright 
+[with object] : this leaflet gives our opening times. 
+• allot or assign (a score) to: I gave it five out of ten. 
+• sentence (someone) to (a specified penalty): for the first offense I was given a fine. 
+• concede or yield (something) as valid or deserved in respect of (someone): give him his due. 
+• allow (someone) to have (a specified amount of time) for an activity or undertaking: give me a second to bring the car around 
+[with object] : I'll give you until tomorrow morning. 
+• informal predict that (an activity, undertaking, or relationship) will last no longer than (a specified time): this is a place that will not improve with time—I give it three weeks. 
+• [with object] yield as a product or result: milk is sometimes added to give a richer cheese. 
+• [with object] (give something off/out/forth) emit odor, vapor, or similar substances: it can be burned without giving off toxic fumes.
+3 [with object] carry out or perform (a specified action): I gave a bow 
+[with two objects] : he gave the counter a polish. 
+• utter or produce (a sound): he gave a gasp. 
+• provide (a party or social meal) as host or hostess: a dinner given in honor of a Canadian diplomat 
+[with two objects] : Korda gave him a going-away party.
+4 [with object] state or put forward (information or argument): he did not give his name. 
+• pledge or assign as a guarantee: [with two objects] : I give you my word. 
+• [with two objects, usually with negative] say to (someone) as an excuse or inappropriate answer: don't give me any of your back talk. 
+• deliver (a judgment) authoritatively: I gave my verdict. 
+• present (an appearance or impression): he gave no sign of life. 
+• [no object] informal tell what one knows: okay, give—what's that all about?
+5 [no object] alter in shape under pressure rather than resist or break: that chair doesn't give. 
+• yield or give way to pressure: the heavy door didn't give until the fifth push 
+figurative : when two people who don't get on are thrust together, something's got to give. 
+• North American informal concede defeat; surrender: I give! 
+▶noun capacity to bend or alter in shape under pressure; elasticity: plastic pots that have enough give to accommodate the vigorous roots. 
+• ability to adapt or comply; flexibility: there is no give at all in the British position. 
 PHRASES
-give away
-1 he refused to believe that his own sister had given him away: betray, inform on; informal rat on, blow the whistle on, sell down the river, rat out, finger.
-2 his face gave little away: reveal, disclose, divulge, let slip, leak, let out.
-3 Kellie gave away all of her possessions: donate, make a gift of, confer, contribute, will, bequeath; distribute; sacrifice; get rid of, dispose of, relent, throw in the towel/sponge. give in in the end, Dolan was forced to give in: capitulate, concede defeat, admit defeat, give up, surrender, yield, submit, back down, give way, defer, relent, throw in the towel. give off the lantern gives off a powerful glow: emit, produce, send out, throw out; discharge, release, exude, vent. give out
-1 the gas reserves have finally given out: run out, be used up, be consumed, be exhausted, be depleted; fail, flag; dry up.
-2 thousands of leaflets were given out: distribute, issue, hand out, pass around, dispense; dole out, dish out, mete out; allocate, allot. give up
-1 See give in.
-2 when did you give up drinking? stop, cease, discontinue, desist from, abstain from, cut out, renounce, forgo; resign from, stand down from; informal quit, kick, swear off, leave off, pack in, lay off. CHOOSE THE RIGHT WORD give, afford, award, bestow, confer, donate, grant You give a birthday present, grant a favor, bestow charity, and confer an honor. While all of these verbs mean to convey something or transfer it from one's own possession to that of another, the circumstances surrounding that transfer dictate which word is the best one. Give is the most general, meaning to pass over, deliver, or transmit something (give him encouragement). Grant implies that a request or desire has been expressed, and that the receiver is dependent on the giver's discretion (grant permission for the trip). Award suggests that the giver is in some sense a judge, and that the thing given is deserved (award a scholarship), while bestow implies that something is given as a gift and may imply condescension on the part of the giver (bestow a large sum of money on a needy charity). To confer is to give an honor, a privilege, or a favor; it implies that the giver is a superior (confer a knighthood; confer a college degree). Donate implies that the giving is to a public cause or charity (donate a painting to the local art museum), and to afford is to give or bestow as a natural consequence (the window afforded a fine view of the mountains).These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+give oneself airs act pretentiously or snobbishly. give and take mutual concessions and compromises: there has to be give and take on both sides. 
+• [as verb] make concessions and compromises: children learn how to give and take from such experiences. give as good as one gets respond with equal force or vehemence when attacked. give the (whole) game (or show) away inadvertently reveal something secret or concealed. give it to someone informal scold or punish someone. give me —— I prefer or admire ——: give me the mainland any day! give me a break informal used to express exasperation, protest, or disbelief. give or take —— informal to within —— (used to express the degree or accuracy of a figure): three hundred and fifty years ago, give or take a few. 
+• apart from: give or take a handful of machine tools, there are few new products. give rise to cause or induce to happen: decisions which give rise to arguments. give someone to understand (or believe or know) inform someone in a formal and rather indirect way: I was given to understand that I had been invited.give up the ghost see ghost. give someone what for informal, dated punish or scold someone severely. what gives? informal what's the news?; what's happening? (frequently used as a friendly greeting).PHRASAL VERBS give someone away
+1 reveal the true identity of someone: his strangely shaped feet gave him away. 
+• reveal information that incriminates someone.
+2 hand over a bride ceremonially to her bridegroom as part of a wedding ceremony. give something away reveal something secret or concealed. give in cease fighting or arguing; yield; surrender: he reluctantly gave in to the pressure. give on to (or into) British (of a window, door, corridor, etc.) overlook or lead into: a plate glass window gave on to the roof.give out be completely used up: her energy was on the verge of giving out. 
+• stop functioning; break down: he curses and swears till his voice gives out. give something out distribute or broadcast something: I've been giving out leaflets. give over [often in imperative] British informal stop doing something. 
+• used to express vehement disagreement or denial: I suggested her salary might be £100,000. “Give over!” give up cease making an effort; resign oneself to failure. give it up [usually in imperative] US informal applaud a performer or entertainer. give oneself up to dated allow oneself to be taken over by (an emotion or addiction): he gave himself up to pleasure. give someone up
+1 deliver a wanted person to law-enforcement agents: a voice told him to come out and give himself up.
+2 dated stop hoping that someone is still going to arrive: oh, it's you—we'd almost given you up. 
+• pronounce a sick person incurable. give something up part with something that one would prefer to keep: she would have given up everything for love. 
+• stop the habitual doing or consuming of something: I've decided to give up drinking. give up on stop having faith or belief in: they weren't about to give up on their heroes so easily.ORIGIN Old English giefan, gefan, of Germanic origin; related to Dutch geven and German geben .

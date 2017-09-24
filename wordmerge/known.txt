@@ -9,6 +9,9 @@ B.  adjective
 ② attributive (publicly acknowledged) 出了名的 chūlemíng de ‹criminal, liar›; 知名的 zhīmíng de ‹expert›
 ③ Mathematics 已知的 yǐzhī de a known quantity/variable 已知量/已知变量 
 known 
-▶adjective
-1 a known criminal: recognized, well known, widely known, noted, celebrated, notable, notorious; acknowledged, self-confessed, declared, overt.
-2 the known world: familiar, known about, well known; studied, investigated.
+nōn
+past participle of know. 
+▶adjective recognized, familiar, or within the scope of knowledge: bivalved crustaceans little known to nonprofessionals 
+the known world. 
+• [attributive] publicly acknowledged to be: a known criminal. 
+• Mathematics (of a quantity or variable) having a value that can be stated.

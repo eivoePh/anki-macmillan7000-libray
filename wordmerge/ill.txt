@@ -11,21 +11,25 @@ C.  noun
 ② Countable(problem) 问题 wèntí the ills of city life/old age 城市生活的种种弊病/老年的种种苦恼 
 D.  noun plural the ill 病人 bìngrén 
 ill 
+il
+
 ▶adjective
-1 she was feeling rather ill: unwell, sick, not (very) well, ailing, poorly, sickly, peaked, indisposed, infirm; out of sorts, not oneself, bad, off, in a bad way, far gone; bedridden, valetudinarian; queasy, nauseous, nauseated; informal under the weather, laid up, rotten, crummy, lousy, pukey, dizzy, woozy, green around the gills, like death warmed over. ANTONYMS well, healthy.
-2 the ill effects of smoking: harmful, damaging, detrimental, deleterious, adverse, injurious, hurtful, destructive, pernicious, dangerous; unhealthy, unwholesome, poisonous, noxious; literary malefic, maleficent. ANTONYMS good, beneficial.
-3 ill feelings had divided them for years: hostile, antagonistic, acrimonious, inimical, antipathetic; unfriendly, unsympathetic, unkind; resentful, spiteful, malicious, vindictive, malevolent, bitter. ANTONYMS friendly, warm.
-4 an ill omen: unlucky, adverse, unfavorable, unfortunate, unpropitious, inauspicious, unpromising, infelicitous, ominous, sinister; literary direful. ANTONYMS auspicious.
-5 ill manners: rude, discourteous, impolite, improper; impertinent, insolent, impudent, uncivil, disrespectful; informal ignorant. ANTONYMS good, polite.
-6 the ill management of the front office: bad, poor, incompetent, unsatisfactory, inadequate, inexpert, deficient. ANTONYMS good, competent.
-▶noun
-1 (ills) the ills of society: problems, troubles, evils, difficulties, misfortunes, trials, tribulations; worries, anxieties, concerns; informal headaches, hassles; archaic travails.
-2 he wished them no ill: harm, hurt, injury, damage, pain, trouble, misfortune, suffering, distress.
-3 (ills) the body's ills: illnesses, ailments, disorders, complaints, afflictions, sicknesses, diseases, maladies, infirmities.
+1 not in full health; sick: her daughter is seriously ill 
+[with submodifier] : a terminally ill patient.
+2 [attributive] poor in quality: ill judgment dogs the unsuccessful. 
+• harmful: she had a cup of the same wine and suffered no ill effects. 
+• hostile: it did give rise to a lot of ill feelings. 
+• (especially of fortune) not favorable: no one less deserved such ill fortune than McStay. 
 ▶adverb
-1 such behavior ill becomes a chief executive: poorly, badly, imperfectly. ANTONYMS well.
-2 the look on her face boded ill for her opponents: unfavorably, adversely, badly, inauspiciously. ANTONYMS well, auspiciously.
-3 he can ill afford the loss of income: barely, scarcely, hardly, only just, (only) with difficulty, just possibly. ANTONYMS easily.
-4 we are ill prepared for another flood: inadequately, unsatisfactorily, insufficiently, imperfectly, poorly, badly. ANTONYMS well, satisfactorily.
+1 [usually in combination] badly, wrongly, or imperfectly: some of his premises seem ill-chosen 
+it ill becomes one so beautiful to be gloomy. 
+• unfavorably or unpropitiously: something which boded ill for unwary golfers.
+2 only with difficulty; hardly: she could ill afford the cost of new curtains. 
+▶noun
+1 (as plural noun the ill) people who are ill: a day center for the mentally ill.
+2 (usually ills) a problem or misfortune: a lengthy work on the ills of society. 
+• evil; harm: how could I wish him ill? 
 PHRASES
-ill at ease Ritchie was cautioned not to appear ill at ease in the courtroom: awkward, uneasy, uncomfortable, embarrassed, self-conscious, out of place, inhibited, gauche; restless, restive, fidgety, discomfited, worried, anxious, on edge, edgy, nervous, tense, high-strung; informal twitchy, jittery, discombobulated, antsy. speak ill of we never heard him once speak ill of his ex-wife: denigrate, disparage, criticize, be critical of, speak badly of, be malicious about, blacken the name of, run down, insult, abuse, attack, revile, malign, vilify, slur; informal badmouth, dis, bitch about, talk smack, slag; formal derogate; rare asperse.
+ill at ease 
+ˌil əd ˈēz 
+uncomfortable or embarrassed. speak (or think) ill of say (or think) something critical about.ORIGIN Middle English (in the senses ‘wicked,’ ‘malevolent,’ ‘harmful,’ and ‘difficult’): from Old Norse illr ‘evil, difficult,’ of unknown origin. usage: On the punctuation of ill in compound adjectives, see usage at well1, as the same rules apply.

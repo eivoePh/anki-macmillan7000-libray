@@ -19,10 +19,17 @@ C.  transitive verbformal
 ① (provide with source of information) 为…附参考资料 wèi… fù cānkǎo zīliào ‹article›the book is not well referenced 这本书的参考书目不全 the quotation isn't referenced 这段引文未注明出处 
 ② (cite as source of information) 引用…作参考 yǐnyòng… zuò cānkǎo ‹book, article›
 reference 
+ˈref(ə)rəns
+
 ▶noun
-1 his journal contains many references to railroads: mention of, allusion to, comment on, remark about.
-2 references are given in the bibliography: source, citation, authority, credit; bibliographical data.
-3 reference to a higher court: referral, transfer, remission.
-4 a glowing reference: testimonial, character reference, recommendation; credentials.
+1 the action of mentioning or alluding to something: he made reference to the enormous power of the mass media 
+references to Darwinism and evolution. 
+• a mention or citation of a source of information in a book or article. 
+• a book or passage cited with a reference.
+2 use of a source of information in order to ascertain something: popular works of reference 
+[as modifier] : a reference work. 
+• the sending of a matter for decision or consideration to some authority: he demanded the immediate reference of the whole dispute to the United Nations.
+3 a letter from a previous employer testifying to someone's ability or reliability, used when applying for a new job. 
+▶verb [with object] provide (a book or article) with citations of authorities: each chapter is referenced, citing literature up to 1990. 
 PHRASES
-with reference to with reference to your latest request for funding, the directors will submit their final decision on Friday: apropos to, with regard to, regarding, with respect to, on the subject of, re; in relation to, relating to, vis-à-vis, in connection with.
+for future reference for use at a later date: she lodged this idea in the back of her mind for future reference. terms of reference the scope and limitations of an activity or area of knowledge: the judge will present a plan outlining the inquiry's terms of reference. with (or in) reference to in relation to; as regards: war can only be explained with reference to complex social factors.

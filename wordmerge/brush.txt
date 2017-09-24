@@ -26,16 +26,25 @@ A.  transitive verb[brush up something, brush something up]
 B.  intransitive verb to brush up on [something] colloquial (improve) 温习 wēnxí ‹French, piano playing›
 brush
 1 
+brəSH
+
 ▶noun
-1 a styling brush 
-camel-hair brushes 
-a brush and dustpan: hairbrush; toothbrush; paintbrush; scrub brush; whisk broom, sweeper, broom.
-2 he gave the seat a brush with his hand: sweep, wipe, dust.
-3 the brush of his lips against her cheek: touch, stroke, skim, graze, nudge, contact; kiss.
-4 a brush with the law: encounter, clash, confrontation, conflict, altercation, incident; informal run-in.
+1 an implement with a handle, consisting of bristles, hair, or wire set into a block, used for cleaning or scrubbing, applying a liquid or powder to a surface, arranging the hair, or other purposes: a paint brush. 
+• an act of sweeping, applying, or arranging with a brush or with one's hand: he gave the seat a brush. 
+• (usually brushes) a thin stick set with long wire bristles, used to make a soft hissing sound on drums or cymbals. 
+• the bushy tail of a fox.
+2 a slight and fleeting touch: the lightest brush of his lips against her cheek. 
+• a brief encounter with someone or something unpleasant or notable: a brush with death 
+my first brush with fame.
+3 a piece of carbon or metal serving as an electrical contact with a moving part in a motor or alternator. 
 ▶verb
-1 she brushed her hair: groom, comb, neaten, tidy, smooth, arrange, fix, do; curry.
-2 she felt his lips brush her cheek: touch, stroke, caress, skim, sweep, graze, contact; kiss.
-3 she brushed a wisp of hair away: push, move, sweep, clear.
-PHRASES
-brush something aside she brushed aside his repeated warnings: disregard, ignore, dismiss, shrug off, wave aside; overlook, pay no attention to, take no notice of, neglect, forget about, turn a blind eye to, turn a deaf ear to; reject, spurn; laugh off, make light of, trivialize; informal pooh-pooh. brush someone off he tried to help, but she brushed him off: rebuff, dismiss, spurn, reject; slight, scorn, disdain; ignore, disregard, snub, turn one's back on, give someone the cold shoulder, freeze out; jilt, cast aside, discard. brush up (on) I'm brushing up on my French before our trip to Paris: relearn, read up (on), go over, study; improve, sharpen (up), polish up; hone, refine, perfect; informal bone up (on).
+1 [with object] remove (dust or dirt) by sweeping or scrubbing: we'll be able to brush the mud off easily 
+he brushed himself down. 
+• use a brush or one's hand to remove dust or dirt from (something): she brushed down her best coat. 
+• clean (one's teeth) by scrubbing with a brush. 
+• arrange (one's hair) by running a brush through it. 
+• apply a liquid to (a surface) with a brush: brush the potatoes with oil.
+2 [no object] touch lightly and gently: stems of grass brush against her legs. 
+• [with object] push (something) away with a quick movement of the hand: she brushed a wisp of hair away from her face. PHRASAL VERBS brush someone/something aside dismiss someone or something curtly and confidently: people brushed aside the possibility of imminent war. brush someone back Baseball, informal (of a pitcher) force a batter to step back to avoid being hit by a ball pitched close to the body. brush someone/something off dismiss someone or something in an abrupt way: the state brushed off the idea as something that would never happen. brush past touch fleetingly and in passing: she brushed past him to leave the room. brush up on improve one's previously good knowledge of or skill at a particular thing: brush up on your telephone skills.DERIVATIVES brushless 
+ˈbrəSHləs 
+adjective (chiefly technical)ORIGIN Middle English: noun from Old French broisse; verb partly from Old French brosser ‘to sweep.’

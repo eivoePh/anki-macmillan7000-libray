@@ -12,9 +12,15 @@ C.  noun 刮脸 guā liǎn to have a shave 刮脸 guā liǎn to give [somebody] 
 ② (trim) 刨掉 bàodiào ‹wood›
 ③ (take off) 减少 jiǎnshǎo ‹amount, time, distance›
 shave 
+SHāv
+
 ▶verb
-1 he shaved his beard: cut off, snip off; crop, trim, barber.
-2 shave off excess wood: plane, pare, whittle, scrape.
-3 they shaved the deficit by
-4 percent: reduce, cut, lessen, decrease, pare down, shrink.
-4 the shot just shaved my arm: graze, brush, touch, glance off, kiss.
+1 [no object] cut the hair off one's face with a razor: he washed, shaved, and had breakfast. 
+• [with object] cut the hair off (a part of the body) with a razor: she shaved her legs. 
+• [with object] cut the hair off the face or another part of the body of (someone) with a razor: his wife washed and shaved him. 
+• cut (hair) off with a razor: professional male swimmers shave off their body hair.
+2 [with object] cut (a thin slice or slices) from the surface of something: scrape a large, sharp knife across the surface, shaving off rolls of very fine chocolate. 
+• reduce by a small amount: they shaved profit margins. 
+• remove (a small amount) from something: she shaved 0.5 seconds off the record.
+3 [with object] pass or send something close to (something else), missing it narrowly: Scott shaved the post in the 29th minute. 
+▶noun an act of shaving hair from the face or a part of the body: he always needed a shave. ORIGIN Old English sc(e)afan ‘scrape away the surface of (something) by paring,’ of Germanic origin; related to Dutch schaven and German schaben .

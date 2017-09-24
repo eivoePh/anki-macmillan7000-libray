@@ -9,6 +9,14 @@ B.  intransitive verb
 ② (show the difference) 表明差别 biǎomíng chābié to differentiate between A and B; 表明A和B之间的差别 
 ③ (discriminate) 区别对待 qūbié duìdài to differentiate between A and B; 区别对待A和B 
 differentiate 
-▶verb
-1 he was unable to differentiate between fantasy and reality: distinguish, discriminate, make/draw a distinction, tell the difference, tell apart.
-2 this differentiates their business from all other booksellers: make different, distinguish, set apart, single out, separate, mark off.CHOOSE THE RIGHT WORD See distinguish .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+ˌdifəˈren(t)SHēˌāt
+
+▶verb [with object]
+1 recognize or ascertain what makes (someone or something) different: children can differentiate the past from the present. 
+• [no object] (differentiate between) identify differences between (two or more things or people): he is unable to differentiate between fantasy and reality. 
+• make (someone or something) appear different or distinct: Twain was careful to differentiate Huck's speech from that of other white people.
+2 technical make or become different in the process of growth or development: [with object] : the receptors are developed and differentiated into sense organs 
+[no object] : the cells differentiate into a wide variety of cell types.
+3 Mathematics transform (a function) into its derivative. DERIVATIVES differentiator 
+-ˌātər 
+nounORIGIN early 19th century: from medieval Latin differentiat- ‘carried away from,’ from the verb differentiare, from differentia (see differentia) .

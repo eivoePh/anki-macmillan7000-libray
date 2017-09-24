@@ -3,7 +3,9 @@ BrE ˈkɪləˌmiːtə, kɪˈlɒmɪtə, AmE kəˈlɑmədər
 BrE , kilometer 
 ˈkɪləmiːtə(r) 
 AmE noun 千米 qiānmǐ, 公里 gōnglǐ 
-kilometre 
-BrE ˈkɪləˌmiːtə, kɪˈlɒmɪtə, AmE kəˈlɑmədər/ BrE , kilometer 
-ˈkɪləmiːtə(r) 
-AmE noun 千米 qiānmǐ, 公里 gōnglǐ 
+kilometer 
+kəˈlämədər 
+(British kilometre) (abbreviation km) 
+▶noun a metric unit of measurement equal to 1,000 meters (approximately 0.62 miles). DERIVATIVES kilometric 
+ˌkiləˈmetrik 
+adjectiveORIGIN late 18th century: from French kilomètre (see kilo-, meter1) .

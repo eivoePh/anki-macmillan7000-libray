@@ -1,6 +1,11 @@
 elect 
-▶verb
-1 a new president was elected: vote for, vote in, return, cast one's vote for; choose, pick, select.
-2 she elected to stay behind: choose, decide, opt, vote.
-▶adjective the president-elect: future, -to-be, designate, chosen, elected, coming, next, appointed.
-▶noun (the elect) it is not the elect who need better health care and safer schools: the chosen, the elite, the favored; the crème de la crème.
+əˈlekt
+
+▶verb [with object] choose (someone) to hold public office or some other position by voting: the members who were elected to the committee 
+[with object and infinitive] : they elected him leader. 
+• opt for or choose to do something: freshman year you could elect Industrial Arts 
+[no object] : more people elected to work at home. 
+• Christian Theology (of God) choose (someone) in preference to others for salvation. 
+▶adjective (usually as plural noun the elect) (of a person) chosen or singled out: one of the century's elect. 
+• [postpositive in combination] elected to or chosen for a position but not yet in office: the president-elect. 
+• Christian Theology chosen by God for salvation. ORIGIN late Middle English: from Latin elect- ‘picked out,’ from the verb eligere, from e- (variant of ex-)‘out’ + legere ‘to pick.’

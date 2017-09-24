@@ -1,4 +1,21 @@
 series 
-▶noun
-1 a series of lectures: succession, sequence, string, chain, run, round; spate, wave, rash; set, course, cycle; row, line; formal concatenation.
-2 a new TV series: serial, program, show, drama; soap opera; informal soap, sitcom, miniseries.
+ˈsirēz
+
+▶noun (plural same)
+1 a number of things, events, or people of a similar kind or related nature coming one after another: the explosion was the latest in a series of accidents 
+he gave a series of lectures on modern art. 
+• a set of books, maps, periodicals, or other documents published in a common format or under a common title. 
+• a set of games played between two teams, or among any number of individual competitors: a playoff series against Portland. See also World Series. 
+• a set of stamps, banknotes, or coins issued at a particular time or having a common design or theme. 
+• a line of products, especially vehicles or machines, sharing features of design or assembly and marketed with a separate number from other lines: early models of the 600D series incorporated a centrifugal oil filter 
+a series III SWB Land Rover.
+2 a set of related television or radio programs, especially of a specified kind: a new drama series.
+3 [as modifier] denoting electrical circuits or components arranged so that the current passes through each successively. The opposite of parallel.
+4 Music another term for tone row.
+5 Geology (in chronostratigraphy) a range of strata corresponding to an epoch in time, being a subdivision of a system and itself subdivided into stages: the Pliocene series.
+6 Chemistry a set of elements with common properties or of compounds related in composition or structure: the metals of the lanthanide series. Compare with period ( sense
+5 of the noun).
+7 Mathematics a set of quantities constituting a progression or having the several values determined by a common relation.
+8 Phonetics a group of speech sounds having at least one phonetic feature in common but distinguished in other respects. 
+PHRASES
+in series (of a set of batteries or electrical components) arranged so that the current passes through each successively.ORIGIN early 17th century: from Latin, literally ‘row, chain,’ from serere ‘join, connect.’

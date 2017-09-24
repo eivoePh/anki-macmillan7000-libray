@@ -1,2 +1,7 @@
 hypothetical 
-▶adjective the scenario I suggested was strictly hypothetical: theoretical, speculative, conjectured, conjectural, notional, suppositional, supposed, putative, assumed; academic. ANTONYMS actual.
+ˌhīpəˈTHedək(ə)l
+
+▶adjective of, based on, or serving as a hypothesis: that option is merely hypothetical at this juncture. 
+• supposed but not necessarily real or true: the hypothetical tenth planet. 
+• Logic denoting or containing a proposition of the logical form if p then q. 
+▶noun (usually hypotheticals) a hypothetical proposition or statement: Finn talked in hypotheticals, tossing what-if scenarios to Rosen.

@@ -1,6 +1,16 @@
 variation 
+ˌverēˈāSH(ə)n
+
 ▶noun
-1 regional variations in farming practice: difference, dissimilarity; disparity, contrast, discrepancy, imbalance; technical differential.
-2 opening times are subject to variation: change, alteration, modification; diversification.
-3 there was very little variation from an understood pattern: deviation, variance, divergence, departure, fluctuation.
-4 hurling is an Irish variation of field hockey: variant, form, alternative form; development, adaptation, alteration, mutation, transformation, diversification, modification.
+1 a change or difference in condition, amount, or level, typically with certain limits: regional variations in house prices 
+the figures showed marked variation from year to year. 
+• Astronomy a deviation of a celestial body from its mean orbit or motion. 
+• Mathematics a change in the value of a function due to small changes in the values of its argument or arguments. 
+• (also magnetic variation) the angular difference between true north and magnetic north at a particular place. 
+• Biology the occurrence of an organism in more than one distinct color or form.
+2 a different or distinct form or version of something: hurling is an Irish variation of field hockey. 
+• Music a version of a theme, modified in melody, rhythm, harmony, or ornamentation, so as to present it in a new but still recognizable form: there is an eleven-bar theme followed by seven variations and a coda 
+figurative : variations on the perennial theme of marital discord. 
+• Ballet a solo dance as part of a performance. DERIVATIVES variational 
+ˌverēˈāSH(ə)n(ə)l 
+adjectiveORIGIN late Middle English (denoting variance or conflict): from Old French, or from Latin variatio(n-), from the verb variare (see vary) .

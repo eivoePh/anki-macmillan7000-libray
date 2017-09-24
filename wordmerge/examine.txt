@@ -6,7 +6,14 @@ transitive verb
 ③ School, University 对…进行考试 duì… jìnxíng kǎoshì ‹candidate, student›to examine [somebody] in or on [something]; 测试某人某课程 
 ④ Law 审问 shěnwèn ‹accused, suspect›; 调查 diàochá ‹case›
 examine 
-▶verb
-1 they examined the bank records: inspect, scrutinize, investigate, look at, study, scan, sift (through), probe, appraise, analyze, review, evaluate, survey; informal check out.
-2 students were examined after a year: test, quiz, question; assess, appraise.
-3 Law name the witnesses to be examined: interrogate, question, quiz, cross-examine; catechize, give the third degree to, probe, sound out; informal grill, pump.
+iɡˈzamən
+
+▶verb [with object]
+1 inspect (someone or something) in detail to determine their nature or condition; investigate thoroughly: a doctor examined me and said I might need a caesarean 
+this forced us to examine every facet of our business.
+2 test the knowledge or proficiency of (someone) by requiring them to answer questions or perform tasks: the colleges set standards by examining candidates. 
+• Law formally question (a witness) in court. Compare with cross-examine. DERIVATIVES examinable 
+iɡˈzamənəb(ə)l 
+adjective. examinee 
+iɡˌzaməˈnē eɡˌzaməˈnē 
+nounORIGIN Middle English: from Old French examiner, from Latin examinare ‘weigh, test,’ from examen (see examen) .

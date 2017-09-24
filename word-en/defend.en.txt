@@ -1,5 +1,9 @@
 defend 
-▶verb
-1 a fort built to defend the border: protect, guard, safeguard, secure, shield; fortify, garrison, barricade; uphold, support, watch over. ANTONYMS attack.
-2 he defended his policy: justify, vindicate, argue for, support, make a case for, plead for; excuse, explain. ANTONYMS attack, criticize.
-3 the manager defended his players: support, back, stand by, stick up for, stand up for, argue for, champion, endorse; informal throw one's weight behind. ANTONYMS criticize.
+dəˈfend
+
+▶verb [with object] resist an attack made on (someone or something); protect from harm or danger: we shall defend our country, whatever the cost. 
+• speak or write in favor of (an action or person); attempt to justify: he defended his policy of imposing high taxes. 
+• conduct the case for (the party being accused or sued) in a lawsuit: the lawyer had defended the dissidents. 
+• compete to retain (a title or seat) in a contest or election: he successfully defended his congressional seat in new elections 
+(as adjective defending) : the defending champion. 
+• [no object] (in sports) protect one's goal rather than attempt to score against one's opponents. DERIVATIVES defendable adjectiveORIGIN Middle English: from Old French defendre, from Latin defendere, from de- ‘off’ + -fendere ‘to strike.’ Compare with offend .

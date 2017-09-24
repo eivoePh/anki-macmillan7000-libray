@@ -1,8 +1,15 @@
-launch 
-▶verb
-1 they've launched the shuttle 
-the rocket has launched: send into orbit, blast off, take off, lift off.
-2 he launched the boat: set afloat, put to sea, put into the water.
-3 a chair was launched at him: throw, hurl, fling, pitch, lob, let fly; fire, shoot; informal chuck, heave, sling.
-4 the government launched a new campaign: set in motion, get going, get underway, start, commence, begin, embark on, initiate, inaugurate, set up, organize, introduce, bring into being; informal kick off, roll out.
-5 he launched into a tirade: start, commence, burst into.
+launch
+1 
+lôn(t)SH län(t)SH
+
+▶verb [with object]
+1 set (a boat) in motion by pushing it or allowing it to roll into the water: the town's lifeboat was launched to rescue the fishermen. 
+• set (a newly built ship or boat) afloat for the first time, typically as part of an official ceremony: King Gustav II Adolph of Sweden launched a huge new warship. 
+• send (a missile, satellite, or spacecraft) on its course or into orbit: they launched two Scud missiles. 
+• hurl (something) forcefully: she launched a tortoiseshell comb. 
+• [with adverbial of direction] (launch oneself) (of a person) make a sudden energetic movement: I launched myself out of bed. 
+• utter (criticism or a threat) vehemently: scores of customers launched a volley of complaints.
+2 start or set in motion (an activity or enterprise): she was launching a campaign against ugly architecture. 
+• introduce (a new product or publication) to the public for the first time: the company has launched a software package specifically for the legal sector. 
+▶noun an act or an instance of launching something: the launch of a new campaign against drinking and driving. 
+• an occasion at which a new product or publication is introduced to the public: a book launch. PHRASAL VERBS launch into begin (something) energetically and enthusiastically: he launched into a two-hour sales pitch. launch out make a start on a new and challenging enterprise: she wasn't brave enough to launch out by herself.ORIGIN Middle English (in the sense ‘hurl a missile, discharge with force’): from Anglo-Norman French launcher, variant of Old French lancier (see lance).

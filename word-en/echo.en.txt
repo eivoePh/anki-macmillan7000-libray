@@ -1,8 +1,25 @@
 echo 
-▶noun
-1 a faint echo of my shout: reverberation, reflection, ringing, repetition, repeat.
-2 the scene she described was an echo of the photograph: duplicate, copy, replica, imitation, mirror image, double, match, parallel; informal look-alike, spitting image, dead ringer.
-3 a faint echo of their love: trace, vestige, remnant, ghost, shadow, memory, recollection, remembrance; reminder, sign, mark, token, souvenir, indication, suggestion, hint; evidence.
-▶verb
-1 his laughter echoed around the room: reverberate, resonate, resound, reflect, ring, vibrate.
-2 Bill echoed Rex's words: repeat, restate, reiterate; copy, imitate, parrot, mimic; reproduce, recite, quote, regurgitate; informal recap.REFLECTIONS Stephin Merrittecho An artificial echo can be called a delay, slapback, doubling, chorus, flange, phasing, ambience, room tone, or reverb. A delay is one or more distinct repetitions. A slapback is one distinct echo. Doubling is one echo too immediate to be heard distinctly. Chorus, flange, and phasing are one quick echo (doubling) at varying speeds, producing a whooshing or wobbling sound. Ambience, or room tone, is many quick echoes blended into an illusion of small space. Reverb is many echoes blended into an illusion of cavernous space.Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+ˈekō
+
+▶noun (plural echoes)
+1 a sound or series of sounds caused by the reflection of sound waves from a surface back to the listener: the walls threw back the echoes of his footsteps. 
+• a reflected radio or radar beam. 
+• the deliberate introduction of reverberation into a sound recording. 
+• Linguistics the repetition in structure and content of one speaker's utterance by another.
+2 a close parallel or repetition of an idea, feeling, style, or event: his love for her found an echo in her own feelings. 
+• (often echoes) a detail or characteristic that is suggestive of something else: the cheese has a sharp rich aftertaste with echoes of salty, earthy pastures.
+3 archaic a person who slavishly repeats the words or opinions of another.
+4 Bridge a play by a defender of a higher card in a suit followed by a lower one in a subsequent trick, used as a signal to request a further lead of that suit by their partner.
+5 a code word representing the letter E, used in radio communication. 
+▶verb (echoes, echoing, echoed) [no object]
+1 (of a sound) be repeated or reverberate after the original sound has stopped: their footsteps echoed on the metal catwalks. 
+• (of a place) resound with or reflect back a sound or sounds: the house echoed with shouts and thundering feet. 
+• [with object] repeat (someone's words or opinions), typically to express agreement: these criticisms are echoed in a number of other studies 
+[with direct speech] : “A trip?” she echoed.
+2 [with object] (of an object, movement, or event) be reminiscent of or have shared characteristics with: a blue suit that echoed the color of her eyes.
+3 [with object] Computing send a copy of (an input signal or character) back to its source or to a screen for display: for security reasons, the password will not be echoed to the screen.
+4 Bridge (of a defender) play a higher card followed by a lower one in the same suit, as a signal to request one's partner to lead that suit. DERIVATIVES echoer noun. echoey 
+ˈekō-ē 
+adjective. echoless 
+ˈekōləs 
+adjectiveORIGIN Middle English: from Old French or Latin, from Greek ēkhō, related to ēkhē ‘a sound.’

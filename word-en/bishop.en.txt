@@ -1,4 +1,9 @@
 bishop 
-▶noun a meeting of the bishops: diocesan, metropolitan, suffragan, eparch, exarch; formal prelate.
-WORD LINKS
-bishop episcopal relating to a bishop or bishopsWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+ˈbiSHəp
+
+▶noun
+1 a senior member of the Christian clergy, typically in charge of a diocese and empowered to confer holy orders.
+2 (also bishop bird) an African weaverbird, the male of which has red, orange, yellow, or black plumage. [Genus Euplectes, family Ploceidae: several species, including the red bishop (
+E.  orix), which has scarlet plumage with a black face and underparts.]
+3 a chess piece, typically with its top shaped like a miter, that can move in any direction along a diagonal on which it stands. Each player starts the game with two bishops, one moving on white squares and the other on black.
+4 mulled and spiced wine. ORIGIN Old English biscop, bisceop, based on Greek episkopos ‘overseer,’ from epi ‘above’ + -skopos ‘-looking.’

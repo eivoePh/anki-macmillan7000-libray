@@ -10,4 +10,23 @@ B.  transitive verb
 ① (divide) 将…分成区 jiāng… fēnchéng qū ‹town, territory›
 ② (assign) 将…划作特殊区域 jiāng… huàzuò tèshū qūyù ‹area›to be zoned for enterprise/housing 被划作经济开发区/住宅区 
 zone 
-▶noun the search continued in the zone south of the river: area, sector, section, belt, stretch, region, territory, district, quarter, precinct, locality, neighborhood, province.
+zōn
+
+▶noun
+1 [usually with modifier] an area or stretch of land having a particular characteristic, purpose, or use, or subject to particular restrictions: a pedestrian zone 
+the government has declared the city a disaster zone 
+a no-smoking zone. 
+• Geography a well-defined region extending around the earth between definite limits, especially between two parallels of latitude: a zone of easterly winds. See also frigid zone, temperate zone, torrid zone. 
+• (also time zone) a range of longitudes where a common standard time is used. 
+• US (in basketball, football, and hockey) a specific area of the court, field, or rink, especially one to be defended by a particular player. 
+• chiefly Botany & Zoology an encircling band or stripe of distinctive color, texture, or character.
+2 archaic a belt or girdle worn around a person's body. 
+▶verb [with object]
+1 divide into or assign to zones, in particular: 
+• (often as noun zoning) divide (a town or stretch of land) into areas subject to particular planning restrictions: an experimental system of zoning. 
+• designate (a specific area) for use or development as a particular zone in planning: the land is zoned for housing.
+2 archaic encircle as or with a band or stripe. PHRASAL VERBS zone out North American informal fall asleep or lose concentration or consciousness: I just zoned out for a moment.DERIVATIVES zonal 
+ˈzōn(ə)l 
+adjective. zonally 
+ˈzōnl-ē 
+adverbORIGIN late Middle English: from French, or from Latin zona ‘girdle,’ from Greek zōnē .

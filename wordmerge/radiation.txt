@@ -4,7 +4,13 @@ nounUncountable
 ① Physics (of heat) 发热 fārè (of energy) 辐射 fúshè (of light) 发光 fāguāng high solar radiation 强烈的太阳辐射 radiation levels 辐射强度 
 ② (radioactivity) 放射线 fàngshèxiàn to be exposed to radiation 受放射线照射 a low/high level of radiation 低/高强度辐射 
 radiation 
-BrE reɪdɪˈeɪʃ(ə)n, AmE ˌreɪdiˈeɪʃ(ə)n 
-nounUncountable
-① Physics (of heat) 发热 fārè (of energy) 辐射 fúshè (of light) 发光 fāguāng high solar radiation 强烈的太阳辐射 radiation levels 辐射强度 
-② (radioactivity) 放射线 fàngshèxiàn to be exposed to radiation 受放射线照射 a low/high level of radiation 低/高强度辐射 
+ˌrādēˈāSH(ə)n
+
+▶noun
+1 Physics the emission of energy as electromagnetic waves or as moving subatomic particles, especially high-energy particles that cause ionization. 
+• the energy transmitted by radiation, as heat, light, electricity, etc.
+2 chiefly Biology divergence out from a central point, in particular evolution from an ancestral animal or plant group into a variety of new forms. DERIVATIVES radiational 
+-ˈāSHənl 
+adjective. radiationally 
+-ˈāSHənl-ē 
+adverbORIGIN late Middle English (denoting the action of sending out rays of light): from Latin radiatio(n-), from radiare ‘emit rays’ (see radiate) .

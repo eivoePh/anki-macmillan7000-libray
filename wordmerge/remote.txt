@@ -9,9 +9,16 @@ A.  adjective
 ⑤ (aloof) 冷傲的 lěng'ào de ‹person, manner›
 B.  noun 遥控器 yáokòngqì 
 remote 
-▶adjective
-1 areas remote from hospitals: faraway, distant, far, far off, far removed, extrasolar. ANTONYMS close, near.
-2 a remote mountain village: isolated, out of the way, off the beaten track/path, secluded, lonely, in the back of beyond, godforsaken, inaccessible, far-flung, in the backwoods, lonesome; informal in the sticks, in the middle of nowhere. ANTONYMS central.
-3 events remote from modern times: irrelevant to, unrelated to, unconnected to, unconcerned with, not pertinent to, immaterial to, unassociated with; foreign to, alien to. ANTONYMS relevant.
-4 a remote possibility: unlikely, improbable, implausible, doubtful, dubious; faint, slight, slim, small, slender. ANTONYMS likely, strong.
-5 she seems very remote: aloof, distant, detached, withdrawn, reserved, uncommunicative, unforthcoming, unapproachable, unresponsive, unfriendly, unsociable, introspective, introverted; informal standoffish. ANTONYMS friendly, approachable.
+rəˈmōt
+
+▶adjective (remoter, remotest)
+1 (of a place) situated far from the main centers of population; distant: a remote Oregon valley 
+I'd chosen a spot that looked as remote from any road as possible. 
+• (of an electronic device) operating or operated by means of radio or infrared signals. 
+• distant in time: a golden age in the remote past. 
+• distantly related: a remote cousin. 
+• having very little connection with or relationship to: the theory seems rather intellectual and remote from everyday experience. 
+• (of a person) aloof and unfriendly in manner: this morning Maria again seemed remote and patronizing. 
+• Computing denoting a device that can only be accessed by means of a network. Compare with local.
+2 (of a chance or possibility) unlikely to occur: chances of a genuine and lasting peace become even more remote. 
+▶noun a remote control device. ORIGIN late Middle English (in the sense ‘far apart’): from Latin remotus ‘removed,’ past participle of removere (see remove) .

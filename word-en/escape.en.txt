@@ -1,11 +1,23 @@
 escape 
+əˈskāp
+
 ▶verb
-1 he escaped from prison: run away/off, get out, break out, break free, make a break for it, bolt, flee, take flight, make off, take off, abscond, take to one's heels, make one's getaway, make a run for it; disappear, vanish, slip away, sneak away; informal cut and run, skedaddle, vamoose, fly the coop, take French leave, go on the lam.
-2 he escaped his pursuers: get away from, escape from, elude, avoid, dodge, shake off; informal give someone the slip.
-3 they escaped injury: avoid, evade, dodge, elude, miss, cheat, sidestep, circumvent, steer clear of; informal duck.
-4 lethal gas escaped: leak (out), seep (out), discharge, emanate, issue, flow (out), pour (out), gush (out), spurt (out), spew (out).
-▶noun
-1 his escape from prison: getaway, breakout, jailbreak, bolt, flight; disappearance, vanishing act.
-2 a narrow escape from death: avoidance of, evasion of, circumvention of.
-3 a gas escape: leak, leakage, spill, seepage, discharge, effusion, emanation, outflow, outpouring; gush, stream, spurt.
-4 an escape from boredom: distraction, diversion.QUOTE The family—that dear octopus from whose tentacles we never quite escape.Dodie Smith Dear Octopus (1938)
+1 [no object] break free from confinement or control: two burglars have just escaped from prison 
+(as adjective escaped) : escaped convicts. 
+• [with object] elude or get free from (someone): he drove along I-84 to escape the police. 
+• succeed in avoiding or eluding something dangerous, unpleasant, or undesirable: the driver escaped with a broken knee 
+[with object] : a baby boy narrowly escaped death. 
+• (of a gas, liquid, or heat) leak from a container. 
+• [with object] (of words or sounds) issue involuntarily or inadvertently from (someone or their lips): a sob escaped her lips.
+2 [with object] fail to be noticed or remembered by (someone): the name escaped him 
+it may have escaped your notice, but this is not a hotel.
+3 [with object] Computing interrupt (an operation) by means of the escape key. 
+• cause (a subsequent character or characters) to be interpreted differently. 
+▶noun an act of breaking free from confinement or control: the story of his escape from a POW camp 
+he could think of no way of escape, short of rudeness. 
+• an act of successfully avoiding something dangerous, unpleasant, or unwelcome: the baby was fine, but it was a lucky escape. 
+• a means of escaping from somewhere: [as modifier] : he had planned his escape route. 
+• a form of temporary distraction from reality or routine: romantic novels should present an escape from the dreary realities of life. 
+• a leakage of gas, liquid, or heat from a container. 
+• a garden plant or pet animal that has gone wild and (especially in plants) become naturalized. 
+• (also escape key) Computing a key on a computer keyboard that either interrupts the current operation or causes subsequent characters to be interpreted differently. DERIVATIVES escapable adjective. escaper nounORIGIN Middle English: from Old French eschaper, based on medieval Latin ex- ‘out’ + cappa ‘cloak.’ Compare with escapade .

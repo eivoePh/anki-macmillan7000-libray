@@ -18,16 +18,29 @@ B.  terms noun plural
 ⑦ (point of view) in his/their terms 在他/他们看来 zài tā/tāmen kànlái 
 C.  transitive verb formal 把…称作 bǎ… chēngzuò ‹object, person›the offer was termed derisory 那个报价被称为少得可怜 his behaviour was termed lamentable 他的行为被形容为令人惋惜 
 term 
+tərm
+
 ▶noun
-1 scientific and technical terms: word, expression, phrase, turn of phrase, idiom, locution; name, title, designation, label, moniker; formal appellation, denomination, descriptor.
-2 (terms) a protest in the strongest terms: language, mode of expression, manner of speaking, phraseology, terminology; words, expressions.
-3 (terms) the terms of the contract: conditions, stipulations, specifications, provisions, provisos, qualifications, particulars, small print, details, points.
-4 (terms) a policy offering more favorable terms: rates, prices, charges, costs, fees; tariff.
-5 the director is elected for a two-year term: period, period of time, time, length of time, spell, stint, duration; stretch, run; period of office, incumbency.
-6 archaic the whole term of your natural life: duration, length, span.
-7 the summer term: session, semester, trimester, quarter; intersession.
-▶verb he has been termed the father of modern theology: call, name, entitle, title, style, designate, describe as, dub, label, brand, tag, bill, nickname; formal denominate.
+1 a word or phrase used to describe a thing or to express a concept, especially in a particular kind of language or branch of study: the musical term “leitmotiv” 
+a term of abuse. 
+• (terms) language used on a particular occasion; a way of expressing oneself: a protest in the strongest possible terms. 
+• Logic a word or words that may be the subject or predicate of a proposition.
+2 a fixed or limited period for which something, e.g., office, imprisonment, or investment, lasts or is intended to last: the president is elected for a single four-year term. 
+• archaic the duration of a person's life. 
+• (also full term) the completion of a normal length of pregnancy: the pregnancy went to full term 
+low birthweight at term. 
+• (also term for years or British term of years) Law a tenancy of a fixed period. 
+• archaic a boundary or limit, especially of time.
+3 each of the periods in the year, alternating with holidays or vacations, during which instruction is given in a school, college, or university, or during which a court holds sessions: the summer term 
+term starts tomorrow.
+4 (terms) conditions under which an action may be undertaken or agreement reached; stipulated or agreed-upon requirements: the union and the company agreed upon the contract's terms 
+he could only be dealt with on his own terms. 
+• conditions with regard to payment for something; stated charges: loans on favorable terms. 
+• agreed conditions under which a war or other dispute is brought to an end: the United States played a key role in prodding the two sides to come to terms.
+5 Mathematics each of the quantities in a ratio, series, or mathematical expression.
+6 Architecture another term for terminus. 
+▶verb [with object and usually with complement] give a descriptive name to; call by a specified name: he has been termed the father of modern theology. 
 PHRASES
-come to terms
-1 the two sides came to terms: reach an agreement/understanding, make a deal, reach a compromise, meet each other halfway.
-2 she eventually came to terms with her situation: accept, come to accept, reconcile oneself to, learn to live with, become resigned to, make the best of; face up to.
+come to terms with come to accept (a new and painful or difficult event or situation); reconcile oneself to: she had come to terms with the tragedies in her life. in terms of (or in —— terms) with regard to the particular aspect or subject specified: replacing the printers is difficult to justify in terms of cost 
+sales are down by nearly
+7 percent in real terms.the long/short/medium term used to refer to a time that is a specified way into the future. on —— terms in a specified relation or on a specified footing: we are all on friendly terms.ORIGIN Middle English (denoting a limit in space or time, or (in the plural) limiting conditions): from Old French terme, from Latin terminus ‘end, boundary, limit.’

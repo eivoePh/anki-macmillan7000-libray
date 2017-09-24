@@ -9,10 +9,16 @@ intransitive verb
 ⑥ Theatre (act) 演出 yǎnchū to appear as King Lear 扮演李尔王 
 ⑦ (be present) 到场 dàochǎng appear in person 亲自到场 
 appear 
-▶verb
-1 a cloud of dust appeared on the horizon: become visible, come into view, come into sight, materialize, pop up. ANTONYMS vanish.
-2 fundamental differences were beginning to appear: be revealed, emerge, surface, manifest itself, become apparent, become evident, come to light; arise, crop up.
-3 informal Bill still hadn't appeared: arrive, turn up, put in an appearance, come, get here/there; informal show (up), roll in, blow in.
-4 they appear to be completely devoted: seem to be, look to be, give the impression of being, come across as being, strike someone as being.
-5 the paperback edition didn't appear for two years: become available, come on the market, go on sale, come out, be published, be produced.
-6 she appeared on Broadway: perform, play, act.
+əˈpir
+
+▶verb [no object]
+1 come into sight; become visible or noticeable, typically without visible agent or apparent cause: smoke appeared on the horizon. 
+• come into existence or use: the major life forms appeared on earth. 
+• (of a book) be published: the paperback edition didn't appear for another two years. 
+• feature or be shown: the symbol appears in many paintings of the period. 
+• perform publicly in a movie, play, etc.: he appeared on Broadway. 
+• (of an accused person, witness, or lawyer) make an official appearance in a court of law: he appeared on six charges of theft. 
+• informal arrive at a place: by ten o'clock Bill still hadn't appeared.
+2 seem; give the impression of being: [with infinitive] : she appeared not to know what was happening 
+[with clause] : it appears unlikely that interest rates will fall 
+[with complement] : he appeared unaware of the rebuke. ORIGIN Middle English: from Old French apareir, from Latin apparere, from ad- ‘toward’ + parere ‘come into view.’

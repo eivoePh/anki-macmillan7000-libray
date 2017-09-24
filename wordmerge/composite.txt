@@ -4,5 +4,22 @@ BrE ˈkɒmpəzɪt, AmE kəmˈpɑzət
 A.  adjective (compound) 复合的 fùhé de ‹construction material›; 拼合的 pīnhé de ‹text, photo›a composite picture/word 拼图/合成词 
 B.  noun 合成物 héchéngwù to be a composite of [something] and [something]; 是某事物与某事物的综合 
 composite 
-▶adjective a composite structure: compound, complex; combined, blended, mixed.
-▶noun a composite of plastic and metal: amalgamation, amalgam, combination, compound, fusion, synthesis, mixture, blend; alloy.
+kəmˈpäzət
+
+▶adjective
+1 made up of various parts or elements. 
+• (especially of a constructional material) made up of recognizable constituents: a new composite material—a blend of plastic and ceramic resins. 
+• (of a railroad car) having compartments of more than one class or function. 
+• Mathematics (of an integer) being the product of two or more factors greater than one; not prime.
+2 (Composite) relating to or denoting a classical order of architecture consisting of elements of the Ionic and Corinthian orders.
+3 
+ˈkämpəzīt 
+Botany relating to or denoting plants of the daisy family (Compositae). 
+▶noun
+1 a thing made up of several parts or elements: the English legal system is a composite of legislation and judicial precedent. 
+• a composite constructional material.
+2 
+ˈkämpəzīt 
+Botany a plant of the daisy family (Compositae).
+3 (Composite) the Composite order of architecture. 
+▶verb [with object] (usually as noun compositing) combine (two or more images) to make a single picture, especially electronically: photographic compositing by computer. DERIVATIVES compositely adverb. compositeness nounORIGIN late Middle English (describing a number having more than one digit): via French from Latin compositus, past participle of componere ‘put together.’

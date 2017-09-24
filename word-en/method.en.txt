@@ -1,4 +1,9 @@
 method 
-▶noun
-1 they use very old-fashioned methods: procedure, technique, system, practice, routine, modus operandi, process; strategy, tactic, plan.
-2 there's a method to his madness: order, orderliness, organization, structure, form, system, logic, planning, design, sense. ANTONYMS disorder.
+ˈmeTHəd
+
+▶noun (often method for/of) a particular form of procedure for accomplishing or approaching something, especially a systematic or established one: a method for software maintenance 
+labor-intensive production methods. 
+• orderliness of thought or behavior; systematic planning or action: historical study is the rigorous combination of knowledge and method. 
+• (often Method) short for method acting. 
+PHRASES
+there is method in one's madness there is a sensible foundation for what appears to be foolish or strange behavior. [from Shakespeare's Hamlet (ii. ii. 211).]ORIGIN late Middle English (in the sense ‘prescribed medical treatment for a disease’): via Latin from Greek methodos ‘pursuit of knowledge,’ from meta- (expressing development) + hodos ‘way.’

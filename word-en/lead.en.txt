@@ -1,22 +1,55 @@
 lead
 1 
-▶verb
-1 Michelle led them into the house: guide, conduct, show, show the way, lead the way, usher, escort, steer, pilot, shepherd; accompany, see, take. ANTONYMS follow.
-2 he led us to believe they were lying: cause, induce, prompt, move, persuade, influence, drive, condition, make; incline, dispose, predispose.
-3 this might lead to job losses: result in, cause, bring on/about, give rise to, be the cause of, make happen, create, produce, occasion, effect, generate, contribute to, promote; provoke, stir up, spark off, arouse, foment, instigate; involve, necessitate, entail; formal effectuate. ANTONYMS prevent.
-4 he led a march to the city center: be at the head of, be at the front of, head, spearhead; precede. ANTONYMS follow.
-5 she led a coalition of radicals: be the leader of, be the head of, preside over, head, command, govern, rule, be in charge of, be in command of, be in control of, run, control, direct, be at the helm of; administer, organize, manage; reign over, be in power over; informal head up. ANTONYMS serve in.
-6 the home team was leading at halftime: be ahead, be winning, be (out) in front, be in the lead, be first, be on top. ANTONYMS trail.
-7 the champion was leading the field: be at the front of, be first in, be ahead of, head; outrun, outstrip, outpace, leave behind, draw away from; outdo, outclass, beat; informal leave standing. ANTONYMS trail.
-8 I just want to lead a normal life: experience, have, live, spend.
+lēd
+
+▶verb (past and past participle led 
+led
+) [with object]
+1 cause (a person or animal) to go with one by holding them by the hand, a halter, a rope, etc., while moving forward: she emerged leading a bay horse. 
+• show (someone or something) the way to a destination by going in front of or beside them: she stood up and led her friend to the door. 
+• be a reason or motive for (someone): nothing that I have read about the case leads me to the conclusion that anything untoward happened 
+[with object and infinitive] : a fascination for art led him to start a collection of paintings. 
+• [no object] be a route or means of access to a particular place or in a particular direction: a door leading to a better-lit corridor. 
+• [no object] (lead to) culminate in (a particular event): closing the plant will lead to the loss of 300 jobs.
+2 be in charge or command of: a military delegation was led by the Chief of Staff. 
+• organize and direct: the conference included sessions led by people with personal knowledge of the area. 
+• set (a process) in motion: they are waiting for an expansion of world trade to lead a recovery. 
+• be the principal player of (a group of musicians): since the forties he has led his own big bands. 
+• [no object] (lead with) assign the most important position to (a particular news item): the news on the radio led with the murder.
+3 be superior to (competitors or colleagues): there will be specific areas or skills in which other nations lead the world. 
+• have the first place in (a competition); be ahead of (competitors): the veteran jockey was leading the field. 
+• [no object] have the advantage in a race or game: Dallas was fortunate to lead 85-72.
+4 have or experience (a particular way of life): she's led a completely sheltered life.
+5 initiate (action in a game or contest), in particular: 
+• (in card games) play (the first card) in a trick or round of play. 
+• [no object] (lead with) Boxing make an attack with (a particular punch or fist): Adam led with a left. 
+• [no object] Baseball (of a base runner) advance one or more steps from the base one occupies while the pitcher has the ball: the runner leads from first. 
 ▶noun
-1 I was in the lead early on: the leading position, first place, the van, the vanguard; ahead, in front, winning.
-2 they took the lead in the personal computer market: first position, forefront, primacy, dominance, superiority, ascendancy; preeminence, supremacy, advantage, upper hand, whip hand.
-3 playing the lead: leading role, star/starring role, title role, principal part; principal character, male lead, female lead, leading man, leading lady.
-4 a Labrador on a lead: leash, tether, rope, chain, cord.
-5 detectives were following up a new lead: clue, hint, tip, tip-off, suggestion, indication, sign, pointer.
-▶adjective the lead position: leading, first, top, foremost, front, head; chief, principal, main, premier.
+1 the initiative in an action; an example for others to follow: the US is now taking the environmental lead. 
+• a piece of information that may help in the resolution of a problem: detectives investigating the murder are chasing new leads 
+he went to a health fair hoping to get some leads on a job. 
+• someone or something that may be useful, especially a potential customer or business opportunity: setting up a social networking page can help you get numerous leads 
+the goal of marketing is to generate leads so the sales people can close them. 
+• (in card games) an act or right of playing first in a trick or round of play: it's your lead. 
+• the card played first in a trick or round.
+2 (the lead) a position of advantage in a contest; first place: they were beaten 5-3 after twice being in the lead. 
+• an amount by which a competitor is ahead of the others: the team held a slender one-goal lead. 
+• Baseball an advance of one or more steps taken by a base runner from the base they occupy while the pitcher has the ball.
+3 the chief part in a play or film: she had the lead in a new film 
+[as modifier] : the lead role. 
+• the person playing the chief part: he still looked like a romantic lead. 
+• [usually as modifier] the chief performer or instrument of a specified type: that girl will be your lead dancer. 
+• the item of news given the greatest prominence in a newspaper, broadcast, etc.: the “pensions revolution” is the lead in the Times 
+[as modifier] : the lead story. 
+• (also lede) US the opening sentence or paragraph of a news article, summarizing the most important aspects of the story: the newswire will be offering two different leads for certain stories, so editors can pick and choose.
+4 a leash for a dog or other animal.
+5 a wire that conveys electric current from a source to an appliance, or that connects two points of a circuit together.
+6 the distance advanced by a screw in one turn.
+7 a channel, in particular: 
+• an artificial watercourse leading to a mill. 
+• a channel of water in an ice field. 
 PHRASES
-lead something off let's lead off the meeting with a few words from Mr. Diaz: begin, start (off), commence, open; informal kick off. lead someone on were you leading her on with that talk about marriage? deceive, mislead, delude, hoodwink, dupe, trick, fool, pull the wool over someone's eyes; informal string along, lead up the garden path, take for a ride, fleece, inveigle, hornswoggle, scam. lead the way
-1 he led the way to the kitchen: guide someone, conduct someone, show someone the way.
-2 our corporation is leading the way in new technologies: take the initiative, break (new) ground, blaze a trail, prepare the way, be at the forefront. lead up to perhaps these informal meetings will lead up to a more formal relationship: prepare the way for, pave the way for, lay the groundwork for, set the scene for, work up/around to.
+bury the lead see bury the lede. lead someone astray cause someone to act or think foolishly or wrongly. lead someone by the nose informal control someone totally, especially by deceiving them. lead someone a dance see dance. lead from the front take an active role in what one is urging and directing others to do. lead someone up (or down) the garden path informal give someone misleading clues or signals. lead the way see way. lead with one's chin informal (of a boxer) leave one's chin unprotected. 
+• behave or speak incautiously.PHRASAL VERBS lead off start: the newsletter leads off with a report on tax bills. 
+• Baseball bat first in a game or inning. lead someone on mislead or deceive someone, especially into believing that one is in love with or attracted to them. lead up to immediately precede: the weeks leading up to the elections. 
+• result in: fashioning a policy appropriate to the situation entails understanding the forces that led up to it.ORIGIN Old English lǣdan, of Germanic origin; related to Dutch leiden and German leiten, also to load and lode .

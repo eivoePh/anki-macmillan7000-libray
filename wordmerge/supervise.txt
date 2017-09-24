@@ -7,6 +7,8 @@ A.  transitive verb
 ③ (oversee activity in) 监管 jiānguǎn ‹building site, department›a supervised playground 受监管的游乐场 
 B.  intransitive verb «manager, supervisor» 监督 jiāndū ; «doctor, parent» 照料 zhàoliào 
 supervise 
-▶verb
-1 he had to supervise the loading: oversee, superintend, be in charge of, preside over, direct, manage, run, look after, be responsible for, govern, organize, handle, micromanage.
-2 you may need to supervise the patient: watch, oversee, keep an eye on, observe, monitor, mind; invigilate.
+ˈso͞opərˌvīz
+
+▶verb [with object] observe and direct the execution of (a task, project, or activity): the sergeant left to supervise the loading of the trucks. 
+• observe and direct the work of (someone): nurses were supervised by a consulting psychiatrist. 
+• keep watch over (someone) in the interest of their or others' security: prisoners were supervised by two officers. ORIGIN late 15th century (in the sense ‘survey, peruse’): from medieval Latin supervis- ‘surveyed, supervised,’ from supervidere, from super- ‘over’ + videre ‘to see.’

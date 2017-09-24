@@ -4,4 +4,10 @@ adverb
 ① (almost completely) 实际上 shíjì shang there is virtually no public transport 几乎没有公共交通 it's virtually impossible 这几乎不可能 virtually every household has one 差不多每家都有一个 virtually anywhere 差不多到处 
 ② Computing 虚拟地 xūnǐ de 
 virtually 
-▶adverb the building is virtually empty: effectively, in effect, all but, more or less, practically, almost, nearly, close to, verging on, just about, as good as, essentially, to all intents and purposes, roughly, approximately; informal pretty much, pretty well; literary well-nigh, nigh on.
+ˈvərCH(o͞o)əlē
+
+▶adverb
+1 [as submodifier] nearly; almost: virtually all those arrested were accused 
+the college became virtually bankrupt.
+2 by means of virtual reality techniques. 
+• by means of a computer; computationally.

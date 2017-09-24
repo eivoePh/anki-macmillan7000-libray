@@ -12,8 +12,13 @@ noun
 ① (decree) 命令 mìnglìng 
 ② dictates plural (promptings, precepts) 支配 zhīpèi the dictates of [something]; 某物的支配 to follow the dictates of one's conscience/passion 凭良心办事/感情用事 
 dictate 
-▶verb
-1 the president's attempts to dictate policy: prescribe, lay down, impose, set down, order, command, decree, ordain, direct, determine, decide, control, govern.
-2 you are in no position to dictate to me: give orders to, order around/about, lord it over; lay down the law to; informal boss around/about, push around/about; (dictate to someone) throw one's weight around/about.
-3 choice is often dictated by availability: determine, control, govern, decide, influence, affect.
-▶noun the dictates of his superior: order, command, commandment, decree, edict, ruling, dictum, diktat, directive, direction, instruction, pronouncement, mandate, requirement, stipulation, injunction, demand; formal ordinance; literary behest.
+▶verb 
+ˈdikˌtāt ˌdikˈtāt 
+[with object]
+1 lay down authoritatively; prescribe: the tsar's attempts to dictate policy 
+[no object] : that doesn't give you the right to dictate to me. 
+• control or decisively affect; determine: choice is often dictated by availability 
+[no object] : a review process can be changed as circumstances dictate.
+2 say or read aloud (words to be typed, written down, or recorded on tape): I have four letters to dictate. 
+▶noun (usually dictates) an order or principle that must be obeyed: the dictates of fashion. ORIGIN late 16th century ( sense
+2 of the verb): from Latin dictat- ‘dictated,’ from the verb dictare .

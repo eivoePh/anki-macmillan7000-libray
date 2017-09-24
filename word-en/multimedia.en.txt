@@ -1,4 +1,7 @@
 multimedia 
-BrE ˈmʌltɪmiːdɪə, AmE ˌməltiˈmidiə, ˌməltaɪˈmidiə 
-A. nounUncountable多媒体 duōméitǐ 
-B.  adjective 多媒体的 duōméitǐ de 
+ˌməltēˈmēdēə ˌməltīˈmēdēə
+
+▶adjective (of art, education, etc.) using more than one medium of expression or communication: a multimedia art form. 
+• (of computer applications) incorporating audio and video, especially interactively. 
+▶noun the use of a variety of artistic or communicative media. 
+• an extension of hypertext allowing the provision of audio and video material cross-referenced to a computer text.

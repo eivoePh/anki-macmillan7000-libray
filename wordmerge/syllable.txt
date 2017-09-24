@@ -2,5 +2,9 @@ syllable
 BrE ˈsɪləb(ə)l, AmE ˈsɪləb(ə)l 
 noun 音节 yīnjié (to explain [something]) in words of one syllable 用简单明了的字眼（解释某事） 
 syllable 
-BrE ˈsɪləb(ə)l, AmE ˈsɪləb(ə)l 
-noun 音节 yīnjié (to explain [something]) in words of one syllable 用简单明了的字眼（解释某事） 
+ˈsiləb(ə)l
+
+▶noun a unit of pronunciation having one vowel sound, with or without surrounding consonants, forming the whole or a part of a word; e.g., there are two syllables in water and three in inferno. 
+• a character or characters representing a syllable. 
+• [usually with negative] the least amount of speech or writing; the least mention of something: I'd never have breathed a syllable if he'd kept quiet. 
+▶verb [with object] pronounce (a word or phrase) clearly, syllable by syllable. DERIVATIVES syllabled adjective [usually in combination] : poems of few-syllabled linesORIGIN late Middle English: from an Anglo-Norman French alteration of Old French sillabe, via Latin from Greek sullabē, from sun- ‘together’ + lambanein ‘take.’

@@ -4,4 +4,8 @@ noun
 ① Uncountable(of wound, organ) 感染 gǎnrǎn (of person, blood) 传染 chuánrǎn to be exposed to infection 暴露于易受感染的环境 
 ② Countable(disease) 传染病 chuánrǎnbìng to have an infection; 患传染病 
 infection 
-▶noun a treatable skin infection: disease, virus; disorder, condition, affliction, complaint, illness, ailment, sickness, infirmity; contamination, poison, septicemia, suppuration; informal bug; dated contagion; Medicine sepsis.
+inˈfekSH(ə)n
+
+▶noun the process of infecting or the state of being infected: strict hygiene will limit the risk of infection. 
+• an infectious disease: a chest infection. 
+• Computing the presence of a virus in, or its introduction into, a computer system. ORIGIN late Middle English: from late Latin infectio(n-), from Latin inficere ‘dip in, taint’ (see infect) .

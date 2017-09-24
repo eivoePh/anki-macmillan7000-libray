@@ -2,5 +2,7 @@ census
 BrE ˈsɛnsəs, AmE ˈsɛnsəs 
 noun(plural censuses) (survey of population) 人口普查 rénkǒu pǔchá ; (survey of class of things) 统计调查 tǒngjì diàochá to take/conduct a census 进行人口调查 
 census 
-BrE ˈsɛnsəs, AmE ˈsɛnsəs 
-noun(plural censuses) (survey of population) 人口普查 rénkǒu pǔchá ; (survey of class of things) 统计调查 tǒngjì diàochá to take/conduct a census 进行人口调查 
+ˈsensəs
+
+▶noun (plural censuses) an official count or survey of a population, typically recording various details of individuals: population estimates extrapolated from the 1981 census 
+[as modifier] : census data. ORIGIN early 17th century (denoting a poll tax): from Latin, applied to the registration of citizens and property in ancient Rome, usually for taxation, from censere ‘assess.’ The current sense dates from the mid 18th century.

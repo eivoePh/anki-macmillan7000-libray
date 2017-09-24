@@ -13,12 +13,29 @@ B.  noun
 ② (horse) 灰马 huī mǎ 
 C.  transitive verb 使…变灰白 shǐ… biànhuībái ‹hair›; 使…变苍白 shǐ… biàncāngbái ‹complexion›
 D.  intransitive verb «hair» 变灰白 biànhuībái ; «complexion» 变苍白 biàncāngbái ; «person» 头发变灰白 tóufa biànhuībái ; «animal» 毛发变灰色 máofà biànhuīsè to be greying at the temples 两鬓斑白 the population is greying figurative 人口正在老龄化 PHRASAL VERB grey out transitive verb[grey out something, grey something out] 使…变灰隐去 shǐ… biànhuī yǐnqù ‹menu, option›
-gray 
+gray
+1 
+ɡrā 
+(British grey) 
 ▶adjective
-1 a gray suit: silvery, silver-gray, gunmetal, slate, charcoal, smoky.
-2 his gray hair: white, silver, hoary.
-3 a gray day: cloudy, overcast, dull, sunless, gloomy, dreary, dismal, somber, bleak, murky. ANTONYMS sunny, bright.
-4 her face looked gray: ashen, wan, pale, pasty, pallid, colorless, bloodless, white, waxen; sickly, peaked, drained, drawn, deathly. ANTONYMS ruddy.
-5 the gray daily routine: characterless, colorless, nondescript, insipid, jejune, unremarkable, flat, bland, dry, stale; dull, uninteresting, uninvolving, boring, tedious, monotonous, monochrome. ANTONYMS lively.
-6 their policy regarding unmarried couples is a gray area: ambiguous, unclear, uncertain, doubtful, indefinite, indistinct, indeterminate, debatable, open to question. ANTONYMS black and white, certain.
-▶verb the population grayed: age, grow old, mature.
+1 of a color intermediate between black and white, as of ashes or an overcast sky: gray flannel trousers. 
+• (of a person) having gray hair: a gray, fatherly gentleman. 
+• informal relating to old people, especially when seen as an oppressed group: gray power. 
+• (of the weather) cloudy and dull; without sun: a cold, gray November day. 
+• (of a person's face) pale, as through tiredness, age, or illness: a few people, their faces gray and bitter.
+2 dull and nondescript; without interest or character: gray, faceless men 
+the gray daily routine.
+3 (of financial or trading activity) not accounted for in official statistics: the gray economy. 
+▶noun
+1 gray color or pigment: dirty intermediate tones of gray. 
+• gray clothes or material: the gentleman in gray. 
+• gray hair: he sighed at the amount of gray at his temple. 
+• (usually Gray) the Confederate army in the Civil War, or a member of that army.
+2 a gray thing or animal, in particular a gray or white horse. 
+▶verb [no object] (especially of hair) become gray with age: he had put on weight and grayed somewhat 
+(as adjective graying) : a man of about fifty with graying hair. 
+• (of a person or group) become older; age: (as adjective graying) : a graying workforce. PHRASAL VERBS gray something out display a menu option in a light font to indicate that it is not available: all the property fields on the Shortcut tab are either missing or grayed out.DERIVATIVES grayish 
+ˈɡrāiSH 
+adjective. grayly adverb. grayness 
+ˈɡrānəs 
+nounORIGIN Old Englishgrǣg, of Germanic origin; related to Dutch grauw and German grau .

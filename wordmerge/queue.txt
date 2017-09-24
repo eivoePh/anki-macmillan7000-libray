@@ -4,5 +4,13 @@ especially BrE
 A.  noun (of people or vehicles) 行列 hángliè to line up or stand in a queue 排队 páiduì a bus queue 排队等公共汽车的人 to jump the queue 插队 chāduì 
 B.  intransitive verb queue (up) «person, vehicles» 排队 páiduì to queue up to do [something] figurative 纷纷等着做某事 fēnfēn děngzhe zuò mǒu shì 
 queue 
-▶noun a long queue of people: lineup, line, row, column, file, chain, string; procession, train, cavalcade.
-▶verb we queued for ice cream: line up, wait in line, form a line, fall in, form a queue, queue up.
+kyo͞o
+
+▶noun
+1 chiefly British a line or sequence of people or vehicles awaiting their turn to be attended to or to proceed.
+2 Computing a list of data items, commands, etc., stored so as to be retrievable in a definite order, usually the order of insertion.
+3 archaic a braid of hair worn at the back. 
+▶verb (queues, queuing or queueing, queued) [no object]
+1 chiefly British take one's place in a queue: in the war they had queued for food. 
+• (queue up) be extremely keen to do or have something: companies are queuing up to move to the bay.
+2 [with object] Computing arrange in a queue. ORIGIN late 16th century (as a heraldic term denoting the tail of an animal): from French, based on Latin cauda ‘tail.’ Compare with cue2. dates from the mid 19th century.

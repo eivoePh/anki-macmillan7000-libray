@@ -1,8 +1,20 @@
 search 
-▶verb
-1 (search for) I searched for the key in my handbag: hunt (for), look for, seek, forage for, fish around/about for, look high and low for, ferret around/about for, root around/about for, rummage around/about for, cast around/about for.
-2 he searched every room in the house: look through, hunt through, explore, scour, rifle through, go through, sift through, comb, go through with a fine-tooth comb; turn upside down, turn inside out, leave no stone unturned in.
-3 the guards searched him for weapons: examine, inspect, check, frisk.
-▶noun the police continued their search: hunt, look, quest; pursuit, manhunt.
+sərCH
+
+▶verb [no object] try to find something by looking or otherwise seeking carefully and thoroughly: I searched among the rocks, but there was nothing 
+Daniel is then able to search out the most advantageous mortgage 
+Hugh will be searching for the truth. 
+• [with object] examine (a place, vehicle, or person) thoroughly in order to find something or someone: she searched the house from top to bottom 
+the guards searched him for weapons. 
+• [with object] look for information in (a database or the World Wide Web) using a search engine: search our online archive for stories dating back to February 1996 
+I must search the Internet for one of his pictures 
+[no object] : you can search for recipes by topic or by entering a keyword. 
+▶noun an act of searching for someone or something: the police carried out a thorough search of the premises 
+he plans to go to the Himalayas in search of a yeti. 
+• an act or instance of searching a database or the World Wide Web: time-consuming searches of the Internet. 
+• Computing the systematic retrieval of information, or the facility for this. 
+• (usually searches) Law an investigation of public records to find if a property is subject to any liabilities or encumbrances. 
 PHRASES
-in search of they say they are in search of a silver flask with the monogram 'DLR': searching for, hunting for, seeking, looking for, on the lookout for, in pursuit of. search me informal "Where's my toolbox?" "Search me.": I don't know, how should I know?, it's a mystery, I haven't a clue, I haven't the least/slightest idea, I've no idea, who knows; informal (I) dunno, don't ask me, I haven't the faintest/foggiest (idea/notion), (it) beats me, you got me.
+search me! informal I do not know (used for emphasis).DERIVATIVES searcher 
+ˈsərCHər 
+nounORIGIN Middle English: from Old French cerchier (verb), from late Latin circare ‘go around,’ from Latin circus ‘circle.’

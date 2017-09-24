@@ -15,17 +15,22 @@ C.  pronoun
 ① (denoting number) 一百 yībǎi 
 ② (denoting age) 百岁 bǎi suì 
 hundred 
-BrE ˈhʌndrəd, AmE ˈhəndrəd 
-A. noun 
-① Uncountable(number) 一百 yībǎi a hundred to one 可能性极大 sold in hundreds or by the hundred 大批出售的 to turn up in one's hundreds 大批出现 in nineteen hundred 在1900年 the sixteen hundreds 17世纪 
-② Countablefigurative colloquial (very many) 许多 xǔduō hundreds of times/girlfriends 很多很多次/女朋友 
-③ Uncountablecolloquial (speed in miles per hour) a hundred 每小时一百英里 (speed in km per hour) 每小时一百公里 měi xiǎoshí yībǎi gōnglǐ to do a hundred 每小时开100公里 
-④ Countable(degrees) a hundred 一百华氏度 yībǎi Huáshìdù 
-B.  adjective 
-① attributive (in number) 一百的 yībǎi de about a hundred people/metres 大约100人/米 to live to be a hundred (years old) 活到100岁 to be a hundred per cent correct 百分之百正确 
-② predicative (in age) 百岁的 bǎi suì de to be over/under a hundred 年纪为100多岁/不到100岁 
-③ postpositive (in series) 第一百的 dì-yībǎi de page one hundred 第一百页 
-④ (in combinations) 一百…的 yībǎi… de a hundred-litre container 100升的容器 
-C.  pronoun 
-① (denoting number) 一百 yībǎi 
-② (denoting age) 百岁 bǎi suì 
+ˈhəndrəd
+
+▶cardinal number (plural hundreds or (with numeral or quantifying word) hundred) (a/one hundred) the number equivalent to the product of ten and ten; ten more than ninety; 100: a hundred yards away 
+there are just a hundred of us here. (Roman numeral: c or C) 
+• (hundreds) the numbers from 100 to 999: an unknown number, probably in the hundreds, had already been lost. 
+• (hundreds) several hundred things or people: it cost hundreds of dollars. 
+• (usually hundreds) informal an unspecified large number: hundreds of letters poured in. 
+• (the —— hundreds) the years of a specified century: the early nineteen hundreds. 
+• one hundred years old: you must be over a hundred! 
+• 100 miles per hour. 
+• a 100 dollar bill. 
+• (chiefly in spoken English) used to express whole hours in the twenty-four-hour system: thirteen hundred hours. 
+▶noun British historical a subdivision of a county or shire, having its own court. 
+PHRASES
+a (or one) hundred percent entirely; completely: I'm one hundred percent sure. 
+• [usually with negative] informal completely fit and healthy: I wasn't exactly one hundred percent. 
+• informal maximum effort and commitment: he always gave one hundred percent for the team.DERIVATIVES hundredfold 
+ˈhəndrədˌfōld 
+adjective & adverbORIGIN late Old English, from hund ‘hundred’ (from an Indo-European root shared with Latin centum and Greek hekaton) + a second element meaning ‘number’; of Germanic origin and related to Dutch honderd and German hundert. The noun sense ‘subdivision of a county’ is of uncertain origin: it may originally have been equivalent to a hundred hides of land (see hide3) .

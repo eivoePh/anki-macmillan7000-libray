@@ -19,8 +19,15 @@ B.  transitive verb[slot something/somebody in, slot in something/somebody]
 ③ BrE Sport colloquial 踢进 tījìn ‹goal, shot›slot together 
 A.  intransitive verb «components, parts» 插接起来 chājiē qilai 
 B.  transitive verb[slot something together, slot together something] 把…插接起来 bǎ… chājiē qilai ‹components, parts›
-slot 
+slot
+1 
+slät
+
 ▶noun
-1 he slid a coin into the slot: aperture, slit, crack, hole, opening.
-2 I have an early time slot: spot, time, period, niche, space; informal window.
-▶verb he slotted a cassette into the machine: insert, put, place, slide, slip.
+1 a long, narrow aperture or slit in a machine for something to be inserted: he slid a coin into the slot of the jukebox. 
+• a groove or channel into which something fits or in which something works, such as one in the head of a screw.
+2 an allotted place in an arrangement or plan such as a broadcasting schedule: a late-night television slot 
+landing slots at O'Hare. 
+▶verb (slots, slotting, slotted) [with object] place (something) into a long, narrow aperture: he slotted a cassette into the tape machine 
+the plates come in sections that can be slotted together. 
+• [no object] be placed or able to be placed into a slot: the processors will slot into a personal computer. ORIGIN late Middle English (in the sense ‘slight depression running down the middle of the chest,’ surviving as a Scots term): from Old French esclot, of obscure origin.

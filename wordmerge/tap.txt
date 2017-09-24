@@ -16,15 +16,25 @@ B.  transitive verb(present participle etc. -pp-)
 ⑥ Technology (cut thread of) 在…上攻螺纹 zài… shang gōng luówén ‹screw›
 tap
 1 
+tap
+
 ▶noun
-1 she turned the tap on: faucet, valve, stopcock, cock, spout, spigot, spile.
-2 a phone tap in the embassy: listening device, wiretap, wire, bug, bugging device, (hidden) microphone, (hidden) mic, receiver.
-▶verb
-1 several barrels were tapped: drain, bleed, milk; broach, open.
-2 butlers were tapping ale: pour (out), draw off, siphon off, pump out, decant.
-3 their telephones are tapped: bug, wiretap, monitor, overhear, eavesdrop on, spy on.
-4 the resources were to be tapped for our benefit: draw on, exploit, milk, mine, use, utilize, turn to account.
+1 a device by which a flow of liquid or gas from a pipe or container can be controlled. 
+• a device connected to a telephone used for listening secretly to someone's conversations. 
+• an act of listening secretly to someone's telephone conversation. 
+• (also tapping) an electrical connection made to some point between the end terminals of a transformer coil or other component.
+2 an instrument for cutting a threaded hole in a material.
+3 British a taproom. 
+▶verb (taps, tapping, tapped) [with object]
+1 draw liquid through the tap or spout of (a cask, barrel, or other container): bragging of tests they had aced and kegs they had tapped. 
+• draw (liquid) from a cask, barrel, or other container: the butlers were tapping new ale. 
+• connect a device to (a telephone) so that conversation can be listened to secretly: the telephones were tapped by the state security police. 
+• informal obtain money or information from (someone): he considered whom he could tap for information. 
+• exploit or draw a supply from (a resource): clients from industry seeking to tap Philadelphia's resources of expertise 
+[no object] : these magazines have tapped into a target market of consumers. 
+• draw sap from (a tree) by cutting into it.
+2 cut a thread in (something) to accept a screw. 
 PHRASES
-on tap
-1 beers on tap: on draft, from barrels, cask-conditioned.
-2 informal trained staff are on tap: on hand, at hand, available, ready, handy, accessible, standing by.
+on tap ready to be poured from a tap. 
+• informal freely available whenever needed. 
+• North American informal on schedule to occur.DERIVATIVES tappable adjectiveORIGIN Old English tæppa ‘peg for the vent hole of a cask,’ tæppian ‘provide (a cask) with a stopper,’ of Germanic origin; related to Dutch tap and German Zapfen (nouns).

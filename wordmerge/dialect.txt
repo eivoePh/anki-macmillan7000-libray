@@ -2,4 +2,9 @@ dialect
 BrE ˈdʌɪəlɛkt, AmE ˈdaɪəˌlɛkt 
 noun 方言 fāngyán to speak dialect 说方言 a dialect of German 德语方言 
 dialect 
-▶noun the island dialect was influenced by the Spanish in the sixteenth century: regional language, local language, local speech, vernacular, patois, idiom; regionalisms, localisms; informal lingo.
+ˈdīəˌlekt
+
+▶noun a particular form of a language that is peculiar to a specific region or social group: this novel is written in the dialect of Trinidad. 
+• Computing a particular version of a programming language. DERIVATIVES dialectal 
+dīəˈlektəl 
+adjectiveORIGIN mid 16th century (denoting the art of investigating the truth of opinions): from French dialecte, or via Latin from Greek dialektos ‘discourse, way of speaking,’ from dialegesthai ‘converse with’ (see dialogue) .

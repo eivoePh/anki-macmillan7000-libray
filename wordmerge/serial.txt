@@ -7,9 +7,18 @@ B.  adjectiveattributive
 ② (divided into episodes) 连播的 liánbō de ‹drama, documentary›; 连载的 liánzǎi de ‹story›
 ③ Music 序列的 xùliè de ‹tone, note›
 serial 
-BrE ˈsɪərɪəl, AmE ˈsɪriəl 
-A. noun (on TV, radio) 连续剧 liánxùjù ; (in magazine) 连载小说 liánzǎi xiǎoshuō 
-B.  adjectiveattributive 
-① (repeated) 一连串的 yīliánchuàn de ‹killing, murder, rape›a serial murderer/rapist 连环杀人犯/强奸犯 
-② (divided into episodes) 连播的 liánbō de ‹drama, documentary›; 连载的 liánzǎi de ‹story›
-③ Music 序列的 xùliè de ‹tone, note›
+ˈsirēəl
+
+▶adjective
+1 consisting of, forming part of, or taking place in a series: a serial publication. 
+• Music using transformations of a fixed series of notes. 
+• Computing (of a device) involving the transfer of data as a single sequence of bits. See also serial port. 
+• Computing (of a processor) running only a single task, as opposed to multitasking. 
+• Linguistics (of verbs) used in sequence to form a construction, as in they wanted, needed, longed for peace.
+2 [attributive] (of a criminal) repeatedly committing the same offense and typically following a characteristic, predictable behavior pattern: a suspected serial rapist. 
+• repeatedly following the same behavior pattern: he was a serial adulterer 
+serial monogamy. 
+▶noun a story or play appearing in regular installments on television or radio or in a periodical: a new three-part drama serial. 
+• (usually serials) (in a library) a periodical. DERIVATIVES seriality 
+ˌsi(ə)rēˈalitē 
+nounORIGIN mid 19th century: from series + -al, perhaps suggested by French sérial .

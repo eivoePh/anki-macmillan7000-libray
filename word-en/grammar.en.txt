@@ -1,2 +1,9 @@
 grammar 
-▶noun the editors of this newspaper need a refresher course in grammar: syntax, sentence structure, rules of language, morphology; linguistics.
+ˈɡramər
+
+▶noun the whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology (including inflections) and sometimes also phonology and semantics. 
+• [usually with modifier] a particular analysis of the system and structure of language or of a specific language. 
+• a book on grammar: my old Latin grammar. 
+• a set of actual or presumed prescriptive notions about correct use of a language: it was not bad grammar, just dialect. 
+• the basic elements of an area of knowledge or skill: the grammar of wine. 
+• Computing a set of rules governing what strings are valid or allowable in a language or text. ORIGIN late Middle English: from Old French gramaire, via Latin from Greek grammatikē (tekhnē)‘(art) of letters,’ from gramma, grammat- ‘letter of the alphabet, thing written.’

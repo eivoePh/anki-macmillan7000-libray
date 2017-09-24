@@ -6,4 +6,11 @@ noun
 ③ Computing 数据包 shùjùbāo 
 ④ especially BrE colloquial (large sum of money) 一大笔钱 yī dà bǐ qián to cost/earn a packet 花/挣一大笔钱 
 packet 
-▶noun a small packet of jelly beans: pack, carton, (cardboard) box, container, case, package.
+ˈpakət
+
+▶noun
+1 a paper or cardboard container, typically one in which goods are packed to be sold: a packet of cigarettes. 
+• the contents of a packet. 
+• a block of data transmitted across a network.
+2 (also packet boat) dated a ship traveling at regular intervals between two ports, originally for the conveyance of mail. 
+▶verb (packets, packeting, packeted) [with object] make up into or wrap up in a packet: packet a basket of take-out and head for Gooseberry Beach. ORIGIN mid 16th century: diminutive of pack1, perhaps from Anglo-Norman French; compare with Anglo-Latin paccettum .

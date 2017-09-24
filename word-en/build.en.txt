@@ -1,11 +1,21 @@
 build 
-▶verb
-1 they were building a tree house: construct, erect, put up, assemble; make, form, create, fashion, model, shape.
-2 they are building a business strategy: establish, found, set up, institute, inaugurate, initiate.
-3 the pressure was building: increase, mount, intensify, escalate, grow, rise.
-▶noun a man of slim build: physique, frame, body, figure, form, shape, stature, proportions; informal vital statistics.
+bild
+
+▶verb (past and past participle built 
+bilt
+) [with object] construct (something, typically something large) by putting parts or material together over a period of time: the factory was built in 1936. 
+• commission, finance, and oversee the building of (something): the city council plans to build a bridge. 
+• (build something in/into) incorporate (something) and make it a permanent part of a structure, system, or situation: engineers want to build in extra traction. 
+• Computing compile (a program, database, index, etc.). 
+• establish and develop (a business, relationship, or situation) over a period of time: he'd built up the store from nothing. 
+• [no object] (build on) use as a basis for further progress or development: the nation should build on the talents of its workforce. 
+• increase the size, intensity, or extent of: we built up confidence in our abilities 
+[no object] : the air of excited anticipation builds. 
+▶noun
+1 the dimensions or proportions of a person's or animal's body: she was of medium height and slim build 
+[in singular] : he has the ideal build for a sprinter. 
+• the style or form of construction of something, typically a vehicle.
+2 Computing a compiled version of a program. 
+• the process of compiling a program. 
 PHRASES
-build something in/into emergency procedures must be built into every plan: incorporate in/into, include in, absorb into, subsume into, assimilate into. build on we are now in a position to build on all the wonderful legwork that our staff has accomplished: expand on, enlarge on, develop, elaborate, flesh out, embellish, amplify; refine, improve, perfect. build up the traffic continues to build up: increase, grow, mount (up), intensify, escalate; strengthen. build something up
-1 he built up a huge business: establish, set up, found, institute, start, create; develop, expand, enlarge.
-2 she built up her stamina: boost, strengthen, increase, improve, augment, raise, enhance, swell; informal beef up.
-3 I have built up a collection of prints: accumulate, amass, collect, gather; stockpile, hoard.
+build one's hopes up become ever more hopeful or optimistic about something. built upon/on sand without reliable foundations or any real substance: what more could you expect from a relationship built upon sand?ORIGIN Old English byldan, from bold, botl ‘dwelling,’ of Germanic origin; related to bower1 .

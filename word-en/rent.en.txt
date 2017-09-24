@@ -1,6 +1,12 @@
 rent
 1 
-▶noun I can't afford to pay the rent: rental, fee, lease.
-▶verb
-1 she rented a car: lease, charter.
-2 why don't you rent it out ? let (out), lease (out), hire (out); sublet, sublease.
+rent
+
+▶noun a tenant's regular payment to a landlord for the use of property or land. 
+• a sum paid for the hire of equipment. 
+▶verb [with object] pay someone for the use of (something, typically property, land, or a car): they rented a house together in Spain 
+(as adjective rented) : a rented apartment. 
+• (of an owner) let someone use (something) in return for payment: he purchased a large tract of land and rented out most of it to local farmers. 
+• [no object] North American be let or hired out at a specified rate: skis or snowboards rent for $60–80 for six days. 
+PHRASES
+for rent available to be rented.ORIGIN Middle English: from Old French rente, from a root shared by render .

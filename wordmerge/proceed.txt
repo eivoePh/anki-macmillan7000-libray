@@ -10,9 +10,12 @@ A.  intransitive verb
 ⑥ Law 起诉 qǐsù to proceed against [somebody]; 起诉某人 
 B.  transitive verb 继续讲 jìxù jiǎng ‘well,’she proceeded, ‘it was like this …’ “哦，”她接着说，“事情是这样的…” 
 proceed 
-▶verb
-1 she was uncertain how to proceed: begin, make a start, get going, move, set something in motion; take action, act, go on, go ahead, make progress, make headway. ANTONYMS stop.
-2 he proceeded down the road: go, make one's way, advance, move, progress, carry on, press on, push on. ANTONYMS stop.
-3 we should proceed with the talks: go ahead, carry on, go on, continue, keep on, get on, get ahead; (proceed with) pursue, prosecute.
-4 there is not enough evidence to proceed against him: take someone to court, start/take proceedings against, start an action against, make a case against, sue.
-5 all power proceeds from God: originate, spring, stem, come, derive, arise, issue, flow, emanate.
+prəˈsēd prōˈsēd
+
+▶verb [no object] begin or continue a course of action: we can proceed with our investigation. 
+• move forward, especially after reaching a certain point: the ship could proceed to Milwaukee. 
+• [with infinitive] do something as a natural or seemingly inevitable next step: opposite the front door was a staircase, which I proceeded to climb. 
+• Law start a lawsuit against someone: he may still be able to proceed against the contractor under the common law negligence rules. 
+• (of an action) be started: negotiations must proceed without delay. 
+• (of an action) be carried on or continued: as the excavation proceeds, the visible layers can be recorded and studied. 
+• originate from: his claim that all power proceeded from God. ORIGIN late Middle English: from Old French proceder, from Latin procedere, from pro- ‘forward’ + cedere ‘go.’

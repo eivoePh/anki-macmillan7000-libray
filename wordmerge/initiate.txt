@@ -7,8 +7,17 @@ transitive verb
 B.  /BrE ɪˈnɪʃɪət, AmE ɪˈnɪʃiət
 noun 新加入组织的人 xīn jiārù zǔzhī de rén initiates of the cult 新加入异教团体的人 
 initiate 
-▶verb
-1 the government initiated the scheme: begin, start (off), commence; institute, inaugurate, launch, instigate, establish, set up, start the ball rolling on; originate, pioneer; informal kick off, spark. ANTONYMS finish.
-2 he was initiated into a cult: admit, induct, install, incorporate, enlist, enroll, recruit, sign up, swear in; ordain, invest. ANTONYMS expel.
-3 she was initiated into the business of publishing: teach about, instruct in, tutor in, school in, prime in, ground in; familiarize with, acquaint with; indoctrinate; informal show someone the ropes in/within.
-▶noun the initiates were put through the customary opening-day paces: novice, starter, beginner, newcomer; student, pupil, learner, trainee, apprentice; recruit, new recruit, raw recruit, tyro, neophyte; postulant, novitiate; informal rookie, newbie, new kid (on the block), greenhorn.
+▶verb 
+iˈniSHēˌāt 
+[with object]
+1 cause (a process or action) to begin: he proposes to initiate discussions on planning procedures.
+2 admit (someone) into a secret or obscure society or group, typically with a ritual: she had been formally initiated into the sorority. 
+• (as plural noun the initiated) a small group of people who share obscure knowledge: he flies over an airway marker beacon, known as a “fix” to the initiated. 
+• (initiate someone in/into) introduce someone to (a particular activity or skill), especially a difficult or obscure one: they were initiated into the mysteries of trigonometry. 
+▶noun 
+iˈniSHēət 
+a person who has been initiated into an organization or activity, typically recently: initiates of the Shiva cult 
+[as modifier] : the initiate Marines. DERIVATIVES initiatory 
+iˈniSH(ē)əˌtôrē 
+adjectiveORIGIN mid 16th century ( sense
+2 of the verb): from Latin initiat- ‘begun,’ from the verb initiare, from initium ‘beginning.’

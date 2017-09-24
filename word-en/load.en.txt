@@ -1,13 +1,33 @@
 load 
+lōd
+
 ▶noun
-1 he has a load to deliver: cargo, freight, a consignment, a delivery, a shipment, goods, merchandise; a pack, a bundle, a parcel; a truckload, a shipload, a boatload, a vanload, a planeload.
-2 informal I bought a load of clothes: a lot of, a great deal of, a large amount/quantity of, an abundance of, a wealth of, a mountain of; many, plenty of; informal a heap of, a mass of, a pile of, a stack of, a ton of, lots of, heaps of, masses of, piles of, stacks of, tons of, a buttload of.
-3 a heavy teaching load: commitment, responsibility, duty, obligation, charge, burden; trouble, worry, strain, pressure.
-▶verb
-1 we quickly loaded the van: fill, fill up, pack, charge, stock, stack, lade.
-2 Larry loaded boxes into the jeep: pack, stow, store, stack, bundle; place, deposit, put away.
-3 she is loading the committee with responsibilities: burden, weigh down, saddle, charge; overburden, overwhelm, encumber, tax, strain, trouble, worry.
-4 Richard loaded Marshal with honors: reward, ply, regale, shower.
-5 he loaded a gun: prime, charge, prepare to fire/use.
-6 load the cassette into the camcorder: insert, put, place, slot.
-7 the dice are loaded against him: bias, rig, fix; weight.
+1 a heavy or bulky thing that is being carried or is about to be carried: in addition to their own food, they must carry a load of up to eighty pounds. 
+• the total number or amount that can be carried in something, especially a vehicle of a specified type: a tractor-trailer load of new appliances. 
+• the material carried along by a stream, glacier, ocean current, etc. 
+• an amount of items washed or to be washed in a washing machine or dishwasher at one time: I do at least six loads of washing a week.
+2 a weight or source of pressure borne by someone or something: the increased load on the heart caused by a raised arterial pressure 
+the arch has hollow spandrels to lighten the load on the foundations. 
+• the amount of work to be done by a person or machine: Arthur has a light teaching load. 
+• a burden of responsibility, worry, or grief: consumers will find it difficult to service their heavy load of debt.
+3 (a load of) informal a lot of (often used to express one's disapproval or dislike of something): she was talking a load of garbage. 
+• (a load/loads) informal plenty: she spends loads of money on clothes 
+there's loads to see here, even when it rains.
+4 the amount of power supplied by a source; the resistance of moving parts to be overcome by a motor. 
+• the amount of electricity supplied by a generating system at any given time. 
+• Electronics an impedance or circuit that receives or develops the output of a transistor or other device. 
+▶verb [with object]
+1 put a load or large amount of something on or in (a vehicle, ship, container, etc.): they load up their dugout canoes. 
+• place (a load or large quantity of something) on or in a vehicle, ship, container, etc.: stolen property from a burglary was loaded into a taxi. 
+• [no object] (of a ship or vehicle) take on a load: when we came to the quay the ship was still loading. 
+• [no object] (load up on) take, buy, or consume a large amount of: I just went down to the store and loaded up on beer.
+2 make (someone or something) carry or hold a large or excessive amount of heavy things: Elaine was loaded down with bags full of shopping. 
+• (load someone/something with) supply someone or something with (something) in overwhelming abundance or to excess: the King and Queen loaded Columbus with wealth and honors. 
+• (usually be loaded) bias toward a particular outcome: the odds were loaded against them before the match.
+3 charge (a firearm) with ammunition. 
+• insert something into (a device) so that it can be operated: load your camera before you start. 
+• insert (something) into a device so that it will operate: load the cassette into the camcorder. 
+• Computing transfer (a program or data) into memory, or into the central processor from storage.
+4 add an extra charge to (an insurance premium) in the case of a poorer risk. 
+PHRASES
+get a load of informal used to draw attention to someone or something: get a load of what we've just done. get (or have) a load on US informal become drunk. load the bases Baseball (of the team at bat) fill all three bases with runners; (of a pitcher) allow all three bases to be occupied by runners. load the dice against/in favor of someone put someone at a disadvantage or advantage. take a (or the) load off one's feet sit or lie down. take a load off someone's mind bring someone relief from anxiety.ORIGIN Old English lād ‘way, journey, conveyance,’ of Germanic origin; related to German Leite, also to lead1; compare with lode. The verb dates from the late 15th century.

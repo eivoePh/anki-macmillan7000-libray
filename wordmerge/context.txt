@@ -4,6 +4,9 @@ nounCountable and uncountable
 ① (setting) 环境 huánjìng in the historical context 在历史背景下 when you put the violence into context 当你了解这一暴力事件的来龙去脉 
 ② (surrounding text) 上下文 shàngxiàwén to examine/quote [something] out of context 脱离上下文检查/断章取义地引用某段话 
 context 
-▶noun
-1 the wider historical context: circumstances, conditions, factors, state of affairs, situation, background, scene, setting.
-2 a quote taken out of context: frame of reference, contextual relationship; text, subject, theme, topic.
+ˈkäntekst
+
+▶noun the circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood and assessed: the decision was taken within the context of planned cuts in spending. 
+• the parts of something written or spoken that immediately precede and follow a word or passage and clarify its meaning: word processing is affected by the context in which words appear. 
+PHRASES
+in context considered together with the surrounding words or circumstances: it is difficult now to view these masterpieces in context. out of context without the surrounding words or circumstances and so not fully understandable: comments that aides have long insisted were taken out of context.DERIVATIVES contextless adjectiveORIGIN late Middle English (denoting the construction of a text): from Latin contextus, from con- ‘together’ + texere ‘to weave.’

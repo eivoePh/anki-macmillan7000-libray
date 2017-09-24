@@ -12,17 +12,39 @@ B.  Coloured noun
 C.  coloureds noun plural (laundry) 有色织物 yǒusè zhīwù 
 D.  -coloured combining form 有…色的 yǒu… sè de coppercoloured leaves 红棕色的叶子 
 color 
+ˈkələr 
+(British colour) 
 ▶noun
-1 the lights changed color: hue, shade, tint, tone, coloration.
-2 oil color: paint, pigment, colorant, dye, stain, tint, wash.
-3 the color in her cheeks: redness, pinkness, rosiness, ruddiness, blush, flush, bloom.
-4 people of every color: skin coloring, skin tone, coloring; race, ethnic group.
-5 anecdotes add color to the text: vividness, life, liveliness, vitality, excitement, interest, richness, zest, spice, piquancy, impact, force; informal oomph, pizzazz, punch, kick; literary salt.
-6 the regimental colors. See flag1 (noun). 
+1 the property possessed by an object of producing different sensations on the eye as a result of the way the object reflects or emits light: the lights flickered and changed color. 
+• one, or any mixture, of the constituents into which light can be separated in a spectrum or rainbow, sometimes including (loosely) black and white: a rich brown color 
+a range of bright colors. 
+• the use of all colors, not only black, white, and gray, in photography or television: he has shot the whole film in color 
+[as modifier] : color television. 
+• a substance used to give something a particular color: lip color. 
+• Heraldry any of the major conventional colors used in coats of arms (gules, vert, sable, azure, purpure), especially as opposed to the metals, furs, and stains.
+2 pigmentation of the skin, especially as an indication of someone's race: discrimination on the basis of color. 
+• a group of people considered as being distinguished by skin pigmentation: all colors and nationalities. 
+• rosiness or redness of the face as an indication of health or of embarrassment, anger, etc.: there was some color back in his face 
+color flooded her skin as she realized what he meant.
+3 vividness of visual appearance resulting from the presence of brightly colored things: for color, plant groups of winter-flowering pansies. 
+• picturesque or exciting features that lend a particularly interesting quality to something: a town full of color and character. 
+• variety of musical tone or expression: orchestral color.
+4 (colors) an item or items of a particular color or combination of colors worn to identify an individual or a member of a school, group, or organization. 
+• the flag of a regiment or ship. 
+• a national flag: he was called to the colors during the war.
+5 a shade of meaning: many events in her past had taken on a different color. 
+• character or general nature: the hospitable color of his family.
+6 Physics a quantized property of quarks which can take three values (designated blue, green, and red) for each flavor.
+7 Mining a particle of gold remaining in a mining pan after most of the mud and gravel have been washed away. 
 ▶verb
-1 the wood was colored blue: tint, dye, stain, paint, pigment, wash.
-2 she colored: blush, redden, go pink, go red, flush.
-3 the experience colored her outlook: influence, affect, taint, warp, skew, distort, bias, prejudice.
-4 they color evidence to make a story sell: exaggerate, overstate, embroider, embellish, dramatize, enhance, varnish; falsify, misreport, manipulate.
-WORD LINKS
-color chromatic relating to colorWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 [with object] change the color of (something) by painting, dyeing, or shading it. 
+• [no object] take on a different color: the foliage will not color well if the soil is too rich. 
+• use crayons to fill (a particular shape or outline) with color: color the head, eyes, and bill with crayons. 
+• make vivid or picturesque: he has colored the dance with gestures from cabaret and vaudeville.
+2 [no object] (of a person or their skin) show embarrassment or shame by becoming red; blush: everyone stared at him, and he colored slightly. 
+• [with object] cause (a person's skin) to change in color: rage colored his pale complexion. 
+• [with object] (of an emotion) imbue (a person's voice) with a particular tone: surprise colored her voice.
+3 [with object] influence, especially in a negative way; distort: the experiences had colored her whole existence. 
+• misrepresent by distortion or exaggeration: witnesses might color evidence to make a story saleable. 
+PHRASES
+lend (or give) color to make something seem true or probable: this lent color and credibility to his defense. show one's true colors reveal one's real character or intentions, especially when these are disreputable or dishonorable. under color of under the pretext of. with flying colors see flying. ORIGIN Middle English (as colo(u)r): from Old French colour (noun), colourer (verb), from Latin color (noun), colorare (verb).

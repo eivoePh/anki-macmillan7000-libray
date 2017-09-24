@@ -5,7 +5,9 @@ nounplus singular or plural verb
 ② (of town, city, parish, county) 地方议会 dìfāng yìhuì ; before noun 地方议会的 dìfāng yìhuì de ‹elections›; 市政住房的 shìzhèng zhùfáng de ‹services›
 ③ (meeting) 协商会议 xiéshāng huìyì 
 council 
-▶noun
-1 the town council: local authority, municipal authority, local government, administration, executive, chamber, assembly, corporation.
-2 the Student Council: advisory body, board, committee, brain trust, commission, assembly, panel; synod, convocation.
-3 that evening, she held a family council: meeting, gathering, conference, conclave, assembly.
+ˈkounsəl
+
+▶noun an advisory, deliberative, or legislative body of people formally constituted and meeting regularly: an official human rights council. 
+• a body of people elected to manage the affairs of a city, county, or other municipal district. 
+• an ecclesiastical assembly. 
+• an assembly or meeting for consultation or advice: that evening, she held a family council. ORIGIN Old English (in the sense ‘ecclesiastical assembly’): from Anglo-Norman French cuncile, from Latin concilium ‘convocation, assembly,’ from con- ‘together’ + calare ‘summon.’ Compare with counsel .

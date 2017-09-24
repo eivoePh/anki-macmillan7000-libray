@@ -1,7 +1,18 @@
 array 
+əˈrā
+
 ▶noun
-1 a huge array of cars: range, collection, selection, assortment, diversity, variety; arrangement, assemblage, lineup, formation; display, exhibition, exposition.
-2 she arrived in silken array: dress, attire, clothing, garb, garments; finery, apparel.
-▶verb
-1 a buffet was arrayed on the table: arrange, assemble, group, order, place, position, set out, exhibit, lay out, dispose; display.
-2 he was arrayed in gray flannel: dress, attire, clothe, garb, deck (out), outfit, get up, turn out; archaic apparel.
+1 an impressive display or range of a particular type of thing: there is a vast array of literature on the topic 
+a bewildering array of choices.
+2 an ordered series or arrangement: several arrays of solar panels will help provide power 
+the lens focuses light onto an array of pixels. 
+• an arrangement of troops: I shall have my men drawn up here in battle array ready to come to your help. 
+• Mathematics an arrangement of quantities or symbols in rows and columns; a matrix. 
+• Computing an indexed set of related elements.
+3 literary elaborate or beautiful clothing: he was clothed in fine array.
+4 Law a list of jurors empaneled. 
+▶verb [with object]
+1 display or arrange (things) in a particular way: arrayed across the table was a buffet 
+the forces arrayed against him.
+2 (usually be arrayed in) dress someone in (the clothes specified): they were arrayed in Hungarian national dress.
+3 Law empanel (a jury). ORIGIN Middle English (in the senses ‘preparedness’ and ‘place in readiness’): from Old French arei (noun), areer (verb), based on Latin ad- ‘toward’ + a Germanic base meaning ‘prepare.’

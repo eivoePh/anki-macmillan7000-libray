@@ -1,5 +1,10 @@
 attraction 
-▶noun
-1 the stars are held together by gravitational attraction: pull, draw; magnetism. ANTONYMS repulsion.
-2 she had lost whatever attraction she once had: appeal, attractiveness, desirability, seductiveness, seduction, allure, animal magnetism; charisma, charm, beauty, good looks, eye-appeal. ANTONYMS repulsion.
-3 the fair offers sideshows and other attractions: entertainment, activity, diversion, interest.
+əˈtrakSH(ə)n
+
+▶noun the action or power of evoking interest, pleasure, or liking for someone or something: she has romantic ideas about sexual attraction 
+the timeless attraction of a good tune. 
+• a quality or feature of something or someone that evokes interest, liking, or desire: this reform has many attractions for those on the left 
+the main attraction of Peking duck is the crackling texture of its skin. 
+• a thing or place that draws visitors by providing something of interest or pleasure: the church is the town's main tourist attraction. 
+• Physics a force under the influence of which objects tend to move toward each other: gravitational attraction. 
+• Grammar the influence exerted by one word on another that causes it to change to an incorrect form, e.g., the wages of sin is (for are) death. ORIGIN late Middle English (denoting the action of a poultice in drawing matter from the tissues): from Latin attractio(n-), from the verb attrahere (see attract) .

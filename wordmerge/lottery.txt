@@ -2,6 +2,7 @@ lottery
 BrE ˈlɒt(ə)ri, AmE ˈlɑdəri 
 noun literal 抽彩 chōucǎi ; figurative 碰运气的事 pèng yùnqi de shì lottery winner 中彩者 
 lottery 
-▶noun
-1 play the lottery: raffle, drawing, prize drawing, sweepstake(s), lotto.
-2 life is a lottery: gamble, speculation, venture, risk, game of chance, matter of luck; informal crapshoot.QUOTE Son, if you really want something in life, you have to work for it. Now quiet, they're about to announce the lottery numbers.Dan Castellaneta as Homer Simpson on the TV series The Simpsons (1989–)
+ˈlädərē
+
+▶noun (plural lotteries) a means of raising money by selling numbered tickets and giving prizes to the holders of numbers drawn at random. 
+• [in singular] a process or thing whose success or outcome is governed by chance: the lottery of life. ORIGIN mid 16th century: probably from Dutch loterij, from lot ‘lot.’

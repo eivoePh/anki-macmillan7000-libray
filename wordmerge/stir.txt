@@ -25,15 +25,29 @@ A.  [stir something up, stir up something] transitive verb
 ② (cause) 挑起 tiǎoqǐ ‹trouble, debate›to stir things up 挑起事端 
 ③ (move around) 搅起 jiǎoqǐ the swirling wind stirred up dust and sand 旋风扬起了沙尘 
 B.  [stir somebody up, to stir up somebody] transitive verb (excite) 鼓动 gǔdòng they were stirred up to rebellion 他们被煽动起来参加叛乱 
-stir 
-▶verb
-1 stir the mixture well: mix, blend, agitate; beat, whip, whisk, fold in.
-2 Travis stirred in his sleep: move slightly, change one's position, shift.
-3 a breeze stirred the leaves: disturb, rustle, shake, move, flutter, agitate.
-4 she finally stirred at ten o'clock: get up, get out of bed, rouse oneself, rise; wake (up), awaken; informal rise and shine, surface, show signs of life; formal arise; literary waken. ANTONYMS go to bed, retire.
-5 I never stirred from here: move, budge, make a move, shift, go away; leave. ANTONYMS stay, stay put.
-6 symbolism can stir the imagination: arouse, rouse, fire, kindle, inspire, stimulate, excite, awaken, quicken; literary waken. ANTONYMS stultify.
-7 the war stirred him to action: spur, drive, rouse, prompt, propel, prod, motivate, encourage; urge, impel; provoke, goad, prick, sting, incite, light a fire under.
-▶noun the news caused a stir: commotion, disturbance, fuss, excitement, turmoil, sensation; informal to-do, hoo-ha, hullabaloo, flap, splash.
+stir
+1 
+stər
+
+▶verb (stirs, stirring, stirred)
+1 [with object] move a spoon or other implement around in (a liquid or other substance) in order to mix it thoroughly: stir the batter until it is just combined. 
+• (stir something in/into) add an ingredient to (a liquid or other substance) by mixing it in with a spoon or other implement: stir in the flour and cook gently for two minutes.
+2 move or cause to move slightly: [no object] : nothing stirred except the wind 
+[with object] : a gentle breeze stirred the leaves 
+cloudiness is caused by the fish stirring up mud. 
+• (of a person or animal) rise or wake from sleep: no one else had stirred yet. 
+• (stir from) (of a person) leave or go out of (a place): as he grew older, he seldom stirred from his apartment. 
+• begin or cause to begin to be active or to develop: [no object] : the 1960s, when the civil rights movement stirred 
+[with object] : a voice stirred her from her reverie 
+he even stirred himself to play an encore.
+3 [with object] arouse strong feelings in (someone); move or excite: they will be stirred to action by what is written 
+he stirred up the sweating crowd. 
+• arouse or prompt (a feeling or memory) or inspire (the imagination): the story stirred many memories of my childhood 
+the rumors had stirred up his anger. 
+▶noun [in singular]
+1 a slight physical movement: I stood, straining eyes and ears for the faintest stir. 
+• a commotion: the event caused quite a stir. 
+• an initial sign of a specified feeling: Caroline felt a stir of anger deep within her breast.
+2 an act of mixing food or drink with a spoon or other implement: he gives his chocolate milk a stir. 
 PHRASES
-stir up his remarks stirred up a furor: whip up, work up, foment, fan the flames of, trigger, spark off, precipitate, excite, provoke, incite, ignite.
+stir someone's blood make someone excited or enthusiastic. stir one's stumps [often in imperative] British informal, dated (of a person) begin to move or act.PHRASAL VERBS stir something up cause or provoke trouble or bad feeling: he accused me of trying to stir up trouble.ORIGIN Old English styrian, of Germanic origin; related to German stören ‘disturb.’

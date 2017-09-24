@@ -2,6 +2,9 @@ customary
 BrE ˈkʌstəm(ə)ri, AmE ˈkəstəˌmɛri 
 adjective 惯常的 guàncháng de ‹method, greeting›; 遵照习俗的 zūnzhào xísú de ‹celebrations›it is customary for [somebody] to do [something] 某人惯常做某事 as is customary 按惯例 his customary smile 他惯有的微笑 
 customary 
-▶adjective
-1 customary social practices: usual, traditional, normal, conventional, familiar, accepted, routine, established, well established, time-honored, regular, prevailing. ANTONYMS unusual.
-2 her customary good sense: usual, accustomed, habitual, wonted. ANTONYMS unusual.
+ˈkəstəˌmerē
+
+▶adjective according to the customs or usual practices associated with a particular society, place, or set of circumstances: it is customary to mark an occasion like this with a toast. 
+• according to a person's habitual practice: I put the kettle on for our customary cup of tea. 
+• Law established by or based on custom rather than common law or statute. 
+▶noun (plural customaries) historical another term for custumal. DERIVATIVES customariness nounORIGIN late Middle English (as a noun): from medieval Latin custumarius, from custuma, from Anglo-Norman French custume (see custom) .

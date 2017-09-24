@@ -7,10 +7,10 @@ A.  noun
 B.  transitive verb 训斥 xùnchì ‹person›to lecture [somebody] for having done [something] 因某人做了某事对其加以训斥 
 C.  intransitive verb 讲课 jiǎngkè he lectures on Spanish literature/in law 他讲授西班牙文学/法律 to lecture to a large audience 对众多的听众作讲座 
 lecture 
-▶noun
-1 a lecture on children's literature: speech, talk, address, discourse, disquisition, presentation, oration, lesson.
-2 Dave got a lecture about his daydreaming: scolding, chiding, reprimand, rebuke, reproof, reproach, upbraiding, berating, admonishment, sermon; informal dressing-down, talking-to, tongue-lashing, roasting; formal castigation.
-▶verb
-1 lecturing on the dangers of drugs: give a lecture, give a talk, talk, make a speech, speak, give an address, discourse, hold forth, declaim, expatiate; informal spout, sound off.
-2 she lectures at Colgate University: teach, give instruction, give lessons.
-3 she was lectured for her gossiping: scold, chide, reprimand, rebuke, reprove, reproach, upbraid, berate, chastise, admonish, lambaste, rake/haul over the coals, take to task; informal give someone a dressing-down, give someone a talking-to, tell off, bawl out; formal castigate.
+ˈlek(t)SHər
+
+▶noun an educational talk to an audience, especially to students in a university or college. 
+• a long, serious speech, especially one given as a scolding or reprimand: the usual lecture on table manners. 
+▶verb [no object] deliver an educational lecture or lectures: she was lecturing to her class of eighty students. 
+• [with object] give a lecture to (a class or other audience): he was lecturing future generations of health-service professionals. 
+• [with object] talk seriously or reprovingly to (someone): don't lecture me! ORIGIN late Middle English (in the sense ‘reading, a text to read’): from Old French, or from medieval Latin lectura, from Latin lect- ‘read, chosen,’ from the verb legere .

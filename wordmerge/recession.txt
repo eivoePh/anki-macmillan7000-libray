@@ -2,4 +2,10 @@ recession
 BrE rɪˈsɛʃ(ə)n, AmE rəˈsɛʃ(ə)n 
 noun 衰退 shuāituì a world recession 世界经济衰退 to go into/be in recession 陷入/处于衰退 a deep recession 严重衰退 
 recession 
-▶noun job losses are symptomatic of the recession: economic decline, downturn, depression, slump, slowdown. ANTONYMS boom.
+rəˈseSH(ə)n
+
+▶noun
+1 a period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters.
+2 chiefly Astronomy the action of receding; motion away from an observer. DERIVATIVES recessionary 
+rəˈseSHəˌnerē 
+adjectiveORIGIN mid 17th century: from Latin recessio(n-), from recess- ‘gone back,’ from the verb recedere (see recede) .

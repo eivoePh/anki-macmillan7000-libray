@@ -10,9 +10,16 @@ noun
 ⑦ Countable(conveyance of property) 财产转让 cáichǎn zhuǎnràng settlement on [somebody]; 对某人的财产让与 
 ⑧ Uncountable(subsidence) 沉降 chénjiàng 
 settlement 
+ˈsedlmənt
+
 ▶noun
-1 a pay settlement: agreement, deal, arrangement, resolution, bargain, understanding, pact.
-2 the settlement of the dispute: resolution, settling, solution, reconciliation.
-3 a frontier settlement: community, colony, outpost, encampment, post; village, commune; ecovillage; historical plantation, clearing.
-4 the settlement of the area: colonization, settling, populating; historical plantation.
-5 the settlement of their debts: payment, discharge, liquidation, clearance.
+1 an official agreement intended to resolve a dispute or conflict: unions succeeded in reaching a pay settlement 
+the settlement of the Sino-Japanese war. 
+• a formal arrangement made between the parties to a lawsuit in order to resolve it, especially out of court: the owner reached an out-of-court settlement with the plaintiffs.
+2 a place, typically one that has hitherto been uninhabited, where people establish a community: the little settlement of Buttermere. 
+• the process of settling in a new community: the early settlement of Queensland. 
+• the action of allowing or helping people to do this: he was involved in the sale and settlement of Crown land.
+3 Law an arrangement whereby property passes to a succession of people as dictated by the settlor. 
+• the amount or property given.
+4 the action or process of settling an account.
+5 subsidence of the ground or a structure built on it: a boundary wall, which has cracked due to settlement, is to be replaced.

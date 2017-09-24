@@ -1,18 +1,51 @@
 stop 
-▶verb
-1 we can't stop the decline: put an end/stop/halt to, bring to an end/stop/halt/close/standstill, end, halt; finish, terminate, discontinue, cut short, interrupt, nip in the bud; deactivate, shut down. ANTONYMS start, begin, continue.
-2 he stopped smoking: cease, discontinue, desist from, break off; give up, abandon, abstain from, cut out; informal quit, leave off, knock off, pack in, lay off, give over.
-3 the car stopped: pull up, draw up, come to a stop/halt, come to rest, pull in, pull over; park.
-4 the music stopped: conclude, come to an end/stop/standstill, cease, end, finish, draw to a close, be over, terminate; pause, break off; peter out, fade away.
-5 divers stopped the flow of oil: stem, staunch, hold back, check, curb, block, dam; archaic stay.
-6 the police stopped her leaving: prevent, hinder, obstruct, impede, block, bar, preclude; dissuade from. ANTONYMS encourage.
-7 the council stopped the housing project: thwart, balk, foil, frustrate, stand in the way of; scotch, derail; informal put paid to, put the kibosh on, put a stop to, do for, stymie, scuttle, deep-six. ANTONYMS expedite.
-8 just stop the bottle with your thumb: block (up), plug, close (up), fill (up); seal, caulk, bung up; technical occlude.
+stäp
+
+▶verb (stops, stopping, stopped)
+1 [no object] (of an event, action, or process) come to an end; cease to happen: his laughter stopped as quickly as it had begun 
+the rain had stopped and the clouds had cleared. 
+• [with present participle] cease to perform a specified action or have a specified experience: she stopped giggling 
+[with object] : he stopped work for tea. 
+• [with present participle] abandon a specified practice or habit: I've stopped eating meat. 
+• stop moving or operating: he stopped to look at the view 
+my watch has stopped. 
+• (of a bus or train) call at a designated place to pick up or let off passengers: main-line trains stop at platform 7. 
+• British informal stay somewhere for a short time: you'll have to stop the night.
+2 [with object] cause (an action, process, or event) to come to an end: this harassment has got to be stopped. 
+• prevent (an action or event) from happening: a security guard was killed trying to stop a raid. 
+• prevent or dissuade (someone) from continuing in an activity or achieving an aim: a campaign is under way to stop the bombers. 
+• prevent (someone or something) from performing a specified action or undergoing a specified experience: you can't stop me from getting what I want. 
+• cause or order to cease moving or operating: he stopped his car by the house 
+police were given powers to stop and search suspects. 
+• informal be hit by (a bullet). 
+• instruct a bank to withhold payment on (a check). 
+• refuse to supply as usual; withhold or deduct: the union has threatened to stop the supply of minerals. 
+• Boxing defeat (an opponent) by a knockout: he was stopped in the sixth by Tyson.
+3 [with object] block or close up (a hole or leak): he tried to stop the hole with the heel of his boot 
+the drain has been stopped up. 
+• block the mouth of (a fox's earth) prior to a hunt. 
+• plug the upper end of (an organ pipe), giving a note an octave lower. 
+• obtain the required pitch from (the string of a violin or similar instrument) by pressing at the appropriate point with the finger. 
+• make (a rope) fast with a stopper. 
 ▶noun
-1 all business came to a stop: halt, end, finish, close, standstill; cessation, conclusion, stoppage, discontinuation. ANTONYMS start, beginning, continuation.
-2 a brief stop in the town: break, stopover, stop-off, stay, visit; formal sojourn.
-3 the next stop is Central Park: stopping place, halt, station.
+1 a cessation of movement or operation: all business came to a stop 
+there were constant stops and changes of pace. 
+• a break or halt during a journey: allow an hour or so for driving and as long as you like for stops 
+the flight landed for a refueling stop. 
+• a place designated for a bus or train to halt and pick up or drop off passengers: the bus was pulling up at her stop. 
+• an object or part of a mechanism that is used to prevent something from moving: the shelves have special stops to prevent them from being pulled out too far. 
+• British dated a punctuation mark, especially a period. 
+• used in telegrams to indicate a period: MEET YOU AT THE AIRPORT STO
+P.  
+• Phonetics a consonant produced with complete closure of the vocal tract. 
+• Bridge a high card that prevents the opponents from establishing a particular suit; a control. 
+• Nautical a short length of cord used to secure something.
+2 a set of organ pipes of a particular tone and range of pitch. 
+• (also stop knob) a knob, lever, or similar device in an organ or harpsichord that brings into play a set of pipes or strings of a particular tone and range of pitch.
+3 Photography the effective diameter of a lens. 
+• a device for reducing this. 
+• a unit of change of relative aperture or exposure (with a reduction of one stop equivalent to halving it). 
 PHRASES
-put a stop to how can we put a stop to this senseless violence? See stop (sense
-1 of the verb), & stop (sense
-7 of the verb). stop off/over we decided to stop over in Denver: break one's journey, take a break, pause, linger; stay, remain, put up, lodge, rest; formal sojourn.
+pull out all the stops make a very great effort to achieve something: the director pulled out all the stops to meet the impossible deadline. 
+• do something very elaborately or on a grand scale: they gave a Christmas party and pulled out all the stops. [with reference to the stops of an organ.] put a stop to cause (an activity) to end: she would have to put a stop to all this nonsense. stop at nothing be utterly ruthless or determined in one's attempt to achieve something: he would stop at nothing to retain his position of power. stop dead see dead. stop short see short. stop one's ears put one's fingers in one's ears to avoid hearing something. stop someone's mouth induce someone to keep silent about something. stop the show (of a performer) provoke prolonged applause or laughter, causing an interruption.PHRASAL VERBS stop by (or in) call briefly and informally as a visitor.stop something down Photography reduce the aperture of a lens with a diaphragm. stop off (or over) pay a short visit en route to one's ultimate destination when traveling: I stopped off to visit him and his wife 
+he decided to stop over in Paris.stop out North American withdraw temporarily from higher education or employment in order to pursue another activity: community college students are more likely to stop out, or drop out entirely, when the cost of attending increases. stop something out cover an area that is not to be printed or etched when making a print or etching.DERIVATIVES stoppable adjectiveORIGIN Old English (for)stoppian ‘block up (an aperture)’; related to German stopfen, from late Latin stuppare ‘to stuff.’

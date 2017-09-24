@@ -1,6 +1,5 @@
 interpreter 
-▶noun
-1 he spoke through an interpreter 
-interpreters were brought in to read the German messages: translator, transcriber, transliterator.
-2 a fine interpreter of this role: performer, presenter, exponent; singer, player, actor, dancer.
-3 interpreters of Italian art: analyst, evaluator, reviewer, critic.
+inˈtərprədər
+
+▶noun a person who interprets, especially one who translates speech orally. 
+• Computing a program that can analyze and execute a program line by line. ORIGIN late Middle English: from Old French interpreteur, from late Latin interpretator, from Latin interpretari (see interpret) .

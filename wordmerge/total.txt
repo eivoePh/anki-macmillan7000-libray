@@ -10,10 +10,15 @@ C.  transitive verb(present participle etc. -ll- BrE, -l- AmE )
 ② (amount to) 总数达到 zǒngshù dádào ‹sum, number, percentage›their votes totalled two million 他们的得票共计200万张 
 ③ AmE colloquial (destroy) 彻底毁坏 chèdǐ huǐhuài ‹vehicle, equipment›he totalled his father's car 他把他爸爸的汽车撞得面目全非 
 total 
+ˈtōdl
+
 ▶adjective
-1 the total cost: entire, complete, whole, full, comprehensive, combined, aggregate, gross, overall, final. ANTONYMS partial.
-2 a total success: complete, utter, absolute, thorough, out-and-out, outright, all-out, sheer, perfect, consummate, arrant, positive, rank, unmitigated, unqualified, unreserved, categorical. ANTONYMS partial.
-▶noun a total of $160,000: sum, sum total, grand total, aggregate, result; whole, entirety, totality.
-▶verb
-1 the prize money totaled $33,050: add up to, amount to, come to, run to, make, work out to.
-2 she totaled up her score: add (up), count, reckon, tot up, tally, compute, work out.
+1 [attributive] comprising the whole number or amount: a total cost of $4,000.
+2 complete; absolute: a total stranger 
+they drove home in total silence. 
+▶noun the whole number or amount of something: he scored a total of thirty-three points 
+in total, 200 people were interviewed. 
+▶verb (totals, totaling, totaled; British totals, totalling, totalled)
+1 [with object] amount in number to: they were left with debts totaling $6,260. 
+• add up the full number or amount of: the scores were totaled.
+2 [with object] informal, chiefly North American damage (something, typically a vehicle) beyond repair; wreck. ORIGIN late Middle English: via Old French from medieval Latin totalis, from totum ‘the whole,’ neuter of Latin totus ‘whole, entire.’ The verb, at first in the sense ‘add up,’ dates from the late 16th century.

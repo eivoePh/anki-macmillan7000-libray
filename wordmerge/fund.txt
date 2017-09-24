@@ -7,8 +7,13 @@ A.  noun
 B.  funds noun plural 资金 zījīn to raise funds for [something]; 为某事筹集资金 to have the funds to do [something]; 有钱做某事 to be in funds 手头有钱 insufficient funds 无存款 ［银行通知开空头支票账户的用语］
 C.  transitive verb 为…提供资金 wèi… tígōng zījīn ‹expansion, work›publicly funded project 公共资金资助的项目 
 fund 
-▶noun
-1 an emergency fund for refugees: collection, kitty, reserve, pool, purse; endowment, foundation, trust, grant, investment; savings, nest egg; informal stash.
-2 (funds) I was very short of funds: money, cash, ready money; wealth, means, assets, resources, savings, capital, reserves, the wherewithal; informal dough, bread, loot.
-3 his fund of stories: stock, store, supply, accumulation, collection, bank, pool; mine, reservoir, storehouse, treasury, treasure house, hoard, repository; informal pork barrel.
-▶verb the agency was funded by a federal grant: finance, pay for, back, capitalize, sponsor, put up the money for, subsidize, underwrite, endow, support, maintain; informal foot the bill for, pick up the tab for, bankroll, stake.
+fənd
+
+▶noun a sum of money saved or made available for a particular purpose: he had set up a fund to coordinate economic investment. 
+• (funds) financial resources: the misuse of public funds. 
+• a large stock or supply of something: a vast fund of information. 
+• (the funds) British the stock of the national debt (as a mode of investment). 
+▶verb [with object] provide with money for a particular purpose: the World Bank refused to fund the project 
+[in combination] : government-funded research. 
+PHRASES
+in funds British having money to spend.ORIGIN mid 17th century: from Latin fundus ‘bottom, piece of landed property.’ The earliest sense was ‘the bottom or lowest part,’ later ‘foundation or basis’; the association with money has perhaps arisen from the idea of landed property being a source of wealth.

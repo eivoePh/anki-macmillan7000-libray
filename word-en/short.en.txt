@@ -1,13 +1,58 @@
 short 
+SHôrt
+
 ▶adjective
-1 a short piece of string: small, little, tiny; informal teeny. ANTONYMS long.
-2 short people: small, little, petite, tiny, diminutive, stubby, elfin, dwarfish, midget, pygmy, Lilliputian, minuscule, miniature; informal pint-sized, vertically challenged, teeny, knee-high to a grasshopper; Scottish wee. ANTONYMS tall.
-3 a short report: concise, brief, succinct, compact, summary, economical, crisp, pithy, epigrammatic, laconic, thumbnail, capsule, abridged, abbreviated, condensed, synoptic, summarized, contracted, truncated; formal compendious. ANTONYMS long, verbose.
-4 a short time: brief, momentary, temporary, short-lived, impermanent, cursory, fleeting, passing, fugitive, lightning, transitory, transient, ephemeral, quick. ANTONYMS long.
-5 money is a bit short: scarce, in short supply, scant, meager, sparse, insufficient, deficient, inadequate, lacking, wanting, tight; rare exiguous. ANTONYMS plentiful.
-6 he was rather short with her: curt, sharp, abrupt, blunt, brusque, terse, offhand, gruff, surly, testy, rude, uncivil; informal snappy, snappish. ANTONYMS patient, courteous.
-▶adverb she stopped short: abruptly, suddenly, sharply, all of a sudden, all at once, unexpectedly, without warning, out of the blue.
+1 measuring a small distance from end to end: short, dark hair 
+a short flight of steps 
+the bed was too short for him. 
+• (of a journey) covering a small distance: the hotel is a short walk from the sea. 
+• (of a garment or sleeves on a garment) only covering the top part of a person's arms or legs: a short skirt. 
+• (of a person) small in height: he is short and tubby. 
+• (of a ball in cricket, a shot in tennis, etc.) traveling only a small distance before bouncing: he uses his opportunities to attack every short ball. 
+• short for shortstop.
+2 lasting or taking a small amount of time: visiting London for a short break 
+a short conversation. 
+• [attributive] seeming to last less time than is the case; passing quickly: in
+10 short years all this changed. 
+• (of a person's memory) retaining things for only a small amount of time: he has a short memory for past misdeeds. 
+• Stock Market (of stocks or other securities or commodities) sold in advance of being acquired, with reliance on the price falling so that a profit can be made. 
+• Stock Market (of a broker, position in the market, etc.) buying or based on stocks or other securities or commodities sold short. 
+• denoting or having a relatively early date for the maturing of a bill of exchange.
+3 relatively small in extent: a short speech 
+he wrote a short book. 
+• [predicative] (short of/on) not having enough of (something); lacking or deficient in: they were short of provisions 
+I know you're short on cash. 
+• [predicative] in insufficient supply: food is short. 
+• [predicative] (of a person) terse; uncivil: he was often sharp and rather short with her.
+4 Phonetics (of a vowel) categorized as short with regard to quality and length (e.g., in standard British English the vowel 
+ʊ
+in good is short as distinct from the long vowel 
+uː
+in food). 
+• Prosody (of a vowel or syllable) having the lesser of the two recognized durations.
+5 (of odds or a chance) reflecting or representing a high level of probability: they have been backed at short odds to win thousands.
+6 (of pastry) containing a high proportion of fat to flour and therefore crumbly. 
+• (of clay) having poor plasticity. 
+▶adverb (chiefly in sports) at, to, or over a relatively small distance: you go deep and you go short. 
+• not as far as the point aimed at; not far enough: all too often you pitch the ball short. 
+▶noun
+1 British a drink of spirits served in a small measure.
+2 a short film as opposed to a feature film. 
+• a short sound such as a short signal in Morse code or a short vowel or syllable: her call was two longs and a short. 
+• a short circuit.
+3 Stock Market a person who sells short. 
+• (shorts) Stock Market short-dated stocks.
+4 (shorts) a mixture of bran and coarse flour. 
+▶verb
+1 short-circuit or cause to short-circuit: [no object] : the electrical circuit had shorted out 
+[with object] : if the contact terminals are shorted, the battery quickly overheats. [early 20th century: abbreviation.]
+2 [with object] Stock Market sell (stocks or other securities or commodities) in advance of acquiring them, with the aim of making a profit when the price falls. 
 PHRASES
-in short in short, we want you to leave: briefly, in a word, in a nutshell, in précis, in essence, to come to the point; in conclusion, in summary, to sum up. short of
-1 we are short of nurses: deficient in, lacking, wanting, in need of, low on, short on, missing; informal strapped for, pushed for, minus.
-2 short of searching everyone, there is nothing we can do: apart from, other than, aside from, besides, except (for), excepting, without, excluding, not counting, save (for).
+be caught (Stock Market taken) short be put at a disadvantage: the troubled company has been caught short by price competition in a recession-stricken market. 
+• British informal urgently need to urinate or defecate. two bricks short of a load (, an oar short of a pair, etc.) informal (of a person) stupid; crazy: she's two bricks short of a load.bring (or pull) someone up short make someone check or pause abruptly: he was entering the office when he was brought up short by the sight of John. come short fail to reach a goal or standard: we're so close to getting the job done, but we keep coming up short. 
+• South African get into trouble: if you try to trick him you'll come short. for short as an abbreviation or nickname: the File Transfer Protocol, or ftp for short. get (or have) someone by the short hairs (Stock Market short and curlies) informal have complete control of a person. [from military slang, referring to pubic hair.]go short not have enough of something, especially food: you won't go short when I die. in short to sum up; briefly: different plants, different animals, different weather—in short, a whole different ecosystem. in short order chiefly North American immediately; rapidly: after the killing the camp had been shut down in short order. in the short run in the near future.in the short term in the near future. little (or nothing) short of almost (or equal to); little (or nothing) less than: he regarded the cost of living as little short of scandalous. make short work of accomplish, consume, or destroy quickly: we made short work of our huge portions. sell short Stock Market sell stock or other securities or commodities that one does not own at the time, in the hope of buying at a lower price before the delivery time. sell someone/something short fail to recognize or state the true value of: don't sell yourself short—you've got what it takes. short and sweet brief and pleasant: his comments were short and sweet. the short end of the stick North American an outcome in which one has less advantage than others. short for an abbreviation or nickname for: I'm Robbie—short for Roberta. short of less than: he died at sixty-one, four years short of his pensionable age. 
+• not reaching as far as: a rocket failure left a satellite tumbling in an orbit far short of its proper position. 
+• without going so far as (some extreme action): short of putting out an all-persons alert, there's little else we can do. short of breath panting; short-winded. short, sharp shock see shock1. stop short (or stop someone short) stop (or cause to stop) suddenly or abruptly: she began to speak, but stopped short at the look on the other woman's face 
+I was about to reply with a sarcastic remark when a thought stopped me short. stop short of not go as far as (some extreme action): the measures stopped short of establishing direct trade links.DERIVATIVES shortish 
+ˈSHôrdiSH 
+adjectiveORIGIN Old English sceort, of Germanic origin; related to shirt and skirt .

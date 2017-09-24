@@ -36,25 +36,44 @@ B.  transitive verb[dry something up, dry up something]
 ① (empty) «sun, heat, drought» 使…变干 shǐ… biàngān ‹water, puddles, river›
 ② BrE (wipe dry) 擦干 cāgān ‹dishes›
 dry 
-▶adjective
-1 the dry desert: arid, parched, droughty, scorched, baked; waterless, moistureless, rainless; dehydrated, desiccated, thirsty, bone dry. ANTONYMS wet.
-2 dry leaves: parched, dried, withered, shriveled, wilted, wizened; crisp, crispy, brittle; dehydrated, desiccated. ANTONYMS fresh.
-3 the rolls were dry: hard, stale, old, past its best. ANTONYMS moist, fresh.
-4 a dry well: waterless, empty.
-5 I'm really dry: thirsty, dehydrated; informal parched, gasping.
-6 it was dry work: thirsty, thirst-making; hot; strenuous, arduous.
-7 dry toast: unbuttered, butterless, plain.
-8 the dry facts: bare, simple, basic, fundamental, stark, bald, hard, straightforward. ANTONYMS embellished.
-9 a dry debate: dull, uninteresting, boring, unexciting, tedious, tiresome, wearisome, dreary, monotonous; unimaginative, sterile, flat, bland, lackluster, uninvolving, stodgy, prosaic, humdrum, mundane; informal deadly. ANTONYMS lively, interesting.
-10 a dry sense of humor: wry, subtle, laconic, sharp; ironic, sardonic, sarcastic, cynical; satirical, mocking, droll; informal waggish.
-11 a dry response to his cordial advance: unemotional, indifferent, impassive, cool, cold, emotionless; reserved, restrained, impersonal, formal, stiff, wooden. ANTONYMS emotional, expressive.
-12 this is a dry state: teetotal, prohibitionist, alcohol-free, nondrinking, abstinent, sober; informal on the wagon.
-13 dry white wine: crisp, sharp, piquant, tart, bitter. ANTONYMS sweet.
-▶verb
-1 the sun dried the ground: parch, scorch, bake; dehydrate, desiccate, dehumidify. ANTONYMS moisten.
-2 dry the leaves completely: dehydrate, desiccate; wither, shrivel. ANTONYMS moisten.
-3 he dried the spills with a paper towel: towel, rub; mop up, blot up, soak up, absorb.
-4 she dried her eyes: wipe, rub, dab.
-5 methods of drying meat: desiccate, dehydrate; preserve, cure, smoke.
+drī
+
+▶adjective (drier, driest)
+1 free from moisture or liquid; not wet or moist: the jacket kept me warm and dry 
+he wiped it dry with his shirt. 
+• having lost all wetness or moisture over a period of time: dry paint. 
+• for use without liquid: the conversion of dry latrines into flush toilets. 
+• with little or no rainfall or humidity: the West Coast has had two dry winters in a row. 
+• (of a river, lake, or stream) empty of water as a result of evaporation and lack of rainfall: the river is always dry at this time of year. 
+• (of a source) not yielding a supply of water or oil: a dry well. 
+• thirsty or thirst-making: working in the hot sun is making me dry 
+dry work. 
+• (of a cow or other domestic animal) having stopped producing milk. 
+• without grease or other moisturizer or lubricator: cream conditioners for dry hair 
+his throat was dry and sore. 
+• (of bread or toast) without butter or other spreads: only dry bread and water.
+2 bare or lacking adornment: the dry facts. 
+• unexciting; dull: by current tastes the text is dry. 
+• unemotional, undemonstrative, or impassive: Ralph gave me a dry, silent wave. 
+• (of a joke or sense of humor) subtle, expressed in a matter-of-fact way, and having the appearance of being unconscious or unintentional: he delighted his friends with a dry, covert sense of humor.
+3 prohibiting the sale or consumption of alcoholic drink: Indiana stayed dry after the end of prohibition. 
+• (of a person) no longer addicted to or drinking alcohol: I heard much talk about how sobriety was more than staying straight or dry.
+4 (of an alcoholic drink) not sweet: a dry, medium-bodied red wine. 
+▶verb (dries, drying, dried) [no object]
+1 become dry: waiting for the paint to dry 
+come in out of the rain and dry off 
+do not let the soil dry out 
+pools are left as the rivers dry up. 
+• [with object] cause to become dry: they had washed and dried their hair. 
+• [with object] wipe tears from (the eyes): she dried her eyes and blew her nose. 
+• wipe dishes dry with a cloth after they have been washed. 
+• [with object] (usually as adjective dried) preserve by allowing or encouraging evaporation of moisture from: dried flowers.
+2 theatrical slang forget one's lines: a colleague of mine once dried in the middle of a scene. 
+▶noun (plural dries or drys) US a person in favor of the prohibition of alcohol. 
 PHRASES
-dry out she dried out on her thirtieth birthday and has been sober ever since: give up drinking, give up alcohol, become a teetotaler, go on the wagon. dry up foreign investment may dry up: dwindle, subside, peter out, wane, taper off, ebb, come to a halt/end, run out, give out, disappear, vanish. CHOOSE THE RIGHT WORD dry, arid, dehydrated, dessicated, parched, sere Almost anything lacking in moisture (in relative terms)—whether it's a piece of bread, the basement of a house, or the state of Arizona—may be described as dry, a word that also connotes a lack of life or spirit (a dry lecture on cell division). Arid, on the other hand, applies to places or things that have been deprived of moisture and are therefore extremely or abnormally dry (one side of the island was arid); it is most commonly used to describe a desertlike region or climate that is lifeless or barren. Desiccated is used as a technical term for something from which moisture has been removed, and in general use it suggests lifelessness, although it is applied very often to people who have lost their vitality (a desiccated old woman who never left her house) or to animal and vegetable products that have been completely deprived of their vital juices (desiccated oranges hanging limply from the tree). Dehydrated is very close in meaning to desiccated and is often the preferred adjective when describing foods from which the moisture has been intentionally extracted (they lived on dehydrated fruit). Dehydrated may also refer to an unwanted loss of moisture (the virus had left him seriously dehydrated), as may the less formal term parched, which refers to an undesirable or uncomfortable lack of water in either a person or a place (parched with thirst; the parched landscape). Sere is associated primarily with places and means much the same as arid (a harsh, sere land where few inhabitants could survive).These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+come up dry North American be unsuccessful: experiments have so far come up dry. (as) dry as a bone extremely dry. (as) dry as dust extremely dry. 
+• extremely dull; lacking emotion, expression, or interest: what the students learned was as dry as dust. there wasn't a dry eye (in the house) (with reference to a play, film, or similar event) everyone in the audience was moved to tears.PHRASAL VERBS dry out informal (of an alcoholic) abstain from alcoholic drink, especially as part of a detoxification program: he intends to dry out and get his life back together again. dry up
+1 informal cease talking: then he dried up, and Phil couldn't get another word out of him.
+2 (of something perceived as a continuous flow or source) decrease and stop: his commissions began to dry up.DERIVATIVES dryish 
+ˈdrīiSH 
+adjectiveORIGIN Old English drȳge (adjective), drȳgan (verb), of Germanic origin; related to Middle Low German dröge,Dutch droog, and German trocken .

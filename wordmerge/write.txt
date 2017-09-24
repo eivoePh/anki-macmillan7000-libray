@@ -34,12 +34,40 @@ B.  [write somebody out] transitive verb Radio, Television 删去 shānqù ‹ch
 ② (praise) «reviewer» 撰文赞扬 zhuànwén zànyáng ‹play, concert, acting›
 ③ Finance (increase nominal value of) 增记 zēngjì ‹asset, stock›
 write 
-▶verb
-1 he wrote her name in the book: put in writing, write down, jot down, put down, note, take down, record, register, log, list; inscribe, sign, scribble, scrawl, pencil.
-2 Jacqueline wrote a poem: compose, draft, think up, formulate, compile, pen, dash off, produce.
-3 he had her address and promised to write: correspond, write a letter, communicate, get/stay in touch, keep in contact, email; informal drop someone a line.
+rīt
+
+▶verb (past wrote 
+rōt
+; past participle written 
+ˈritn
+) [with object]
+1 mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement: he wrote his name on the paper 
+Alice wrote down the address 
+[no object] : he wrote very neatly in blue ink. 
+• [no object] have the ability to mark down coherent letters or words: he couldn't read or write. 
+• fill out or complete (a sheet, check, or similar) in this way: he had to write a check for $800. 
+• [no object] write in a cursive hand, as opposed to printing individual letters.
+2 compose, write, and send (a letter) to someone: I wrote a letter to Alison 
+[with two objects] : I wrote him a short letter 
+[no object] : he wrote almost every day. 
+• chiefly North American write and send a letter to (someone): Mother wrote me and told me about poor Simon's death. 
+• (write in) write to an organization, especially a broadcasting station, with a question, suggestion, or opinion: write in with your query.
+3 compose (a text or work) for written or printed reproduction or publication; put into literary form and set down in writing: I didn't know you wrote poetry 
+[no object] : he wrote under a pseudonym 
+he had written about the beauty of Andalucia. 
+• compose (a musical work): he has written a song specifically for her. 
+• (write someone into/out of) add or remove a character to or from (a long-running story or series). 
+• archaic describe in writing: if I could write the beauty of your eyes.
+4 Computing enter (data) into a specified storage medium or location in store.
+5 underwrite (an insurance policy). 
 PHRASES
-write off
-1 they have had to write off loans: forget about, disregard, give up on, cancel, annul.
-2 she wrote off the cost of the computer: deduct, claim.
-3 who would write off a player of his stature? disregard, dismiss, ignore.
+be nothing to write home about informal be very mediocre or unexceptional. be (or have something) written all over one (or one's face) informal used to convey that the presence of a particular quality or feeling is clearly revealed by a person's expression: guilt was written all over his face.be written in stone see stone. (and) that's all she wrote North American informal used to convey that there is or was nothing more to be said about a matter: we were arguing about who should pay the bill, but he pulled out a couple of hundreds and that's all she wrote.PHRASAL VERBS write something down
+1 reduce the nominal value of stock or goods.
+2 write as if for those considered inferior. write someone in chiefly US (when voting) add the name of someone not on the original list of candidates and vote for them. write something off
+1 (write someone/something off) dismiss someone or something as insignificant: the boy had been written off as a nonachiever.
+2 cancel the record of a bad debt; acknowledge the loss of or failure to recover an asset: he urged the banks to write off debt owed by poorer countries. write something up
+1 write a full or formal account of something: I was too tired to write up my notes. 
+• make entries to bring a diary or similar record up to date: he wrote up a work journal which has never been published.
+2 increase the nominal value of stock or goods.DERIVATIVES writable 
+ˈrīdəbəl 
+adjectiveORIGIN Old English wrītan ‘score, form (letters) by carving, write,’ of Germanic origin; related to German reissen ‘sketch, drag.’

@@ -6,9 +6,11 @@ noun
 ③ Uncountable(paving material) 铺路材料 pūlù cáiliào 
 ④ Countable(paved area) 铺面 pūmiàn 
 pavement 
-BrE ˈpeɪvm(ə)nt, AmE ˈpeɪvmənt 
-noun 
-① Countable BrE (for pedestrians) 人行道 rénxíngdào 
-② Countable AmE (road surface) 路面 lùmiàn 
-③ Uncountable(paving material) 铺路材料 pūlù cáiliào 
-④ Countable(paved area) 铺面 pūmiàn 
+ˈpāvmənt
+
+▶noun any paved area or surface. 
+• North American the hard surface of a road or street. 
+• British a sidewalk. 
+• Geology a more or less horizontal expanse of bare rock. 
+PHRASES
+pound the pavement see pound2. ORIGIN Middle English: from Old French, from Latin pavimentum ‘trodden-down floor,’ from pavire ‘beat, tread down.’

@@ -1,7 +1,13 @@
 hazard 
+ˈhazərd
+
 ▶noun
-1 the hazards of radiation: danger, risk, peril, threat, menace; problem, pitfall.
-2 literary the laws of hazard: chance, probability, fortuity, luck, fate, destiny, fortune, providence.
-▶verb
-1 he hazarded a guess: venture, advance, put forward, volunteer, float; conjecture, speculate, surmise; formal opine.
-2 it's too risky to hazard money on: risk, jeopardize, gamble, stake, bet, chance; endanger, imperil.
+1 a danger or risk: the hazards of smoking. 
+• a potential source of danger: a health hazard. 
+• a permanent feature of a golf course that presents an obstruction to playing a shot, such as a bunker or stream.
+2 literary chance; probability.
+3 a gambling game using two dice, in which the chances are complicated by arbitrary rules. 
+▶verb [with object]
+1 venture to say (something): he hazarded a guess.
+2 put (something) at risk of being lost: the cargo business is too risky to hazard money on. ORIGIN Middle English ( sense
+3 of the noun): from Old French hasard, from Spanish azar, from Arabic az-zahr ‘chance, luck,’ from Persian zār or Turkish zar ‘dice.’

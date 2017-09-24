@@ -21,15 +21,26 @@ A.
 ③ figurative (lessen) 解决 jiějué ‹difficulties, problems›to smooth out the impact of [something] 消除某事物的影响 
 ④ Statistics 修正 xiūzhèng ‹curve, fluctuations›smooth over transitive verb[smooth something over, smooth over something] 缓和 huǎnhé ‹problems, bad feelings›; 减少 jiǎnshǎo ‹difficulties, differences›to smooth things over 平息事端 
 smooth 
+smo͞oT͟H
+
 ▶adjective
-1 the smooth flat rocks: even, level, flat, plane; unwrinkled, featureless; glassy, glossy, silky, polished. ANTONYMS uneven, rough.
-2 his face was smooth: clean-shaven, hairless. ANTONYMS rough, hairy.
-3 a smooth sauce: creamy, velvety, blended. ANTONYMS lumpy.
-4 a smooth sea: calm, still, tranquil, undisturbed, unruffled, even, flat, waveless, like a millpond. ANTONYMS rough, choppy.
-5 the smooth running of the equipment: steady, regular, uninterrupted, unbroken, fluid, fluent; straightforward, easy, effortless, trouble-free, seamless. ANTONYMS irregular, jerky.
-6 a smooth wine: mellow, mild, agreeable, pleasant. ANTONYMS harsh, bitter.
-7 the smooth tone of the clarinet: dulcet, soft, soothing, mellow, sweet, silvery, honeyed, mellifluous, melodious, lilting, lyrical, harmonious. ANTONYMS raucous.
-8 a smooth, confident man: suave, urbane, sophisticated, polished, debonair; courteous, gracious, glib, slick, ingratiating, unctuous; informal smarmy. ANTONYMS gauche.
-▶verb
-1 she smoothed the soil: flatten, level (out/off), even out/off; press, roll, steamroll, iron, plane.
-2 a plan to smooth the way for the agreement: ease, facilitate, clear the way for, pave the way for, expedite, assist, aid, help, oil the wheels of, lubricate.
+1 having an even and regular surface or consistency; free from perceptible projections, lumps, or indentations: smooth flat rocks 
+a smooth skin tans more easily. 
+• (of a liquid) with an even consistency; without lumps: cook gently until the sauce is smooth. 
+• (of the sea or another body of water) without heavy waves; calm: the smooth summer sea. 
+• (of movement) without jerks: the trucks gave a smooth ride 
+graphics are excellent, with fast, smooth scrolling. 
+• (of an action, event, or process) without problems or difficulties: the group's expansion into the 
+U. 
+S.  market was not quite so smooth. 
+• denoting the face of a tennis or squash racket without the projecting loops from the stringing process (used as a call when the racket is spun to decide the right to serve first or to choose ends); the opposite of rough .
+2 (of food or drink) without harshness or bitterness: a lovely, smooth, very fruity wine. 
+• (of a person or their manner, actions, or words) suavely charming in a way considered to be unctuous: his voice was infuriatingly smooth. 
+▶verb [with object] give (something) a flat, regular surface or appearance by running one's hand over it: she smoothed out the newspaper. 
+• rub off the rough edges of (something): you can use sandpaper to smooth the joint. 
+• deal successfully with (a problem, difficulty, or perceived fault): these doctrinal disputes were smoothed over. 
+• free (a course of action) from difficulties or problems: a conference would be held to smooth the way for the establishment of the provisional government. 
+• modify (a graph, curve, etc.) so as to lessen irregularities: values are collected over a long period of time so that fluctuations are smoothed out. 
+▶adverb archaic in a way that is without difficulties: the course of true love never did run smooth. 
+PHRASES
+smooth someone's ruffled feathers see ruffle. DERIVATIVES smoothable adjective. smoothish adjectiveORIGIN Old English smōth, probably of Germanic origin, though no cognates are known. The verb dates from Middle English.

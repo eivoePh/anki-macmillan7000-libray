@@ -1,15 +1,36 @@
 bear
 1 
-▶verb
-1 I come bearing gifts: carry, bring, transport, move, convey, take, fetch, deliver, tote, lug.
-2 the bag bore my name: display, exhibit, be marked with, show, carry, have.
-3 will it bear his weight? support, carry, hold up, prop up.
-4 they can't bear the cost alone: sustain, carry, support, shoulder, absorb, take on.
-5 she bore no grudge: harbor, foster, entertain, nurse, nurture, brood over.
-6 such a solution does not bear close scrutiny: withstand, stand up to, stand, put up with, take, cope with, handle, sustain, accept.
-7 I can't bear having him around: endure, tolerate, put up with, stand, abide, submit to, experience, undergo, go through, countenance, brave, weather, stomach; informal hack, swallow; formal brook; archaic suffer.
-8 she bore a son: give birth to, bring forth, deliver, be delivered of, have, produce, spawn, birth; informal drop; literary beget.
-9 a shrub that bears yellow berries: produce, yield, give forth, give, grow, provide, supply.
-10 bear left at the junction: veer, curve, swerve, fork, diverge, deviate, turn, bend.
+ber
+
+▶verb (past bore 
+bôr
+; past participle borne 
+bôrn
+) [with object]
+1 (of a person) carry: he was bearing a tray of brimming glasses 
+the warriors bore lances tipped with iron. 
+• (of a vehicle or boat) convey (passengers or cargo): steamboats bear the traveler out of Kerrerra Sound. 
+• have or display as a visible mark or feature: a small boat bearing a white flag 
+many of the papers bore his flamboyant signature. 
+• be called by (a name or title): he bore the surname Tiller. 
+• (bear oneself) [with adverbial] carry or conduct oneself in a particular manner: she bore herself with dignity.
+2 support: walls that cannot bear a stone vault. 
+• take responsibility for: no one likes to bear the responsibility for such decisions 
+the expert's fee shall be borne by the tenant. 
+• be able to accept or stand up to: it is doubtful whether either of these distinctions would bear scrutiny.
+3 endure (an ordeal or difficulty): she bore the pain stoically. 
+• [with modal and negative] manage to tolerate (a situation or experience): she could hardly bear his sarcasm 
+[with infinitive] : I cannot bear to see you hurt. 
+• (cannot bear someone/something) strongly dislike: I can't bear caviar.
+4 give birth to (a child): she bore six daughters 
+[with two objects] : his wife had borne him a son. 
+• (of a tree or plant) produce (fruit or flowers): a squash that bears fruit shaped like cucumbers.
+5 [no object] turn and proceed in a specified direction: bear left and follow the old road. 
 PHRASES
-bear oneself he bore himself with confidence: conduct oneself, carry oneself, acquit oneself, act, behave, perform; formal comport oneself. bear down on we knew that Sherman's men would be bearing down on us by dawn: advance on, close in on, move in on, converge on. bear fruit we're always amazed when one of her crazy ideas actually bears fruit: yield results, get results, succeed, meet with success, be successful, be effective, be profitable, work, go as planned; informal pay off, come off, pan out, do the trick. bear something in mind the meals are free, but please bear in mind that you are expected to tip the servers: take into account, take into consideration, remember, consider, be mindful, mind, mark, heed. bear on I fail to see how Hugh's personal problem bears on our final decision: be relevant to, appertain to, pertain to, relate to, have a bearing on, have relevance to, apply to, be pertinent to. bear something out we're hoping you can bear out his statement: confirm, corroborate, substantiate, endorse, vindicate, give credence to, support, ratify, warrant, uphold, justify, prove, authenticate, verify. bear with if you'll just bear with us, I'm sure the lights will be back on soon: be patient with, show forbearance toward, make allowances for, tolerate, put up with, endure. bear witness/testimony to the majestic windows bear witness to the architect's fascination with natural light: testify to, be evidence of, be proof of, attest to, evidence, prove, vouch for; demonstrate, show, establish, indicate, reveal, bespeak.
+be borne in upon come to be realized by: the folly of her action was borne in on her with devastating precision.bear arms
+1 carry firearms.
+2 wear or display a coat of arms. bear the brunt of see brunt. bear the burden of suffer the consequences of. bear fruit yield positive results: plans for power-sharing may be about to bear fruit. bear someone a grudge nurture a feeling of resentment against someone. bear a hand archaic help in a task or enterprise. bear someone malice (or ill will) [with negative] wish someone harm.bear a resemblance (or similarity) to resemble. bear a relation (or relationship) to [with negative] be logically consistent with: the map didn't seem to bear any relation to the roads. bear the stamp of be clearly identifiable with: every work of mine must inevitably bear the stamp of my own personality. bear witness (or testimony) to testify to: little is left to bear witness to the past greatness of the city. does not bear thinking about is too terrible to contemplate. grin and bear it see grin. have one's cross to bear see cross. PHRASAL VERBS bear away another way of saying bear off. bear down (of a woman in labor) exert downward pressure in order to push the baby out. 
+• put pressure on someone or something: he bore down and allowed the Bears only one more run. bear down on move quickly toward someone, in a purposeful or an intimidating manner. 
+• take strict measures to deal with: a commitment to bear down on inflation. bear off Sailing change course away from the wind. 
+• Nautical steer away from something, typically the land. bear on be relevant to (something): two kinds of theories that bear on literary studies. 
+• [with adverbial] be a burden on (someone): a tax that will bear heavily on poorer households. bear something out support or confirm something: this assumption is not borne out by any evidence. bear up remain cheerful in the face of adversity: she's bearing up remarkably well. bear with be patient or tolerant with.ORIGIN Old English beran, of Germanic origin; from an Indo-European root shared by Sanskrit bharati,Greek pherein, and Latin ferre . usage: In the early 17th century, borne and born were simply variant forms of the past participle of bear used interchangeably with no distinction in meaning. By around 1775, however, the present distinction in use had become established. At that time, borne became the standard past participle used in all the senses listed in this dictionary entry, e.g., she has borne you another son, the findings have been borne out, and so on. Born became restricted to just one very common use (which remains the case today), in the passive, without by, as the standard, neutral way to refer to birth: she was born in 1965, he was born lucky, or I was born and bred in Boston.

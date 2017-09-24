@@ -2,4 +2,7 @@ municipal
 BrE mjʊˈnɪsɪp(ə)l, AmE mjuˈnɪsəpəl 
 adjectiveattributive 市政的 shìzhèng de the municipal government 市政府 
 municipal 
-▶adjective land use is controlled by the municipal authorities: civic, civil, metropolitan, urban, city, town, borough. ANTONYMS rural.
+myo͞oˈnisəpəl
+
+▶adjective relating to a city or town or its governing body: national and municipal elections 
+municipal offices. DERIVATIVES municipally adverbORIGIN mid 16th century (originally relating to the internal affairs of a state as distinct from its foreign relations): from Latin municipalis, from municipium ‘free city,’ from municeps, municip- ‘citizen with privileges,’ from munia ‘civic offices’ + capere ‘take.’

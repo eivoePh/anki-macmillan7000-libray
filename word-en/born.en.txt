@@ -1,15 +1,14 @@
-bear
-1 
-▶verb
-1 I come bearing gifts: carry, bring, transport, move, convey, take, fetch, deliver, tote, lug.
-2 the bag bore my name: display, exhibit, be marked with, show, carry, have.
-3 will it bear his weight? support, carry, hold up, prop up.
-4 they can't bear the cost alone: sustain, carry, support, shoulder, absorb, take on.
-5 she bore no grudge: harbor, foster, entertain, nurse, nurture, brood over.
-6 such a solution does not bear close scrutiny: withstand, stand up to, stand, put up with, take, cope with, handle, sustain, accept.
-7 I can't bear having him around: endure, tolerate, put up with, stand, abide, submit to, experience, undergo, go through, countenance, brave, weather, stomach; informal hack, swallow; formal brook; archaic suffer.
-8 she bore a son: give birth to, bring forth, deliver, be delivered of, have, produce, spawn, birth; informal drop; literary beget.
-9 a shrub that bears yellow berries: produce, yield, give forth, give, grow, provide, supply.
-10 bear left at the junction: veer, curve, swerve, fork, diverge, deviate, turn, bend.
+born 
+bôrn
+past participle of bear1 ( sense 4). 
+▶adjective existing as a result of birth: he was born in Seattle 
+babies born to women aged 25–29 
+he was born into a family of wine merchants 
+she was born Margaret Roberts 
+[in combination] : a German-born philosopher. 
+• [attributive] having a natural ability to do a particular job or task: he's a born engineer. 
+• [with infinitive] perfectly suited or trained to do a particular job or task: they believe that they are born to rule. 
+• (of a thing) brought into existence: her own business was born. 
+• (born of) existing as a result of a particular situation or feeling: a power born of obsession. 
 PHRASES
-bear oneself he bore himself with confidence: conduct oneself, carry oneself, acquit oneself, act, behave, perform; formal comport oneself. bear down on we knew that Sherman's men would be bearing down on us by dawn: advance on, close in on, move in on, converge on. bear fruit we're always amazed when one of her crazy ideas actually bears fruit: yield results, get results, succeed, meet with success, be successful, be effective, be profitable, work, go as planned; informal pay off, come off, pan out, do the trick. bear something in mind the meals are free, but please bear in mind that you are expected to tip the servers: take into account, take into consideration, remember, consider, be mindful, mind, mark, heed. bear on I fail to see how Hugh's personal problem bears on our final decision: be relevant to, appertain to, pertain to, relate to, have a bearing on, have relevance to, apply to, be pertinent to. bear something out we're hoping you can bear out his statement: confirm, corroborate, substantiate, endorse, vindicate, give credence to, support, ratify, warrant, uphold, justify, prove, authenticate, verify. bear with if you'll just bear with us, I'm sure the lights will be back on soon: be patient with, show forbearance toward, make allowances for, tolerate, put up with, endure. bear witness/testimony to the majestic windows bear witness to the architect's fascination with natural light: testify to, be evidence of, be proof of, attest to, evidence, prove, vouch for; demonstrate, show, establish, indicate, reveal, bespeak.
+born and bred by birth and upbringing, especially when considered a typical product of a place: he was a born and bred product of the Bronx. born on the wrong side of the blanket see blanket. born with a silver spoon in one's mouth be born into a wealthy family of high social standing. I (she, etc.) wasn't born yesterday used to remind someone that one isn't naive. in all one's born days used to express surprise or shock at something one has not encountered before: in all my born days I've never seen the like of it. there's one (or a sucker) born every minute there are many gullible people.ORIGIN Old English boren, past participle of beran ‘to bear’ (see bear1) . usage: On the difference between born and borne, see usage at bear1 .

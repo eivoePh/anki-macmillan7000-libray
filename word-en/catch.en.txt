@@ -1,22 +1,48 @@
 catch 
-▶verb
-1 he caught the ball: seize, grab, snatch, take hold of, grasp, grip, trap, clutch, clench; receive, get, intercept. ANTONYMS drop.
-2 we've caught the thief: capture, seize; apprehend, arrest, take prisoner/captive, take into custody; trap, snare, ensnare; net, hook, land; informal nab, collar, run in, bust. ANTONYMS release.
-3 her heel caught in a hole: become trapped, become entangled, snag.
-4 she caught the last bus: be in time for, make, get; board, get on, step aboard. ANTONYMS miss.
-5 they were caught siphoning gas: discover, find, come upon/across, stumble on, chance on; surprise, catch red-handed, catch in the act.
-6 it caught his imagination: engage, capture, attract, draw, grab, grip, seize; hold, absorb, engross.
-7 she caught a trace of aftershave: perceive, notice, observe, discern, detect, note, make out. ANTONYMS miss.
-8 I couldn't catch what she was saying: hear, perceive, discern, make out; understand, comprehend, grasp, apprehend; informal get, get the drift of, figure out.
-9 it caught the flavor of the sixties: evoke, conjure up, call to mind, recall, encapsulate, capture.
-10 the blow caught her on the side of her face: hit, strike, slap, smack, bang. ANTONYMS miss.
-11 he caught malaria: become infected with, contract, get, fall ill with, be taken ill with, develop, come down with, be struck down with. ANTONYMS escape.
-12 the kindling wouldn't catch: ignite, start burning, catch fire, kindle.
+kaCH keCH
+
+▶verb (past and past participle caught 
+kôt
+) [with object]
+1 intercept and hold (something that has been thrown, propelled, or dropped): she threw the bottle into the air and caught it again. 
+• intercept the fall of (someone). 
+• seize or take hold of: he caught hold of her arm as she tried to push past him. 
+• [no object] (catch at) grasp or try to grasp: his hands caught at her arms as she tried to turn away.
+2 capture (a person or animal that tries or would try to escape): we hadn't caught a single rabbit. 
+• [no object] (of an object) accidentally become entangled or trapped in something: the charm bracelet always caught on her clothing. 
+• (of a person) have (a part of one's body or clothing) become entangled or trapped in something: she caught her foot in the bedspread 
+figurative : companies face increased risks of being caught in a downward spiral. 
+• fix or fasten in place: her hair was caught back in a scrunchie.
+3 reach in time and board (a train, bus, or aircraft): they caught the 12:15 from Chicago. 
+• reach or be in a place in time to see (a person, performance, program, etc.): she was hurrying downstairs to catch the news. 
+• come upon (someone) unexpectedly: unexpected snow caught us by surprise. 
+• (be caught in) (of a person) unexpectedly find oneself in (an unwelcome situation): my sister was caught in a thunderstorm. 
+• (catch it) informal be punished or told off. 
+• surprise (someone) in an incriminating situation or in the act of doing something wrong: he was caught with bomb-making equipment in his home.
+4 engage (a person's interest or imagination). 
+• perceive fleetingly: she caught a glimpse of herself in the mirror. 
+• hear or understand (something said), especially with effort: he bellowed something Jess couldn't catch. 
+• succeed in evoking or representing: the program caught something of the flavor of Minoan culture.
+5 [with object] strike (someone) on a part of the body: Ben caught him on the chin with an uppercut. 
+• accidentally strike (a part of one's body) against something: she fell and caught her head on the corner of the hearth.
+6 contract (an illness) through infection or contagion.
+7 [no object] become ignited, due to contact with flame, and start burning: the rafters have caught. 
+• (of an engine) fire and start running. 
 ▶noun
-1 he inspected the catch: haul, net, bag, yield.
-2 he secured the catch: latch, lock, fastener, clasp, hasp.
-3 it looks great, but there's a catch: snag, disadvantage, drawback, stumbling block, hitch, fly in the ointment, pitfall, complication, problem, hiccup, difficulty; trap, trick, snare; informal catch-22.
+1 an act of catching something, typically a ball. 
+• an amount of fish caught: a record catch of 6.9 billion pounds of fish. 
+• [in singular] informal a person considered attractive, successful, or prestigious and so desirable as a partner or spouse: I mistakenly thought he would be a good catch.
+2 a device for securing something such as a door, window, or box: the window catch was rusty.
+3 a hidden problem or disadvantage in an apparently ideal situation: there's a catch in it somewhere.
+4 [in singular] an unevenness in a person's voice caused by emotion: there was a catch in Anne's voice.
+5 Music a round, typically one with words arranged to produce a humorous effect. 
 PHRASES
-catch on
-1 radio soon caught on: become popular, become fashionable, take off, boom, flourish, thrive.
-2 I caught on fast: understand, comprehend, learn, see the light; informal latch on, get the picture, get the message, get wise. catch up to police didn’t catch up to him until he stopped for gas and food: reach; be even with; gain on, close in on.
+catch someone napping see nap1. be caught short see short. catch at straws see straw. catch one's breath see breath. catch one's death (of cold) see death. catch someone's eye
+1 be noticed by someone: a vase on a side table caught his eye.
+2 attract someone's attention by making eye contact: I caught Rhoda's eye and gave her a friendly wave. catch fire become ignited and burn. catch someone in the act see act. catch the light shine or glint in the light. catch sight of suddenly notice; glimpse. you wouldn't catch —— doing something informal used to indicate that there is no possibility of the person mentioned doing what is specified: you wouldn't catch me walking back to the house alone at night.PHRASAL VERBS catch on informal
+1 (of a practice or fashion) become popular: his music never caught on in the South.
+2 understand what is meant or how to do something: I caught on to what it was the guy was saying. catch up succeed in reaching a person who is ahead of one. 
+• do work or other tasks that one should have done earlier: he normally used the afternoons to catch up on paperwork. catch up with
+1 succeed in reaching a person who is ahead of one: you go with Stasia and Katie, and I'll catch up with you.
+2 talk to (someone) whom one has not seen for some time in order to find out what he or she has been doing in the interim: a chance to catch up with old friends.
+3 begin to have a damaging effect on: the physical exertions began to catch up with Sue. be/get caught up in become involved in (something that one had not intended to become involved in): he had no desire to be caught up in political activities.DERIVATIVES catchable adjectiveORIGIN Middle English (also in the sense ‘chase’): from Anglo-Norman French and Old Northern French cachier, variant of Old French chacier, based on Latin captare ‘try to catch,’ from capere ‘take.’

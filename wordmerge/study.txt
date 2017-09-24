@@ -20,15 +20,34 @@ D.  intransitive verb
 ① (learn) 学习 xuéxí (revise) 复习 fùxí I didn't study much over the vacation 假期里我花在学习上的时间不多 to study for an exam 复习备考 
 ② (take course) 攻读 gōngdú to study for [something]; 攻读某科目 to study under [somebody]; 在某人指导下学习 to study to be an engineer 读工程学 
 study 
-▶noun
-1 two years of study: learning, education, schooling, academic work, scholarship, tuition, research; informal cramming.
-2 a study of global warming: investigation, inquiry, research, examination, analysis, review, survey.
-3 Father was in his study: office, workroom, studio.
-4 a critical study: essay, article, work, review, paper, dissertation, disquisition.
-▶verb
-1 Anne studied hard: work, review; informal cram, hit the books.
-2 he studied electronics: learn, read, be taught.
-3 Thomas was studying child development: investigate, inquire into, research, look into, examine, analyze, explore, review, appraise, conduct a survey of.
-4 she studied her friend thoughtfully: scrutinize, examine, inspect, consider, regard, look at, eye, observe, watch, survey; informal check out, eyeball.
+ˈstədē
+
+▶noun (plural studies)
+1 the devotion of time and attention to acquiring knowledge on an academic subject, especially by means of books: the study of English 
+an application to continue full-time study. 
+• (studies) study as pursued by one person: some students may not be able to resume their studies. 
+• an academic book or article on a particular topic: a study of Jane Austen's novels. 
+• (studies) used in the title of an academic subject: a major in East Asian studies.
+2 a detailed investigation and analysis of a subject or situation: a study of a sample of 5,000 children 
+the study of global problems. 
+• a portrayal in literature or another art form of an aspect of behavior or character: a study of a man devoured by awareness of his own mediocrity. 
+• archaic a thing that is or deserves to be investigated; the subject of an individual's study: I have made it my study to examine the nature and character of the Indians. 
+• archaic the object or aim of someone's endeavors: the acquisition of a fortune is the study of all. 
+• [with adjective] a person who learns a skill or acquires knowledge at a specified speed: I'm a quick study. [originally theatrical slang, referring to an actor who memorizes a role.]
+3 a room used or designed for reading, writing, or academic work.
+4 a piece of work, especially a drawing, done for practice or as an experiment. 
+• a musical composition designed to develop a player's technical skill.
+5 (a study in) a thing or person that is an embodiment or good example of something: he perched on the edge of the bed, a study in confusion and misery. 
+• informal an amusing or remarkable thing or person: Ira's face was a study as he approached the car. 
+▶verb (studies, studying, studied) [with object]
+1 devote time and attention to acquiring knowledge on (an academic subject), especially by means of books: she studied biology and botany. 
+• investigate and analyze (a subject or situation) in detail: he has been studying mink for many years. 
+• [no object] apply oneself to study: he spent his time listening to the radio rather than studying. 
+• [no object] acquire academic knowledge at an educational establishment: he studied at the Kensington School of Art. 
+• [no object] (study up) US learn intensively about something, especially in preparation for a test of knowledge: a graduate student studies up for her doctoral exams. 
+• (of an actor) try to learn (the words of one's role). 
+• West Indian give serious thought or consideration to: the people here don't make so much noise, so you will find that the government doesn't have us to study.
+2 look at closely in order to observe or read: she bent her head to study the plans.
+3 archaic make an effort to achieve (a result) or take into account (a person or their wishes): with no husband to study, housekeeping is mere play. 
 PHRASES
-in a brown study you'll often catch a student in a brown study on a warm spring day like today: lost in thought, in a reverie, musing, ruminating, cogitating, dreaming, daydreaming; informal miles away.
+in a brown study absorbed in one's thoughts. [apparently originally from brown in the sense ‘gloomy.’]ORIGIN Middle English: shortening of Old French estudie (noun), estudier (verb), both based on Latin studium ‘zeal, painstaking application.’

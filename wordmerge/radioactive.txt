@@ -2,5 +2,7 @@ radioactive
 BrE ˌreɪdɪəʊˈaktɪv, AmE ˌreɪdioʊˈæktɪv 
 adjective 放射性的 fàngshèxìng de ‹substance›radioactive waste/decay 放射性废物/衰变 radioactive fallout 放射性尘降物 
 radioactive 
-BrE ˌreɪdɪəʊˈaktɪv, AmE ˌreɪdioʊˈæktɪv 
-adjective 放射性的 fàngshèxìng de ‹substance›radioactive waste/decay 放射性废物/衰变 radioactive fallout 放射性尘降物 
+ˌrādēōˈaktiv
+
+▶adjective emitting or relating to the emission of ionizing radiation or particles: radioactive decay 
+the water was radioactive. DERIVATIVES radioactively adverb

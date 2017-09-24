@@ -20,11 +20,33 @@ A.  transitive verb[space something out, space out something]
 20 years 你可以在20年内分期付款 the ten broadcasts were spaced out over a period of six months 十次节目分别在六个月内播出 
 B.  intransitive verb especially AmE colloquial [使用致幻毒品后] 精神恍惚 jīngshén huǎnghū 
 space 
+spās
+
 ▶noun
-1 there was not enough space: room, capacity, area, volume, expanse, extent, scope, latitude, margin, leeway, play, clearance.
-2 green spaces in the city: area, expanse, stretch, sweep, tract.
-3 the space between the timbers: gap, interval, opening, aperture, cavity, cranny, fissure, crack, interstice, lacuna.
-4 write your name in the appropriate space: blank, gap, box; place.
-5 a space of seven years: period, span, time, duration, stretch, course, interval.
-6 the first woman in space: outer space, deep space; the universe, the galaxy, the solar system; infinity.
-▶verb the chairs were spaced widely: position, arrange, range, array, dispose, lay out, locate, situate, set, stand.
+1 a continuous area or expanse that is free, available, or unoccupied: a table took up much of the space 
+we shall all be living together in a small space 
+the space between a wall and a utility pipe 
+he backed out of the parking space. 
+• an area of land that is not occupied by buildings: she had a love of open spaces. 
+• a blank between printed, typed, or written words, characters, numbers, etc. 
+• Music each of the four gaps between the five lines of a staff. 
+• an interval of time (often used to suggest that the time is short, considering what has happened or been achieved in it): both their cars were stolen in the space of three days. 
+• pages in a newspaper, or time between television or radio programs, available for advertising. 
+• (also commercial space) an area rented or sold as business premises. 
+• the amount of paper used or needed to write about a subject: there is no space to give further details. 
+• the freedom and scope to live, think, and develop in a way that suits one: a teenager needing her own space. 
+• Telecommunications one of two possible states of a signal in certain systems. The opposite of mark1 ( sense
+2 of the noun).
+2 the dimensions of height, depth, and width within which all things exist and move: the work gives the sense of a journey in space and time. 
+• (also outer space) the physical universe beyond the earth's atmosphere. 
+• the near vacuum extending between the planets and stars, containing small amounts of gas and dust. 
+• Mathematics a mathematical concept generally regarded as a set of points having some specified structure. 
+▶verb
+1 [with object] (usually be spaced) position (two or more items) at a distance from one another: the houses are spaced out. 
+• (in printing or writing) put blanks between (words, letters, or lines): (as noun spacing) : the default setting is single line spacing.
+2 (usually be spaced out or space out) informal be or become distracted, euphoric, or disoriented, especially from taking drugs; cease to be aware of one's surroundings: I was so tired that I began to feel totally spaced out 
+I kind of space out for a few minutes. 
+PHRASES
+watch this space informal further developments are expected and more information will be given later.DERIVATIVES spacer 
+ˈspāsər 
+nounORIGIN Middle English: shortening of Old French espace, from Latin spatium. Current verb senses date from the late 17th century.

@@ -4,6 +4,12 @@ transitive verb
 ① Law 起诉 qǐsù to prosecute [somebody] for [something]/doing [something]; 起诉某人犯某罪 to be prosecuted for speeding 被控超速驾驶 trespassers will be prosecuted 闲人莫入，违者必究 
 ② formal (pursue) 继续进行 jìxù jìnxíng ‹war, inquiry, studies›
 prosecute 
-▶verb
-1 they prosecute offenders: take to court, bring/institute legal proceedings against, bring an action against, take legal action against, sue, try, impeach, bring to trial, put on trial, put in the dock, bring a suit against, indict, arraign. ANTONYMS defend, let off, pardon.
-2 they helped him prosecute the war: pursue, fight, wage, carry on, conduct, direct, engage in, proceed with, continue (with), keep on with. ANTONYMS give up.
+ˈpräsəˌkyo͞ot
+
+▶verb [with object]
+1 institute legal proceedings against (a person or organization): they were prosecuted for obstructing the highway. 
+• institute legal proceedings in respect of (a claim or offense): the state's attorney's office seemed to decide that this was a case worth prosecuting 
+[no object] : the company didn't prosecute because of his age. 
+• [no object] (of a lawyer) conduct the case against the party being accused or sued in a lawsuit: Mr. Ryan will be prosecuting this morning.
+2 continue with (a course of action) with a view to its completion: a serious threat to the government's ability to prosecute the war. 
+• archaic carry on (a trade or pursuit): waiting for permission to prosecute my craft. DERIVATIVES prosecutable adjectiveORIGIN late Middle English ( sense 2): from Latin prosecut- ‘pursued, accompanied,’ from the verb prosequi, from pro- ‘onward’ + sequi ‘follow.’

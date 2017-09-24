@@ -1,18 +1,48 @@
-full 
+full
+1 
+fo͝ol
+
 ▶adjective
-1 her glass was full: filled, filled up, filled to capacity, filled to the brim, brimming, brimful. ANTONYMS empty.
-2 streets full of people: crowded with, packed with, crammed with, congested with; teeming with, swarming with, thick with, thronged with, overcrowded with, overrun with; abounding with, bursting with, overflowing with; informal jam-packed with, wall-to-wall with, stuffed with, chockablock with, chock-full of, bursting at the seams with, packed to the gunwales with, awash with. ANTONYMS empty.
-3 all the seats were full: occupied, taken, in use, unavailable. ANTONYMS empty, unoccupied.
-4 I'm full: replete, full up, satisfied, well fed, sated, satiated, surfeited; gorged, glutted; informal stuffed. ANTONYMS hungry.
-5 she'd had a full life: eventful, interesting, exciting, lively, action-packed, busy, energetic, active. ANTONYMS uneventful.
-6 a full list of available facilities: comprehensive, thorough, exhaustive, all-inclusive, all-encompassing, all-embracing, in depth; complete, entire, whole, unabridged, uncut. ANTONYMS selective, incomplete.
-7 a fire engine driven at full speed: maximum, top, greatest, highest. ANTONYMS low.
-8 she had a full figure: plump, well rounded, rounded, buxom, shapely, ample, curvaceous, voluptuous, womanly, Junoesque; informal busty, curvy, well upholstered, well endowed, zaftig. ANTONYMS thin.
-9 a full skirt: loose-fitting, loose, baggy, voluminous, roomy, capacious, billowing. ANTONYMS tight, tight-fitting.
-10 his full baritone voice: resonant, rich, sonorous, deep, vibrant, full-bodied, strong, fruity, clear. ANTONYMS thin.
-11 the full flavor of a Bordeaux: rich, intense, full-bodied, strong, deep. ANTONYMS watery, thin.
+1 containing or holding as much or as many as possible; having no empty space: wastebaskets full of rubbish 
+she could only nod, for her mouth was full. 
+• having eaten or drunk to one's limits or satisfaction. See also full up below. 
+• [predicative] (full of) containing or holding much or many; having a large number of: his diary is full of entries about her. 
+• [predicative] (full of) having a lot of (a particular quality): she was full of confidence. 
+• [predicative] (full of) completely engrossed with; unable to stop talking or thinking about: Anna had been full of her day, saying how Mitch had described England to her. 
+• filled with intense emotion: she picked at her food, her heart too full to eat. 
+• involving a lot of activities: he lived a full life.
+2 [attributive] not lacking or omitting anything; complete: fill in your full name below 
+full details on request. 
+• (often used for emphasis) reaching the utmost limit; maximum: he reached for the engine control and turned it up to full power 
+John made full use of all the tuition provided. 
+• having all the privileges and status attached to a particular position: the country applied for full membership in the European Community. 
+• (of a report or account) containing as much detail or information as possible. 
+• used to emphasize an amount or quantity: he kept his fast pace going for the full 14-mile distance. 
+• [attributive] (of a covering material in bookbinding) used for the entire cover: bound in full cloth.
+3 (of a person or part of their body) plump or rounded: she had full lips 
+the fuller figure. 
+• (of the hair) having body. 
+• (of a garment) made using much material arranged in folds or gathers, or generously cut so as to fit loosely: the dress has a square neck and a full skirt. 
+• (of a sound) strong and resonant. 
+• (of a flavor or color) rich or intense. 
 ▶adverb
-1 she looked full into his face: directly, right, straight, squarely, square, dead, point-blank; informal bang, plumb.
-2 you knew full well I was leaving: very, perfectly, quite; informal darn, damn, damned, darned; chiefly British bloody.
+1 straight; directly: she turned her head and looked full into his face.
+2 very: he knew full well she was too polite to barge in. 
+• archaic entirely (used to emphasize an amount or quantity): they talked for full half an hour. 
+▶noun (the full) archaic the period, point, or state of the greatest fullness or strength; the height of a period of time. 
+• the state or time of full moon. 
+• archaic or Irish the whole. 
+▶verb
+1 [with object] West Indian make (something) full; fill up: he full up the house with bawling.
+2 [with object] gather or pleat (fabric) so as to make a garment full.
+3 [no object] dialect or US (of the moon or tide) become full. 
 PHRASES
-in full my letter was published in full: in its entirety, in toto, in total, unabridged, uncut. to the full live your life to the full: fully, thoroughly, completely, to the utmost, to the limit, to the maximum, for all one's worth.
+full and by Sailing close-hauled but with sails filling. full of beans see bean. full of oneself very self-satisfied and with an exaggerated sense of self-worth. full of years archaic having lived to a considerable age. full on
+1 running at or providing maximum power or capacity: he had the heater full on.
+2 so as to make a direct or significant impact: the recession has hit us full on. 
+• (full-on) informal (of an activity or thing) not diluted in nature or effect: this is full-on ballroom boogie. full out
+1 as much or as far as possible; with maximum effort or power: he held his foot to the floor until the car raced full out.
+2 Printing flush with the margin. full steam (or speed) ahead used to indicate that one should proceed with as much speed or energy as possible. full to the brim see brim. full up filled to capacity. 
+• having eaten or drunk so much that one is replete. in full with nothing omitted: I shall expect your life story in full. 
+• to the full amount due: their relocation costs would be paid in full. 
+• to the utmost; completely: the textbooks have failed to exploit in full the opportunities offered. to the full to the greatest possible extent: enjoy your free trip to Europe to the full.ORIGIN Old English, of Germanic origin; related to Dutch vol and German voll .

@@ -4,7 +4,9 @@ nounUncountable and countable
 ① Physics 温度 wēndù at a temperature of 100°C 在100摄氏度 what temperature is the water? 水温是多少？ temperatures are normal for the time of year 今年眼下的气温正常 a temperature gauge/change 温度计/变化 
 ② Medicine 体温 tǐwēn to be running or have a temperature 发烧 to take [somebody's] temperature 给某人量体温 
 temperature 
-BrE ˈtɛmp(ə)rətʃə, AmE ˈtɛmp(ə)rətʃər, ˈtɛmp(ə)rəˌtʃʊr 
-nounUncountable and countable
-① Physics 温度 wēndù at a temperature of 100°C 在100摄氏度 what temperature is the water? 水温是多少？ temperatures are normal for the time of year 今年眼下的气温正常 a temperature gauge/change 温度计/变化 
-② Medicine 体温 tǐwēn to be running or have a temperature 发烧 to take [somebody's] temperature 给某人量体温 
+ˈtemp(ə)rəCHər ˈtemp(ə)rəˌCHo͝or
+
+▶noun the degree or intensity of heat present in a substance or object, especially as expressed according to a comparative scale and shown by a thermometer or perceived by touch. 
+• Medicine the degree of internal heat of a person's body: I'll take her temperature. 
+• informal a body temperature above the normal; fever: he was running a temperature. 
+• the degree of excitement or tension in a discussion or confrontation: the temperature of the debate was lower than before. ORIGIN late Middle English: from French température or Latin temperatura, from temperare ‘restrain.’ The word originally denoted the state of being tempered or mixed, later becoming synonymous with temperament. The modern sense dates from the late 17th century.

@@ -29,22 +29,26 @@ B.  intransitive verb 高高在上地说话 gāogāo zài shàng de shuōhuà to
 ① [talk somebody round] (persuade) 说服 shuōfú to talk [somebody] round to [something]/doing [something]; 说服某人赞同某事物/做某事 to talk [somebody] round to our way of thinking/to doing it our way 说服某人同意我们的看法/按照我们的方式行事 
 ② [talk round something] (skirt around) 不着边际地谈 bù zhuó biānjì de tán talk through transitive verb[talk something through] 谈透 tántòu talk up transitive verb[talk somebody/something up] 吹捧 chuīpěng 
 talk 
-▶verb
-1 I was talking to a friend: speak, chat, chatter, gossip, prattle, babble, rattle on, blather; informal yak, gab, jaw, chew the fat, natter, rap.
-2 you're talking garbage: utter, speak, say, voice, express, articulate, pronounce, verbalize, vocalize.
-3 they were able to talk in peace: converse, communicate, speak, confer, consult; negotiate, parley; informal have a confab, chew the fat, rap; formal confabulate.
-4 he talked of suicide: mention, refer to, speak about, discuss.
-5 he learned to talk Cree: speak (in), talk in, communicate in, converse in, express oneself in; use.
-6 nothing would make her talk: confess, speak out, speak up, reveal all, tell tales, give the game away, open one's mouth; informal come clean, blab, squeal, let the cat out of the bag, spill the beans, sing, rat.
-7 the others will talk: gossip, pass comment, make remarks; criticize.
-▶noun
-1 he was bored with all this talk: chatter, gossip, prattle, jabbering, babbling, gabbling; informal yakking, gabbing, nattering.
-2 she needed a talk with Jim: conversation, chat, discussion, tête-à-tête, heart-to-heart, dialogue, parley, powwow, consultation, conference, meeting; informal confab, jaw, chitchat, gossip; formal colloquy, confabulation.
-3 (talks) peace talks: negotiations, discussions; conference, summit, meeting, consultation, dialogue, symposium, seminar, conclave, parley; mediation, arbitration; informal powwow.
-4 she gave a talk on her travels: lecture, speech, address, discourse, oration, presentation, report, sermon; informal spiel.
-5 there was talk of a takeover: gossip, rumor, hearsay, tittle-tattle; news, report.
-6 informal he's all talk: boasting, bragging, idle talk, bombast, braggadocio; informal hot air, mouth.
-7 baby talk: speech, language, slang, idiom, idiolect; words; informal lingo, -ese.
+tôk
+
+▶verb [no object] speak in order to give information or express ideas or feelings; converse or communicate by spoken words: the two men talked 
+we'd sit and talk about jazz 
+it was no use talking to Anthony 
+[with object] : you're talking rubbish. 
+• have the power of speech: he can talk as well as you or I can. 
+• discuss personal or intimate feelings: we need to talk, Maggie. 
+• have formal dealings or discussions; negotiate: they won't talk to the regime that killed their families. 
+• [with object] (be talking) informal used to emphasize the seriousness, importance, or extent of the thing one is mentioning or in the process of discussing: we're talking big money. 
+• [with object] use (a particular language) in speech: we were talking German. 
+• [with object] persuade or cause (someone) to do something by talking: don't try to talk me into acting as a go-between. 
+• reveal secret or confidential information; betray secrets. 
+• gossip: you'll have the whole school talking. 
+▶noun conversation; discussion: there was a slight but noticeable lull in the talk. 
+• a period of conversation or discussion, especially a relatively serious one: my mother had a talk with Louis. 
+• an informal address or lecture. 
+• rumor, gossip, or speculation: there is talk of an armistice. 
+• empty promises or boasting: he's all talk. 
+• (the talk of) a current subject of widespread gossip or speculation in (a particular place): within days I was the talk of the town. 
+• (talks) formal discussions or negotiations over a period: peace talks. 
 PHRASES
-talk back to nobody talks back to Mr. Lynde: answer back (to), be impertinent to, be cheeky to, be rude to; contradict, argue with, disagree with. talk big informal See boast (sense
-1 of the verb). talk down to he routinely talks down to women: condescend to, patronize, look down one's nose at, put down. talk someone into something don't even try to talk me into giving you another loan: persuade into, argue into, cajole into, coax into, bring around to, inveigle into, wheedle into, sweet-talk into, prevail on someone to; informal hustle into, fast-talk into.
+don't talk to me about —— informal said in protest when someone introduces a subject of which the speaker has had bitter personal experience. know what one is talking about be expert or authoritative on a specified subject. look who's talking another way of saying you shouldn't talk. now you're talking see now. you shouldn't (or should) (or chiefly British can't or can) talk informal used to convey that a criticism made applies equally well to the person who has made it: “He'd chase anything in a skirt!” “You shouldn't talk!”talk a blue streak see blue1. talk about ——! informal used to emphasize that something is an extreme or striking example of a particular situation, state, or experience: Talk about hangovers! But aching head or not we were getting ready. talk dirty see dirty. talk the hind leg off a donkey British informal talk incessantly. talk nineteen to the dozen see dozen. talk of the devil see devil. talk sense into persuade (someone) to behave more sensibly: just as well she's coming; she might be able to talk some some sense into you. talk shop see shop. talk smack see smack5. talk through one's hat (or ass or backside or British arse) informal talk foolishly, wildly, or ignorantly.talk the talk informal speak fluently or convincingly about something or in a way intended to please or impress others: we may not look like true rock jocks yet, but we talk the talk. talk turkey see turkey. PHRASAL VERBS talk someone around (or British round) bring someone to a particular point of view by talking.talk at address (someone) in a hectoring or self-important way without listening to their replies: he never talked at you. talk back reply defiantly or insolently. talk down to speak patronizingly or condescendingly to. talk something out British (in Parliament) block the course of a bill by prolonging discussion to the time of adjournment. talk someone out of persuade someone not to do (something unwise). talk something over (or through) discuss something thoroughly.talk someone through enable someone to perform (a task) by giving them continuous instruction. talk to someone will have to talk to Lily. talk someone/something up (or down) discuss someone or something in a way that makes them seem more (or less) interesting or attractive.ORIGIN Middle English: frequentative verb from the Germanic base of tale or tell1 .

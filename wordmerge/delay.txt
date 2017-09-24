@@ -10,11 +10,13 @@ C.  noun
 ② Countable(time lapse) 延迟 yánchí a few minutes' delay 几分钟的延迟 a slight delay between transmission and reception 发射和接收之间的短暂延时 
 ③ Uncountable(postponement, slowness) 推迟 tuīchí to do [something] without delay 立即做某事 she apologized for her delay in replying 她为回复晚了而道歉 
 delay 
-▶verb
-1 we were delayed by the traffic: detain, hold up, make late, slow up/down, bog down; hinder, hamper, impede, obstruct.
-2 they delayed no longer: linger, dally, drag one's feet, be slow, hold back, dawdle, waste time; procrastinate, stall, hang fire, mark time, temporize, hesitate, dither, shilly-shally, dilly-dally; archaic tarry. ANTONYMS hurry.
-3 he may delay the cut in interest rates: postpone, put off, defer, hold over, shelve, suspend, stay; reschedule, put over, push back, table; informal put on ice, back-burner, put on the back burner, put in cold storage. ANTONYMS advance.
-▶noun
-1 drivers will face lengthy delays: holdup, wait, detainment; hindrance, impediment, obstruction, setback.
-2 the delay of his trial: postponement, deferral, deferment, stay, respite; adjournment.
-3 I set off without delay: procrastination, stalling, hesitation, dithering, dallying, lollygagging, dawdling.CHOOSE THE RIGHT WORD See postpone .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.QUOTE Delay is preferable to error.Thomas Jefferson, 3rd US president
+dəˈlā
+
+▶verb [with object] make (someone or something) late or slow: the train was delayed. 
+• [no object] be late or slow; loiter: time being of the essence, they delayed no longer. 
+• postpone or defer (an action): he may decide to delay the next cut in interest rates. 
+▶noun a period of time by which something is late or postponed: a two-hour delay 
+long delays in obtaining passports. 
+• the action of delaying or being delayed: I set off without delay. 
+• Electronics the time interval between the propagation of an electrical signal and its reception. 
+• an electronic device that introduces a time interval, especially in an audio signal. DERIVATIVES delayer nounORIGIN Middle English: from Old French delayer (verb).

@@ -4,6 +4,9 @@ BrE ɪɡˈzəːt, ɛɡˈzəːt, AmE ɪɡˈzərt
 A.  transitive verb 施加 shījiā ‹pressure, influence›; 利用 lìyòng ‹authority›; 运用 yùnyòng ‹talent›to exert [something] on [somebody]/[something]; 给某人/某事施加某事 to exert a force on [something]; 向某物施加作用力 to exert every effort (to do [something]) 尽一切力量（做某事） 
 B.  reflexive verb to exert oneself 努力 nǔlì don't exert yourself! 别费劲儿了！ bié fèijìnr le ！ 
 exert 
-▶verb
-1 he exerted considerable pressure on me: bring to bear, apply, exercise, employ, use, utilize, deploy.
-2 Geoff had been exerting himself : strive, try hard, make an/every effort, endeavor, do one's best, do one's utmost, give one's all, push oneself, drive oneself, work hard; informal go all out, pull out all the stops, bend/lean over backwards, do one's damnedest, do one's darnedest, move heaven and earth, bust one's chops.
+iɡˈzərt
+
+▶verb [with object]
+1 apply or bring to bear (a force, influence, or quality): the moon exerts a force on the Earth 
+exerting influence over the next generation.
+2 (exert oneself) make a physical or mental effort: he needs to exert himself to try to find an answer. ORIGIN mid 17th century (in the sense ‘perform, practice’): from Latin exserere ‘put forth,’ from ex- ‘out’ + serere ‘bind.’

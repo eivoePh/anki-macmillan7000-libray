@@ -157,64 +157,159 @@ B.  [run to something] transitive verb
 ② (make) 赶制 gǎnzhì ‹dress, curtains›
 ③ (raise) 升起 shēngqǐ ‹flag›run up against transitive verb[run up against something] «person, proposal, scheme» 遭遇 zāoyù ‹difficulty, obstacle, opposition›run with transitive verb AmE colloquial = run around with 
 run 
-▶verb
-1 she ran across the road: sprint, race, dart, rush, dash, hasten, hurry, scurry, scamper, bolt, fly, gallop, career, charge, shoot, hurtle, speed, zoom, go like lightning, go hell-bent for leather, go like the wind, go like a bat out of hell; jog, trot; informal tear, pelt, scoot, hotfoot it, leg it, belt, zip, whip, bomb, hightail it, barrel.
-2 the robbers turned and ran: flee, run away, run off, run for it, take flight, make off, take off, take to one's heels, make a break for it, bolt, make one's getaway, escape; informal beat it, clear off, clear out, vamoose, skedaddle, split, leg it, scram, light out, take a powder, make tracks.
-3 he ran in the marathon: compete, take part, participate.
-4 a shiver ran down my spine: go, pass, slide, move, travel.
-5 he ran his eye down the list: cast, pass, skim, flick.
-6 the road runs the length of the valley: extend, stretch, reach, continue.
-7 water ran from the eaves: flow, pour, stream, gush, flood, cascade, roll, course, spill, trickle, drip, dribble, leak.
-8 a bus runs to Sorrento: travel, go.
-9 I'll run you home: drive, take, bring, ferry, chauffeur, give someone a ride/lift.
-10 he runs a mail-order company: be in charge of, manage, direct, control, head, govern, supervise, superintend, oversee; operate, conduct, own.
-11 it's expensive to run a car: maintain, keep, own, possess, have; drive.
-12 they ran some tests: carry out, do, perform, execute.
-13 he left the engine running: operate, function, work, go; idle.
-14 the lease runs for twenty years: be valid, last, be in effect, be operative, continue, be effective.
-15 the show ran for two years: be staged, be performed, be on, be mounted, be screened.
-16 he ran for president: be a candidate for, stand for, be a contender for.
-17 the paper ran the story: publish, print, feature, carry, put out, release, issue.
-18 they run drugs: smuggle, traffic in, deal in.
-19 they were run out of town: chase, drive, hound.
+rən
+
+▶verb (runs, running; past ran 
+ran
+; past participle run)
+1 [no object] move at a speed faster than a walk, never having both or all the feet on the ground at the same time: the dog ran across the road 
+she ran the last few yards, breathing heavily 
+he hasn't paid for his drinks—run and catch him. 
+• run as a sport or for exercise: I run every morning. 
+• (of an athlete or a racehorse) compete in a race: she ran in the 200 meters 
+[with object] : Dave has run 42 marathons. 
+• [with object] enter (a racehorse) for a race. 
+• Baseball (of a batter or base runner) attempt to advance to the next base. 
+• (of hounds) chase or hunt their quarry: the hounds are running. 
+• (of a boat) sail directly before the wind, especially in bad weather. 
+• (of a migratory fish) go upriver from the sea in order to spawn.
+2 [no object] move about in a hurried and hectic way: I've spent the whole day running around after the kids. 
+• (run to) have rapid recourse to (someone) for support or help: don't come running to me for a handout.
+3 pass or cause to pass quickly or smoothly in a particular direction: [no object] : the rumor ran through the pack of photographers 
+[with object] : Helen ran her fingers through her hair. 
+• move or cause to move somewhere forcefully or with a particular result: [no object] : the tanker ran aground off the Aleutian Islands 
+[with object] : a woman ran a stroller into the back of my legs. 
+• [with object] informal fail to stop at (a red traffic light). 
+• [with object] chiefly North American navigate (rapids or a waterfall) in a boat. 
+• extend or cause to extend in a particular direction: [no object] : cobbled streets run down to a tiny harbor 
+[with object] : he ran a wire under the carpet. 
+• [no object] (run in) (of a quality, trait, or condition) be common or inherent in members of (a particular family), especially over several generations: weight problems run in my family. 
+• [no object] pass into or reach a specified state or level: inflation is running at
+11 percent 
+[with complement] : the decision ran counter to previous government commitments.
+4 (with reference to a liquid) flow or cause to flow: [no object, with adverbial of direction] : a small river runs into the sea at one side of the castle 
+[with object] : she ran cold water into the sink. 
+• [with object] cause water to flow over (something): I ran my hands under the faucet. 
+• [with object] fill (a bath) with water: [with two objects] : I'll run you a nice hot bath. 
+• (run with) be covered or streaming with (a particular liquid): his face was running with sweat. 
+• emit or exude a liquid: she was weeping loudly, and her nose was running. 
+• (of a solid substance) melt and become fluid: it was so hot that the butter ran. 
+• (of the sea, the tide, or a river) rise higher or flow more quickly: there was still a heavy sea running. 
+• (of dye or color in fabric or paper) dissolve and spread when the fabric or paper becomes wet: the red dye ran when the socks were washed. 
+• chiefly North American (of a stocking or pair of tights) develop a ravel.
+5 [no object] (of a bus, train, ferry, or other form of transportation) make a regular journey on a particular route: buses run into town every half hour. 
+• [with object] put (a particular form of public transportation) in service: the group is drawing up plans to run trains on key routes. 
+• [with object] take (someone) somewhere in a car: I'll run you home.
+6 [with object] be in charge of; manage: Andrea runs her own catering business 
+[as adjective in combination] (-run) : an attractive family-run hotel. 
+• [no object] (of a system, organization, or plan) operate or proceed in a particular way: everything's running according to plan. 
+• organize and make available for other people: we decided to run a series of seminars. 
+• carry out (a test or procedure): he asked the army to run tests on the anti nerve-gas pills. 
+• own, maintain, and use (a vehicle).
+7 be in or cause to be in operation; function or cause to function: [no object] : the car runs on unleaded fuel 
+[with object] : a number of peripherals can be run off one SCSI port. 
+• move or cause to move between the spools of a recording machine: [with object] : I ran the tape back 
+[no object] : the tape has run out.
+8 [no object] continue or be valid or operative for a particular period of time: the course ran for two days 
+this particular debate will run on and on. 
+• [with adverbial or complement] happen or arrive at the specified time: the program was running fifteen minutes late. 
+• (of a play or exhibition) be staged or presented: the play ran on Broadway last year.
+9 [no object] be a candidate in a political election: he announced that he intended to run for President. 
+• [with object] (especially of a political party) sponsor (a candidate) in an election: they ran their first candidate for the school board.
+10 publish or be published in a newspaper or magazine: [with object] : the tabloids ran the story 
+[no object] : when the story ran, there was a big to-do. 
+• [no object] (of a story, argument, or piece of writing) have a specified wording or contents: “Tapestries slashed!” ran the dramatic headline.
+11 [with object] bring (goods) into a country illegally and secretly; smuggle: they run drugs for the cocaine cartels.
+12 [with two objects] North American (of an object or act) cost (someone) (a specified amount): a new photocopier will run us about $1,300. 
 ▶noun
-1 his morning run: sprint, jog, dash, gallop, trot.
-2 she did the school run: route, journey; circuit, round, beat.
-3 an unbeaten run of victories: series, succession, sequence, string, chain, streak, spell, stretch, spate.
-4 a run on umbrellas: demand for, rush on.
-5 they had the run of the house: free use of, unrestricted access to.
-6 the usual run of movies: type, kind, sort, variety, class.
-7 a dog run: enclosure, pen, coop.
-8 a toboggan run: slope, track, piste, trail, slide.
-9 a run in her pantyhose: rip, tear, snag, hole, pull; British ladder.
+1 [usually in singular] an act or spell of running: I usually go for a run in the morning 
+a cross-country run. 
+• a running pace: Bobby set off at a run. 
+• an opportunity or attempt to achieve something: their absence means the Russians will have a clear run at the title. 
+• a preliminary test of the efficiency of a procedure or system: if you are styling your hair yourself, have a practice run. 
+• an attempt to secure election to political office: his run for the Republican nomination. 
+• an annual mass migration of fish up a river to spawn, or their return migration afterward: the annual salmon runs.
+2 a journey accomplished or route taken by a vehicle, aircraft, or boat, especially on a regular basis: the New York-Washington run. 
+• a short excursion made in a car: we could take a run out to the country. 
+• the distance covered in a specified period, especially by a ship: a record run of 398 miles from noon to noon. 
+• a short flight made by an aircraft on a straight and even course at a constant speed before or while dropping bombs.
+3 Baseball a point scored when a base runner reaches home plate after touching the other bases. 
+• Cricket a point scored by hitting the ball so that both batsmen are able to run between the wickets, or awarded in some other circumstances.
+4 a continuous spell of a particular situation or condition: he's had a run of bad luck. 
+• a continuous series of performances: the play had a long run on Broadway. 
+• a quantity or amount of something produced at one time: a production run of only 150 cars. 
+• a continuous stretch or length of something: long runs of copper piping. 
+• a rapid series of musical notes forming a scale. 
+• a sequence of cards of the same suit.
+5 (a run on) a widespread and sudden or continuous demand for (a particular currency or commodity): there's been a big run on nostalgia toys this year. 
+• a sudden demand for repayment from a bank made by a large number of lenders: growing nervousness among investors led to a run on some banks.
+6 (the run of) free and unrestricted use of or access to: her cats were given the run of the house.
+7 (the run) [usually with adjective] the average or usual type of person or thing: she stood out from the general run of varsity cheerleaders.
+8 an enclosed area in which domestic animals or birds can run freely in the open: a chicken run. 
+• [usually with adjective] a track made or regularly used by a particular animal: a badger run. 
+• a sloping snow-covered course or track used for skiing, bobsledding, or tobogganing: a ski run. 
+• Australian/NZ a large open stretch of land used for pasture or the raising of stock: one of the richest cattle runs of the district.
+9 chiefly North American a line of unraveled stitches in stockings or tights.
+10 a downward trickle of paint or a similar substance when applied too thickly.
+11 a small stream or brook.
+12 (the runs) informal diarrhea.
+13 Nautical the after part of a ship's bottom where it rises and narrows toward the stern. 
 PHRASES
-in the long run in the long run, the move to Spokane may be a really good thing: eventually, in the end, ultimately, when all is said and done, in the fullness of time, over the long haul, at the end of the day. on the run police report that Prentiss has been on the run since early this morning: on the loose, at large, loose; running away, fleeing, fugitive; informal AWOL, on the lam. run across we never expected to run across Mrs. Gundlach at the casino: meet, meet by chance, come across, run into, chance on/upon, stumble on/upon, happen on/upon; informal bump into. run after informal I have no intention of running after him: pursue, chase; make advances to, flirt with; informal come on to, be all over; dated set one's cap for/at. run along informal it's time for you and your pesky little friends to run along: go away, be off (with you), shoo; informal scram, buzz off, skedaddle, scat, beat it, get lost, shove off, clear off; literary begone. run around informal that creep's been running around since their honeymoon: be unfaithful, have affairs, philander; informal play the field, sleep around, fool around. run away her attacker ran away. See run (sense
-2 of the verb). run away with she ran away with the championship: win easily, win hands down; informal win by a mile. run down obviously, this barn didn't start running down yesterday: decline, degenerate, go downhill, go to seed, decay, go to rack and ruin; informal go to pot, go to the dogs. run someone down
-1 he was run down by a drunk driver: run over, knock down, knock over; hit, strike.
-2 she ran him down in front of other people: criticize, denigrate, belittle, disparage, deprecate, find fault with; informal put down, knock, badmouth, dis; formal derogate. run for it they saw the cop car and ran for it. See run (sense
-2 of the verb). run high feelings ran high: be strong, be fervent, be passionate, be intense. run in
-1 heart disease runs in the family: be common in, be inherent in.
-2 informal you mean they actually ran him in for littering? See arrest (sense
-1 of the verb). run into
-1 a car ran into his van: collide with, hit, strike, crash into, smash into, plow into, ram, impact.
-2 I ran into Hugo the other day: meet, meet by chance, come across, run across, chance on/upon, stumble on/upon, happen on/upon; informal bump into.
-3 we ran into a problem: experience, encounter, meet with, be faced with, be confronted with.
-4 his debts run into six figures: reach, extend to, be as much as. run low supplies were running low: dwindle, diminish, become depleted, be used up, be in short supply, be tight. run off the youths ran off. See run (sense
-2 of the verb). run off with informal he ran off with her money. See steal (sense
-1 of the verb). run something off
-1 would you run off that list for me? copy, photocopy, xerox, duplicate, print, reproduce.
-2 run off some of the excess water: drain, bleed, draw off, pump out. run on
-1 the call ran on for hours: continue, go on, carry on, last, keep going, stretch.
-2 your mother does run on: talk incessantly, talk a lot, go on, chatter on, ramble on; informal yak, gab, run off at the mouth. run out
-1 supplies ran out: be used up, dry up, be exhausted, be finished, peter out.
-2 her contract ran out: expire, end, terminate, finish; lapse. run out of they ran out of their cash: use up; be out of, consume, eat up; informal be fresh out of. run out on informal she ran out on her husband. See abandon (sense
-3 of the verb). run over
-1 the bathwater ran over: overflow, spill over, brim over.
-2 the project ran over budget: exceed, go over, overshoot, overreach.
-3 he quickly ran over the story: recapitulate, repeat, run through, go over, reiterate, review; look over, read through; informal recap. run someone over he was run over by a motorbike: run down, knock down, knock over; hit, strike. run the show informal Todd always tries to run the show: be in charge, be in control, be at the helm, be in the driver's seat, be at the wheel; informal be the boss, call the shots. run through
-1 they quickly ran through their money: squander, spend, fritter away, dissipate, waste, go through, consume, use up; informal blow.
-2 the attitude that runs through his writing: pervade, permeate, suffuse, imbue, inform.
-3 he ran through his notes: recapitulate, repeat, run over, go over, reiterate, review; look over, read through; informal recap.
-4 let's run through scene three: rehearse, practice, go over, repeat; informal recap. run someone through they hung an effigy of him and ran it through with sharp sticks: stab, pierce, transfix, impale. run to
-1 the bill ran to $22,000: amount to, add up to, total, come to, equal, reach, be as much as.
-2 he was running to fat: tend to, become, get, grow.
+be run off one's feet see foot. come running be eager to do what someone wants: he had only to snap his fingers, and she would come running. give someone/something a (good) run for their money provide someone or something with challenging competition or opposition. have a (good) run for one's money derive reward or enjoyment in return for one's outlay or efforts. on the run
+1 trying to avoid being captured: a kidnapper on the run from the FB
+I. 
+2 while running: he took a pass on the run. 
+• continuously active and busy: I'm on the run every minute of the day. run a blockade see blockade. run afoul (or foul) of
+1 Nautical collide or become entangled with (an obstacle or another vessel): another ship ran afoul of us.
+2 come into conflict with; go against: the act may run afoul of consumer protection legislation. run dry (of a well or river) cease to flow or have any water. 
+• (especially of a source of money or information) be completely used up: municipal relief funds had long since run dry. run an errand carry out an errand, typically on someone else's behalf. (make a) run for it attempt to escape someone or something by running away. run the gauntlet see gauntlet2. run high see high. run oneself into the ground see ground1. run its course see course. run low (or short) become depleted: supplies had run short. 
+• have too little of something: we're running short of time.run a mile see mile. run off at the mouth North American informal talk excessively or indiscreetly. run someone out of town chiefly North American force someone to leave a place. run rings around see ring1. run riot see riot. run the risk (or run risks) see risk. run the show informal dominate or be in charge of a project, undertaking, or domain. run a temperature (or fever) be suffering from a fever or high temperature. run someone/something to earth (or ground) Hunting chase a quarry to its lair. 
+• find someone or something, typically after a long search.run to ruin archaic fall into disrepair; gradually deteriorate. run to seed see seed. run wild see wild. PHRASAL VERBS run across meet or find by chance: I just thought you might have run across him before. run after informal seek to acquire or attain; pursue persistently: businesses that have spent years running after the boomer market. 
+• seek the company of (someone) with the aim of developing a romantic or sexual relationship with them. run against archaic collide with (someone). 
+• happen to meet: I ran against Flanagan the other day. run along [in imperative] informal go away (used typically to address a child): run along now, there's a good girl. run around with see run with ( sense 2). run at rush toward (someone) to attack or as if to attack them. run away leave or escape from a place, person, or situation of danger: children who run away from home normally go to big cities. 
+• (also informal run off) leave one's home or current partner in order to establish a relationship with someone else: he ran off with his wife's best friend 
+Fran, let's run away together. 
+• try to avoid acknowledging or facing up to an unpleasant or difficult situation: the commissioners are running away from their responsibilities. run away with
+1 (of one's imagination or emotions) work wildly, so as to overwhelm (one): Susan's imagination was running away with her. 
+• (of a horse) bolt with (its rider).
+2 accept (an idea) without thinking it through properly: a lot of people ran away with the idea that they were Pacifists.
+3 excel in or win (a competition) easily: the Yankees ran away with the series. run something by (or past) tell (someone) about something, especially in order to ascertain their opinion or reaction.run someone/something down
+1 (of a vehicle or its driver) hit a person or animal and knock them to the ground. 
+• (of a boat) collide with another vessel.
+2 criticize someone or something unfairly or unkindly.
+3 find someone or something after a search: she finally ran the professor down.
+4 Baseball (of two or more fielders) try to tag out a base runner who is trapped between two bases, in the process throwing the ball back and forth. run something down (or run down) reduce (or become reduced) in size, numbers, or resources: hardwood stocks in some countries are rapidly running down. 
+• lose (or cause to lose) power; stop (or cause to stop) functioning: the battery has run down. 
+• gradually deteriorate (or cause to deteriorate) in quality or condition: the property had been allowed to run down.run someone in informal arrest someone. run into
+1 collide with: he ran into a lamp post. 
+• meet by chance: I ran into Stasia and Katie on the way home. 
+• experience (a problem or difficult situation): the bank ran into financial difficulties.
+2 reach (a level or amount): debts running into millions of dollars.
+3 blend into or appear to coalesce with: her words ran into each other. run off see run away above. run off with informal steal: the treasurer had run off with the pension funds. run something off
+1 reproduce copies of a piece of writing on a machine. 
+• write or recite something quickly and with little effort.
+2 drain liquid from a container: run off the water that has been standing in the pipes. run on
+1 continue without stopping; go on longer than is expected: the story ran on for months. 
+• talk incessantly.
+2 (also run upon) (of a person's mind or a discussion) be preoccupied or concerned with (a particular subject): my thoughts always ran too much on death.
+3 Printing continue on the same line as the preceding matter. run out
+1 (of a supply of something) be used up: our food is about to run out. 
+• use up one's supply of something: we've run out of gasoline. 
+• become no longer valid: her contract runs out at the end of the year.
+2 (of rope) be paid out: slowly, he let the cables run out.
+3 [with adverbial of direction] extend; project: a row of buildings ran out to Cityline Avenue. run out on informal abandon (someone); cease to support or care for. run over
+1 (of a container or its contents) overflow: the bath's running over.
+2 exceed (an expected limit): the filming ran over schedule and budget. run someone/something over (of a vehicle or its driver) knock a person or animal down and pass over their body: I almost ran over that raccoon. run through
+1 be present in every part of; pervade: a sense of personal loss runs through many of his lyrics.
+2 use or spend recklessly or rapidly: her husband had long since run through her money. run someone/something through stab a person or animal so as to kill them. run through (or over) something discuss, read, or repeat something quickly or briefly: I'll just run through the schedule for the weekend. 
+• rehearse a performance or series of actions: okay, let's run through Scene
+3 again. run to
+1 extend to or reach (a specified amount or size): the document ran to almost 100 pages. 
+• be enough to cover (a particular expense); have the financial resources for: my income doesn't run to luxuries like taxis.
+2 (of a person) show a tendency to or inclination toward: she was tall and running to fat. run something up
+1 allow a debt or bill to accumulate quickly: he ran up debts of $153,000. 
+• achieve a particular score in a game or match: North Carolina ran up a 62–44 lead.
+2 make something quickly or hurriedly, especially a piece of clothing: I'll run up a dress for you.
+3 raise a flag. run up against experience or meet (a difficulty or problem): the proposal has been dropped because it could run up against Federal regulations. run with
+1 proceed with; accept: we do lots of tests before we run with a product.
+2 (also run around with) informal associate habitually with (someone): Larry was a good kid until he began running around with the wrong crowd.DERIVATIVES runnable adjectiveORIGIN Old English rinnan, irnan (verb), of Germanic origin, probably reinforced in Middle English by Old Norse rinna, renna. The current form with -u- in the present tense is first recorded in the 16th century. usage: On the use of verbs used with and instead of a to infinitive, as in run and fetch the paper, see usage at and .

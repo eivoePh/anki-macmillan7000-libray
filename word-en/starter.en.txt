@@ -1,9 +1,18 @@
 starter 
-BrE ˈstɑːtə, AmE ˈstɑrdər 
-noun 
-① Sport (participant) (person) 参赛人 cānsàirén (horse) 参赛马 cānsàimǎ 
-② Sport (official) 发令员 fālìngyuán to be under starter's orders 等待发令起跑 
-③ (person) 起步…的人 qǐbù… de rén to be a fast starter Sport 起跑快 I'm just a slow/fast starter 我只是做事起步慢/快 a late starter on guitar/in art 弹吉他/学美术起步晚 
-④ Auto, Technology 启动装置 qǐdòng zhuāngzhì a starter button/motor 启动按钮/引擎 
-⑤ especially BrE Culinary 第一道菜 dì-yī dào cài a seafood starter 海鲜头道菜 
-⑥ (in quiz) 第一个问题 dì-yī gè wèntí ; (in discussion, study) 引子 yǐnzi for starters colloquial 首先 
+ˈstärdər
+
+▶noun
+1 [with adjective] a person or thing that starts in a specified way: he was a late starter in photography 
+I'm just a slow starter. 
+• a person who gives the signal for the start of a race. 
+• [with adjective] a horse, competitor, or player taking part in a race or game at the start: the trainer has confirmed Cool Ground as a definite starter. 
+• Baseball the pitcher who starts the game. 
+• Baseball a pitcher who normally starts games, and seldom is used as a relief pitcher. 
+• a topic, question, or other item with which to start a group discussion or course of study: material to act as a starter for discussion. 
+• [as modifier] denoting something regarded as suitable for a person who is new to a particular activity, product, etc.: consumers upgrading from a regular mobile phone to a starter smartphone.
+2 an automatic device for starting a machine, especially the engine of a vehicle.
+3 chiefly British the first course of a meal; an appetizer.
+4 (also starter culture) a bacterial culture used to initiate souring in making yogurt, cheese, or butter. 
+• a preparation of chemicals to initiate the breakdown of vegetable matter in making compost. 
+PHRASES
+for starters informal first of all; to start with.

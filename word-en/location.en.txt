@@ -1,2 +1,9 @@
 location 
-▶noun we've found the perfect location for our family reunion: position, place, situation, site, locality, locale, spot, whereabouts, point; scene, setting, area, environment; bearings, orientation; venue, address; technical locus.
+lōˈkāSH(ə)n
+
+▶noun a particular place or position: the property is set in a convenient location. 
+• an actual place or natural setting in which a film or broadcast is made, as distinct from a simulation in a studio: the movie was filmed entirely on location. 
+• the action or process of placing someone or something in a particular position: the location of new housing beyond the existing built-up areas. 
+• a position or address in computer memory. DERIVATIVES locational 
+-SHənl, -SHnəl 
+adjectiveORIGIN late 16th century: from Latin locatio(n-), from the verb locare (see locate) .

@@ -20,14 +20,19 @@ B.  transitive verb
 C.  intransitive verb 投票 tóupiào he’s only
 17 and not eligible to vote 他才17岁，还没有选举资格 how are you voting? 你打算投谁的票？ to vote by a show of hands 举手表决 to vote for/against [somebody]/[something]; 投票支持/反对某人/某事物 60% of members voted in favour of the motion 60%的成员对这项动议投了赞成票 let's vote on it 我们投票表决吧 to vote with one's feet 用脚投票 ［用去或不去某处表明态度］shoppers voted with their feet and avoided the store 购物者对那家商店避而远之 PHRASAL VERBS vote down transitive verb[vote somebody/something down], [vote down somebody/something] 投票击败 tóupiào jībài ‹person›; 投票否决 tóupiào fǒujué ‹proposal, motion›vote in transitive verb[vote somebody in], [vote in somebody] 投票选…任职 tóupiào xuǎn… rènzhí he was voted in as treasurer 他当选为司库 vote off transitive verb[vote somebody off something] 投票让…离开 tóupiào ràng… líkāi ‹committee, council›he was voted off the show 经过投票他被淘汰出了节目 vote out transitive verb[vote somebody/something out], [vote out somebody/something] 投票免去…的职务 tóupiào miǎnqù… de zhíwù ‹person›; 投票否决 tóupiào fǒujué ‹motion, proposal›the ruling party was voted out of office 经过投票执政党下台了 vote through transitive verb[vote something through], [vote through something] 投票通过 tóupiào tōngguò ‹bill, budget›
 vote 
-▶noun
-1 a rigged vote: ballot, poll, election, referendum, plebiscite; show of hands.
-2 women finally got the vote: suffrage, voting rights, franchise, enfranchisement; voice, say.
-▶verb
-1 only half of them voted: go to the polls, cast one's vote, cast one's ballot.
-2 he was voted in as secretary: elect, return, select, choose, pick, adopt, appoint, designate, opt for, decide on.
-3 I vote we have one more game: suggest, propose, recommend, advocate, move, submit.
-WORD LINKS
-vote psephology the statistical study of elections and trends in votingWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.QUOTE Hell, I never vote for anybody, I always vote against.
-W.  
-C.  Fields, American comedian
+vōt
+
+▶noun a formal indication of a choice between two or more candidates or courses of action, expressed typically through a ballot or a show of hands or by voice. 
+• an act of expressing a formal indication of choice: they are ready to put it to a vote. 
+• (the vote) the choice expressed collectively by a body of electors or by a specified group: the Republican vote in Florida. 
+• (the vote) the right to indicate a choice in an election. 
+▶verb [no object] give or register a vote: they voted against the resolution 
+[with complement] : I voted Republican. 
+• [with object or complement] cause (someone) to gain or lose a particular post or honor by means of a vote: incompetent judges are voted out of office. 
+• [with clause] informal used to express a wish to follow a particular course of action: I vote we have one more game. 
+• [with object] (of a legislature) grant or confer by vote. 
+• [with object] (vote something down) reject something by means of a vote. 
+PHRASES
+vote of confidence a vote showing that a majority continues to support the policy of a leader or governing body. vote of no confidence (or vote of censure) a vote showing that a majority does not support the policy of a leader or governing body.vote someone/something off the island informal, chiefly US dismiss or reject someone or something as unsatisfactory: when a CEO gets voted off the island, the CFO typically gets dumped, too. [with reference to the reality television series Survivor (first broadcast in 2000), in which contestants are isolated in a remote area and gradually eliminated from competition through successive rounds of voting.] vote with one's feet informal indicate an opinion by being present or absent.DERIVATIVES voteless 
+ˈvōtləs 
+adjectiveORIGIN late Middle English: from Latin votum ‘a vow, wish,’ from vovere ‘to vow.’ The verb dates from the mid 16th century.

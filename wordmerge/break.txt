@@ -124,58 +124,132 @@ C.  intransitive verb
 ⑧ especially AmE colloquial (laugh) 大笑 dàxiào break with transitive verb 
 ① [break with somebody/something] (end relationship with) 与…断绝关系 yǔ… duànjué guānxì ‹friend, family, church›
 ② [break with something] (no longer follow) 摒弃 bìngqì ‹tradition, old habits›to break with the past 彻底告别过去 
-break 
-▶verb
-1 the mirror broke: shatter, smash, crack, snap, fracture, fragment, splinter, fall to bits, fall to pieces; split, burst; informal bust.
-2 she had broken her leg: fracture, crack. ANTONYMS mend.
-3 the bite had barely broken the skin: pierce, puncture, penetrate, perforate; cut.
-4 the coffee machine has broken: stop working, break down, give out, go wrong, malfunction, crash; informal go kaput, conk out, go/be on the blink, go/be on the fritz, give up the ghost.
-5 traders who break the law: contravene, violate, fail to observe, fail to comply with, infringe, breach; defy, flout, disobey, fly in the face of. ANTONYMS abide by, keep.
-6 his concentration was broken: interrupt, disturb, interfere with.
-7 they broke for coffee: stop, pause, have a rest, recess; informal take a breather, take five. ANTONYMS resume.
-8 a pile of carpets broke his fall: cushion, soften the impact of, take the edge off.
-9 the movie broke box-office records: exceed, surpass, beat, better, cap, top, outdo, outstrip, eclipse.
-10 habits are difficult to break: give up, relinquish, drop; informal kick, shake, quit.
-11 the strategies used to break the union: destroy, crush, quash, defeat, vanquish, overcome, overpower, overwhelm, suppress, cripple; weaken, subdue, cow, undermine.
-12 her self-control finally broke: give way, crack, cave in, yield, go to pieces.
-13 four thousand dollars wouldn't break him: bankrupt, ruin, pauperize.
-14 he tried to break the news gently: reveal, disclose, divulge, impart, tell; announce, release.
-15 he broke the encryption code: decipher, decode, decrypt, unravel, work out; informal figure out, crack.
-16 the day broke fair and cloudless: dawn, begin, start, emerge, appear.
-17 a political scandal broke: erupt, break out.
-18 the weather broke: change, alter, shift.
-19 waves broke against the rocks: crash, dash, beat, pound, lash.
-20 her voice broke as she relived the experience: falter, quaver, quiver, tremble, shake.
+break
+1 
+brāk
+
+▶verb (past broke 
+brōk
+; past participle broken 
+ˈbrōkən
+)
+1 separate or cause to separate into pieces as a result of a blow, shock, or strain: [no object] : the rope broke with a loud snap 
+the slate fell from my hand and broke in two on the hard floor 
+[with object] : windows in the street were broken by the blast 
+break the chocolate into pieces. 
+• sustain an injury involving the fracture of a bone or bones in a part of the body: [with object] : she had broken her leg in two places 
+[no object] : what if his leg had broken? 
+• [with object] cause a cut or graze in (the skin): the bite had scarcely broken the skin. 
+• make or become inoperative: [no object] : the machine has broken, and they can't fix it until next week 
+[with object] : he's broken the video. 
+• (of the amniotic fluid surrounding a fetus) be or cause to be discharged when the sac is ruptured in the first stages of labor: [no object] : she realized her water had broken. 
+• [with object] open (a safe) forcibly. 
+• [with object] use (a piece of paper currency) to pay for something and receive change out of the transaction: she had to break a ten. 
+• [no object] (of two boxers or wrestlers) come out of a clinch, typically at the referee's command: I was acting as referee and telling them to break. 
+• [with object] unfurl (a flag or sail). 
+• [with object] succeed in deciphering (a code). 
+• [with object] open (a shotgun or rifle) at the breech. 
+• [with object] disprove (an alibi). 
+• [with object] invalidate (a will) through legal process.
+2 [with object] interrupt (a continuity, sequence, or course): the new government broke the pattern of growth 
+his concentration was broken by a sound. 
+• put an end to (a silence) by speaking or making contact. 
+• make a pause in (a journey): we will break our journey in Venice. 
+• [no object] stop proceedings in order to have a pause or vacation: at mid-morning they broke for coffee. 
+• lessen the impact of (a fall): she put out an arm to break her fall. 
+• stop oneself from being subject to (a habit). 
+• put an end to (a tie in a game) by making a score. 
+• [no object] (chiefly of an attacking player or team, or of a military force) make a rush or dash in a particular direction: the flight broke to the right and formed a defensive circle. 
+• surpass (a record): the movie broke box-office records. 
+• disconnect or interrupt (an electrical circuit). 
+• [no object] (of a pitched baseball) curve or drop on its way toward the batter. 
+• [no object] Soccer (of the ball) rebound unpredictably: the ball broke to Craig but his shot rebounded from the post. 
+• [no object] (of a bowled cricket ball) change direction on bouncing, due to spin.
+3 [with object] fail to observe (a law, regulation, or agreement): the district attorney says she will prosecute retailers who break the law 
+a legally binding contract that can only be broken by mutual consent. 
+• fail to continue with (a self-imposed discipline): diets started without preparation are broken all the time.
+4 [with object] crush the emotional strength, spirit, or resistance of: the idea was to better the prisoners, not to break them. 
+• [no object] (of a person's emotional strength) give way: her self-control finally broke. 
+• destroy the power of (a movement or organization). 
+• destroy the effectiveness of (a strike), typically by bringing in other people to replace the striking workers. 
+• tame or train (a horse).
+5 [no object] undergo a change or enter a new state, in particular: 
+• (of the weather) change suddenly: the weather broke, and thunder rumbled through a leaden sky. 
+• (of a storm) begin violently. 
+• (of dawn or day) begin with the sun rising: dawn was just breaking. 
+• (of clouds) move apart and begin to disperse. 
+• (of waves) curl over and dissolve into foam: the Caribbean sea breaking gently on the shore. 
+• (of the voice) falter and change tone, due to emotion: her voice broke as she relived the experience. 
+• (of a boy's voice) change in tone and register at puberty. 
+• Phonetics (of a vowel) develop into a diphthong, under the influence of an adjacent sound: (as noun breaking) : breaking due to a following r or h. 
+• (of prices on the stock exchange) fall sharply. 
+• (of news or a scandal) suddenly become public: since the news broke I've received thousands of wonderful letters. 
+• [with object] (break something to someone) make bad news known to someone. 
+• make the first stroke at the beginning of a game of billiards, pool, or snooker. 
 ▶noun
-1 the magazine has been published without a break since 1950: interruption, interval, gap, hiatus; discontinuation, suspension, disruption, cutoff; stop, stoppage, cessation.
-2 a break in the weather: change, alteration, variation.
-3 let's have a break: rest, respite, recess; stop, pause; interval, intermission; informal breather, time out, down time; coffee break.
-4 a weekend break: time off, vacation, holiday, leave, spring break; informal getaway, staycation.
-5 a break in diplomatic relations: rift, schism, split, breakup, severance, rupture.
-6 the actress got her first break in 1951: opportunity, chance, opening.
+1 an interruption of continuity or uniformity: the magazine has been published without a break since 1950. 
+• an act of separating oneself from a state of affairs: a break with the past. 
+• a change in the weather: a week or so may pass without a break in the weather. 
+• [with modifier] a change of line, paragraph, or page: dotted lines on the screen show page breaks. 
+• a change of tone in the voice due to emotion: there was a break in her voice now. 
+• an interruption in an electrical circuit. 
+• (also break of serve or service break) Tennis the winning of a game against an opponent's serve.
+2 a pause in work or during an activity or event: I need a break from mental activity 
+they take long coffee breaks 
+those returning to work after a career break. 
+• a short vacation: the Christmas break. 
+• a short solo or instrumental passage in jazz or popular music.
+3 a gap or opening: the spectacular vistas occasionally offered by a break in the rainforest 
+he stopped to wait for a break in the traffic.
+4 an instance of breaking; the point where something is broken: a break in the valve was being repaired.
+5 a rush or dash in a particular direction, especially by an attacking player or team: he made a bounce pass for a basket on the break in the second quarter. 
+• a breakout, especially from prison. 
+• a curve or drop in the path of a pitched baseball.
+6 informal an opportunity or chance, especially one leading to professional success: he got his break as an entertainer on a TV music hall show.
+7 Billiards & Snooker a player's turn to make the opening shot of a game or a rack. 
+• a consecutive series of successful shots, scoring a specified number of points: a break of 83 put him in front for the first time. 
 PHRASES
-break away
-1 she attempted to break away: escape, get away, run away, flee, make off; break free, break loose, get out of someone's clutches; informal cut and run.
-2 a group broke away from the main party: leave, secede from, split off from, separate from, part company with, defect from; Politics cross the floor from. break down
-1 his van broke down. See break (sense
-4 of the verb).
-2 pay negotiations broke down: fail, collapse, founder, fall through, disintegrate; informal fizzle out.
-3 Vicky broke down, sobbing loudly: burst into tears; lose control, be overcome, go to pieces, crumble, disintegrate; informal crack up, lose it. break something down
-1 the police broke the door down: knock down, kick down, smash in, pull down, tear down, demolish.
-2 break big tasks down into smaller parts: divide, separate.
-3 graphs show how the information can be broken down: analyze, categorize, classify, sort out, itemize, organize; dissect. break in
-1 thieves broke in and took her checkbook: commit burglary, break and enter; force one's way in.
-2 “I don't want to interfere,” Mrs. Hendry broke in: interrupt, butt in, cut in, interject, interpose, intervene, chime in. break someone in it's Edgar's responsibility to break in the new cooks: train, initiate; informal show someone the ropes. break into
-1 thieves broke into a house on Park Street: burgle, burglarize, rob; force one's way into.
-2 Phil broke into the discussion: interrupt, butt into, cut in on, intervene in.
-3 he broke into a song: burst into, launch into. break off the cup handle just broke off: snap off, come off, become detached, become separated. break something off
-1 I broke off a branch from the tree: snap off, pull off, sever, detach.
-2 they threatened to break off diplomatic relations: end, terminate, stop, cease, call a halt to, finish, dissolve; suspend, discontinue; informal pull the plug on. break out
-1 he broke out of the detention center: escape from, abscond from, flee from; get free of.
-2 fighting broke out: flare up, start suddenly, erupt, burst out. break up
-1 the meeting broke up: end, finish, stop, terminate; adjourn; recess.
-2 the crowd began to break up: disperse, scatter, disband, part company.
-3 Danny and I broke up last year: split up, separate, part, part company; divorce.
-4 informal the whole cast broke up: burst out laughing, crack up, dissolve into laughter. break something up
-1 police tried to break up the crowd: disperse, scatter, disband.
-2 I'm not going to let you break up my marriage: wreck, ruin, destroy.
+break a leg! theatrical slang good luck! break bread see bread. break camp see camp1. break someone's heart see heart. break in two break into two parts: the slate fell from my hand and broke in two on the hard floor. break of day dawn. break ranks see rank1. break (someone's) serve (or service) win a game in a tennis match against an opponent's service.break step see step. break the back of do the hardest part of (a task): we've broken the back of the problem. 
+• overwhelm or defeat: I thought we really had broken the back of inflation. break the bank see bank2. break the ice see ice. break the mold see mold1. break wind release gas from the anus. give someone a break [usually in imperative] informal stop putting pressure on someone about something. 
+• (give me a break) used to express contemptuous disagreement or disbelief about what has been said: He's seven times as quick and he's only
+20 years old. Give me a break. make a break for make a sudden dash in the direction of, typically in a bid to escape: he made a break for the door. make a clean break remove oneself completely and finally from a situation or relationship. those are (or them's) the breaks North American informal that is the way things turn out.PHRASAL VERBS break away (of a person) escape from someone's hold. 
+• escape from the control of a person, group, or practice: an attempt to break away from the elitism that has dominated the book trade. 
+• (of a competitor in a race) move into the lead. 
+• (of a material or object) become detached from its base, typically through decay or under force. break down
+1 (of a machine or motor vehicle) suddenly cease to function: his van broke down. 
+• (of a person) have the vehicle they are driving cease to function: she broke down on the highway. 
+• (of a relationship, agreement, or process) cease to continue; collapse: pay negotiations with management broke down. 
+• lose control of one's emotions when in a state of distress: if she had tried to utter a word, she would have broken down 
+the old woman broke down in tears. 
+• (of a person's health or emotional control) fail or collapse: his health broke down under the strain of overwork.
+2 undergo chemical decomposition: waste products that break down into low-level toxic materials. break something down
+1 demolish a door or other barrier: they had to get the police to break the door down 
+figurative : race barriers can be broken down by educational reform.
+2 separate something into parts: each tutorial is broken down into more manageable units. 
+• analyze information: bar graphs show how the information can be broken down. 
+• convert a substance into simpler compounds by chemical action: almost every natural substance can be broken down by bacteria. break even reach a point in a business venture when the profits are equal to the costs. break forth burst out suddenly; emerge. break free another way of saying break away. break in
+1 force entry to a building: it sounded like someone trying to break in.
+2 [with direct speech] interject: “I don't want to interfere,” Mrs. Hendry broke in. break someone in familiarize someone with a new job or situation: there was no time to break in a new executive assistant. 
+• (break a horse) accustom a horse to a saddle and bridle, and to being ridden. break something in wear something, typically a pair of new shoes, until it becomes supple and comfortable. break in on interrupt: the doctor's voice broke in on her thoughts. break into
+1 enter or open a (place, vehicle, or container) forcibly, typically for the purposes of theft: four men broke into the house 
+a friend of mine had his car broken into. 
+• succeed in winning a share of (a market or a position in a profession): Japanese companies failed to break into the US personal-computer market. 
+• interrupt (a conversation).
+2 (of a person) suddenly or unexpectedly burst forth into (laughter or song). 
+• (of a person's face or mouth) relax into (a smile).
+3 change one's pace to (a faster one): Greg broke into a sprint. break off become severed: the fuselage had broken off just behind the pilot's seat. 
+• abruptly stop talking: she broke off, stifling a sob. break something off remove something from a larger unit or whole: Tucker broke off a piece of bread. 
+• discontinue talks or relations: the US threatened to break off diplomatic relations. break something open open something forcibly. break out (of war, fighting, or similarly undesirable things) start suddenly: forest fires have broken out across Indonesia. 
+• (of a physical discomfort) suddenly manifest itself: prickles of sweat had broken out along her backbone. break out in (of a person or a part of their body) be suddenly affected by an unpleasant sensation or condition: something had caused him to break out in a rash. break out of escape from: figurative : executives looking to break out of the corporate hierarchy. break something out informal open and start using something: it was time to break out the champagne. break through make or force a way through (a barrier): demonstrators attempted to break through the police lines 
+the sun might break through in a few spots. 
+• (of a person) achieve success in a particular area: so many talented players are struggling to break through. break up disintegrate; disperse: the bones had broken up into minute fragments 
+the gray clouds had begun to break up. 
+• (of a gathering) disband; end. 
+• British end the school term: we broke up for the summer. 
+• (of a couple in a relationship) part company. 
+• chiefly North American start laughing uncontrollably: the whole cast broke up. 
+• chiefly North American become emotionally upset. break someone up chiefly North American cause someone to become extremely upset. break something up cause something to separate into pieces, parts, or sections: break up the chocolate, and place it in a bowl 
+he intends to break the company up into strategic business units. 
+• bring a social event or meeting to an end by being the first person to leave: Richard was sorry to break up the party. 
+• disperse or put an end to a gathering: police broke up a demonstration in the capital. break with quarrel or cease relations with (someone): he had broken with his family long before. 
+• act in a way that is not in accordance with (a custom or tradition).ORIGIN Old English brecan (verb), of Germanic origin; related to Dutch breken and German brechen, from an Indo-European root shared by Latin frangere ‘to break.’

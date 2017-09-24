@@ -12,11 +12,20 @@ B.  transitive verb
 ① (sell) 销售 xiāoshòu 
 ② (promote) 推销 tuīxiāo to market [something] (to [somebody]) （向某人）推销某物 
 market 
+ˈmärkət
+
 ▶noun
-1 I'll get some sugar when I'm at the market: grocery store, supermarket, store, convenience store; farmers' market; dated groceteria.
-2 browsing through old postcards at the antiques market: marketplace, mart, flea market, bazaar, fair; archaic emporium.
-3 there's no market for such goods: demand, call, want, desire, need, requirement.
-4 the market is sluggish: stock market, trading, trade, business, commerce, buying and selling, dealing.
-▶verb the product was marketed worldwide: sell, retail, vend, merchandise, trade, peddle, hawk; advertise, promote.
+1 a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities: farmers going to market. 
+• an open space or covered building where vendors convene to sell their goods.
+2 an area or arena in which commercial dealings are conducted: the sale of cruisers in the American market continues to plummet 
+the labor market. 
+• a demand for a particular commodity or service: there is a market for ornamental daggers. 
+• the state of trade at a particular time or in a particular context: the bottom's fallen out of the market. 
+• the free market; the operation of supply and demand: future development cannot simply be left to the market 
+[as modifier] : a market economy. 
+• a stock market. 
+▶verb (markets, marketing, marketed) [with object] advertise or promote (something): the product was marketed under the name “aspirin.” 
+• offer for sale: sheep farmers are still unable to market their lambs. 
+• [no object] US buy or sell provisions in a market: (as noun marketing) : some people liked to do their marketing very early in the morning. 
 PHRASES
-on the market these are the finest pearls on the market today: on sale, (up) for sale, available, obtainable, on the block.
+be in the market for wish to buy. make a market Finance take part in active dealing in particular shares or other assets. on the market available for sale: he bought every new gadget as it came on the market.ORIGIN Middle English, via Anglo-Norman French from Latin mercatus, from mercari ‘buy’ (see also merchant).

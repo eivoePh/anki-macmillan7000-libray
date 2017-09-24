@@ -1,5 +1,8 @@
 reservoir 
-▶noun
-1 water pumped from the reservoir: pool, pond; water supply, water tower.
-2 an ink reservoir: receptacle, container, holder, repository, tank.
-3 the reservoir of managerial talent: stock, store, stockpile, reserve(s), supply, bank, pool, stable, fund.
+ˈrezərˌvwär
+
+▶noun a large natural or artificial lake used as a source of water supply. 
+• a supply or source of something: tapping into a universal reservoir of information. 
+• [usually with modifier] a place where fluid collects, especially in rock strata or in the body. 
+• a receptacle or part of a machine designed to hold fluid. 
+• Medicine a population, tissue, etc., that is chronically infested with the causative agent of a disease and can act as a source of further infection. ORIGIN mid 17th century: from French réservoir, from réserver ‘to reserve, keep.’

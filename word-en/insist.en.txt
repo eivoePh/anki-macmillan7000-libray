@@ -1,6 +1,9 @@
 insist 
-▶verb
-1 she insisted that they pay up: demand, command, require, dictate; urge, exhort.
-2 he insisted that he knew nothing: maintain, assert, hold, contend, argue, protest, claim, vow, swear, declare, stress, repeat, reiterate; formal aver.
-PHRASES
-insist on she insisted on her children's going to college: be set on, be intent on, persist in, stand firm about, stand one's ground about, be resolute about, be emphatic about, be adamant about, not take no for an answer about; informal stick to one's guns about.
+inˈsist
+
+▶verb [no object] demand something forcefully, not accepting refusal: she insisted on carrying her own bag 
+I'll call him and cancel it, if you insist. 
+• (insist on) demand forcefully to have something: he insisted on answers to his allegations. 
+• (insist on) persist in doing something even though it is annoying or odd: the heavy studded boots she insisted on wearing. 
+• [reporting verb] maintain or put forward a statement positively and assertively: [with clause] : the chairman insisted that all was not doom and gloom 
+[with direct speech] : “I really am all right now,” Isabel insisted. ORIGIN late 16th century (in the sense ‘persist, persevere’): from Latin insistere ‘persist,’ from in- ‘upon’ + sistere ‘stand.’

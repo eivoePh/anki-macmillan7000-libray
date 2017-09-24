@@ -1,18 +1,25 @@
 wrong 
+rôNG
+
 ▶adjective
-1 the wrong answer: incorrect, mistaken, in error, erroneous, inaccurate, inexact, imprecise, fallacious, wide of the mark, off target, unsound, faulty; informal out. ANTONYMS right, correct.
-2 he knew he had said the wrong thing: inappropriate, unsuitable, inapt, inapposite, undesirable; ill-advised, ill-considered, ill-judged, impolitic, injudicious, infelicitous, unfitting, out of keeping, improper; informal out of order. ANTONYMS appropriate.
-3 I've done nothing wrong: illegal, unlawful, illicit, criminal, dishonest, dishonorable, corrupt; unethical, immoral, bad, wicked, sinful, iniquitous, nefarious, blameworthy, reprehensible; informal crooked. ANTONYMS ethical, legal.
-4 there's something wrong with the engine: amiss, awry, out of order, not right, faulty, flawed, defective.
-▶adverb she guessed wrong: incorrectly, wrongly, inaccurately, erroneously, mistakenly, in error.
-▶noun
-1 the difference between right and wrong: immorality, sin, sinfulness, wickedness, evil; unlawfulness, crime, corruption, villainy, dishonesty, injustice, wrongdoing, misconduct, transgression. ANTONYMS right, virtue.
-2 an attempt to make up for past wrongs: misdeed, offense, injury, crime, transgression, violation, peccadillo, sin; injustice, outrage, atrocity; Law tort; archaic trespass.
-▶verb
-1 she was determined to forget the man who had wronged her: ill-use, mistreat, do an injustice to, do wrong to, ill-treat, abuse, harm, hurt, injure.
-2 perhaps I am wronging him: malign, misrepresent, do a disservice to, impugn, defame, slander, libel.
+1 not correct or true: that is the wrong answer. 
+• [predicative] mistaken: I was wrong about him being on the yacht that evening. 
+• unsuitable or undesirable: they asked all the wrong questions. 
+• [predicative] in a bad or abnormal condition; amiss: something was wrong with the pump.
+2 unjust, dishonest, or immoral: they were wrong to take the law into their own hands 
+it was wrong of me to write you such an angry note. 
+▶adverb in an unsuitable or undesirable manner or direction: what am I doing wrong? 
+• with an incorrect result: she guessed wrong. 
+▶noun an unjust, dishonest, or immoral action: I have done you a great wrong. 
+• Law a breach, by commission or omission, of one's legal duty. 
+• Law an invasion of right to the damage or prejudice of another. 
+▶verb [with object] act unjustly or dishonestly toward (someone): please forgive me these things and the people I have wronged. 
+• mistakenly attribute bad motives to; misrepresent: perhaps I wrong him. 
 PHRASES
-get wrong don't get me wrong, I usually like Italian food: misunderstand, misinterpret, misconstrue, mistake, misread, take amiss; get the wrong idea/impression; informal be barking up the wrong tree. go wrong
-1 I've gone wrong somewhere: make a mistake, make an error, make a blunder, blunder, miscalculate, trip up; informal slip up, goof, screw up, make a boo-boo, fluff, flub.
-2 their plans went wrong: go awry, go amiss, go off course, fail, be unsuccessful, fall through, come to nothing; backfire, misfire, rebound; informal come to grief, come a cropper, go up in smoke, go adrift.
-3 the radio's gone wrong: break down, malfunction, fail, stop working, crash, give out; informal be on the blink, conk out, go kaput, go on the fritz. in the wrong just admit that you're in the wrong: to blame, blameworthy, at fault, reprehensible, responsible, culpable, answerable, guilty; archaic peccant.
+do wrong commit an unjust, dishonest, or immoral act: they admit she has done wrong, but believe the punishment is too harsh. do someone wrong treat someone unjustly: he sought revenge against those who had done him wrong. get someone wrong misunderstand someone, especially by falsely imputing malice: now, don't get me wrong, my fellow players are a great bunch of people. go down the wrong way (of food) enter the windpipe instead of the gullet. go wrong make a mistake. 
+• (of a device) malfunction; develop a fault. 
+• develop in an undesirable way: the government has ordered an inquiry to ascertain what went wrong. in the wrong responsible for a quarrel, mistake, or offense. on the wrong side of
+1 out of favor with: she knew not to get on the wrong side of him.
+2 somewhat more than (a specified age): he cheerfully admits he is the wrong side of fifty. two wrongs don't make a right proverb the fact that someone has done something unjust or dishonest is no justification for acting in a similar way. wrong side out inside out.DERIVATIVES wronger noun. wrongness 
+ˈrôNGnəs 
+nounORIGIN late Old English wrang, from Old Norse rangr ‘awry, unjust’; related to wring .

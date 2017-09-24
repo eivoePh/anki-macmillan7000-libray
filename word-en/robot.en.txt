@@ -1,2 +1,10 @@
 robot 
-▶noun robots can perform certain tasks that are considered hazardous for humans: automaton, android, golem; informal bot, droid.
+ˈrōˌbät ˈrōbət
+
+▶noun a machine capable of carrying out a complex series of actions automatically, especially one programmable by a computer. 
+• (especially in science fiction) a machine resembling a human being and able to replicate certain human movements and functions automatically. 
+• used to refer to a person who behaves in a mechanical or unemotional manner: public servants are not expected to be mindless robots. ORIGIN from Czech, from robota ‘forced labor.’ The term was coined in 
+K.  Čapek's play 
+R. 
+U. 
+R.  ‘Rossum's Universal Robots’ (1920).

@@ -13,4 +13,23 @@ B.  transitive verb
 ① Electricity 给…接通导线 gěi… jiētōng dǎoxiàn ‹components, devices›
 ② (join by wire) 用金属丝连接 yòng jīnshǔsī liánjiē ‹objects, parts›wire up transitive verb[wire something up], [wire up something] 给…安装电线 gěi… ānzhuāng diànxiàn ‹house, lamp, circuit›to wire [something]/[somebody] up for [something]; 给…安装某物 to wire up a room for sound 给房间安装扩音器 
 wire 
-▶noun the wires will be run under the ground: cable, lead, cord; power line; filament.
+ˈwī(ə)r
+
+▶noun
+1 metal drawn out into the form of a thin flexible thread or rod. 
+• a piece of wire. 
+• a length or quantity of wire used, for example, for fencing or to carry an electric current. 
+• North American Horse Racing a wire stretched across and above the track at the finish line of a racetrack. 
+• an electronic listening device that can be concealed on a person.
+2 informal, chiefly North American a telegram or cablegram. 
+▶verb [with object]
+1 install electric circuits or wires in: wiring a plug 
+they wired the place themselves. 
+• connect (someone or something) to a piece of electronic equipment: a microphone wired to a loudspeaker.
+2 provide, fasten, or reinforce with wires: they wired his jaw.
+3 informal, chiefly North American send a telegram or cablegram to: she wired her friend for advice. 
+• [with two objects] send (money) to (someone) by means of a telegram or cablegram: he was expecting a friend in Australia to wire him $1,500.
+4 snare (an animal) with wire.
+5 Croquet obstruct (a ball, shot, or player) by a wicket. 
+PHRASES
+by wire by telegraph. down to the wire informal used to denote a situation whose outcome is not decided until the very last minute: it was probable that the test of nerves would go down to the wire. get one's wires crossed see cross. under the wire North American informal at the last possible opportunity; just in time.DERIVATIVES wirer nounORIGIN Old English wīr, of Germanic origin, probably from the base of Latin viere ‘plait, weave.’

@@ -4,8 +4,10 @@ adjective
 ① (negligent) 粗心的 cūxīn de a careless mistake 粗心造成的错误 it was careless of her to leave the book on the bus 她太粗心，把书忘在了公交车上 to be careless about one's appearance 不在意自己的外貌 
 ② (carefree) 不担忧的 bù dānyōu de (nonchalant) 不关心的 bù guānxīn de to do [something] careless of the risks 做某事不计风险 she dresses with a careless elegance 她的穿着透出一种不事雕琢的雅致 
 careless 
-▶adjective
-1 careless motorists: inattentive, incautious, negligent, absentminded, remiss; heedless, irresponsible, impetuous, reckless, foolhardy; cavalier, supercilious, devil-may-care. ANTONYMS careful, attentive.
-2 careless work: shoddy, slapdash, slipshod, slovenly, negligent, lax, slack, disorganized, hasty, hurried; informal sloppy, slaphappy. ANTONYMS meticulous.
-3 a careless remark: thoughtless, insensitive, indiscreet, unguarded, incautious, inadvertent. ANTONYMS judicious.
-4 she carried on, careless of the time: heedless of, unconcerned with, indifferent to, oblivious to.
+ˈkerləs
+
+▶adjective not giving sufficient attention or thought to avoiding harm or errors: she had been careless and had left the window unlocked. 
+• (of an action or its result) showing or caused by a lack of attention: he admitted to careless driving 
+a careless error. 
+• [predicative] (careless of/about) not concerned or worried about: he was careless about his own safety. 
+• showing no interest or effort; casual: she gave a careless shrug. ORIGIN Old English carlēas ‘free from care’ (see care, -less) .

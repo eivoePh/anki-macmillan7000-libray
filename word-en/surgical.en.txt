@@ -1,6 +1,8 @@
 surgical 
-BrE ˈsəːdʒɪk(ə)l, AmE ˈsərdʒək(ə)l 
-adjective 
-① (used in surgery) 外科手术的 wàikē shǒushù de ; (involving surgery) 外科的 wàikē de surgical cotton/instruments/treatment 医用药棉/外科手术器械/外科治疗 
-② (corrective) 矫正用的 jiǎozhèng yòng de surgical boot/stocking 矫正靴/袜 
-③ Military (precise) 精确的 jīngquè de ‹bombing, strike›
+ˈsərjək(ə)l
+
+▶adjective
+1 relating to or used in surgery: a surgical dressing 
+a surgical ward. 
+• (of a special garment or appliance) worn to correct or relieve an injury, illness, or deformity: surgical stockings.
+2 denoting something done with great precision, especially a swift and highly accurate military attack from the air: surgical bombing. ORIGIN late 18th century (earlier as chirurgical): from French cirurgical, from Old French sirurgie (see surgery) .

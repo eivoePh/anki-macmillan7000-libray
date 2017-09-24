@@ -5,8 +5,11 @@ noun
 ② Uncountable(state) 负债 fùzhài to be in debt to [somebody]; 欠某人的钱 to get into/out of debt; 背上/清偿债务 to be out of debt; 不负债 she is $2,000 in debt 她欠了2, 000元的债 
 ③ Countablefigurative (obligation, gratitude) 人情债 rénqíngzhài to be in [somebody's] debt; 受某人的恩惠 a debt of honour 信用债 to pay one's debt to society 报答社会 to acknowledge one's debt to [somebody] 向某人表达感激之情 I'm forever in your debt 我永远都感激你 
 debt 
-▶noun
-1 he couldn't pay his debts: bill, account, dues, arrears, charges; financial obligation, outstanding payment; check, tab.
-2 his debt to the author: indebtedness, obligation; gratitude, appreciation, thanks.
+det
+
+▶noun something, typically money, that is owed or due: I paid off my debts 
+a way to reduce Third World debt. 
+• the state of owing money: the firm is heavily in debt. 
+• [usually in singular] a feeling of gratitude for a service or favor: we owe them a debt of thanks. 
 PHRASES
-in debt the medical bills left them hopelessly in debt: owing money, in arrears, behind with payments, overdrawn, overleveraged; insolvent, bankrupt, ruined; informal in the red. in someone's debt Chris would be forever in his debt: indebted to, beholden to, obliged to, duty-bound to, honor-bound to, obligated to; grateful (to), thankful (to), appreciative (of).
+be in someone's debt owe gratitude to someone for a service or favor.ORIGIN Middle English dette: from Old French, based on Latin debitum ‘something owed,’ past participle of debere ‘owe.’ The spelling change in French and English was by association with the Latin word.

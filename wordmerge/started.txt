@@ -56,18 +56,57 @@ B.  transitive verb[start something up, start up something]
 ① (found) 创办 chuàngbàn ‹business, organization›
 ② (cause to begin working) 启动 qǐdòng can you start the car up please? 请你把车发动起来好吗？ 
 start 
+stärt
+
 ▶verb
-1 the meeting starts at 7:45: begin, commence, get underway, go ahead, get going; informal kick off. ANTONYMS finish.
-2 this was how her illness had started: arise, come into being, begin, commence, be born, come into existence, appear, arrive, come forth, establish oneself, emerge, erupt, burst out, originate, develop. ANTONYMS clear up, end.
-3 she started her own charity: establish, set up, found, create, bring into being, institute, initiate, inaugurate, introduce, open, launch, float, kick-start, jump-start, get something off the ground, pioneer, organize, mastermind; informal kick something off. ANTONYMS end.
-4 we had better start now if we want to finish the job: commence, make a start, begin, take the first step, make the first move, get going, go ahead, set things moving, start/get/set the ball rolling, buckle to/down, turn to; informal get moving, get cracking, get down to, get to it, get down to business, get the show on the road, take the plunge, kick off, get off one's backside, fire away. ANTONYMS stop, give up, procrastinate.
-5 he started across the field: set off, set out, start out, set forth, begin one's journey, get on the road, depart, leave, get underway, make a start, sally forth, embark, sail; informal hit the road. ANTONYMS arrive, stay.
-6 you can start the machine: activate, set in motion, switch on, start up, turn on, fire up; energize, actuate, set off, start off, set something going/moving. ANTONYMS stop, shut down, close down.
-7 the machine started: begin working, start up, get going, spring into life. ANTONYMS stop.
-8 “Oh my!” she said, starting: flinch, jerk, jump, twitch, recoil, shy, shrink, blench, wince.
-▶noun
-1 the start of the event: beginning, commencement, inception. ANTONYMS end.
-2 the start of her illness: onset, commencement, emergence, (first) appearance, arrival, eruption, dawn, birth; informal square one.
-3 a quarter of an hour's start: lead, head start, advantage. ANTONYMS handicap.
-4 a start in life: advantageous beginning, flying start, helping hand, lift, assistance, support, encouragement, boost, kick-start; informal break, leg up. ANTONYMS handicap.
-5 she awoke with a start: jerk, twitch, flinch, wince, spasm, convulsion, jump.
+1 [no object] come into being; begin or be reckoned from a particular point in time or space: the season starts in September 
+we ate before the show started 
+below Roaring Springs the real desert starts. 
+• [with infinitive or present participle] embark on a continuing action or a new venture: I started to chat to him 
+we plan to start building in the fall. 
+• use a particular point, action, or circumstance as an opening for a course of action: the teacher can start by capitalizing on children's curiosity 
+I shall start with the case you mention first. 
+• begin to move or travel: we started out into the snow 
+he started for the door. 
+• [with object] begin to attend (an educational establishment) or engage in (an occupation, especially a profession): she will start school today 
+he started work at a travel agency. 
+• begin one's working life: he started as a typesetter 
+she started off as a general practitioner. 
+• [with object] begin to live through (a period distinguished by a specified characteristic): they started their married life. 
+• cost at least a specified amount: fees start at around $300.
+2 [with object] cause (an event or process) to happen: two men started the blaze that caused the explosion 
+those women started all the trouble. 
+• bring (a project or an institution) into being; cause to take effect or begin to work or operate: I'm starting a campaign to get the law changed. 
+• cause (a machine) to begin to work: we had trouble starting the car 
+he starts up his van. 
+• [no object] (of a machine or device) begin operating or being used: the noise of a tractor starting up 
+there was a moment of silence before the organ started. 
+• cause or enable (someone or something) to begin doing or pursuing something: his father started him off in business 
+what he said started me thinking. 
+• give a signal to (competitors) to start in a race.
+3 [no object] give a small jump or make a sudden jerking movement from surprise or alarm: “Oh my!” she said, starting. 
+• literary move or appear suddenly: she had seen Meg start suddenly from a thicket. 
+• (of eyes) bulge so as to appear to burst out of their sockets: his eyes started out of his head like a hare's. 
+• be displaced or displace by pressure or shrinkage: the mortar in the joints had started. 
+• [with object] rouse (game) from its lair. 
+▶noun [in singular]
+1 the point in time or space at which something has its origin; the beginning of something: he takes over as chief executive at the start of next year 
+the event was a shambles from start to finish 
+his bicycle was found close to the start of a forest trail. 
+• the point or moment at which a race begins. 
+• an act of beginning to do or deal with something: I can make a start on cleaning up 
+an early start enabled us to avoid the traffic. 
+• used to indicate that a useful initial contribution has been made but that more remains to be done: if he would tell her who had put him up to it, it would be a start. 
+• a person's position or circumstances at the beginning of their life, especially a position of advantage: she's anxious to give her baby the best start in life. 
+• an advantage consisting in having set out in a race or on journey earlier than one's rivals or opponents: he would have a ninety-minute start on them.
+2 a sudden movement of surprise or alarm: she awoke with a start 
+the woman gave a nervous start. 
+PHRASES
+don't start (or don't you start) informal used to tell someone not to grumble or criticize: don't start—I do my fair share.for a start informal used to introduce or emphasize the first or most important of a number of considerations: this side is at an advantage—for a start, there are more of them. get started begin a task, endeavor, or process: for an art gallery owner, Naples was a good place to get started. get the start of dated gain an advantage over. start a family conceive one's first child. start something informal cause trouble. to start with at the beginning of a series of events or period of time: she wasn't very keen on the idea to start with. 
+• as the first thing to be taken into account: to start with, I was feeling down.PHRASAL VERBS start again chiefly British another way of saying start over. start in informal begin doing something, especially talking: people groan when she starts in about her acting ambitions. 
+• (start in on) North American begin to do or deal with: you vacuum the stairs and I'll start in on the laundry. 
+• (start in on) North American attack verbally; begin to criticize: before you start in on me, let me explain. start off (or start someone/something off) begin (or cause someone or something to begin) working, operating, or dealing with something: treatment should start off with attention to diet 
+what started you off on this search? 
+• (start off) begin a meal: she started off with soup. start on
+1 begin to work on or deal with: I'm starting on a new book.
+2 informal begin to talk to someone, especially in a critical or hostile way: she started on about my not having nice furniture. start out (or up) embark on a venture or undertaking, especially a commercial one: the company will start out with a hundred employees.start over make a new beginning: could you face going back to school and starting over?ORIGIN Old English styrtan ‘to caper, leap,’ of Germanic origin; related to Dutch storten ‘push’ and German stürzen ‘fall headlong, fling.’ From the sense ‘sudden movement’ arose the sense ‘initiation of movement, setting out on a journey’ and hence ‘beginning (of a process, etc).’

@@ -2,4 +2,11 @@ allocate
 BrE ˈaləkeɪt, AmE ˈæləˌkeɪt 
 transitive verb 分配 fēnpèi to allocate the tasks 分派任务 to allocate more funds to the health service 增加对公共医疗卫生服务的拨款 to allocate money for repair work 拨款作维修用 
 allocate 
-▶verb how funds will be allocated is dependent on which budget gets approved: allot, assign, distribute, apportion, share out, portion out, dispense, deal out, dole out, give out, dish out, parcel out, ration out, divide up/out; informal divvy up.
+ˈaləˌkāt
+
+▶verb [with object] distribute (resources or duties) for a particular purpose: the authorities allocated 50,000 places to refugees 
+[with two objects] : he has been allocated a generous slice of the annual budget. DERIVATIVES allocable 
+ˈaləkəb(ə)l 
+adjective. allocator 
+-ˌkātər 
+nounORIGIN mid 17th century: from medieval Latin allocat- ‘allotted,’ from the verb allocare, from ad- ‘to’ + locare (see locate) .

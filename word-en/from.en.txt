@@ -1,21 +1,26 @@
 from 
-BrE frɒm, frəm, AmE frəm 
-preposition 
-① (indicating place of origin, place of work) 来自 láizì a flight/train from Cardiff 从加的夫来的航班/火车 where is he from? 他是哪里人？ butter from Denmark 丹麦黄油 a voice came from within/above 从里面/上面传来一个声音 an email from Paula 葆拉发来的电子邮件 a woman from the tax office 税务所的女工作人员 some girls from Year
-6 一些6年级女生 
-② (expressing distance, physical separation) 离 lí
-10 km from the sea 离海边10公里 the journey from A to B 从A地到B地的旅程 to be away from home 不在家 to clear litter from the streets 清除街头垃圾 
-③ (indicating location, start of a process, original state) 从 cóng ; (judging by) 依据 yījù from the top of a bus 从公共汽车顶上 to rise from captain to colonel 从上尉升为上校 to translate from English into Spanish 从英语译成西班牙语 from a practical point of view 从实用的观点 from what she said 据她所说 from her appearance you'd think she was only
-20 从外表上看，你可能以为她只有20岁 
-④ (expressing starting time, point) 从…起 cóng… qǐ from today/July 从今天/七月起 from the 17th century on/9 o'clock onwards 从17世纪/9点钟起 from morning till night 从早到晚 are these the photographs from last week? 这些是上周以来拍的照片吗？ wine from £5 a bottle 起价5英镑1瓶的葡萄酒 she's not back from work yet 她还没有下班回家 
-⑤ (using as basis, indicating source) [表示基础或来源]to grow geraniums from seed 撒籽栽种天竺葵 I got no sympathy from him 我没有得到他的支持 you can tell him from me that … 你可以转告给他，我说… portraits from life 真人肖像 
-⑥ (among) 从…中 cóng… zhōng they were chosen from 100 competitors 他们是从100个竞争者中选出来的 
-⑦ (indicating raw material) 由 yóu it's made from eggs 这是鸡蛋做的 it was carved from a large piece of wood 这是用一块大木料雕成的 
-⑧ (because of, owing to) 因为 yīnwèi to do [something] from necessity/laziness/nervousness 出于需要/懒惰/惶恐不安而做某事 I know from speaking to her that … 我从与她的谈话中得知… 
-⑨ (in subtraction) 从…减去 cóng… jiǎnqù
-8 from
-19 leaves
-11 19减8等于11 
-⑩ (indicating attachment) [表示附着]hanging from a pole 悬挂在柱子上 sticking out from the wall 从墙上伸出来 
-⑪ (indicating prevention) [表示防止]he rescued her from drowning 他把她从水里救了上来 he was saved from the fire 他被人从火中救了出来 
-⑫ (indicating distinction) [表示区分]he can't tell sugar from saccharine 他分不清糖和糖精 is Portuguese very different from Spanish? 葡萄牙语和西班牙语区别大吗？ 
+frəm
+
+▶preposition
+1 indicating the point in space at which a journey, motion, or action starts: she began to walk away from him 
+I leapt from my bed 
+figurative : he was turning the committee away from appeasement. 
+• indicating the distance between a particular place and another place used as a point of reference: the ambush occurred 50 yards from a checkpoint.
+2 indicating the point in time at which a particular process, event, or activity starts: the show will run from
+10 to 2.
+3 indicating the source or provenance of someone or something: I'm from Hartford 
+she phoned him from the hotel 
+she demanded the keys from her husband. 
+• indicating the date at which something was created: a document dating from the thirteenth century.
+4 indicating the starting point of a specified range on a scale: men who ranged in age from seventeen to eighty-four. 
+• indicating one extreme in a range of conceptual variations: anything from geography to literature.
+5 indicating the point at which an observer is placed: you can see the island from here 
+figurative : the ability to see things from another's point of view.
+6 indicating the raw material out of which something is manufactured: a varnish made from copal.
+7 indicating separation or removal: the party was ousted from power after sixteen years.
+8 indicating prevention: the story of how he was saved from death.
+9 indicating a cause: a child suffering from asthma.
+10 indicating a source of knowledge or the basis for one's judgment: information obtained from papers, books, and presentations.
+11 indicating a distinction: the courts view him in a different light from that of a manual worker. 
+PHRASES
+as from see as1. from day to day (or hour to hour, etc.) daily (or hourly, etc.); as the days (or hours, etc.) pass.from now (or then, etc.) on now (or then, etc.) and in the future: they were friends from that day on. from time to time occasionally.ORIGIN Old English fram, from, of Germanic origin; related to Old Norse frá (see fro) .

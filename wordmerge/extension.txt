@@ -6,8 +6,28 @@ noun
 ③ Countable and uncountable(expansion) (of vocabulary, influence, power, authority) 扩大 kuòdà (of law) 适用范围扩大 shìyòng fànwéi kuòdà (of knowledge, meaning, idea, theory, story, business, market) 扩展 kuòzhǎn (of services, demand) 增加 zēngjiā 
 ④ Countable(telephone line) 分机 fēnjī (number) 分机号 fēnjīhào 
 extension 
+ˌikˈsten(t)SH(ə)n
+
 ▶noun
-1 they are planning a new extension: addition, adjunct, annex, wing, supplementary building, ell, add-on, bump-out.
-2 an extension of knowledge: expansion, increase, enlargement, widening, broadening, deepening; augmentation, enhancement, development, growth, continuation.
-3 an extension of opening hours: prolongation, lengthening, increase.
-4 I need an extension on my essay: postponement, more/extra time, deferral, delay.
+1 a part that is added to something to enlarge or prolong it; a continuation: the railroad's southern extension. 
+• a room or set of rooms added to an existing building. 
+• the action or process of becoming or making something larger: the extension of the president's powers. 
+• an application of an existing system or activity to a new area: direct marketing is an extension of telephone selling. 
+• an increase in the length of time given to someone to hold office, complete a project, or fulfill an obligation. 
+• Computing an optional suffix to a file name, typically consisting of a period followed by several characters, indicating the file's content or function.
+2 (also extension cord) a length of electric cord that permits the use of an appliance at some distance from a fixed socket. 
+• an extra telephone on the same line as the main one. 
+• a subsidiary telephone in a set of offices or similar building, on a line leading from the main switchboard but having its own additional number.
+3 [usually as modifier] instruction by a university or college for students who do not attend full time: extension courses.
+4 (extensions) lengths of real or artificial hair woven into a person's own hair to create a long hairstyle.
+5 the action of moving a limb from a bent to a straight position: seizures with sudden rigid extension of the limbs. 
+• Ballet the ability of a dancer to raise one leg above the waist, or an instance of this: she has amazing extension 
+he could perform 180-degree extensions. 
+• Medicine the application of traction to a fractured or dislocated limb or to an injured or diseased spinal column to restore it to its normal position. 
+• the lengthening of a horse's stride within a particular gait.
+6 Logic the range of a term or concept as measured by the objects that it denotes or contains, as opposed to its internal content. Often contrasted with intension. 
+• Physics & Philosophy the property of occupying space; spatial magnitude: nature, for Descartes, was pure extension in space. 
+PHRASES
+by extension taking the same line of argument further: this raised serious questions about his credibility and, by extension, the credibility of the company.DERIVATIVES extensional 
+-SHənl 
+adjectiveORIGIN late Middle English: from late Latin extensio(n-), from extendere ‘stretch out’ (see extend) .

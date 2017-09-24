@@ -1,4 +1,11 @@
 generate 
-▶verb
-1 moves to generate extra business: cause, give rise to, lead to, result in, bring about, create, make, produce, engender, spawn, precipitate, prompt, provoke, trigger, spark off, stir up, induce, promote, foster.
-2 captive animals may not generate offspring : procreate, breed, reproduce, father offspring, sire offspring, mother offspring, spawn offspring, create offspring, produce offspring, have offspring; literary beget offspring; archaic engender offspring.
+ˈjenəˌrāt
+
+▶verb [with object] cause (something, especially an emotion or situation) to arise or come about: changes that are likely to generate controversy 
+generate more jobs in the economy. 
+• produce (energy, especially electricity). 
+• produce (a set or sequence of items) by performing specified mathematical or logical operations on an initial set. 
+• Linguistics produce (a sentence or other unit, especially a well-formed one) by the application of a finite set of rules to lexical or other linguistic input. 
+• Mathematics form (a line, surface, or solid) by notionally moving a point, line, or surface. DERIVATIVES generable 
+ˈjen(ə)rəb(ə)l 
+adjectiveORIGIN early 16th century (in the sense ‘beget, procreate’): from Latin generat- ‘created,’ from the verb generare, from genus, gener- ‘stock, race.’

@@ -286,50 +286,142 @@ B.  [go with somebody] transitive verb
 ② colloquial (spend time with) 和…相好 hé… xiānghǎo go without 
 A.  transitive verb[go without something] 没有…而勉强应付 méiyǒu… ér miǎnqiǎng yìngfù to go without food 挨饿 it goes without saying that … 显而易见… 
 B.  intransitive verb 没有也行 méiyǒu yě xíng if you can't afford lunch, you'll have to go without 如果你买不起午饭，就只好将就着不吃了 
-go 
-▶verb
-1 he's gone into town: move, proceed, make one's way, advance, progress, pass; walk, travel, journey; literary betake oneself.
-2 the road goes to Michigan Avenue: extend, stretch, reach; lead.
-3 the money will go to charity: be given, be donated, be granted, be presented, be awarded; be devoted; be handed (over).
-4 it's time to go: leave, depart, go away, withdraw, absent oneself, make an exit, exit; set off, start out, get underway, be on one's way; decamp, retreat, retire, make off, clear out, run off, run away, flee, make a move; informal make tracks, push off, beat it, take off, skedaddle, scram, split, scoot. ANTONYMS arrive, come.
-5 how quickly the years go by : pass, elapse, slip by/past, roll by/past, tick away; fly by/past.
-6 a golden age that has gone for good: disappear, vanish, be no more, cease to exist, come to an end, be over, run its course, fade away; finish, end, cease. ANTONYMS return.
-7 when your money is gone, you'll come crawling back: be used up, be spent, be exhausted, be consumed, be drained, be depleted.
-8 I'd like to see my grandchildren before I go: die, pass away, pass on, lose one's life, expire, breathe one's last, perish, go to meet one's maker; informal give up the ghost, kick the bucket, croak, buy it, bite the big one, buy the farm, check out; archaic decease, depart this life.
-9 the bridge went suddenly: collapse, give way, fall down, cave in, crumble, disintegrate.
-10 his hair had gone gray: become, get, turn, grow.
-11 he heard the bell go: make a sound, sound, reverberate, resound; ring, chime, peal, toll, clang.
-12 everything went well: turn out, work out, develop, come out; result, end (up); informal pan out.
-13 those colors don't go: match, be harmonious, harmonize, blend, be suited, be complementary, coordinate, be compatible. ANTONYMS clash.
-14 my car won't go: function, work, run, operate.
-15 where does the cutlery go? belong, be kept.
-16 this all goes to prove my point: contribute, help, serve; incline, tend.
-▶noun
-1 her second go: attempt, try, effort, bid, endeavor; informal shot, stab, crack, bash, whirl, whack; formal essay.
-2 he has plenty of go in him: energy, vigor, vitality, life, liveliness, spirit, verve, enthusiasm, zest, vibrancy, sparkle; stamina, dynamism, drive, push, determination; informal pep, punch, oomph, get-up-and-go.
+go
+1 
+ɡō
+
+▶verb (goes, going; past went 
+went
+; past participle gone 
+ɡôn, ɡän
+)
+1 [no object] move from one place or point to another; travel: he went out to the store 
+she longs to go back home 
+we've got a long way to go. 
+• travel a specified distance: you just have to go a few miles to get to the road. 
+• travel or move in order to engage in a specified activity or course of action: let's go and have a beer 
+[with infinitive] : we went to see her 
+[with present participle] : she used to go hunting. 
+• (go to) attend or visit for a particular purpose: we went to the movies 
+he went to Brown University. 
+• [in imperative] begin motion (used in a starter's order to begin a race): ready, set, go! 
+• (go to) (of a rank or honor) be allotted or awarded: the top prize went to a twenty-four-year-old sculptor. 
+• (go into/to/toward) (of a thing) contribute to or be put into (a whole); be used for or devoted to: considerable effort went into making the operation successful. 
+• pass a specified amount of time in a particular way or under particular circumstances: sometimes they went for two months without talking. 
+• used to indicate how many people a supply of food, money, or another resource is sufficient for or how much can be achieved using it: the sale will go a long way toward easing the huge debt burden 
+a little luck can go a long way. 
+• (of a thing) lie or extend in a certain direction: the scar started just above her ankle and went all the way up inside her leg. 
+• change in level, amount, or rank in a specified direction: prices went up by
+15 percent. 
+• informal used to emphasize the speaker's annoyance at a specified action or event: then he goes and spoils it all 
+[with present participle] : don't go poking your nose where you shouldn't. 
+• informal said in various expressions when angrily or contemptuously dismissing someone: go and get stuffed.
+2 [no object] leave; depart: I really must go. 
+• (of time) pass or elapse: the hours went by 
+three years went past. 
+• come to an end; cease to exist: a golden age that has now gone for good 
+11,500 jobs are due to go by next year. 
+• leave or resign from a post: I tried to persuade the Chancellor not to go. 
+• be lost or stolen: when he returned minutes later, his equipment was gone. 
+• die (used euphemistically): I'd like to see my grandchildren before I go. 
+• (of money) be spent, especially in a specified way: the rest of his money went into medical expenses.
+3 (be going to be/do something) intend or be likely or intended to be or do something; be about to (used to express a future tense): I'm going to be late for work 
+she's going to have a baby.
+4 [no object] pass into a specified state, especially an undesirable one: the food is going bad 
+her mind immediately went blank 
+he's gone crazy. 
+• (go to/into) enter into a specified state, institution, or course of action: she turned over and went back to sleep 
+the car went into a spin 
+no one went hungry in our house. 
+• make a sound of a specified kind: the engine went bang. 
+• (of a bell or similar device) make a sound in functioning: I heard the buzzer go four times. 
+• [with direct speech] informal say: the kids go, “Yeah, sure.” 
+• (go by/under) be known or called by (a specified name): he now goes under the name Charles Perez.
+5 [no object] proceed in a specified way or have a specified outcome; turn out: how did the weekend go? 
+it all went off smoothly. 
+• be acceptable or permitted: underground events where anything goes. 
+• (of a song, account, verse, etc.) have a specified content or wording: if you haven't heard it, the story goes like this.
+6 [no object] be harmonious, complementary, or matching: rosemary goes with roast lamb 
+the earrings and the scarf don't really go. 
+• be found in the same place or situation; be associated: cooking and eating go together.
+7 [no object] (of a machine or device) function: my car won't go. 
+• continue in operation or existence: the committee was kept going even when its existence could no longer be justified.
+8 [no object] (of an article) be regularly kept or put in a particular place: remember which card goes in which slot. 
+• fit or be able to be accommodated in a particular place or space: you're trying to fit a round peg into a square hole, and it just won't go.
+9 [no object] informal use a toilet; urinate or defecate. 
+▶noun (plural goes) informal
+1 an attempt or trial at something: I thought I'd give it a go. 
+• chiefly British a state of affairs: this seems a rum sort of go. 
+• chiefly British an attack of illness: he's had this nasty go of dysentery. 
+• North American a project or undertaking that has been approved: tell them the project is a go. 
+• chiefly British used in reference to a single item, action, or spell of activity: he put it to his lips then knocked it back in one go.
+2 dated spirit, animation, or energy: there's no go in me at all these days. 
+• vigorous activity: it's all go around here. 
+▶adjective [predicative] informal functioning properly: all systems go. 
 PHRASES
-go about Ruth went about with her housework: set about, begin, embark on, start, commence, address oneself to, get down to, get to work on, get going on, undertake; approach, tackle, attack; informal get cracking on/with. go along with I'm willing to go along with that idea: agree to/with, fall in with, comply with, cooperate with, acquiesce in, assent to, follow; submit to, yield to, defer to. go around
-1 the wheels were going around: spin, revolve, turn, rotate, whirl.
-2 a nasty rumor is going around: be spread, be circulated, be put about, circulate, be broadcast. go away See go (sense
-4 of the verb). go back on she went back on her promise: renege on, break, fail to honor, default on, repudiate, retract; do an about-face; informal cop out (of). go by we have to go by his decision: obey, abide by, comply with, keep to, conform to, follow, heed, defer to, respect. go down
-1 the ship went down: sink, founder, go under.
-2 interest rates are going down: decrease, get lower, fall, drop, decline; plummet, plunge, slump.
-3 informal they went down in the first round: lose, be beaten, be defeated.
-4 his name will go down in history: be remembered, be recorded, be commemorated, be immortalized. go far stick with your aunts' company and you'll go far: be successful, succeed, be a success, do well, get on, get somewhere, get ahead, make good; informal make a name for oneself, make one's mark. go for
-1 I went for the tuna: choose, pick, opt for, select, decide on, settle on.
-2 the dog went for her: attack, assault, hit, strike, beat up, assail, set upon, rush at, lash out at; informal lay into, rough up, have a go at, beat up on.
-3 she goes for younger men: be attracted to, like, fancy; prefer, favor, choose; informal have a thing about. go in for until I got to San Juan, I'd never gone in for water sports: take part in, participate in, engage in, get involved in, join in, enter into, undertake; practice, pursue; espouse, adopt, embrace. go into you should have gone into the subject more thoroughly: investigate, examine, inquire into, look into, research, probe, explore, delve into; consider, review, analyze. go off the bomb went off: explode, detonate, blow up. go on
-1 the lecture went on for hours: last, continue, carry on, run on, proceed; endure, persist; take.
-2 she went on about her cruise: talk at length, ramble, rattle on, chatter, prattle, blather, twitter; informal gab, yak, yabber, yatter, run off at the mouth, mouth off.
-3 I'm not sure what went on: happen, take place, occur, transpire; informal go down; literary come to pass, betide. go out
-1 the lights went out: be turned off, be extinguished; stop burning.
-2 he's going out with Kate: see, date, take out, be someone's boyfriend/girlfriend, be involved with; informal go steady with, go with; dated court, woo, step out with. go over
-1 go over the figures: examine, study, scrutinize, inspect, look at/over, scan, check; analyze, appraise, review.
-2 we are going over our lines: rehearse, practice, read through, run through. go through
-1 the terrible things she has gone through: undergo, experience, face, suffer, be subjected to, live through, endure, brave, bear, tolerate, withstand, put up with, cope with, weather.
-2 she went through hundreds of dollars: spend, use up, run through, get through, expend, deplete, burn up; waste, squander, fritter away.
-3 she went through Sue's bag: search, look through, hunt through, rummage in/through, rifle through.
-4 I have to go through the report: examine, study, scrutinize, inspect, look over, scan, check; analyze, appraise, review.
-5 the deal has gone through: be completed, be concluded, be brought off; be approved, be signed, be rubber-stamped, be given the green light. go under another local restaurant has gone under: go bankrupt, be shut (down), go into receivership, go into liquidation, become insolvent, be liquidated, cease trading; fail; informal go broke, go belly up, fold. go without
-1 I went without breakfast: abstain from, refrain from, forgo, do without, deny oneself.
-2 the children did not go without: be deprived, be in want, go short, go hungry, be in need.
+as (or so) far as it goes bearing in mind its limitations (said when qualifying praise of something): the book is a useful catalog as far as it goes. as —— go compared to the average or typical one of the specified kind: as castles go, it is small and old. from the word go informal from the very beginning. go figure! North American informal said to express the speaker's belief that something is amazing or incredible. go great guns see gun. go halves share something equally.going!(, going!,) gone! an auctioneer's announcement that bidding is closing or closed. going on —— (British also going on for ——) approaching a specified time, age, or amount: I was going on fourteen when I went to my first gig.go (to) it British informal act in a vigorous, energetic, or dissipated way: Go it, Dad! Give him what for! go it alone see alone. go to show (or prove) (of an occurrence) serve as evidence or proof of something specified.have a go at
+1 make an attempt at; try: let me have a go at straightening the rim.
+2 chiefly British attack or criticize (someone): she's always having a go at me. have —— going for one informal used to indicate how much someone has in their favor or to their advantage: Why did she do it? She had so much going for her. make a go of informal be successful in (something): he's determined to make a go of his marriage. on the go informal very active or busy: he's been on the go all evening. to go chiefly North American (of food or drink from a restaurant or cafe) to be eaten or drunk off the premises: order one large cheese-and-peppers pizza, to go 
+(as adjective to-go) : if possible, grab a to-go coffee and hit the road early. what goes around comes around proverb the consequences of one's actions will have to be dealt with eventually. who goes there? said by a sentry as a challenge.PHRASAL VERBS go about
+1 begin or carry on work at (an activity); busy oneself with: you are going about this in the wrong way.
+2 Sailing change to the opposite tack. go after pursue or hunt down (someone). go against oppose or resist: he refused to go against the unions. 
+• be contrary to (a feeling or principle): these tactics go against many of our instincts. 
+• (of a judgment, decision, or result) be unfavorable for: the tribunal's decision went against them. go ahead proceed or be carried out without hesitation: the project will go ahead. go along with give one's consent or agreement to (a person or their views): the group has decided to go along with the committee's proposal. go around
+1 (chiefly British go round) spin: revolve: the wheels were going around.
+2 (chiefly British go round) (especially of food) be sufficient to supply everybody present: there was barely enough food to go around. 
+• (of an aircraft) abort an approach to landing and prepare to make a fresh approach. go around with be regularly in the company of: he goes around with some of the neighborhood kids. go at energetically attack or tackle: he went at things with a daunting eagerness. go back
+1 (of a clock) be set to an earlier standard time, especially at the end of daylight saving time.
+2 (of two people) have known each each for a specified, typically long, period of time: Victor and I go back longer than I care to admit. go back on fail to keep (a promise): he wouldn't go back on his word. go down
+1 (of a ship or aircraft) sink or crash: he saw eleven B-17s go down. 
+• be defeated in a contest: they went down 2–1.
+2 (of a person, period, or event) be recorded or remembered in a particular way: his name will now go down in history.
+3 be swallowed: solids can sometimes go down much easier than liquids.
+4 (of a person, action, or work) elicit a specified reaction: my slide shows went down reasonably well.
+5 North American informal happen: you really don't know what's going down?
+6 British informal leave a university, especially Oxford or Cambridge, after finishing one's studies: Dobbins went down last spring.
+7 vulgar slang have sexual intercourse (said by a male of a female). go down on vulgar slang perform oral sex on. go down with British begin to suffer from (a specified illness): I went down with an attack of bronchitis. go for
+1 decide on; choose: I wished that we had gone for plan 
+B.  
+• tend to find (a particular type of person) attractive: Dionne went for the outlaw type.
+2 attempt to gain or attain: he went for a job as a delivery driver. 
+• (go for it) strive to the utmost to gain or achieve something (frequently said as an exhortation): sounds like a good idea—go for it!
+3 launch oneself at (someone); attack: she went for him with clawed hands.
+4 end up having a specified value or effect: my good intentions went for nothing.
+5 apply to; have relevance for: the same goes for money-grubbing lawyers. go forward (of a clock) be set to a later standard time, especially daylight saving time. go in for like or habitually take part in (something, especially an activity): I don't go in for partying as much as Jesse and Rachel do. go into
+1 take up in study or as an occupation: he went into bankruptcy law.
+2 investigate or inquire into (something): there's no need to go into it now.
+3 (of a whole number) be capable of dividing another, typically without a remainder: six will go into eighteen, but not into five. go off
+1 (of a gun, bomb, or similar device) explode or fire. 
+• (of an alarm) begin to sound. 
+• informal become suddenly angry; lose one's temper: if you got in an argument with him, he'd just go off.
+2 chiefly British (especially of food) begin to decompose; become unfit for consumption.
+3 informal, chiefly British begin to dislike: I went off men after my husband left me.
+4 go to sleep: I went off as soon as my head hit the pillow. go on
+1 [often with present participle] continue or persevere: I can't go on protecting you. 
+• talk at great length, especially tediously or angrily: she went on about how lovely it would be to escape from the city. 
+• continue speaking or doing something after a short pause: [with direct speech] : “I don't understand,” she went on. 
+• informal said when encouraging someone or expressing disbelief: go on, tell him!
+2 happen; take place: my mom knows what went on.
+3 [often with infinitive] proceed to do: she went on to do postgraduate work. go out
+1 (of a fire or light) be extinguished. 
+• cease operating or functioning: the power went out on our block last night.
+2 (of the tide) ebb; recede to low tide.
+3 leave one's home to go to an entertainment or social event, typically in the evening: I'm going out for dinner. 
+• carry on a regular romantic, and sometimes sexual, relationship: he was going out with her best friend.
+4 used to convey someone's deep sympathy or similar feeling: the boy's heart went out to the pitiful figure.
+5 Golf play the first nine holes in a round of eighteen holes. Compare with come home (see home).
+6 (in some card games) be the first to dispose of all the cards in one's hand. go over
+1 examine, consider, or check the details of (something): I want to go over these plans with you again.
+2 change one's allegiance or religion: he went over to the Democratic Party.
+3 (especially of an action or performance) be received in a specified way: his earnestness would go over well in a courtroom. go round chiefly British See go around. go through
+1 undergo (a difficult or painful period or experience): the country is going through a period of economic instability.
+2 search through or examine carefully or in sequence: she started to go through the bundle of letters.
+3 (of a proposal or contract) be officially approved or completed: the sale of the building is set to go through.
+4 informal use up or spend (available money or other resources).
+5 (of a book) be successively published in (a specified number of editions): within two years it went through thirty-one editions. go through with perform (an action or process) to completion despite difficulty or unwillingness: he bravely went through with the ceremony. go under (of a business) become bankrupt. 
+• (of a person) die or suffer an emotional collapse. go up
+1 (of a building or other structure) be built: housing developments went up.
+2 explode or suddenly burst into flames: last night two factories went up in flames.
+3 British informal begin one's studies at a university, especially Oxford or Cambridge. go with
+1 give one's consent or agreement to (a person or their views).
+2 have a romantic or sexual relationship with (someone). go without suffer lack or deprivation: I like to give my children what they want, even if I have to go without.ORIGIN Old English gān, of Germanic origin; related to Dutch gaan and German gehen; the form went was originally the past tense of wend . usage: The use of go followed by and, as in I must go and change (rather than I must go to change), is extremely common but is regarded by some grammarians as an oddity. For more details, see usage at and .

@@ -9,10 +9,17 @@ B.  transitive verb
 ① (infringe) 违反 wéifǎn ‹law, contract›
 ② (break through) 在…上打开缺口 zài… shang dǎkāi quēkǒu ‹wall, defences›
 breach 
+brēCH
+
 ▶noun
-1 a clear breach of the regulations: contravention, violation, infringement, infraction, transgression, neglect; Law delict.
-2 a breach between government and Church: rift, schism, division, gulf, chasm; disunion, estrangement, discord, dissension, disagreement; split, break, rupture, scission.
-3 a breach in the sea wall: break, rupture, split, crack, fracture; opening, gap, hole, fissure.
-▶verb
-1 the river breached its bank: break (through), burst (through), rupture; informal bust (through).
-2 the changes breached union rules: break, contravene, violate, infringe; defy, disobey, flout, fly in the face of; Law infract.
+1 an act of breaking or failing to observe a law, agreement, or code of conduct: a breach of confidence 
+they alleged breach of copyright. 
+• a break in relations: a sudden breach between father and son.
+2 a gap in a wall, barrier, or defense, especially one made by an attacking army. 
+▶verb [with object]
+1 make a gap in and break through (a wall, barrier, or defense): the river breached its bank. 
+• break or fail to observe (a law, agreement, or code of conduct).
+2 [no object] (of a whale) rise and break through the surface of the water. 
+PHRASES
+breach of contract an act of breaking the terms set out in a contract: I'm going to raise this as a breach of contract 
+the theater promptly sued him for breach of contract. breach of the peace an act of violent or noisy behavior that causes a public disturbance and is considered a criminal offense. breach of promise the action of breaking a sworn assurance to do something, formerly especially to marry someone. step into the breach replace someone who is suddenly unable to do a job or task.ORIGIN Middle English: from Old French breche, ultimately of Germanic origin; related to break1 .

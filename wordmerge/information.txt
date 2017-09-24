@@ -5,4 +5,11 @@ nounUncountable
 ② AmE Telecommunications 电话号码查询台 diànhuà hàomǎ cháxúntái to call information 打电话给查号台 
 ③ (data) 数据 shùjù genetically transmitted information 基因遗传信息 
 information 
-▶noun we'll give you the latest information: details, particulars, facts, figures, statistics, data; knowledge, intelligence; instruction, advice, guidance, direction, counsel, enlightenment; news, word; hot tip; informal info, lowdown, dope, dirt, inside story, scoop, poop.CHOOSE THE RIGHT WORD See knowledge .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+ˌinfərˈmāSH(ə)n
+
+▶noun
+1 facts provided or learned about something or someone: a vital piece of information. 
+• Law a formal criminal charge lodged with a court or magistrate by a prosecutor without the aid of a grand jury: the tenant may lay an information against his landlord.
+2 what is conveyed or represented by a particular arrangement or sequence of things: genetically transmitted information. 
+• Computing data as processed, stored, or transmitted by a computer. 
+• (in information theory) a mathematical quantity expressing the probability of occurrence of a particular sequence of symbols, impulses, etc., as contrasted with that of alternative sequences. ORIGIN late Middle English (also in the sense ‘formation of the mind, teaching’), via Old French from Latin informatio(n-), from the verb informare (see inform) .

@@ -10,8 +10,13 @@ A.  [relate to somebody/something] transitive verb
 ② (identify with) 理解某人/某事物 lǐjiě mǒu rén/mǒu shìwù I can't relate to the painting 我看不懂这幅画 I can relate to that! 那个我懂！ an image that people can relate to 人们能理解的形象 to relate to avant garde music 了解前卫音乐 
 B.  [relate to somebody] transitive verb (communicate with) 与…沟通 yǔ… gōutōng the way children relate to their teachers 孩子与老师交流的方式 
 relate 
-▶verb
-1 he related many stories: tell, recount, narrate, report, chronicle, outline, delineate, retail, recite, repeat, communicate, impart.
-2 suicide rates are related to unemployment levels: connect to/with, associate with, link to/with, correlate to/with, ally with, couple with.
-3 the charges relate to offenses committed in August: apply to, be relevant to, concern, pertain to, be pertinent to, have a bearing on, appertain to, involve.
-4 she cannot relate to her stepfather: have a rapport with, get on (well) with, sympathize with, feel for, identify with, empathize with, understand; informal hit it off with.
+rəˈlāt
+
+▶verb [with object]
+1 
+• make or show a connection between: the study examines social change within the city and relates it to wider developments in the country as a whole. 
+• (be related) be causally connected: high unemployment is related to high crime rates. (be related) be connected by blood or marriage: he was related to my mother 
+people who are related. 
+• [no object] (relate to) have reference to; concern: the new legislation related to corporate activities.
+2 [no object] (relate to) feel sympathy with; identify with: kids related to him because he was so anti-establishment.
+3 give an account of (a sequence of events); narrate: various versions of the chilling story have been related by the locals. ORIGIN mid 16th century: from Latin relat- ‘brought back,’ from the verb referre (see refer) .

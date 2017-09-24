@@ -12,7 +12,24 @@ A.  noun
 B.  transitive verb 爬上 páshang ‹wall, ladder›; 攀上 pānshang ‹mountain, tower›PHRASAL VERBS scale down especially AmE scale back transitive verb[scale something down, scale down something] 缩小 suōxiǎo ‹drawing, plan›; 削减 xuējiǎn ‹production, imports, expenditure, investment›; 降低 jiàngdī ‹price, earnings›a scaled down version (of [something]) （某物的）缩小版 the army is scaling down its operations 军队现正把军事行动降级 scale up transitive verb[scale something up, scale up something] 放大 fàngdà ‹drawing, plan›; 增加 zēngjiā ‹production, imports, expenditure, investment›; 提高 tígāo ‹price, earnings›a scaled up version (of [something]) （某物的）扩大版 the army is scaling up its operations 军队现正把军事行动升级 
 scale
 1 
+skāl
+
 ▶noun
-1 reptiles have scales covering the skin: plate; technical lamella, lamina, squama, scute, scutum.
-2 the disease causes scales on the skin: flake; (scales) scurf, dandruff; technical furfur.
-3 how can I remove the scale from my tea kettle? buildup, deposit, incrustation.
+1 each of the small, thin horny or bony plates protecting the skin of fish and reptiles, typically overlapping one another.
+2 something resembling a fish scale in appearance or function, in particular: 
+• a thick dry flake of skin. 
+• a rudimentary leaf, feather, or bract. 
+• each of numerous microscopic tilelike structures covering the wings of butterflies and moths.
+3 a flaky deposit, in particular: 
+• a white deposit formed in a kettle, boiler, etc., by the evaporation of water containing lime. 
+• tartar formed on teeth. 
+• a coating of oxide formed on heated metal. 
+▶verb
+1 [with object] remove scale or scales from: he scales the fish and removes the innards. 
+• remove tartar from (teeth) by scraping them.
+2 [no object] (often as noun scaling) (especially of the skin) form scales: moisturizers can ease off drying and scaling. 
+• come off in scales or thin pieces; flake off: the paint was scaling from the brick walls. DERIVATIVES scaleless 
+ˈskāl(l)is 
+adjective. scaler 
+ˈskālər 
+nounORIGIN Middle English: shortening of Old French escale, from the Germanic base of scale2 .

@@ -5,5 +5,10 @@ A.  noun 首字母 shǒuzìmǔ what's your first/second initial? 你名字的第
 B.  adjective 开始的 kāishǐ de ‹problem, capital›; 最初的 zuìchū de ‹reaction, investment, expenditure›in the initial stages 在初始阶段 
 C.  transitive verb(present participle etc. -ll- BrE, -l- AmE ) 用姓名首字母签署 yòng xìngmíng shǒuzìmǔ qiānshǔ ‹page, letter, document›
 initial 
-▶adjective the initial stages: beginning, opening, commencing, starting, inceptive, embryonic, fledgling; first, early, primary, preliminary, elementary, foundational, preparatory; introductory, inaugural. ANTONYMS final.
-▶verb he initialed the warrant: put one's initials on, initialize, sign, ink, countersign, autograph, endorse, inscribe, witness, verify.
+iˈniSHəl
+
+▶adjective [attributive] existing or occurring at the beginning: our initial impression was favorable. 
+• (of a letter) at the beginning of a word. 
+▶noun (usually initials) the first letter of a name or word, typically a person's name or a word forming part of a phrase: they carved their initials into the tree trunk. 
+▶verb (initials, initialing, initialed; British initials, initialling, initialled) [with object] mark or sign (a document) with one's initials, especially in order to authorize or validate it. 
+• agree to or ratify (a treaty or contract) by signing it. ORIGIN early 16th century: from Latin initialis, from initium ‘beginning,’ from inire ‘go in,’ from in- ‘into’ + ire ‘go.’

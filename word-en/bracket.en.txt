@@ -1,5 +1,17 @@
 bracket 
+ˈbrakit
+
 ▶noun
-1 each speaker is fixed on a separate bracket: support, prop, stay, batten, joist; rest, mounting, rack, frame.
-2 put the words in brackets: parenthesis, square bracket; Printing brace.
-3 a higher tax bracket: group, category, grade, classification, set, division, order.
+1 each of a pair of marks [ ] used to enclose words or figures so as to separate them from the context: symbols are given in brackets.
+2 [with adjective or noun modifier] a category of people or things that are similar or fall between specified limits: those in a high income bracket.
+3 a right-angled support attached to and projecting from a wall for holding a shelf, lamp, or other object.
+4 Military the distance between two artillery shots fired either side of the target to establish range.
+5 US a diagram representing the sequence of games in a sports tournament, especially as used for making predictions about its outcome: with the March Madness tournament half the fun is filling out your bracket. 
+▶verb (brackets, bracketing, bracketed) [with object]
+1 enclose (words or figures) in brackets: (as adjective bracketed) : the relevant data are included as bracketed points. 
+• Mathematics enclose (a complex expression) in brackets to denote that the whole of the expression rather than just a part of it has a particular relation, such as multiplication or division, to another expression. 
+• put (a belief or matter) aside temporarily: he bracketed off the question of God.
+2 place (one or more people or things) in the same category or group: he is sometimes bracketed with the “new wave” of film directors.
+3 hold or attach (something) by means of a right-angled support: pipes should be bracketed.
+4 Military establish the range of (a target) by firing two preliminary shots, one short of the target and the other beyond it. 
+• Photography establish (the correct exposure) by taking several pictures with slightly more or less exposure. ORIGIN late 16th century: from French braguette or Spanish bragueta ‘codpiece, bracket, corbel,’ from Provençal braga, from Latin braca, (plural) bracae ‘breeches.’

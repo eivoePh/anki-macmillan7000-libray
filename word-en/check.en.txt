@@ -1,17 +1,53 @@
-check 
-▶verb
-1 troops checked all vehicles 
-I checked her background: examine, inspect, look at/over, scrutinize, survey; study, investigate, research, probe, look into, inquire into; informal check out, give something a once-over.
-2 he checked that the gun was cocked: make sure, confirm, verify.
-3 two defeats checked their progress: halt, stop, arrest, cut short; bar, obstruct, hamper, impede, inhibit, frustrate, foil, thwart, curb, block, stall, hold up, retard, delay, slow down; literary stay.
-4 her tears could not be checked: suppress, repress, restrain, control, curb, rein in, stifle, hold back, choke back; informal keep a lid on.
+check
+1 
+CHek
+
+▶verb [with object]
+1 examine (something) in order to determine its accuracy, quality, or condition, or to detect the presence of something: customs officers have the right to check all luggage 
+[no object] : a simple blood test to check for anemia. 
+• verify or establish to one's satisfaction: check the expiration date on your passport 
+[with clause] : she glanced over her shoulder to check that the door was shut. 
+• (check something against) verify the accuracy of something by comparing it with (something else): keep your receipt to check against your statement. 
+• [no object] agree or correspond when compared. 
+• informal look at; take notice of: check the remix.
+2 stop or slow down the progress of (something undesirable): efforts were made to check the disease. 
+• curb or restrain (a feeling or emotion): he learned to check his excitement. 
+• Ice Hockey hamper or neutralize (an opponent) with one's body or stick. 
+• [no object] (check against) provide a means of preventing: processes to check against deterioration in the quality of the data held.
+3 North American (of a passenger) consign (baggage) to the care of the transport provider with whom they are traveling: I checked my bag and got my boarding pass. 
+• deposit (a coat, bag, or other item) for temporary safekeeping in the cloakroom of a restaurant, theater, etc.: the drinks weren't expensive and there's no cover charge but you do have to check your coat for $3.00.
+4 mark or click on (a box) in order to select a particular option on a form, questionnaire, etc.: users who want privacy should check the box that prevents your files from being shared.
+5 [with object] Chess move a piece or pawn so that (the opposing king) is under attack.
+6 [no object] (in poker) choose not to make a bet when called upon, allowing the action to move to another player.
+7 [no object] (of a hound) pause to make sure of or regain a scent. 
+• (of a trained hawk) abandon the intended quarry and fly after other prey. 
 ▶noun
-1 a check of the records: examination, inspection, scrutiny, perusal, study, investigation, probe, analysis; test, trial, monitoring; checkup; informal once-over, look-see.
-2 a check on the abuse of authority: control, restraint, constraint, curb, limitation.
-3 write a check in the amount of $150: bank draft; traveler's check, certified check, bank check; paycheck.
-4 the waitress arrived with the check: bill, account, invoice, statement, tab.
+1 an examination to test or ascertain accuracy, quality, or satisfactory condition: a campaign calling for regular checks on gas appliances 
+a health check.
+2 a stopping or slowing of progress: there was no check to the expansion of the market. 
+• a means of control or restraint: a permanent check upon the growth or abuse of central authority. 
+• Ice Hockey an act of hampering or neutralizing an opponent with one's body or stick. 
+• a temporary loss of the scent in hunting. 
+• Falconry a false stoop when a hawk abandons its intended quarry and pursues other prey.
+3 Chess a move by which a piece or pawn directly attacks the opponent's king. If the defending player cannot counter the attack, the king is checkmated.
+4 (British cheque) a written order to a bank to pay a stated sum from the drawer's account: he was awarded a check for $1,000. 
+• North American the bill in a restaurant.
+5 (also baggage or luggage check) a token of identification for left luggage.
+6 a counter used as a stake in a gambling game.
+7 North American short for check mark.
+8 a part of a piano that catches the hammer and prevents it from retouching the strings.
+9 a crack or flaw in timber. 
+▶exclam.
+1 informal, chiefly North American expressing assent or agreement.
+2 used by a chess player to announce that the opponent's king has been placed in check. 
 PHRASES
-check in I checked in at two o'clock sharp: report (one's arrival), sign in, register. check out
-1 we'll be checking out in the morning: leave, vacate, depart; pay the bill, settle up.
-2 the police checked out dozens of leads: investigate, look into, inquire into, probe, research, examine, go over; assess, analyze, evaluate; follow up; informal give something a once-over, scope out.
-3 she checked herself out in the mirror: look at, survey, regard, inspect, contemplate; informal eyeball. keep in check I try to keep my temper in check: curb, restrain, hold back, keep a tight rein on, rein in/back; control, govern, master, suppress, stifle; informal keep a lid on.
+in check
+1 under control: a way of keeping inflation in check.
+2 Chess (of a king) directly attacked by an opponent's piece or pawn; (of a player) having the king in this position. keep a check on monitor: keep a regular check on your score.PHRASAL VERBS check in arrive and register at a hotel or airport: you must check in at least one hour before take-off. check someone in register someone upon their arrival at a hotel or airport: they check in the passengers. check something in (of a passenger) consign baggage to the care of the transport provider with whom they are traveling: I got a taxi to the airport and checked my bags in. 
+• deposit a coat, bag, or other item for temporary safekeeping in the cloakroom of a restaurant, theater, etc.: he was checking in his coat on the second floor when people started rushing past him. check into register one's arrival at (a hotel). check something off chiefly North American mark an item on a list, typically with a check mark, to show that it has been dealt with: check off each assignment as you complete it. check on
+1 verify, ascertain, or monitor the state or condition of: the doctor had come to check on his patient.
+2 another way of saying check up on. check out settle one's hotel bill before leaving. 
+• North American informal die. check someone/something out
+1 establish the truth or inform oneself about someone or something: they decided to go and check out a local restaurant.
+2 (check something out) chiefly North American enter the price of goods in a supermarket into a cash machine for addition and payment by a customer. 
+• register something as having been borrowed. check something over inspect or examine something thoroughly. check through inspect or examine thoroughly. check up on investigate in order to establish the truth about or accuracy of.DERIVATIVES checkable adjectiveORIGIN Middle English (originally as used in the game of chess): the noun and exclamation from Old French eschec, from medieval Latin scaccus, via Arabic from Persian šāh ‘king’; the verb from Old French eschequier ‘play chess, put in check.’ The sense ‘stop, restrain, or control’ arose from the use in chess, and led (in the late 17th century) to ‘examine the accuracy of, verify.’

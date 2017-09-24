@@ -6,7 +6,12 @@ A.  adjective
 ② predicative (liable) 容易…的 róngyì… de to be prone to [something]; 容易遭受某事 prone to injury/illness 易受伤/易患病的 to be prone to lose one's temper 容易发脾气 
 B.  -prone combining form 有…倾向的 yǒu… qīngxiàng de a strikeprone industry 易发生罢工的产业 
 prone 
+prōn
+
 ▶adjective
-1 untreated wood is prone to rotting 
-prone to disease: susceptible, vulnerable, subject, open, liable, given, predisposed, likely, disposed, inclined, apt; at risk of. ANTONYMS resistant, immune.
-2 his prone body: (lying) face down, face downward, on one's stomach/front; lying flat/down, horizontal, prostrate. ANTONYMS upright.
+1 [predicative] (prone to/prone to do something) likely to or liable to suffer from, do, or experience something, typically something regrettable or unwelcome: years of logging had left the mountains prone to mudslides 
+he is prone to jump to conclusions.
+2 lying flat, especially face downward: I was lying prone on a foam mattress 
+a prone position. 
+• technical denoting the position of the forearm with the palm of the hand facing downward.
+3 archaic with a downward slope or direction. ORIGIN late Middle English: from Latin pronus ‘leaning forward,’ from pro ‘forward.’

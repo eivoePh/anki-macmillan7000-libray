@@ -2,4 +2,20 @@ devise
 BrE dɪˈvʌɪz, AmE dəˈvaɪz 
 transitive verb (create) 设计 shèjì ‹plan, style›(invent) 发明 fāmíng ‹product›of his/her etc. own devising; 他/她等自己的设计 his problems are (entirely) of his own devising 他的问题（完全）是他自己造成的 
 devise 
-▶verb they have devised a way to recycle contaminated oil: conceive, think up, dream up, work out, formulate, concoct; design, invent, coin, originate; compose, construct, fabricate, create, produce, develop; discover, hit on; hatch, contrive; informal cook up.
+dəˈvīz
+
+▶verb [with object]
+1 plan or invent (a complex procedure, system, or mechanism) by careful thought: a training program should be devised 
+a complicated game of his own devising.
+2 Law leave (real estate) to someone by the terms of a will. 
+▶noun Law a clause in a will leaving real estate to someone. DERIVATIVES devisable 
+dəˈvīzəb(ə)l 
+adjective. devisee 
+dəˌvīˈzē 
+noun devise ( sense
+2 of the verb) . deviser 
+dəˈvīzər dēˈvīzər 
+noun. devisor 
+dəˈvīzər 
+noun devise ( sense
+2 of the verb) ORIGIN Middle English: the verb from Old French deviser, from Latin divis- ‘divided,’ from the verb dividere (this sense being reflected in the original English sense of the verb); the noun is a variant of device (in the early sense ‘will, desire’).

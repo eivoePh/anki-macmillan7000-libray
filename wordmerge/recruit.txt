@@ -11,10 +11,12 @@ B.  transitive verb
 ④ (muster) 召集 zhàojí ‹force, team, squad, corps›
 C.  intransitive verb «army» 征兵 zhēngbīng ; «police» 招募新警员 zhāomù xīn jǐngyuán ; «party, movement» 招收新成员 zhāoshōu xīn chéngyuán 
 recruit 
-▶verb
-1 more soldiers were recruited: enlist, call up, conscript, draft, muster in; archaic levy.
-2 the king recruited an army: muster, form, raise, mobilize. ANTONYMS disband.
-3 the company is recruiting staff: hire, employ, take on; enroll, sign up, engage. ANTONYMS dismiss.
-▶noun
-1 thousands of recruits were enlisted: conscript, new soldier; draftee, yardbird.
-2 top-quality recruits: new member, new entrant, newcomer, initiate, beginner, novice, tenderfoot, hire; informal rookie, newbie, greenhorn.
+rəˈkro͞ot
+
+▶verb [with object] enlist (someone) in the armed forces: they recruit their toughest soldiers from the desert tribes 
+[no object] : the regiment was still actively recruiting. 
+• form (an army or other force) by enlisting new people: a basis for recruiting an army. 
+• enroll (someone) as a member or worker in an organization or as a supporter of a cause: there are plans to recruit more staff later this year. 
+• [with object and infinitive] informal persuade (someone) to do or assist in doing something: she recruited her children to help run the racket. 
+▶noun a person newly enlisted in the armed forces and not yet fully trained: 3,000 army recruits at Ft. Benjamin. 
+• a new member of an organization or a new supporter of a cause: after agreeing on a salary, the new recruit failed to turn up on Monday morning. DERIVATIVES recruitable adjectiveORIGIN mid 17th century (in the senses ‘fresh body of troops’ and ‘supplement the numbers in (a group)’): from obsolete French dialect recrute, based on Latin recrescere ‘grow again,’ from re- ‘again’ + crescere ‘grow.’

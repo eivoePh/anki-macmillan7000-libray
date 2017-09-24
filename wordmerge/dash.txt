@@ -19,12 +19,24 @@ D.  exclamation colloquial dated 糟糕 zāogāo dash (it) ! I've forgotten my k
 A.  transitive verb [dash off something, dash something off] 匆匆地写 cōngcōng de xiě ‹note, essay›; 匆匆地画 cōngcōng de huà ‹sketch›
 B.  intransitive verb 飞奔 fēibēn he dashed off without saying goodbye 他“再见”都没说就匆匆离开了 
 dash 
+daSH
+
 ▶verb
-1 he dashed home: rush, race, run, sprint, bolt, dart, gallop, career, charge, shoot, hurtle, careen, fly, speed, zoom, scurry, scuttle, scamper; informal tear, belt, scoot, zip, whip, hotfoot it, leg it, bomb, barrel. ANTONYMS dawdle.
-2 he dashed the glass to the ground: hurl, smash, crash, slam, throw, toss, fling, pitch, cast, project, propel, send; informal chuck, heave, sling, peg.
-3 rain dashed against the walls: be hurled, crash, smash; batter, strike, beat, pound, lash.
-4 her hopes were dashed: shatter, destroy, wreck, ruin, crush, devastate, demolish, blight, overturn, scotch, spoil, frustrate, thwart, check; informal blow a hole in, scuttle. ANTONYMS raise.
+1 [no object, usually with adverbial of direction] run or travel somewhere in a great hurry: I dashed into the garden 
+I must dash, I'm late.
+2 [with object] strike or fling (something) somewhere with great force, especially so as to have a destructive effect; hurl: the ship was dashed upon the rocks. 
+• [no object, with adverbial of direction] strike forcefully against something: a gust of rain dashed against the bricks. 
+• destroy or frustrate (a person's hopes or expectations): the budget dashed hopes of an increase in funding. 
+• cause (someone) to lose confidence; dispirit: I won't tell Stuart—I think he'd be dashed. 
+▶exclam. British informal, dated used to express mild annoyance: “Dash it all, I am in charge.” 
 ▶noun
-1 a dash for the door: rush, race, run, sprint, bolt, dart, leap, charge, bound, break; scramble.
-2 a dash of salt: pinch, touch, sprinkle, taste, spot, drop, dab, speck, smattering, sprinkling, splash, bit, modicum, little; informal smidgen, tad, lick.
-3 he led off with such dash: verve, style, flamboyance, gusto, zest, confidence, self-assurance, elan, flair, vigor, vivacity, sparkle, brio, panache, éclat, vitality, dynamism; informal pizzazz, pep, oomph.
+1 [in singular] an act of running somewhere suddenly and hastily: she made a dash for the door. 
+• a journey or period of time characterized by urgency or eager haste: a 20-mile dash to the airport. 
+• North American a short fast race run in one heat; a sprint: the 100-yard dash.
+2 a small quantity of a substance, especially a liquid, added to something else: whiskey with a dash of soda. 
+• a small amount of a particular quality adding piquancy or distinctiveness to something else: a casual atmosphere with a dash of sophistication.
+3 a horizontal stroke in writing or printing to mark a pause or break in sense, or to represent omitted letters or words. 
+• the longer signal of the two used in Morse code. Compare with dot1. 
+• Music a short vertical mark placed above or beneath a note to indicate that it is to be performed in a very staccato manner.
+4 impetuous or flamboyant vigor and confidence; panache: he has youthful energy, dash, and charisma.
+5 short for dashboard. PHRASAL VERBS dash something off write something hurriedly and without much premeditation.ORIGIN Middle English (in the sense ‘strike forcibly against’): probably symbolic of forceful movement and related to Swedish daska and Danish daske .

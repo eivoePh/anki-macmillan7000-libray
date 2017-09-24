@@ -6,9 +6,9 @@ noun
 ③ Nautical 海军中队 hǎijūn zhōngduì 
 ④ figurative colloquial (large group) 一大群 yī dà qún 
 squadron 
-BrE ˈskwɒdrən, AmE ˈskwɑdrən 
-noun 
-① BrE (air force unit) 空军中队 kōngjūn zhōngduì a fighter squadron 战斗机中队 
-② (in cavalry regiment) 骑兵中队 qíbīng zhōngduì ; (in armoured regiment) 装甲兵连 zhuāngjiǎbīnglián 
-③ Nautical 海军中队 hǎijūn zhōngduì 
-④ figurative colloquial (large group) 一大群 yī dà qún 
+ˈskwädrən
+
+▶noun an operational unit in an air force consisting of two or more flights of aircraft and the personnel required to fly them. 
+• a principal division of an armored or cavalry regiment, consisting of two or more troops. 
+• a group of warships detached on a particular duty or under the command of a flag officer. 
+• informal a large group of people or things: he immediately commissioned a squadron of architects. ORIGIN mid 16th century (originally denoting a group of soldiers in square formation): from Italian squadrone, from squadra ‘square.’

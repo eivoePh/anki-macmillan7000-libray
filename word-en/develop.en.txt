@@ -1,7 +1,18 @@
 develop 
-▶verb
-1 the industry developed rapidly: grow, expand, spread; advance, progress, evolve, mature; prosper, thrive, flourish, blossom.
-2 a plan was developed: initiate, instigate, set in motion; originate, invent, form, establish, generate; productize.
-3 children should develop their talents: expand, augment, broaden, supplement, reinforce; enhance, refine, improve, polish, perfect.
-4 a fight developed: start, begin, emerge, erupt, break out, burst out, arise, break, unfold, happen.
-5 he developed the symptoms last week: fall ill with, be stricken with, succumb to; contract, catch, get, pick up, come down with, become infected with.
+dəˈveləp
+
+▶verb (develops, developing, developed)
+1 grow or cause to grow and become more mature, advanced, or elaborate: [no object] : motion pictures developed into mass entertainment 
+(as adjective developing) : this is a rapidly developing field 
+[with object] : entrepreneurs develop their skills through trial and error. 
+• [no object] (often as adjective developing) (of a poor agricultural country) become more economically and socially advanced: the developing world. 
+• [with object] convert (land) to a new purpose by constructing buildings or making other use of its resources. 
+• construct or convert (a building) so as to improve existing resources. 
+• [with object] elaborate (a musical theme) by modification of the melody, harmony, or rhythm. 
+• [with object] Chess bring (a piece) into play from its initial position on a player's back rank. 
+• [with object] Geometry convert (a curved surface) conceptually into a plane figure as if by unrolling. 
+• [with object] Mathematics expand (a function, etc.) in the form of a series.
+2 start to exist, experience, or possess: [no object] : a strange closeness developed 
+[with object] : I developed an interest in law 
+[with object] : AIDS patients often develop a rare type of cancer.
+3 [with object] treat (a photographic film) with chemicals to make a visible image. ORIGIN mid 17th century (in the sense ‘unfold, unfurl’): from French développer, based on Latin dis- ‘un-’ + a second element of unknown origin found also in envelop .

@@ -7,6 +7,13 @@ noun
 ④ (business record) (account book) 流水账 liúshuǐzhàng 
 ⑤ Technology journal (bearing) 轴颈 zhóujǐng 
 journal 
+ˈjərnl
+
 ▶noun
-1 a medical journal: periodical, magazine, gazette, digest, review, newsletter, bulletin; newspaper, paper, tabloid, broadsheet; daily, weekly, monthly, quarterly.
-2 he keeps a journal: diary, daily record, daybook, log, logbook, chronicle; trademark daytimer.
+1 a newspaper or magazine that deals with a particular subject or professional activity: medical journals 
+[in names] : the Wall Street Journal.
+2 a daily record of news and events of a personal nature; a diary. 
+• Nautical a logbook. 
+• (the Journals) a record of the daily proceedings in the British Houses of Parliament. 
+• (in bookkeeping) a daily record of business transactions with a statement of the accounts to which each is to be debited and credited.
+3 Mechanics the part of a shaft or axle that rests on bearings. ORIGIN late Middle English (originally denoting a book containing the appointed times of daily prayers): from Old French jurnal, from late Latin diurnalis (see diurnal) .

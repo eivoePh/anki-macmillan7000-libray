@@ -1,7 +1,15 @@
 compromise 
-▶noun
-1 they reached a compromise: agreement, understanding, settlement, terms, deal, trade-off, bargain; middle ground, happy medium, balance.
-2 a happy marriage needs compromise: give and take, concession, cooperation. ANTONYMS intransigence.
+ˈkämprəˌmīz
+
+▶noun an agreement or a settlement of a dispute that is reached by each side making concessions: an ability to listen to two sides in a dispute, and devise a compromise acceptable to both 
+the secret of a happy marriage is compromise. 
+• a middle state between conflicting opinions or actions reached by mutual concession or modification: a compromise between commercial appeal and historical interest. 
+• the acceptance of standards that are lower than is desirable: sexism should be tackled without compromise. 
 ▶verb
-1 we compromised: meet each other halfway, come to an understanding, make a deal, make concessions, find a happy medium, strike a balance; give and take.
-2 his actions could compromise his reputation: undermine, weaken, damage, harm; jeopardize, prejudice; discredit, dishonor, shame, embarrass.
+1 [no object] settle a dispute by mutual concession: in the end we compromised and deferred the issue. 
+• [with object] archaic settle (a dispute) by mutual concession: I should compromise the matter with my father.
+2 [no object] accept standards that are lower than is desirable: we were not prepared to compromise on safety. 
+• [with object] weaken (a reputation or principle) by accepting standards that are lower than is desirable: commercial pressures could compromise safety.
+3 [with object] bring into disrepute or danger by indiscreet, foolish, or reckless behavior: situations in which his troops could be compromised. 
+• cause to become vulnerable or function less effectively: yo-yo dieting can compromise your immune system 
+last month's leak of source code will not compromise your IT security. DERIVATIVES compromiser nounORIGIN late Middle English (denoting mutual consent to arbitration): from Old French compromis, from late Latin compromissum ‘a consent to arbitration,’ neuter past participle of compromittere, from com- ‘together’ + promittere (see promise) .

@@ -1,7 +1,15 @@
 refer 
-▶verb
-1 he referred to errors in the article: mention, make reference to, allude to, touch on, speak of/about, talk of/about, write about, comment on, deal with, point out, call attention to.
-2 the matter has been referred to my insurers: pass, hand over, hand, send on, transfer, remit, entrust, assign.
-3 these figures refer to only the year 2001: apply to, be relevant to, concern, relate to, be connected with, pertain to, appertain to, be pertinent to, have a bearing on, cover.
-4 the name refers to a native village: denote, describe, indicate, mean, signify, designate.
-5 the doctor referred to his notes: consult, turn to, look at, have recourse to.
+rəˈfər
+
+▶verb (refers, referring, referred)
+1 [no object] (refer to) mention or allude to: the reports of the commission are often referred to in the media 
+New York, referred to as the Big Apple. 
+• [with object] (refer someone to) direct the attention of someone to: I refer my colleague to the reply that I gave some moments ago. 
+• (refer to) (of a word or phrase) describe or denote; have as a referent: the term “rhetoric” almost invariably refers to persuasion.
+2 [with object] (refer something to) pass a matter to (another body, typically one with more authority or expertise) for a decision: disagreement arose and the issue was referred back to the Executive Committee. 
+• (refer someone to) send or direct someone to a medical specialist: she was referred to a clinical psychologist for counseling. 
+• [no object] (refer to) read or otherwise use (a source of information) in order to ascertain something; consult: I always refer to a dictionary when I come across a new word.
+3 [with object] (refer something to) archaic trace or attribute something to (someone or something) as a cause or source: the God to whom he habitually referred his highest inspirations. 
+• regard something as belonging to (a certain period, place, or class). DERIVATIVES referable 
+ˈref(ə)rəbəl rəˈfərəbəl 
+adjective. referrer nounORIGIN late Middle English: from Old French referer or Latin referre ‘carry back,’ from re- ‘back’ + ferre ‘bring.’

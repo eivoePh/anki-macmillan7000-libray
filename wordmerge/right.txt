@@ -44,27 +44,64 @@ G.  reflexive verb
 ① (regain upright position) 恢复直立 huīfù zhílì she quickly righted herself and continued along the path 她迅速站直，继续沿着小路前行 to right itself «vehicle, ship, plane» 恢复平稳 
 ② (return to normal) 恢复正常 huīfù zhèngcháng to right itself «situation» 恢复正常 huīfù zhèngcháng «problem» 得到纠正 dédào jiūzhèng 
 right 
+rīt
+
 ▶adjective
-1 it wouldn't be right to do that: just, fair, proper, good, upright, righteous, virtuous, moral, ethical, honorable, honest; lawful, legal. ANTONYMS wrong, unjust.
-2 Mr. Hubert had the right answer: correct, accurate, exact, precise; proper, valid, conventional, established, official, formal. ANTONYMS wrong, inaccurate.
-3 the right person for the job: suitable, appropriate, fitting, correct, proper, desirable, preferable, ideal; archaic meet. ANTONYMS wrong, unsuitable.
-4 you've come at the right time: opportune, advantageous, favorable, propitious, good, lucky, happy, fortunate, providential, felicitous; timely, seasonable, convenient, expedient, suitable, appropriate. ANTONYMS wrong, inopportune.
-5 he's not right in the head: sane, lucid, rational, balanced, together, compos mentis; healthy, well; informal all there. ANTONYMS non compos mentis, insane.
-6 my right hand: dextral. ANTONYMS left.
+1 morally good, justified, or acceptable: I hope we're doing the right thing 
+[with infinitive] : you were quite right to criticize him.
+2 true or correct as a fact: I'm not sure I know the right answer 
+her theories were proved right. 
+• [predicative] correct in one's opinion or judgment: she was right about Tom having no money. 
+• according to what is correct for a particular situation or thing: is this the right way to the cottage? 
+you're not holding it the right way up. 
+• the best or most suitable of a number of possible choices for a particular purpose or occasion: he was clearly the right man for the job 
+I was waiting for the right moment to ask him. 
+• socially fashionable or important: he was seen at all the right places. 
+• [predicative] in a satisfactory, sound, or normal state or condition: that sausage doesn't smell right 
+if only I could have helped put matters right.
+3 on, toward, or relating to the side of a human body or of a thing that is to the east when the person or thing is facing north: my right elbow 
+her right shoe 
+the right edge of the field.
+4 [attributive] informal, chiefly British complete; absolute (used for emphasis, typically in derogatory contexts): I felt a right idiot.
+5 relating to a person or political party or grouping favoring conservative views: are you politically right, left, or center? 
 ▶adverb
-1 she was right at the limit of her patience: completely, fully, totally, absolutely, utterly, thoroughly, quite.
-2 right in the middle of the village: exactly, precisely, directly, immediately, just, squarely, dead; informal bang, smack, plumb, smack dab.
-3 keep going right ahead: straight, directly. ANTONYMS indirectly.
-4 informal he'll be right down: straight, immediately, instantly, at once, straightaway, now, right now, this minute, directly, forthwith, without further ado, promptly, quickly, as soon as possible, ASAP, in short order; informal straight off, PDQ, pretty damn quick, pronto, lickety-split. ANTONYMS sometime, later.
-5 I think I heard right: correctly, accurately, properly, precisely, aright, rightly, perfectly. ANTONYMS wrong.
-6 make sure you're treated right by the authorities: well, properly, justly, fairly, nicely, equitably, impartially, honorably, lawfully, legally, ethically. ANTONYMS unjustly.
-7 things will turn out right: well, for the best, favorably, happily, advantageously, profitably, providentially, luckily, conveniently. ANTONYMS badly.
+1 to the furthest or most complete extent or degree (used for emphasis): the car spun right off the track 
+I'm right out of ideas. 
+• exactly; directly (used to emphasize the precise location or time of something): Harriet was standing right behind her. 
+• informal immediately; without delaying or hesitating: I'll be right back. 
+• [as submodifier] dialect or archaic very: it's right spooky in there!
+2 correctly: he had guessed right. 
+• in the required or necessary way; properly; satisfactorily: nothing's going right for me this season.
+3 on or to the right side: turn right at Main Street. 
 ▶noun
-1 the difference between right and wrong: goodness, righteousness, virtue, integrity, rectitude, propriety, morality, truth, honesty, honor, justice, fairness, equity; lawfulness, legality. ANTONYMS wrong.
-2 you have the right to say no: entitlement, prerogative, privilege, advantage, due, birthright, liberty, authority, power, license, permission, dispensation, leave, sanction, freedom; Law, historical droit.
-▶verb
-1 the way to right a capsized dinghy: set upright, turn back over.
-2 we must right the situation: remedy, put right, rectify, retrieve, fix, resolve, sort out, settle, square; straighten out, correct, repair, mend, redress, make good, ameliorate, better.
+1 that which is morally correct, just, or honorable: she doesn't understand the difference between right and wrong 
+the rights and wrongs of the matter.
+2 a moral or legal entitlement to have or obtain something or to act in a certain way: [with infinitive] : she had every right to be angry 
+you're quite within your rights to ask for your money back 
+there is no right of appeal against the decision. 
+• (rights) the authority to perform, publish, film, or televise a particular work, event, etc.: they sold the paperback rights.
+3 (the right) the right-hand part, side, or direction: take the first turning on the right 
+(one's right) : she seated me on her right. 
+• (in football or a similar sport) the right-hand half of the field when facing the opponent's goal. 
+• (right) Baseball short for right field: a looping single to right. 
+• the right wing of an army. 
+• a right turn: he made a right in Dorchester Avenue. 
+• a road or entrance on the right: take the first right over the stream. 
+• (especially in the context of boxing) a person's right fist. 
+• a blow given with this: the young cop swung a terrific right.
+4 (often the Right) [treated as singular or plural] a grouping or political party favoring conservative views and supporting capitalist economic principles. [ see right wing .] 
+▶verb [with object] restore to a normal or upright position: we righted the capsized dinghy. 
+• restore to a normal or correct condition or situation: righting the economy demanded major cuts in defense spending. 
+• redress or rectify (a wrong or mistaken action): she was determined to right the wrongs done to her father. 
+• (usually be righted) archaic make reparation to (someone) for a wrong done to them: we'll see you righted. 
+▶exclam. informal used to indicate one's agreement with a suggestion or to acknowledge a statement or order: “Barry's here.” “Oh, right” 
+right you are, sir. 
+• used at the end of a statement to invite agreement, approval, or confirmation: you went to see Angie on Monday, right? 
+• used as a filler in speech or to introduce an utterance, exhortation, or suggestion: and I didn't think any more of it, right, but Mom said I should take him to a doctor 
+right, let's have a drink. 
 PHRASES
-by rights by rights, these kids should have been offered a decent education: properly, correctly, technically, in fairness; legally, de jure. in the right please explain why you think you're in the right: justified, vindicated. put right See right (sense
-2 of the verb). right away we'll miss the bus if we don't leave right away: at once, straightaway, now, right now, this minute, this very minute, this instant, immediately, instantly, directly, forthwith, without further ado, promptly, quickly, without delay, as soon as possible, in short order; informal straight off, pretty damn quick, PDQ, ASAP, pronto, lickety-split. within one's rights Mr. Barnes is within his rights to dispute the charges to his account: entitled, permitted, allowed, at liberty, empowered, authorized, qualified, licensed, justified.
+bang (or dead) to rights informal (of a criminal) with positive proof of guilt: we've got you bang to rights handling stolen property. be in the right be morally or legally justified in one's views, actions, or decisions. by rights if things had happened or been done fairly or correctly: by rights, he should not be playing next week. do right by treat (someone) fairly. in one's own right as a result of one's own claims, qualifications, or efforts, rather than an association with someone else: he was already established as a poet in his own right. (not) in one's right mind (not) sane. not right in the head informal (of a person) not completely sane. (as) of right (or by right) as a result of having a moral or legal claim or entitlement: the state will be obliged to provide health care and education as of right.on the right side of on the safe, appropriate, or desirable side of: her portrayal of his neurotic wife falls just on the right side of caricature. 
+• in a position to be viewed with favor by: he hasn't always remained on the right side of the law. 
+• somewhat less than (a specified age): she's on the right side of forty. put (or set) someone right
+1 restore someone to health.
+2 make someone understand the true facts of a situation. put (or set) something to rights restore something to its correct or normal state or condition. (as) right as rain informal (of a person) feeling completely well or healthy, typically after an illness or minor accident. right away see straight away at straight. right enough informal certainly; undeniably: your record's bad right enough. right on informal used an expression of strong support, approval, or encouragement. See also right-on. a right one British informal a silly or foolish person. right side out with the side intended to be seen or used uppermost: turn the skirt right side out. she's (or she'll be) right Australian informal that will be all right; don't worry.DERIVATIVES rightable adjective. righter noun. rightish adjectiveORIGIN Old English riht (adjective and noun), rihtan (verb), rihte (adverb), of Germanic origin; related to Latin rectus ‘ruled,’ from an Indo-European root denoting movement in a straight line.

@@ -27,27 +27,49 @@ B.  transitive verb
 C.  reflexive verb to place oneself (somewhere); (take up position physically) 处于（某位置） chǔyú(mǒu wèizhi) (put in particular situation) 处于（某境地） chǔyú(mǒu jìngdì) he placed himself where he could observe the audience 他在可以观察所有观众的位置上 you are not placing yourself under any obligation 你不会承担任何责任 
 D.  intransitive verb Sport (be among the first three) 名列前三 míng liè qián sān ; BrE (be among the first four) 名列前四 míng liè qián sì the one I bet on didn't even place 我下了赌注的那匹马连名次都没得到 
 place 
+plās
+
 ▶noun
-1 an ideal place for dinner: location, site, spot, setting, position, situation, area, region, locale; venue; technical locus.
-2 foreign places: country, state, area, region, town, city; locality, district; literary clime.
-3 a place of her own: home, house, flat, apartment; accommodations, property, pied-à-terre; rooms, quarters; informal pad, digs; formal residence, abode, dwelling (place), domicile, habitation.
-4 if I were in your place, I'd sell now: situation, position, circumstances; informal shoes.
-5 a place was reserved for her: seat, chair, space.
-6 I offered him a place in the company: job, position, post, appointment, situation, office; employment.
-7 I know my place: status, position, standing, rank, niche; dated estate, station.
-8 it was not her place to sort it out: responsibility, duty, job, task, role, function, concern, affair, charge; right, privilege, prerogative.
-▶verb
-1 books were placed on the table: put (down), set (down), lay, deposit, position, plant, rest, stand, station, situate, leave; informal stick, dump, park, plonk, pop, plunk.
-2 the trust you placed in me: put, lay, set, invest.
-3 a survey placed the company sixth: rank, order, grade, class, classify, categorize; put, set, assign.
-4 Joe couldn't quite place her: identify, recognize, remember, put a name to, pin down; locate, pinpoint.
-5 we were placed with foster parents: house with, billet to; allocate to, assign to, appoint to.
+1 a particular position or point in space: there were still some remote places in the world 
+the monastery was a peaceful place 
+that street was no place for a lady. 
+• a particular point on a larger surface or in a larger object or area: he lashed out and cut the policeman's hand in three places. 
+• a building or area used for a specified purpose or activity: the town has many excellent eating places. 
+• informal a person's home: what about dinner at my place? 
+• a point in a book or other text reached by a reader at a particular time: I must have lost my place in the script.
+2 a portion of space available or designated for or being used by someone: they hurried to their places at the table 
+he was watching from his place across the room. 
+• a vacancy or available position: she won a place to study German at the university. 
+• the regular or proper position of something: lay each slab in place. 
+• a person's rank or status: occupation structures a person's place in society. 
+• [usually with negative] a right or privilege resulting from someone's role or position: I'm sure she has a story to tell, but it's not my place to ask. 
+• the role played by or importance attached to someone or something in a particular context: the place of computers in improving office efficiency varies between companies.
+3 a position in a sequence, in particular: 
+• a position in a contest: his score was good enough to leave him in ninth place. 
+• North American the second position, especially in a horse race. 
+• British any of the first three or sometimes four positions in a race (used especially of the second, third, or fourth positions). 
+• the degree of priority given to something: accurate reportage takes second place to lurid detail. 
+• the position of a figure in a series indicated in decimal or similar notation, especially one after the decimal point: calculate the ratios to one decimal place.
+4 (in place names) a square or a short street: our new restaurant is in Hilliard Place. 
+• a country house with its grounds. 
+▶verb [with object]
+1 put in a particular position: a newspaper had been placed beside my plate. 
+• cause to be in a particular situation: enemy officers were placed under arrest 
+you are not placing yourself under any obligation. 
+• used to express the attitude someone has toward someone or something: I am not able to place any trust in you. 
+• (be placed) used to indicate the degree of advantage or convenience enjoyed by someone or something as a result of their position or circumstances: [with infinitive] : the company is well placed to seize the opportunity.
+2 find a home or employment for: the children were placed with foster parents 
+the agency had placed 3,000 people in full-time jobs. 
+• dispose of (something, especially shares) by selling to a customer. 
+• arrange for the recognition and implementation of (an order, bet, etc.): they placed a contract for three boats. 
+• order or obtain a connection for (a telephone call) through an operator.
+3 identify or classify as being of a specified type or as holding a specified position in a sequence or hierarchy: a survey placed the company 13th for achievement. 
+• [with object, usually with negative] remember where one has seen or how one comes to recognize (someone or something): she eventually said she couldn't place him. 
+• (be placed) British achieve a specified position in a race: he was placed eleventh in the long individual race. 
+• [no object] be among the first three in a race (or the first three or four in the UK). 
 PHRASES
-in the first place in the first place, you're not old enough: initially, at first, at the start, at the outset, in/at the beginning, in the first instance, to begin with, to start with, originally. 
-PHRASES
-in place
-1 the veil was held in place by pearls: in position, in situ.
-2 the plans are in place: ready, set up, all set, established, arranged, in order. in place of in place of fresh flowers, use sprays of dried lavender: instead of, rather than, as a substitute for, as a replacement for, in exchange for, in lieu of; in someone's stead. out of place
-1 she never had a hair out of place: out of position, out of order, in disarray, disarranged, in a mess, messy, topsy-turvy, muddled.
-2 he said something out of place: inappropriate, unsuitable, unseemly, improper, untoward, out of keeping, unbecoming, wrong.
-3 she seemed out of place at the literary parties: incongruous, out of one's element, like a fish out of water; uncomfortable, uneasy. put someone in their place Marsha's father-in-law finally spoke up and put that hateful woman in her place: humiliate, take down a peg or two, deflate, crush, squash, humble; informal cut down to size, settle someone's hash, make someone eat crow. take place the site where the crash took place: happen, occur, come about, transpire, crop up, materialize, arise, go down; literary come to pass, befall, betide. take the place of I know I'll never be able to take the place of your father: replace, stand in for, substitute for, act for, fill in for, cover for, relieve.
+give place to be succeeded or replaced by. go places informal visit places; travel. 
+• be increasingly successful. in place
+1 working or ready to work; established.
+2 North American not traveling any distance: running in place. in place of instead of. keep someone in his (or her) place keep someone from becoming presumptuous. out of place not in the proper position; disarranged. 
+• in a setting where one is or feels inappropriate or incongruous. place in the sun a position of favor or advantage. put oneself in someone's place consider a situation from someone's point of view. put someone in his (or her) place deflate or humiliate someone regarded as being presumptuous. take place occur. take one's place take up the physical position or status in society that is correct or due for one. take the place of replace.DERIVATIVES placeless adjectiveORIGIN Middle English: from Old French, from an alteration of Latin platea ‘open space,’ from Greek plateia (hodos)‘broad (way).’

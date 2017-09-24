@@ -1,8 +1,21 @@
 average 
-▶noun the price is above the national average: mean, median, mode; norm, standard, rule, par.
-▶adjective
-1 the average temperature in May: mean, median, modal.
-2 a woman of average height: ordinary, standard, normal, typical, regular; midsize.
-3 a very average director: mediocre, second-rate, undistinguished, ordinary, middle-of-the-road, unexceptional, unexciting, unremarkable, unmemorable, indifferent, pedestrian, lackluster, forgettable, amateurish; informal OK, so-so, 'comme ci, comme ça', fair-to-middling, no great shakes, underwhelming, plain-vanilla. ANTONYMS outstanding, exceptional.
-PHRASES
-on average on average, we get about two million visitors each year: normally, usually, ordinarily, generally, in general, for the most part, as a rule, typically; overall, by and large, on the whole.
+ˈav(ə)rij 
+(abbreviation avg.) 
+▶noun
+1 a number expressing the central or typical value in a set of data, in particular the mode, median, or (most commonly) the mean, which is calculated by dividing the sum of the values in the set by their number: the housing prices there are twice the national average. Compare with mean3 ( sense
+1 of the noun). 
+• an amount, standard, level, or rate regarded as usual or ordinary: the month's snowfall is below average 
+they take about thirty minutes on average.
+2 the apportionment of financial liability resulting from loss of or damage to a ship or its cargo. 
+• reduction in the amount payable under an insurance policy, e.g., in respect of partial loss. 
+▶adjective constituting the result obtained by adding together several quantities and then dividing this total by the number of quantities: the average temperature in May was 64°
+F.  
+• of the usual or ordinary standard, level, or quantity: a woman of average height. 
+• having qualities that are seen as typical of a particular person or thing: the average teenager prefers comfort to high fashion. 
+• mediocre; not very good: a very average director who made very average movies. 
+▶verb [with object] achieve or amount to as an average rate or amount over a period of time: annual inflation averaged 2.4 percent. 
+• calculate or estimate the average of (figures or measurements): their earnings, averaged out over the month, were only $62 a week. 
+• [no object] (average out) result in an even distribution; even out: it is reasonable to hope that the results will average out. 
+• [no object] (average out at/to) result in an average figure of: the cost should average out to about $6 per page. DERIVATIVES averagely 
+ˈav(ə)rəjlē 
+adverbORIGIN late 15th century: from French avarie ‘damage to ship or cargo,’ earlier ‘customs duty,’ from Italian avaria, from Arabic 'awār ‘damage to goods’; the suffix -age is on the pattern of damage. Originally denoting a charge or customs duty payable by the owner of goods to be shipped, the term later denoted the financial liability from goods lost or damaged at sea, and specifically the equitable apportionment of this between the owners of the vessel and the cargo (late 16th century); this gave rise to the general sense of the equalizing out of gains and losses by calculating the mean (mid 18th century).

@@ -19,15 +19,34 @@ C.  transitive verb
 ⑦ Cinema, Television, Radio, Theatre 导演 dǎoyǎn ‹film, play, programme›; 担任…的导演 dānrèn… de dǎoyǎn ‹performers, crew›
 D.  intransitive verb Cinema, Television, Radio, Theatre 担任导演 dānrèn dǎoyǎn I'd rather act than direct 我宁愿演戏而不愿当导演 
 direct 
+dəˈrekt dīˈrekt
+
 ▶adjective
-1 the most direct route: straight, undeviating, unswerving; shortest, quickest.
-2 a direct flight: nonstop, unbroken, uninterrupted, through.
-3 he is very direct: frank, candid, straightforward, honest, open, blunt, plain-spoken, outspoken, forthright, downright, no-nonsense, matter-of-fact, not afraid to call a spade a spade; informal upfront.
-4 direct contact with the president: face to face, personal, immediate, firsthand.
-5 a direct quotation: verbatim, word for word, to the letter, faithful, exact, precise, accurate, correct.
-6 the direct opposite: exact, absolute, complete, diametrical.
-▶verb
-1 an economic elite directed the nation's affairs: manage, govern, run, administer, control, conduct, handle, be in charge/control of, preside over, lead, head, rule, be at the helm of; supervise, superintend, oversee, regulate, orchestrate, coordinate; informal run the show, call the shots, be in the driver's seat.
-2 was that remark directed at me? aim at, target at, address to, intend for, mean for, design for.
-3 a man in uniform directed them to the hall: give directions, show the way, guide, lead, conduct, accompany, usher, escort.
-4 the judge directed the jury to return a 'not guilty' verdict: instruct, tell, command, order, charge, require; literary bid.
+1 extending or moving from one place to another by the shortest way without changing direction or stopping: there was no direct flight that day. 
+• Astronomy & Astrology (of apparent planetary motion) proceeding from west to east in accord with actual motion.
+2 without intervening factors or intermediaries: the complications are a direct result of bacteria spreading. 
+• (of light or heat) proceeding from a source without being reflected or blocked: ferns like a bright position out of direct sunlight. 
+• (of genealogy) proceeding in continuous succession from parent to child. 
+• (of a quotation) taken from someone's words without being changed. 
+• (of taxation) levied on income or profits rather than on goods or services. 
+• complete (used for emphasis): nonviolence is the direct opposite of compulsion.
+3 (of a person or their behavior) going straight to the point; frank. 
+• (of evidence or proof) bearing immediately and unambiguously upon the facts at issue: there is no direct evidence that officials accepted bribes.
+4 perpendicular to a surface; not oblique: a direct butt joint between surfaces of steel. 
+▶adverb with no one or nothing in between: buy direct and save. 
+• by a straight route or without breaking a journey: Austrian Airlines is flying direct to Innsbruck again. 
+▶verb [with object]
+1 control the operations of; manage or govern: an economic elite directed the nation's affairs. 
+• supervise and control (a movie, play, or other production, or the actors in it). 
+• (usually be directed) train and conduct (a group of musicians).
+2 aim (something) in a particular direction or at a particular person: heating ducts to direct warm air to rear-seat passengers 
+his smile was directed at Laura. 
+• tell or show (someone) how to get somewhere: can you direct me to the railroad station, please? 
+• address or give instructions for the delivery of (a letter or parcel). 
+• focus or concentrate (one's attention, efforts, or feelings) on: we direct our anger and frustration at family. 
+• (direct something at/to) address a comment to or aim a criticism at: he directed his criticism at media coverage of the Catholic Church 
+I suggest that he direct his remarks to the council. 
+• (direct something at) target a product specifically at (someone): the book is directed at the younger reader. 
+• archaic guide or advise (someone or their judgment) in a course or decision: the conscience of the credulous prince was directed by saints and bishops.
+3 [with object and infinitive] give (someone) an official order or authoritative instruction: the judge directed him to perform community service 
+[with clause] : he directed that no picture from his collection could be sold. ORIGIN late Middle English: from Latin directus, past participle of dirigere, from di- ‘distinctly’ or de- ‘down’ + regere ‘put straight.’

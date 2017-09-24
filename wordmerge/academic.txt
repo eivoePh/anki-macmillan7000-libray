@@ -7,8 +7,14 @@ A.  adjective
 ③ (theoretical) 纯理论的 chún lǐlùn de ‹debate, question›a matter of academic interest 纯理论的问题 
 B.  noun (teacher) 高校教师 gāoxiào jiàoshī ; (researcher) 高校科研人员 gāoxiào kēyán rényuán ; (scholar) 学者 xuézhě 
 academic 
+ˌakəˈdemik
+
 ▶adjective
-1 an academic institution: educational, scholastic, instructional, pedagogical.
-2 his academic turn of mind: scholarly, studious, literary, well read, intellectual, clever, erudite, learned, educated, cultured, bookish, highbrow, pedantic, donnish, cerebral; informal brainy, inkhorn; dated lettered.
-3 the debate has been largely academic: theoretical, conceptual, notional, philosophical, hypothetical, speculative, conjectural, suppositional; impractical, unrealistic, ivory-tower.
-▶noun a group of Russian academics: scholar, lecturer, teacher, tutor, professor, fellow, man/woman of letters, don, bluestocking; informal egghead, bookworm; formal pedagogue.
+1 relating to education and scholarship: academic achievement 
+he had no academic qualifications. 
+• relating to an educational or scholarly institution or environment: students resplendent in academic dress. 
+• (of an institution or a course of study) placing a greater emphasis on reading and study than on technical or practical work: an academic high school that prepares students for the best colleges and universities. 
+• (of a person) interested in or excelling at scholarly pursuits and activities: Ben is not an academic child but he tries hard. 
+• (of an art form) conventional, especially in an idealized or excessively formal way: academic painting.
+2 not of practical relevance; of only theoretical interest: the debate has been largely academic. 
+▶noun a teacher or scholar in a college or institute of higher education. ORIGIN mid 16th century: from French académique or medieval Latin academicus, from academia (see academy) .

@@ -1,7 +1,8 @@
 desert
 1 
-▶verb
-1 his wife deserted him: abandon, leave, turn one's back on; throw over, jilt, break up with; leave high and dry, leave in the lurch, leave behind, strand; informal walk out on, run out on, drop, dump, ditch; literary forsake.
-2 his allies were deserting the cause: renounce, repudiate, relinquish, wash one's hands of, abandon, turn one's back on, betray, disavow; formal abjure; literary forsake.
-3 soldiers deserted in droves: abscond, defect, run away, make off, decamp, flee, turn tail, take French leave, depart, quit, jump ship; Military go AWO
-L. 
+dəˈzərt
+
+▶verb [with object] abandon (a person, cause, or organization) in a way considered disloyal or treacherous: he deserted his wife and daughter and went back to England. 
+• (of a number of people) leave (a place), causing it to appear empty: good weather came after the summer hordes had deserted the beaches. 
+• (of a quality or ability) fail (someone), especially at a crucial moment when most needed: her luck deserted her. 
+• [no object] Military (of a soldier) illegally run away from military service. ORIGIN late Middle English: from Old French deserter, from late Latin desertare, from Latin desertus ‘left waste’ (see desert2) .

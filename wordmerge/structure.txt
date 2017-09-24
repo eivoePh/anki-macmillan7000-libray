@@ -7,7 +7,11 @@ A.  noun
 ③ Countable(building) 建筑物 jiànzhùwù (object comprised of connected parts) 结构体 jiégòutǐ the human back is a complex structure 人的背脊结构复杂 
 B.  transitive verb 安排 ānpái ‹day, life, schedule›; 组织 zǔzhī ‹essay, activity, argument›; 使…形成体系 shǐ… xíngchéng tǐxì ‹society›
 structure 
-▶noun
-1 a vast Gothic structure: building, edifice, construction, erection, pile.
-2 the structure of local government: construction, form, formation, shape, composition, anatomy, makeup, constitution; organization, system, arrangement, design, framework, configuration, pattern.
-▶verb the program is structured around periods of home study: arrange, organize, design, shape, construct, build, put together.
+ˈstrək(t)SHər
+
+▶noun the arrangement of and relations between the parts or elements of something complex: flint is extremely hard, like diamond, which has a similar structure. 
+• a building or other object constructed from several parts. 
+• the quality of being organized: we shall use three headings to give some structure to the discussion. 
+▶verb [with object] construct or arrange according to a plan; give a pattern or organization to: the game is structured so that there are five ways to win. DERIVATIVES structureless 
+ˈstrək(t)SH(ə)rləs 
+adjectiveORIGIN late Middle English (denoting the process of building): from Old French, or from Latin structura, from struere ‘to build.’ The verb is rarely found before the 20th century.

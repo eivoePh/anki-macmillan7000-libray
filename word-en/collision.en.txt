@@ -1,4 +1,15 @@
 collision 
+kəˈliZHən
+
 ▶noun
-1 a collision in the passing lane: crash, accident, impact, smash, bump, hit, fender bender, wreck, pileup.
-2 a collision between two ideas: conflict, clash; disagreement, incompatibility, contradiction.
+1 an instance of one moving object or person striking violently against another: a midair collision between two aircraft 
+the device increases the chances of collision. 
+• an instance of conflict between opposing ideas, interests, or factions: a collision between experience and theory 
+cultures in collision.
+2 Computing an event of two or more records being assigned the same identifier or location in memory. 
+• an instance of simultaneous transmission by more than one node of a network. 
+PHRASES
+on (a) collision course going in a direction that will lead to a collision with another moving object or person. 
+• adopting an approach that is certain to lead to conflict with another person or group: the strikers are on a collision course with the government.DERIVATIVES collisional 
+-ZHənl 
+adjectiveORIGIN late Middle English: from late Latin collisio(n-), from Latin collidere ‘strike together’ (see collide) .

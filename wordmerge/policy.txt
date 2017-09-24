@@ -4,7 +4,10 @@ BrE ˈpɒlɪsi, AmE ˈpɑləsi
 nounCountable and uncountable
 ① (political line) 政策 zhèngcè foreign/economic/social policy 外交/经济/社会政策 to make policy 制定政策 to carry out or implement a policy 执行政策 it is good/bad policy to … …是好/坏政策 our company has a no-smoking policy 我们公司规定不准吸烟 before noun 有关政策的 yǒuguān zhèngcè de ‹discussion, debate, meeting, decision›
 ② (habitual practice) 原则 yuánzé it is our policy to do [something] 做某事是我们的原则 it is our policy that … …是我们的原则 to have or follow a policy of doing [something] 遵循做某事的原则 it's a matter of policy 这是原则问题 
-policy 
-▶noun
-1 government policy: plans, strategy, stratagem, approach, code, system, guidelines, theory; line, position, stance, attitude.
-2 it's good policy to listen to your elders: practice, custom, idea, procedure, conduct, convention.
+policy
+1 
+ˈpäləsē
+
+▶noun (plural policies) a course or principle of action adopted or proposed by a government, party, business, or individual: the administration's controversial economic policies 
+it is not company policy to dispense with our older workers. 
+• archaic prudent or expedient conduct or action: a course of policy and wisdom. ORIGIN late Middle English: from Old French policie ‘civil administration,’ via Latin from Greek politeia ‘citizenship,’ from politēs ‘citizen,’ from polis ‘city.’

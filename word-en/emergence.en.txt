@@ -1,2 +1,9 @@
 emergence 
-▶noun the emergence of a new generation: appearance, arrival, coming, materialization; advent, inception, dawn, birth, origination, start, development, rise.
+əˈmərjəns
+
+▶noun
+1 the process of coming into view or becoming exposed after being concealed: I misjudged the timing of my emergence. 
+• the escape of an insect or other invertebrate from an egg, cocoon, pupal case, etc.: the parasite's eggs hatch synchronously with the emergence of the wasp larvae. 
+• Botany an outgrowth from a stem or leaf composed of epidermal and subepidermal tissue, as the prickles on a thistle plant.
+2 the process of coming into being, or of becoming important or prominent: the emergence of the environmental movement 
+Japan's emergence as a modern state. ORIGIN mid 17th century (in the sense ‘unforeseen occurrence’): from medieval Latin emergentia, from Latin emergere ‘bring to light’ (see emerge) .

@@ -1,4 +1,5 @@
 formulate 
-▶verb
-1 the miners formulated a plan: devise, conceive, work out, think up, lay, draw up, put together, form, produce, fashion, concoct, contrive, forge, hatch, prepare, develop; informal dream up.
-2 this is how he formulated his question: express, phrase, word, put into words, frame, couch, put, articulate, convey, say, state, utter.
+ˈfôrmyəˌlāt
+
+▶verb [with object] create or devise methodically (a strategy or a proposal): economists and statisticians were needed to help formulate economic policy. 
+• express (an idea) in a concise or systematic way: the argument is sufficiently clear that it can be formulated mathematically. ORIGIN mid 19th century: from formula + -ate3, on the pattern of French formuler, from medieval Latin formulare .

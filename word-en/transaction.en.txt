@@ -1,5 +1,10 @@
 transaction 
-▶noun
-1 property transactions: deal, business deal, undertaking, arrangement, bargain, negotiation, agreement, settlement; proceedings.
-2 the bank statement records your transactions: debit, credit, deposit, withdrawal.
-3 the transaction of government business: conduct, carrying out, negotiation, performance, execution.
+tranˈsakSH(ə)n tranˈzakSH(ə)n
+
+▶noun an instance of buying or selling something; a business deal: in an ordinary commercial transaction a delivery date is essential. 
+• the action of conducting business. 
+• an exchange or interaction between people: intellectual transactions in the classroom. 
+• (transactions) published reports of proceedings at the meetings of a learned society. 
+• an input message to a computer system that must be dealt with as a single unit of work. DERIVATIVES transactionally 
+-SHənl-ē 
+adverbORIGIN late Middle English (as a term in Roman law): from late Latin transactio(n-), from transigere ‘drive through’ (see transact) .

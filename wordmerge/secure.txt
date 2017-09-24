@@ -11,14 +11,19 @@ B.  transitive verb
 ③ Finance 为…担保 wèi… dānbǎo ‹debt›the loan is secured on your house 这笔贷款是拿你的住房作抵押的 
 ④ (acquire) 获得 huòdé ‹position, funds, consent›
 secure 
-▶adjective
-1 check to ensure that all bolts are secure: fastened, fixed, secured, done up; closed, shut, locked. ANTONYMS loose.
-2 an environment in which children can feel secure: safe, protected, protected from harm/danger, out of danger, sheltered, safe and sound, out of harm's way, in a safe place, in safe hands, guarded, invulnerable; at ease, unworried, relaxed, happy, confident. ANTONYMS vulnerable.
-3 a secure investment: certain, assured, reliable, dependable, settled, fixed. ANTONYMS uncertain.
-▶verb
-1 pins secure the handle to the main body: fix, attach, fasten, affix, connect, couple.
-2 the doors had not been properly secured: fasten, close, shut, lock, bolt, chain, seal.
-3 he leapt out to secure the boat: tie up, moor, make fast; anchor.
-4 they sought to secure the country against attack: protect, make safe, fortify, strengthen; undergird.
-5 a written constitution would secure the rights of the individual: assure, ensure, guarantee, protect, confirm, establish.
-6 the division secured a major contract: obtain, acquire, gain, get, get possession of; informal get hold of, land.WORD TOOLKIT See protected .Word Toolkits illustrate the difference between close synonyms by means of words typically used with them.CHOOSE THE RIGHT WORD See get .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+səˈkyo͝or
+
+▶adjective fixed or fastened so as not to give way, become loose, or be lost: check to ensure that all nuts and bolts are secure. 
+• not subject to threat; certain to remain or continue safe and unharmed: they are working to ensure that their market share remains secure against competition. 
+• protected against attack or other criminal activity: the official said that no airport could be totally secure. 
+• (of a place of detention) having provisions against the escape of inmates: a secure unit for youthful offenders. 
+• feeling safe, stable, and free from fear or anxiety: everyone needs to have a home and to feel secure and wanted. 
+• [predicative] (secure of) dated feeling no doubts about attaining; certain to achieve: she remained poised and complacent, secure of admiration. 
+▶verb [with object] fix or attach (something) firmly so that it cannot be moved or lost: pins secure the handle to the main body. 
+• make (a door or container) hard to open; fasten or lock: doors are likely to be well secured at night. 
+• protect against threats; make safe: the government is concerned to secure the economy against too much foreign ownership. 
+• capture (a person or animal): the suspect is secured and in the back of a patrol car. 
+• succeed in obtaining (something), especially with difficulty: the division secured a major contract. 
+• seek to guarantee repayment of (a loan) by having a right to take possession of an asset in the event of nonpayment: a loan secured on your home. DERIVATIVES securable 
+səˈkyo͝orəb(ə)l 
+adjective. securement nounORIGIN mid 16th century (in the sense ‘feeling no apprehension’): from Latin securus, from se- ‘without’ + cura ‘care.’

@@ -2,5 +2,8 @@ microscope
 BrE ˈmʌɪkrəskəʊp, AmE ˈmaɪkrəˌskoʊp 
 noun 显微镜 xiǎnwēijìng under the microscope 在显微镜下 figurative 经受缜密检查 jīngshòu zhěnmì jiǎnchá 
 microscope 
-BrE ˈmʌɪkrəskəʊp, AmE ˈmaɪkrəˌskoʊp 
-noun 显微镜 xiǎnwēijìng under the microscope 在显微镜下 figurative 经受缜密检查 jīngshòu zhěnmì jiǎnchá 
+ˈmīkrəˌskōp
+
+▶noun an optical instrument used for viewing very small objects, such as mineral samples or animal or plant cells, typically magnified several hundred times.microscope 
+PHRASES
+under the microscope under critical examination.ORIGIN mid 17th century: from modern Latin microscopium (see micro-, -scope) .

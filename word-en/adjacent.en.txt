@@ -1,3 +1,7 @@
 adjacent 
-▶adjective adjacent angles 
-a patio adjacent to the greenhouse: adjoining, neighboring, next-door, abutting, contiguous, proximate; (adjacent to) close to, near, next to, by, by the side of, bordering on, beside, alongside, attached to, touching, cheek by jowl with.
+əˈjās(ə)nt
+
+▶adjective
+1 next to or adjoining something else: adjacent rooms 
+the area adjacent to the fire station.
+2 Geometry (of angles) having a common vertex and a common side. DERIVATIVES adjacency nounORIGIN late Middle English: from Latin adjacent- ‘lying near to,’ from adjacere, from ad- ‘to’ + jacere ‘lie down.’

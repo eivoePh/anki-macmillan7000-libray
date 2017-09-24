@@ -1,5 +1,13 @@
 identity 
-▶noun
-1 the identity of the owner: name, ID; specification.
-2 she was afraid of losing her identity: individuality, self, selfhood; personality, character, originality, distinctiveness, differentness, singularity, uniqueness.
-3 a case of mistaken identity: identification, recognition, naming, singling out.
+ˌīˈden(t)ədē
+
+▶noun (plural identities)
+1 the fact of being who or what a person or thing is: he knows the identity of the bombers 
+she believes she is the victim of mistaken identity. 
+• the characteristics determining this: attempts to define a distinct Canadian identity. 
+• [as modifier] chiefly British (of an object) serving to establish who the holder, owner, or wearer is by bearing their name and often other details such as a signature or photograph: an identity card.
+2 a close similarity or affinity: the initiative created an identity between the city and the suburbs.
+3 Mathematics (also identity operation) a transformation that leaves an object unchanged. 
+• (also identity element) an element of a set that, if combined with another element by a specified binary operation, leaves that element unchanged.
+4 Mathematics the equality of two expressions for all values of the quantities expressed by letters, or an equation expressing this, e.g., (x + 1)2 = x
+2 + 2x + 1. ORIGIN late 16th century (in the sense ‘quality of being identical’): from late Latin identitas, from Latin idem ‘same.’

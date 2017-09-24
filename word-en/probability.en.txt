@@ -1,4 +1,10 @@
 probability 
-▶noun
-1 the probability of winning: likelihood, prospect, expectation, chance, chances, odds.
-2 relegation is a distinct probability this season: probable event, prospect, possibility, good/fair/reasonable bet.
+ˌpräbəˈbilədē
+
+▶noun (plural probabilities) the extent to which something is probable; the likelihood of something happening or being the case: the rain will make the probability of their arrival even greater. 
+• a probable or the most probable event: for a time, revolution was a strong probability 
+the probability is that it will be phased in over a number of years. 
+• Mathematics the extent to which an event is likely to occur, measured by the ratio of the favorable cases to the whole number of cases possible: the area under the curve represents probability 
+a probability of 0.5. 
+PHRASES
+in all probability used to convey that something is very likely: he would in all probability make himself known.ORIGIN late Middle English: from Latin probabilitas, from probabilis ‘provable, credible’ (see probable) .

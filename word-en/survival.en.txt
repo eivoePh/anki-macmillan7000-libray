@@ -1,5 +1,8 @@
 survival 
-BrE səˈvʌɪv(ə)l, AmE sərˈvaɪvəl 
-noun 
-① Uncountable(continued existence) (of person, animal, plant, project, government) 存留 cúnliú (of custom, belief) 遗存 yícún the survival of the fittest 适者生存 what are his chances of survival? 他存活的可能性有多大？ before noun 救生的 jiùshēng de ‹equipment, training, expert›
-② Countable(relic) (of custom, practice) 残存物 cáncúnwù (of object) 幸存物 xìngcúnwù (person) 幸存者 xìngcúnzhě to be a survival from [something]; 是…的幸存者 
+sərˈvīvəl
+
+▶noun the state or fact of continuing to live or exist, typically in spite of an accident, ordeal, or difficult circumstances: the animal's chances of survival were pretty low 
+figurative : he was fighting for his political survival. 
+• an object or practice that has continued to exist from an earlier time: his shorts were a survival from his army days. 
+PHRASES
+survival of the fittest Biology the continued existence of organisms that are best adapted to their environment, with the extinction of others, as a concept in the Darwinian theory of evolution. Compare with natural selection. 

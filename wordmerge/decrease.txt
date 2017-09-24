@@ -6,7 +6,15 @@ transitive verb 减少 jiǎnshǎo ‹number, amount, sales, population›; 减�
 C.  /BrE ˈdiːkriːs, AmE ˈdiˌkris, dəˈkris
 noun 减少 jiǎnshǎo a decrease in or of [something]; 某物的减少 to be on the decrease 在下降 
 decrease 
-▶verb
-1 pollution levels decreased: lessen, reduce, drop, diminish, decline, dwindle, fall off; die down, abate, subside, tail off, ebb, wane; plummet, plunge. ANTONYMS increase.
-2 decrease the amount of fat in your body: reduce, lessen, lower, cut (back/down), curtail; slim down, tone down, deplete, minimize, slash. ANTONYMS increase.
-▶noun a decrease in crime: reduction, drop, decline, downtrend, downturn, cut, falloff, cutback, diminution, ebb, wane. ANTONYMS increase.
+▶verb 
+dəˈkrēs 
+make or become smaller or fewer in size, amount, intensity, or degree: [no object] : the population of the area has decreased radically 
+[with object] : in some cases vitamin E has decreased cholesterol levels. 
+▶noun 
+ˈdēˌkrēs dəˈkrēs 
+an instance or example of becoming smaller or fewer: a decrease in births 
+the rate of decrease became greater. 
+PHRASES
+on the decrease becoming less common or widespread; decreasing.DERIVATIVES decreasingly 
+dəˈkrēsiNGlē dēˈkrēsiNGlē 
+adverb [as submodifier] : voters have proved decreasingly willing to support the partyORIGIN late Middle English: from Old French decreis (noun), decreistre (verb), based on Latin decrescere, from de- ‘down’ + crescere ‘grow.’

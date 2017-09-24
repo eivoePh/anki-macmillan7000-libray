@@ -1,9 +1,11 @@
 become 
-▶verb
-1 she became rich: grow, get, turn, come to be, get to be; literary wax.
-2 he became a tyrant: turn into, change into, be transformed into, be converted into.
-3 he became Louisiana's attorney general: be appointed (as), be assigned as, be nominated, be elected (as), be made.
-4 the dress becomes her: suit, flatter, look good on; set off, show to advantage; informal do something for.
-5 it ill becomes him to preach the gospel during a board meeting: befit, suit, behoove.
-PHRASES
-become of whatever became of the guy who designed your terrace? happen to, be the fate of, be the lot of, overtake; literary befall, betide. CHOOSE THE RIGHT WORD See happen .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+bəˈkəm
+
+▶verb (becomes, becoming; past became; past participle become)
+1 [no object, with complement] begin to be: they became angry 
+it is becoming clear that we are in a totally new situation. 
+• grow to be; turn into: the child will become an adult. 
+• (of a person) qualify or be accepted as; acquire the status of: she wanted to become a doctor. 
+• (become of) (in questions) happen to: what would become of her now?
+2 [with object] (of clothing) look good on or suit (someone): the dress becomes her. 
+• be appropriate or suitable to (someone): minor celebrity status did not become him. ORIGIN Old English becuman ‘come to a place, come (to be or do something)’ (see be-, come), of Germanic origin; related to Dutch bekomen and German bekommen ‘get, receive.’

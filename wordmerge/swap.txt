@@ -11,7 +11,13 @@ C.  noun
 ① (exchange) 交换 jiāohuàn 
 ② colloquial (item exchanged) 交换品 jiāohuànpǐn 
 swap 
-▶verb
-1 I swapped my stereo for some hockey equipment: exchange, trade, barter, interchange, bargain; switch, change, replace.
-2 we swapped jokes: bandy, exchange, trade, reciprocate.
-▶noun a job swap: exchange, interchange, trade, switch, trade-off, substitution; informal switcheroo.
+swäp 
+(also swop) 
+▶verb (swaps, swapping, swapped) [with object] take part in an exchange of: we swapped phone numbers 
+I'd swap places with you any day 
+[no object] : I was wondering if you'd like to swap with me. 
+• give (one thing) and receive something else in exchange: swap one of your sandwiches for a cheese and pickle? 
+• substitute (one thing) for another: I swapped my busy life on Wall Street for a peaceful mountain retreat. 
+▶noun an act of exchanging one thing for another: let's do a swap. 
+• a thing that has been or may be given in exchange for something else: I've got one already, but I'll keep this as a swap. 
+• Finance an exchange of liabilities between two borrowers, either so that each acquires access to funds in a currency they need or so that a fixed interest rate is exchanged for a floating rate. DERIVATIVES swappable adjective. swapper nounORIGIN Middle English (originally in the sense ‘throw forcibly’): probably imitative of a resounding blow. Current senses have arisen from an early use meaning ‘clasp hands as a token of agreement.’

@@ -4,4 +4,11 @@ noun
 ① Uncountable(act, process) 推断 tuīduàn by inference 通过推理 
 ② Countable(conclusion) 推断结果 tuīduàn jiéguǒ the inference is that … 结论是… to draw an inference from … 从…得出推论 
 inference 
-▶noun there should be no inference drawn from the fact that he chooses not to be a witness: deduction, conclusion, reasoning, conjecture, speculation, guess, presumption, assumption, supposition, reckoning, extrapolation.
+ˈinf(ə)rəns
+
+▶noun a conclusion reached on the basis of evidence and reasoning. 
+• the process of inferring something: his emphasis on order and health, and by inference cleanliness. DERIVATIVES inferential 
+ˌinfəˈren(t)SH(ə)l 
+adjective. inferentially 
+ˌinfəˈren(t)SHəlē 
+adverbORIGIN late 16th century: from medieval Latin inferentia, from inferent- ‘bringing in,’ from the verb inferre (see infer) .

@@ -1,5 +1,15 @@
 override 
-▶verb
-1 the court could not override her decision: disallow, overrule, countermand, veto, quash, overturn, overthrow; cancel, reverse, rescind, revoke, repeal, annul, nullify, invalidate, negate, void; Law vacate; formal abrogate.
-2 the government can override all opposition: disregard, pay no heed to, take no account of, turn a deaf ear to, ignore, ride roughshod over.
-3 a positive attitude will override any negative thoughts: outweigh, supersede, take priority over, take precedence over, offset, cancel out, (more than) make up for, outbalance, compensate for.
+▶verb 
+ˌōvərˈrīd 
+(past overrode; past participle overridden) [with object]
+1 use one's authority to reject or cancel (a decision, view, etc.): the legislature's insistence on overriding his budget vetoes. 
+• interrupt the action of (an automatic device), typically in order to take manual control: you can override the cutout by releasing the switch. 
+• be more important than: this commitment should override all other considerations.
+2 technical extend over; overlap: the external rendering should not override the vapor barrier.
+3 travel or move over (a place or thing): part of the deposit was overridden and covered by the advancing ice. 
+▶noun 
+ˈōvərˌrīd 
+
+1 a device for suspending an automatic function on a machine.
+2 an excess or increase on a budget, salary, or cost.
+3 chiefly US a cancellation of a decision by exertion of authority or winning of votes: the House vote in favor of the bill was ten votes short of the requisite majority for an override.

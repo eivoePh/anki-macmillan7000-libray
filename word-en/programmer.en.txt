@@ -1,3 +1,5 @@
 programmer 
-BrE ˈprəʊɡramə, AmE ˈproʊˌɡræmər 
-noun BrE 编程人员 biānchéng rényuán 
+ˈprōˌɡramər
+
+▶noun a person who writes computer programs. 
+• a device that automatically controls the operation of something in accordance with a prescribed program.

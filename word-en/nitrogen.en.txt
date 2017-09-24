@@ -1,3 +1,4 @@
 nitrogen 
-BrE ˈnʌɪtrədʒ(ə)n, AmE ˈnaɪtrədʒən 
-noun Uncountable氮 dàn nitrogen atoms/gas 氮原子/氮气 
+ˈnītrəjən
+
+▶noun the chemical element of atomic number 7, a colorless, odorless unreactive gas that forms about 78 percent of the earth's atmosphere. Liquid nitrogen (made by distilling liquid air) boils at 77.4 kelvins (−195.8°C) and is used as a coolant. (Symbol: N) ORIGIN late 18th century: from French nitrogène (see nitro-, -gen) .

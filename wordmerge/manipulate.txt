@@ -7,8 +7,17 @@ transitive verb
 ④ (alter) 篡改 cuàngǎi ‹data, statistics›
 ⑤ (in physiotherapy) 对…推拿 duì… tuīná ‹joint, muscle›
 manipulate 
-▶verb
-1 he manipulated some knobs and levers: operate, work; turn, pull.
-2 she manipulated the muscles of his back: massage, rub, knead, feel, palpate.
-3 the government tried to manipulate the situation: control, influence, use/turn to one's advantage, exploit, maneuver, engineer, steer, direct, gerrymander; twist someone around one's little finger.
-4 they accused him of manipulating the data: falsify, rig, distort, alter, change, doctor, massage, juggle, tamper with, tinker with, interfere with, misrepresent; informal cook, fiddle with.
+məˈnipyəˌlāt
+
+▶verb [with object]
+1 handle or control (a tool, mechanism, etc.), typically in a skillful manner: he manipulated the dials of the set. 
+• alter, edit, or move (text or data) on a computer. 
+• examine or treat (a part of the body) by feeling or moving it with the hand: a system of healing based on manipulating the ligaments of the spine.
+2 control or influence (a person or situation) cleverly, unfairly, or unscrupulously: the masses were deceived and manipulated by a tiny group. 
+• alter (data) or present (statistics) so as to mislead. DERIVATIVES manipulability 
+-ˌnipyələˈbilətē 
+noun. manipulable 
+məˈnipyələb(ə)l 
+adjective. manipulatable 
+-ˌlātəbəl 
+adjectiveORIGIN early 19th century: back-formation from earlier manipulation, from Latin manipulus ‘handful.’

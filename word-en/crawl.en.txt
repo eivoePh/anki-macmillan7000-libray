@@ -1,5 +1,21 @@
 crawl 
+krôl
+
 ▶verb
-1 they crawled under the table: creep, worm one's way, go on all fours, go on hands and knees, wriggle, slither, squirm, scrabble.
-2 informal I'm not going to go crawling to him: grovel to, ingratiate oneself with, be obsequious to, kowtow to, pander to, toady to, truckle to, bow and scrape to, dance attendance on, curry favor with, make up to, fawn on/over; informal suck up to, lick someone's boots, butter up.
-3 the place was crawling with soldiers: be full of, overflow with, teem with, be packed with, be crowded with, be alive with, be overrun with, swarm with, be bristling with, be infested with, be thick with; informal be lousy with, be jam-packed with, be chock-full of.
+1 [no object] (of a person) move forward on the hands and knees or by dragging the body close to the ground: they crawled out from under the table. 
+• (of an insect or small animal) move slowly along a surface: the tiny spider was crawling up Nicky's arm. 
+• (of a vehicle) move at an unusually slow pace: the traffic was crawling along. 
+• swim using the crawl. 
+• technical (of paint or other liquid) move after application to form an uneven layer over the surface below: glazes can crawl away from a crack in the piece.
+2 [no object] informal behave obsequiously or ingratiatingly in the hope of gaining someone's favor: don't come crawling back to me later when you realize your mistake.
+3 (be crawling with) be covered or crowded with insects or people, to an extent that is disgusting or objectionable: the place was crawling with soldiers.
+4 [with object] Computing (of a program) systematically visit (a number of web pages) in order to create an index of data: its automated software robots crawl websites, grabbing copies of pages to index. 
+▶noun [in singular]
+1 an act of moving on one's hands and knees or dragging one's body along the ground: they began the crawl back to their own lines. 
+• a slow rate of movement, typically that of a vehicle: he reduced his speed to a crawl.
+2 a swimming stroke involving alternate overarm movements and rapid kicks of the legs.
+3 a strip or band running across the bottom of a computer or television screen, within which news headlines, public service announcements, and advertisements are continuously scrolled. 
+PHRASES
+make someone's skin crawl see skin. DERIVATIVES crawlingly adverb. crawly 
+ˈkrôlē 
+adjectiveORIGIN Middle English: of unknown origin; possibly related to Swedish kravla and Danish kravle .

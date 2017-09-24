@@ -1,7 +1,15 @@
 sensitive 
+ˈsensədiv
+
 ▶adjective
-1 she's sensitive to changes in temperature: responsive to, reactive to, sentient of, sensitized to; aware of, conscious of, alive to; susceptible to, affected by, vulnerable to; attuned to. ANTONYMS impervious, unresponsive.
-2 sensitive skin: delicate, fragile; tender, sore, raw. ANTONYMS resilient, tough.
-3 the matter needs sensitive handling: tactful, careful, thoughtful, diplomatic, delicate, subtle, kid-glove; sympathetic, compassionate, understanding, intuitive, responsive, insightful. ANTONYMS clumsy.
-4 he's sensitive about his bald patch: touchy, oversensitive, hypersensitive, easily offended, easily upset, easily hurt, thin-skinned, defensive; paranoid, neurotic; informal uptight. ANTONYMS thick-skinned.
-5 a sensitive issue: difficult, delicate, tricky, awkward, problematic, ticklish, precarious; controversial, emotive; informal sticky. ANTONYMS uncontroversial.
+1 quick to detect or respond to slight changes, signals, or influences: the new method of protein detection was more sensitive than earlier ones 
+spiders are sensitive to vibrations on their web. 
+• easily damaged, injured, or distressed by slight changes: the committee called for improved protection of wildlife in environmentally sensitive areas. 
+• (of photographic materials) prepared so as to respond rapidly to the action of light. 
+• (of a market) unstable and liable to quick changes of price because of outside influences.
+2 (of a person or a person's behavior) having or displaying a quick and delicate appreciation of others' feelings: I pay tribute to the Minister for his sensitive handling of the bill. 
+• easily offended or upset: I suppose I shouldn't be so sensitive.
+3 kept secret or with restrictions on disclosure to avoid endangering security: he was suspected of passing sensitive information to other countries. 
+▶noun a person who is believed to respond to occult influences. DERIVATIVES sensitiveness 
+ˈsensədivnəs 
+nounORIGIN late Middle English (in the sense ‘sensory’): from Old French sensitif, -ive or medieval Latin sensitivus, formed irregularly from Latin sentire ‘feel.’ The current senses date from the early 19th century.

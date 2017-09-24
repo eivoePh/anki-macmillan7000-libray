@@ -5,8 +5,11 @@ nounCountable and uncountable
 ② (of birds, animals) 迁徙 qiānxǐ ; (of fish) 洄游 huíyóu 
 ③ Computing 转移 zhuǎnyí 
 migration 
-BrE mʌɪˈɡreɪʃ(ə)n, AmE maɪˈɡreɪʃ(ə)n 
-nounCountable and uncountable
-① (of people) 移居 yíjū 
-② (of birds, animals) 迁徙 qiānxǐ ; (of fish) 洄游 huíyóu 
-③ Computing 转移 zhuǎnyí 
+mīˈɡrāSH(ə)n
+
+▶noun
+1 seasonal movement of animals from one region to another: this butterfly's annual migration across North America. 
+• movement of people to a new area or country in order to find work or better living conditions: the extensive rural-to-urban migration has created a severe housing shortage.
+2 movement from one part of something to another: there is virtually no cell migration in plants. DERIVATIVES migrational 
+mīˈɡrāSHənl 
+adjective

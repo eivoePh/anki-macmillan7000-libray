@@ -1,4 +1,12 @@
 compartment 
+kəmˈpärtmənt
+
 ▶noun
-1 a secret compartment: section, part, bay, recess, chamber, cavity; pocket.
-2 they put science and religion in separate compartments: domain, field, sphere, department; category, pigeonhole, bracket, group, set.
+1 a separate section of a structure or container in which certain items can be kept separate from others: there's some ice cream in the freezer compartment. 
+• a division of a railroad car marked by partitions: a first-class compartment. 
+• a watertight section of a ship's hull: the aft cargo compartment. 
+• an area in which something can be considered in isolation from other things: religion and politics should be kept in different compartments.
+2 Heraldry a grassy mound or other support depicted below a shield. 
+▶verb [with object] (usually be compartmented) divide (something) into separate parts or sections: the buildings are to be compartmented by fire walls. DERIVATIVES compartmentation 
+kəmˌpärtˌmenˈtāSHən, -mən- 
+nounORIGIN mid 16th century: from French compartiment, from Italian compartimento, from compartire, from late Latin compartiri ‘divide.’

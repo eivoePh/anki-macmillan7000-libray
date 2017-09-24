@@ -2,4 +2,7 @@ deem
 BrE diːm, AmE dim 
 transitive verb 认为 rènwéi to deem [somebody]/[something] to be [something]; 认为某人怎么样/某事是某事 to be deemed to be/do [something]; 被认为怎么样/干某事 your essay was deemed the best 你的短文评价最高 it was deemed necessary/advisable to … 大家认为…有必要/是明智的 
 deem 
-▶verb many of these campaigns have been deemed successful: consider, regard as, judge, adjudge, hold to be, view as, see as, take for, class as, count, find, suppose, reckon; think, believe to be, feel to be; formal esteem.
+dēm
+
+▶verb [with object and complement] regard or consider in a specified way: the event was deemed a great success 
+[with object and infinitive] : the strike was deemed to be illegal. ORIGIN Old English dēman (also in the sense ‘act as judge’), of Germanic origin; related to Dutch doeman, also to doom .

@@ -1,5 +1,16 @@
 attribute 
-▶verb they attributed their success to him: ascribe to, assign to, accredit to, credit to, impute to; put down to, chalk up to; hold responsible for, blame on, pin on; connect with, associate with.
-▶noun
-1 he has all the attributes of a top player: quality, characteristic, trait, feature, element, aspect, property, sign, hallmark, mark, distinction; informal X factor.
-2 the hourglass is the attribute of Father Time: symbol, mark, sign, hallmark, trademark.CHOOSE THE RIGHT WORD See emblem .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+▶verb 
+əˈtriˌbyo͞ot 
+[with object] (attribute something to) regard something as being caused by (someone or something): he attributed the firm's success to the efforts of the managing director 
+the bombing was attributed to the IR
+A.  
+• ascribe a work or remark to (a particular author, artist, or speaker): the building was attributed to Frank Lloyd Wright. 
+• regard a quality or feature as characteristic of or possessed by (someone or something): ancient peoples attributed magic properties to certain stones. 
+▶noun 
+ˈatrəˌbyo͞ot 
+
+1 a quality or feature regarded as a characteristic or inherent part of someone or something: flexibility and mobility are the key attributes of our army. 
+• a material object recognized as symbolic of a person, especially a conventional object used in art to identify a saint or mythical figure.
+2 Computing a piece of information that determines the properties of a field or tag in a database or a string of characters in a display.
+3 Grammar an attributive adjective or noun.
+4 Statistics a real property that a statistical analysis is attempting to describe. ORIGIN late 15th century: as a noun from Old French attribut, and as a verb from Latin attribut- ‘allotted,’ both from the verb attribuere, from ad- ‘to’ + tribuere ‘assign.’

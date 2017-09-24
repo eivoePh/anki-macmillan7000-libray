@@ -7,6 +7,18 @@ transitive verb
 ④ (from competition) 淘汰 táotài 
 ⑤ Physiology (expel) 排出 páichū 
 eliminate 
-▶verb
-1 a policy that would eliminate inflation: remove, get rid of, put an end to, do away with, end, stop, terminate, eradicate, destroy, annihilate, stamp out, wipe out, extinguish.
-2 he was eliminated in the first round of competition: knock out, beat; exclude, rule out, disqualify.
+əˈliməˌnāt
+
+▶verb [with object] completely remove or get rid of (something): a policy that would eliminate inflation. 
+• exclude (someone or something) from consideration: the police have eliminated Larry from their inquiries. 
+• murder (a rival or political opponent): security agents have started a campaign to eliminate some of the government's opponents. 
+• (usually be eliminated) exclude (a person or team) from further participation in a sporting competition following defeat or inadequate results: the Bears were eliminated from the playoffs in the first round. 
+• Mathematics remove (a variable) from an equation, typically by substituting another that is shown by a different equation to be equivalent. 
+• Chemistry generate or remove (a simple substance) as a product in the course of a reaction involving larger molecules. 
+• Physiology expel (waste matter) from the body. DERIVATIVES eliminable 
+əˈlimənəb(ə)l 
+adjective. eliminator 
+əˈliməˌnādər 
+noun. eliminatory 
+əˈlimənəˌtôrē 
+adjectiveORIGIN mid 16th century (in the sense ‘drive out, expel’): from Latin eliminat- ‘turned out of doors,’ from the verb eliminare, from e- (variant of ex-)‘out’ + limen, limin- ‘threshold.’

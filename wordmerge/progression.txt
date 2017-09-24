@@ -6,6 +6,12 @@ noun
 ③ Countable(series) 系列 xìliè an endless progression of meetings 没完没了的会议 a long progression of sunny days 持续很久的晴天 
 ④ Uncountable and countableMathematics 级数 jíshù arithmetic/geometric progression 算术/几何级数 
 progression 
-▶noun
-1 progression to the next stage: progress, advancement, movement, passage, march; development, evolution, growth.
-2 a progression of peaks on the graph: succession, series, sequence, string, stream, chain, concatenation, train, row, cycle.
+prəˈɡreSHən
+
+▶noun the process of developing or moving gradually towards a more advanced state: the normal progression from junior to senior status. 
+• a succession; a series: counting the twenty-four hours in a single progression from midnight. 
+• Music a passage or movement from one note or chord to another: a blues progression. 
+• Mathematics short for arithmetic progression, geometric progression, or harmonic progression. 
+• Astrology a predictive technique in which the daily movement of the planets, starting from the day of birth, represents a year in the subject's life. DERIVATIVES progressional 
+-SHənl 
+adjectiveORIGIN late Middle English: from Old French, from Latin progressio(n-), from the verb progredi (see progress) .

@@ -1,6 +1,18 @@
 local 
-▶adjective
-1 local government: community, district, neighborhood, regional, city, town, municipal, county. ANTONYMS national, global.
-2 a local restaurant: neighborhood, nearby, near, at hand, close by; accessible, handy, convenient.
-3 a local infection: confined, restricted, contained, localized. ANTONYMS general, widespread.
-▶noun complaints from the locals: local person, native, inhabitant, resident. ANTONYMS outsider.
+ˈlōk(ə)l
+
+▶adjective belonging or relating to a particular area or neighborhood, typically exclusively so: researching local history 
+the local post office. 
+• denoting a telephone call made to a nearby place and charged at a relatively low rate. 
+• denoting a train or bus serving a particular district, with frequent stops: the town has an excellent local bus service. Compare with express2. 
+• (in technical use) relating to a particular region or part, or to each of any number of these: a local infection 
+migration can regulate the local density of animals. 
+• Computing denoting a variable or other entity that is only available for use in one part of a program. 
+• Computing denoting a device that can be accessed without the use of a network. Compare with remote. 
+▶noun a local person or thing, in particular: 
+• an inhabitant of a particular area or neighborhood: the street was full of locals and tourists. 
+• British informal a pub convenient to a person's home: a pint in the local. 
+• a local train or bus service: catch the local into New Delhi. 
+• North American a local branch of an organization, especially a labor union. 
+• short for local anesthesia. 
+• Stock Market, informal a floor trader who trades on their own account, rather than on behalf of other investors. DERIVATIVES localness nounORIGIN late Middle English: from late Latin localis, from Latin locus ‘place.’

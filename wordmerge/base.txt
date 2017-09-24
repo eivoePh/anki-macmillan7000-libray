@@ -20,10 +20,37 @@ B.  transitive verb
 ② (have as centre of operations) 以…为基地 yǐ… wéi jīdì the company is based in Hong Kong 公司总部设在香港 I am currently based in New York 我现在驻纽约工作 
 base
 1 
+bās
+
 ▶noun
-1 the base of the tower: foundation, bottom, foot, support, stand, pedestal, plinth. ANTONYMS top.
-2 the system uses existing technology as its base: basis, foundation, bedrock, starting point, source, origin, root(s), core, key component, heart, backbone.
-3 the troops returned to their base: headquarters, camp, site, station, settlement, post, center, starting point.
-▶verb
-1 he based his idea on a movie: found, build, construct, form, ground, root; use as a basis; (be based on) derive from, spring from, stem from, originate in, have its origin in, issue from.
-2 the company was based in Quebec: locate, situate, position, install, station, site, establish; garrison.
+1 the lowest part or edge of something, especially the part on which it rests or is supported: she sat down at the base of a tree. 
+• Architecture the part of a column between the shaft and pedestal or pavement. 
+• Botany & Zoology the end at which a part or organ is attached to the trunk or main part: a shoot is produced at the base of the stem. 
+• Geometry a line or surface on which a figure is regarded as standing: the base of the triangle. 
+• Surveying a line of known length used in triangulation. 
+• Heraldry the lowest part of a shield.
+2 a conceptual structure or entity on which something draws or depends: the town's economic base collapsed. 
+• something used as a foundation or starting point for further work; a basis: uses existing data as the base for the study. 
+• [with modifier] a group of people regarded as supporting an organization, for example by buying its products: a client base.
+3 the main place where a person works or stays: she makes the studio her base. 
+• chiefly Military a place used as a center of operations by the armed forces or others; a headquarters: the corporal headed back to base 
+a base for shipping operations.
+4 a main or important element or ingredient to which other things are added: soaps with a vegetable oil base. 
+• a substance used as a foundation for makeup. 
+• a substance such as water or oil into which a pigment is mixed to form paint.
+5 Chemistry a substance capable of reacting with an acid to form a salt and water, or (more broadly) of accepting or neutralizing hydrogen ions. Compare with alkali. 
+• Biochemistry a purine or pyrimidine group in a nucleotide or nucleic acid.
+6 Electronics the middle part of a bipolar transistor, separating the emitter from the collector.
+7 Linguistics the root or stem of a word or a derivative. 
+• the uninflected form of a verb.
+8 Mathematics a number used as the basis of a numeration scale. 
+• a number in terms of which other numbers are expressed as logarithms.
+9 Baseball one of the four stations that must be reached in turn to score a run. 
+• informal used to refer to progressive levels of sexual intimacy: she and her boyfriend got to second base. 
+▶verb [with object]
+1 have as the foundation for (something); use as a point from which (something) can develop: the film is based on a novel by Pat Conroy 
+inaccurate conclusions based on incomplete facts.
+2 situate as the center of operations: a research program based at the University of Arizona 
+[as adjective, in combination] (-based) : a London-based band. 
+PHRASES
+off-base informal mistaken: the boy is way off-base. touch base(s) informal briefly make or renew contact with someone.ORIGIN Middle English: from Old French, from Latin basis ‘base, pedestal,’ from Greek.

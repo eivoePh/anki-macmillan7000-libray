@@ -6,7 +6,16 @@ noun
 ③ (of person) (way of behaving) 行为方式 xíngwéi fāngshì (way of feeling) 心情 xīnqíng I'm still in work mode 我还是惦念着工作 when I am at home, I am in wife-and-mother mode 我在家就做贤妻良母 
 ④ (fashion) 风尚 fēngshàng she wears her hair in the latest mode 她梳着最时髦的发式 
 mode 
+mōd
+
 ▶noun
-1 an informal mode of policing: manner, way, fashion, means, method, system, style, approach, technique, procedure, process, practice.
-2 the camera is in manual mode: function, position, operation.
-3 the mode for activewear: fashion, vogue, style, look, trend; craze, rage, fad.
+1 a way or manner in which something occurs or is experienced, expressed, or done: his preferred mode of travel was a kayak 
+differences between language modes, namely speech and writing. 
+• an option allowing a change in the method of operation of a device, especially a camera: a camcorder in automatic mode. 
+• Computing a way of operating or using a system: some computers provide several so-called processor modes. 
+• Physics any of the distinct kinds or patterns of vibration of an oscillating system. 
+• Logic the character of a modal proposition (whether necessary, contingent, possible, or impossible). 
+• Logic & Grammar another term for mood2.
+2 a fashion or style in clothes, art, literature, etc.: in the Seventies, the mode for activewear took hold.
+3 Statistics the value that occurs most frequently in a given set of data.
+4 Music a set of musical notes forming a scale and from which melodies and harmonies are constructed. The modes of plainsong and later Western music (including the usual major and minor scales) correspond to the diatonic scales played on the white notes of a piano. They are named arbitrarily after ancient Greek modes: Ionian (or major), Dorian, Phrygian, Lydian, Mixolydian, Aeolian, and Locrian. ORIGIN late Middle English (in the musical and grammatical senses): from Latin modus ‘measure,’ from an Indo-European root shared by mete1; compare with mood2 .

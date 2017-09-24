@@ -11,13 +11,20 @@ B.  transitive verb
 ④ figurative (spoil) 毒化 dúhuà ‹life, outlook›this quarrel poisoned their relationship 这次吵架使他们的关系恶化了 
 ⑤ figurative (injure morally) «person, propaganda» 毒害 dúhài ‹mind›
 poison 
-▶noun
-1 a deadly poison: toxin, toxicant, venom; archaic bane.
-2 Marianne would spread her poison: malice, ill will, hate, malevolence, bitterness, spite, spitefulness, venom, acrimony, rancor; bad influence, cancer, corruption, pollution.
-▶verb
-1 her mother poisoned her: give poison to; murder.
-2 a blackmailer poisoning pet food: contaminate, put poison in, envenom, adulterate, spike, lace, doctor.
-3 the Amazon is being poisoned: pollute, contaminate, taint, blight, spoil; literary befoul.
-4 they poisoned his mind: prejudice, bias, jaundice, embitter, sour, envenom, warp, corrupt, subvert.
-WORD LINKS
-poison toxicology the branch of science concerned with poisonsWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+ˈpoiz(ə)n
+
+▶noun a substance that is capable of causing the illness or death of a living organism when introduced or absorbed. 
+• Chemistry a substance that reduces the activity of a catalyst. 
+• Physics an additive or impurity in a nuclear reactor that slows a reaction by absorbing neutrons. 
+• a person, idea, action, or situation that is considered to have a destructive or corrupting effect or influence: meanwhile he is spreading his poison over the Internet. 
+▶verb [with object] administer poison to (a person or animal), either deliberately or accidentally: he tried to poison his wife 
+swans are being poisoned by lead from anglers' lines 
+(as noun poisoning) : symptoms of poisoning may include nausea, diarrhea, and vomiting. 
+• adulterate or contaminate (food or drink) with poison. 
+• (usually as adjective poisoned) treat (a weapon or missile) with poison in order to augment its lethal effect. 
+• prove harmful or destructive to: his disgust had poisoned his attitude toward everyone. 
+• Chemistry (of a substance) reduce the activity of (a catalyst). 
+PHRASES
+what's your poison? informal used to ask someone what they would like to drink.DERIVATIVES poisoner 
+ˈpoiz(ə)nər 
+nounORIGIN Middle English (denoting a harmful medicinal drink): from Old French poison ‘magic potion,’ from Latin potio(n-) ‘potion,’ related to potare ‘to drink.’

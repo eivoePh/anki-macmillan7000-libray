@@ -1,13 +1,38 @@
-bar 
+bar
+1 
+bär
+
 ▶noun
-1 an iron bar: rod, pole, stick, batten, shaft, rail, paling, spar, strut, crosspiece, beam.
-2 a bar of chocolate: block, slab, cake, tablet, brick, loaf, wedge, ingot.
-3 your drinks are on the bar: counter, table, buffet, stand.
-4 she had a drink in a bar: tavern, cocktail lounge, barroom, taproom, pub, after-hours club, lounge, nightclub, speakeasy, roadhouse, beer hall, boîte, club, inn, rathskeller, cantina, bodega; singles bar, sports bar; informal watering hole, gin mill, dive, nineteenth hole; British public house; historical saloon, alehouse.
-5 a bar to promotion: obstacle, impediment, hindrance, obstruction, block, hurdle, barrier, stumbling block. ANTONYMS aid.
-6 members of the Bar: lawyers, barristers, advocates, counsel, counselors; chiefly British solicitors.
-7 the bar across the river mouth: sandbar, sandbank, shoal, shallow, reef.
-▶verb
-1 they have barred the door: bolt, lock, fasten, secure, block, barricade, obstruct. ANTONYMS open, unlock.
-2 I was barred from entering: prohibit, debar, preclude, forbid, ban, interdict, inhibit; exclude, keep out; obstruct, hinder, block; Law enjoin. ANTONYMS accept, admit.
-▶preposition everyone bar me. See except (preposition) . 
+1 a long rod or rigid piece of wood, metal, or similar material, typically used as an obstruction, fastening, or weapon. 
+• an amount of food or another substance formed into a regular narrow block: a bar of chocolate 
+gold bars. 
+• a band of color or light, especially on a flat surface: bars of sunlight shafting through the broken windows. 
+• see crossbar. 
+• a sandbank or shoal at the mouth of a harbor, bay, or estuary. 
+• British a rail marking the end of each chamber in the Houses of Parliament. 
+• Heraldry a charge in the form of a narrow horizontal stripe across the shield.
+2 a counter across which alcoholic drinks or refreshments are served. 
+• a room in a restaurant or hotel in which alcohol is served. 
+• an establishment where alcohol and sometimes other refreshments are served. 
+• [usually with modifier] a small store or booth serving refreshments or providing a service: a dairy bar.
+3 a barrier or restriction to an action or advance: political differences are not necessarily a bar to a good relationship.
+4 Music a measure of music or the time of a piece of music.
+5 (the bar) a partition in a courtroom or legislative assembly, now usually notional, beyond which most people may not pass and, in court, at which an accused person stands: the prisoner at the bar 
+he had to appear at the Bar of the House for a reprimand by the Speaker. 
+• a plea arresting an action or claim in a law case. 
+• a particular court of law.
+6 (the Bar) the legal profession. 
+• North American lawyers collectively. 
+• British barristers collectively. 
+▶verb (bars, barring, barred) [with object]
+1 fasten (something, especially a door or window) with a bar or bars: she bolts and bars the door.
+2 prevent or forbid the entrance or movement of: boulders barred her passage 
+she was barred from a men-only dinner. 
+• prohibit (someone) from doing something: journalists had been barred from covering the elections. 
+• forbid (an activity) to someone: the job she loved had been barred to her. 
+• exclude (something) from consideration: nothing is barred in the crime novel. 
+• Law prevent or delay (an action) by objection.
+3 mark (something) with bars or stripes: his face was barred with light. 
+▶preposition chiefly British except for; apart from: everyone, bar a few ascetics, thinks it desirable. 
+PHRASES
+bar none with no exceptions: the greatest living American poet bar none. behind bars in prison. lower (or raise or lift) the bar lower (or raise) the standards that need to be met in order to qualify for something: they have drastically lowered the bar for anyone who wants to call themselves a musician.ORIGIN Middle English: from Old French barre (noun), barrer (verb), of unknown origin.

@@ -1,4 +1,9 @@
 lightning 
-BrE ˈlʌɪtnɪŋ, AmE ˈlaɪtnɪŋ 
-A. nounUncountable(instance, phenomenon) 闪电 shǎndiàn (striking sth.) 雷击 léijī a flash/blot of lightning 一道闪电 yī dào shǎndiàn like (a flash of) lightning or as quick as lightning 飞快地 ‹run, think›like greased lightning or a streak of lightning 一溜烟地 ‹run›to be struck by lightning 遭雷击 lightning never strikes twice in the same place proverb 倒霉的事不会重复发生 
-B.  adjectiveattributive 闪电般的 shǎndiàn bān de ‹speed, response, raid, visit›; 伴有雷电的 bànyǒu léidiàn de ‹storm›; 雷电造成的 léidiàn zàochéng de ‹damage›
+ˈlītniNG
+
+▶noun the occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground or within a cloud, accompanied by a bright flash and typically also thunder: a tremendous flash of lightning. 
+• literary a flash or discharge of lightning: the sky was a mass of black cloud out of which lightnings flashed. 
+▶adjective [attributive] very quick: a lightning cure for his hangover 
+galloping across the country at lightning speed. 
+PHRASES
+lightning never strikes twice in the same place proverb an unusual situation or event is unlikely to happen again in exactly the same circumstances or to the same person. like (greased) lightning very quickly.ORIGIN Middle English: special use of lightening (verbal noun from lighten2). usage: See usage at lighten2 .

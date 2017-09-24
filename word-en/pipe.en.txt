@@ -1,13 +1,38 @@
 pipe 
+pīp
+
 ▶noun
-1 a water pipe: tube, conduit, hose, main, duct, line, channel, pipeline, drain; tubing, piping, siphon.
-2 he smokes a pipe: brier (pipe), meerschaum, chibouk; hookah, narghile, bong, churchwarden.
-3 she was playing a pipe: whistle, pennywhistle, tin whistle, flute, recorder, fife; chanter.
-4 regimental pipes and drums: bagpipes, uillean pipes; pan pipes.
+1 a tube of metal, plastic, or other material used to convey water, gas, oil, or other fluid substances. 
+• a cylindrical vein of ore or rock, especially one in which diamonds are found. 
+• a cavity in cast metal. 
+• informal a duct, vessel, or tubular structure in the body, or in an animal or plant. 
+• Computing a connection to the Internet or to a website.
+2 a narrow tube made from wood, clay, etc., with a bowl at one end for containing burning tobacco, the smoke from which is drawn into the mouth. 
+• a quantity of tobacco held by this. 
+• a device for smoking illegal drugs: a crack pipe.
+3 a wind instrument consisting of a single tube with holes along its length that are covered by the fingers to produce different notes: a reed pipe. 
+• (usually pipes) bagpipes. 
+• (pipes) a set of pipes joined together, as in panpipes. 
+• a tube by which sound is produced in an organ. 
+• (pipes) informal voice or vocal ability, especially of a powerful singer. 
+• [in singular] a high-pitched cry or song, especially of a bird. 
+• a boatswain's whistle.
+4 Computing a command that causes the output from one routine to be the input for another. 
+• the symbol 
+.
+5 a cask for wine, especially as a measure equal to two hogsheads, usually equivalent to 105 gallons (about 477 liters). 
 ▶verb
-1 the beer is piped into barrels: siphon, feed, channel, run, convey.
-2 television shows piped in from New York: transmit, feed, patch.
-3 he heard a tune being piped: play on a pipe, tootle, whistle; literary flute.
-4 a curlew piped: chirp, cheep, chirrup, twitter, warble, trill, peep, sing, shrill.
+1 [with object] convey (water, gas, oil, or other fluid substances) through a pipe or pipes: water from the lakes is piped to several towns. 
+• transmit (music, a radio or television program, signals, etc.) by wire or cable.
+2 [with object] play (a tune) on a pipe or pipes. 
+• [no object] (of a bird) sing in a high or shrill voice. 
+• [with direct speech] say something in a high, shrill voice: “No, ma'am,” piped Lucy. 
+• use a boatswain's whistle to summon (the crew) to work or a meal: the hands were piped to breakfast.
+3 [with object] decorate (clothing or soft furnishings) with a thin cord covered in fabric. 
+• put (a decorative line or pattern) on a cake or similar dish using icing, whipped cream, etc. 
 PHRASES
-pipe down informal we had to ask that couple in the first row to pipe down: be quiet, be silent, hush, stop talking, hold one's tongue, settle down; informal shut up, shut one's mouth, zip it, button it, button one's lip, put a sock in it.
+put that in one's pipe and smoke it informal used to indicate that someone should accept what one has said, even if it is unwelcome.PHRASAL VERBS pipe down [often in imperative] informal stop talking; be less noisy. pipe up say something suddenly.DERIVATIVES pipeful 
+ˈpīpˌfo͝ol 
+noun (plural pipefuls) . pipeless adjective. pipy 
+ˈpīpē 
+adjective (pipier, pipiest) ORIGIN Old English pīpe ‘musical tube,’ pīpian ‘play a pipe,’ of Germanic origin; related to Dutch pijp and German Pfeife, based on Latin pipare ‘to peep, chirp,’ reinforced in Middle English by Old French piper ‘to chirp, squeak.’

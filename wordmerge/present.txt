@@ -13,10 +13,16 @@ B.  nounUncountable
 ② Linguistics the present 现在时 xiànzàishí the verb is in the present 这个动词用的是现在式 
 present
 1 
+ˈprez(ə)nt
+
 ▶adjective
-1 a doctor must be present at the ringside: in attendance, here, there, near, nearby, (close/near) at hand, available. ANTONYMS absent.
-2 organic compounds are present in the waste: in existence, existing, existent. ANTONYMS absent.
-3 the present economic climate: current, present-day, existing. ANTONYMS past, future.
-▶noun forget the past and think about the present: now, today, the present time/moment, the here and now. ANTONYMS past, future.
+1 [predicative] (of a person) in a particular place: a doctor must be present at the ringside 
+the speech caused embarrassment to all those present. 
+• (of a thing) existing or occurring in a place or thing: organic molecules are present in comets.
+2 [attributive] existing or occurring now: she did not expect to find herself in her present situation. 
+• now being considered or discussed: the present article cannot answer every question. 
+• Grammar (of a tense or participle) expressing an action now going on or habitually performed or a condition now existing. 
+▶noun [in singular] (usually the present) the period of time now occurring: they are happy and at peace, refusing to think beyond the present. 
+• Grammar a present tense: the verbs are all in the present. See also historic present. 
 PHRASES
-at present at present, we are offering free installation: at the moment, just now, right now, at the present time, currently, at this moment in time. for the present he can stay in the guest room, but only for the present: for the time being, for now, for the moment, for a while, temporarily, pro tem. QUOTE I'm living in the future so the present is my past.Kanye West "Monster" (2010)
+at present now: membership at present stands at about 5,000. for the present for now; temporarily. (there is) no time like the present used to suggest that something should be done now rather than later: “When do you want me to leave?” “No time like the present.” present company excepted excluding those who are here now. these presents Law, formal this document: the premises outlined in red on the Plan annexed to these presents.ORIGIN Middle English: via Old French from Latin praesent- ‘being at hand,’ present participle of praeesse, from prae ‘before’ + esse ‘be.’

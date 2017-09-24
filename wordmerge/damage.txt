@@ -5,8 +5,14 @@ A.  noun Uncountable(to building, machine, vehicle) 损坏 sǔnhuài (to crops, 
 B.  damages noun plural Law 损害赔偿金 sǔnhài péichángjīn to be liable for damages 对损失负有赔偿责任 to claim for damages 提出索赔 
 C.  transitive verb 损坏 sǔnhuài ‹building, machine, vehicle›; 损害 sǔnhài ‹crops, health, economy, reputation, relationship, organization›; 破坏 pòhuài ‹environment›; 伤害 shānghài ‹person, self-esteem›damaged fruit/clothes 破损的水果/衣服 ‘slightly damaged’ “略有瑕疵” it could damage the whole police operation 这有可能破坏警方的整个行动 
 damage 
+ˈdamij
+
 ▶noun
-1 did the thieves do any damage? harm, destruction, vandalism; injury, impairment, desecration, vitiation, detriment; ruin, havoc, devastation.
-2 informal what's the damage? cost, price, expense, charge, total.
-3 (damages) she won $4,300 in damages: compensation, recompense, restitution, redress, reparation(s); indemnification, indemnity.
-▶verb the parcel had been damaged: harm, deface, mutilate, mangle, impair, injure, disfigure, vandalize; tamper with, sabotage; ruin, destroy, wreck, trash; formal vitiate. ANTONYMS repair.
+1 physical harm caused to something in such a way as to impair its value, usefulness, or normal function. 
+• unwelcome and detrimental effects: the damage to his reputation was considerable.
+2 (damages) a sum of money claimed or awarded in compensation for a loss or an injury: she was awarded $284,000 in damages. 
+▶verb [with object] inflict physical harm on (something) so as to impair its value, usefulness, or normal function: the car was badly damaged in the accident 
+(as adjective damaged) : damaged ligaments. 
+• have a detrimental effect on: the scandal could seriously damage his career. 
+PHRASES
+what's the damage? informal, humorous used to ask the cost of something.ORIGIN Middle English: from Old French, from dam, damne ‘loss or damage,’ from Latin damnum ‘loss or hurt’; compare with damn .

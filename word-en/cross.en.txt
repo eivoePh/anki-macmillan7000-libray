@@ -1,14 +1,50 @@
 cross 
+krôs
+
 ▶noun
-1 a bronze cross: crucifix, rood.
-2 we all have our crosses to bear: burden, trouble, worry, trial, tribulation, affliction, curse, bane, misfortune, adversity, hardship, vicissitude; millstone, albatross, thorn in one's flesh/side; misery, woe, pain, sorrow, suffering; informal hassle, headache.
-3 a cross between a yak and a cow: hybrid, hybridization, cross-breed, half-breed, mongrel; mixture, amalgam, blend, combination.
-▶verb
-1 they crossed the hills on foot: travel across, traverse, range over; negotiate, navigate, cover.
-2 a lake crossed by a fine stone bridge: span, bridge; extend across, stretch across, pass over.
-3 the point where the two roads cross: intersect, meet, join, connect, crisscross.
-4 no one dared cross him: oppose, resist, defy, obstruct, impede, hinder, hamper; contradict, argue with, quarrel with, stand up to, take a stand against, take issue with; formal gainsay.
-5 the breed was crossed with the similarly colored Holstein: hybridize, cross-breed, interbreed, cross-fertilize, cross-pollinate.
-▶adjective Jane was getting cross: angry, annoyed, irate, irritated, in a bad mood, vexed, irked, piqued, out of humor, put out, displeased; irritable, short-tempered, bad-tempered, snappish, snappy, crotchety, grouchy, grumpy, fractious, testy, crabby, cranky, mad, hot under the collar, peeved, riled, on the warpath, up in arms, steamed up, sore, bent out of shape, teed off, ticked off, pissed off. ANTONYMS pleased.
+1 a mark, object, or figure formed by two short intersecting lines or pieces (+ or ×): types of cross cut a cross in the bark with a sharp knife. 
+• a cross (×) used to show that something is incorrect or unsatisfactory.
+2 an upright post with a transverse bar, as used in antiquity for crucifixion. 
+• (the Cross) the cross on which Jesus was crucified. 
+• this, or a representation of it, as an emblem of Christianity: she wore a cross around her neck. 
+• a thing that is unavoidable and has to be endured: she's just a cross we have to bear. 
+• short for sign of the cross (see sign). 
+• a staff surmounted by a cross carried in religious processions. 
+• a cross-shaped decoration awarded for personal valor or indicating rank in some orders of knighthood: the Military Cross. 
+• (the Cross) the constellation Southern Cross. Also called crux.
+3 an animal or plant resulting from crossbreeding; a hybrid: a Devon and Holstein cross. 
+• (a cross between) a mixture or compromise of two things: the system is a cross between a monorail and a conventional railroad.
+4 a sideways or transverse movement or pass, in particular: 
+• Soccer a pass of the ball across the field toward the center close to one's opponents' goal. 
+• Boxing a blow delivered across and over the opponent's lead: a right cross. 
+▶verb [with object]
+1 go or extend across or to the other side of (a path, road, stretch of water, or area): he has crossed the Atlantic twice 
+two paths crossed the field 
+figurative : a shadow of apprehension crossed her face 
+[no object] : we crossed over the bridge. 
+• go across or climb over (an obstacle or boundary): he attempted to cross the border into Jordan 
+[no object] : we crossed over a fence. 
+• [no object] (cross over) (especially of an artist or an artistic style or work) begin to appeal to a different audience, especially a wider one: a talented animator who crossed over to live action.
+2 [no object] pass in an opposite or different direction; intersect: the two lines cross at 90°. 
+• [with object] cause (two things) to intersect: cross the cables in opposing directions. 
+• [with object] place (something) crosswise: Michele sat back and crossed her arms. 
+• (of a letter) be sent before receipt of another from the person being written to: our letters crossed.
+3 draw a line or lines across; mark with a cross: cross the t's. 
+• British mark or annotate (a check), typically by drawing a pair of parallel lines across it, to indicate that it must be paid into a named bank account. 
+• (cross someone/something off) delete a name or item on a list as being no longer required or involved: Liz crossed off the days on the calendar. 
+• (cross something out) delete an incorrect or inapplicable word or phrase by drawing a line through it.
+4 (cross oneself) (of a person) make the sign of the cross in front of one's chest as a sign of Christian reverence or to invoke divine protection.
+5 Soccer pass (the ball) across the field toward the center when attacking.
+6 cause (an animal of one species, breed, or variety) to interbreed with one of another species, breed, or variety: many animals of the breed were crossed with the closely related Guernsey 
+figurative : he behaved like an old regular officer crossed with a mathematician. 
+• cross-fertilize (a plant): a hybrid tea was crossed with a polyantha rose.
+7 oppose or stand in the way of (someone): no one dared cross him. 
+▶adjective annoyed: he seemed to be very cross about something. 
 PHRASES
-cross out looking at the manager's starting lineup, it seems that Mitchell's name has been crossed out: delete, strike out, ink out, score out, edit out, cancel, obliterate.
+at cross purposes misunderstanding or having different aims from one another: we had been talking at cross purposes. cross one's fingers (or keep one's fingers crossed) put one finger across another as a sign of hoping for good luck. 
+• hope that someone or something will be successful. cross the floor British join the opposing side in Parliament. cross my heart (and hope to die) used to emphasize the truthfulness and sincerity of what one is saying, and sometimes reinforced by making a sign of the cross over one's chest.cross one's mind (of a thought) occur to one, especially transiently: it never crossed my mind to leave the tent and live in a house. cross someone's palm with silver often humorous pay someone for a favor or service, especially before having one's fortune told. cross someone's path meet or encounter someone. cross swords have an argument or dispute. get one's wires (or lines) crossed become wrongly connected by telephone. 
+• have a misunderstanding. the way of the Cross see way. DERIVATIVES crosser noun. crossly 
+ˈkrôslē ˈkräslē 
+adverb. crossness 
+ˈkrôsnəs 
+nounORIGIN late Old English (in the sense ‘monument in the form of a cross’): from Old Norse kross, from Old Irish cros, from Latin crux .

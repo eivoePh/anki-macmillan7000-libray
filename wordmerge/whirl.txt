@@ -14,11 +14,16 @@ C.  transitive verb
 A.  intransitive verb «person, blade» 快速旋转 kuàisù xuánzhuǎn 
 B.  transitive verb[whirl something/somebody round], [whirl round something/somebody] 快速转动 kuàisù zhuàndòng ‹sword, rope›to whirl one's partner round 带着舞伴旋转 
 whirl 
-▶verb
-1 leaves whirled in eddies: rotate, circle, wheel, turn, revolve, orbit, spin, twirl.
-2 they whirled past: hurry, race, dash, rush, run, sprint, bolt, dart, gallop, career, charge, shoot, hurtle, fly, speed, scurry; informal tear, belt, pelt, scoot, bomb, hightail it.
-3 his mind was whirling: spin, reel, swim.
-▶noun
-1 a whirl of dust: swirl, flurry, eddy.
-2 the mad social whirl: hurly-burly, activity, bustle, rush, flurry, fuss, turmoil, merry-go-round.
-3 Laura's mind was in a whirl: spin, daze, stupor, muddle, jumble; confusion; informal dither.
+(h)wərl
+
+▶verb move or cause to move rapidly around and around: [no object] : leaves whirled in eddies of wind 
+[with object] : I whirled her around the dance floor. 
+• move or cause to move rapidly: [no object] : Sybil stood waving as they whirled past 
+figurative : a kaleidoscope of images whirled through her brain 
+[with object] : he was whirled into the bushes. 
+• [no object] (of the head, mind, or senses) seem to spin around: Kate made her way back to the office, her mind whirling. 
+▶noun [in singular] a rapid movement around and around. 
+• frantic activity of a specified kind: the event was all part of the mad social whirl. 
+• [with modifier] a specified kind of candy or cookie with a spiral shape: a hazelnut whirl. 
+PHRASES
+give something a whirl informal give something a try. in a whirl in a state of confusion.DERIVATIVES whirler noun. whirlingly adverbORIGIN Middle English: the verb probably from Old Norse hvirfla ‘turn around’; the noun partly from Middle Low German and Middle Dutch wervel ‘spindle,’ or from Old Norse hvirfill ‘circle,’ from a Germanic base meaning ‘rotate.’

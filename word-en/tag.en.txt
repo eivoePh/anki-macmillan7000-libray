@@ -1,10 +1,30 @@
-tag 
+tag
+1 
+taɡ
+
 ▶noun
-1 a price tag: label, ticket, badge, mark, marker, tab, sticker, stub, counterfoil, flag.
-2 he gained a “bad boy” tag: designation, label, description, characterization, identity; nickname, name, epithet, title, sobriquet; informal handle, moniker; formal denomination, appellation.
-3 tags from Shakespeare: quotation, quote, tag line, phrase, platitude, cliché, excerpt; saying, proverb, maxim, adage, aphorism, motto, epigram; slogan, catchphrase.
-▶verb
-1 bottles tagged with colored stickers: label, mark, ticket, identify, flag, indicate.
-2 she is tagged as a “thinking” actor: label, class, categorize, characterize, designate, describe, identify, classify; mark, stamp, brand, pigeonhole, stereotype, typecast, compartmentalize, typify; name, call, title, entitle, dub, term, style.
-3 a poem tagged on as an afterthought: add, tack on, join; attach, append, stick on.
-4 he was tagging along behind her: follow, trail; come after, go after, shadow, dog; accompany, attend, escort; informal tail.
+1 a label attached to someone or something for the purpose of identification or to give other information. 
+• an electronic device that can be attached to someone or something for monitoring purposes, e.g., to deter shoplifters. 
+• a nickname or description popularly given to someone or something. 
+• US a license plate of a motor vehicle. 
+• informal a nickname or other identifying mark written as the signature of a graffiti artist: scrawled felt-tip tags on city walls. 
+• Computing a character or set of characters appended to or enclosing a piece of text or data in order to identify or categorize it.
+2 a small piece or part that is attached to a main body. 
+• a ragged lock of wool on a sheep. 
+• the tip of an animal's tail when it is distinctively colored. 
+• a loose or spare end of something; a leftover. 
+• a metal or plastic point at the end of a shoelace that stiffens it, making it easier to insert through an eyelet.
+3 a frequently repeated quotation or stock phrase. 
+• (in drama) a closing speech addressed to the audience. 
+• a refrain or musical phrase in a song or piece of music. 
+• Grammar a short phrase or clause added to an already complete sentence, as in I like it, I do. See also tag question. 
+▶verb (tags, tagging, tagged) [with object]
+1 attach a label to: the bears were tagged and released. 
+• attach an electronic tag to: (as noun tagging) : laser tattooing is used in the tagging of cattle. 
+• [with object or complement] give a specified name or description to: he left because he didn't want to be tagged as a soap star. 
+• informal (of a graffiti artist) write one's nickname or mark on (a surface): storefronts are shuttered with metal roll-down barricades tagged with graffiti. 
+• Computing add a character or set of characters to (a piece of text or data) in order to identify or categorize it. 
+• Biology & Chemistry label (something) with a radioactive isotope, fluorescent dye, or other marker: pieces of DNA tagged with radioactive particles.
+2 add to something, especially as an afterthought or with no real connection: she meant to tag her question on at the end of her remarks. 
+• [no object] follow or accompany someone, especially without invitation: that'll teach you not to tag along where you're not wanted.
+3 shear away ragged locks of wool from (sheep). ORIGIN late Middle English (denoting a narrow hanging section of a decoratively slashed garment): of unknown origin. The verb dates from the early 17th century.

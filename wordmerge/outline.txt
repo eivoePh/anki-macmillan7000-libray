@@ -8,9 +8,13 @@ B.  transitive verb
 ① (delineate) 画…的轮廓 huà… de lúnkuò ‹shape, figure›to be outlined against the sky 显示出在天空映衬下的轮廓 
 ② (give general summary of) 概述 gàishù ‹situation, aims›
 outline 
+ˈoutˌlīn
+
 ▶noun
-1 the outline of the building: silhouette, profile, shape, contours, form, line, delineation; diagram, sketch; literary lineaments.
-2 an outline of expenditure for each department: rough idea, thumbnail sketch, (quick) rundown, summary, synopsis, résumé, précis; essence, main/key points, gist, (bare) bones, draft, sketch.
-▶verb
-1 the plane was outlined against the sky: silhouette, define, demarcate; sketch, delineate, trace.
-2 she outlined the plan briefly: rough out, sketch out, draft, give a rough idea of, summarize, précis.
+1 a line or set of lines enclosing or indicating the shape of an object in a sketch or diagram: fill in the outlines with color. 
+• a line or set of lines perceived as defining the contours or bounds of an object: the outlines of her face.
+2 a general description or plan giving the essential features of something but not the detail: an outline of the theory of evolution 
+a course outline. 
+▶verb [with object]
+1 draw, trace, or define the outer edge or shape of (something): her large eyes were darkly outlined with eyeliner.
+2 give a summary of (something): she outlined the case briefly.

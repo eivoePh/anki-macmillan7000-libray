@@ -1,5 +1,9 @@
 simulation 
-BrE sɪmjuːˈleɪʃ(ə)n, AmE ˌsɪmjəˈleɪʃən 
-noun 
-① (act) 模仿 mófǎng 
-② (model) 模式 móshì 
+ˌsimyəˈlāSH(ə)n
+
+▶noun imitation of a situation or process: simulation of blood flowing through arteries and veins 
+photographs showing simulation of sex acts. 
+• the action of pretending; deception: clever simulation that's good enough to trick you. 
+• the production of a computer model of something, especially for the purpose of study: the method was tested by computer simulation 
+[count noun] : a visual simulation of a collision 
+[as modifier] : simulation models will allow researchers to test different strategies.

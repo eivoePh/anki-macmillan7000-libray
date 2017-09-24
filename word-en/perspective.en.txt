@@ -1,4 +1,16 @@
 perspective 
+pərˈspektiv
+
 ▶noun
-1 her perspective on things had changed: outlook, view, viewpoint, point of view, POV, standpoint, position, stand, stance, angle, slant, attitude, frame of mind, frame of reference, approach, way of looking, interpretation.
-2 a perspective of the whole valley: view, vista, panorama, prospect, bird's-eye view, outlook, aspect.
+1 the art of drawing solid objects on a two-dimensional surface so as to give the right impression of their height, width, depth, and position in relation to each other when viewed from a particular point: [as modifier] : a perspective drawing. See also linear perspective and aerial perspective. 
+• a picture drawn in perspective, especially one appearing to enlarge or extend the actual space, or to give the effect of distance. 
+• a view or prospect. 
+• Geometry the relation of two figures in the same plane, such that pairs of corresponding points lie on concurrent lines, and corresponding lines meet in collinear points.
+2 a particular attitude toward or way of regarding something; a point of view: most guidebook history is written from the editor's perspective. 
+• true understanding of the relative importance of things; a sense of proportion: we must keep a sense of perspective about what he's done.
+3 an apparent spatial distribution in perceived sound. 
+PHRASES
+in (or out of) perspective showing the right (or wrong) relationship between visible objects. 
+• correctly (or incorrectly) regarded in terms of relative importance: these expenses may seem high, but they need to be put into perspective.DERIVATIVES perspectival 
+-tivəl 
+adjectiveORIGIN late Middle English (in the sense ‘optics’): from medieval Latin perspectiva (ars)‘science of optics,’ from perspect- ‘looked at closely,’ from the verb perspicere, from per- ‘through’ + specere ‘to look.’

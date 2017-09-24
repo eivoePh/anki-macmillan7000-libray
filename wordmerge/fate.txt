@@ -5,9 +5,15 @@ noun
 ② Countable(destiny) 命运 mìngyùn to be resigned to one's fate 听天由命 
 ③ Countable(death) 死亡 sǐwáng to meet a sad fate 死于非命 
 fate 
+fāt
+
 ▶noun
-1 what has fate in store for me? destiny, providence, the stars, chance, luck, serendipity, fortune, kismet, karma.
-2 my fate was in their hands: future, destiny, outcome, end, lot.
-3 a similar fate would befall other killers: death, demise, end; retribution, sentence.
-4 Mythology (the Fates) the Fates will decide: the weird sisters; the Parcae, the Moirai, the Norns; ‘Clotho, Lachesis, and Atropos’.
-▶verb (be fated) his daughter was fated to face the same problem: be predestined, be preordained, be destined, be meant, be doomed; be sure, be certain, be bound, be guaranteed.REFLECTIONS Joshua Ferrisfate The meaning of this word is vague and unsatisfying. Fate has a past but no history, a future but no present. It is nonnegotiable but a constant negotiation. It may be foreordained by a divine authority, or improvised blindly by a brute force. Either way, fate cannot be controlled, modified, thwarted, or bribed. It is as absolute as death and taxes, and frequently as unpleasant. Everyone, whether bumblers or saints, is subject to it, and everyone protests in vain. It snatches free will from the best of intentions and hands it over to an autonomous and immutable spiritual bureaucracy. My dissatisfaction continued until I chanced upon a different conception of fate that opened up the word’s possibilities, endowing it with depth, flexibility, and human agency. “Whatever limits us,” wrote Ralph Waldo Emerson in 1860, “we call fate.” Though never one to downplay the ineluctable force of determinism, Emerson was trying to snatch the word out from its metaphysical muddle and redefine it to be existentially useful. If fate is what limits us, it needn’t be blind and without appeal. We can think of limit, not chance or luck, as fate’s true synonym. Unlike blind chance, a limit may be identified, challenged, and overcome. This makes your past fate subject to retrospection, your present fate to conscious deliberation and intervention, and your future fate to better instincts and change. Or to quote Emerson again: “[L]imitation [has] its limits.” Reconceived in this way, fate comes into actionable focus.Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+1 the development of events beyond a person's control, regarded as determined by a supernatural power: fate decided his course for him 
+his injury is a cruel twist of fate. 
+• the course of someone's life, or the outcome of a particular situation for someone or something, seen as beyond their control: he suffered the same fate as his companion. 
+• [in singular] the inescapable death of a person: the guards led her to her fate.
+2 (the Fates) Greek & Roman Mythology the three goddesses who preside over the birth and life of humans. Each person's destiny was thought of as a thread spun, measured, and cut by the three Fates, Clotho, Lachesis, and Atropos. Also called the Moirai and the Parcae. 
+• (Fates) another term for Norns. 
+▶verb (be fated) be destined to happen, turn out, or act in a particular way: [with infinitive] : the regime was fated to end badly. 
+PHRASES
+a fate worse than death see death. seal someone's fate make it inevitable that something unpleasant will happen to someone.ORIGIN late Middle English: from Italian fato or Old French fat or (later) from their source, Latin fatum ‘that which has been spoken,’ from fari ‘speak.’

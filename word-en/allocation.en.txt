@@ -1,4 +1,8 @@
 allocation 
-▶noun
-1 the efficient allocation of resources: allotment, assignment, distribution, apportionment, sharing out, handing out, dealing out, doling out, giving out, dishing out, parceling out, rationing out, dividing up/out; informal divvying up.
-2 our annual allocation of funds: allowance, allotment, quota, share, ration, portion, grant, slice; informal cut.
+ˌaləˈkāSH(ə)n
+
+▶noun the action or process of allocating or distributing something: more efficient allocation of resources 
+ticket allocation. 
+• an amount or portion of a resource assigned to a particular recipient. DERIVATIVES allocative 
+ˈaləˌkādiv 
+adjective (chiefly Economics)ORIGIN late Middle English: from medieval Latin allocatio(n-), from the verb allocare (see allocate) .

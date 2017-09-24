@@ -7,11 +7,15 @@ nounUncountable
 ② (worry) «illness, problem, fear» 折磨 zhémó ‹person›to prey on [somebody's] mind 使某人内心不安 
 ③ (exploit) 利用 lìyòng ‹person, weakness, fear›
 prey 
-▶noun
-1 the lions killed their prey: quarry, kill. ANTONYMS predator, hunter.
-2 she was Julia's easy prey: victim, target, dupe, gull; informal sucker, soft touch, pushover, patsy, sap, schlemiel.
+prā
+
+▶noun an animal that is hunted and killed by another for food: the kestrel is ready to pounce on unsuspecting prey. 
+• a person or thing easily injured or taken advantage of: he was easy prey for the two con men. 
+• archaic plunder or (in biblical use) a prize. 
+▶verb [no object] (prey on/upon) hunt and kill for food: small birds that prey on insect pests. 
+• take advantage of; exploit or injure: this is a mean type of theft by ruthless people preying on the elderly. 
+• cause constant trouble and distress to: the problem had begun to prey on my mind. 
 PHRASES
-prey on
-1 certain larvae prey on aphids: hunt, predate, catch; eat, feed on, live on/off.
-2 they prey on the elderly: exploit, victimize, pick on, take advantage of; trick, swindle, cheat, hoodwink, fleece; informal con.
-3 the problem preyed on his mind: oppress, weigh on, weigh heavily on, lie heavy on, gnaw at; trouble, worry, beset, disturb, distress, haunt, nag, torment, plague, obsess.
+fall prey to (also be or become prey to) be hunted and killed by (an animal): small rodents fell prey to domestic cats. 
+• be vulnerable to or overcome by: he would often fall prey to melancholy 
+the settlers become prey to nameless fears.DERIVATIVES preyer nounORIGIN Middle English (also denoting plunder taken in war): the noun from Old French preie, from Latin praeda ‘booty,’ the verb from Old French preier, based on Latin praedari ‘seize as plunder,’ from praeda .

@@ -1,8 +1,28 @@
 cloud 
-▶noun a cloud of exhaust smoke: mass, billow; pall, mantle, blanket.
+kloud
+
+▶noun
+1 a visible mass of condensed water vapor floating in the atmosphere, typically high above the ground: the sun had disappeared behind a cloud 
+the full moon, hidden by veils of cloud. 
+• an indistinct or billowing mass, especially of smoke or dust: a cloud of dust. 
+• a large number of insects or birds moving together: clouds of orange butterflies. 
+• a vague patch of color in or on a liquid or transparent surface.
+2 a state or cause of gloom, suspicion, trouble, or worry: the only cloud to appear on the horizon was Leopold's unexpected illness 
+a black cloud hung over their lives. 
+• a frowning or depressed look: a cloud passed over Jessica's face.
+3 (often the cloud) Computing a network of remote servers hosted on the Internet and used to store, manage, and process data in place of local servers or personal computers: $13 per month gets you 25GB of storage in the cloud 
+[as modifier] : once you are logged in to your cloud storage space, you can upload files to it and share them with others. 
 ▶verb
-1 the sky clouded: become cloudy, cloud over, become overcast, lower, blacken, darken.
-2 the sand is churned up, clouding the water: make cloudy, make murky, dirty, darken, blacken.
-3 anger clouded my judgment: confuse, muddle, obscure, fog, muddy, mar.
+1 [no object] (of the sky) become overcast with clouds: the blue skies clouded over abruptly. 
+• [with object] darken (the sky) with clouds: the western sky was still clouded.
+2 make or become less clear or transparent: [with object] : blood pumped out, clouding the water 
+[no object] : her eyes clouded with tears. 
+• [with object] make (a matter or mental process) unclear or uncertain; confuse: don't allow your personal feelings to cloud your judgment. 
+• [with object] spoil or mar (something): the general election was clouded by violence.
+3 [no object] (of someone's face or eyes) show worry, sorrow, or anger: his expression clouded over. 
+• [with object] (of such an emotion such as worry, sorrow, or anger) show in (someone's face): suspicion clouded her face. 
 PHRASES
-on cloud nine Amy was on cloud nine when she passed the bar exam: ecstatic, rapturous, joyful, elated, blissful, euphoric, in seventh heaven, walking on air, transported, in raptures, delighted, thrilled, overjoyed, over the moon, on top of the world, tickled pink.
+every cloud has a silver lining see silver. have one's head in the clouds (of a person) be out of touch with reality; be daydreaming. in the clouds out of touch with reality: this clergyman was in the clouds. on cloud nine extremely happy. [with reference to a ten-part classification of clouds in which “nine” was next to the highest.]under a cloud under suspicion; discredited: he left under something of a cloud, accused of misappropriating funds.DERIVATIVES cloudlet 
+ˈkloudlət 
+nounORIGIN Old English clūd ‘mass of rock or earth’; probably related to clot. Sense
+1 of the noun dates from Middle English.

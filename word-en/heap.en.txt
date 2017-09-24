@@ -1,8 +1,19 @@
 heap 
-▶noun
-1 a heap of boxes: pile, stack, mound, mountain, mass, quantity, load, lot, jumble; collection, accumulation, assemblage, store, hoard.
-2 informal we have heaps of room 
-a heap of troubles: a lot of, a fair amount of, much, plenty of, a good deal of, a great deal of, an abundance of, a wealth of, a profusion of; (a great) many, a large number of, numerous, scores of; informal hundreds of, thousands of, millions of, a load of, loads of, a pile of, piles of, oodles of, stacks of, lots of, masses of, scads of, reams of, oceans of, miles of, tons of, zillions of.
-▶verb she heaped logs on the fire: pile up, pile, stack up, stack, make a mound of; assemble, collect.
+hēp
+
+▶noun an untidy collection of things piled up haphazardly: she rushed out, leaving her clothes in a heap on the floor. 
+• a mound or pile of a particular substance: a heap of gravel. 
+• informal an untidy or dilapidated place or vehicle: they climbed back in the heap and headed home. 
+• (a heap of/heaps of) informal a large amount or number of something: we have heaps of room. 
+▶adverb (heaps) informal a great deal: “How do you like Maggie?” “I like you heaps better!” 
+▶verb [with object]
+1 put (objects or a loose substance) in a pile or mound: she heaped logs on the fire 
+heaped up in one corner was a pile of junk. 
+• (heap something with) load something copiously with: he heaped his plate with rice. 
+• (as adjective heaping or (chiefly British ) heaped) (of a spoon or other container) with the contents piled above the brim or edge: a heaping tablespoon of cocoa. 
+• [no object] form a heap: clouds heaped higher in the west.
+2 (heap something on/upon) direct a great deal of praise, abuse, criticism, etc., at (someone or something): she heaped praise on the public for its generosity as charity donations continued to pour in 
+these are the people who make a living from heaping abuse and ridicule on those of whom they do not approve. 
+• (heap someone/something with) give someone or something (a great deal of praise, abuse, or criticism): the film has been heaped with praise by critics and audiences alike. 
 PHRASES
-heap on/upon they heaped praise on her: shower on, lavish on, load on; bestow on, confer on, give, grant, vouchsafe, favor with.
+at the top (or bottom) of the heap (of a person) at the highest (or lowest) point of a society or organization: she had come up the hard way from the very bottom of the heap. be struck all of a heap informal be extremely disconcerted. heap coals of fire on someone's head go out of one's way to cause someone remorse. [with biblical allusion to Rom. 12:20.] in a heap (of a person) with the body completely limp: he landed in a heap at the bottom of the stairs.ORIGIN Old English hēap (noun), hēapian (verb), of Germanic origin; related to Dutch hoop and German Haufen .

@@ -7,9 +7,16 @@ adjectivepredicative
 ④ (teeming) to be alive with [something]; 充满着某物 chōngmǎnzhe mǒu wù the countryside was alive with insects and butterflies 乡下到处是昆虫和蝴蝶 
 ⑤ (aware) to be alive to [something]; 意识到某事物 yìshí dào mǒu shìwù 
 alive 
-▶adjective
-1 he was last seen alive on Labor Day 
-when mastodons were alive: living, live; breathing, vital, functioning; animate, sentient; existing; informal alive and kicking, in the land of the living, among the living; archaic quick. ANTONYMS dead, inanimate, extinct.
-2 the association has kept her dream alive: in existence, existing, active, existent, extant, ongoing, abiding, functioning, in operation; current, contemporary; informal on the map. ANTONYMS inactive, obsolete.
-3 it was Judith's great love that made Marty so alive: animated, lively, full of life, alert, active, energetic, vigorous, spry, sprightly, vital, vivacious, buoyant, exuberant, ebullient, zestful, spirited; informal full of beans, bright-eyed and bushy-tailed, chirpy, chipper, peppy, full of vim and vigor. ANTONYMS listless, lethargic.
-4 the place was alive with mice: teeming, swarming, overrun, bristling, infested; crowded, packed; informal crawling, lousy; rare pullulating.
+əˈlīv
+
+▶adjective [predicative]
+1 (of a person, animal, or plant) living, not dead: hopes of finding anyone still alive were fading 
+he was kept alive by a feeding-tube. 
+• continuing in existence or use: keeping hope alive 
+militarism was kept alive by pure superstition.
+2 (of a person or animal) alert and active; animated: Ken comes alive when he hears his music played. 
+• having interest and meaning: we hope we will make history come alive for the children.
+3 (alive to) aware of and interested in; responsive to: always alive to new ideas.
+4 (alive with) swarming or teeming with: in spring those cliffs are alive with auks and gulls. 
+PHRASES
+alive and kicking informal prevalent and very active: bigotry is still alive and kicking. alive and well still existing or active (often used to deny rumors or beliefs that something has disappeared or declined): Jefferson's ideas are alive and well today in Washington. look alive see look. DERIVATIVES aliveness nounORIGIN Old English on līfe, literally ‘in life.’

@@ -5,6 +5,17 @@ nounUncountable
 ② (reason) 理由 lǐyóu ; (sense) 道理 dàolǐ I can see the logic of selling it 我能明白卖掉它是有正当理由的 
 ③ (power of reasoning) 推理能力 tuīlǐ nénglì to chop logic 强词夺理 
 logic 
+ˈläjik
+
 ▶noun
-1 this case appears to defy all logic: reason, judgment, logical thought, rationality, wisdom, sense, good sense, common sense, sanity; informal horse sense.
-2 the logic of their argument: reasoning, line of reasoning, rationale, argument, argumentation.
+1 reasoning conducted or assessed according to strict principles of validity: experience is a better guide to this than deductive logic 
+he explains his move with simple logic 
+the logic of the argument is faulty. 
+• a particular system or codification of the principles of proof and inference: Aristotelian logic. 
+• the systematic use of symbolic and mathematical techniques to determine the forms of valid deductive argument. 
+• the quality of being justifiable by reason: there's no logic in telling her not to hit people when that's what you're doing. 
+• (logic of) the course of action or line of reasoning suggested or made necessary by: if the logic of capital is allowed to determine events.
+2 a system or set of principles underlying the arrangements of elements in a computer or electronic device so as to perform a specified task. 
+• logical operations collectively. DERIVATIVES logician 
+ləˈjiSH(ə)n lōˈjiSH(ə)n 
+nounORIGIN late Middle English: via Old French logique and late Latin logica from Greek logikē (tekhnē)‘(art) of reason,’ from logos ‘word, reason.’

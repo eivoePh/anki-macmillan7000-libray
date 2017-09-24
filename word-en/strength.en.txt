@@ -1,13 +1,26 @@
 strength 
+streNG(k)TH
+
 ▶noun
-1 enormous physical strength: power, brawn, muscle, muscularity, burliness, sturdiness, robustness, toughness, hardiness; vigor, force, might; informal beef; literary thew. ANTONYMS weakness, frailty.
-2 Oliver began to regain his strength: health, fitness, vigor, stamina. ANTONYMS infirmity.
-3 her great inner strength: fortitude, resilience, spirit, backbone, strength of character; courage, bravery, pluck, pluckiness, courageousness, grit, mettle; informal guts, spunk. ANTONYMS vulnerability.
-4 the strength of the retaining wall: robustness, sturdiness, firmness, toughness, soundness, solidity, durability. ANTONYMS weakness.
-5 the nation's military strength: power, influence, dominance, ascendancy, supremacy; informal clout; literary puissance. ANTONYMS weakness, impotence.
-6 the strength of feeling against the president: intensity, vehemence, force, forcefulness, depth, ardor, fervor. ANTONYMS half-heartedness.
-7 the strength of their argument: cogency, forcefulness, force, weight, power, potency, persuasiveness, soundness, validity. ANTONYMS weakness, ineffectiveness.
-8 what are your strengths? strong point, advantage, asset, forte, aptitude, talent, skill; specialty. ANTONYMS failing, flaw, limitation.
-9 the strength of the army: size, extent, magnitude. ANTONYMS weakness.
+1 the quality or state of being strong, in particular: 
+• physical power and energy: cycling can help you build up your strength. 
+• the emotional or mental qualities necessary in dealing with situations or events that are distressing or difficult: many people find strength in religion 
+it takes strength of character to admit one needs help. 
+• the capacity of an object or substance to withstand great force or pressure: they were taking no chances with the strength of the retaining wall. 
+• the influence or power possessed by a person, organization, or country: the political and military strength of European governments. 
+• the degree of intensity of a feeling or belief: street protests demonstrated the strength of feeling against the president. 
+• the cogency of an argument or case: the strength of the argument for property taxation. 
+• the potency, intensity, or speed of a force or natural agency: the wind had markedly increased in strength. 
+• the potency or degree of concentration of a drug, chemical, or drink: it's double the strength of your average beer 
+the solution comes in two strengths.
+2 a good or beneficial quality or attribute of a person or thing: the strengths and weaknesses of their sales and marketing operation 
+his strength was his obsessive single-mindedness. 
+• literary a person or thing perceived as a source of mental or emotional support: he was my closest friend, my strength and shield.
+3 the number of people comprising a group, typically a team or army: the peacetime strength of the army was 415,000. 
+• the number of people required to make a group complete: we are now more than 100 officers below strength 
+some units will be maintained at full strength while others will rely on reserves 
+[in combination] : an under-strength side. 
 PHRASES
-on the strength of she got into Princeton on the strength of her essays: because of, by virtue of, on the basis of.
+from strength from a secure or advantageous position: it makes sense to negotiate from strength. go from strength to strength develop or progress with increasing success. in strength in large numbers: security forces were out in strength. on the strength of on the basis or with the justification of: she got into Princeton on the strength of her essays. tower (or pillar) of strength a person who can be relied upon to give a great deal of support and comfort to others.DERIVATIVES strengthless 
+ˈstreNG(k)THləs 
+adjectiveORIGIN Old English strengthu, from the Germanic base of strong .

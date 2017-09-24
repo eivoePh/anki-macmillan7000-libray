@@ -12,13 +12,21 @@ B.  transitive verb
 ① (fasten with tape) 用带子捆 yòng dàizi kǔn ‹object, parcel›; 用胶带封 yòng jiāodài fēng ‹envelope›to tape [something] up or together (with strip of material) 用带子把某物捆起来 (with adhesive strip) 用胶带把某物粘合在一起 to tape [something] up with [something] (with strip of material) 用某物将某物捆起来 (with adhesive strip) 用某物把某物粘牢 to have or get [something] taped colloquial 彻底了解某事物 
 ② (record on tape) 把…录到磁带上 bǎ… lùdào cídài shang a taped interview 采访录音 he taped the concert from or off the radio broadcast 他从广播中录下了音乐会 PHRASAL VERB tape up transitive verb, [tape something up], [tape up something] 用带子捆紧 yòng dàizi kǔnjǐn to tape [something] up with [something]; 用某物捆住某物 
 tape 
-▶noun
-1 a package tied with tape: binding, ribbon, string, braid.
-2 secure the bandage with tape: adhesive tape, sticky tape, masking tape, duct tape; trademark Scotch Tape.
-3 they recorded the interview on tape: audiocassette/videocassette, (a) reel, (a) spool; video, VH
-S. 
-▶verb
-1 a card was taped to the box: bind, stick, fix, fasten, secure, attach; tie, strap.
-2 they taped off the area: cordon (off), seal (off), close (off), shut (off), mark (off), fence (off); isolate, segregate.
-3 police taped his confession: record, tape-record, capture on tape; video.
-4 tape your ankle: bind, wrap, bandage.
+tāp
+
+▶noun a narrow strip of material, typically used to hold or fasten something: a roll of tape 
+a dirty apron fastened with thin tapes. 
+• [often with modifier] long narrow flexible material with magnetic properties, used for recording sound, pictures, or computer data. 
+• a cassette or reel containing recorded material. 
+• a recording on a cassette or reel. 
+• (also adhesive tape) a strip of paper or plastic coated with adhesive, used to stick things together. 
+• a strip of material stretched across the finish line of a race, to be broken by the winner. 
+• a strip of white material at the top of a tennis net. 
+• a strip of material used to mark off an area. 
+• a tape measure. 
+▶verb [with object]
+1 record (sound or pictures) on audio or videotape: it is not known who taped the conversation.
+2 fasten or attach (something) with adhesive tape.
+3 (tape something off) seal or mark off an area or thing with tape. 
+PHRASES
+on tape recorded on magnetic tape.ORIGIN Old English tæppa, tæppe; perhaps related to Middle Low German teppen ‘pluck, tear.’

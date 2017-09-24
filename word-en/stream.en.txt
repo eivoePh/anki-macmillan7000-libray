@@ -1,9 +1,26 @@
 stream 
+strēm
+
 ▶noun
-1 a mountain stream: creek, river, rivulet, rill, runnel, streamlet, freshet; tributary; bourn; brook.
-2 a stream of boiling water: jet, flow, rush, gush, surge, torrent, flood, cascade, outpouring, outflow; technical efflux.
-3 a steady stream of visitors: succession, flow, series, string.
+1 a small, narrow river.
+2 a continuous flow of liquid, air, or gas: Frank blew out a stream of smoke 
+the blood gushed out in scarlet streams. 
+• a mass of people or things moving continuously in the same direction: there is a steady stream of visitors. 
+• a large number of things that happen or come one after the other: a woman screamed a stream of abuse.
+3 Computing a continuous flow of data or instructions, typically one having a constant or predictable rate. 
+• a continuous flow of video and audio material transmitted or received over the Internet.
+4 British term for track1 ( sense
+5 of the noun). 
 ▶verb
-1 tears were streaming down her face: flow, pour, course, run, gush, surge, flood, cascade, spill.
-2 children streamed out of the classrooms: pour, surge, charge, flood, swarm, pile, crowd.
-3 a flag streamed from the mast: flutter, float, flap, fly, blow, waft, wave.
+1 [no object] (of liquid) run or flow in a continuous current in a specified direction: she sat with tears streaming down her face 
+sunlight streamed through the windows. 
+• (of a mass of people or things) move in a continuous flow in a specified direction: he was watching the taxis streaming past. 
+• (usually be streaming) (of a person or part of the body) produce a continuous flow of liquid; run with liquid: my eyes were streaming 
+I woke up in the night, streaming with sweat 
+[with object] : his mouth was streaming blood. 
+• (of hair, clothing, etc.) float or wave at full extent in the wind: her black cloak streamed behind her.
+2 [with object] Computing transmit or receive (data, especially video and audio material) over the Internet as a steady, continuous flow.
+3 British term for track1 ( sense
+4 of the verb). 
+PHRASES
+against (or with) the stream against (or with) the prevailing view or tendency: a world in which the demand for quality does not run against the stream. on stream in or into operation or existence; available: more jobs are coming on stream.ORIGIN Old English strēam (noun), of Germanic origin; related to Dutch stroom,German Strom, from an Indo-European root shared by Greek rhein ‘to flow.’

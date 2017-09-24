@@ -1,2 +1,9 @@
 continuous 
-▶adjective the rain has been continuous since early this morning: unceasing, uninterrupted, unbroken, constant, ceaseless, incessant, steady, sustained, solid, continuing, ongoing, without a break, nonstop, around/round-the-clock, persistent, unremitting, relentless, unrelenting, unabating, unrelieved, without respite, endless, unending, never-ending, perpetual, everlasting, eternal, interminable; consecutive, rolling, running; archaic without surcease. ANTONYMS momentary, temporary.
+kənˈtinyo͞oəs
+
+▶adjective
+1 forming an unbroken whole; without interruption: the whole performance is enacted in one continuous movement. 
+• forming a series with no exceptions or reversals: there are continuous advances in design and production. 
+• Mathematics (of a function) of which the graph is a smooth unbroken curve, i.e., one such that as the value of x approaches any given value a, the value of f(x) approaches that of f(a) as a limit.
+2 Grammar another term for progressive ( sense
+3 of the adjective). DERIVATIVES continuousness nounORIGIN mid 17th century: from Latin continuus ‘uninterrupted,’ from continere ‘hang together’ (from con- ‘together with’ + tenere ‘hold’) + -ous . usage: There is some overlap in meaning between continuous and continual, but the two words are not wholly synonymous. Both can mean roughly ‘without interruption’ ( a long and continual war; five years of continuous warfare), but continuous is much more prominent in this sense and, unlike continual, can be used to refer to space as well as time, as in the development forms a continuous line along the coast. Continual, on the other hand, typically means ‘happening frequently, with intervals between,’ as in the bus service has been disrupted by continual breakdowns. Overall, continuous occurs much more frequently than continual (almost five times more often in the Oxford English Corpus).

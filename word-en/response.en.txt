@@ -1,4 +1,12 @@
 response 
-▶noun
-1 his response to the question: answer, reply, rejoinder, retort, riposte; informal comeback.
-2 an angry response: reaction, reply, retaliation, feedback; informal comeback.
+rəˈspäns
+
+▶noun a verbal or written answer: without waiting for a response, she returned to her newspaper 
+we received 400 applications in response to one job ad. 
+• a written or verbal answer to a question in a test, questionnaire, survey, etc. 
+• a reaction to something: an extended, jazzy piano solo drew the biggest response from the crowd 
+an honors degree course in Japanese has been established in response to an increasing demand. 
+• Psychology & Physiology an excitation of a nerve impulse caused by a change or event; a physical reaction to a specific stimulus or situation. 
+• the way in which a mechanical or electrical device responds to a stimulus or range of stimuli. 
+• (usually responses) a part of a religious liturgy said or sung by a congregation in answer to a minister or cantor. 
+• Bridge a bid made in answer to one's partner's preceding bid. ORIGIN Middle English: from Old French respons or Latin responsum ‘something offered in return,’ neuter past participle of respondere (see respond) .

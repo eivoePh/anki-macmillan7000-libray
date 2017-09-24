@@ -1,6 +1,4 @@
-travel 
-▶verb
-1 Tim spent much of his time traveling abroad: journey, tour, take a trip, voyage, explore, go sightseeing, globe-trot, backpack, gallivant; archaic peregrinate.
-2 we traveled the length and breadth of the island: journey through, cross, traverse, cover; roam, wander, rove, range, trek.
-3 light travels faster than sound: move, be transmitted.
-▶noun (travels) she amassed great wealth during her travels: journeys, expeditions, trips, tours, excursions, voyages, treks, safaris, explorations, wanderings, odysseys, pilgrimages, jaunts, junkets; traveling, touring, sightseeing, backpacking, globe-trotting, gallivanting; archaic peregrinations.
+travelling 
+ˈtravəlɪŋ
+
+▶adjective (of a device) sufficiently compact for use on a journey: a travelling clock.

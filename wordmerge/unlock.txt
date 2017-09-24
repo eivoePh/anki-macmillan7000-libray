@@ -4,4 +4,10 @@ transitive verb
 ① literal (with key) 开…的锁 kāi… de suǒ to leave the door unlocked 没给门上锁 
 ② figurative (lay open) 揭开 jiēkāi to unlock the secrets of one's heart 倾吐心中的秘密 this symphony has unlocked the world of classical music to her 这首交响曲为她打开了古典音乐世界的大门 
 unlock 
-▶verb I unlocked the door and led the way in: unbolt, unlatch, unbar, unfasten, open.
+ənˈläk
+
+▶verb [with object]
+1 undo the lock of (something) by using a key: he unlocked the door to his room. 
+• make (something previously inaccessible or unexploited) available for use: the campaign has helped us unlock rich reserves of talent among our employees.
+2 use a password or other form of authentication to access the full functionality or data of (a computer, mobile phone, file, etc.): when you unlock your phone, you're presented with the ‘home screen’—the interface that shows off all your apps. 
+• make (a mobile phone) capable of operating on the network of any chosen carrier: you cannot unlock your phone while you are under contract.

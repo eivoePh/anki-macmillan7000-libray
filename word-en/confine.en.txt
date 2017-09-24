@@ -1,4 +1,13 @@
 confine 
-▶verb
-1 they were confined in the house: enclose, incarcerate, imprison, intern, impound, hold captive, trap; shut in/up, keep, lock in/up, coop (up); fence in, hedge in, wall in/up.
-2 he confined his remarks to the weather: restrict, limit.
+▶verb 
+kənˈfīn 
+[with object] (confine someone/something to) keep or restrict someone or something within certain limits of (space, scope, quantity, or time): he does not confine his message to politics 
+your boating will mostly be confined to a few hours at weekends 
+you've confined yourself to what you know. 
+• (confine someone to/in) restrain or forbid someone from leaving (a place): the troops were confined to their barracks. 
+• (be confined to) (of a person) be unable to leave (one's bed, home, or a wheelchair) because of illness or disability: he was confined to bed for four days with a bad dose of flu. 
+• (be confined) dated (of a woman) remain in bed for a period before, during, and after the birth of a child: she was confined for nearly a month. 
+▶noun 
+ˈkänfīn 
+(confines) the borders or boundaries of a place, especially with regard to their restricting freedom of movement: they were cramped within the confines of a little cabin. 
+• the limits or restrictions of something abstract, especially a subject or sphere of activity: the narrow confines of political life. ORIGIN late Middle English (as a noun): from French confins (plural noun), from Latin confinia, from confinis ‘bordering,’ from con- ‘together’ + finis ‘end, limit’ (plural fines ‘territory’). The verb senses are from French confiner, based on Latin confinis .

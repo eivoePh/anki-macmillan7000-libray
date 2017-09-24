@@ -1,8 +1,16 @@
 withdraw 
-▶verb
-1 she withdrew her hand from his: remove, extract, pull out, take out; take back, take away. ANTONYMS insert.
-2 the ban on advertising was withdrawn: abolish, cancel, lift, set aside, end, stop, remove, reverse, revoke, rescind, repeal, annul, void. ANTONYMS introduce.
-3 she withdrew the allegation: retract, take back, go back on, recant, disavow, disclaim, repudiate, renounce, abjure; back down, climb down, backtrack, backpedal, do a U-turn, eat one's words. ANTONYMS put forward.
-4 the troops withdrew from the city: leave, pull out of, evacuate, quit, (beat a) retreat from. ANTONYMS enter.
-5 his partner withdrew from the project: pull out of, back out of, bow out of; get cold feet.
-6 they withdrew to their rooms: retire, retreat, adjourn, decamp; leave, depart, absent oneself; formal repair; dated remove; literary betake oneself.
+wiT͟Hˈdrô wiTHˈdrô
+
+▶verb (past withdrew; past participle withdrawn)
+1 [with object] remove or take away (something) from a particular place or position: slowly Ruth withdrew her hand from his. 
+• take (money) out of an account: normally you can withdraw up to $50 in cash. 
+• take back or away (something bestowed, proposed, or used): the party threatened to withdraw its support for the government. 
+• (in parliamentary procedure) remove or recall a motion, amendment, etc., from consideration. 
+• say that (a statement one has made) is untrue or unjustified: he failed to withdraw his remarks and apologize. 
+• [no object] (of a man) practice coitus interruptus: it put me off taking the Pill—my partner now withdraws.
+2 [no object] leave or come back from a place, especially a war zone: Allied forces withdrew from Norway in 1941. 
+• [with object] cause (someone) to leave or come back from a place, especially a war zone: both countries agreed to withdraw their troops. 
+• no longer participate in an activity or be a member of a team or organization: his rival withdrew from the race on the second lap. 
+• depart to another room or place, especially in search of quiet or privacy. 
+• retreat from contact or communication with other people: he went silent and withdrew into himself.
+3 [no object] cease to take an addictive drug: for the cocaine user, it is possible to withdraw without medication. ORIGIN Middle English: from the prefix with- ‘away’ + the verb draw .

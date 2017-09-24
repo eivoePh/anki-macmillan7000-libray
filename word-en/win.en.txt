@@ -1,9 +1,20 @@
 win 
-▶verb
-1 he won the race: take, be the victor in, be the winner of, come first in, take first prize in, triumph in, be successful in. ANTONYMS lose.
-2 Claire knew he would win: be the winner, come in first, be victorious, carry the day, win the day, come out on top, succeed, triumph, prevail. ANTONYMS lose.
-3 he won a cash prize: secure, gain, garner, collect, pick up, walk away/off with, carry off; informal land, net, bag, scoop.
-4 she won his heart: captivate, steal, snare, capture.
-▶noun a 1–0 win: victory, triumph, conquest. ANTONYMS defeat.
+win
+
+▶verb (wins, winning; past and past participle won 
+wən, wän
+) [with object]
+1 be successful or victorious in (a contest or conflict): the Mets have won four games in a row 
+[no object] : a determination to win 
+[with complement] : the Pirates won 2–1.
+2 acquire or secure as a result of a contest, conflict, bet, or other endeavor: there are hundreds of prizes to be won 
+[with two objects] : the sort of play that won them the World Cup. 
+• gain (a person's attention, support, or love), typically gradually or by effort: you will find it difficult to win back their attention. 
+• (win someone over) gain the support or favor of someone by action or persuasion: her sense of humor had won him over at once. 
+• [no object] (win out) manage to succeed or achieve something by effort: talent won out over bureaucracy. 
+• archaic manage to reach (a place) by effort: many lived to win the great cave. 
+• obtain (ore) from a mine. 
+▶noun a successful result in a contest, conflict, bet, or other endeavor; a victory: a win against Norway. 
 PHRASES
-win over do you really believe that flowers and jewelry are enough to win her over? persuade, convince, sway, prevail on; seduce.
+one can't win informal said when someone feels that no course of action open to them will bring success or please people. win the day be victorious in battle, sport, or argument. win or lose whether one succeeds or fails: win or lose, the important thing for him is to set a good example. win (or earn) one's spurs historical gain a knighthood by an act of bravery. 
+• informal gain one's first distinction or honors. you can't win them all (or win some, lose some) informal said to express consolation or resignation after failure in a contest.DERIVATIVES winless adjectiveORIGIN Old English winnan ‘strive, contend,’ also ‘subdue and take possession of, acquire,’ of Germanic origin.

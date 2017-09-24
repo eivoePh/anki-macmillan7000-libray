@@ -1,5 +1,13 @@
 device 
+dəˈvīs
+
 ▶noun
-1 a device for measuring pressure: implement, gadget, utensil, tool, appliance, apparatus, instrument, machine, mechanism, contrivance, contraption; informal gizmo, widget, doohickey.
-2 an ingenious legal device: ploy, tactic, move, stratagem, scheme, plot, plan, trick, ruse, maneuver, machination, contrivance, expedient, dodge, wile.
-3 their shields bear his device: emblem, symbol, logo, badge, crest, insignia, coat of arms, escutcheon, seal, mark, design, motif; monogram, hallmark, trademark.
+1 a thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment: a measuring device. 
+• a bomb or other explosive weapon: an incendiary device. 
+• archaic the design or look of something: works of strange device.
+2 a plan, scheme, or trick with a particular aim: writing a public letter is a traditional device for signaling dissent. 
+• a turn of phrase intended to produce a particular effect in speech or a literary work: a rhetorical device.
+3 a drawing or design: the decorative device on the invitations. 
+• an emblematic or heraldic design: their shields bear the device of the Blazing Sun. 
+PHRASES
+leave someone to their own devices leave someone to do as they wish without supervision.ORIGIN Middle English: from Old French devis, based on Latin divis- ‘divided,’ from the verb dividere. The original sense was ‘desire or intention,’ found now only in leave a person to his or her own devices (which has become associated with sense 2).

@@ -1,6 +1,8 @@
-metre 
-BrE ˈmiːtə 
-noun 
-① (unit of length) 米 mǐ 
-② (in poetry) 格律 gélǜ 
-③ (in music) 节拍 jiépāi 
+meter
+1 
+ˈmēdər 
+(British metre) 
+▶noun the fundamental unit of length in the metric system, equal to 100 centimeters or approximately 39.37 inches. 
+• (—— meters) a race over a specified number of meters: he placed third in the 1,000 meters. DERIVATIVES meterage 
+-ij 
+nounORIGIN late 18th century: from French mètre, from Greek metron ‘measure.’

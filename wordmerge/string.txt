@@ -33,19 +33,40 @@ C.  intransitive verb 分成一列 fēnchéng yī liè don't bunch up: string ou
 ① [string something up, string up something] (hang up) 悬挂 xuánguà lanterns were strung up in the trees 树上挂着灯笼 
 ② [string somebody up, string up somebody] colloquial (kill by hanging) 吊死 diàosǐ 
 string 
+striNG
+
 ▶noun
-1 a knotted piece of string: twine, cord, yarn, thread, strand.
-2 a string of convenience stores: chain, group, firm, company.
-3 a string of convictions: series, succession, chain, sequence, run, streak.
-4 a string of wagons: line, train, procession, queue, file, column, convoy, cavalcade.
-5 a string of pearls: strand, rope, necklace.
-6 a guaranteed loan with no strings: condition, qualification, provision, proviso, caveat, stipulation, rider, prerequisite, limitation, limit, constraint, restriction; informal catch.
-▶verb
-1 lights were strung across the promenade: hang, suspend, sling, stretch, run; thread, loop, festoon.
-2 beads strung on a silver chain: thread, loop, link.
+1 material consisting of threads of cotton, hemp, or other material twisted together to form a thin length. 
+• a piece of string used to tie around or attach to something. 
+• a piece of catgut or similar material interwoven with others to form the head of a sports racket. 
+• a length of catgut or wire on a musical instrument, producing a note by vibration. 
+• (strings) the stringed instruments in an orchestra. 
+• [as modifier] relating to or consisting of stringed instruments: a string quartet.
+2 a set of things tied or threaded together on a thin cord: she wore a string of agates around her throat. 
+• a sequence of similar items or events: a string of burglaries. 
+• Computing a linear sequence of characters, words, or other data. 
+• a group of racehorses trained at one stable. 
+• a team or player holding a specified position in an order of preference: Gary was first string on the varsity football team.
+3 a tough piece of fiber in vegetables, meat, or other food, such as a tough elongated piece connecting the two halves of a bean pod.
+4 short for stringboard.
+5 a hypothetical one-dimensional subatomic particle having the dynamical properties of a flexible loop. 
+• (also cosmic string) (in cosmology) a hypothetical threadlike concentration of energy within the structure of space-time. 
+▶verb (past and past participle strung 
+strəNG
+)
+1 [with object] hang (something) so that it stretches in a long line: lights were strung across the promenade. 
+• thread (a series of small objects) on a string: he collected stones with holes in them and strung them on a strong cord. 
+• (be strung) be arranged in a long line: the houses were strung along the road. 
+• (string something together) add items to one another to form a series or coherent whole: he can't string two sentences together.
+2 [with object] fit a string or strings to (a musical instrument, a racket, or a bow): the harp had been newly strung.
+3 [with object] remove the strings from (a bean).
+4 British Billiards another term for lag1 ( sense
+2 of the verb). 
 PHRASES
-string along
-1 must your sister always string along? go along, come too, accompany someone, join someone.
-2 I think Daisy is just stringing poor Dave along: mislead, deceive, take advantage of, dupe, hoax, fool, make a fool of, play with, toy with, dally with, trifle with; informal lead up the garden path, take for a ride. string out
-1 stringing out a story: spin out, drag out, lengthen.
-2 airfields strung out along the Gulf: spread out, space out, distribute, scatter. string up informal Dawes and his boys went after Lucius, threatening to string him up: hang, lynch, gibbet.
+no strings attached informal used to show that an offer or opportunity carries no special conditions or restrictions. on a string under one's control or influence: I've got the world on a string.PHRASAL VERBS string along informal stay with or accompany a person or group casually or as long as it is convenient. string someone along informal mislead someone deliberately over a length of time, especially about one's intentions: she had no plans to marry him—she was just stringing him along. string something out cause something to stretch out; prolong something. 
+• (string out) stretch out into a long line: the runners string out in a line across the road. 
+• (be strung out) be nervous or tense: I often felt strung out by daily stresses. 
+• (be strung out) North American be under the influence of alcohol or drugs: he died, strung out on booze and cocaine. string someone/something up hang something up on strings. 
+• kill someone by hanging.DERIVATIVES stringless adjective. stringlike 
+-ˌlīk 
+adjectiveORIGIN Old English streng (noun), of Germanic origin; related to German Strang, also to strong. The verb (dating from late Middle English) is first recorded in the senses ‘arrange in a row’ and ‘fit with a string.’

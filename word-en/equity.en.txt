@@ -1,4 +1,10 @@
 equity 
-▶noun
-1 the equity of Finnish society: fairness, justness, impartiality, egalitarianism; objectivity, balance, open-mindedness.
-2 he owns 25% of the equity in the property: value, worth; ownership, rights, proprietorship.
+ˈekwədē
+
+▶noun (plural equities)
+1 the quality of being fair and impartial: equity of treatment. 
+• Law a branch of law that developed alongside common law in order to remedy some of its defects in fairness and justice, formerly administered in special courts. 
+• (Equity) (in the US, UK, and several other countries) a trade union to which most professional actors belong.
+2 the value of the shares issued by a company: he owns 62% of the group's equity. 
+• (equities) stocks and shares that carry no fixed interest.
+3 the value of a mortgaged property after deduction of charges against it. ORIGIN Middle English: from Old French equité, from Latin aequitas, from aequus ‘equal.’

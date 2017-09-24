@@ -1,14 +1,14 @@
 repair
 1 
-▶verb
-1 the car was repaired: mend, fix (up), put/set right, restore, restore to working order, overhaul, service; informal patch up.
-2 they repaired the costumes: mend, darn; informal patch up.
-3 repairing relations with other countries: put/set right, mend, fix, straighten out, smooth, improve, warm up; informal patch up.
-4 she sought to repair the wrong she had done: rectify, make good, right, put right, correct, make up for, make amends for, make reparation for.
-▶noun
-1 in need of repair: restoration, fixing (up), mending, renovation; archaic reparation.
-2 an invisible repair: mend, darn.
-3 in good repair: condition, working order, state, shape, fettle.
-PHRASES
-beyond repair the front wheel is beyond repair 
-their marriage appears to be beyond repair: irreparable, irreversible, irretrievable, irremediable, irrecoverable, unfixable, past hope.
+rəˈper
+
+▶verb [with object] fix or mend (a thing suffering from damage or a fault): faulty electrical appliances should be repaired by an electrician. 
+• make good (such damage) by fixing or repairing it: an operation to repair damage to his neck. 
+• put right (a damaged relationship or unwelcome situation): the new government moved quickly to repair relations with the US
+A.  
+▶noun the action of fixing or mending something: the truck was beyond repair 
+the abandoned house they bought needs repairs. 
+• a result of fixing or mending: a coat of French polish was brushed over the repair. 
+• the relative physical condition of an object: the existing hospital is in a bad state of repair. DERIVATIVES repairer 
+rəˈperər 
+nounORIGIN late Middle English: from Old French reparer, from Latin reparare, from re- ‘back’ + parare ‘make ready.’

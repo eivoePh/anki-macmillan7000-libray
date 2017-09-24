@@ -1,2 +1,5 @@
 proportional 
-▶adjective a proportional increase in wages: corresponding, proportionate, comparable, in proportion, pro rata, commensurate, equivalent, consistent, relative, analogous. ANTONYMS disproportionate.
+prəˈpôrSH(ə)n(ə)l
+
+▶adjective corresponding in size or amount to something else: the punishment should be proportional to the crime. 
+• Mathematics (of a variable quantity) having a constant ratio to another quantity. ORIGIN late Middle English: from late Latin proportionalis, from proportio(n-) (see proportion) . usage: Except in certain long-established phrases, such as proportional representation, the adjectives proportional and proportionate may be used interchangeably.

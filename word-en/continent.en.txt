@@ -1,5 +1,7 @@
-continent 
-BrE ˈkɒntɪnənt, AmE ˈkɑnt(ə)nənt 
-noun 
-① (land mass) 大陆 dàlù the Asian continent 亚洲大陆 
-② BrE (mainland Europe) the continent or Continent 欧洲大陆 Ōuzhōu dàlù 
+continent
+1 
+ˈkänt(ə)nənt
+
+▶noun any of the world's main continuous expanses of land (Africa, Antarctica, Asia, Australia, Europe, North America, South America). 
+• (also the Continent) the mainland of Europe as distinct from the British Isles. 
+• a mainland contrasted with islands: the maritime zone is richer in varieties of plant than the continent. ORIGIN mid 16th century (denoting a continuous tract of land): from Latin terra continens ‘continuous land.’

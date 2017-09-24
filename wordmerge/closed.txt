@@ -8,17 +8,17 @@ adjective
 ⑤ (insular) 封闭的 fēngbì de ‹economy, society›
 ⑥ (restricted) 秘密的 mìmì de ‹meeting, organization›a closed session (of congress) （国会的）秘密会议 
 ⑦ figurative pejorative (blinkered) 守旧的 shǒujiù de ‹mind›to be closed to [something]; 不愿接受某事物 
-close
-1 
-▶adjective
-1 the town is close to Paris: near, adjacent to; in the vicinity of, in the neighborhood of, within reach of; neighboring, adjoining, abutting, alongside, on the doorstep, a stone's throw (away) from/to, 'a hop, skip, and a jump from'; nearby, at close quarters to; informal within spitting distance from/to; archaic nigh to. ANTONYMS far, distant.
-2 flying in close formation: dense, compact, tight, close-packed, packed, solid; crowded, cramped, congested. ANTONYMS sparse.
-3 I was close to tears: near, on the verge of, on the brink of, on the point of.
-4 a very close match: evenly matched, even, with nothing to choose between them, neck and neck; informal even-steven. ANTONYMS one-sided.
-5 close relatives: immediate, direct, near. ANTONYMS distant.
-6 close friends: intimate, dear, bosom; close-knit, tight-knit, inseparable, attached, devoted, faithful; special, good, best, fast, firm; informal (as) thick as thieves. ANTONYMS casual.
-7 a close resemblance: strong, marked, distinct, pronounced. ANTONYMS slight.
-8 a close examination: careful, detailed, thorough, minute, searching, painstaking, meticulous, rigorous, scrupulous, conscientious; attentive, focused. ANTONYMS casual.
-9 keep a close eye on them: vigilant, watchful, keen, alert.
-10 a close translation: strict, faithful, exact, precise, literal; word for word, verbatim. ANTONYMS loose.
-11 the weather was hot and close: humid, muggy, stuffy, airless, heavy, sticky, sultry, oppressive, stifling. ANTONYMS fresh.
+closed 
+klōzd
+
+▶adjective not open: rooms with closed doors lined the hallway 
+he sat with his eyes closed. 
+• (of a business) having ceased trading, especially for a short period: he put the “Closed” sign up on the door. 
+• (of a society or system) not communicating with or influenced by others; independent. 
+• limited to certain people; not open or available to all: the UN Security Council met in closed session. 
+• unwilling to accept new ideas: you're facing the situation with a closed mind. 
+• Mathematics (of a set) having the property that the result of a specified operation on any element of the set is itself a member of the set. 
+• Mathematics (of a set) containing all its limit points. 
+• Geometry of or pertaining to a curve whose ends are joined. 
+PHRASES
+behind closed doors taking place secretly or without public knowledge. closed book a subject or person about which one knows nothing: accounting has always been a closed book to me.

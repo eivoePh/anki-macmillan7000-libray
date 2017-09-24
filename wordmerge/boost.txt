@@ -12,10 +12,12 @@ B.  transitive verb
 ④ Electricity 升高 shēnggāo ‹voltage›
 ⑤ Aerospace 推送 tuīsòng ‹space vehicle›
 boost 
-▶noun
-1 a boost to one's morale 
-just the boost I needed: uplift, lift, spur, encouragement, help, inspiration, stimulus, pick-me-up; informal shot in the arm.
-2 a boost in sales: increase, expansion, upturn, upsurge, upswing, rise, escalation, improvement, advance, growth, boom; hike, jump. ANTONYMS decrease.
-▶verb
-1 he phoned to boost her spirits: improve, raise, uplift, increase, enhance, encourage, heighten, help, promote, foster, stimulate, invigorate, revitalize; informal buck up.
-2 they used advertising to boost sales: increase, raise, escalate, improve, strengthen, inflate, push up, promote, advance, foster, stimulate, maximize; facilitate, help, assist, aid; jump-start; informal hike, bump up. ANTONYMS decrease.
+bo͞ost
+
+▶verb [with object] help or encourage (something) to increase or improve: a range of measures to boost tourism. 
+• North American push from below; assist: people they were trying to boost over a wall. 
+• amplify (an electrical signal). 
+• North American informal steal, especially by shoplifting or pickpocketing. 
+▶noun a source of help or encouragement leading to increase or improvement: the cut in interest rates will give a further boost to the economy. 
+• an increase or improvement: a boost in exports. 
+• North American a push from below. ORIGIN early 19th century (originally in the sense ‘push from below’): of unknown origin.

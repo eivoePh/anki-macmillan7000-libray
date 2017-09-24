@@ -11,13 +11,23 @@ transitive verb
 B.  /BrE ˈprɒdjuːs, AmE ˈprɑd(j)us, ˈproʊd(j)us
 noun Uncountable农产品 nóngchǎnpǐn agricultural/garden/farm produce 农业/园圃/农产品 
 produce 
-▶verb
-1 the company produces furniture: manufacture, make, construct, build, fabricate, put together, assemble, turn out, create; mass-produce; informal churn out.
-2 the vineyards produce excellent wines: yield, grow, give, supply, provide, furnish, bear, bring forth.
-3 she produced ten puppies: give birth to, bear, deliver, bring forth, bring into the world.
-4 he produced five novels: create, originate, fashion, turn out; compose, write, pen; paint.
-5 she produced an ID card: pull out, extract, fish out; present, offer, proffer, show.
-6 no evidence was produced: present, offer, provide, furnish, advance, put forward, bring forward, come up with.
-7 that will produce a reaction: give rise to, bring about, cause, occasion, generate, engender, lead to, result in, effect, induce, set off; provoke, precipitate, breed, spark off, trigger; literary beget.
-8 James produced the play: stage, put on, mount, present.
-▶noun fresh produce: food, foodstuff(s), products; harvest, crops, fruit, vegetables, greens.
+▶verb 
+prəˈd(y)o͞os 
+[with object]
+1 make or manufacture from components or raw materials: the company has just produced a luxury version of the aircraft. 
+• (of a region, country, or process) yield, grow, or supply: the California vineyards produce excellent wines. 
+• create or form (something) as part of a physical, biological, or chemical process: the plant produces blue flowers in late autumn. 
+• make (something) using creative or mental skills: the garden where the artist produced many of his flower paintings.
+2 cause (a particular result or situation) to happen or come into existence: no conventional drugs had produced any significant change.
+3 show or provide (something) for consideration, inspection, or use: he produced a sheet of paper from his pocket.
+4 administer the financial and managerial aspects of (a movie or broadcast) or the staging of (a play, opera, etc.). 
+• supervise the making of a (musical recording), especially by determining the overall sound.
+5 Geometry, dated extend or continue (a line): one side of the triangle was produced. 
+▶noun 
+ˈpräd(y)o͞os ˈprōd(y)o͞os 
+things that have been produced or grown, especially by farming: dairy produce. DERIVATIVES producibility 
+prəˌd(y)o͞osəˈbilətē, prō- 
+noun. producible 
+prəˈd(y)o͞osəb(ə)l 
+adjectiveORIGIN late Middle English ( sense
+3 of the verb): from Latin producere, from pro- ‘forward’ + ducere ‘to lead.’ Current noun senses date from the late 17th century.

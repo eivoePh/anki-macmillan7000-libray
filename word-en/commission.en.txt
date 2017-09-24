@@ -1,12 +1,24 @@
 commission 
+kəˈmiSHən 
+(abbreviation comm.) 
 ▶noun
-1 the dealer's commission: percentage, brokerage, share, portion, dividend, premium, fee, consideration, bonus; informal cut, take, rake-off, slice.
-2 the commission of building a palace: task, employment, job, project, mission, assignment, undertaking; duty, charge, responsibility; informal marching orders.
-3 items made under state commission: warrant, license, sanction, authority.
-4 an independent commission: committee, board, council, panel, directorate, delegation.
-5 the commission of an offense: perpetration, committing, committal, execution.
-▶verb
-1 he was commissioned to paint a portrait: engage, contract, charge, employ, hire, recruit, retain, appoint, enlist, book, sign up.
-2 they commissioned a sculpture: order; authorize; formal bespeak.
+1 an instruction, command, or duty given to a person or group of people: his commission to redesign the building 
+he received a commission to act as an informer. 
+• an order for something, especially a work of art, to be produced: Mozart at last received a commission to write an opera. 
+• a work produced in response to a commission. 
+• archaic the authority to perform a task or certain duties.
+2 a group of people officially charged with a particular function: the United Nations High Commission for Refugees.
+3 an amount of money, typically a set percentage of the value involved, paid to an agent in a commercial transaction: foreign banks may charge a commission 
+he sold cosmetics on commission.
+4 a warrant conferring the rank of officer in an army, navy, or air force: he has resigned his commission.
+5 the action of committing a crime or offense: use of a deadly weapon in the commission of a felony. 
+▶verb [with object]
+1 give an order for or authorize the production of (something such as a building, piece of equipment, or work of art): the portrait was commissioned by his widow in 1792. 
+• order or authorize (a person or organization) to do or produce something: they commissioned an architect to manage the building project.
+2 bring (something newly produced, such as a factory or machine) into working condition: we had a few hiccups getting the heating equipment commissioned. 
+• bring (a warship) into readiness for active service: the aircraft carrier Midway was commissioned in 1945.
+3 appoint (someone) to the rank of officer in the armed services: he was commissioned after attending midshipman school 
+(as adjective commissioned) : a commissioned officer. 
 PHRASES
-in commission the new bathrooms are now in commission: in service, in use; working, functional, operative, up and running, in operation, in working order. out of commission more than half of our original computers are out of commission: not in service, not in use, unserviceable; not working, inoperative, out of order, malfunctioning, broken, down.
+in commission (of a ship, vehicle, machine, etc.) in use or in service. out of commission not in service; not in working order. 
+• (of a person) unable to work or function normally, especially through illness or injury.DERIVATIVES commissionable adjectiveORIGIN Middle English: via Old French from Latin commissio(n-), from committere ‘entrust’ (see commit) .

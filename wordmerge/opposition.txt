@@ -6,7 +6,14 @@ nounUncountable
 ③ Sport 对手 duìshǒu 
 ④ (contrast) 对立面 duìlìmiàn 
 opposition 
-▶noun
-1 the proposal met with opposition: resistance, hostility, antagonism, enmity, antipathy, objection, dissent, disapproval, criticism, demurral; defiance, noncompliance, obstruction.
-2 they beat the opposition: opponents, opposing side, other side, other team, competition, opposers, rivals, adversaries; enemies; literary foes.
-3 the opposition between the public and the private domains: conflict, clash, disparity, antithesis, polarity.
+ˌäpəˈziSH(ə)n
+
+▶noun resistance or dissent, expressed in action or argument: there was considerable opposition to the proposal 
+the regime cracked down against the threat of opposition. 
+• (often the opposition) a group of adversaries or competitors, especially a rival political party or athletic team. 
+• (the opposition) the principal political party opposed to the one in office. 
+• a contrast or antithesis: a nature-culture opposition. 
+• Logic (of two propositions) the relation of having the same subject and predicate, but differing in quantity, quality, or both. 
+• Astronomy & Astrology the apparent position of two celestial objects that are directly opposite each other in the sky, especially when a superior planet is opposite the sun. 
+PHRASES
+in opposition in contrast or conflict: they found themselves in opposition to federal policy.ORIGIN late Middle English: from Latin oppositio(n-), from opponere ‘set against.’

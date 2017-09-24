@@ -1,9 +1,30 @@
 stack 
+stak
+
 ▶noun
-1 a stack of boxes: heap, pile, mound, mountain, pyramid, tower.
-2 a stack of hay: haystack, rick, hayrick, mow, shock, haycock; dated cock.
-3 informal a stack of money. See lot (pronoun).
-4 chimney, smokestack, funnel, exhaust pipe.
-▶verb
-1 Leo was stacking plates: heap (up), pile (up), make a heap/pile/stack of; assemble, put together, collect, hoard, store, stockpile.
-2 they stacked the shelves: load, fill (up), lade, pack, charge, stuff, cram; stock. ANTONYMS empty.
+1 a pile of objects, typically one that is neatly arranged: a stack of boxes. 
+• (a stack of/stacks of) informal a large quantity of something: there's stacks of work for me now. 
+• a rectangular or cylindrical pile of hay or straw or of grain in sheaf. 
+• a vertical arrangement of stereo or guitar amplification equipment. 
+• a number of aircraft flying in circles at different altitudes around the same point while waiting for permission to land at an airport. 
+• a pyramidal group of rifles. 
+• (the stacks) units of shelving in part of a library, used to store books compactly. 
+• Computing a set of storage locations that store data in such a way that the most recently stored item is the first to be retrieved.
+2 a chimney, especially one on a factory, or a vertical exhaust pipe on a vehicle. 
+• (also sea stack) a column of rock standing in the sea, remaining after erosion of cliffs. 
+▶verb [with object]
+1 arrange (a number of things) in a pile, typically a neat one: the books had been stacked up in three piles 
+she stood up, beginning to stack the plates. 
+• fill or cover (a place or surface) with piles of things, typically neat ones: he spent most of the time stacking shelves. 
+• cause (an aircraft) to fly in circles while waiting for permission to land at an airport: I hope we aren't stacked for hours over Kennedy.
+2 shuffle or arrange (a deck of cards) dishonestly so as to gain an unfair advantage. 
+• (be stacked against/in favor of) used to refer to a situation that is such that an unfavorable or a favorable outcome is overwhelmingly likely: the odds were stacked against Fiji in the World Cup 
+they found the courts stacked in favor of timber interests.
+3 [no object] (in snowboarding) fall over. 
+PHRASES
+stack arms place a number of rifles with their butts on the ground and the muzzles together.PHRASAL VERBS stack up
+1 (or stack something up) form or cause to form a large quantity; build up: cars stack up behind every bus, while passengers stand in line to pay fares.
+2 North American informal measure up; compare: our rural schools stack up well against their urban counterparts. 
+• [usually with negative] make sense; correspond to reality: to blame the debacle on the antics of a rogue trader is not credible—it doesn't stack up.DERIVATIVES stackable adjective. stacker 
+ˈstakər 
+nounORIGIN Middle English: from Old Norse stakkr ‘haystack,’ of Germanic origin.

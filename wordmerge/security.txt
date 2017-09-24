@@ -8,8 +8,16 @@ noun
 ⑤ Countable and uncountable(safeguard) 保障 bǎozhàng security against [something]; 免受某物之苦的保障 
 ⑥ Countableusually plural Finance 证券 zhèngquàn security company/market/trading 证券公司/市场/交易 
 security 
-▶noun
-1 the security of the nation's citizens: safety, freedom from danger, protection, invulnerability. ANTONYMS vulnerability, danger.
-2 he could give her the security she needed: peace of mind, feeling of safety, stability, certainty, happiness, confidence. ANTONYMS disquiet.
-3 security at the court was tight: safety measures, safeguards, surveillance, defense, protection.
-4 additional security for your loan may be required: guarantee, collateral, surety, pledge, bond.
+səˈkyo͝orədē
+
+▶noun (plural securities)
+1 the state of being free from danger or threat: the system is designed to provide maximum security against toxic spills 
+job security. 
+• the safety of a state or organization against criminal activity such as terrorism, theft, or espionage: a matter of national security. 
+• procedures followed or measures taken to ensure the safety of a state or organization: amid tight security the presidents met in the Colombian resort. 
+• the state of feeling safe, stable, and free from fear or anxiety: this man could give the emotional security she needed.
+2 a private police force that guards a building, campus, park, etc.
+3 a thing deposited or pledged as a guarantee of the fulfillment of an undertaking or the repayment of a loan, to be forfeited in case of default.
+4 (often securities) a certificate attesting credit, the ownership of stocks or bonds, or the right to ownership connected with tradable derivatives. 
+PHRASES
+on security of something using something as a guarantee.ORIGIN late Middle English: from Old French securite or Latin securitas, from securus ‘free from care’ (see secure) .

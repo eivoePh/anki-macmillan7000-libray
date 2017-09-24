@@ -16,14 +16,23 @@ B.  transitive verb
 ① (in golf) 击球入洞 jī qiú rù dòng 
 ② (in cricket) «batsman» 击球被接出局 jī qiú bèi jiē chūjú hole up intransitive verb 躲藏 duǒcáng they were holed up in the hills 他们躲在山里 
 hole 
+hōl
+
 ▶noun
-1 a hole in the roof: opening, aperture, gap, space, orifice, vent, chink, breach, break; crack, leak, rift, rupture; puncture, perforation, cut, split, gash, slit, rent, tear, crevice, fissure.
-2 a hole in the ground: pit, ditch, trench, cavity, crater, depression, indentation, hollow; well, borehole, excavation, dugout; cave, cavern, pothole.
-3 the gopher's hole: burrow, lair, den, earth, set; retreat, shelter.
-4 there are holes in their argument: flaw, fault, defect, weakness, shortcoming, inconsistency, discrepancy, loophole; error, mistake.
-5 informal I was living in a real hole: hovel, slum, shack; informal dump, dive, pigsty, hole in the wall, rathole, sty.
-6 informal she has dug herself into a hole: predicament, difficult situation, awkward situation, corner, tight corner, quandary, dilemma; crisis, emergency, difficulty, trouble, plight, dire straits, imbroglio; informal fix, jam, mess, bind, scrape, spot, tight spot, pickle, sticky situation, can of worms, hot water.
+1 a hollow place in a solid body or surface: he dug out a small hole in the snow. 
+• an animal's burrow. 
+• an aperture passing through something: he had a hole in his sock. 
+• a cavity or receptacle on a golf course, typically one of eighteen or nine, into which the ball must be hit. 
+• a hole as representing a division of a golf course or of play in golf: Stephen lost the first three holes to Eric. 
+• Physics a position from which an electron is absent, especially one regarded as a mobile carrier of positive charge in a semiconductor. 
+• [in place names] a valley: Jackson Hole.
+2 informal a small or unpleasant place: she had wasted a whole lifetime in this hole of a town. 
+• informal an awkward situation: get yourself out of a hole. 
+▶verb [with object]
+1 make a hole or holes in: a fuel tank was holed by the attack and a fire started.
+2 Golf hit (the ball) so that it falls into a hole: alternate shots from each partner until the ball is holed 
+[no object] : he holed in one at the third. 
 PHRASES
-hole up
-1 the bears hole up in winter: hibernate, lie dormant.
-2 informal the snipers holed up in a farmhouse: hide (out), conceal oneself, secrete oneself, shelter, take cover, lie low. poke holes in informal it was pretty easy to poke holes in his theories: find fault with, pick apart, deconstruct, query, quibble with; deflate, puncture. in the hole the diner was in the hole within six months after his sons took over: in debt, in arrears, in deficit, overdrawn, behind; informal in the red.
+blow a hole in ruin the effectiveness of (something): the amendment could blow a hole in the legislation. in the hole North American informal in debt: we're still three thousand dollars in the hole. in holes worn so much that holes have formed: my clothes are in holes. make a hole in use a large amount of: holidays can make a big hole in your savings. need something like a hole in the head informal used to emphasize that someone has absolutely no need or desire for something. a square peg in a round hole see peg. PHRASAL VERBS hole out Golf send the ball into a hole. hole up informal hide oneself: I holed up for two days in a tiny cottage in Pennsylvania.DERIVATIVES holey 
+ˈhōlē 
+adjectiveORIGIN Old English hol (noun), holian (verb), of Germanic origin; related to Dutch hol (noun) ‘cave,’ (adjective) ‘hollow,’ and German hohl ‘hollow,’ from an Indo-European root meaning ‘cover, conceal.’

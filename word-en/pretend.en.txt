@@ -1,7 +1,10 @@
 pretend 
+prəˈtend
+
 ▶verb
-1 they just pretend to listen: make as if, profess, affect; dissimulate, dissemble, put it on, put on a false front, go through the motions, sham, fake it.
-2 I'll pretend to be the dragon: put on an act as, make believe one is, play at being, act (the part of), play-act (the part of), impersonate.
-3 it was useless to pretend innocence: feign, sham, fake, simulate, put on, counterfeit, affect.
-4 he cannot pretend to sophistication: claim, lay claim to, purport to have, profess to have.
-▶adjective informal a pretend conversation: imaginary, imagined, pretended, make-believe, made-up, fantasy, fantasized, dreamed-up, unreal, invented, fictitious, mythical, feigned, fake, mock, sham, simulated, artificial, ersatz, false, pseudo; informal phony.
+1 [with clause or infinitive] speak and act so as to make it appear that something is the case when in fact it is not: I closed my eyes and pretended I was asleep 
+she turned the pages and pretended to read. 
+• engage in a game or fantasy that involves supposing something that is not the case to be so: children pretending to be grown-ups. 
+• [with object] give the appearance of feeling or possessing (an emotion or quality); simulate: she pretended a greater surprise than she felt.
+2 [no object] (pretend to) lay claim to (a quality or title): he cannot pretend to sophistication. 
+▶adjective [attributive] informal not really what it is represented as being; used in a game or deception: the children are pouring out pretend tea for the dolls. ORIGIN late Middle English: from Latin praetendere ‘stretch forth, claim,’ from prae ‘before’ + tendere ‘stretch.’ The adjective dates from the early 20th century.

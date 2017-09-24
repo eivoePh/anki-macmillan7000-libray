@@ -2,6 +2,7 @@ supervision
 BrE ˌsuːpəˈvɪʒn, AmE ˌsupərˈvɪʒ(ə)n 
 nounUncountable(of staff, work) 监督 jiāndū ; (of research student, thesis) 指导 zhǐdǎo ; (of child, patient) 照料 zhàoliào ; (of place, prisoner) 监管 jiānguǎn under (the) supervision of [somebody]; 在某人的指导之下 
 supervision 
-▶noun
-1 the supervision of the banking system: administration, management, control, charge; superintendence, regulation, government, governance.
-2 keep your children under supervision: observation, guidance, custody, charge, safekeeping, care, guardianship; control.
+ˌso͞opərˈviZH(ə)n
+
+▶noun the action of supervising someone or something: students were under the supervision of the faculty member at all times 
+she let them work without supervision.

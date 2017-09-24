@@ -8,11 +8,24 @@ A.  noun
 ④ Geology 断层 duàncéng 
 B.  transitive verb 挑…的错 tiāo… de cuò I couldn't fault his performance 我认为他的表现无可挑剔 you can't fault him for being late — it was the traffic 你不能指责他迟到──那是交通拥堵的原因 
 fault 
+fôlt
+
 ▶noun
-1 he has his faults: defect, failing, imperfection, flaw, blemish, shortcoming, weakness, frailty, foible, vice. ANTONYMS merit, strength.
-2 engineers have located the fault: defect, flaw, imperfection, bug; error, mistake, inaccuracy; informal glitch, gremlin.
-3 it was not my fault: responsibility, liability, culpability, blameworthiness, guilt.
-4 don't blame one child for another's faults: misdeed, wrongdoing, offense, misdemeanor, misconduct, indiscretion, peccadillo, transgression; informal no-no.
-▶verb you couldn't fault any of the players: find fault with, criticize, attack, censure, condemn, reproach; complain about, quibble about, moan about; informal knock, slam, gripe about, beef about, pick holes in.
+1 an unattractive or unsatisfactory feature, especially in a piece of work or in a person's character: my worst fault is impatience. 
+• a break or other defect in an electrical circuit or piece of machinery: a fire caused by an electrical fault. 
+• a misguided or dangerous action or habit: it has been the great fault of our politicians that they have all wanted to do something. 
+• (in tennis and similar games) a service of the ball not in accordance with the rules. 
+• (usually faults) (in show jumping) a penalty point imposed for an error.
+2 responsibility for an accident or misfortune: an ordinary man thrust into peril through no fault of his own 
+it was his fault she had died.
+3 Geology an extended break in a body of rock, marked by the relative displacement and discontinuity of strata on either side of a particular surface. 
+▶verb [with object]
+1 criticize for inadequacy or mistakes: her colleagues and superiors could not fault her dedication to the job 
+you cannot fault him for the professionalism of his approach. 
+• [no object] archaic do wrong: the people of Caesarea faulted greatly when they called King Herod a god.
+2 (be faulted) Geology (of a rock formation) be broken by a fault or faults: rift valleys where the crust has been stretched and faulted 
+(as noun faulting) : a complex pattern of faulting. 
 PHRASES
-at fault no one is at fault: to blame, blameworthy, culpable; responsible, guilty, in the wrong. to a fault Katherine is very giving, sometimes to a fault: excessively, unduly, immoderately, overly, needlessly. CHOOSE THE RIGHT WORD See sin .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+at fault
+1 responsible for an undesirable situation or event; in the wrong: we recover compensation from the person at fault.
+2 mistaken or defective: he suspected that his calculator was at fault. find fault make an adverse criticism or objection, sometimes unfairly or destructively: he finds fault with everything I do. — to a fault (of someone who displays a particular commendable quality) to an extent verging on excess: you're kind, caring and generous to a fault.ORIGIN Middle English faut(e) ‘lack, failing,’ from Old French, based on Latin fallere ‘deceive.’ The -l- was added (in French and English) in the 15th century to conform with the Latin word, but did not become standard in English until the 17th century, remaining silent in pronunciation until well into the 18th.

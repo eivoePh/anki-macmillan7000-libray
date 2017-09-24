@@ -1,13 +1,32 @@
 subject 
-▶noun
-1 the subject of this chapter: theme, subject matter, topic, issue, question, concern, point; substance, essence, gist.
-2 popular university subjects: branch of study, discipline, field.
-3 six subjects did the trials: participant, volunteer; informal guinea pig.
-4 Her Majesty's subjects: citizen, national; taxpayer, voter.
-5 a loyal subject: liege, liegeman, vassal, henchman, follower.
-▶verb they were subjected to violence: put through, treat with, expose to.
-PHRASES
-subject to
-1 it is subject to budgetary approval: conditional on, contingent on, dependent on.
-2 horses are subject to coughs: susceptible to, liable to, prone to, vulnerable to, predisposed to, at risk of.
-3 we are all subject to the law: bound by, constrained by, accountable to.
+▶noun 
+ˈsəbjekt 
+
+1 a person or thing that is being discussed, described, or dealt with: I've said all there is to be said on the subject 
+he's the subject of a major new biography. 
+• a person or circumstance giving rise to a specified feeling, response, or action: the incident was the subject of international condemnation. 
+• Grammar a noun phrase functioning as one of the main components of a clause, being the element about which the rest of the clause is predicated. 
+• Logic the part of a proposition about which a statement is made. 
+• Music a theme of a fugue or of a piece in sonata form; a leading phrase or motif. 
+• a person who is the focus of scientific or medical attention or experiment.
+2 a branch of knowledge studied or taught in a school, college, or university.
+3 a citizen or member of a state other than its supreme ruler.
+4 Philosophy a thinking or feeling entity; the conscious mind; the ego, especially as opposed to anything external to the mind. 
+• the central substance or core of a thing as opposed to its attributes. 
+▶adjective 
+ˈsəbjekt 
+[predicative] (subject to)
+1 likely or prone to be affected by (a particular condition or occurrence, typically an unwelcome or unpleasant one): he was subject to bouts of manic depression.
+2 dependent or conditional upon: the proposed merger is subject to the approval of the shareholders.
+3 under the authority of: legislation making Congress subject to the laws it passes. 
+• [attributive] under the control or domination of (another ruler, country, or government): the Greeks were the first subject people to break free from Ottoman rule. 
+▶adverb 
+ˈsəbjekt 
+(subject to) conditionally upon: subject to bankruptcy court approval, the company expects to begin liquidation of its inventory. 
+▶verb 
+səbˈjekt 
+[with object]
+1 (subject someone/something to) cause or force to undergo (a particular experience of form of treatment): he'd subjected her to a terrifying ordeal.
+2 bring (a person or country) under one's control or jurisdiction, typically by using force. DERIVATIVES subjectless 
+ˈsəbjək(t)ləs 
+adjectiveORIGIN Middle English (in the sense ‘(person) owing obedience’): from Old French suget, from Latin subjectus ‘brought under,’ past participle of subicere, from sub- ‘under’ + jacere ‘throw.’ Senses relating to philosophy, logic, and grammar are derived ultimately from Aristotle's use of to hupokeimenon meaning ‘material from which things are made’ and ‘subject of attributes and predicates.’

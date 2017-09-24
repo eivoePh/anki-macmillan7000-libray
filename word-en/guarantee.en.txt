@@ -1,8 +1,15 @@
 guarantee 
+ˌɡerənˈtē
+
 ▶noun
-1 all repairs have a one-year guarantee: warranty.
-2 a guarantee that the hospital will stay open: promise, assurance, word (of honor), pledge, vow, oath, bond, commitment, covenant.
-3 banks usually demand a guarantee for loans: collateral, security, surety, a guaranty, earnest.
-▶verb
-1 he agreed to guarantee the loan: underwrite, put up collateral for.
-2 can you guarantee that he wasn't involved? promise, swear, swear to the fact, pledge, vow, undertake, give one's word, give an assurance, give an undertaking, take an oath.
+1 a formal promise or assurance (typically in writing) that certain conditions will be fulfilled, especially that a product will be repaired or replaced if not of a specified quality and durability: we offer a 10-year guarantee against rusting. 
+• something that gives a certainty of outcome: past performance is no guarantee of future results.
+2 (also guaranty) Law a formal pledge to pay another person's debt or to perform another person's obligation in the case of default. 
+• a thing serving as security for a formal pledge to pay another person's debt. 
+• less common term for guarantor. 
+▶verb (guarantees, guaranteeing, guaranteed) [no object] provide a formal assurance or promise, especially that certain conditions shall be fulfilled relating to a product, service, or transaction: [with clause or infinitive] : the con artist guarantees that the dirt pile will yield at least
+20 ounces of gold. 
+• [with object] provide a formal assurance regarding (something, especially a product): the repairs will be guaranteed for three years 
+(as adjective guaranteed) : the guaranteed bonus is not very high. 
+• [with object] provide financial security for; underwrite: a demand that $100,000 be deposited to guarantee their costs. 
+• [with object] promise with certainty: no one can guarantee a profit on stocks. ORIGIN late 17th century (in the sense ‘guarantor’): perhaps from Spanish garante, corresponding to French garant (see warrant), later influenced by French garantie ‘guaranty.’

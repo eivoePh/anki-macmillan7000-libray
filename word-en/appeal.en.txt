@@ -1,9 +1,21 @@
 appeal 
-▶verb
-1 police are appealing for information: ask urgently/earnestly, make an urgent/earnest request, call, make a plea, plead.
-2 Stuart appealed to me to help them: implore, beg, entreat, call on, plead with, exhort, ask, request, petition; formal adjure; literary beseech.
-3 the idea of traveling appealed to me: attract, be attractive to, interest, take someone's fancy, fascinate, tempt, entice, allure, lure, draw, whet someone's appetite.
+əˈpēl
+
+▶verb [no object]
+1 make a serious or urgent request, typically to the public: police are appealing for information about the incident 
+she appealed to Germany for political asylum.
+2 Law apply to a higher court for a reversal of the decision of a lower court: he said he would appeal against the conviction. 
+• [with object] chiefly North American apply to a higher court for a reversal of (the decision of a lower court): they have 48 hours to appeal the decision. 
+• Baseball (of the team in the field) call on the umpire to rule a strike or out on a completed play. 
+• (appeal to) address oneself to (a principle or quality in someone) in anticipation of a favorable response: I appealed to his sense of justice.
+3 be attractive or interesting: the range of topics will appeal to youngsters. 
 ▶noun
-1 an appeal for help: plea, urgent/earnest request, entreaty, cry, call, petition, supplication, cri de coeur.
-2 the cultural appeal of the island: attraction, attractiveness, allure, charm; fascination, magnetism, drawing power, pull.
-3 the court allowed the appeal: retrial, re-examination.
+1 a serious or urgent request, typically one made to the public: his mother made an appeal for the return of the ring. 
+• an attempt to obtain financial support: a public appeal to raise $120,000. 
+• entreaty: a look of appeal on his face.
+2 Law an application to a higher court for a decision to be reversed: he has 28 days in which to lodge an appeal 
+the right of appeal. 
+• an address to a principle or quality in anticipation of a favorable response: an appeal to black pride.
+3 the quality of being attractive or interesting: the popular appeal of football. DERIVATIVES appealer 
+əˈpēlər 
+nounORIGIN Middle English (in legal contexts): from Old French apel (noun), apeler (verb), from Latin appellare ‘to address,’ based on ad- ‘to’ + pellere ‘to drive.’

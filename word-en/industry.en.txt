@@ -1,5 +1,9 @@
 industry 
-▶noun
-1 Canadian industry: manufacturing, production; construction.
-2 the publishing industry: business, trade, field, line (of business); informal racket.
-3 the kitchen was a hive of industry: activity, busyness, energy, vigor, productiveness; hard work, industriousness, diligence, application, dedication. ANTONYMS inactivity.
+ˈindəstrē
+
+▶noun (plural industries)
+1 economic activity concerned with the processing of raw materials and manufacture of goods in factories: the competitiveness of American industry. 
+• [with adjective or noun modifier] a particular form or branch of economic or commercial activity: the car industry 
+the tourist industry. 
+• [with adjective or noun modifier] informal an activity or domain in which a great deal of time or effort is expended: the Shakespeare industry.
+2 hard work: the kitchen became a hive of industry. ORIGIN late Middle English ( sense 2): from French industrie or Latin industria ‘diligence.’

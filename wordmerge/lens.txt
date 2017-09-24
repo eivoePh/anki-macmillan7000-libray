@@ -5,8 +5,10 @@ noun
 ② Anatomy (of eye) 晶状体 jīngzhuàngtǐ 
 ③ (contact lens) 隐形眼镜 yǐnxíng yǎnjìng 
 lens 
-BrE lɛnz, AmE lɛnz 
-noun 
-① (in optical instruments) 透镜 tòujìng (in spectacles) 镜片 jìngpiàn (in camera) 镜头 jìngtóu a concave/convex lens 凹/凸透镜 to have strong/weak lenses (of glasses) 度数深/浅 
-② Anatomy (of eye) 晶状体 jīngzhuàngtǐ 
-③ (contact lens) 隐形眼镜 yǐnxíng yǎnjìng 
+lenz
+
+▶noun a piece of glass or other transparent substance with curved sides for concentrating or dispersing light rays, used singly (as in a magnifying glass) or with other lenses (as in a telescope). 
+• the light-gathering device of a camera, typically containing a group of compound lenses. 
+• Physics an object or device that focuses or otherwise modifies the direction of movement of light, sound, electrons, etc. 
+• Anatomy short for crystalline lens. 
+• short for contact lens. DERIVATIVES lensed adjective. lensless adjectiveORIGIN late 17th century: from Latin, ‘lentil’ (because of the similarity in shape).

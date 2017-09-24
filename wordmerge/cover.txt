@@ -40,27 +40,56 @@ C.  intransitive verb
 ① (put clothes on) 穿上衣服 chuānshang yīfu it's advisable to cover up during the hottest part of the day 在一天最热的时候最好裹住身体 
 ② (conceal truth) «person, government» 掩盖真相 yǎngài zhēnxiàng to cover up for [somebody]/[something]; 替某人/某事物掩饰 he's always covering up for his younger brother 他对弟弟总是很护短 
 cover 
-▶verb
-1 she covered her face with a towel: protect, shield, shelter; hide, conceal, veil. ANTONYMS expose, reveal.
-2 his car was covered in mud: cake, coat, encrust, plaster, smother, daub, bedaub.
-3 snow covered the fields: blanket, overlay, overspread, carpet, coat; literary mantle.
-4 a course covering all aspects of the business: deal with, consider, take in, include, involve, comprise, incorporate, embrace.
-5 the trial was covered by several newspapers: report on, write about, describe, commentate on, publish/broadcast details of.
-6 he turned on the radio to cover the noise of the air conditioner: mask, disguise, hide, camouflage, muffle, block out, stifle, smother.
-7 I'm covering for Jill: stand in for, fill in for, deputize for, take over from, relieve, take the place of, sit in for, understudy, hold the fort; informal sub for, pinch-hit for.
-8 can you make enough to cover your costs? pay (for), be enough for, fund, finance; pay back, make up for, offset.
-9 your home is covered against damage and loss: insure, protect, secure, underwrite, assure, indemnify.
-10 we covered ten miles each day: travel, journey, go, do, traverse.
+ˈkəvər
+
+▶verb [with object]
+1 put something such as a cloth or lid on top of or in front of (something) in order to protect or conceal it: the table had been covered with a checked tablecloth 
+she covered her face with a pillow. 
+• envelop in a layer of something, especially dirt: he was covered in mud 
+figurative : she was covered in confusion. 
+• scatter a layer of loose material over (a surface, especially a floor), leaving it completely obscured: the barn floor was covered in straw. 
+• lie over or adhere to (a surface), as decoration or to conceal something: masonry paint will cover hairline cracks. 
+• extend over (an area): the grounds covered eight acres. 
+• travel (a specified distance): it took them four days to cover 150 miles.
+2 deal with (a subject) by describing or analyzing its most important aspects or events: a sequence of novels that will cover the period from 1968 to the present. 
+• investigate, report on, or publish or broadcast pictures of (an event): NBC is covering the Olympics. 
+• work in, have responsibility for, or provide services to (a particular area): development officers whose work would cover a large area. 
+• (of a rule or law) apply to (a person or situation).
+3 (of a sum of money) be enough to pay (a bill or cost): there are grants to cover the cost of materials for loft insulation. 
+• (of insurance) protect against a liability, loss, or accident involving financial consequences: your contents are now covered against accidental loss or damage in transit. 
+• (cover oneself) take precautionary measures so as to protect oneself against future blame or liability: one reason doctors take temperatures is to cover themselves against negligence claims.
+4 disguise the sound or fact of (something) with another sound or action: Louise laughed to cover her embarrassment. 
+• [no object] (cover for) disguise the illicit absence or wrongdoing of (someone) in order to spare them punishment: if the sergeant wants to know where you are, I'll cover for you. 
+• [no object] (cover for) temporarily take over the job of (a colleague) in their absence: during August ministers cover for other ministers.
+5 aim a gun at (someone) in order to prevent them from moving or escaping. 
+• protect (an exposed person) by shooting at an enemy: (as adjective covering) : the jeeps retreated behind spurts of covering fire. 
+• (of a fortress, gun, or cannon) have (an area) within range. 
+• (in team games) take up a position ready to defend against (an opposing player). 
+• Baseball be in position at (a base) ready to catch a thrown ball.
+6 Bridge play a higher card on (a high card) in a trick: the ploy will fail if the ten is covered 
+[no object] : East covered with his queen.
+7 record or perform a new version of (a song) originally performed by someone else: other artists who have covered the song include U2.
+8 (of a male animal, especially a stallion) copulate with (a female animal), especially as part of a commercial transaction between the owners of the animals. 
 ▶noun
-1 a protective cover 
-a manhole cover. See covering (sense
-1 of the noun).
-2 a book cover: binding, jacket, dust jacket, dust cover, wrapper.
-3 (covers) she pulled the covers over her head: bedding, bedclothes, sheets, blankets.
-4 a thick cover of snow: coating, coat, covering, layer, carpet, blanket, overlay, dusting, film, sheet, veneer, crust, skin, cloak, mantle, veil, pall, shroud.
-5 panicking onlookers ran for cover: shelter, protection, refuge, sanctuary, haven, hiding place.
-6 there is considerable game cover around the lake: undergrowth, vegetation, greenery, woodland, trees, bushes, brush, scrub, plants; covert, thicket, copse.
-7 the company was a cover for an international swindle: front, facade, smokescreen, screen, blind, camouflage, disguise, mask, cloak.
-8 on weekends there's a cover to get in the bar: cover charge, entry charge, entrance fee, admission charge, price of admission.
+1 a thing that lies on, over, or around something, especially in order to protect or conceal it: a seat cover. 
+• a thin solid object that seals a container or hole; a lid: a manhole cover. 
+• a thick protective outer part or page of a book or magazine: her life was captured between hard covers in her 1986 autobiography. 
+• Philately a card or envelope that has traveled through the mail or that contains postal markings. 
+• (the covers) bedclothes: she burrowed down beneath the covers.
+2 physical shelter or protection sought by people in danger: the sirens wailed and people ran for cover 
+store seats under cover before the bad weather sets in. 
+• undergrowth, trees, or other vegetation used as a shelter by animals: the standing crops of game cover 
+a landscape bare of woodland except for neat little fox covers. See also covert ( sense
+1 of the noun). 
+• an activity or organization used as a means of concealing an illegal or secret activity: a restaurant is run as a cover for a money-laundering operation. 
+• [in singular] an identity or activity adopted by a person, typically a spy, to conceal their true activities: he was worried that their cover was blown. 
+• military support given when someone is in danger from or being attacked by an enemy: they agreed to provide additional naval cover. 
+• Ecology the amount of ground covered by a vertical projection of the vegetation, usually expressed as a percentage.
+3 short for cover charge.
+4 a place setting at a table in a restaurant. [rendering French couvert .]
+5 (also cover version) a recording or performance of a previously recorded song made especially to take advantage of the original's success. 
 PHRASES
-cover up they allegedly tried to cover up the accidental shooting: conceal, hide, keep secret, hush up, draw a veil over, suppress, sweep under the carpet, gloss over, keep dark; informal whitewash, keep a/the lid on.
+break cover suddenly leave a place of shelter, especially vegetation, when being hunted or pursued. cover one's ass (or back) informal foresee and avoid the possibility of attack or criticism.cover all bases (or cover all the bases) deal with something thoroughly: for the prospective homebuilder, this book covers all bases 
+if you meet these basic requirements, you 'll cover all bases. cover one's position purchase securities in order to be able to fulfill a commitment to sell. cover one's tracks conceal evidence of what one has done. cover the waterfront North American informal include a wide range of things; cover every aspect of something: while half the dishes are Italian, the kitchen covers the waterfront from Greece to Morocco. from cover to cover from beginning to end of a book or magazine. take cover protect oneself from attack by ducking down into or under a shelter: if the bombing starts, take cover in the basement. under cover of concealed by: the yacht made landfall under cover of darkness. 
+• while pretending to do something: Moran watched every move under cover of reading the newspaper. under plain cover in an envelope or parcel without any marks to identify the sender. under separate cover in a separate envelope.PHRASAL VERBS cover something up put something on, over, or around something, especially in order to conceal or disguise it. 
+• try to hide or deny the fact of an illegal or illicit action or activity.DERIVATIVES coverable adjectiveORIGIN Middle English: from Old French covrir, from Latin cooperire, from co- (expressing intensive force) + operire ‘to cover.’ The noun is partly a variant of covert .

@@ -4,7 +4,13 @@ transitive verb
 ① (give details of) 描述 miáoshù ‹person, event›
 ② (characterize) 形容 xíngróng to describe [somebody] as an idiot 称某人为白痴 it could be described as pretty 这可以说是漂亮 
 describe 
-▶verb
-1 he described his experiences: report, recount, relate, tell of, set out, chronicle; detail, catalog, give a rundown of; explain, illustrate, discuss, comment on; literary limn.
-2 she described him as a pathetic figure: designate, pronounce, call, label, style, dub; characterize, class; portray, depict, brand, paint.
-3 the pen described a circle: delineate, mark out, outline, trace, draw.
+dəˈskrīb
+
+▶verb [with object]
+1 give an account in words of (someone or something), including all the relevant characteristics, qualities, or events: the police said the man was described as white,
+6 ft. tall, with mousy, cropped hair.
+2 mark out or draw (a geometric figure): on the diameter of a circle an equilateral triangle is described. DERIVATIVES describable 
+dəˈskrībəb(ə)l 
+adjective. describer 
+dəˈskrībər 
+nounORIGIN late Middle English: from Latin describere, from de- ‘down’ + scribere ‘write.’

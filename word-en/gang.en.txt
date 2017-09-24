@@ -1,6 +1,14 @@
-gang 
+gang
+1 
+ɡaNG
+
 ▶noun
-1 a gang of tough-looking boys: band, group, crowd, pack, horde, throng, mob, herd, swarm, troop, cluster; company, gathering; informal posse, bunch, gaggle, load.
-2 informal Shania was one of our gang: circle, social circle, social set, group, clique, in-crowd, coterie, cabal, lot, ring; informal crew, rat pack.
-3 a gang of workmen: crew, team, group, squad, shift, detachment, unit.
-▶verb they all ganged up to put me down: conspire, cooperate, collude, work together, act together, combine, join forces, team up, get together, unite, ally.
+1 an organized group of criminals. 
+• a group of young people involved in petty crime or violence. 
+• informal a group of people, especially young people, who regularly associate together. 
+• an organized group of people doing manual work: ninety days of hard labor on the road gang.
+2 a set of switches, sockets, or other electrical or mechanical devices grouped together. 
+▶verb
+1 [no object] (gang together) (of a number of people) form a group or gang: the smaller supermarket chains are ganging together to beat the big boys. 
+• (gang up) (of a number of people) join together, typically in order to intimidate someone: he is being unfairly ganged up on.
+2 [with object] arrange (electrical devices or machines) together to work in coordination. ORIGIN Old English, from Old Norse gangr, ganga ‘gait, course, going,’ of Germanic origin; related to gang2. The original meaning was ‘going, a journey,’ later in Middle English ‘a way, passage,’ also ‘set of things or people that go together.’

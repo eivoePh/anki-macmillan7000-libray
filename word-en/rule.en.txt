@@ -1,13 +1,23 @@
 rule 
+ro͞ol
+
 ▶noun
-1 health and safety rules: regulation, ruling, directive, order, act, law, statute, edict, canon, mandate, command, dictate, decree, fiat, injunction, commandment, stipulation, requirement, guideline, direction; formal ordinance.
-2 lateness was the general rule: procedure, practice, protocol, convention, norm, routine, custom, habit, wont; formal praxis.
-3 moderation is the golden rule: precept, principle, standard, axiom, truth, maxim.
-4 Punjab came under British rule: control, jurisdiction, command, power, dominion; government, administration, sovereignty, leadership, supremacy, authority.
+1 one of a set of explicit or understood regulations or principles governing conduct within a particular activity or sphere: the rules of the game were understood. 
+• a principle that operates within a particular sphere of knowledge, describing or prescribing what is possible or allowable: the rules of grammar. 
+• a code of practice and discipline for a religious order or community: the Rule of St. Benedict. 
+• control of or dominion over an area or people: the revolution brought an end to British rule. 
+• (the rule) the normal or customary state of things: such accidents are the exception rather than the rule.
+2 a strip of wood or other rigid material used for measuring length or marking straight lines; a ruler. 
+• a thin printed line or dash, generally used to separate headings, columns, or sections of text.
+3 (Rules) Australian short for Australian Rules (football). 
+• Law an order made by a judge or court with reference to a particular case only. 
 ▶verb
-1 El Salvador was ruled by Spain: govern, preside over, control, lead, dominate, run, head, administer, manage.
-2 Elizabeth has ruled for more than fifty years: be in power, be in control, be in command, be in charge, govern; reign, be monarch, be sovereign.
-3 the judge ruled that they be set free: decree, order, pronounce, judge, adjudge, ordain; decide, find, determine, resolve, settle.
-4 chaos ruled: prevail, predominate, be the order of the day, reign supreme; formal obtain.
+1 [with object] exercise ultimate power or authority over (an area and its people): Latin America today is ruled by elected politicians 
+[no object] : the period in which Spain ruled over Portugal. 
+• (of a feeling) have a powerful and restricting influence on (a person's life): her whole life seemed to be ruled by fear. 
+• [no object] be a dominant or powerful factor or force: [with complement] : the black market rules supreme. 
+• [with clause] pronounce authoritatively and legally to be the case: a federal court ruled that he was unfairly dismissed from his job. 
+• Astrology (of a planet) have a particular influence over (a sign of the zodiac, house, aspect of life, etc.).
+2 [with object] make parallel lines across (paper): (as adjective ruled) : a sheet of ruled paper. 
 PHRASES
-as a rule as a rule, we eat in the kitchen: usually, generally, in general, normally, ordinarily, customarily, for the most part, on the whole, by and large, in the main, mainly, mostly, commonly, typically. rule something out the gold brocade isn't one of the top choices, but don't yet rule it out: exclude, eliminate, disregard; preclude, prohibit, prevent, disallow.
+as a rule usually, but not always. make it a rule to do something have as a habit or general principle to do something: I make it a rule never to mix business with pleasure. rule of law the restriction of the arbitrary exercise of power by subordinating it to well-defined and established laws. rule of thumb a broadly accurate guide or principle, based on experience or practice rather than theory. rule the roost be in complete control.PHRASAL VERBS rule something out (or in) exclude (or include) something as a possibility: the doctor ruled out appendicitis.DERIVATIVES ruleless adjectiveORIGIN Middle English: from Old French reule (noun), reuler (verb), from late Latin regulare, from Latin regula ‘straight stick.’

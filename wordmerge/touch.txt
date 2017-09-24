@@ -35,22 +35,58 @@ B.  transitive verb[touch something down], [touch down something] «rugby player
 ① [touch something up], [touch up something] (improve) 修改 xiūgǎi to touch up [somebody's] hair/essay/photograph 修剪某人的头发/润色某人的文章/修饰某人的照片 I'm going to touch up those scratches with a bit of paint 我打算用点油漆来修补这些擦痕 
 ② [touch somebody up], [touch up somebody] BrE colloquial (touch sexually) 对…动手动脚 duì… dòng shǒu dòng jiǎo touch upon transitive verb = touch on 
 touch 
-▶verb
-1 his shoes were touching the end of the bed: be in contact with, come into contact with, meet, join, connect with, converge with, be contiguous with, be against.
-2 he touched her cheek: press lightly, tap, pat; feel, stroke, fondle, caress, pet; brush, graze, put a hand to.
-3 nobody can touch her when she's on her game: compare with, rival, compete with, come/get close to, be on a par with, equal, match, be a match for, be in the same class/league as, measure up to; better, beat; informal hold a candle to.
-4 you're not supposed to touch the computer: handle, hold, pick up, move; meddle with, play about with, fiddle with, interfere with, tamper with, disturb, lay a finger on; use, employ, make use of.
-5 people whose lives have been touched by the recession: affect, impact, have an effect on, have an impact on, make a difference to, change.
-6 years later she wrote to tell them how much their kindnesses had touched her: affect, move, tug at someone's heartstrings; leave an impression on, have an effect on.
+təCH
+
+▶verb [with object]
+1 come so close to (an object) as to be or come into contact with it: the dog had one paw outstretched, not quite touching the ground. 
+• bring one's hand or another part of one's body into contact with: he touched a strand of her hair 
+she lowered her head to touch his fingers with her lips. 
+• come or bring into mutual contact: [no object] : for a moment their fingers touched 
+[with object] : we touched wheels and nearly came off the road. 
+• Geometry be tangent to (a curve or surface) at a certain point. 
+• informal reach (a specified level or amount): sales touched twenty grand last year. 
+• [usually with negative] informal be comparable to in quality or excellence: there's no one who can touch him at lightweight judo.
+2 handle in order to manipulate, alter, or otherwise affect, especially in an adverse way: I didn't play her records or touch any of her stuff. 
+• cause harm to (someone): I've got friends who'll pull strings—nobody will dare touch me. 
+• consume or use (food, drink, money, etc.): the beer by his right hand was hardly touched 
+in three years I haven't touched a cent of the money. 
+• [with negative] used to indicate that something is avoided or rejected: he was good only for the jobs that nobody else would touch. 
+• (touch someone for) informal ask someone for (money or some other commodity) as a loan or gift: he touched me for his fare.
+3 have an effect on; make a difference to: a tenth of state companies have been touched by privatization. 
+• (of a quality or expression) be or become visible or apparent in: a wry smile touched his lips 
+the voice was touched by hysteria. 
+• (touch something in) chiefly Art lightly mark in features or other details with a brush or pencil. 
+• produce feelings of affection, gratitude, or sympathy in: she was touched by her friend's loyalty. 
 ▶noun
-1 he felt her touch on his shoulder: tap, pat; stroke, caress; brush, graze; hand.
-2 his political touch: skill, skillfulness, expertise, dexterity, deftness, adroitness, adeptness, ability, talent, flair, facility, proficiency, mastery, knack, technique, approach, style.
-3 a touch of sadness: trace, bit, grain, hint, suggestion, suspicion, scintilla, tinge, overtone, undertone, note; dash, taste, drop, dab, dribble, pinch, speck, soupçon.
-4 the oil lamps are a nice touch: detail, feature, point; addition, accessory.
-5 have you been in touch with him? contact, communication, correspondence; connection, association, interaction.
+1 an act of touching someone or something: her touch on his shoulder was hesitant 
+expressions of love through words and touch 
+you can manipulate images on the screen at the touch of a key. 
+• the faculty of perception through physical contact, especially with the fingers: reading by touch. 
+• a musician's manner of playing keys or strings. 
+• the manner in which a musical instrument's keys or strings respond to being played: Viennese instruments with their too delicate touch. 
+• a light stroke with a pen, pencil, etc. 
+• [in singular] informal, dated an act of asking for and getting money or some other commodity from someone as a loan or gift: I only tolerated him because he was good for a touch now and then. 
+• [in singular] archaic a thing or an action that tries out the worth or character of something; a test: you must put your fate to the touch.
+2 a small amount; a trace: add a touch of vinegar 
+he retired to bed with a touch of the flu. 
+• a detail or feature, typically one that gives something a distinctive character: the film's most inventive touch. 
+• [in singular] a distinctive manner or method of dealing with something: later he showed a surer political touch. 
+• [in singular] an ability to deal with something successfully: getting caught looks so incompetent, as though we're losing our touch.
+3 Bell-ringing a series of changes shorter than a peal.
+4 US short for touch football. 
 PHRASES
-touch down the plane is expected to touch down in San Juan: land, alight, come down, put down, arrive. touch off the action touched off a string of protests: cause, spark, trigger, start, set in motion, ignite, stir up, provoke, give rise to, lead to, generate, set off. touch on/upon his speech is sure to touch on the subject of school vouchers: refer to, mention, comment on, speak on, remark on, bring up, raise, broach, allude to; cover, deal with. touch something up
-1 these paints are handy for touching up small areas: repaint, retouch, patch, fix; renovate, refurbish, revamp.
-2 the editor touched up my prose: improve, enhance, make better, refine, give the finishing touches to; informal tweak. 
-WORD LINKS
-touch tactile relating to the sense of touchWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+a touch to a slight degree; a little: the water was a touch too chilly for us. in touch
+1 in or into communication: she said that you kept in touch, that you wrote 
+ask someone to put you in touch with other suppliers.
+2 possessing up-to-date knowledge: we need to keep in touch with the latest developments. 
+• having an intuitive or empathetic awareness: you need to be in touch with your feelings. lose touch
+1 cease to correspond or be in communication: I lost touch with him when he joined the air force.
+2 cease to be aware or informed: we cannot lose touch with political reality. out of touch lacking knowledge or information concerning current events and developments: he seems surprisingly out of touch with recent economic thinking. 
+• lacking in awareness or sympathy: we have been betrayed by a government out of touch with our values. to the touch used to describe the qualities of something perceived by touching it or the sensations felt by someone who is touched: the silk was slightly rough to the touch 
+the ankle was swollen and painful to the touch. touch base (with) see base1. touch bottom reach the bottom of a body of water with one's feet or a pole. 
+• be at the lowest or worst point: the housing market has touched bottom. touch a chord see chord2. touch wood see wood. PHRASAL VERBS touch at (of a ship or someone in it) call briefly at (a port). touch down (of an aircraft or spacecraft) make contact with the ground in landing. touch something off cause something to ignite or explode by touching it with a match. 
+• cause something to happen, especially suddenly: there was concern that the move could touch off a trade war. touch on (or upon)
+1 deal briefly with (a subject) in written or spoken discussion: he touches upon several themes from the last chapter.
+2 come near to being: a self-confident manner touching on the arrogant.touch something up make small improvements to something: these paints are handy for touching up small areas on walls or ceilings.DERIVATIVES touchable 
+ˈtəCHəb(ə)l 
+adjectiveORIGIN Middle English: the verb from Old French tochier, probably from a Romance word of imitative origin; the noun originally from Old French touche, later (in certain senses) directly from the verb.

@@ -1,5 +1,11 @@
 religious 
-▶adjective
-1 a religious person: devout, pious, reverent, godly, God-fearing, churchgoing, faithful, devoted, committed. ANTONYMS atheistic, irreverent.
-2 religious beliefs: spiritual, theological, scriptural, doctrinal, ecclesiastical, church, faith-based, churchly, holy, divine, sacred. ANTONYMS secular.
-3 religious attention to detail: scrupulous, conscientious, meticulous, sedulous, punctilious, strict, rigorous, close. ANTONYMS slapdash.
+rəˈlijəs
+
+▶adjective relating to or believing in a religion: both men were deeply religious, intelligent, and moralistic 
+religious music. 
+• (of a belief or practice) forming part of someone's thought about or worship of a divine being: he has strong religious convictions. 
+• belonging or relating to a monastic order or other group of people who are united by their practice of religion: religious houses were built on ancient pagan sites. 
+• treated or regarded with a devotion and scrupulousness appropriate to worship: I have a religious aversion to reading manuals. 
+▶noun (plural same) a person bound by monastic vows. DERIVATIVES religiousness 
+rəˈlijəsnəs 
+nounORIGIN Middle English: from Old French, from Latin religiosus, from religio ‘reverence, obligation’ (see religion) .

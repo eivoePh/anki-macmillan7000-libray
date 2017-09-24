@@ -4,5 +4,11 @@ BrE ˈiːmeɪl, AmE ˈimeɪl
 A.  noun Countable and uncountable电子邮件 diànzǐ yóujiàn to send [somebody] an email; 给某人发一封电子邮件 to be on email; 能够收发电子邮件 
 B.  transitive verb 用电子邮件发送 yòng diànzǐ yóujiàn fāsòng ‹information›; 给…发电子邮件 gěi… fā diànzǐ yóujiàn ‹person›
 email 
-▶noun I haven't read my email today: electronic mail, text messaging; correspondence, communication, message(s), mail, memo(s), letter(s).
-▶verb email your résumé before noon Friday: send electronically, transmit, forward, mail.
+ˈēmāl 
+(also e-mail) 
+▶noun messages distributed by electronic means from one computer user to one or more recipients via a network: reading email has become the first task of the morning 
+[as modifier] : email messages. 
+• the system of sending messages by electronic means from one computer to another: a contract communicated by email. 
+• a message sent by email: I got three emails from my mother today. 
+▶verb [with object] send an email to (someone): you can email me at my normal address. 
+• send (a message) by email: employees can email the results back. DERIVATIVES emailer nounORIGIN 1970s (originally with reference to Intelpost, a system for sending facsimiles of documents between countries electronically): abbreviation of electronic mail .

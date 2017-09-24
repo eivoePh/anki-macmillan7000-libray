@@ -21,9 +21,25 @@ C.  transitive verb
 D.  reflexive verb to prime oneself with [something]; (food) 吃饱某物 chībǎo mǒu wù (drink) 喝足某物 hēzú mǒu wù 
 prime
 1 
+prīm
+
 ▶adjective
-1 his prime reason for leaving: main, chief, key, primary, central, principal, foremost, first, most important, paramount, major; informal number-one. ANTONYMS secondary, subordinate.
-2 the prime cause of flooding: fundamental, basic, essential, primary, central. ANTONYMS secondary.
-3 prime agricultural land: top-quality, top, best, first-class, first-rate, grade A, superior, supreme, choice, select, finest, top-end, top-tier; excellent, superb, fine; informal tip-top, A1, top-notch, blue-ribbon. ANTONYMS inferior.
-4 a prime example: archetypal, prototypical, typical, classic, excellent, characteristic, quintessential.
-▶noun he is in his prime: heyday, best days, best years, prime of one's life; youth, salad days; peak, pinnacle, zenith.
+1 of first importance; main: her prime concern is the well-being of the patient. 
+• from which another thing may derive or proceed: Diogenes' conclusion that air is the prime matter.
+2 [attributive] of the best possible quality; excellent: a prime site in the center of Indianapolis 
+prime cuts of meat. 
+• having all the expected or typical characteristics of something: the novel is a prime example of the genre. 
+• most suitable or likely: it's the prime contender for best comedy of the year.
+3 Mathematics (of a number) evenly divisible only by itself and one (e.g., 2, 3, 5, 7, 11). 
+• [predicative] (of two or more numbers in relation to each other) having no common factor but one. 
+▶noun
+1 [in singular] a state or time of greatest strength, vigor, or success in a person's life: you're in the prime of life 
+he wasn't elderly, but clearly past his prime. 
+• archaic the beginning or first period of something: the prime of the world.
+2 Christian Church a service forming part of the Divine Office, traditionally said (or chanted) at the first hour of the day (i.e.,
+6 a.m.), but now little used.
+3 a prime number.
+4 Printing a symbol (ʹ) written after a letter or symbol as a distinguishing mark or after a figure as a symbol for minutes or feet.
+5 Fencing the first of eight standard parrying positions. [French.]
+6 short for prime rate. DERIVATIVES primeness nounORIGIN Old English prīm ( sense
+2 of the noun), from Latin prima (hora)‘first (hour),’ reinforced in Middle English by Old French prime; the adjective dates from late Middle English, via Old French from Latin primus ‘first.’

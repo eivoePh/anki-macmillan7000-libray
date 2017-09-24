@@ -4,6 +4,9 @@ noun
 ① Uncountable(art, skill) 战略 zhànlüè 
 ② Countable(plan) 策略 cèlüè a reading strategy 阅读策略 a wrong/correct or right strategy 错误/正确的策略 
 strategy 
-▶noun
-1 the government's economic strategy: master plan, grand design, game plan, plan (of action), action plan, policy, program; tactics; exit strategy.
-2 military strategy: the art of war, (military) tactics.
+ˈstradəjē
+
+▶noun (plural strategies) a plan of action or policy designed to achieve a major or overall aim: time to develop a coherent economic strategy 
+shifts in marketing strategy. 
+• the art of planning and directing overall military operations and movements in a war or battle. Often contrasted with tactics (see tactic). 
+• a plan for military operations and movements during a war or battle: nonprovocative defense strategies. ORIGIN early 19th century: from French stratégie, from Greek stratēgia ‘generalship,’ from stratēgos (see stratagem) .

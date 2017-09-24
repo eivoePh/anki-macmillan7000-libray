@@ -2,6 +2,12 @@ dictionary
 BrE ˈdɪkʃ(ə)n(ə)ri, AmE ˈdɪkʃəˌnɛri 
 noun 词典 cídiǎn a chemistry dictionary, a dictionary of chemistry 化学词典 
 dictionary 
-▶noun if they don't understand what a word means, then they can look it up in the dictionary: lexicon, wordbook, word list, glossary; thesaurus.
-WORD LINKS
-dictionary lexicography the practice of writing dictionariesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+ˈdikSHəˌnerē
+
+▶noun (plural dictionaries) a book or electronic resource that lists the words of a language (typically in alphabetical order) and gives their meaning, or gives the equivalent words in a different language, often also providing information about pronunciation, origin, and usage: I'll look up ‘love’ in the dictionary 
+the website gives access to an online dictionary 
+[as modifier] : the dictionary definition of ‘smile’ 
+• a reference work on a particular subject, the items of which are typically arranged in alphabetical order: a dictionary of quotations. 
+• Computing a set of words or other text strings made for use in applications such as spelling checkers: the worm attempts to crack account passwords using a built-in dictionary. 
+PHRASES
+have swallowed a dictionary informal use long and obscure words when speaking.ORIGIN early 16th century: from medieval Latin dictionarium (manuale) or dictionarius (liber)‘manual or book of words,’ from Latin dictio (see diction) .

@@ -10,9 +10,17 @@ C.  intransitive verb
 ① (help) 帮助 bāngzhù to aid in [something]/doing [something]; 在某事上提供帮助/帮助做某事 women were aided in childbirth by midwives 妇女在分娩时得到助产士的帮助 
 ② Law to aid and abet [somebody] 伙同某人作案 huǒtóng mǒu rén zuò'àn 
 aid 
-▶noun
-1 with the aid of his colleagues he prepared a manifesto: assistance, support, help, backing, cooperation; a helping hand. ANTONYMS hindrance.
-2 humanitarian aid: relief, charity, financial assistance, donations, contributions, subsidies, handouts, subvention, succor; historical alms.
-▶verb
-1 he provided an army to aid the King of England: help, assist, abet, come to someone's aid, give assistance, lend a hand, be of service; avail, succor, sustain. ANTONYMS hinder.
-2 certain teas can aid restful sleep: facilitate, promote, encourage, help, further, boost; speed up, hasten, accelerate, expedite. ANTONYMS discourage, hinder.
+ād
+
+▶noun help, typically of a practical nature: he saw the pilot slumped in his cockpit and went to his aid 
+within six weeks he was walking with the aid of a walker. 
+• financial or material help given to a country or area in need: 700,000 tons of food aid 
+[as modifier] : aid convoys. 
+• a person or thing that is a source of help or assistance: exercise is an important aid to recovery after heart attacks 
+a teaching aid. 
+• historical a grant of subsidy or tax to a king. 
+▶verb [with object] help, assist, or support (someone or something) in the achievement of something: women were aided in childbirth by midwives 
+[no object] : the heel was slanted to aid in climbing hilly terrain. 
+• promote or encourage (something): diet and exercise aid healthy skin. 
+PHRASES
+aid and abet see abet. in aid of chiefly British in support of; for the purpose of raising money for: a concert in aid of Armenia.ORIGIN late Middle English: from Old French aïde (noun), aïdier (verb), based on Latin adjuvare, from ad- ‘toward’ + juvare ‘to help.’

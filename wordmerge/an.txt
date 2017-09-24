@@ -2,5 +2,6 @@ an
 BrE an, ən, AmE æn, ən 
 determiner [用于元音前] → a 
 an 
-BrE an, ən, AmE æn, ən 
-determiner [用于元音前] → a 
+an ən
+
+▶det. the form of the indefinite article (see a1) used before words beginning with a vowel sound. usage: Is it ’a historical document’ or ’an historical document’? ‘A hotel’ or ‘an hotel’? There is still some divergence of opinion over which form of the indefinite article should be used before words that begin with h- and have an unstressed first syllable. In the 18th and 19th centuries, people often did not pronounce the initial h for these words, and so an was commonly used. Today the h is pronounced, and so it is logical to use a rather than an. However, the indefinite article an is still encountered before the h in both British and American English, particularly with historical: in the Oxford English Corpus around a quarter of examples of historical are preceded with an rather than a.

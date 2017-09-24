@@ -15,14 +15,22 @@ C.  transitive verb
 ① [chance on something] (find) 偶然找到 ǒurán zhǎodào ‹object›
 ② [chance on somebody] (meet) 偶然遇到 ǒurán yùdào 
 chance 
+CHans
+
 ▶noun
-1 there was a chance he might be released: possibility, prospect, probability, likelihood, likeliness, expectation, anticipation; risk, threat, danger.
-2 I gave her a chance to answer: opportunity, opening, occasion, turn, time, window (of opportunity); informal shot.
-3 Nichola took an awful chance: risk, gamble, venture, speculation, long shot, shot in the dark.
-4 pure chance: accident, coincidence, serendipity, fate, destiny, fortuity, providence, happenstance; good fortune, luck, good luck, fluke.
-▶adjective a chance discovery: accidental, fortuitous, adventitious, fluky, coincidental, serendipitous; unintentional, unintended, inadvertent, unplanned. ANTONYMS intentional.
+1 a possibility of something happening: a chance of victory 
+there is little chance of his finding a job. 
+• (chances) the probability of something happening: he played down his chances of becoming chairman. 
+• [in singular] an opportunity to do or achieve something: I gave her a chance to answer. 
+• a ticket in a raffle or lottery. 
+• Baseball an opportunity to make a defensive play, which if missed counts as an error: 541 straight chances without an error.
+2 the occurrence and development of events in the absence of any obvious design: he met his brother by chance 
+what a lucky chance that you are here. 
+▶adjective [attributive] fortuitous; accidental: a chance meeting. 
 ▶verb
-1 I chanced to meet him: happen.
-2 she chanced another look: risk, hazard, venture, try; formal essay.
+1 [no object] do something by accident or without design: if they chanced to meet. 
+• (chance upon/on) find or see by accident: he chanced upon an interesting advertisement.
+2 [with object] informal do (something) despite its being dangerous or of uncertain outcome: she waited a few seconds and chanced another look. 
 PHRASES
-by chance we found a signed first edition completely by chance: fortuitously, by accident, accidentally, coincidentally, serendipitously; unintentionally, inadvertently. chance on/upon if you should chance upon a copy of the book, please let me know: come across/upon, run across/into, happen on, light on, stumble on, find by chance, meet (by chance), bump into. CHOOSE THE RIGHT WORD See happen .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+by any chance possibly (used in tentative inquiries or suggestions): were you looking for me by any chance? no chance informal there is no possibility of that: I asked if we could leave early and she said, “No chance.” on the (off) chance just in case: Joan phoned at noon on the off chance that he'd be home. stand a chance [usually with negative] have a prospect of success or survival: his rivals don't stand a chance. take a chance (or chances) behave in a way that leaves one vulnerable to danger or failure. 
+• (take a chance on) put one's trust in (something or someone) knowing that it may not be safe or certain.take one's chances do something risky with the hope of success.ORIGIN Middle English: from Old French cheance, from cheoir ‘fall, befall,’ based on Latin cadere .

@@ -1,11 +1,35 @@
 register 
+ˈrejəstər
+
 ▶noun
-1 the register of electors: official list, listing, roll, roster, index, directory, address book, catalog, inventory; blogroll.
-2 the parish register: record, chronicle, log, logbook, ledger, archive; annals, files.
-3 the lower register of the piano: range, reaches; notes, octaves.
-▶verb
-1 I wish to register a complaint: record, put on record, enter, file, lodge, write down, put in writing, submit, report, note, log.
-2 it is not too late to register: enroll, put one's name down, enlist, sign on, sign up, apply.
-3 the dial registered a speed of 100 mph: indicate, read, record, show, display.
-4 her face registered anger: display, show, express, exhibit, betray, evidence, reveal, manifest, demonstrate, bespeak; formal evince.
-5 the content of her statement did not register: make an impression, get through, sink in, penetrate, have an effect, strike home.
+1 an official list or record, for example of births, marriages, and deaths, of shipping, or of historic places. 
+• a book or record of attendance, for example of students in a class or school or guests in a hotel.
+2 a particular part of the range of a voice or instrument: his voice moved up a register 
+she plays a basset horn and relishes the duskiness of its lower register. 
+• a sliding device controlling a set of organ pipes that share a tonal quality. 
+• a set of organ pipes so controlled.
+3 Linguistics a variety of a language or a level of usage, as determined by degree of formality and choice of vocabulary, pronunciation, and syntax, according to the communicative purpose, social context, and social status of the user.
+4 Printing & Photography the exact correspondence of the position of color components in a printed positive. 
+• Printing the exact correspondence of the position of printed matter on the two sides of a page.
+5 (in electronic devices) a location in a store of data, used for a specific purpose and with quick access time.
+6 an adjustable plate for widening or narrowing an opening and regulating a draft, especially in a fire grate.
+7 short for cash register.
+8 Art one of a number of bands or sections into which a design is divided. 
+▶verb [with object]
+1 enter or record on an official list or directory: the vessel is registered as Liberian 
+her father was late in registering her birth 
+(as adjective registered) : a registered trademark. 
+• [no object] enter one's name and other details on an official list or directory: [with infinitive] : 34,500 registered to vote. 
+• [no object] put one's name in a register as a guest in a hotel. 
+• [no object] North American (of a couple to be married) have a list of wedding gifts compiled and kept at a store for consultation by gift buyers. 
+• entrust (a letter or parcel) to a post office for transmission by registered mail: (as adjective registered) : a registered letter.
+2 (of an instrument) detect and show (a reading) automatically: the electroscope was too insensitive to register the tiny changes. 
+• [no object, with complement] (of an event) give rise to a specified reading on an instrument: the blast registered 5.4 on the Richter scale.
+3 express or convey (an opinion or emotion): I wish to register an objection 
+he did not register much surprise at this. 
+• [no object] (of an emotion) show in a person's face or gestures: nothing registered on their faces. 
+• [usually with negative] properly notice or become aware of (something): he had not even registered her presence. 
+• [no object, usually with negative] make an impression on a person's mind: the content of her statement did not register.
+4 Printing & Photography correspond or cause to correspond exactly in position: [no object] : they are adjusted until the impressions register. DERIVATIVES registrable 
+ˈrejəstrəb(ə)l 
+adjectiveORIGIN late Middle English: from Old French regestre or medieval Latin regestrum, registrum, alteration of regestum, singular of late Latin regesta ‘things recorded,’ from regerere ‘enter, record.’

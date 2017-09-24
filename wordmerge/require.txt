@@ -5,9 +5,11 @@ transitive verb
 ② (specify) 要求具备 yāoqiú jùbèi ‹skill›; 规定 guīdìng ‹action›what qualifications are required for the job? 这份工作要求具备什么样的资格？ 
 ③ (oblige, demand) 要求 yāoqiú those instruments require very careful handling 那些仪器需要小心轻放 I'm not required to tell you where I've been! 我没义务告诉你我去过哪里！ 
 require 
-▶verb
-1 the child required hospital treatment: need, be in need of.
-2 a situation requiring patience: necessitate, demand, call for, involve, entail.
-3 unquestioning obedience is required: demand, insist on, call for, ask for, expect.
-4 she was required to pay costs: order, instruct, command, enjoin, oblige, compel, force.
-5 do you require anything else? want, wish to have, desire; lack, be short of.
+rəˈkwī(ə)r
+
+▶verb [with object] need for a particular purpose: three patients required operations 
+please indicate how many tickets you require. 
+• cause to be necessary: it would have required much research to produce a comprehensive list. 
+• specify as compulsory: the minimum car insurance required by law. 
+• [with object and infinitive] (of someone in authority) instruct or expect (someone) to do something: you will be required to attend for cross-examination. 
+• (require something of) regard an action, ability, or quality as due from (someone) by virtue of their position: the care and diligence required of him as a trustee. DERIVATIVES requirer nounORIGIN late Middle English: from Old French requere, from Latin requirere, from re- (expressing intensive force) + quaerere ‘seek.’

@@ -40,21 +40,42 @@ A.  intransitive verb
 ② (conclude deal) «person, company» 签约 qiānyuē to sign up with [somebody]/[something]; 和某人/某机构签约 
 B.  transitive verb[sign somebody up, sign up somebody] 与…签约 yǔ… qiānyuē ‹performer, worker›the club has signed up a new goalkeeper 该俱乐部签下了一名新守门员 to sign [somebody] up for [something]; 为…签约某人 ‹club, show, job›
 sign 
+sīn
+
 ▶noun
-1 a sign of affection: indication, signal, symptom, pointer, suggestion, intimation, mark, manifestation, demonstration, token, evidence; literary sigil.
-2 a sign of things to come: portent, omen, warning, forewarning, augury, presage, danger sign; promise, threat.
-3 at his sign the soldiers followed: gesture, signal, wave, gesticulation, cue, nod.
-4 he read the sign on the wall: notice, signpost, signboard, warning sign, road sign, traffic sign, guidepost, marquee.
-5 the dancers were daubed with signs: symbol, mark, cipher, letter, character, figure, hieroglyph, ideogram, rune, emblem, device, logo.
+1 an object, quality, or event whose presence or occurrence indicates the probable presence or occurrence of something else: flowers are often given as a sign of affection 
+[with clause] : the stores are full, which is a sign that the recession is past its worst. 
+• something regarded as an indication or evidence of what is happening or going to happen: the signs are that counterfeiting is growing at an alarming rate. 
+• [with negative] used to indicate that someone or something is not present where they should be or are expected to be: there was still no sign of her. 
+• Medicine an indication of a disease detectable by a medical practitioner even if not apparent to the patient. Compare with symptom. 
+• a miracle regarded as evidence of supernatural power (chiefly in biblical and literary use). 
+• North American any trace of a wild animal, especially its tracks or droppings: wolverine sign.
+2 a gesture or action used to convey information or instructions: she gave him the thumbs-up sign. 
+• a notice that is publicly displayed giving information or instructions in a written or symbolic form: I didn't see the stop sign. 
+• an action or reaction that conveys something about someone's state or experiences: she gave no sign of having seen him. 
+• a gesture used in a system of sign language. 
+• short for sign language. 
+• a symbol or word used to represent an operation, instruction, concept, or object in algebra, music, or other subjects. 
+• a word or gesture given according to prior arrangement as a means of identification; a password.
+3 (also zodiacal sign) Astrology each of the twelve equal sections into which the zodiac is divided, named from the constellations formerly situated in each, and associated with successive periods of the year according to the position of the sun on the ecliptic: a person born under the sign of Virgo.
+4 Mathematics the positiveness or negativeness of a quantity. 
 ▶verb
-1 he signed the letter: write one's name on, autograph, endorse, initial, countersign, ink; formal subscribe.
-2 the government signed the agreement: endorse, validate, certify, authenticate, sanction, authorize; agree to, approve, ratify, adopt, give one's approval to; informal give something the go-ahead, give something the green light, give something the thumbs up.
-3 he signed his name: write, inscribe, pen.
-4 we have signed a new player: recruit, hire, engage, employ, take on, appoint, sign on/up, enlist.
-5 she signed to Susan to leave. See signal1 (sense
-1 of the verb). 
+1 [with object] write one's name on (a letter, card, or similar item) to identify oneself as the writer or sender: the card was signed by the whole class. 
+• indicate agreement with or authorization of the contents of (a document or other written or printed material) by attaching a signature: the two countries signed a nonaggression treaty. 
+• write (one's name) for purposes of identification or authorization: she signed her name in the book 
+[with object and complement] : she signed herself Ingrid 
+[no object] : he signed on the dotted line. 
+• engage (someone, typically a sports player or a musician) to work for one by signing a contract with them: the company signed 30 bands. 
+• [no object] sign a contract committing oneself to work for a particular person or organization: Sherman has signed for another two seasons.
+2 [no object] use gestures to convey information or instructions: [with infinitive] : she signed to her husband to leave the room. 
+• communicate in sign language: she was learning to sign. 
+• [with object] express or perform (something) in sign language: (as adjective signed) : the theater routinely puts on signed performances. 
+• [with object] archaic mark or consecrate with the sign of the cross. 
 PHRASES
-sign on/up
-1 I signed up with Will's committee to raise money for the school library: enlist, take a job, join (up), enroll, register, volunteer.
-2 the Yankees have signed on a new right fielder. See sign (sense
-4 of the verb). sign over he signed over the business to his children: transfer, make over, hand over, bequeath, pass on, transmit, cede; Law devolve, convey. CHOOSE THE RIGHT WORD See emblem .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.CHOOSE THE RIGHT WORD sign, augury, indication, manifestation, omen, signal, symptom, token What's the difference between a sign and a signal ? The former (in this sense) is a general term for anything that gives evidence of an event, a mood, a quality of character, a mental or physical state, or a trace of something (a sign of approaching rain; a sign of good breeding; a sign that someone has entered the house). While a sign may be involuntary or even unconscious, a signal is always voluntary and is usually deliberate. A ship that shows signs of distress may or may not be in trouble; but one that sends a distress signal is definitely in need of help. Indication, like sign, is a comprehensive term for anything that serves to indicate or point out (he gave no indication that he was lying). A manifestation is an outward or perceptible indication of something (the letter was a manifestation of his guilt), and a symptom is an indication of a diseased condition (a symptom of pneumonia). An object that proves the existence of something abstract is called a token (she gave him a locket as a token of her love). Omen and augury both pertain to foretelling future events, with augury being the general term for a prediction of the future and omen being a definite sign foretelling good or evil (they regarded the stormy weather as a bad omen).These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+sign of the cross a Christian sign made in blessing or prayer by tracing a cross from the forehead to the chest and to each shoulder, or in the air. sign of the times something judged to exemplify or indicate the nature or quality of a particular period, typically something unwelcome or unpleasant: the theft was a sign of the times. signed, sealed, and delivered (or signed and sealed) formally and officially agreed and in effect.PHRASAL VERBS sign something away/over officially relinquish rights or property by signing a deed: I have no intention of signing away my inheritance. sign for sign a receipt to confirm that one has received (something delivered or handed over). sign in sign a register on arrival, typically in a hotel.sign someone in record someone's arrival in a register.sign off conclude a letter, broadcast, or other message: he signed off with a few words of advice. 
+• sign to record that one is leaving work for the day. 
+• Bridge indicate by a conventional bid that one is seeking to end the bidding. sign someone off record that someone is entitled to miss work, typically because of illness. sign off on US informal assent or give one's approval to: it was hard to get celebrities to sign off on those issues. sign on chiefly British commit oneself to employment, membership in a society, or some other undertaking: I'll sign on with an advertising agency. sign someone on take someone into one's employment. sign out sign a register to record one's departure, typically from a hotel. sign someone out authorize someone's release or record their departure by signing a register. sign something out sign to indicate that one has borrowed or hired something: I signed out the keys. sign up commit oneself to a period of employment or education or to some other undertaking: he signed up for a ten-week course. 
+• enlist in the armed forces. 
+• (also sign something up) conclude a business deal: the company has already signed up a few orders. sign someone up formally engage someone in employment.DERIVATIVES signer 
+ˈsīnər 
+nounORIGIN Middle English: from Old French signe (noun), signer (verb), from Latin signum ‘mark, token.’

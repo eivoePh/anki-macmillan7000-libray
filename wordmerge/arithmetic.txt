@@ -3,5 +3,15 @@ A.  /BrE əˈrɪθmətɪk, AmE əˈrɪθməˌtɪk
 nounUncountable算术 suànshù 
 B.  /BrE ˌarɪθˈmɛtɪk, AmE ˌɛrɪθˈmɛdɪk
 adjective 算术的 suànshù de 
-arithmetic A. /BrE əˈrɪθmətɪk, AmE əˈrɪθməˌtɪk/ nounUncountable算术 suànshù 
-B.  /BrE ˌarɪθˈmɛtɪk, AmE ˌɛrɪθˈmɛdɪk/ adjective 算术的 suànshù de 
+arithmetic 
+▶noun 
+əˈriTHməˌtik 
+the branch of mathematics dealing with the properties and manipulation of numbers: the laws of arithmetic. 
+• the use of numbers in counting and calculation: he could do arithmetic in his head. 
+▶adjective 
+ˌeriTHˈmedik 
+(also arithmetical) relating to arithmetic: perform arithmetic functions. DERIVATIVES arithmetically 
+ariTHˈmediklē 
+adverb. arithmetician 
+əˌriTHməˈtiSH(ə)n 
+nounORIGIN Middle English: from Old French arismetique, based on Latin arithmetica, from Greek arithmētikē (tekhnē)‘(art) of counting,’ from arithmos ‘number.’

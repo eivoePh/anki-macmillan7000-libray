@@ -9,11 +9,15 @@ A.  noun
 B.  results noun plural 成果 chéngguǒ to get or yield results 取得成效 to produce/show results 产生/显示成效 trading results 营业效益 payment by results 绩效付酬 
 C.  intransitive verb 发生 fāshēng to result in [something]; 导致某事 all his hard work resulted in failure 他所有的努力都失败了 injuries resulting from a fall 摔伤 
 result 
-▶noun
-1 stress is the result of overwork: consequence, outcome, product, upshot, sequel, effect, reaction, repercussion, ramification, conclusion, culmination. ANTONYMS cause.
-2 having made the calculation, what is your result? answer, solution; sum, total, product.
-3 exam results: grade, score, mark.
-4 the result of the trial: verdict, decision, outcome, conclusion, judgment, findings, ruling.
-▶verb
-1 differences between species could result from their habitat: follow from, ensue from, develop from, stem from, spring from, arise from, derive from, evolve from, proceed from; occur from, happen from, take place from, come about from; be caused by, be brought about by, be produced by, originate in, be consequent on.
-2 the shooting resulted in five deaths: end in, culminate in, finish in, terminate in, lead to, prompt, precipitate, trigger; cause, bring about, occasion, effect, give rise to, produce, engender, generate; literary beget.
+rəˈzəlt
+
+▶noun a consequence, effect, or outcome of something: the tower collapsed as a result of safety violations. 
+• an item of information obtained by experiment or some other scientific method; a quantity or formula obtained by calculation. 
+• (often results) a final score, mark, or placing in a sporting event or examination. 
+• (often results) a satisfactory or favorable outcome of an undertaking or contest: determination and persistence guarantee results. 
+• (usually results) the outcome of a business's trading over a given period, expressed as a statement of profit or loss: oil companies have reported markedly better results. 
+▶verb [no object] occur or follow as the consequence of something: government unpopularity resulting from the state of the economy 
+(as adjective resulting) : talk of a general election and the resulting political uncertainty. 
+• (result in) have (a specified end or outcome): talks in July had resulted in stalemate. 
+PHRASES
+without result in vain: Danny had inquired about getting work, without result.ORIGIN late Middle English (as a verb): from medieval Latin resultare ‘to result,’ earlier in the sense ‘spring back,’ from re- (expressing intensive force) + saltare (frequentative of salire ‘to jump’). The noun dates from the early 17th century.

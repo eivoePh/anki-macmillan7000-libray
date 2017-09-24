@@ -6,7 +6,13 @@ noun
 ③ Uncountable(ability to perceive) 洞察力 dòngchálì 
 ④ Countable(impression) 看法 kànfa what is your perception of what needs to be done? 你认为需要做些什么？ popular perceptions of old age 对老龄问题的普遍看法 
 perception 
-▶noun
-1 our perception of our own limitations: recognition, awareness, consciousness, appreciation, realization, knowledge, grasp, understanding, comprehension, apprehension; formal cognizance.
-2 popular perceptions of old age: impression, idea, conception, notion, thought, belief, judgment, estimation.
-3 he talks with great perception: insight, perceptiveness, percipience, perspicacity, understanding, sharpness, sharp-wittedness, intelligence, intuition, cleverness, incisiveness, trenchancy, astuteness, shrewdness, acuteness, acuity, discernment, sensitivity, penetration, thoughtfulness, profundity; formal perspicuity.
+pərˈsepSH(ə)n
+
+▶noun the ability to see, hear, or become aware of something through the senses: the normal limits to human perception. 
+• the state of being or process of becoming aware of something through the senses: the perception of pain. 
+• a way of regarding, understanding, or interpreting something; a mental impression: Hollywood's perception of the tastes of the American public 
+we need to challenge many popular perceptions of old age. 
+• intuitive understanding and insight: “He wouldn't have accepted,” said my mother with unusual perception. 
+• Psychology & Zoology the neurophysiological processes, including memory, by which an organism becomes aware of and interprets external stimuli. DERIVATIVES perceptional 
+-SHənl, -SHnəl 
+adjectiveORIGIN late Middle English: from Latin perceptio(n-), from the verb percipere ‘seize, understand’ (see perceive) .

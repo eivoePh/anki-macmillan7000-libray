@@ -10,13 +10,16 @@ A.  noun
 ⑥ Countable and uncountable(intention) 意图 yìtú to have designs on [somebody]/[something]; 企图占有某人/某物 to have designs against [somebody]; 算计某人 by design 故意地 
 B.  transitive verb (conceive, plan out, sketch) 设计 shèjì to design [something] as [something]; 把某物设计成某物 to be well/badly designed 设计得好/不好 a jug designed to hold or for holding water 设计用来盛水的罐子 
 design 
+dəˈzīn
+
 ▶noun
-1 a design for the offices: plan, blueprint, drawing, sketch, outline, map, plot, diagram, draft, representation, scheme, model.
-2 tableware with a gold design: pattern, motif, device; style, composition, makeup, layout, construction, shape, form.
-3 his design of reaching the top: intention, aim, purpose, plan, intent, objective, object, goal, end, target; hope, desire, wish, dream, aspiration, ambition.
-▶verb
-1 the church was designed by Hicks: plan, outline, map out, draft, draw.
-2 they designed a new engine: invent, originate, create, think up, come up with, devise, formulate, conceive; make, produce, develop, fashion; informal dream up.
-3 this paper is designed to provoke discussion: intend, aim; devise, contrive, purpose, plan; tailor, fashion, adapt, gear; mean, destine.
+1 a plan or drawing produced to show the look and function or workings of a building, garment, or other object before it is built or made: he has just unveiled his design for the new museum. 
+• the art or action of conceiving of and producing a plan or drawing: good design can help the reader understand complicated information 
+the cloister is of late-twelfth-century design. 
+• an arrangement of lines or shapes created to form a pattern or decoration: pottery with a lovely blue and white design.
+2 purpose, planning, or intention that exists or is thought to exist behind an action, fact, or material object: the appearance of design in the universe. 
+▶verb [with object] decide upon the look and functioning of (a building, garment, or other object), typically by making a detailed drawing of it: a number of architectural students were designing a factory 
+[as adjective with submodifier] (designed) : specially designed buildings. 
+• do or plan (something) with a specific purpose or intention in mind: [with object and infinitive] : the tax changes were designed to stimulate economic growth. 
 PHRASES
-by design things worked out more by accident than by design: deliberately, intentionally, on purpose, purposefully; knowingly, wittingly, consciously, calculatedly. CHOOSE THE RIGHT WORD See intend .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+by design as a result of a plan; intentionally: I became a presenter by default rather than by design. have designs on aim to obtain (something desired), typically in a secret and dishonest way: he suspected her of having designs on the family fortune.ORIGIN late Middle English (as a verb in the sense ‘to designate’): from Latin designare ‘to designate,’ reinforced by French désigner. The noun is via French from Italian.

@@ -1,12 +1,17 @@
-pedal 
-BrE ˈpɛd(ə)l, AmE ˈpɛdl 
-A. noun 
-① (on bicycle) 脚蹬子 jiǎodēngzi 
-② Auto 踏板 tàbǎn 
-③ Music (on piano, harp) 踏板 tàbǎn (on organ) 脚键盘 jiǎojiànpán 
-B.  transitive verb(present participle etc. -ll- BrE, -l- AmE ) 
-① (operate by pedalling) 用脚蹬 yòng jiǎo dēng to pedal a bicycle 骑自行车 qí zìxíngchē 
-② (cycle) 骑车走过 qí chē zǒuguo ‹distance›he pedalled 90 miles that day 他那天骑车走了90英里 
-C.  intransitive verb(present participle etc. -ll- BrE, -l- AmE ) 
-① (use pedal) 踩踏板 cǎi tàbǎn to pedal along 一直踩踏板 to pedal hard/furiously 用力/拼命蹬车 
-② (cycle) 骑自行车 qí zìxíngchē to pedal down the hill 骑车下山 
+pedal
+1 
+ˈpedl
+
+▶noun
+1 each of a pair of foot-operated levers used for powering a bicycle or other vehicle propelled by the legs.
+2 a foot-operated throttle, brake, or clutch control in a motor vehicle.
+3 each of a set of two or three levers on a piano, particularly (also sustaining pedal) one that, when depressed by the foot, prevents the dampers from stopping the sound when the keys are released. The second is the soft pedal; a third, if present, produces either selective sustaining or complete muffling of the tone. 
+• Music (usually pedals) each key of an organ keyboard that is played with the feet. 
+• Music short for pedal note. 
+▶verb (pedals, pedaling, pedaled; British pedals, pedalling, pedalled) [no object] move by working the pedals of a bicycle: they pedaled along the canal towpath. 
+• [with object] move (a bicycle) by working its pedals: she was pedaling a bicycle around town. 
+• work the pedals of a bicycle: he was coming down the path on his bike, pedaling hard. 
+• use the pedals of a piano, especially in a particular style: (as noun pedaling) : Chopin gave no indications of pedaling in his manuscript. 
+PHRASES
+with the pedal to the metal North American informal with the accelerator of a car pressed to the floor.DERIVATIVES pedaler (British pedaller) nounORIGIN early 17th century (denoting a foot-operated lever of an organ): from French pédale, from Italian pedale, from Latin pedalis ‘a foot in length,’ from pes, ped- ‘foot.’ usage: People often confuse the words pedal and peddle. Pedal is a noun referring to a foot-operated lever, as on a bicycle, and a verb chiefly meaning ‘move by working the pedals of a bicycle’ ( they pedaled along the road). Peddle, on the other hand, is a verb meaning ‘sell goods or promote an idea’ ( he peddled printing materials around the country 
+she peddled a ludicrously utopian view of the past). The related words peddler and pedaler are also confused. A peddler (also spelled pedlar, especially in Britain) is a person who goes from place to place selling goods, while a pedaler (or, in Britain, a pedaller) is someone who rides a bike.

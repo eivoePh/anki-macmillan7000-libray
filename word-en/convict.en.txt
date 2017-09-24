@@ -1,3 +1,8 @@
 convict 
-▶verb he was convicted of sexual assault: find guilty, sentence. ANTONYMS acquit.
-▶noun two escaped convicts: prisoner, inmate; criminal, offender, lawbreaker, felon; informal jailbird, con, crook, lifer, yardbird.
+▶verb 
+kənˈvikt 
+[with object] declare (someone) to be guilty of a criminal offense by the verdict of a jury or the decision of a judge in a court of law: her former boyfriend was convicted of assaulting her 
+(as adjective convicted) : a convicted murderer. 
+▶noun 
+ˈkänˌvikt 
+a person found guilty of a criminal offense and serving a sentence of imprisonment. ORIGIN Middle English: from Latin convict- ‘demonstrated, refuted, convicted,’ from the verb convincere (see convince). The noun is from obsolete convict ‘convicted.’

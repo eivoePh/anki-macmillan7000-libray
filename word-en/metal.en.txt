@@ -1,7 +1,13 @@
 metal 
-BrE ˈmɛt(ə)l, AmE ˈmɛdl 
-A. nounCountable and uncountable金属 jīnshǔ 
-B.  adjective 金属制的 jīnshǔ zhì de 
-C.  transitive verb(present participle etc. -ll- BrE, -l- AmE ) 
-① (cover with metal) 用金属包 yòng jīnshǔ bāo ‹plate, surface›
-② (make, mend) 用碎石修筑 yòng suìshí xiūzhù ‹road›
+ˈmedl
+
+▶noun
+1 a solid material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity (e.g., iron, gold, silver, copper, and aluminum, and alloys such as brass and steel): vessels made of ceramics or metal 
+being a metal, aluminum readily conducts heat. 
+• Heraldry gold and silver (as tinctures in blazoning).
+2 British (also road metal) broken stone for use in making roads.
+3 molten glass before it is blown or cast.
+4 heavy metal or similar rock music. 
+▶verb (metals, metaling, metaled; chiefly British metals, metalling, metalled) [with object] (usually as adjective metaled)
+1 make out of or coat with metal: metaled key rings.
+2 British make or mend (a road) with road metal: follow the metalled road for about 200 yards. ORIGIN Middle English: from Old French metal or Latin metallum, from Greek metallon ‘mine, quarry, or metal.’

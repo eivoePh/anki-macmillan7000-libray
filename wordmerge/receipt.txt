@@ -7,7 +7,13 @@ A.  noun
 B.  receipts noun plural (income) 进款 jìnkuǎn net/gross receipts 净/总收入 
 C.  transitive verb «shop, person» 在…上注明收讫 zài… shang zhùmíng shōuqì ‹bill›
 receipt 
+rəˈsēt
+
 ▶noun
-1 the receipt of a letter: receiving, getting, obtaining, gaining; arrival, delivery.
-2 make sure you get a receipt: proof of purchase, bill, bill of sale, invoice, sales ticket.
-3 receipts from house sales: proceeds, takings, money/payment received, income, revenue, earnings; profits, return(s), financial return(s), take.
+1 the action of receiving something or the fact of its being received: I would be grateful if you would acknowledge receipt of this letter 
+this office is already in receipt of your midterm grades. 
+• a written or printed statement acknowledging that something has been paid for or that goods have been received. 
+• (receipts) an amount of money received during a particular period by an organization or business: box-office receipts.
+2 archaic a recipe. 
+▶verb [with object] (usually as adjective receipted) mark (a bill) as paid: the receipted hotel bill. 
+• write a receipt for (goods or money): all fish shall be receipted at time of purchase. ORIGIN late Middle English: from Anglo-Norman French receite, from medieval Latin recepta ‘received,’ feminine past participle of Latin recipere. The -p- was inserted in imitation of the Latin spelling.

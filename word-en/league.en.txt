@@ -1,8 +1,14 @@
-league 
+league
+1 
+lēɡ
+
 ▶noun
-1 a league of nations: alliance, confederation, confederacy, federation, union, association, coalition, consortium, affiliation, guild, cooperative, partnership, fellowship, syndicate.
-2 the best team in the league: big league(s), major league(s), minor league(s), American League, National League, intramural league, Little League, bush league.
-3 the store is not in the same league: class, group, circle, category, level.
-▶verb they leagued together with other companies: ally, join forces, join together, unite, band together, affiliate, combine, amalgamate, confederate, team up, join up.
+1 a collection of people, countries, or groups that combine for a particular purpose, typically mutual protection or cooperation: the League of Nations. 
+• an agreement to combine for a particular purpose.
+2 a group of sports clubs that play each other over a period for a championship. 
+• the contest for the championship of a league: the year we won the league.
+3 a class or category of quality or excellence: the two men were not in the same league 
+Jack's in a league of his own. 
+▶verb (leagues, leaguing, leagued) [no object] join in a league or alliance: Oscar had leagued with other construction firms. 
 PHRASES
-in league with in league with the drug cartel: collaborating with, cooperating with, in alliance with, allied with, conspiring with, hand in glove with; informal in cahoots with, in bed with.
+in league conspiring with another or others: he is in league with the devil.ORIGIN late Middle English (denoting a compact for mutual protection or advantage): via French from Italian lega, from legare ‘to bind,’ from Latin ligare .

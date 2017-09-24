@@ -18,20 +18,30 @@ D.  not that conjunction phrase
 ① (excluding a reason, not as far as) 倒不是 dào bùshi it's not that he hasn't been friendly 倒不是说他不友好 is anyone else coming? — not that I know of 还有谁来吗？──这我倒不知道 
 ② (not suggesting sth.) 并不是说 bìng bùshi shuō she hasn't written, not that she said she would 她还没有写信来，这并不是说她说过她会写 
 not 
-BrE nɒt, AmE nɑt 
-A. adverb 
-① (negating verb, word, phrase) 不 bù he told me not to come 他叫我不要来 they didn't like it 他们不喜欢它 please don't go 请别走 has he not/hasn't he seen it? 他没有见过它吗？ not always 并不总是 
-② (contrasting) 而不是 ér bùshi they live in caves, not in houses 他们住在洞穴里，而不是在房子里 he's not so much aggressive as assertive 他与其说是好斗，还不如说是很自信 
-③ (in contrasts) 不只是 bù zhǐshì not only or just or simply or merely … but (also) …; 不仅…而且… not merely in Africa, but everywhere 不仅在非洲，而且在任何地方 not all the poems are serious 并非所有的诗都是严肃的 
-④ (in tag questions) it's cold, isn't it? 天很冷，是吧？ tiān hěn lěng ， shì ba ？ 
-⑤ (replacing word, clause, sentence, etc.) 没有 méiyou I'm afraid not 恐怕没有 I hope not 我希望不是 why not? 为什么不？ if not 如果不的话 certainly/probably not 当然不/也许不 whether it rains or not 不管下不下雨 I believe or think not formal 我不这么认为 
-⑥ (less than) 不到 bùdào not three miles/hours from here 距离这里不到3英里/3小时路程 not five minutes ago 不到5分钟以前 
-⑦ (none at all) 根本没有 gēnběn méiyou not a or one … 一个…也没有 not a sound was heard 一点声音都听不到 not one or a single person knew 没有一个人知道 
-⑧ (in suggestions) why not do it now? 为什么不现在做呢？ wèishénme bù xiànzài zuò ne ？ hadn't we better go? 我们该走了吧？ wǒmen gāi zǒule ba ？ couldn't we tell them later? 我们不能晚些告诉他们吗？ 
-B.  not at all adverb phrase 
-① (in no way) 一点也不 yīdiǎn yě bù I was not at all surprised by his reaction 我对他的反应一点也不觉得吃惊 
-② (accepting thanks, agreeing) 没关系 méi guānxi thanks a lot — not at all 多谢了──不客气 will it bother you if I smoke? — not at all! 我抽烟你介意吗？──没关系！ 
-C.  not but what adverb phrase archaic 然而 rán'ér not but what the picture has its darker side 不过美丽的东西也有黑暗的一面 
-D.  not that conjunction phrase 
-① (excluding a reason, not as far as) 倒不是 dào bùshi it's not that he hasn't been friendly 倒不是说他不友好 is anyone else coming? — not that I know of 还有谁来吗？──这我倒不知道 
-② (not suggesting sth.) 并不是说 bìng bùshi shuō she hasn't written, not that she said she would 她还没有写信来，这并不是说她说过她会写 
+nät
+
+▶adverb
+1 (also n't joined to a preceding verb) used with an auxiliary verb or “be” to form the negative: he would not say 
+she isn't there 
+didn't you tell me? 
+• used in some constructions with other verbs: [with infinitive] : he has been warned not to touch 
+the pain of not knowing 
+she not only wrote the text but also researched the photographs.
+2 used as a short substitute for a negative clause: maybe I'll regret it, but I hope not 
+“Don't you keep in touch?” “I'm afraid not.” 
+they wouldn't know if I was telling the truth or not.
+3 used to express the negative of other words: not a single attempt was made 
+treating the symptoms and not the cause 
+“How was it?” “Not so bad.” 
+• used with a quantifier to exclude a person or part of a group: not all the poems are serious. 
+• less than (used to indicate a surprisingly small quantity): the brakes went on not ten feet from him.
+4 used in understatements to suggest that the opposite of a following word or phrase is true: the not too distant future 
+not a million miles away. 
+• informal, humorous following and emphatically negating a statement: that sounds like quality entertainment—not. [late 19th century: a usage popularized by the film Wayne's World (1992).] 
+▶noun (often NOT) Electronics a Boolean operator with only one variable that has the value one when the variable is zero and vice versa. 
+• (also not gate) a circuit that produces an output signal only when there is not a signal on its input. 
+▶adjective (often Not) Art (of paper) not hot-pressed, and having a slightly textured surface. 
+PHRASES
+not at all
+1 used as a polite response to thanks.
+2 definitely not: “You don't mind?” “Not at all.” not but what archaic nevertheless: not but what the picture has its darker side. not half see half. not least see least. not quite see quite. not that it is not to be inferred that: I'll never be allowed back—not that I'd want to go back. not a thing nothing at all. not very see very. ORIGIN Middle English: contraction of the adverb nought .

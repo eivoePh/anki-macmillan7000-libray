@@ -8,11 +8,21 @@ adjective
 ⑤ (unintelligent) 智力低的 zhìlì dī de ‹person›
 ⑥ (plain) 显而易见的 xiǎn ér yì jiàn de ‹truth, fact, difference›
 simple 
-▶adjective
-1 it's really simple: straightforward, easy, uncomplicated, uninvolved, effortless, painless, undemanding, elementary, child's play; informal as easy as pie, as easy as ABC, a piece of cake, a cinch, no sweat, a pushover, kids' stuff, a breeze, duck soup, a snap. ANTONYMS difficult, hard, complicated.
-2 simple language: clear, plain, straightforward, intelligible, comprehensible, uncomplicated, accessible; informal user-friendly. ANTONYMS complex.
-3 a simple white blouse: plain, unadorned, undecorated, unembellished, unornamented, unelaborate, basic, unsophisticated, no-frills; classic, understated, uncluttered, restrained, unshowy, unflashy. ANTONYMS fancy, elaborate.
-4 the simple truth: candid, frank, honest, sincere, plain, absolute, unqualified, bald, stark, unadorned, unvarnished, unembellished.
-5 simple country people: unpretentious, unsophisticated, ordinary, unaffected, unassuming, natural, honest-to-goodness, cracker-barrel; informal country-fried. ANTONYMS pretentious, affected.
-6 he's a bit simple: having learning difficulties, having special (educational) needs; of low intelligence, simpleminded, unintelligent, backward, (mentally) retarded. ANTONYMS gifted.
-7 simple chemical substances: noncompound, noncomplex, uncombined, unblended, unalloyed, pure, single. ANTONYMS compound.
+ˈsimpəl
+
+▶adjective (simpler, simplest)
+1 easily understood or done; presenting no difficulty: a simple solution 
+camcorders are now so simple to operate. 
+• plain, basic, or uncomplicated in form, nature, or design; without much decoration or ornamentation: a simple white blouse 
+the house is furnished in a simple country style. 
+• [attributive] used to emphasize the fundamental and straightforward nature of something: the simple truth.
+2 composed of a single element; not compound. 
+• Mathematics denoting a group that has no proper normal subgroup. 
+• Botany (of a leaf or stem) not divided or branched. 
+• (of a lens, microscope, etc.) consisting of a single lens or component. 
+• (in English grammar) denoting a tense formed without an auxiliary, e.g., sang as opposed to was singing. 
+• (of interest) payable on the sum loaned only. Compare with compound1.
+3 of or characteristic of low rank or status; humble and unpretentious: a simple Buddhist monk.
+4 of low or abnormally low intelligence. 
+▶noun chiefly historical a medicinal herb, or a medicine made from one: the gatherers of simples. 
+▶exclam. used to convey that something is very straightforward: I don't overanalyze. I listen, I like, I buy. Simple! DERIVATIVES simpleness nounORIGIN Middle English: from Old French, from Latin simplus. The noun sense (mid 16th century) originally referred to a medicine made from one constituent, especially from one plant.

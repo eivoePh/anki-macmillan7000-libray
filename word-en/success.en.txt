@@ -1,6 +1,7 @@
 success 
-▶noun
-1 the success of the scheme: favorable outcome, successfulness, successful result, triumph; Hollywood ending. ANTONYMS failure.
-2 the trappings of success: prosperity, affluence, wealth, riches, opulence. ANTONYMS poverty.
-3 a box-office success: triumph, bestseller, blockbuster, sellout; informal (smash) hit, megahit, winner. ANTONYMS failure, flop.
-4 an overnight success: star, superstar, celebrity, big name, household name; informal celeb, megastar. ANTONYMS nobody.
+səkˈses
+
+▶noun the accomplishment of an aim or purpose: the president had some success in restoring confidence. 
+• the attainment of popularity or profit: the success of his play. 
+• a person or thing that achieves desired aims or attains prosperity: I must make a success of my business. 
+• archaic the outcome of an undertaking, specified as achieving or failing to achieve its aims: the good or ill success of their maritime enterprises. ORIGIN mid 16th century: from Latin successus, from the verb succedere ‘come close after’ (see succeed) .

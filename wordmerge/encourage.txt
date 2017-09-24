@@ -5,7 +5,11 @@ transitive verb
 ② (incite) 怂恿 sǒngyǒng don't encourage bad habits in a child 别助长小孩养成不良习惯 
 ③ (foster) 促使 cùshǐ regular watering encourages healthy roots to develop; 定时浇水有助长出健壮的根 
 encourage 
-▶verb
-1 the players were encouraged by the crowd's response: hearten, cheer, buoy up, uplift, inspire, motivate, spur on, stir, stir up, fire up, stimulate, invigorate, vitalize, revitalize, embolden, fortify, rally; informal buck up, pep up, give a shot in the arm to. ANTONYMS discourage.
-2 she had encouraged him to go: persuade, coax, urge, press, push, pressure, pressurize, prod, goad, egg on, prompt, influence, sway; informal put ideas into one's head. ANTONYMS dissuade.
-3 the municipal government must encourage local businesses: support, back, champion, promote, further, foster, nurture, cultivate, strengthen, stimulate; help, assist, aid, boost, fuel. ANTONYMS hinder.
+inˈkərij
+
+▶verb [with object] give support, confidence, or hope to (someone): we were encouraged by the success of this venture 
+(as adjective encouraged) : I feel much encouraged. 
+• give support and advice to (someone) so that they will do or continue to do something: [with object and infinitive] : pupils are encouraged to be creative. 
+• help or stimulate (an activity, state, or view) to develop: the intention is to encourage new writing talent. DERIVATIVES encourager 
+inˈkərijər 
+nounORIGIN Middle English (formerly also as incourage): from French encourager, from en- ‘in’ + corage ‘courage.’

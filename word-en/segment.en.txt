@@ -1,5 +1,20 @@
 segment 
-▶noun
-1 orange segments: piece, bit, section, part, chunk, portion, division, slice; fragment, wedge, lump.
-2 all segments of society: part, section, sector, division, portion, constituent, element, unit, compartment; branch, wing.
-▶verb they plan to segment their market share: divide (up), subdivide, separate, split, cut up, carve up, slice up, break up; segregate, divorce, partition, section. ANTONYMS amalgamate.CHOOSE THE RIGHT WORD See fragment .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+▶noun 
+ˈseɡmənt 
+
+1 each of the parts into which something is or may be divided. 
+• a portion of time allocated to a particular broadcast item on radio or television. 
+• a separate broadcast item, typically one of a number that make up a particular program. 
+• Phonetics the smallest distinct part of a spoken utterance, in particular the vowels and consonants as opposed to stress and intonation. 
+• Zoology each of the series of similar anatomical units of which the body and appendages of some animals are composed, such as the visible rings of an earthworm's body.
+2 Geometry a part of a figure cut off by a line or plane intersecting it, in particular: 
+• the part of a circle enclosed between an arc and a chord. 
+• the part of a line included between two points. 
+• the part of a sphere cut off by any plane not passing through the center. 
+▶verb 
+ˈseɡmənt seɡˈment 
+[with object] divide (something) into separate parts or sections: the unemployed are segmented into two groups. 
+• [no object] divide into separate parts or sections: the market is beginning to segment into a number of well-defined categories. 
+• [no object] Embryology (of a cell) undergo cleavage; divide into many cells. DERIVATIVES segmentary 
+-ˌterē 
+adjectiveORIGIN late 16th century (as a term in geometry): from Latin segmentum, from secare ‘to cut.’ The verb dates from the mid 19th century.

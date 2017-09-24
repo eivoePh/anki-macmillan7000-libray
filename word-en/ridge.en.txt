@@ -1,8 +1,13 @@
 ridge 
-BrE rɪdʒ, AmE rɪdʒ 
-A. noun 
-① (on roof) 屋脊 wūjǐ 
-② (on mountain, hillside) 山脊 shānjǐ 
-③ Meteorology 高压脊 gāoyājǐ ridge of high pressure 高压脊 gāoyājǐ 
-④ (raised band) 隆起 lóngqǐ 
-B.  transitive verb 使隆起 shǐ lóngqǐ a ridged surface 隆起的表面 
+rij
+
+▶noun a long narrow hilltop, mountain range, or watershed: the northeast ridge of Everest. 
+• the line or edge formed where the two sloping sides of a roof meet at the top. 
+• Meteorology an elongated region of high atmospheric pressure. 
+• a narrow raised band running along or across a surface: buff your nails in order to smooth ridges. 
+• a raised strip of arable land, especially (in medieval open fields) one of a set separated by furrows. 
+▶verb [with object] (often as adjective ridged) mark with or form into narrow raised bands: the ridged sand of the beach. 
+• [no object] (of a surface) form into or rise up as a narrow raised band: the crust of the earth ridged. 
+• form (arable land) into raised strips separated by furrows: a field plowed in narrow stretches that are ridged up slightly. DERIVATIVES ridgy 
+ˈrijē 
+adjectiveORIGIN Old English hrycg ‘spine, crest,’ of Germanic origin; related to Dutch rug and German Rücken ‘back.’

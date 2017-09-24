@@ -8,8 +8,14 @@ noun
 ⑤ (means) (person) 促成某事的人 cùchéng mǒu shì de rén (thing) 促成某事的手段 cùchéng mǒu shì de shǒuduàn the instrument of change 促成变革的措施 the instrument for doing [something] 做某事的手段 
 ⑥ (formal document) 文书 wénshū 
 instrument 
+ˈinstrəmənt
+
 ▶noun
-1 a wound made with a sharp instrument: implement, tool, utensil; device, apparatus, contrivance, gadget.
-2 check all the cockpit instruments: measuring device, gauge, meter; indicator, dial, display; avionics.
-3 drama can be an instrument of learning: agent, agency, cause, channel, medium, means, mechanism, vehicle, organ.
-4 he is a mere instrument: pawn, puppet, creature, dupe, cog; tool, cat's paw; informal stooge.CHOOSE THE RIGHT WORD See tool .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 a tool or implement, especially one for delicate or scientific work: a surgical instrument 
+writing instruments. 
+• a thing used in pursuing an aim or policy; a means: drama as an instrument of learning. 
+• a person who is exploited or made use of: he was a mere instrument acting under coercion.
+2 a measuring device used to gauge the level, position, speed, etc., of something, especially a motor vehicle or aircraft.
+3 (also musical instrument) an object or device for producing musical sounds: a percussion instrument.
+4 a formal document, especially a legal one: execution involves signature and unconditional delivery of the instrument. 
+▶verb [with object] equip (something) with measuring instruments. ORIGIN Middle English: from Old French, or from Latin instrumentum ‘equipment, implement,’ from the verb instruere ‘construct, equip.’

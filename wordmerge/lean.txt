@@ -1,5 +1,4 @@
 lean
-1 
 BrE liːn, AmE lin 
 
 A.  adjective 
@@ -9,9 +8,15 @@ A.  adjective
 B.  nounUncountable瘦肉 shòuròu 
 lean
 1 
-▶verb
-1 Polly leaned against the door: rest on/against, recline on/against, be supported by.
-2 trees leaning in the wind: slant, incline, bend, tilt, be at an angle, slope, tip, list.
-3 he leans toward existentialist philosophy: tend toward, incline toward, gravitate toward; have a preference for, have a penchant for, be partial to, have a liking for, have an affinity with.
-4 a strong shoulder to lean on : depend on, be dependent on, rely on, count on, bank on, have faith in, trust (in).
-5 informal he leaned on me to change my mind: intimidate, coerce, browbeat, bully, threaten, put pressure on, harass, hassle; informal twist someone's arm, put the screws on, hold a gun to someone's head.
+lēn
+
+▶verb (past and past participle leaned 
+lēnd 
+or chiefly British leant 
+lent
+) [no object] be in or move into a sloping position: he leaned back in his chair. 
+• (lean against/on) incline from the perpendicular and rest for support on or against (something): a man was leaning against the wall. 
+• [with object] (lean something against/on) cause something to rest on or against: he leaned his elbows on the table. 
+▶noun a deviation from the perpendicular; an inclination: the vehicle has a definite lean to the left. PHRASAL VERBS lean on
+1 rely on or derive support from: they have learned to lean on each other for support.
+2 put pressure on (someone) to act in a certain way: a determination not to allow the majority to lean on the minority. lean to/toward incline or be partial to (a view or position): I now lean toward sabotage as the cause of the crash.ORIGIN Old English hleonian, hlinian, of Germanic origin; related to Dutch leunen and German lehnen, from an Indo-European root shared by Latin inclinare and Greek klinein .

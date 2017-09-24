@@ -9,11 +9,19 @@ transitive verb
 ⑥ (tolerate) 容忍 róngrěn ‹behaviour›
 ⑦ (take upon oneself) 承担 chéngdān ‹blame›
 accept 
-▶verb
-1 she accepted a pen as a present: receive, take, get, gain, obtain, acquire. ANTONYMS refuse, reject.
-2 he accepted the job immediately: take on, undertake, assume, take responsibility for. ANTONYMS turn down, refuse.
-3 she accepted an invitation to lunch: say yes to, agree to. ANTONYMS turn down, refuse.
-4 she was accepted as one of the family: welcome, greet, receive, receive favorably, embrace, adopt. ANTONYMS reject.
-5 he accepted Ellen's explanation: believe, regard as true, give credence to, credit, trust; informal buy, swallow. ANTONYMS reject, doubt.
-6 we have agreed to accept his decision: go along with, agree to, consent to, acquiesce in, concur with, assent to, acknowledge, comply with, abide by, follow, adhere to, act in accordance with, defer to, yield to, surrender to, bow to, give in to, submit to, respect; formal accede to. ANTONYMS defy, go against.
-7 she will just have to accept the consequences: tolerate, endure, put up with, bear, take, submit to, stomach, swallow; reconcile oneself to, resign oneself to, get used to, adjust to, learn to live with, make the best of; face up to.
+əkˈsept
+
+▶verb [with object]
+1 consent to receive (a thing offered): he accepted a pen as a present. 
+• give an affirmative answer to (an offer or proposal); say yes to: he would accept their offer and see what happened 
+[no object] : Tim offered Brian a lift home and he accepted. 
+• dated say yes to a proposal of marriage from (a man): Ronald is a good match and she ought to accept him. 
+• receive as adequate, valid, or suitable: the college accepted her as a student 
+credit cards are widely accepted. 
+• regard favorably or with approval; welcome: the Harvard literati never accepted him as one of them. 
+• (of a thing) be designed to allow (something) to be inserted or applied: vending machines that accepted 100-yen coins for cans of beer.
+2 believe or come to recognize (an opinion, explanation, etc.) as valid or correct: this tentative explanation came to be accepted by the group 
+[with clause] : it is accepted that aging is a continuous process. 
+• take upon oneself (a responsibility or liability); acknowledge: Jenkins is willing to accept his responsibility 
+[with clause] : he accepts that he made a mistake. 
+• tolerate or submit to (something unpleasant or undesired): they accepted the need to cut expenses. ORIGIN late Middle English: from Latin acceptare, frequentative of accipere ‘take something to oneself,’ from ad- ‘to’ + capere ‘take.’ usage: Accept, which means ‘take (that which is offered),’ may be confused with the verb except, which means ‘exclude.’ Thus: I accept the terms of your offer, but I wish to except the clause calling for repayment of the deposit.

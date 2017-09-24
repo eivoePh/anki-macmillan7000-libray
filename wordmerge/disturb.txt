@@ -7,8 +7,11 @@ A.  transitive verb
 ③ (disarrange) 弄乱 nòngluàn ‹papers, bedclothes›; 搅乱 jiǎoluàn ‹water, sediment›something had disturbed the surface of the lake 有什么东西打破了湖面的平静 
 B.  reflexive verb to disturb oneself; 给自己带来麻烦 gěi zìjǐ dàilai máfan don't disturb yourself on my account 别为我麻烦了 bié wèi wǒ máfan le 
 disturb 
-▶verb
-1 let's go somewhere where we won't be disturbed: interrupt, intrude on, butt in on, barge in on; distract, disrupt, bother, trouble, pester, harass; informal hassle.
-2 don't disturb his papers: disarrange, muddle, rearrange, disorganize, disorder, mix up, interfere with, throw into disorder/confusion, turn upside down.
-3 waters disturbed by winds: agitate, churn up, stir up; literary roil.
-4 he wasn't disturbed by the allegations: perturb, trouble, concern, worry, upset; agitate, fluster, discomfit, disconcert, dismay, distress, discompose, unsettle, ruffle.
+dəˈstərb
+
+▶verb [with object] interfere with the normal arrangement or functioning of: being sent to jail had apparently not disturbed his cheerfulness 
+the site surface had been disturbed by bulldozer activity. 
+• cause to feel anxious: I am disturbed by the document I have just read. 
+• interrupt the sleep, relaxation, or privacy of: I'll see my patient now and we are not to be disturbed. DERIVATIVES disturber 
+dəˈstərbər 
+nounORIGIN Middle English: from Old French destourber, from Latin disturbare, from dis- ‘utterly’ + turbare ‘disturb’ (from turba ‘tumult’).

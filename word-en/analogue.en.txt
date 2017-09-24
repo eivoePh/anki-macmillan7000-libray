@@ -1,3 +1,7 @@
-analogue 
-BrE ˈanəlɒɡ, AmE ˈænlˌɔɡ/ BrE A. adjective 模拟的 mónǐ de ‹data, signal›
-B.  noun (thing) 类似物 lèisìwù ; (person) 类似的人 lèisì de rén 
+analog 
+ˈanlˌôɡ 
+(also analogue) 
+▶adjective relating to or using signals or information represented by a continuously variable physical quantity such as spatial position or voltage. Often contrasted with digital ( sense 1). 
+• (of a clock or watch) showing the time by means of hands rather than displayed digits. 
+▶noun a person or thing seen as comparable to another: the idea that the fertilized egg contains a miniature analog of every adult structure. 
+• Chemistry a compound with a molecular structure closely similar to that of another. ORIGIN early 19th century: from French, from Greek analogon, neuter of analogos ‘proportionate.’

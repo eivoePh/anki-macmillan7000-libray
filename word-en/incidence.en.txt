@@ -1,2 +1,8 @@
 incidence 
-▶noun an increased incidence of heart disease: occurrence, prevalence; rate, frequency; amount, degree, extent.
+ˈinsədəns
+
+▶noun
+1 the occurrence, rate, or frequency of a disease, crime, or something else undesirable: an increased incidence of cancer. 
+• the way in which the burden of a tax falls upon the population: the entire incidence falls on the workers.
+2 Physics the intersection of a line, or something moving in a straight line, such as a beam of light, with a surface. See also angle of incidence. ORIGIN late Middle English (denoting a casual or subordinate event or circumstance): from Old French, or from medieval Latin incidentia, from Latin incidere ‘fall upon, happen to’ (see incident). Sense
+1 dates from the early 19th century. usage: Incidence and incidents sound the same, but incidence is more often used in technical contexts, referring to the frequency with which something occurs: increased ultraviolet light is likely to cause increased incidence of skin cancer. Incidents is simply the plural of incident, an event: the police are supposed to investigate any incidents of domestic violence. The form incidences should be avoided.

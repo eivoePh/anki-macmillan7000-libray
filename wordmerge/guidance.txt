@@ -4,6 +4,8 @@ nounUncountable
 ① (advice) 指导 zhǐdǎo (leadership) 领导 lǐngdǎo (direction) 引导 yǐndǎo guidance as to how to do [something]/how [something] should be done; 关于如何做某事的指导 guidance from [somebody]; 来自某人的指导 to be under [somebody's] guidance; 受某人的指导 to give ([somebody]) guidance; 指导（某人） 
 ② (of missile, aircraft) 制导 zhìdǎo a laser guidance system 激光制导系统 
 guidance 
+ˈɡīdəns
+
 ▶noun
-1 she looked to her father for guidance: advice, counsel, direction, instruction, enlightenment, information; recommendations, suggestions, tips, hints, pointers, guidelines.
-2 work continued under the guidance of a project supervisor: direction, control, leadership, management, supervision, superintendence, charge; handling, conduct, running, overseeing.
+1 advice or information aimed at resolving a problem or difficulty, especially as given by someone in authority: he looked to his father for inspiration and guidance.
+2 the directing of the motion or position of something, especially a missile: a surface-to-air missile guidance system.

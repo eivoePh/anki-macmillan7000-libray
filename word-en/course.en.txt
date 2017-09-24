@@ -1,11 +1,30 @@
 course 
+kôrs
+
 ▶noun
-1 the island was not far off our course: route, way, track, direction, tack, path, line, trail, trajectory, bearing, heading, orbit.
-2 the course of history: progression, development, progress, advance, evolution, flow, movement, sequence, order, succession, rise, march, passage, passing.
-3 what is the best course to adopt? procedure, plan, plan of action, course of action, line of action, MO, modus operandi, practice, approach, technique, way, means, policy, strategy, program; formal praxis.
-4 a waterlogged course: racecourse, raceway, racetrack, track, ground.
-5 I'm taking a French course: class, course of study, program of study, curriculum, syllabus; classes, lectures, studies.
-6 a course of antibiotics: program, series, sequence, system, schedule, regimen.
-▶verb tears coursed down her cheeks: flow, pour, stream, run, rush, gush, cascade, flood, roll.
+1 [in singular] the route or direction followed by a ship, aircraft, road, or river: the road adopts a tortuous course along the coast 
+the new fleet changed course to join the other ships. 
+• the way in which something progresses or develops: the course of history. 
+• a procedure adopted to deal with a situation. 
+• an area of land set aside and prepared for racing, golf, or another sport.
+2 a dish, or a set of dishes served together, forming one of the successive parts of a meal: guests are offered a choice of main course 
+[in combination] : a four-course meal.
+3 a series of lectures or lessons in a particular subject, typically leading to a qualification: a business studies course. 
+• Medicine a series of repeated treatments or doses of medication: the doctor prescribed a course of antibiotics.
+4 Architecture a continuous horizontal layer of brick, stone, or other material in a building.
+5 a pursuit of game (especially hares) with greyhounds by sight rather than scent.
+6 the lowest sail on a square-rigged mast.
+7 a set of adjacent strings on a guitar, lute, etc., tuned to the same note. 
+▶verb
+1 [no object] (of liquid) move without obstruction; flow: tears were coursing down her cheeks 
+figurative : exultation coursed through him.
+2 [with object] pursue (game, especially hares) with greyhounds using sight rather than scent: many of the hares coursed escaped unharmed 
+[no object] : she would course for hares with her greyhounds. 
 PHRASES
-in due course I look forward to hearing from you in due course: at the appropriate time, when the time is ripe, in time, in the fullness of time, in the course of time, at a later date, by and by, sooner or later, in the end, eventually. of course there are, of course, exceptions to the rule: naturally, as might be expected, as you/one would expect, needless to say, certainly, to be sure, as a matter of course, obviously, it goes without saying; informal natch.
+course of action a procedure adopted to deal with a situation: the wisest course of action is to tackle the problem at its source. the course of nature events or processes that are normal and to be expected: each man would, in the course of nature, have his private opinions. in the course of —
+1 undergoing the specified process: a new text book was in the course of preparation.
+2 during the specified period: he was a friend to many people in the course of his life. 
+• during and as a part of the specified activity: they became friends in the course of their long walks. in the course of time as time goes by. in due course see due. a matter of course see matter. of course used to introduce an idea or turn of events as being obvious or to be expected: the point is, of course, that the puzzle itself is misleading. 
+• used to give or emphasize agreement or permission: “Can I see you for a minute?” “Of course.” 
+• introducing a qualification or admission: of course we've been in touch by phone, but I wanted to see things for myself. off course not following the intended route: the car went careering off course. on course following the intended route: he battled to keep the ship on course 
+figurative : we need to spend money to get the economy back on course. run (or take) its course complete its natural development without interference: his illness had to run its course.ORIGIN Middle English: from Old French cours, from Latin cursus, from curs- ‘run,’ from the verb currere .

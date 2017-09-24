@@ -1,5 +1,18 @@
 argument 
+ˈärɡyəmənt
+
 ▶noun
-1 he had an argument with Tony: quarrel, disagreement, squabble, fight, dispute, wrangle, clash, altercation, feud, contretemps, disputation, falling-out; informal tiff, row, blowup, rhubarb; vulgar slang shitstorm.
-2 arguments for the existence of God: reasoning, justification, explanation, rationalization; case, defense, vindication; evidence, reasons, grounds; counterargument.
-3 the argument of the book: theme, topic, subject matter; summary, synopsis, précis, gist, outline.QUOTE The only person who listens to both sides of a husband and wife argument is the woman in the next apartment.Sam Levenson, American humorist
+1 an exchange of diverging or opposite views, typically a heated or angry one: I've had an argument with my father 
+heated arguments over public spending 
+there was some argument about the decision.
+2 a reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong: there is a strong argument for submitting a formal appeal 
+[with clause] : he rejected the argument that keeping the facility would be costly.
+3 Mathematics an independent variable associated with a function and determining the value of the function. For example, in the expression y = F (x 1, x 2), the arguments of the function F are x
+1 and x 2, and the value is y. 
+• another term for amplitude ( sense 4). 
+• Computing a value or address passed to a procedure or function at the time of call. 
+• Linguistics any of the noun phrases in a clause that are related directly to the verb, typically the subject, direct object, and indirect object. 
+• Logic the middle term in a syllogism.
+4 archaic a summary of the subject matter of a book. 
+PHRASES
+for the sake of argument as a basis for discussion or reasoning.ORIGIN Middle English (in the sense ‘process of reasoning’): via Old French from Latin argumentum, from arguere ‘make clear, prove, accuse.’

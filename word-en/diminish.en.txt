@@ -1,5 +1,10 @@
 diminish 
-▶verb
-1 the pain will gradually diminish: decrease, lessen, decline, reduce, subside, die down, abate, dwindle, fade, slacken off, moderate, let up, ebb, wane, recede, die away/out, peter out; archaic remit. ANTONYMS increase.
-2 new legislation diminished the courts' authority: reduce, decrease, lessen, curtail, cut, cut down/back, constrict, restrict, limit, curb, check; weaken, blunt, erode, undermine, sap. ANTONYMS increase.
-3 she lost no opportunity to diminish him: belittle, disparage, denigrate, defame, deprecate, run down; decry, demean, cheapen, devalue; formal derogate. ANTONYMS boost.
+dəˈminiSH
+
+▶verb make or become less: [with object] : a tax whose purpose is to diminish spending 
+[no object] : the pain will gradually diminish. 
+• [with object] make (someone or something) seem less impressive or valuable: the trial has aged and diminished him. 
+PHRASES
+(the law of) diminishing returns used to refer to a point at which the level of profits or benefits gained is less than the amount of money or energy invested.DERIVATIVES diminishable 
+dəˈminəSHəb(ə)l 
+adjectiveORIGIN late Middle English: blend of archaic minish ‘diminish’ (based on Latin minutia ‘smallness’) and obsolete diminue ‘speak disparagingly’ (based on Latin deminuere ‘lessen’ (in late Latin diminuere), from minuere ‘make small’).

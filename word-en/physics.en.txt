@@ -1,5 +1,5 @@
 physics 
-BrE ˈfɪzɪks, AmE ˈfɪzɪks 
-noun pluralplus singular verb 
-① (science) 物理学 wùlǐxué 
-② (physical properties) 物理特性 wùlǐ tèxìng 
+ˈfiziks
+
+▶pl. noun [treated as singular] the branch of science concerned with the nature and properties of matter and energy. The subject matter of physics, distinguished from that of chemistry and biology, includes mechanics, heat, light and other radiation, sound, electricity, magnetism, and the structure of atoms. 
+• the physical properties and phenomena of something: the physics of plasmas. ORIGIN late 15th century (denoting natural science in general, especially the Aristotelian system): plural of obsolete physic ‘physical (thing),’ suggested by Latin physica,Greek phusika ‘natural things,’ from phusis ‘nature.’

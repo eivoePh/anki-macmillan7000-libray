@@ -3,7 +3,10 @@ BrE ˈʌɪrəni, AmE ˈaɪrəni
 noun 
 ① Uncountable(for humorous or sarcastic effect) 反语 fǎnyǔ a touch or hint of irony 一丝嘲讽 
 ② Countable(incongruity) 具有讽刺意味的事 jùyǒu fěngcì yìwèi de shì the irony is that many people agree with her 讽刺的是，许多人同意她的看法 it's just one of life's little ironies 那只是生活的一个小小的嘲弄 
-irony 
-▶noun
-1 that note of irony in her voice: sarcasm, causticity, cynicism, mockery, satire, sardonicism. ANTONYMS sincerity.
-2 the irony of the situation: paradox, incongruity, incongruousness. ANTONYMS logic.
+irony
+1 
+ˈīrənē
+
+▶noun (plural ironies) the expression of one's meaning by using language that normally signifies the opposite, typically for humorous or emphatic effect: “Don't go overboard with the gratitude,” he rejoined with heavy irony. 
+• a state of affairs or an event that seems deliberately contrary to what one expects and is often amusing as a result: [with clause] : the irony is that I thought he could help me. 
+• (also dramatic or tragic irony) a literary technique, originally used in Greek tragedy, by which the full significance of a character's words or actions are clear to the audience or reader although unknown to the character. ORIGIN early 16th century (also denoting Socratic irony): via Latin from Greek eirōneia ‘simulated ignorance,’ from eirōn ‘dissembler.’

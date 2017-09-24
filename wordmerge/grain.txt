@@ -8,9 +8,31 @@ noun
 ⑤ Countablefigurative (of truth, hope, comfort) 少量 shǎoliàng without a grain of truth 没有一点真实性 
 ⑥ Uncountable(pattern) (in wood, stone, leather, paper, fabric) 纹理 wénlǐ to cut along the grain 顺着纹路切 to go against the grain (to do [something]) figurative 违反常理（做某事） it really goes against the grain to have to go to the office at weekends 周末还得上班真是不合常情 
 grain 
+ɡrān
+
 ▶noun
-1 the local farmers grow grain: cereal, cereal crops.
-2 a grain of wheat: kernel, seed, grist.
-3 grains of sand: granule, particle, speck, mote, mite; bit, piece; scrap, crumb, fragment, morsel.
-4 a grain of truth: trace, hint, tinge, suggestion, shadow; bit, soupçon; scintilla, ounce, iota, jot, whit, scrap, shred; informal smidgen, smidge, tad.
-5 the grain of the lumber: texture, surface, finish; weave, pattern.
+1 wheat or any other cultivated cereal crop used as food. 
+• the seeds of cultivated cereals: [as modifier] : grain exports.
+2 a single fruit or seed of a cereal: a few grains of corn. 
+• a small hard particle of a substance such as salt or sand: a grain of salt. 
+• the smallest possible quantity or amount of a quality: there wasn't a grain of truth in what he said. 
+• a discrete particle or crystal in a metal, igneous rock, etc., typically visible only when a surface is magnified. 
+• a piece of solid propellant for use in a rocket engine.
+3 (abbreviation gr.) the smallest unit of weight in the troy and avoirdupois systems, equal to 1/5760 of a pound troy and 1/7000 of a pound avoirdupois (approximately 0.0648 grams). [because originally the weight was equivalent to that of a grain of wheat.]
+4 the longitudinal arrangement or pattern of fibers in wood, paper, etc.: he scored along the grain of the table with the knife. 
+• roughness in texture of wood, stone, etc.; the arrangement and size of constituent particles: the lighter, finer grain of the wood is attractive. 
+• the rough or textured outer surface of leather, or of a similar artificial material. 
+• Mining lamination or planes of cleavage in materials such as stone and coal. 
+• Photography a granular appearance of a photograph or negative, which is in proportion to the size of the emulsion particles composing it.
+5 archaic a person's character or natural tendency.
+6 historical kermes or cochineal, or dye made from either of these. [the kermes was thought to consist of grains.] 
+▶verb [with object]
+1 (usually be grained) give a rough surface or texture to: her fingers were grained with chalk dust. 
+• [no object] form into grains: if the sugar does grain up, add more water.
+2 (usually as noun graining) paint (especially furniture or interior surfaces) in imitation of the grain of wood or marble: the art of graining and marbling.
+3 remove hair from (a hide): (as adjective grained) : the boots were of best grained leather.
+4 North American feed (a horse) on grain. 
+PHRASES
+against the grain contrary to the natural inclination or feeling of someone or something: it goes against the grain to tell outright lies. [from the fact that wood is easier to cut along the line of the grain.] in grain thorough, genuine, by nature, or downright; indelible. [from dyed in the grain.]DERIVATIVES grained 
+ɡrānd 
+adjective [usually in combination] : coarse-grained sandstone. grainer noun. grainless adjectiveORIGIN Middle English (originally in the sense ‘seed, grain of wheat’): from Old French grain, from Latin granum .

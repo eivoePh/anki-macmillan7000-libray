@@ -13,7 +13,12 @@ C.  adjectiveattributive
 D.  noun to make (a) mock of [something]/[somebody]; 拿某事物/某人开玩笑 ná mǒu shìwù/mǒu rén kāi wánxiào 
 E.  mocks noun plural BrE School colloquial 模拟考试 mónǐ kǎoshì PHRASAL VERB mock up transitive verb[mock something up], [mock up something] 仿制 fǎngzhì ‹vehicle, ship, engine›
 mock 
-▶verb
-1 they mocked her accent: ridicule, jeer at, sneer at, deride, scorn, make fun of, laugh at, scoff at, tease, taunt; informal josh, rag on, pull/jerk/yank someone's chain.
-2 they mocked the way he speaks: parody, ape, take off, satirize, lampoon, imitate, impersonate, mimic; informal send up.
-▶adjective mock leather: imitation, artificial, man-made, simulated, synthetic, ersatz, fake, reproduction, dummy, sham, false, faux, spurious, bogus, counterfeit, inauthentic, pseudo; informal pretend, phony. ANTONYMS genuine.CHOOSE THE RIGHT WORD See imitate .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+mäk
+
+▶verb [with object] tease or laugh at in a scornful or contemptuous manner: he mocks them as Washington insiders. 
+• make (something) seem laughably unreal or impossible: at Christmas, arguments and friction mock our pretense of peace. 
+• mimic (someone or something) scornfully or contemptuously. 
+▶adjective [attributive] not authentic or real, but without the intention to deceive: a mock-Georgian red brick house 
+Jim threw up his hands in mock horror. 
+• (of an examination, battle, etc.) arranged for training or practice, or performed as a demonstration: Dukakis will have a mock debate with Barnett. 
+▶noun dated an object of derision: he has become the mock of all his contemporaries. DERIVATIVES mockable adjectiveORIGIN late Middle English: from Old French mocquer ‘deride.’

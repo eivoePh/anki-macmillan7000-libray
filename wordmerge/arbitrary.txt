@@ -1,7 +1,11 @@
 arbitrary 
 BrE ˈɑːbɪt(rə)ri, AmE ˈɑrbəˌtrɛri 
-adjective 武断的 wǔduàn de our choice was purely arbitrary 我们的选择完全是随意的 
+adjective 武断的 wǔduàn de
+our choice was purely arbitrary
+我们的选择完全是随意的 
 arbitrary 
-▶adjective
-1 an arbitrary decision: capricious, whimsical, random, chance, unpredictable; casual, wanton, unmotivated, motiveless, unreasoned, unsupported, irrational, illogical, groundless, unjustified; personal, discretionary, subjective. ANTONYMS reasoned, rational.
-2 the arbitrary power of the prince: autocratic, dictatorial, autarchic, undemocratic, despotic, tyrannical, authoritarian, high-handed; absolute, uncontrolled, unlimited, unrestrained. ANTONYMS democratic.
+ˈärbəˌtrerē
+
+▶adjective based on random choice or personal whim, rather than any reason or system: his mealtimes were entirely arbitrary. 
+• (of power or a ruling body) unrestrained and autocratic in the use of authority: arbitrary rule by King and bishops has been made impossible. 
+• Mathematics (of a constant or other quantity) of unspecified value. ORIGIN late Middle English (in the sense ‘dependent on one's will or pleasure, discretionary’): from Latin arbitrarius, from arbiter ‘judge, supreme ruler,’ perhaps influenced by French arbitraire .

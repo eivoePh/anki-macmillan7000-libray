@@ -1,6 +1,8 @@
 cultivation 
-BrE kʌltɪˈveɪʃn, AmE ˌkəltəˈveɪʃ(ə)n 
-nounUncountable
-① Agriculture 耕种 gēngzhòng under cultivation 正在耕种的 to be out of cultivation; 处于休耕期 
-② (development) (of skill, quality) 培养 péiyǎng (of relationship) 建立 jiànlì 
-③ (refinement) 教养 jiàoyǎng a veneer of cultivation 彬彬有礼的伪装 
+ˌkəltəˈvāSH(ə)n
+
+▶noun
+1 the action of cultivating land, or the state of being cultivated: the cultivation of crops 
+the economy was based largely on rice cultivation.
+2 the process of trying to acquire or develop a quality or skill: the cultivation of good staff–management relations.
+3 refinement and good education: a man of cultivation and taste.

@@ -10,8 +10,17 @@ B.  transitive verb
 ① (worry) 使苦恼 shǐ kǔnǎo ; (upset) 使痛苦 shǐ tòngkǔ to distress oneself; 犯愁 
 ② (artificially age) 把…做旧 bǎ… zuòjiù ‹furniture, leather›
 distress 
+dəˈstres
+
 ▶noun
-1 she concealed her distress: anguish, suffering, pain, agony, torment, heartache, heartbreak; misery, wretchedness, sorrow, grief, woe, sadness, unhappiness, desolation, despair. ANTONYMS happiness.
-2 a ship in distress: danger, peril, difficulty, trouble, jeopardy, risk. ANTONYMS safety.
-3 the distress of the refugees: hardship, adversity, poverty, deprivation, privation, destitution, indigence, impoverishment, penury, need, dire straits. ANTONYMS prosperity.
-▶verb he was distressed by the trial: cause anguish to, cause suffering to, pain, upset, make miserable; trouble, worry, bother, perturb, disturb, disquiet, agitate, harrow, torment. ANTONYMS calm, please.
+1 extreme anxiety, sorrow, or pain: to his distress he saw that she was trembling. 
+• the state of a ship or aircraft when in danger or difficulty and needing help: vessels in distress on or near the coast. 
+• suffering caused by lack of money or the basic necessities of life: the poor were helped in their distress. 
+• Medicine a state of physical strain, exhaustion, or, in particular, breathing difficulty: they said the baby was in distress.
+2 Law another term for distraint. 
+▶verb [with object]
+1 cause (someone) anxiety, sorrow, or pain: I didn't mean to distress you 
+[with object and infinitive] : he was distressed to find that Anna would not talk to him.
+2 give (furniture, leather, or clothing) simulated marks of age and wear: the manner in which leather jackets are industrially distressed. DERIVATIVES distressful 
+dəˈstresf(ə)l 
+adjectiveORIGIN Middle English: from Old French destresce (noun), destrecier (verb), based on Latin distringere ‘stretch apart.’

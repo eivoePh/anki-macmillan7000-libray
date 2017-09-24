@@ -4,4 +4,9 @@ adjective
 ① (of a hypothesis) 假设的 jiǎshè de ‹question, argument, statement›this is purely hypothetical 这纯粹是假设的 a hypothetical planet 假想的星球 
 ② Philosophy 假言的 jiǎyán de ‹statement›a hypothetical syllogism 假言三段论 
 hypothetical 
-▶adjective the scenario I suggested was strictly hypothetical: theoretical, speculative, conjectured, conjectural, notional, suppositional, supposed, putative, assumed; academic. ANTONYMS actual.
+ˌhīpəˈTHedək(ə)l
+
+▶adjective of, based on, or serving as a hypothesis: that option is merely hypothetical at this juncture. 
+• supposed but not necessarily real or true: the hypothetical tenth planet. 
+• Logic denoting or containing a proposition of the logical form if p then q. 
+▶noun (usually hypotheticals) a hypothetical proposition or statement: Finn talked in hypotheticals, tossing what-if scenarios to Rosen.

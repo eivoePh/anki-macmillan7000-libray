@@ -1,6 +1,8 @@
 chemical 
-BrE ˈkɛmɪk(ə)l, AmE ˈkɛmək(ə)l 
-A. noun 化学制品 huàxué zhìpǐn 
-B.  adjective 
-① (relating to chemistry) 化学的 huàxué de 
-② (produced by or using chemicals) 用化学品制造的 yòng huàxuépǐn zhìzào de chemical fertilizers 化肥 
+ˈkemək(ə)l 
+(abbreviation chem.) 
+▶adjective relating to chemistry or the interactions of substances as studied in chemistry: the chemical composition of the atmosphere. 
+• relating to chemicals: chemical treatments for killing fungi. 
+• relating to, involving, or denoting the use of poison gas or other chemicals as weapons of war: the manufacture of chemical weapons. 
+▶noun a compound or substance that has been purified or prepared, especially artificially: never mix disinfectant with other chemicals 
+controversy arose over treatment of apples with this chemical. ORIGIN late 16th century: from French chimique or modern Latin chimicus, chymicus, from medieval Latin alchymicus, from alchimia (see alchemy) .

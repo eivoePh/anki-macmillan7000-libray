@@ -1,6 +1,12 @@
 bless 
-▶verb
-1 the chaplain blessed the couple: ask/invoke God's favor for, give a benediction for; consecrate, sanctify, dedicate (to God), make holy, make sacred; formal hallow. ANTONYMS curse.
-2 bless the name of the Lord: praise, worship, glorify, honor, exalt, pay homage to, venerate, reverence, hallow; archaic magnify.
-3 the gods blessed us with magical voices: endow with, bestow with, furnish with, accord, give, favor with, grace with; confer on; literary endue with.
-4 I bless the day you came here: give thanks for, be grateful for, thank; appreciate. ANTONYMS rue.
+bles
+
+▶verb [with object] pronounce words in a religious rite, to confer or invoke divine favor upon; ask God to look favorably on: he blessed the dying man and anointed him. 
+• (especially in Christian Church services) call (God) holy; praise (God). 
+• (bless someone with) (of God or some notional higher power) endow (someone) with a particular cherished thing or attribute: God has blessed us with free will. 
+• express or feel gratitude to; thank: she silently blessed the premonition which had made her pack her best dress. 
+• (bless oneself) make the Christian gesture of the sign of the cross: the poor parson, blessing himself, brought up the rear. 
+• used in expressions of surprise, endearment, gratitude, etc.: bless my soul, Alan, what are you doing? 
+Lenore, bless her heart, had done just that. 
+PHRASES
+bless you! said to a person who has just sneezed. [from the phrase (may) God bless you.]ORIGIN Old English blēdsian, blētsian, based on blōd ‘blood’ (i.e., originally perhaps ‘mark or consecrate with blood’). The meaning was influenced by its being used to translate Latin benedicere ‘to praise, worship,’ and later by association with bliss .

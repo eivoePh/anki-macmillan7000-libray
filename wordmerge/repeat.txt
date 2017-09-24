@@ -21,13 +21,28 @@ D.  noun
 ② (of event, performance) 重演 chóngyǎn (of action, statement) 重复 chóngfù a repeat of the 1906 earthquake could kill up to 11,000 people 如果再发生1906年的地震，死亡人数可能会达到11,000人 repeat orders/attacks 续订的订单/后续攻击 
 ③ Music (passage) 反复段 fǎnfùduàn (mark) 反复符 fǎnfùfú 
 repeat 
+rəˈpēt
+
 ▶verb
-1 she repeated her story: say again, restate, reiterate, go/run through again, recapitulate; informal recap.
-2 children can repeat large chunks of text: recite, quote, parrot, regurgitate.
-3 Steele was invited to repeat his work: do again, redo, replicate, rehash, duplicate.
-4 the episodes were repeated: rebroadcast, rerun.
-▶noun
-1 a repeat of the previous year's final: repetition, duplication, replication, duplicate, rehash.
-2 repeats of the classic sitcom: rerun, rebroadcast.
-PHRASES
-repeat itself history is bound to repeat itself: reoccur, recur, occur again, happen again.
+1 [reporting verb] say again something one has already said: [with direct speech] : “Are you hurt?” he repeated 
+[with object] : Billy repeated his question 
+[with clause] : the landlady repeated that she was being very lenient with him. 
+• say again (something said or written by someone else): he repeated the words after me 
+[with clause] : she repeated what I'd said. 
+• (repeat oneself) say or do the same thing again. 
+• used for emphasis: force was not—repeat, not—to be used.
+2 [with object] do (something) again, either once or a number of times: earlier experiments were to be repeated on a far larger scale. 
+• broadcast (a television or radio program) again. 
+• undertake (a course or period of instruction) again: Mark had to repeat first and second grades. 
+• (repeat itself) occur again in the same way or form: I don't intend to let history repeat itself. 
+• [no object] US illegally vote more than once in an election. 
+• [no object] North American attain a particular success or achievement again, especially by winning a championship for the second consecutive time: the first team in nineteen years to repeat as NBA champions. 
+• [with object] (of a watch or clock) strike (the last hour or quarter) over again when required: a watch repeater that repeats hours and quarters.
+3 [no object] (of food) be tasted intermittently for some time after being swallowed as a result of belching or indigestion: it sat rather uncomfortably on my stomach and repeated on me for hours. 
+▶noun an action, event, or other thing that occurs or is done again: the final will be a repeat of last year. 
+• a repeated broadcast of a television or radio program. 
+• [as modifier] occurring, done, or used more than once: a repeat prescription. 
+• a consignment of goods similar to one already received. 
+• a decorative pattern that is repeated uniformly over a surface. 
+• Music a passage intended to be repeated. 
+• a mark indicating a passage intended to be repeated. ORIGIN late Middle English: from Old French repeter, from Latin repetere, from re- ‘back’ + petere ‘seek.’

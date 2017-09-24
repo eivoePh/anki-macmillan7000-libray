@@ -1,2 +1,8 @@
 tenant 
-▶noun the tenants' rent is due on the first of each month: occupant, resident, inhabitant; renter, leaseholder, lessee, lodger, roomer; squatter. ANTONYMS owner, freeholder.
+ˈtenənt
+
+▶noun a person who occupies land or property rented from a landlord. 
+• Law a person holding real property by private ownership. 
+▶verb [with object] (usually be tenanted) occupy (property) as a tenant. DERIVATIVES tenantable 
+ˈtenən(t)əb(ə)l 
+adjective ( formal). tenantless adjectiveORIGIN Middle English: from Old French, literally ‘holding,’ present participle of tenir, from Latin tenere .

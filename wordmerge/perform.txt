@@ -11,8 +11,16 @@ B.  intransitive verb
 ③ (work, function) 运行 yùnxíng how is the machine performing? 机器的性能如何？ 
 ④ Busn, Finance 业绩良好 yèjì liánghǎo the economy has been performing rather sluggishly 经济一直都很萧条 
 perform 
-▶verb
-1 I have my duties to perform: carry out, do, execute, discharge, bring about, bring off, accomplish, achieve, fulfill, complete, conduct, effect, dispatch, work, implement; informal pull off; formal effectuate; archaic acquit oneself of. ANTONYMS neglect.
-2 a car that performs well at low speeds: function, work, operate, run, go, respond, behave, act, acquit oneself/itself.
-3 the play has been performed in San Francisco: stage, put on, present, mount, enact, act, produce.
-4 the band performed live in Central Park: appear, play, be on stage, sing, dance, act.
+pərˈfôrm
+
+▶verb [with object]
+1 carry out, accomplish, or fulfill (an action, task, or function): I have my duties to perform. 
+• [no object] work, function, or do something to a specified standard: the car performs well at low speeds. 
+• [no object] informal have successful or satisfactory sexual intercourse with someone.
+2 present (a form of entertainment) to an audience: the cast of
+14 perform the play superbly. 
+• [no object] entertain an audience, typically by acting, singing, or dancing on stage: the band will be performing live in Hyde Park. DERIVATIVES performability 
+-ˌfôrməˈbilitē 
+noun. performable 
+pərˈfôrməb(ə)l 
+adjectiveORIGIN Middle English: from Anglo-Norman French parfourmer, alteration (by association with forme ‘form’) of Old French parfournir, from par ‘through, to completion’ + fournir ‘furnish, provide.’

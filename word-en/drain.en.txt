@@ -1,9 +1,27 @@
 drain 
-▶verb
-1 a valve for draining the tank: empty (out), void, clear (out), evacuate, unload. ANTONYMS fill.
-2 drain off any surplus liquid: draw off, extract, withdraw, remove, siphon off, pour out, pour off; milk, bleed, tap, void, filter, discharge.
-3 the water drained away to the sea: flow, pour, trickle, stream, run, rush, gush, flood, surge; leak, ooze, seep, dribble, issue, filter, bleed, leach.
-4 more people would just drain our resources: use up, exhaust, deplete, consume, expend, get through, sap, strain, tax; milk, bleed. ANTONYMS replenish.
+drān
+
+▶verb [with object]
+1 cause the water or other liquid in (something) to run out, leaving it empty, dry, or drier: we drained the swimming pool. 
+• cause or allow (liquid) to run off or out of something: fry the pork and drain off any excess fat. 
+• make (land) drier by providing channels for water to flow away in: the land was drained and the boggy ground reclaimed. 
+• (of a river) carry off the superfluous water from (a district): the stream drains a wide moorland above the waterfall. 
+• [no object] (of water or another liquid) flow away from, out of, or into something: the river drains into the Pacific 
+figurative : Polly felt the blood drain from her face. 
+• [no object] become dry or drier as liquid runs off or away: dishes left to drain 
+the plant should be watered well and allowed to drain. 
+• (of a person) drink the entire contents of (a glass or other container): he seized the Scotch set before him and drained it. 
+• [no object] (of a feeling or emotion) become progressively less strongly felt: gradually the tension and stress drained away.
+2 deprive of strength or vitality: his limbs were drained of all energy 
+Ruth slumped down in her seat, drained by all that had happened. 
+• cause (money, energy, or another valuable resource) to be lost, wasted, or used up: my mother's hospital bills are draining my income. 
+• [no object] (of a resource) be lost, wasted, or used up: votes and campaign funds drained away from the Republican candidate.
+3 Golf, informal (of a player) hole (a putt). 
 ▶noun
-1 the drain filled with water: sewer, channel, conduit, ditch, culvert, duct, pipe, gutter, trough; sluice, spillway, race, flume, chute.
-2 a drain on the battery: strain, pressure, burden, load, tax, demand.
+1 a channel or pipe carrying off surplus liquid, especially rainwater or liquid waste. 
+• a tube for drawing off accumulating fluid from a body cavity or an abscess. 
+• Electronics the part of a field-effect transistor to which the charge carriers flow after passing the gate.
+2 [in singular] a thing that uses up a particular resource: nuclear power is a serious drain on the public purse. 
+• the continuous loss or expenditure of a particular resource: the drain of our heritage. 
+PHRASES
+go down the drain informal be totally wasted: the government must stop public money from going down the drain.ORIGIN Old English drēahnian, drēhnian ‘strain (liquid),’ of Germanic origin; related to dry .

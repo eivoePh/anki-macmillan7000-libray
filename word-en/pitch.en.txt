@@ -1,15 +1,44 @@
 pitch
 1 
+piCH
+
 ▶noun
-1 her voice rose in pitch: tone, timbre, key, modulation, frequency.
-2 the pitch of the roof: gradient, slope, slant, angle, steepness, tilt, incline, inclination.
-3 her anger reached such a pitch that she screamed: level, intensity, point, degree, height, extent.
-4 a pitch of the ball: throw, fling, hurl, toss, lob; delivery; informal heave.
-5 his sales pitch: patter, talk; informal spiel, line, elevator pitch.
+1 the quality of a sound governed by the rate of vibrations producing it; the degree of highness or lowness of a tone: a car engine seems to change pitch downward as the vehicle passes you. 
+• a standard degree of highness or lowness used in performance: the guitars were strung and tuned to pitch. See also concert pitch.
+2 the steepness of a slope, especially of a roof. 
+• Climbing a section of a climb, especially a steep one. 
+• the height to which a hawk soars before swooping on its prey.
+3 [in singular] the level of intensity of something: he brought the machine to a high pitch of development. 
+• (a pitch of) a very high degree of: rousing herself to a pitch of indignation.
+4 Baseball a legal delivery of the ball by the pitcher. 
+• (also pitch shot) Golf a high approach shot onto the green. 
+• American Football short for pitchout ( sense 2).
+5 British a playing field. 
+• Cricket the strip of ground between the two sets of stumps.
+6 a form of words used when trying to persuade someone to buy or accept something: a good sales pitch.
+7 a swaying or oscillation of a ship, aircraft, or vehicle around a horizontal axis perpendicular to the direction of motion.
+8 technical the distance between successive corresponding points or lines, e.g., between the teeth of a cogwheel. 
+• a measure of the angle of the blades of a screw propeller, equal to the distance forward a blade would move in one revolution if it exerted no thrust on the medium. 
+• the density of typed or printed characters on a line, typically expressed as numbers of characters per inch. 
 ▶verb
-1 she pitched the crumpled note into the fire: throw, toss, fling, hurl, cast, lob, flip, propel, bowl; informal chuck, sling, heave, peg.
-2 he pitched overboard: fall, tumble, topple, plunge, plummet.
-3 they pitched their tents: put up, set up, erect, raise.
-4 the boat pitched: lurch, toss (about), plunge, roll, reel, sway, rock, keel, list, wallow, labor.
+1 [with object] Baseball throw (the ball) for the batter to try to hit. 
+• [no object] Baseball be a pitcher: she pitched in a minor-league game 
+[with object] : he pitched the entire game. 
+• Golf hit (the ball) onto the green with a pitch shot. 
+• [no object] Golf (of the ball) strike the ground in a particular spot.
+2 [with object] throw or fling roughly or casually: he crumpled the page up and pitched it into the fireplace. 
+• [no object] fall heavily, especially headlong: she pitched forward into blackness.
+3 [with object] set (one's voice or a piece of music) at a particular pitch: you've pitched the melody very high. 
+• express at a particular level of difficulty: he should pitch his talk at a suitable level for the age group. 
+• aim (a product) at a particular section of the market: the machine is being pitched at banks.
+4 [no object] make a bid to obtain a contract or other business: they were pitching for an account.
+5 [with object] set up and fix in a definite position: we pitched camp for the night.
+6 [no object] (of a moving ship, aircraft, or vehicle) rock or oscillate around a lateral axis, so that the front and back move up and down: the little steamer pressed on, pitching gently. 
+• (of a vehicle) move with a vigorous jogging motion: a jeep came pitching down the hill.
+7 [with object] cause (a roof) to slope downward from the ridge: the roof was pitched at an angle of 75 degrees 
+(as adjective pitched) : a pitched roof. 
+• [no object] slope downward: the ravine pitches down to the creek. 
 PHRASES
-make a pitch for we made a pitch for the Loman account, but we lost in the bidding: try to obtain, try to acquire, try to get, bid for, make a bid for. pitch in if we all pitch in, we can be out of here in thirty minutes: help (out), assist, lend a hand, join in, participate, contribute, do one's bit, chip in, cooperate, collaborate.
+make a pitch make a bid to obtain a contract or other business.PHRASAL VERBS pitch in informal vigorously join in to help with a task or activity. 
+• join in a fight or dispute. pitch into informal vigorously tackle or begin to deal with. 
+• forcefully assault. pitch out throw a pitchout.ORIGIN Middle English (as a verb in the senses ‘thrust (something pointed) into the ground’ and ‘fall headlong’): perhaps related to Old English picung ‘stigmata,’ of unknown ultimate origin. The sense development is obscure.

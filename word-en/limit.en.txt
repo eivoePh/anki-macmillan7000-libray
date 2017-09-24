@@ -1,9 +1,26 @@
 limit 
+ˈlimit
+
 ▶noun
-1 the city limits: boundary, border, bound, frontier, edge, demarcation line; perimeter, outside, confine, periphery, margin, rim.
-2 a limit of 4,500 people: maximum, ceiling, limitation, upper limit; restriction, check, control, restraint.
-3 resources are stretched to the limit: utmost, breaking point, greatest extent.
-4 informal I've reached my limit ! one's/the breaking point, the last straw; informal the end, it, one's wits' end, one's/the max.
-▶verb the pressure to limit costs: restrict, curb, cap, check, hold in check, restrain, put a brake on, freeze, regulate, control, govern, delimit.
+1 a point or level beyond which something does not or may not extend or pass: the limits of presidential power 
+the 10-minute limit on speeches 
+there was no limit to his imagination. 
+• (often limits) the terminal point or boundary of an area or movement: the city limits 
+the upper limit of the tidal reaches. 
+• the furthest extent of one's physical or mental endurance: Mary Ann tried everyone's patience to the limit 
+other horses were reaching their limit.
+2 a restriction on the size or amount of something permissible or possible: an age limit 
+a weight limit. 
+• a speed limit: a 30 mph limit. 
+• (in card games) an agreed maximum stake or bet. 
+• (also legal limit) the maximum concentration of alcohol in the blood that the law allows in the driver of a motor vehicle: the risk of drinkers inadvertently going over the limit.
+3 Mathematics a point or value that a sequence, function, or sum of a series can be made to approach progressively, until it is as close to the point or value as desired. 
+▶verb (limits, limiting, limited) [with object] set or serve as a limit to: try to limit the amount you drink 
+class sizes are limited to a maximum of
+10 
+(as adjective limiting) : a limiting factor. 
 PHRASES
-off limits access to their mother's workshop was strictly off limits: out of bounds, forbidden, banned, restricted, unacceptable, taboo.
+be the limit informal be intolerably troublesome or irritating. off limits out of bounds: they declared the site off limits. 
+• not to be mentioned or discussed: it was apparent that the whole topic was off limits. within limits moderately; up to a point. without limit with no restriction.DERIVATIVES limitative 
+ˈliməˌtādiv 
+adjectiveORIGIN late Middle English: from Latin limes, limit- ‘boundary, frontier.’ The verb is from Latin limitare, from limes .

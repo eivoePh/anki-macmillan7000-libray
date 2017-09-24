@@ -5,7 +5,12 @@ transitive verb
 ② (reallocate) 改变…的用途 gǎibiàn… de yòngtú ‹money, resources›to divert funds Finance 转移资金 Law 挪用资金 nuóyòng zījīn 
 ③ (amuse) 使愉悦 shǐ yúyuè her jokes diverted me a while from my worries 她讲的笑话把我逗乐了，让我暂时忘记了忧愁 
 divert 
-▶verb
-1 a plan to divert the Fraser River: reroute, redirect, change the course of, deflect, channel.
-2 he diverted her from her studies: distract, sidetrack, disturb, draw away, be a distraction, put off.
-3 the story diverted them: amuse, entertain, distract, delight, enchant, interest, fascinate, absorb, engross, rivet, grip, hold the attention of.
+dəˈvərt dīˈvərt
+
+▶verb [with object]
+1 cause (someone or something) to change course or turn from one direction to another: a scheme to divert water from the river to irrigate agricultural land. 
+• [no object] (of a vehicle or person) change course: an aircraft has diverted and will be with you shortly. 
+• reallocate (something, especially money or resources) to a different purpose: more of their advertising budget was diverted into promotions.
+2 distract (someone or their attention) from something: public relations policies are sometimes intended to divert attention away from criticism. 
+• (usually as adjective diverting) draw the attention of (someone) away from tedious or serious concerns; entertain or amuse: a diverting book 
+nursery rhymes can calm and divert all but the most fractious child. DERIVATIVES diverter noun. divertingly adverbORIGIN late Middle English: via French from Latin divertere, from di- ‘aside’ + vertere ‘to turn.’

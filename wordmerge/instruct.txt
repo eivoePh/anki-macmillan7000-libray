@@ -6,7 +6,14 @@ transitive verb
 ③ BrE Law (engage) 委托 wěituō ‹solicitor, counsel›
 ④ BrE Law (give directions to) «solicitor» 指示 zhǐshì ‹barrister›
 instruct 
+inˈstrəkt
+
 ▶verb
-1 the union instructed them to strike: order, direct, command, tell, enjoin, require, call on, mandate, charge; literary bid.
-2 do not attempt to operate the binder until you've been thoroughly instructed: teach, school, coach, train, enlighten, inform, educate, tutor, guide, prepare, prime; upskill.
-3 the judge instructed the jury to consider all of the facts: inform, tell, notify, apprise, advise, brief, prime; informal fill someone in, clue someone in.
+1 [reporting verb] direct or command someone to do something, especially as an official order: [with object and infinitive] : she instructed him to wait 
+[with direct speech] : “Look at me,” he instructed 
+[with clause] : I instructed that she be given hot, sweet tea.
+2 [with object] teach (someone) a subject or skill: he instructed them in the use of firearms 
+[with object and clause] : instructing electors how to record their votes.
+3 [with object] Law give a person direction, information, or authorization, in particular: 
+• (of a judge) give information, especially clarification of legal principles, to (a jury). 
+• inform (someone) of a fact or situation: [with clause] : the bank was instructed that the money from the savings account was now held by the company. ORIGIN late Middle English ( sense 2): from Latin instruct- ‘constructed, equipped, taught,’ from the verb instruere, from in- ‘upon, toward’ + struere ‘pile up.’

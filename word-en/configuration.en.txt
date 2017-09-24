@@ -1,2 +1,14 @@
 configuration 
-▶noun proper configuration of the sound system will improve the acoustics: arrangement, layout, geography, design, organization, order, grouping, positioning, disposition, alignment; shape, form, appearance, formation, structure, setup, format.
+kənˌfiɡ(y)əˈrāSH(ə)n
+
+▶noun an arrangement of elements in a particular form, figure, or combination: the broad configuration of the economy remains capitalist 
+the arena is equipped to stage indoor sports with various configurations of seating. 
+• Chemistry the fixed three-dimensional relationship of the atoms in a molecule, defined by the bonds between them. Compare with conformation. 
+• Computing the arrangement or set-up of the hardware and software that make up a computer system: the PC comes with a removable hard disk drive as part of the standard configuration. 
+• Psychology another term for gestalt. DERIVATIVES configurational 
+-SHənl 
+adjective. configurationally 
+-SHənl-ē 
+adverb. configurative 
+-ˈfiɡ(y)ərətiv 
+adjectiveORIGIN mid 16th century (denoting the relative position of celestial objects): from late Latin configuratio(n-), from Latin configurare ‘shape after a pattern’ (see configure) .

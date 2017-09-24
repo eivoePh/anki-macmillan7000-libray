@@ -1,12 +1,27 @@
 guard 
-▶verb
-1 infantry guarded the barricaded bridge: protect, stand guard over, watch over, keep an eye on; cover, patrol, police, defend, shield, safeguard, keep safe, secure.
-2 the prisoners were guarded by armed men: keep under surveillance, keep under guard, keep watch over, surveil, mind.
-3 forest wardens must guard against poachers: beware of, keep watch for, be alert to, keep an eye out for, be on the lookout for, be on the alert for.
+ɡärd
+
+▶verb [with object] watch over in order to protect or control: they were sent to guard villagers from attack by bandits 
+the gates were guarded by uniformed soldiers. 
+• watch over (someone) to prevent them escaping: his task was to help guard Japanese soldiers. 
+• watch over (someone) to prevent them from escaping: police officers were guarding inmates who could not be accommodated in prison. 
+• [no object] (guard against) take precautions against: farmers must guard against sudden changes in the market. 
+• protect against damage or harm: the company fiercely guarded its independence. 
+• Basketball stay close to (an opponent) in order to prevent a good shot, pass, or drive. 
 ▶noun
-1 border guards: sentry, sentinel, security guard, watchman, night watchman; protector, defender, guardian; lookout, watch; garrison; border patrol.
-2 her prison guard: warden, warder, keeper; jailer; informal screw; archaic turnkey.
-3 he let his guard slip and they escaped: vigilance, vigil, watch, surveillance, watchfulness, caution, heed, attention, care, wariness.
-4 a metal guard: safety guard, safety device, protective device, shield, screen, fender; bumper, buffer.
+1 a person who keeps watch, especially a soldier or other person formally assigned to protect a person or to control access to a place: a security guard 
+[as modifier] : he distracted the soldier on guard duty. 
+• [treated as singular or plural] a body of soldiers serving to protect a place or person: the hound belonged to a member of the castle's guard. 
+• (Guards) the household troops of the British army. 
+• North American a prison warder. 
+• British an official who rides on and is in general charge of a train. 
+• American Football each of two offensive players positioned either side of the center. 
+• Basketball each of two backcourt players chiefly responsible for running the team's offense.
+2 a device worn or fitted to prevent injury or damage: a retractable blade guard. 
+• a chain attached to a watch or bracelet to prevent loss.
+3 a defensive posture adopted in a boxing, fencing, or martial arts contest or in a fight: this kick can curl around an otherwise effective guard. 
+• a state of caution, vigilance, or preparedness against adverse circumstances: he let his guard slip enough to make some unwise comments. 
 PHRASES
-off (one's) guard the explosion from the furnace room caught everyone off guard: unprepared, unready, inattentive, unwary, with one's defenses down, cold, unsuspecting; informal napping, asleep at the wheel. on one's guard homeowners should be on their guard: vigilant, alert, on the alert, wary, watchful, cautious, careful, heedful, chary, circumspect, on the lookout, on the qui vive, on one's toes, prepared, ready, wide awake, attentive, observant, keeping one's eyes peeled.
+keep (or stand) guard act as a guard. lower (or let down) one's guard relax one's defensive posture, leaving oneself vulnerable to attack: if you lower your guard or take a step backward, I will throw in the towel. 
+• reduce one's level of vigilance or caution: she was not ready to let down her guard and confide in him. off guard unprepared for some surprise or difficulty: the government was caught off guard by the unexpected announcement. on guard on duty to protect or defend something. 
+• (also on one's guard) prepared for any contingency; vigilant: we must be on guard against such temptation. put up one's guard adopt a defensive posture. under guard being guarded: he was held in an empty stable under guard.ORIGIN late Middle English (in the sense ‘care, custody’): from Old French garde (noun), garder (verb), of West Germanic origin. Compare with ward .

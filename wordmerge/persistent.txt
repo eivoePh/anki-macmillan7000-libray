@@ -4,7 +4,11 @@ adjective
 ① (persevering) 坚持不懈的 jiānchí bùxiè de to be persistent in [something]; 坚持不懈地做某事 persistent efforts 执着的努力 
 ② (continuing to exist) 持续存在的 chíxù cúnzài de (occurring repeatedly) 反复出现的 fǎnfù chūxiàn de a persistent smell 持续不散的气味 persistent questioning 无休止的讯问 
 persistent 
+pərˈsist(ə)nt
+
 ▶adjective
-1 a very persistent man: tenacious, persevering, determined, resolute, purposeful, dogged, single-minded, tireless, indefatigable, patient, unflagging, untiring, insistent, importunate, relentless, unrelenting; stubborn, intransigent, obstinate, obdurate; formal pertinacious. ANTONYMS irresolute.
-2 persistent rain: constant, continuous, continuing, continual, nonstop, never-ending, steady, uninterrupted, unbroken, interminable, incessant, unceasing, endless, unending, perpetual, unremitting, unrelenting, relentless, unrelieved, sustained. ANTONYMS occasional, intermittent.
-3 a persistent cough: chronic, permanent, nagging, frequent; repeated, habitual.
+1 continuing firmly or obstinately in a course of action in spite of difficulty or opposition: one of the government's most persistent critics.
+2 continuing to exist or endure over a prolonged period: persistent rain will affect many areas 
+persistent reports of human rights abuses by the military. 
+• (of a chemical or radioactivity) remaining within the environment for a long time after its introduction: PCBs are persistent environmental contaminants.
+3 Botany & Zoology (of a part of an animal or plant, such as a horn, leaf, etc.) remaining attached instead of falling off in the normal manner.

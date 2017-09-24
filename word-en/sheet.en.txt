@@ -1,7 +1,18 @@
-sheet 
+sheet
+1 
+SHēt
+
 ▶noun
-1 (often sheets) she changed the sheets: bed linen, linen, bedclothes.
-2 a sheet of ice: layer, stratum, covering, blanket, coating, coat, film, skin.
-3 a sheet of glass: pane, panel, piece, plate; slab.
-4 she put a fresh sheet in the typewriter: piece of paper, leaf, page, folio.
-5 a sheet of water: expanse, area, stretch, sweep.
+1 a large rectangular piece of cotton or other fabric, used on a bed to cover the mattress and as a layer beneath blankets when these are used. 
+• used in comparisons to describe the pallor of a person who is ill or has had a shock: Are you OK? You're as white as a sheet. 
+• a broad flat piece of material such as metal or glass: the small pipe has been formed from a flat sheet of bronze.
+2 a rectangular piece of paper, especially one of a standard size produced commercially and used for writing and printing on: a sheet of unmarked paper. 
+• a quantity of text or other information contained on a sheet of paper: he produced yet another sheet of figures. 
+• a flat piece of paper as opposed to a reel of continuous paper, the bound pages of a book, or a folded map. 
+• all the postage stamps printed on one piece of paper: a sheet of stamps. 
+• a map, especially one part of a series covering a larger area.
+3 an extensive unbroken surface area of something: a sheet of ice. 
+• a broad moving mass of flames or water: the rain was still falling in sheets. 
+▶verb
+1 [with object] cover with or wrap in a sheet or sheets: we sheeted a narrow bed.
+2 [no object] (of rain) fall in large quantities: rain sheeted down. ORIGIN Old English scēte, scīete, of Germanic origin; related to the verb shoot in its primary sense ‘to project.’

@@ -1,5 +1,9 @@
 assemble 
+əˈsembəl
+
 ▶verb
-1 a crowd had assembled: gather, collect, get together, congregate, convene, meet, muster, rally. ANTONYMS disperse.
-2 he assembled the suspects: bring together, call together, gather, collect, round up, marshal, muster, summon; formal convoke. ANTONYMS disperse.
-3 how to assemble the kite: construct, build, fabricate, manufacture, erect, set up, put together, piece together, connect, join. ANTONYMS dismantle.
+1 [no object] (of people) gather together in one place for a common purpose: a crowd had assembled outside the gates. 
+• [with object] bring (people or things) together for a common purpose: he assembled the surviving members of the group for a tour. 
+• (usually as noun assembling) Entomology (of male moths) gather for mating in response to a pheromone released by a female.
+2 [with object] fit together the separate component parts of (a machine or other object): a factory that assembled parts for trucks. 
+• Computing translate (a program) from assembly language into machine code. ORIGIN Middle English: from Old French asembler, based on Latin ad- ‘to’ + simul ‘together.’

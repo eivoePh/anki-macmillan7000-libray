@@ -1,11 +1,15 @@
 sleeper 
-BrE ˈsliːpə, AmE ˈslipər 
-noun 
-① (person) 睡眠者 shuìmiánzhě to be a sound sleeper 睡眠好 a heavy/light sleeper 睡觉沉/轻的人 
-② (train) 卧铺列车 wòpù lièchē 
-③ (sleeping car) 卧铺车厢 wòpù chēxiāng 
-④ (train berth) 卧铺 wòpù 
-⑤ BrE (railway track beam) 枕木 zhěnmù 
-⑥ BrE (earring) 耳钉 ěrdīng 
-⑦ AmE colloquial (successful book, film, play) 爆冷门的作品 bào lěngmén de zuòpǐn a sleeper hit or success 爆冷门成功的事物 
-⑧ (secret agent) 潜伏特工 qiánfú tègōng 
+ˈslēpər
+
+▶noun
+1 [with adjective] a person or animal who is asleep or who sleeps in a specified way: he was a light sleeper, for long periods an insomniac.
+2 a thing used for or connected with sleeping, in particular: 
+• a train carrying sleeping cars. 
+• a sleeping car, or a berth in one. 
+• (often sleepers) chiefly North American one-piece coverall pajamas for a baby or small child. 
+• North American a sofa or chair that converts into a bed.
+3 a movie, book, play, etc., that achieves sudden unexpected success after initially attracting little attention, typically one that proves popular without much promotion or expenditure. 
+• an antique whose true value goes unrecognized for some time. 
+• (also sleeper agent) a secret agent who remains inactive for a long period while establishing a secure position.
+4 British a railroad tie.
+5 a stocky fish with mottled coloration that occurs widely in warm seas and fresh water. [Dormitator and other genera, family Gobiidae (or Eleotridae): many species.]

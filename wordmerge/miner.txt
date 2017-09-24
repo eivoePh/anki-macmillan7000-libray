@@ -1,5 +1,13 @@
 miner 
 BrE ˈmʌɪnə, AmE ˈmaɪnər 
 noun 矿工 kuànggōng 
-miner 
-▶noun the trapped miners were rescued: digger, collier, gold panner; dated sourdough.
+miner
+1 
+ˈmīnər
+
+▶noun
+1 a person who works in a mine: the miners were freed after spending four days trapped underground. 
+• a person who obtains units of a cryptocurrency by running computer processes to solve specific mathematical problems: anyone can become a bitcoin miner.
+2 historical a person who digs tunnels in order to destroy an enemy position with explosives.
+3 a small South American bird of the ovenbird family that excavates a long burrow for breeding. [Genus Geositta, family Furnariidae: several species.]
+4 short for leaf miner. ORIGIN Middle English: from Old French minour, from miner ‘to mine’ (see mine2) .

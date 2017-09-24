@@ -1,5 +1,11 @@
 perceive 
-▶verb
-1 I immediately perceived the flaws in her story: discern, recognize, become aware of, see, distinguish, realize, grasp, understand, take in, make out, find, identify, hit on, comprehend, apprehend, appreciate, sense, divine; informal figure out; British informal twig; formal become cognizant of.
-2 she perceived a twitch in his nose whenever he lied: see, discern, detect, catch sight of, spot, observe, notice.
-3 she was perceived as too negative: regard, look on, view, consider, think of, judge, deem, adjudge.
+pərˈsēv
+
+▶verb [with object]
+1 become aware or conscious of (something); come to realize or understand: his mouth fell open as he perceived the truth 
+[with clause] : he was quick to perceive that there was little future in such arguments. 
+• become aware of (something) by the use of one of the senses, especially that of sight: he perceived the faintest of flushes creeping up her neck.
+2 interpret or look on (someone or something) in a particular way; regard as: if Guy does not perceive himself as disabled, nobody else should 
+[with object and infinitive] : some geographers perceive hydrology to be a separate field of scientific inquiry. DERIVATIVES perceivable 
+pərˈsēvəb(ə)l 
+adjective. perceiver nounORIGIN Middle English: from a variant of Old French perçoivre, from Latin percipere ‘seize, understand,’ from per- ‘entirely’ + capere ‘take.’

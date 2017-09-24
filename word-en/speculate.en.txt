@@ -1,4 +1,7 @@
 speculate 
-▶verb
-1 they speculated about my private life: conjecture, theorize, hypothesize, guess, surmise; think, wonder, muse.
-2 investors speculate on the stock market: gamble on, take a risk on, venture in, wager on; invest in, play.
+ˈspekyəˌlāt
+
+▶verb [no object]
+1 form a theory or conjecture about a subject without firm evidence: my colleagues speculate about my private life 
+[with clause] : observers speculated that the authorities wished to improve their image.
+2 invest in stocks, property, or other ventures in the hope of gain but with the risk of loss: he didn't look as though he had the money to speculate in stocks. ORIGIN late 16th century: from Latin speculat- ‘observed from a vantage point,’ from the verb speculari, from specula ‘watchtower,’ from specere ‘to look.’

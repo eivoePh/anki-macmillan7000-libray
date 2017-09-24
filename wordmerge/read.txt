@@ -35,14 +35,39 @@ C.  nouncolloquial
 ① (go through) 接连读出 jiēlián dúchū ‹names, scores›she read a few names off from the list 她从名单上读了几个名字 
 ② (ascertain) 确定 quèdìng ‹altitude, temperature, speed, time›the reaction time was read off the timer 从计时器读取了反应时间 read on intransitive verb 继续读 jìxù dú how will our hero escape? read on 我们的主角将如何逃脱呢？下面接着读 read out transitive verb[read something out, read out something] 宣读 xuāndú to read [something] out to [somebody]; 给某人朗读某物 she read out the letter to all of us 她把信高声读给我们大家听 read over, read through transitive verb[read over something, read something over] 认真通读 rènzhēn tōngdú read up transitive verb [read somebody/something up, read up somebody/something] 围绕…广泛阅读 wéirào… guǎngfàn yuèdú ‹subject, author›read up on transitive verb[read up on somebody/something] 围绕…广泛阅读 wéirào… guǎngfàn yuèdú ‹subject, author›
 read 
-▶verb
-1 Nadine and Ian were reading the paper by the fireplace: peruse, study, scrutinize, look through; pore over, be absorbed in; run one's eye over, cast an eye over, leaf through, scan, flick through, skim through, thumb through.
-2 he read a passage of the letter: read out/aloud, recite, declaim.
-3 I can't read my own writing: decipher, make out, make sense of, interpret, understand.
-4 her remark could be read as a criticism: interpret, take, take to mean, construe, see, understand.
-5 the dial read 70 mph: indicate, register, record, display, show.
-▶noun have a read of this: perusal, study, scan; look (at), browse (through).
+rēd
+
+▶verb (past and past participle read 
+red
+) [with object]
+1 look at and comprehend the meaning of (written or printed matter) by mentally interpreting the characters or symbols of which it is composed: it's the best novel I've ever read 
+I never learned to read music 
+Emily read over her notes 
+[no object] : I'll go to bed and read for a while. 
+• speak (the written or printed matter that one is reading) aloud, typically to another person: the charges against him were read out 
+[with two objects] : his mother read him a bedtime story 
+[no object] : I'll read to you if you like. 
+• [no object] have the ability to look at and comprehend the meaning of written or printed matter: only three of the girls could read and none could write. 
+• habitually read (a particular newspaper or journal). 
+• discover (information) by reading it in a written or printed source: he was arrested yesterday—I read it in the paper 
+[no object] : I read about the course in a magazine. 
+• discern (a fact, emotion, or quality) in someone's eyes or expression: she looked down, terrified that he would read fear on her face. 
+• understand or interpret the nature or significance of: he didn't dare look away, in case this was read as a sign of weakness. 
+• [no object] (of a piece of writing) convey a specified impression to the reader: the brief note read like a cry for help. 
+• [no object, with complement] (of a passage, text, or sign) contain or consist of specified words; have a certain wording: the placard read “We want justice.” 
+• used to indicate that a particular word in a text or passage is incorrect and that another should be substituted for it: for madam read madman. 
+• [no object] (read for) (of an actor) audition for (a part in a play or film). 
+• (of a device) obtain data from (light or other input).
+2 inspect and record the figure indicated on (a measuring instrument): I've come to read the gas meter. 
+• [no object, with complement] (of a measuring instrument) indicate a specified measurement or figure: the thermometer read 0° 
+C. 
+3 chiefly British study (an academic subject) at a university: I'm reading English at Cambridge 
+[no object] : he went to Manchester to read for a BA in Economics.
+4 (of a computer) copy, transfer, or interpret (data). 
+• enter or extract (data) in an electronic storage device: the most common way of reading a file into the system.
+5 hear and understand the words of (someone speaking on a radio transmitter): “Do you read me? Over.” 
+▶noun [usually in singular] US a person's interpretation of something: their read on the national situation may be correct. 
+• [with adjective] informal a book considered in terms of its readability: the book is a thoroughly entertaining read. 
+• chiefly British a period or act of reading something: I was having a quiet read of the newspaper. 
 PHRASES
-read something into something don't read too much into their statistics: infer from, interpolate from, assume from, attribute to; read between the lines. read up on we'll need to read up on Peruvian culture: study, brush up on; informal bone up on. 
-WORD LINKS
-read legible clear enough to read illegible not clear enough to read literacy the ability to read and write illiteracy the inability to read and writeWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+read between the lines look for or discover a meaning that is hidden or implied rather than explicitly stated. read someone like a book understand someone's thoughts and motives clearly or easily. read someone's mind (or thoughts) discern what someone is thinking.read my lips North American informal listen carefully (used to emphasize the importance of the speaker's words or the earnestness of their intent).PHRASAL VERBS read something into attribute a meaning or significance to (something) that it may not in fact possess: was I reading too much into his behavior? read someone out of chiefly US formally expel someone from (an organization or body). [with reference to the reading of the formal sentence of expulsion.] read up on something acquire information about a particular subject by studying it intensively or systematically: she spent the time reading up on antenatal care.ORIGIN Old English rǣdan, of Germanic origin; related to Dutch raden and German raten ‘advise, guess.’ Early senses included ‘advise’ and ‘interpret (a riddle or dream)’ (see rede).

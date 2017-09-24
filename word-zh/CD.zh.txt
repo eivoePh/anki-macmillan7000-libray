@@ -1,3 +1,4 @@
 CD
+CD
 abbreviation
 = compact disc

@@ -4,4 +4,8 @@ transitive verb
 ① Medicine 诊断 zhěnduàn ‹illness, patient›to diagnose [something]/[somebody] as [something]; 诊断某疾病/某人为某状况 the doctor diagnosed him as being diabetic 医生诊断他患有糖尿病 to diagnose that … 下诊断结论为… 
 ② (determine) 判断 pànduàn the mechanic diagnosed what was wrong with the car 机修工查出了汽车的毛病 to diagnose our present economic ills as the result of poor planning; 判断我们目前的经济弊病是计划不周的结果 
 diagnose 
-▶verb perhaps he diagnosed the condition incorrectly: identify, determine, distinguish, recognize, detect, pinpoint; self-diagnose, self-report.
+ˌdīəɡˈnōs
+
+▶verb [with object] identify the nature of (an illness or other problem) by examination of the symptoms: doctors diagnosed a rare and fatal liver disease. 
+• (usually be diagnosed) identify the nature of the medical condition of (someone): she was finally diagnosed as having epilepsy 
+20,000 men are diagnosed with skin cancer every year. DERIVATIVES diagnosable adjectiveORIGIN mid 19th century: back-formation from diagnosis .

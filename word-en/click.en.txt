@@ -1,7 +1,20 @@
 click 
-▶noun the click of the timer: clack, snap, pop, tick; clink.
+klik
+
+▶noun a short, sharp sound as of a switch being operated or of two hard objects coming quickly into contact: she heard the click of the door. 
+• Phonetics an ingressive consonantal stop produced by sudden withdrawal of the tongue from the soft palate, front teeth, or back teeth and hard palate, occurring in some southern African and other languages. 
+• Computing an act of pressing a button on a mouse or similar device. 
 ▶verb
-1 cameras clicked: snap, clack, tick, pop; clink.
-2 informal that night it clicked: become clear, fall into place, come home, make sense, dawn, register, get through, sink in.
-3 informal we just clicked: take to each other, get along, be compatible, be like-minded, feel a rapport, see eye to eye; informal hit it off, be on the same wavelength.
-4 informal this issue hasn't clicked with the voters: go down well, prove popular, be a hit, succeed.
+1 make or cause to make a short, sharp sound: [no object] : the key clicked in the lock and the door opened 
+[with object] : she clicked off the light 
+Martha clicked her tongue 
+(as adjective clicking) : the clicking cameras outside the church. 
+• Computing select an item in a graphical user interface by pressing a button on a mouse: [no object] : click on the illustration for a larger version 
+[with object] : click the left mouse button twice.
+2 [no object] informal become suddenly clear or understandable: finally it clicked what all the fuss had been about. 
+• quickly become friendly or intimate: we just clicked, and I found myself falling in love 
+I didn't meet a woman who I really clicked with until I was 40. 
+• become successful or popular: I don't think this issue has clicked with the voters. 
+PHRASES
+click into place (of an object, especially part of a mechanism) fall smoothly into its allotted position. 
+• become suddenly clear and understandable: everything has clicked into place for the organization.ORIGIN late 16th century (as a verb): imitative.

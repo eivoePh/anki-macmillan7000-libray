@@ -4,9 +4,15 @@ adjective
 ① (great, deep) 巨大的 jùdà de ‹change›; 强烈的 qiángliè de ‹emotion, interest›; 极度的 jídù de ‹ignorance›a profound mystery 难解的奥秘 a profound silence 一片沉寂 
 ② (wise) 深邃的 shēnsuì de ‹thinker, insight›; 深奥的 shēn'ào de ‹book, remark›
 profound 
-▶adjective
-1 profound relief: heartfelt, intense, keen, great, extreme, acute, severe, sincere, earnest, deep, deep-seated, overpowering, overwhelming, fervent, ardent. ANTONYMS superficial, mild.
-2 profound silence: complete, utter, total, absolute.
-3 a profound change: far-reaching, radical, extensive, sweeping, exhaustive, thoroughgoing. ANTONYMS slight.
-4 a profound analysis: wise, learned, clever, intelligent, scholarly, sage, erudite, discerning, penetrating, perceptive, astute, thoughtful, insightful, percipient, perspicacious; rare sapient. ANTONYMS superficial.
-5 profound truths: complex, abstract, deep, weighty, difficult, abstruse, recondite, esoteric. ANTONYMS simple.
+prəˈfound
+
+▶adjective (profounder, profoundest)
+1 (of a state, quality, or emotion) very great or intense: profound social changes 
+profound feelings of disquiet. 
+• (of a disease or disability) very severe; deep-seated: a case of profound liver failure.
+2 (of a person or statement) having or showing great knowledge or insight: a profound philosopher. 
+• (of a subject or thought) demanding deep study or thought: expressing profound truths in simple language.
+3 archaic at, from, or extending to a great depth; very deep: he opened the door with a profound bow. 
+▶noun (the profound) literary the vast depth of the ocean or of the mind. DERIVATIVES profoundness 
+prəˈfoun(d)nəs 
+nounORIGIN Middle English: from Old French profund, from Latin profundus ‘deep,’ from pro ‘before’ + fundus ‘bottom.’ The word was used earliest in the sense ‘showing deep insight.’

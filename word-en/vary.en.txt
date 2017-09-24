@@ -1,5 +1,7 @@
 vary 
-▶verb
-1 estimates of the development cost vary: differ, be different, be dissimilar, conflict.
-2 rates of interest can vary over time: fluctuate, rise and fall, go up and down, change, alter, shift, swing, deviate, differ.
-3 the diaphragm is used for varying the aperture of the lens: modify, change, alter, transform, adjust, regulate, control, set; diversify, reshape; informal tweak.
+ˈverē
+
+▶verb (varies, varying, varied) [no object] differ in size, amount, degree, or nature from something else of the same general class: the properties vary in price 
+(as adjective varying) : varying degrees of success. 
+• change from one condition, form, or state to another: your skin's moisture content varies according to climatic conditions. 
+• [with object] introduce modifications or changes into (something) so as to make it different or less uniform: he tried to vary his diet. DERIVATIVES varyingly adverbORIGIN Middle English: from Old French varier or Latin variare, from varius ‘diverse.’

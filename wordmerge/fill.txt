@@ -44,14 +44,34 @@ C.  intransitive verb
 ① (become full) 变满 biànmǎn to fill up with [something]; 充满某物 the bucket filled up with water 桶里注满了水 the theatre began to fill up before the performance 表演开始前，剧院开始满座 
 ② Auto (with fuel) 加满油 jiāmǎn yóu 
 fill 
-▶verb
-1 he filled a bowl with cereal: make full, fill up, fill to the brim, top up, charge. ANTONYMS empty.
-2 guests filled the parlor: crowd into, throng, pack (into), occupy, squeeze into, cram (into); overcrowd, overfill.
-3 he was filling his shelves: stock, pack, load, supply, replenish, restock, refill.
-4 fill all the holes with a spackling compound: block up, stop (up), plug, seal, caulk. ANTONYMS unblock.
-5 the perfume filled the room: pervade, permeate, suffuse, be diffused through, penetrate, infuse, perfuse.
-6 he was going to fill a government post: occupy, hold, take up; informal hold down.
-7 we had just filled a big order: carry out, complete, fulfill, execute, discharge.
+fil
+
+▶verb [with object] put someone or something into (a space or container) so that it is completely or almost completely full: I filled up the bottle with water 
+the office was filled with reporters. 
+• [no object] (fill with) become full of: Eleanor's eyes filled with tears. 
+• become an overwhelming presence in: a pungent smell of garlic filled the air. 
+• cause (someone) to have an intense experience of an emotion or feeling: his presence filled us with foreboding. 
+• appoint a person to hold (a vacant position): the number of high-tech jobs and the people who can fill them. 
+• hold and perform the expected duties of (a position or role): she fills the role of the “good” child. 
+• occupy or take up (a period of time): the next few days were filled with meetings. 
+• chiefly North American be supplied with the items described in (a prescription or order): she needed to fill a prescription. 
+• block up (a cavity in a tooth) with cement, amalgam, or gold. 
+• [no object] (of a sail) curve out tautly as the wind blows into it. 
+• (of a weather system) increase in barometric pressure. Compare with deepen. 
+• [with object] (of the wind) blow into (a sail), causing it to curve outward. 
+• (in poker) complete (a good hand) by drawing the necessary cards. 
+▶noun
+1 (one's fill) an amount of something that is as much as one wants or can bear: we have eaten our fill 
+I've had my fill of surprises for one day.
+2 an amount of something that will occupy all the space in a container. 
+• material, loose or compacted, that fills a space, especially in building or engineering work: loose polystyrene fill. 
+• the action of filling something, especially of shading in a region of a computer graphics display. 
+• (in popular music) a short interjected phrase on a particular instrument. 
 PHRASES
-fill in while Mr. Grant is on vacation, Luis will be filling in: substitute, deputize, stand in, cover, take over, act as stand-in, take the place of; informal sub, step into someone's shoes/boots, pinch-hit. fill in on when we get home, you can fill us in on the details: inform of, advise of, tell about, acquaint with, apprise of, brief on, update with; informal put in the picture about, bring up to speed on. fill something in/out fill in these forms 
-he filled out the questionnaire: complete, answer. fill out the puppies will begin to fill out once they start getting proper nutrition: grow fatter, become plumper, flesh out, put on weight, gain weight, get heavier.
+fill the bill see bill1. fill someone's shoes informal take over someone's function or duties and fulfill them satisfactorily.PHRASAL VERBS fill in act as a substitute for someone when they are unable to do their job: my producer will have to have someone standing by to fill in for me. fill someone in
+1 inform someone more fully of a matter, giving all the details: the cab driver filled me in on much important economic and sociological data.
+2 British informal, dated hit or punch someone: I filled in a chap and took his money. fill something in put material into a hole, trench, or space so that it is completely full: the canal is now disused and partly filled in. 
+• complete a drawing by adding color or shade to the spaces within an outline: incised letters, filled in with gold. 
+• chiefly British add information to complete something, typically a form or other official document: he filled in all the forms. fill out (of a person) put on weight to a noticeable extent. fill something out add information to complete an official form or document: he filled out the requisite forms. 
+• give more details to add to someone's understanding of something: he filled out the background by going into historical questions. fill up become completely full: the dining car filled up. 
+• fill the fuel tank of a car.ORIGIN Old English fyllan (verb), fyllu (noun) of Germanic origin; related to Dutch vullen and German füllen (verbs), Fülle (noun), also to full1 .

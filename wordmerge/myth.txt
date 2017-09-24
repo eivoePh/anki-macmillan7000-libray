@@ -6,6 +6,13 @@ noun
 ③ Countable(fallacy) [普遍的] 错误观念 cuòwù guānniàn to create/explode or dispel a myth 制造/破除错误观念 the prevailing myth that … 人们普遍认同的…的错误观念 the popular myth that life begins at forty 生活始于四十岁这种广泛流行的错误观念 the myth of racial superiority 种族优越性的鬼话 
 ④ Countable(fabrication) (person) 虚构的人 xūgòu de rén (thing) 虚构的事物 xūgòu de shìwù to be a complete myth 纯属虚构 
 myth 
+miTH
+
 ▶noun
-1 ancient Greek myths: folk tale, folk story, legend, tale, story, fable, saga, mythos, lore, folklore, mythology.
-2 the myths surrounding childbirth: misconception, fallacy, false notion, old wives' tale, fairy tale/story, fiction; informal tall tale, cock-and-bull story, urban myth/legend.
+1 a traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon, and typically involving supernatural beings or events. 
+• traditional stories or legends collectively: the heroes of Greek myth.
+2 a widely held but false belief or idea: he wants to dispel the myth that sea kayaking is too risky or too strenuous 
+there is a popular myth that corporations are big people with lots of money. 
+• a misrepresentation of the truth: attacking the party's irresponsible myths about privatization. 
+• a fictitious or imaginary person or thing. 
+• an exaggerated or idealized conception of a person or thing: the book is a scholarly study of the Churchill myth. ORIGIN mid 19th century: from modern Latin mythus, via late Latin from Greek muthos .

@@ -1,7 +1,9 @@
 constant 
-▶adjective
-1 the constant background noise: continual, continuous, persistent, sustained, around/round-the-clock; ceaseless, unceasing, perpetual, incessant, never-ending, eternal, endless, unabating, nonstop, unrelieved; interminable, unremitting, relentless. ANTONYMS fitful, inconstant.
-2 a constant speed: consistent, regular, steady, uniform, even, invariable, unvarying, unchanging, undeviating, unfluctuating. ANTONYMS variable.
-3 a constant friend: faithful, loyal, devoted, true, fast, firm, unswerving; steadfast, staunch, dependable, trustworthy, trusty, reliable, dedicated, committed. ANTONYMS fickle.
-4 constant vigilance: steadfast, steady, resolute, determined, tenacious, dogged, unwavering, unflagging.
-▶noun dread of cancer has been a constant: unchanging factor, given.
+ˈkänstənt
+
+▶adjective occurring continuously over a period of time: the pain is constant. 
+• remaining the same over a period of time: the company has kept its prices fairly constant. 
+• (of a person) unchangingly faithful and dependable. 
+▶noun a situation or state of affairs that does not change: the condition of struggle remained a constant. 
+• Mathematics a quantity or parameter that does not change its value whatever the value of the variables, under a given set of conditions. 
+• Physics a number expressing a relation or property that remains the same in all circumstances, or for the same substance under the same conditions. ORIGIN late Middle English (in the sense ‘staying resolute or faithful’): from Old French, from Latin constant- ‘standing firm,’ from the verb constare, from con- ‘with’ + stare ‘stand.’ The noun senses date from the mid 19th century.

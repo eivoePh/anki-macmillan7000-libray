@@ -6,7 +6,10 @@ A.  noun
 ② (place of storage) 档案馆 dàng'ànguǎn 
 B.  transitive verb also Computing 把…存档 bǎ… cúndàng 
 archive 
-▶noun
-1 she delved into the family archives: records, annals, chronicles, accounts; papers, documents, files; history; Law muniments.
-2 the national archive: record office, registry, repository, depository, museum, chancery.
-▶verb the videos are archived for future use: file, log, catalog, document, record, register; store, cache.
+ˈärˌkīv 
+(usually archives) 
+▶noun a collection of historical documents or records providing information about a place, institution, or group of people: source materials in local archives 
+[as modifier] : a section of archive film. 
+• the place where historical documents or records are kept: to get into the archives I had to fill in a request form. 
+▶verb [with object] place or store (something) in an archive. 
+• Computing transfer (data) to a less frequently used storage medium such as magnetic tape, typically external to the computer system and having a greater storage capacity. ORIGIN early 17th century (in the sense ‘place where records are kept’): from French archives (plural), from Latin archiva, archia, from Greek arkheia ‘public records,’ from arkhē ‘government.’ The verb dates from the late 19th century.

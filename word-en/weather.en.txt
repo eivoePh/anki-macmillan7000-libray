@@ -1,6 +1,17 @@
 weather 
-▶noun what's the weather like? forecast, outlook; meteorological conditions, climate, atmospheric pressure, temperature; elements.
-▶verb we weathered the recession: survive, come through, ride out, pull through; withstand, endure, rise above, surmount, overcome, resist, brave; informal stick out.
+ˈweT͟Hər
+
+▶noun the state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.: if the weather's good, we can go for a walk. 
+• cold, wet, and unpleasant or unpredictable atmospheric conditions; the elements: stone walls provide shelter from wind and weather. 
+• [as modifier] denoting the side from which the wind is blowing, especially on board a ship; windward: the weather side of the yacht. Contrasted with lee. 
+▶verb [with object]
+1 wear away or change the appearance or texture of (something) by long exposure to the air: his skin was weathered almost black by his long outdoor life. 
+• [no object] (of rock or other material) be worn away or altered by long exposure to the air: the ice sheet preserves specimens that would weather away more quickly in other regions. 
+• (usually as noun weathering) Falconry allow (a hawk) to spend a period perched on a block in the open air.
+2 come safely through (a storm). 
+• withstand (a difficulty or danger): this year has tested industry's ability to weather recession. 
+• Sailing (of a ship) get to the windward of (a cape or other obstacle).
+3 make (boards or tiles) overlap downward to keep out rain. 
+• (in building) slope or bevel (a surface) to throw off rain. 
 PHRASES
-under the weather informal we were sorry to hear that Dottie's been under the weather. See ill (sense
-1 of the adjective). 
+keep a weather eye on observe very carefully, especially for changes or developments. make heavy weather of informal have unnecessary difficulty in dealing with (a task or problem). [from the nautical phrase make good or bad weather of it, referring to a ship in a storm.] under the weather informal slightly unwell or in low spirits.ORIGIN Old English weder, of Germanic origin; related to Dutch weer and German Wetter, probably also to the noun wind1 .

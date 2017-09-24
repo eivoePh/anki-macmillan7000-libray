@@ -1,3 +1,12 @@
-metric 
-BrE ˈmɛtrɪk, AmE ˈmɛtrɪk 
-adjective 公制的 gōngzhì de ‹measurement, scale, units›; 用公制计量的 yòng gōngzhì jìliàng de ‹dimensions, container›the metric system 公制 to go metric colloquial 实行公制 
+metric
+1 
+ˈmetrik
+
+▶adjective
+1 of or based on the meter as a unit of length; relating to the metric system: all measurements are given in metric form. 
+• using the metric system: we should have gone metric years ago.
+2 Mathematics & Physics relating to or denoting a metric. 
+▶noun
+1 technical a system or standard of measurement. 
+• Mathematics & Physics a binary function of a topological space that gives, for any two points of the space, a value equal to the distance between them, or to a value treated as analogous to distance for the purpose of analysis.
+2 informal metric units, or the metric system: it's easier to work in metric. ORIGIN mid 19th century (as an adjective relating to length): from French métrique, from mètre (see meter1) .

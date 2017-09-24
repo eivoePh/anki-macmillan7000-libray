@@ -26,15 +26,34 @@ C.  noun
 ① literal 刮拢 guālǒng 
 ② figurative = scrape together 
 scrape 
+skrāp
+
 ▶verb
-1 we scraped all the paint off the windows: abrade, grate, sand, sandpaper, scour, scratch, rub, file, rasp.
-2 their boots scraped along the floor: grate, creak, rasp, grind, scratch.
-3 she scraped her hair back behind her ears: rake, drag, pull, tug, draw.
-4 he scraped a hole in the ground: scoop out, hollow out, dig (out), excavate, gouge out.
-5 Ellen had scraped her shins on the wall: graze, scratch, abrade, scuff, rasp, skin, rub raw, cut, lacerate, bark, chafe; Medicine excoriate.
+1 [with object] push or pull a hard or sharp implement across (a surface or object) so as to remove dirt or other matter: rinse off the carrots and scrape them 
+[with object and complement] : we scraped the dishes clean. 
+• use a sharp or hard implement to remove (dirt or unwanted matter) from something: she scraped the mud off her shoes. 
+• apply (a hard or sharp implement) to a surface so as to remove dirt or other matter: he scraped the razor across the stubble on his cheek. 
+• make (a hollow) by scraping away soil or rock: he found a ditch, scraped a hole, and put the bag in it.
+2 rub or cause to rub by accident against a rough or hard surface, causing damage or injury: [no object] : he smashed into the wall and felt his knee scrape against the plaster 
+[with object] : she reversed in a reckless sweep, scraping the left front fender. 
+• [with object] draw or move (something) along or over something else, making a harsh noise: she scraped back her chair and stood up. 
+• [no object] move with or make a harsh scraping sound: she lifted the gate to prevent its scraping along the ground. 
+• [no object] humorous play a violin or similar stringed instrument tunelessly: Katie was scraping away at her cello. 
+• [with object] draw one's hair tightly back off the forehead: her hair was scraped back into a ponytail.
+3 [with object] just manage to achieve; accomplish with great effort or difficulty: for some years he scraped a living as a tutor. 
+• (scrape something together/up) collect or accumulate something with difficulty: they could hardly scrape up enough money for one ticket, let alone two. 
+• [no object] try to save as much money as possible; economize: they had scrimped and scraped and saved for years. 
+• [no object] (scrape by/along) manage to live with difficulty: she has to scrape by on Social Security. 
+• [no object] narrowly pass by or through something: there was only just room to scrape through between the tree and the edge of the stream. 
+• [no object] barely manage to succeed in a particular undertaking: Clinton scraped into office in 1992 
+he scraped through the entrance exam.
+4 [with object] copy (data) from a website using a computer program: all search engines scrape content from sites without permission and display it on their own sites. 
 ▶noun
-1 the scrape of her key in the lock: grating, creaking, grinding, rasp, rasping, scratch, scratching.
-2 there was a long scrape on his leg: graze, scratch, abrasion, cut, laceration, wound.
-3 informal he's always getting into scrapes: predicament, plight, tight corner/spot, ticklish/tricky situation, problem, crisis, mess, muddle; informal jam, fix, stew, bind, hole, hot water, a pretty/fine kettle of fish.
+1 an act or sound of scraping: he heard the scrape of his mother's key in the lock. 
+• an injury or mark caused by scraping: there was a long, shallow scrape on his shin. 
+• a place where soil has been scraped away, especially a shallow hollow formed in the ground by a bird during a courtship display or for nesting. 
+• Medicine, informal a procedure of dilatation of the cervix and curettage of the uterus, or the result of this. 
+• archaic an obsequious bow in which one foot is drawn backward along the ground.
+2 informal an embarrassing or difficult predicament caused by one's own unwise behavior: he'd been in worse scrapes than this before now. 
 PHRASES
-scrape by when the money's not there, you learn how to scrape by: manage, cope, survive, muddle through/along, make ends meet, get by/along, make do, keep the wolf from the door, keep one's head above water, eke out a living; informal make out.
+scrape acquaintance with dated contrive to get to know: aboard the ship, a nice girl scraped acquaintance with me. scrape the bottom of the barrel informal be reduced to using things or people of the poorest quality because there is nothing else available.ORIGIN Old English scrapian ‘scratch with the fingernails,’ of Germanic origin, reinforced in Middle English by Old Norse skrapa or Middle Dutch schrapen ‘to scratch.’

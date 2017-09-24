@@ -18,12 +18,35 @@ C.  noun
 ② (backing) (for picture) 框 kuàng (for gem, coin) 托板 tuōbǎn (for stamp) 护邮袋 hùyóudài (for transparency, specimen) 载片 zàipiàn 
 ③ (support) (for machine, engine, camera) 底座 dǐzuò (for gun) 炮架 pào jià 
 ④ (horse) 坐骑 zuòqí PHRASAL VERB mount up intransitive verb «costs, savings, debts» 增加 zēngjiā 
-mount 
-▶verb
-1 he mounted the stairs: go up, ascend, climb (up), scale. ANTONYMS descend.
-2 the committee mounted the platform: climb on to, jump on to, clamber on to, get on to.
-3 they mounted their horses: get astride, bestride, get on to, hop on to.
-4 the museum is mounting an exhibition: (put on) display, exhibit, present, install; organize, put on, stage.
-5 the company mounted a takeover bid: organize, stage, prepare, arrange, set up; launch, set in motion, initiate.
-6 their losses mounted rapidly: increase, grow, rise, escalate, soar, spiral, shoot up, rocket, climb, accumulate, build up, multiply. ANTONYMS decrease, diminish.
-7 cameras were mounted above the door: install, place, fix, set, put up, put in position.
+mount
+1 
+mount
+
+▶verb [with object]
+1 climb up (stairs, a hill, or other rising surface): he mounted the steps to the front door. 
+• climb or move up onto (a raised surface): the master of ceremonies mounted the platform. 
+• get up on (an animal or bicycle) in order to ride it. 
+• set (someone) on horseback; provide with a horse: she was mounted on a white horse. 
+• (of a male mammal or bird) get on (a female) for the purpose of copulation. 
+• [no object] (of the blood or its color) rise into the cheeks: feeling the blush mount in her cheeks, she looked down quickly.
+2 organize and initiate (a campaign or other significant course of action): the company had successfully mounted takeover bids. 
+• establish; set up: security forces mounted checkpoints at every key road. 
+• produce (a play, exhibition, or other artistic event); present for public view or display.
+3 [no object] grow larger or more numerous: the costs mount up when you buy a home. 
+• (of a feeling) become stronger or more intense: his anxiety mounted as messages were left unanswered.
+4 place or fix (an object) in its operating position: fluorescent lights are mounted on the ceiling 
+the engine is mounted behind the rear seats. 
+• set in or attach to a backing or setting: the photographs will be mounted and framed. 
+• fix (an object for viewing) on a microscope slide. 
+• Computing make (a disk or disk drive) available for use. 
+▶noun
+1 a backing or setting on which a photograph, gem, or work of art is set for display. 
+• a glass microscope slide for securing a specimen to be viewed. 
+• Philately a clear plastic or paper sleeve used to display a postage stamp.
+2 a support for a gun, camera, or similar piece of equipment.
+3 a horse being ridden or that is available for riding: he hung onto his mount's bridle. 
+• an opportunity to ride a horse, especially as a jockey: the jockey's injuries forced him to give up the coveted mount on Cool Ground. 
+PHRASES
+mount guard keep watch, especially for protection or to prevent escape.DERIVATIVES mountable adjective. mounter 
+ˈmoun(t)ər 
+nounORIGIN Middle English: from Old French munter, based on Latin mons, mont- ‘mountain.’

@@ -7,10 +7,11 @@ noun
 ④ Countable(military, industrial facility) 设施 shèshī 
 ⑤ Countable(art exhibit) 展品 zhǎnpǐn 
 installation 
-BrE ɪnstəˈleɪʃ(ə)n, AmE ˌɪnstəˈleɪʃ(ə)n 
-noun 
-① Uncountable(act of) (placing in position) 安装 ānzhuāng 
-② Countable(instance of placing in position or official post) 就职 jiùzhí 
-③ Countable(equipment) 装备 zhuāngbèi 
-④ Countable(military, industrial facility) 设施 shèshī 
-⑤ Countable(art exhibit) 展品 zhǎnpǐn 
+ˌinstəˈlāSH(ə)n
+
+▶noun
+1 the action or process of installing someone or something, or of being installed: the installation of a central air-conditioning system.
+2 a thing installed, in particular: 
+• a large piece of equipment installed for use: computer installations. 
+• a military or industrial establishment: nuclear installations. 
+• an art exhibit constructed within a gallery: a video installation.

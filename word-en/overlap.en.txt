@@ -1,5 +1,13 @@
-overlap A. /BrE əʊvəˈlap, AmE ˌoʊvərˈlæp/ intransitive verb(present participle etc. -pp-) «tiles, edges» 部分重叠 bùfen chóngdié ; figurative «duties, activities, sectors» 有相同之处 yǒu xiāngtóng zhī chù his interests overlap with mine to a large extent 他与我的兴趣在很大程度上是相同的 
-B.  /BrE əʊvəˈlap, AmE ˌoʊvərˈlæp/ transitive verb (present participle etc. -pp-) 使部分重叠 shǐ bùfen chóngdié the tiles overlap each other 瓦片互相搭接 
-C.  /BrE ˈəʊvəlap, AmE ˈoʊvərˌlæp/ noun 
-① Technology 重叠部分 chóngdié bùfen an overlap of 50 cm 50厘米的重叠 
-② figurative (common ground) 共同之处 gòngtóng zhī chù an overlap between the two systems 两种系统的共同之处 
+overlap 
+▶verb 
+ˌōvərˈlap 
+(overlaps, overlapping, overlapped) [with object] extend over so as to cover partly: the canopy overlaps the house roof at one end 
+[no object] : the curtains overlap at the center when closed. 
+• [no object] cover part of the same area of interest, responsibility, etc.: their duties sometimes overlapped. 
+• [no object] partly coincide in time: two new series overlapped. 
+▶noun 
+ˈōvərˌlap 
+a part or amount that overlaps: an overlap of about half an inch. 
+• a common area of interest, responsibility, etc.: there are many overlaps between the approaches 
+there is some overlap in requirements. 
+• a period of time in which two events or activities happen together.

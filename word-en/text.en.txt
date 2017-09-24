@@ -1,6 +1,19 @@
 text 
+tekst
+
 ▶noun
-1 a text that explores pain and grief: book, work, written work, printed work, document.
-2 the pictures are clear and relate well to the text: words, wording, writing; content, body, main body; narrative, story.
-3 academic texts: textbook, book, material.
-4 a text from the First Book of Samuel: passage, extract, excerpt, quotation, verse, line; reading.
+1 a book or other written or printed work, regarded in terms of its content rather than its physical form: a text that explores pain and grief. 
+• a piece of written or printed material regarded as conveying the authentic or primary form of a particular work: in some passages it is difficult to establish the original text 
+the text of the lecture was available to guests. 
+• written or printed words, typically forming a connected piece of work: stylistic features of journalistic text. 
+• Computing data in the form of words or alphabetic characters.
+2 [in singular] the main body of a book or other piece of writing, as distinct from other material such as notes, appendices, and illustrations: the pictures are clear and relate well to the text. 
+• a script or libretto.
+3 a written work chosen or assigned as a subject of study: the book is intended as a secondary text for religion courses. 
+• a textbook. 
+• a passage from the Bible or other religious work, especially when used as the subject of a sermon. 
+• a subject or theme for a discussion or exposition: he took as his text the fact that Australia is paradise.
+4 a text message.
+5 (also text-hand) fine, large handwriting, used especially for manuscripts. 
+▶verb [with object] send a text message to: I thought it was fantastic that he took the trouble to text me 
+(as noun texting) : stricter regulations against texting while driving. DERIVATIVES texter noun. textless adjectiveORIGIN late Middle English: from Old Northern French texte, from Latin textus ‘tissue, literary style’ (in medieval Latin, ‘Gospel’), from text- ‘woven,’ from the verb texere .

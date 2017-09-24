@@ -1,8 +1,12 @@
 who 
-BrE huː, hʊ, AmE hu 
-pronoun 
-① (in direct or indirect questions) 谁 shuí who is that woman? 那个女人是谁？ who's this present for? colloquial 这礼物是给谁的？ I sold it — who to? 我把它给卖了──卖给谁了？ who do you think you are? 你以为你是什么人？ who are you to tell me I can’t park here? 你是谁呀，凭什么不让我在这儿停车？ who's who 谁是谁 do you know who's who? 你知道这些人的身份吗？ 
-② (asking for name) [用于让人说出全名]John's here — John who? 约翰来了──哪个约翰？ 
-③ (specifying preceding noun) …的人 … de rén people who like cats 喜欢猫的人 it's science teachers who are so scarce 非常缺乏的是理科老师 that's the man who I gave it to colloquial 我把东西就交给了那个男人 he who hesitates is lost proverb 犹豫不决者错失良机 
-④ (adding to preceding noun) [进一步提供先行词的信息]my mother, who was an architect, died last year 我母亲是去年去世的，她是一名建筑师 I gave the money to Laura, who put it in the safe colloquial 我把钱给了劳拉，她将它放在了保险柜里 
-⑤ (whoever) 无论谁 wúlùn shuí give it to who you like 你愿意给谁就给谁 he who dares wins 谁胆大谁就赢 
+ho͞o
+
+▶pronoun
+1 [interrogative pronoun] what or which person or people: who is that woman? 
+I wonder who that letter was from.
+2 [relative pronoun] used to introduce a clause giving further information about a person or people previously mentioned: Joan Fontaine plays the mouse who married the playboy. 
+• archaic the person that; whoever: who holds the sea, perforce doth hold the land. 
+PHRASES
+as who should say archaic as if to say: he meekly bowed to him, as who should say “Proceed.” who am I (or are you, is he, etc.) to do something what right or authority do I (or you, he, etc.) have to do something: who am I to object? who goes there? see go1. ORIGIN Old English hwā, of Germanic origin; related to Dutch wie and German wer . usage:
+1 A continuing debate in English usage is the question of when to use who and when to use whom. According to formal grammar, who forms the subjective case and so should be used in subject position in a sentence, as in who decided this? The form whom, on the other hand, forms the objective case and so should be used in object position in a sentence, as in whom do you think we should support? or to whom do you wish to speak? Although there are some speakers who still use who and whom according to the rules of formal grammar as stated here, there are many more who rarely use whom at all; its use has retreated steadily and is now largely restricted to formal contexts. The normal practice in modern English is to use who instead of whom ( who do you think we should support?) and, where applicable, to put the preposition at the end of the sentence ( who do you wish to speak to?). Such uses are today broadly accepted in standard English, but in formal writing it is best to maintain the distinction.
+2 On the use of who and that in relative clauses see usage at that .

@@ -1,5 +1,5 @@
 geography 
-BrE dʒɪˈɒɡrəfi, ˈdʒɒɡrəfi, AmE dʒiˈɑɡrəfi 
-nounUncountable
-① (field, subject) 地理学 dìlǐxué a geography book/lesson 地理书/课 
-② (layout) 地形 dìxíng the geography of the war zone 交战区的地势 to have a good/poor sense of geography 有良好的/很差的方位感 
+jēˈäɡrəfē
+
+▶noun the study of the physical features of the earth and its atmosphere, and of human activity as it affects and is affected by these, including the distribution of populations and resources, land use, and industries. 
+• [usually in singular] the nature and relative arrangement of places and physical features: knowing the geography and topology of the battlefield. ORIGIN late 15th century: from French géographie or Latin geographia, from Greek geōgraphia, from gē ‘earth’ + -graphia ‘writing.’

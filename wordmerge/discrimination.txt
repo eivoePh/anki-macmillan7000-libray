@@ -5,6 +5,13 @@ nounUncountable
 ② (taste) 鉴赏力 jiànshǎnglì to show discrimination 显示出鉴赏力 
 ③ (ability to differentiate) 识别力 shíbiélì 
 discrimination 
+dəˌskriməˈnāSH(ə)n
+
 ▶noun
-1 racial discrimination: prejudice, bias, bigotry, intolerance, narrow-mindedness, unfairness, inequity, favoritism, one-sidedness, partisanship; sexism, chauvinism, misogyny, racism, racialism, anti-Semitism, heterosexism, ageism, classism, casteism; in South Africa historical apartheid. ANTONYMS impartiality.
-2 a bland man with no discrimination: discernment, judgment, perception, perceptiveness, perspicacity, acumen, astuteness, shrewdness, judiciousness, insight; selectivity, (good) taste, fastidiousness, refinement, sensitivity, cultivation, culture.
+1 the unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex: victims of racial discrimination 
+discrimination against homosexuals.
+2 recognition and understanding of the difference between one thing and another: discrimination between right and wrong 
+young children have difficulties in making fine discriminations. 
+• the ability to discern what is of high quality; good judgment or taste: those who could afford to buy showed little taste or discrimination. 
+• Psychology the ability to distinguish between different stimuli: [as modifier] : discrimination learning.
+3 Electronics the selection of a signal having a required characteristic, such as frequency or amplitude, by means of a discriminator that rejects all unwanted signals.

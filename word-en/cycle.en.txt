@@ -1,6 +1,19 @@
 cycle 
+ˈsīk(ə)l
+
 ▶noun
-1 the cycle of birth, death, and rebirth: round, rotation; pattern, rhythm.
-2 the painting is one of a cycle of seven: series, sequence, succession, run; set.
-▶verb Patrick cycled
-10 miles each day: ride (a bicycle), bike, pedal.
+1 [often with adjective or noun modifier] a series of events that are regularly repeated in the same order: the boom and slump periods of a trade cycle. 
+• the period of time taken to complete a single sequence of events: the cells are shed over a cycle of twenty-eight days. 
+• technical a recurring series of successive operations or states, as in the working of an internal combustion engine, or in the alternation of an electric current or a wave: the familiar four cycles of intake, combustion, ignition, and exhaust. 
+• Biology a recurring series of events or metabolic processes in the lifetime of a plant or animal: the storks' breeding cycle. 
+• Biochemistry a series of successive metabolic reactions in which one of the products is regenerated and reused. 
+• Ecology the movement of a simple substance through the soil, rocks, water, atmosphere, and living organisms of the earth. See carbon cycle, nitrogen cycle. 
+• Computing a single set of hardware operations, especially that by which memory is accessed and an item is transferred to or from it, to the point at which the memory may be accessed again. 
+• Physics a cycle per second; one hertz.
+2 a complete set or series: the painting is one of a cycle of seven. 
+• a series of songs, stories, plays, or poems composed around a particular theme and usually intended to be performed or read in sequence: Wagner's Ring Cycle.
+3 a bicycle or tricycle. 
+• [in singular] a ride on a bicycle: a 112-mile cycle. 
+▶verb [no object]
+1 ride a bicycle: she cycled to work every day.
+2 move in or follow a regularly repeated sequence of events: economies cycle regularly between boom and slump. ORIGIN late Middle English: from Old French, from late Latin cyclus, from Greek kuklos ‘circle.’

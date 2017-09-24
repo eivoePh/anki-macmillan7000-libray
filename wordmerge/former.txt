@@ -8,8 +8,12 @@ A.  adjective
 B.  noun 
 ① Uncountable(the first of two) 前者 qiánzhě the former is simple, the latter is complex 前者简单，后者复杂 
 ② Countable(for shaping) 模具 mújù 
-former 
-▶adjective
-1 the former bishop: one-time, erstwhile, sometime, ex-, late; previous, foregoing, preceding, earlier, prior, past, last. ANTONYMS future, next.
-2 in former times: earlier, old, past, bygone, olden, long-ago, gone by, long past, of old; literary of yore. ANTONYMS future, present.
-3 the former of the two: first-mentioned, first. ANTONYMS latter.
+former
+1 
+ˈfôrmər
+
+▶adjective [attributive]
+1 having previously filled a particular role or been a particular thing: her former boyfriend. 
+• of or occurring in the past or an earlier period: in former times.
+2 (the former) denoting the first or first mentioned of two people or things: those who take the former view 
+[as noun] : the powers of the former are more comprehensive than those of the latter. ORIGIN Middle English: from Old English forma (see foremost) + -er2 . usage: Traditionally, former and latter are used in relation to pairs of items: either the first of two items (former) or the second of two items (latter). The reason for this is that former and latter were formed as comparatives, and comparatives are correctly used with reference to just two things, while a superlative is used where there are more than two things. (So, for example, strictly speaking one should say the longest of the three books but the longer of the two books.) In practice, former and latter are now sometimes used just as synonyms for first and last and are routinely used to refer to a contrast involving more than two items. Such uses, however, are not acceptable in good English style. Therefore, if you're referring to winter, spring, and summer, for example, it would be correct to say I find the last most enjoyable, not I find the latter most enjoyable.

@@ -1,8 +1,26 @@
-card 
+card
+1 
+kärd
+
 ▶noun
-1 a piece of stiff card: cardboard, pasteboard, board, Bristol board.
-2 I'll send her a card: greeting card, postcard, notecard.
-3 she produced her card: identification (card), ID, credentials, pass, key card; business card, calling card.
-4 she paid with her card: credit card, debit card, bank card, charge card, gold card, platinum card; phone card; informal plastic.
-5 the cards were dealt: playing card; tarot card; (cards) deck/pack of cards.
-6 dated, informal she's such a card! eccentric, character; joker, wit, wag, jester, clown, comedian; informal laugh, scream, hoot, riot, jokester.
+1 a piece of thick, stiff paper or thin pasteboard, in particular one used for writing or printing on: some notes jotted down on a card. 
+• a piece of thick paper printed with a picture and used to send a message or greeting: a birthday card. 
+• a small rectangular piece of thick paper with a person's name and other details printed on it for purposes of identification, for example a business card.
+2 a small rectangular piece of plastic issued by a bank, containing personal data in a machine-readable form and used chiefly to obtain cash or credit. 
+• a small rectangular piece of plastic containing machine-readable data, used for paying for a telephone call or gaining entry to a room.
+3 a playing card: a deck of cards. 
+• (cards) a game played with playing cards.
+4 Computing short for expansion card.
+5 informal a person regarded as odd or amusing: He laughed, “You're a card, you know.”
+6 a program of events at a racetrack. 
+• a record of scores in a sporting event; a scorecard. 
+▶verb [with object]
+1 write (something) on a card, especially for indexing.
+2 North American check the identity card of (someone), in particular as evidence of legal drinking age.
+3 informal (in golf and other sports) score (a certain number of points on a scorecard): he carded 68 in the final round. 
+• (of the referee in soccer and some other sports) show a yellow or red card to (a player who is being cautioned or sent off): Reid, seconds after being carded, broke down the left wing 
+a Mac flanker was carded and sent to the sin bin in the first half. 
+PHRASES
+hold all the cards be in a very strong or advantageous position. in the cards informal very possible or likely: an overwhelming military triumph is in the cards. play the —— card exploit the specified issue or idea mentioned, especially for political advantage: he resisted the temptation to play the race card 
+I'm really surprised she played the gender card. play one's cards right make the best use of one's assets and opportunities. put (or lay) one's cards on the table be completely open and honest in declaring one's resources, intentions, or attitude.ORIGIN late Middle English( sense
+3 of the noun): from Old French carte, from Latin carta, charta, from Greek khartēs ‘papyrus leaf.’

@@ -27,16 +27,41 @@ D.  adverb
 ① (without looking) 不凭视觉地 bù píng shìjué de ‹taste›
 ② Aviation 仅凭仪表操纵地 jǐn píng yíbiǎo cāozòng de ‹fly›
 blind 
+blīnd
+
 ▶adjective
-1 he has been blind since birth: sightless, unsighted, visually impaired, visionless, unseeing; partially sighted, purblind; informal as blind as a bat. ANTONYMS sighted.
-2 the government must be blind: imperceptive, unperceptive, insensitive, slow, obtuse, uncomprehending; stupid, unintelligent; informal dense, dim, thick, dumb, dopey, dozy. ANTONYMS perceptive.
-3 he was blind to her shortcomings: unmindful of, mindless of, careless of, heedless of, oblivious to, insensible to, unconcerned about, indifferent to. ANTONYMS mindful.
-4 blind acceptance of conventional opinion: uncritical, unreasoned, unthinking, unconsidered, mindless, undiscerning, indiscriminate. ANTONYMS discerning.
-5 a blind rage: impetuous, impulsive, uncontrolled, uncontrollable, wild, unrestrained, immoderate, intemperate, irrational, unbridled.
-▶verb
-1 he was blinded in a car crash: make blind, deprive of sight, render sightless; put someone's eyes out.
-2 he was blinded by his faith: deprive of judgment, deprive of perception, deprive of reason, deprive of sense.
-3 they try to blind you with science: overawe, intimidate, daunt, deter, discourage, cow, subdue, dismay; disquiet, discomfit, unsettle, disconcert; disorient, stun, stupefy, confuse, bewilder, bedazzle, confound, perplex, overwhelm; informal faze, psych out.
+1 unable to see because of injury, disease, or a congenital condition: she suffered from glaucoma, which has left her completely blind 
+he was blind in one eye. 
+• [attributive] (of an action, especially a test or experiment) done without being able to see or without being in possession of certain information: a blind tasting of eight wines. 
+• Aeronautics (of flying) using instruments only: blind landings during foggy conditions.
+2 [predicative] lacking perception, awareness, or discernment: he's absolutely blind where you're concerned, isn't he? 
+she was blind to the realities of her position. 
+• [attributive] (of an action or state of mind) not controlled by reason or judgment: they left in blind panic. 
+• [attributive] not governed by purpose: moving purposelessly in a world of blind chance.
+3 (of a corner or bend in a road) impossible to see around: two trucks collided on a blind curve in the road. 
+• (of a door or window) walled up. 
+• closed at one end: a blind pipe.
+4 [attributive with negative] British informal (used in emphatic expressions) not the slightest: you don't know a blind thing!
+5 (of a plant) without buds, eyes, or terminal flowers: planting too shallowly is the most common cause of bulbs coming up blind.
+6 informal drunk. 
+▶verb [with object]
+1 cause (someone) to be unable to see, permanently or temporarily: the injury temporarily blinded him 
+eyes blinded with tears.
+2 (be blinded) deprive (someone) of understanding, judgment, or perception: a clever tactician blinded by passion 
+somehow Clare and I were blinded to the truth. 
+• (blind someone with) confuse or overawe someone with something difficult to understand: they try to blind you with science. 
 ▶noun
-1 a window blind: shade, screen, sunshade, brise-soleil, shutter, curtain, awning, canopy; louver, jalousie; Venetian blind, miniblind, vertical blind.
-2 some crook had sent the basketball tickets as a blind: deception, smokescreen, front, facade, cover, pretext, masquerade, feint, camouflage; trick, ploy, ruse, machination.
+1 (as plural noun the blind) people who are unable to see: guide dogs for the blind.
+2 an obstruction to sight or light, in particular: 
+• a screen for a window, especially one on a roller or made of slats: she pulled down the blinds. 
+• British an awning over a shop window.
+3 [in singular] something designed to conceal one's real intentions: he phoned again from his own home: that was just a blind for his wife. 
+• a hiding place: you can sometimes use your car as a blind. 
+• North American a camouflaged shelter used by hunters to get close to wildlife: a duck blind.
+4 British informal, dated a heavy drinking bout: he's off on a blind again.
+5 British a legitimate business concealing a criminal enterprise. 
+▶adverb without being able to see clearly: he was the first pilot in history to fly blind. 
+• without having all the relevant information; unprepared: he was going into the interview blind. 
+• (of a stake in poker and other games) put up by a player before the cards dealt are seen. 
+PHRASES
+(as) blind as a bat informal having very bad eyesight. blind drunk informal extremely drunk. effing and blinding British see eff. rob (or steal) someone blind informal rob or cheat someone in a comprehensive or merciless way. turn a blind eye pretend not to notice. [said to be in allusion to Nelson, who lifted a telescope to his blind eye at the Battle of Copenhagen (1801), in order to avoid seeing the signal to ‘discontinue the action.’]ORIGIN Old English, of Germanic origin; related to Dutch and German blind .

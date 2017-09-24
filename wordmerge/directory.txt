@@ -4,4 +4,10 @@ noun
 ① (book) 名录簿 mínglùbù trade directory 商行名录 
 ② Computing 目录 mùlù 
 directory 
-▶noun a directory of past and present members: index, list, listing, register, address book, catalog, record, archive, inventory; blogroll; trademark daytimer.
+diˈrektərē dīˈrektərē
+
+▶noun (plural directories)
+1 a book listing individuals or organizations alphabetically or thematically with details such as names, addresses, and telephone numbers. 
+• Computing a file that consists solely of a set of other files (which may themselves be directories).
+2 chiefly historical a book of directions for the conduct of Christian worship, especially in Presbyterian and Roman Catholic churches.
+3 (the Directory) the revolutionary government in France 1795–99, comprising two councils and a five-member executive. It maintained an aggressive foreign policy but could not control events at home and was overthrown by Napoleon Bonaparte. ORIGIN late Middle English (in the general sense ‘something that directs’): from late Latin directorium, from director ‘governor,’ from dirigere ‘to guide.’

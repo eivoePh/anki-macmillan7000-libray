@@ -1,6 +1,7 @@
 controller 
-BrE kənˈtrəʊlə, AmE kənˈtroʊlər 
-noun 
-① (gen) 管理者 guǎnlǐzhě 
-② Radio, Television 主管 zhǔguǎn 
-③ Busn, Finance 财务总管 cáiwù zǒngguǎn a financial controller 财务主管 
+kənˈtrōlər
+
+▶noun a person or thing that directs or regulates something: the power controller on a subway train. 
+• a person in charge of an organization's finances. DERIVATIVES controllership 
+-ˌSHip 
+nounORIGIN Middle English (denoting a person who kept a duplicate register of accounts): from Anglo-Norman contrerollour, from contreroller ‘keep a copy of a roll of accounts’ (see control). Compare with comptroller .

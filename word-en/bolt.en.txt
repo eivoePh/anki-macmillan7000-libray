@@ -1,15 +1,18 @@
-bolt 
+bolt
+1 
+bōlt
+
 ▶noun
-1 the bolt on the shed door: bar, lock, catch, latch, fastener, deadbolt.
-2 nuts and bolts: rivet, pin, peg, screw.
-3 a bolt whirred over my head: arrow, quarrel, dart, shaft.
-4 a bolt of lightning: flash, thunderbolt, shaft, streak, burst, flare.
-5 Mark made a bolt for the door: dash, dart, run, sprint, leap, bound.
-6 a bolt of cloth: roll, reel, spool; quantity, amount.
-▶verb
-1 he bolted the door: lock, bar, latch, fasten, secure.
-2 the lid was bolted down: rivet, pin, peg, screw; fasten, fix.
-3 Anna bolted from the room: dash, dart, run, sprint, hurtle, careen, rush, fly, shoot, bound; flee; informal tear, scoot, leg it.
-4 he bolted down his breakfast: gobble up, gulp down, wolf down, guzzle (down), devour; informal demolish, polish off, shovel in/down, scarf up.
+1 a metal pin or bar, in particular:bolt11 
+• a bar that slides into a socket to fasten a door or window. 
+• a threaded pin that screws into a nut and is used to fasten things together. 
+• the sliding piece of the breech mechanism of a rifle. 
+• (in rock climbing) a long pin that is driven into a rock face so that a rope can be attached to it.
+2 a short heavy arrow shot from a crossbow.
+3 a flash of lightning leaving a jagged line across the sky. 
+▶verb [with object] fasten (something) with a metal pin or bar, in particular: 
+• fasten (a door or window) with a bar that slides into a socket: all the doors were locked and bolted. 
+• fasten (an object) to something else with a bolt: the lid was put into position and bolted down 
+a camera was bolted to the aircraft. 
 PHRASES
-a bolt (from) out of the blue the department shutdown came as a bolt out of the blue: shock, surprise, bombshell, thunderbolt, revelation. bolt upright in Scene 2, the corpse is supposed to sit suddenly bolt upright: straight, rigidly, stiffly. ANTONYMS slouching.
+a bolt from (or out of) the blue a sudden and unexpected event or piece of news: the job came like a bolt from the blue. bolt upright upright, with the back rigid and straight: she sat bolt upright in bed. have shot one's bolt informal have done all that one is able.ORIGIN Old English, ‘arrow,’ of unknown origin; related to Dutch bout and German Bolzen ‘arrow, bolt for a door.’

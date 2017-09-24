@@ -1,17 +1,32 @@
 land 
+land
+
 ▶noun
-1 publicly owned land: grounds, fields, terrain, territory, open space; property, landholding, acres, acreage, lands, real estate, realty, estate; historical demesne.
-2 fertile land: soil, earth, loam, topsoil, humus; tillage.
-3 many people are leaving the land : the countryside, the country, rural areas, farmland, agricultural land.
-4 Tunisia is a land of variety: country, nation, nation state, state, realm, kingdom, province; region, area, domain.
-5 the lookout sighted land to the east: terra firma, dry land; coast, coastline, shore. ANTONYMS sea.
+1 the part of the earth's surface that is not covered by water, as opposed to the sea or the air: the reptiles lay their eggs on land 
+after four weeks at sea we sighted land. 
+• [as modifier] living or traveling on land rather than in water or the air: a land mammal. 
+• an expanse of land; an area of ground, especially in terms of its ownership or use: the land north of the village 
+(lands) : the Indians were wiped out as gold prospectors invaded their lands. 
+• (the land) ground or soil used as a basis for agriculture: my family had worked the land for many years.
+2 a country: the valley is one of the most beautiful in the land 
+the lands of the Middle East 
+America, the land of political equality. 
+• a conceptual realm or domain: you are living in a fantasy land.
+3 the space between the rifling grooves in a gun. 
 ▶verb
-1 Canadian troops landed at Juno Beach: disembark, go ashore, debark, alight, get off. ANTONYMS embark.
-2 our ship landed at New London: dock, moor, berth, put in, anchor, drop anchor. ANTONYMS set sail.
-3 their plane landed in Chicago: touch down, make a landing, come in to land, come down. ANTONYMS take off.
-4 a bird landed on the branch: perch, settle, come to rest, alight. ANTONYMS fly off.
-5 informal Nick landed the job of editor: obtain, get, acquire, secure, be appointed to, gain, net, win, achieve, attain, carry off; informal bag.
-6 informal Joanne's drug habit landed her in big trouble: bring, lead to, drive to, cause to be in.
-7 informal he landed a left hook that staggered Curry: inflict, deal, deliver, administer, dispense, score, mete out.
-WORD LINKS
-land terrestrial relating to the earth or dry landWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 [with object] put (someone or something) on land from a boat: the lifeboat landed the survivors safely ashore. 
+• [no object] go ashore; disembark: the marines landed at a small fishing jetty. 
+• bring (a fish) to land, especially with a net or hook: I landed a scrappy three-pound walleye. 
+• informal succeed in obtaining or achieving (something desirable), especially in the face of strong competition: she landed the starring role in a new film.
+2 [no object] come down through the air and alight on the ground: planes landing at the rate of two a minute. 
+• [with object] bring (an aircraft or spacecraft) to the ground or the surface of water, especially in a controlled way: the copilot landed the plane. 
+• reach the ground after falling or jumping: he leaped over the fence and landed nimbly on his feet. 
+• [with adverbial of place] (of an object) come to rest after falling or being thrown: the plate landed in her lap. 
+• informal (of something unpleasant or unexpected) arrive suddenly: there seemed to be more problems than ever landing on her desk this week.
+3 [with object] (land someone in) informal cause someone to be in (a difficult or unwelcome situation): his exploits always landed him in trouble. 
+• (land someone with) inflict (an unwelcome task or a difficult situation) on someone: the mistake landed the company with a massive bill.
+4 [with object] informal inflict (a blow) on someone: I won the fight without landing a single punch 
+[with two objects] : I landed him one. 
+PHRASES
+how the land lies what the state of affairs is: let's keep it to ourselves until we see how the land lies. in the land of the living humorous alive or awake. the land of Nod humorous a state of sleep. [punningly, with biblical allusion to the place name Nod (Gen. 4:16).] land on one's feet have good luck or success, especially after risk or trial: after some ups and downs, he has finally landed on his feet. the lay (British lie) of the land the way in which the features or characteristics of an area present themselves. 
+• the current situation or state of affairs: she was beginning to see the lay of the land with her in-laws. live off the land live on whatever food one can obtain by hunting, gathering, or subsistence farming.PHRASAL VERBS land up reach a place or situation; end up: I landed up in prison.ORIGIN Old English, of Germanic origin; related to Dutch land and German Land .

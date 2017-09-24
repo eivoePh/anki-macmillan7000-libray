@@ -1,2 +1,4 @@
 defendant 
-▶noun does the defendant have counsel? accused, prisoner (at the bar); appellant, litigant, respondent; suspect. ANTONYMS plaintiff.
+dəˈfendənt
+
+▶noun an individual, company, or institution sued or accused in a court of law. Compare with plaintiff. ORIGIN Middle English (as an adjective in the sense ‘defending’): from Old French, ‘warding off,’ present participle of defendre (see defend) .

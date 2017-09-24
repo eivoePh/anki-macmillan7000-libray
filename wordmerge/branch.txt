@@ -10,13 +10,21 @@ B.  intransitive verb
 ① «plant» 出枝桠 chū zhīyā 
 ② «road, river» 分叉 fēnchà PHRASAL VERBS branch off: intransitive verb to branch off (from [something]); «road» （从某处）分岔 figurative 偏离（某主题） piānlí(mǒu zhǔtí) branch out: intransitive verb to branch out (into [something]); 将活动范围扩大（到某处） jiāng huódòng fànwéi kuòdà(dào mǒu chù) to branch out on one's own 独立创业 dúlì chuàngyè 
 branch 
-▶noun
-1 the branches of a tree: bough, limb, arm, offshoot.
-2 a branch of the river: tributary, feeder, side stream, fork, side channel, influent.
-3 the judicial branch of government: division, subdivision, section, subsection, subset, department, sector, part, side, wing.
-4 the corporation's New York branch: office, bureau, agency; subsidiary, affiliate, offshoot, satellite.
-▶verb
-1 the place where the road branches: fork, bifurcate, divide, subdivide, split.
-2 narrow paths branched off the road: diverge from, deviate from, split off from; fan out from, radiate from.
-PHRASES
-branch out the company is branching out into the European market: expand, open up, extend; diversify, broaden one's horizons.
+bran(t)SH
+
+▶noun a part of a tree that grows out from the trunk or from a bough. 
+• a lateral extension or subdivision extending from the main part of something, typically one extending from a river, road, or railway: a branch of the Susquehanna River. 
+• a division or office of a large business or organization, operating locally or having a particular function: he went to work at our Boston branch. 
+• a conceptual subdivision of something, especially a family, group of languages, or a subject: a branch of mathematics called graph theory. 
+• Computing a control structure in which one of several alternative sets of program statements is selected for execution. 
+▶verb [no object] (of a road or path) divide into one or more subdivisions. 
+• (of a tree or plant) bear or send out branches: (as adjective branched) : the common sea lavender can be identified by its branched stem. 
+• (branch off) diverge from the main route or part: the road branched off at the town 
+figurative : Ellington was constantly branching off with new musical styles. 
+• (branch out) extend or expand one's activities or interests in a new direction: the company is branching out into Europe. DERIVATIVES branchlet 
+ˈbran(t)SHlət 
+noun. branchlike 
+-ˌlīk 
+adjective. branchy 
+ˈbran(t)SHē 
+adjectiveORIGIN Middle English: from Old French branche, from late Latin branca ‘paw.’

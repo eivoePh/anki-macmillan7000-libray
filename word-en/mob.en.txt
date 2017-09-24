@@ -1,8 +1,9 @@
 mob 
-▶noun
-1 troops dispersed the mob: crowd, horde, multitude, rabble, mass, throng, group, gang, gathering, assemblage.
-2 (Mob) he was hiding from the Mob: Mafia, Cosa Nostra, Camorra.
-3 the mob was excluded from political life: common people, masses, rank and file, commonality, plebeians, proletariat; lower classes; derogatory hoi polloi, rabble, riffraff, (great) unwashed, (common) herd, proles, plebs; humorous sheeple; historical third estate.
-▶verb
-1 the band's lead singer was mobbed when he visited Vancouver: surround, swarm, besiege, jostle.
-2 reporters mobbed her hotel: crowd (into), fill, pack, throng, press into, squeeze into.
+mäb
+
+▶noun a large crowd of people, especially one that is disorderly and intent on causing trouble or violence: a mob of protesters. 
+• (usually the Mob) North American the Mafia or a similar criminal organization. 
+• (the mob) the ordinary people: the age-old fear that the mob may organize to destroy the last vestiges of civilized life. 
+▶verb (mobs, mobbing, mobbed) [with object] crowd around (someone) in an unruly and excitable way in order to admire or attack them: he was mobbed by autograph hunters. 
+• (of a group of birds or mammals) surround and attack (a predator or other source of threat) in order to drive it off. 
+• crowd into (a building or place): an unruly crowd mobbed the White House during an inaugural reception. DERIVATIVES mobber nounORIGIN late 17th century: abbreviation of archaic mobile, short for Latin mobile vulgus ‘excitable crowd.’

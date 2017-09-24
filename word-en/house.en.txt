@@ -1,14 +1,44 @@
 house 
-▶noun
-1 a new development with 200 houses: residence, home, place of residence; homestead; a roof over one's head; formal habitation, dwelling (place), abode, domicile.
-2 you'll wake the whole house! household, family, occupants; clan, tribe; informal brood.
-3 the house of Windsor: family, clan, tribe; dynasty, line, bloodline, lineage, ancestry, family tree.
-4 a printing house: firm, business, company, corporation, enterprise, establishment, institution, organization, operation; informal outfit, setup.
-5 the country's upper house: legislative assembly, legislative body, legislature, chamber, council, congress, senate, parliament, diet.
-6 the house applauded: audience, crowd, spectators, viewers, listeners; assembly, congregation.
-7 they filled the house: theater, auditorium, amphitheater, hall, gallery, stalls.
-▶verb
-1 they can house twelve employees: accommodate, provide accommodations for, give someone a roof over their head, lodge, quarter, board, billet, take in, sleep, put up; harbor, shelter.
-2 this panel houses the main switch: contain, hold, store; cover, protect, enclose.
+▶noun 
+hous 
+(plural houses 
+ˈhouziz
+)
+1 a building for human habitation, especially one that is lived in by a family or small group of people.house styles 
+• the people living in a house; a household: do you want the whole house woken up? 
+• (often House) a family or family lineage, especially a noble or royal one; a dynasty: the power and prestige of the house of Stewart. 
+• [with modifier] a building in which animals live or in which things are kept: a reptile house.
+2 a building in which people meet for a particular activity: a house of prayer. 
+• a business or institution: he had purchased a publishing house. 
+• a restaurant or inn: [as modifier] : I ordered a bottle of their house wine. 
+• a residential hall at a school or college, or its residents. 
+• a theater: a hundred musicians performed in front of a full house. 
+• an audience in a theater or concert venue: the house burst into applause. 
+• a religious community that occupies a particular building: the Cistercian house at Clairvaux. 
+• dated a brothel. 
+• British formal a college of a university.
+3 a legislative or deliberative assembly: the sixty-member National Council, the country's upper house. 
+• (the House) the House of Representatives or (in the UK or Canada) the House of Commons or Lords.
+4 (also house music) a style of popular dance music typically using synthesized drum and bass lines, sparse repetitive vocals, and a fast beat.
+5 Astrology any of the twelve divisions of the celestial sphere, based on the positions of the ascendant and midheaven at a given time and place, and determined by any of a number of methods. 
+• a celestial division represented as a sector on an astrological chart, used in allocating elements of character and circumstance to different spheres of human life. 
+▶adjective 
+hous 
+[attributive]
+1 (of an animal or plant) kept in, frequenting, or infesting buildings.
+2 relating to a business, institution, or society: a house journal. 
+• (of a band or group) resident or regularly performing in a club or other venue. 
+▶verb 
+houz 
+[with object]
+1 provide (a person or animal) with shelter or living quarters: attempts by the government to house the poor.
+2 provide space for; accommodate: the museum houses a collection of Roman sculpture. 
+• insert or fix (something) in a socket or mortise. 
 PHRASES
-on the house informal drinks are on the house: free, free of charge, without charge, at no cost, for nothing, gratis; complimentary; informal for free, comp.
+like a house on fire (or afire) informal vigorously; furiously. 
+• excellently: Ben and my aunt got along like a house on fire. house and home a person's home (used for emphasis): some people sell house and home to sit in a boat writing books. a house divided cannot stand proverb a group or organization weakened by internal dissensions will be unable to withstand external pressures. house of cards a structure built out of playing cards precariously balanced together. 
+• an insubstantial or insecure situation or scheme: his case was a house of cards until Attorney Jabowski stepped in. keep house do the cooking, cleaning, and other tasks involved in the running of a household. on the house (of a drink or meal in a bar or restaurant) at the management's expense; free. play house (of a child) play at being a family in their home. put (or set or get) one's house in order make necessary reforms: they need to put their own economic house in order. set up house make one's home in a specified place.DERIVATIVES houseful 
+ˈhousˌfo͝ol 
+noun (plural housefuls) . houseless 
+ˈhousləs 
+adjectiveORIGIN Old English hūs (noun), hūsian (verb), of Germanic origin; related to Dutch huis,German Haus (nouns), and Dutch huizen,German hausen (verbs).

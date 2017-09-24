@@ -9,9 +9,13 @@ C.  intransitive verb
 ① (make hissing sound) «gas, snake, cat» 发嘶嘶声 fā sīsī shēng ; «audience» 发嘘声 fā xūshēng to hiss at [somebody] 朝某人发嘘声 
 ② (speak in menacing tone) 带嘘声说话 dài xūshēng shuōhuà ; (whisper loudly) 大声地耳语 dàshēng de ěryǔ 
 hiss 
-▶verb
-1 the escaping gas hissed: fizz, fizzle, whistle, wheeze; rare sibilate.
-2 the audience hissed: jeer, catcall, boo, heckle, whistle, hoot; scoff, jibe.
-▶noun
-1 the hiss of the steam: fizz, fizzing, whistle, hissing, sibilance, wheeze, pfft; rare sibilation.
-2 the speaker received hisses: jeer, catcall, boo, whistle; abuse, scoffing, taunting, derision.
+his
+
+▶verb [no object] make a sharp sibilant sound as of the letter s: the escaping gas was now hissing. 
+• (of a person) make a sibilant sound as a sign of disapproval or derision: the audience hissed loudly at the mention of his name. 
+• [with object] express disapproval of (someone) by hissing: he was hissed off the stage. 
+• [reporting verb] whisper something in an urgent or angry way: he hissed at them to be quiet 
+[with direct speech] : “Get back!” he hissed. 
+▶noun a sharp sibilant sound: the spit and hiss of a cornered cat. 
+• a sibilant sound used as an expression of disapproval or derision: a hiss of annoyance. 
+• electrical interference at audio frequencies: tape hiss. ORIGIN late Middle English (as a verb): imitative.

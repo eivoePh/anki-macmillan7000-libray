@@ -1,2 +1,10 @@
 minimal 
-▶adjective with minimal care, you can have a beautiful terrarium: very little, minimum, the least (possible); nominal, token, negligible. ANTONYMS maximum.
+ˈminəməl
+
+▶adjective
+1 of a minimum amount, quantity, or degree; negligible: a minimal amount of information 
+production costs are minimal.
+2 Art characterized by the use of simple or primary forms or structures, especially geometric or massive ones. 
+• characterized by simplicity and lack of adornment or decoration: minimal, simple evening dresses in luxurious fabrics.
+3 Music characterized by the repetition and gradual alteration of short phrases.
+4 Linguistics (of a pair of forms) distinguished by only one feature: “p” and “b” are a minimal pair, distinguished by the feature of voicing. ORIGIN mid 17th century: from Latin minimus ‘smallest’ + -al .

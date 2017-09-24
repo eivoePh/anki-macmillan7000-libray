@@ -5,8 +5,12 @@ transitive verb
 ② Computing 把…编码 bǎ… biānmǎ ‹data, characters, symbols›
 ③ Biology 为…编码 wèi… biānmǎ ‹protein›
 encode 
-BrE ɪnˈkəʊd, ɛnˈkəʊd, AmE ɪnˈkoʊd, ɛnˈkoʊd 
-transitive verb 
-① (put into code) 把…译成密码 bǎ… yìchéng mìmǎ to encode [something] into/in [something]; 把…译成某物 ‹message, sentence, information›
-② Computing 把…编码 bǎ… biānmǎ ‹data, characters, symbols›
-③ Biology 为…编码 wèi… biānmǎ ‹protein›
+inˈkōd enˈkōd
+
+▶verb [with object] convert into a coded form. 
+• Computing convert (information or an instruction) into a particular form: the amount of time required to encode a WAV file to MP3 format. 
+• Biochemistry (of a gene) be responsible for producing (a substance or behavior). DERIVATIVES encodable adjective. encoder 
+inˈkōdər enˈkōdər 
+noun. encodement 
+inˈkōdmənt enˈkōdmənt 
+noun

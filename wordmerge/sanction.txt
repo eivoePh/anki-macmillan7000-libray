@@ -7,10 +7,15 @@ A.  noun
 B.  sanctions noun plural Politics 国际制裁 guójì zhìcái economic/trade sanctions 经济/贸易制裁 to impose sanctions on … 对…实施制裁 to lift or raise sanctions 取消制裁 
 C.  transitive verb (give permission for) 准许 zhǔnxǔ ; (give approval to) 批准 pīzhǔn 
 sanction 
+ˈsaNG(k)SH(ə)n
+
 ▶noun
-1 trade sanctions: penalty, punishment, deterrent; punitive action, discipline, restriction; embargo, ban, prohibition, boycott. ANTONYMS reward.
-2 the scheme has the sanction of the court: authorization, consent, leave, permission, authority, warrant, license, dispensation, assent, acquiescence, agreement, approval, approbation, endorsement, accreditation, ratification, validation, blessing, imprimatur; informal go-ahead, OK, green light. ANTONYMS prohibition.
-▶verb
-1 the rally was sanctioned by the government: authorize, permit, allow, warrant, accredit, license, endorse, approve, accept, back, support; informal O
-K.  ANTONYMS prohibit.
-2 the penalties available to sanction crime: punish, discipline someone for.REFLECTIONS Jean Strousesanction A rare Janus word that means both one thing and its opposite, or antonym. A sanction is the endorsement or approval of a course of action—I sanction this plan—and also (usually plural) coercive measures designed to oppose a course of action: The UN imposed sanctions on Iraq. Other examples of words with diametrically opposed meanings are cleave —to separate forcefully, and to adhere or cling to—and oversight —supervision, the act of watching over, and failure to notice, the act of overlooking.Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+1 a threatened penalty for disobeying a law or rule: a range of sanctions aimed at deterring insider abuse. 
+• (sanctions) measures taken by a nation to coerce another to conform to an international agreement or norms of conduct, typically in the form of restrictions on trade or on participation in official sporting events. 
+• Philosophy a consideration operating to enforce obedience to any rule of conduct.
+2 official permission or approval for an action: he appealed to the bishop for his sanction. 
+• official confirmation or ratification of a law. 
+• Law, historical a law or decree, especially an ecclesiastical decree. 
+▶verb [with object]
+1 give official permission or approval for (an action): only two treatments have been sanctioned by the Food and Drug Administration.
+2 impose a sanction or penalty on. DERIVATIVES sanctionable adjectiveORIGIN late Middle English (as a noun denoting an ecclesiastical decree): from French, from Latin sanctio(n-), from sancire ‘ratify.’ The verb dates from the late 18th century. usage: Sanction is confusing because it has two meanings that are almost opposite. In most domestic contexts, sanction means ‘approval, permission’: voters gave the measure their sanction. In foreign affairs, sanction means ‘penalty, deterrent’: international sanctions against the republic go into effect in January.

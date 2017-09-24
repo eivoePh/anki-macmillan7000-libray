@@ -1,8 +1,30 @@
 abstract 
-▶adjective
-1 abstract concepts: theoretical, conceptual, notional, intellectual, metaphysical, ideal, philosophical, academic; rare ideational. ANTONYMS actual, concrete.
-2 abstract art: nonrepresentational, nonpictorial. ANTONYMS representational.
-▶verb
-1 we'll be abstracting material for an online database: summarize, précis, abridge, condense, compress, shorten, cut down, abbreviate, synopsize; rare epitomize.
-2 he abstracted the art of tragedy from its context: extract, isolate, separate, detach.
-▶noun an abstract of her speech: summary, synopsis, précis, résumé, outline, abridgment, digest, summation; wrap-up.
+▶adjective 
+abˈstrakt ˈabˌstrakt 
+existing in thought or as an idea but not having a physical or concrete existence: abstract concepts such as love or beauty. 
+• dealing with ideas rather than events: the novel was too abstract and esoteric to sustain much attention. 
+• not based on a particular instance; theoretical: we have been discussing the problem in a very abstract manner. 
+• (of a word, especially a noun) denoting an idea, quality, or state rather than a concrete object: abstract words like truth or equality. 
+• relating to abstract art: abstract pictures that look like commercial color charts. 
+▶verb 
+abˈstrakt 
+[with object]
+1 consider (something) theoretically or separately from something else: to abstract science and religion from their historical context can lead to anachronism 
+[no object] : he cannot form a general notion by abstracting from particulars.
+2 extract or remove (something): applications to abstract more water from streams. 
+• used euphemistically to say that someone has stolen something: his pockets contained all he had been able to abstract from the apartment. 
+• (abstract oneself) withdraw: as our relationship deepened you seemed to abstract yourself.
+3 make a written summary of (an article or book): staff who index and abstract material for an online database. 
+▶noun 
+ˈabˌstrakt 
+
+1 a summary of the contents of a book, article, or formal speech: an abstract of his inaugural address.
+2 an abstract work of art: a big unframed abstract.
+3 (the abstract) that which is abstract; the theoretical consideration of something: the abstract must be made concrete by examples. 
+PHRASES
+in the abstract in a general way; without reference to specific instances: there's a fine line between promoting US business interests in the abstract and promoting specific companies.DERIVATIVES abstractly 
+əbˈstrak(t)lē abˈstrak(t)lē 
+adverb. abstractor 
+əbˈstraktər abˈstraktər 
+noun abstract ( sense
+3 of the verb) ORIGIN Middle English: from Latin abstractus, literally ‘drawn away,’ past participle of abstrahere, from ab- ‘from’ + trahere ‘draw off.’

@@ -5,6 +5,10 @@ adjective
 ② (absolute) 绝对的 juéduì de ‹faith, trust, confidence›
 ③ (inherent) 内在的 nèizài de ‹meaning, emotion›; 内含的 nèihán de ‹knowledge›the values implicit in the school ethos 校风中蕴含的价值观 
 implicit 
+imˈplisit
+
 ▶adjective
-1 implicit assumptions: implied, hinted at, suggested, insinuated; unspoken, unexpressed, undeclared, unstated, tacit, unacknowledged, taken for granted; inherent, latent, underlying, inbuilt, incorporated; understood, inferred, deducible. ANTONYMS explicit.
-2 an implicit trust in human nature: absolute, complete, total, wholehearted, perfect, utter; unqualified, unconditional, categorical; unshakable, unquestioning, firm, steadfast. ANTONYMS limited.
+1 implied though not plainly expressed: comments seen as implicit criticism of the policies. 
+• [predicative] (implicit in) essentially or very closely connected with; always to be found in: the values implicit in the school ethos.
+2 with no qualification or question; absolute: an implicit faith in God.
+3 Mathematics (of a function) not expressed directly in terms of independent variables. DERIVATIVES implicitness nounORIGIN late 16th century: from French implicite or Latin implicitus, later form of implicatus ‘entwined,’ past participle of implicare (see imply) .

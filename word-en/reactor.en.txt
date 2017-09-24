@@ -1,5 +1,8 @@
 reactor 
-BrE rɪˈaktə, AmE riˈæktər 
-noun 
-① = nuclear reactor 
-② Chemistry, Technology (container) 反应器 fǎnyìngqì 
+rēˈaktər
+
+▶noun
+1 (also nuclear reactor) an apparatus or structure in which fissile material can be made to undergo a controlled, self-sustaining nuclear reaction with the consequent release of energy. 
+• a container or apparatus in which substances are made to react chemically, especially one in an industrial plant.
+2 Medicine a person who shows an immune response to a specific antigen or an adverse reaction to a drug or other substance.
+3 Physics a coil or other component that provides reactance in a circuit.

@@ -1,5 +1,7 @@
 apt 
+apt
+
 ▶adjective
-1 a very apt description of how I felt: suitable, fitting, appropriate, befitting, relevant, germane, applicable, apposite. ANTONYMS inappropriate.
-2 they're apt to get a bit sloppy: inclined, given, likely, liable, disposed, predisposed, prone. ANTONYMS unlikely.
-3 an apt pupil: clever, quick, bright, sharp, smart, intelligent, able, gifted, adept, astute. ANTONYMS slow.
+1 appropriate or suitable in the circumstances: an apt description of her nature.
+2 [predicative] (apt to do something) having a tendency to do something: she was apt to confuse the past with the present.
+3 quick to learn: he proved an apt scholar. ORIGIN late Middle English (in the sense ‘suited, appropriate’): from Latin aptus ‘fitted,’ past participle of apere ‘fasten.’

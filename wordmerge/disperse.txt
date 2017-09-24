@@ -9,8 +9,16 @@ B.  transitive verb
 ② (send in different directions) 驱散 qūsàn ‹demonstrators, mob, crowd›
 ③ Physics 使色散 shǐ sèsàn 
 disperse 
-▶verb
-1 the crowd began to disperse 
-police dispersed the demonstrators: break up, split up, disband, scatter, leave, go their separate ways; drive away/off, chase away. ANTONYMS assemble.
-2 the fog finally dispersed: dissipate, dissolve, melt away, fade away, clear, lift.
-3 seeds dispersed by birds: scatter, disseminate, distribute, spread, broadcast. ANTONYMS gather.CHOOSE THE RIGHT WORD See scatter .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+dəˈspərs
+
+▶verb [with object] distribute or spread over a wide area: storms can disperse seeds via high altitudes 
+camping sites could be dispersed among trees so as to be out of sight. 
+• go or cause to go in different directions or to different destinations: [no object] : the crowd dispersed 
+[with object] : the police used tear gas to disperse the protesters. 
+• (with reference to gas, smoke, mist, or cloud) thin out or cause to thin out and disappear: [no object] : the earlier mist had dispersed 
+[with object] : winds dispersed the bomb's radioactive cloud high in the atmosphere. 
+• Physics divide (light) into constituents of different wavelengths. 
+• Chemistry distribute (small particles) uniformly in a medium. 
+▶adjective [attributive] Chemistry denoting a phase dispersed in another phase, as in a colloid: emulsions should be examined after storage for droplet size of the disperse phase. DERIVATIVES disperser noun. dispersible adjective. dispersive 
+dəˈspərsiv 
+adjectiveORIGIN late Middle English: from Latin dispers- ‘scattered,’ from the verb dispergere, from dis- ‘widely’ + spargere ‘scatter, strew.’

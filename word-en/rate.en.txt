@@ -1,11 +1,23 @@
-rate 
+rate
+1 
+rāt
+
 ▶noun
-1 a fixed rate of interest: percentage, ratio, proportion; scale, standard, level.
-2 an hourly rate of $30: charge, price, cost, tariff, fare, levy, toll; fee, remuneration, payment, wage, allowance.
-3 the rate of change: speed, pace, tempo, velocity, momentum.
+1 a measure, quantity, or frequency, typically one measured against some other quantity or measure: the crime rate rose by 26 percent. 
+• the speed with which something moves, happens, or changes: your heart rate.
+2 a fixed price paid or charged for something, especially goods or services: the basic rate of pay 
+advertising rates. 
+• the amount of a charge or payment expressed as a percentage of some other amount, or as a basis of calculation: you'll find our current interest rate very competitive. 
+• (usually rates) (in the UK) a tax on land and buildings paid to the local authority by a business, and formerly also by occupants of private property. 
 ▶verb
-1 they rated his driving ability: assess, evaluate, appraise, judge, estimate, calculate, gauge, measure, adjudge; grade, rank, classify, categorize.
-2 the scheme was rated effective: consider, judge, reckon, think, hold, deem, find; regard as, look on as, count as.
-3 he rated only a brief mention: merit, deserve, warrant, be worthy of, be deserving of.
+1 [with object] assign a standard or value to (something) according to a particular scale: they were asked to rate their ability at different driving maneuvers 
+[with object and complement] : the hotel, rated four star, had no hot water and no sink plugs. 
+• assign a standard, optimal, or limiting rating to (a piece of equipment): its fuel economy is rated at 25 miles a gallon in the city. 
+• British assess the value of (a property) for the purpose of levying a local tax.
+2 [with object] consider to be of a certain quality, standard, or rank: he rates the company's stock a “buy.” 
+[with object and complement] : the program has been rated a great success. 
+• [no object] be regarded in a specified way: Jeff still rates as one of the nicest people I have ever met. 
+• be worthy of; merit: the ambassador rated a bulletproof car and a police escort. 
 PHRASES
-at any rate at any rate, we ask that you remember to vote: in any case, anyhow, anyway, in any event, nevertheless; whatever happens, come what may, regardless, notwithstanding.
+at any rate whatever happens or may have happened: for the moment, at any rate, he was safe. 
+• used to indicate that one is correcting or clarifying a previous statement or emphasizing a following one: the story, or at any rate, a public version of it, was known and remembered. at this (or that) rate used to introduce the prediction of a particular unwelcome eventuality should things continue as they are or if a certain assumption is true: at this rate, I won't have a job to go back to.ORIGIN late Middle English (expressing a notion of ‘estimated value’): from Old French, from medieval Latin rata (from Latin pro rata parte (or portione)‘according to the proportional share’), from ratus ‘reckoned,’ past participle of reri .

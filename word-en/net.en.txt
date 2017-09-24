@@ -1,7 +1,28 @@
 net
 1 
+net
+
 ▶noun
-1 fishermen mending their nets: fishing net, dragnet, drift net, trawl (net), landing net, gill net, cast net, seine.
-2 a dress of green net: netting, meshwork, webbing, tulle, fishnet, openwork, lace, latticework.
-3 he managed to escape the net: trap, snare.
-▶verb they netted big criminals: catch, capture, trap, entrap, snare, ensnare, bag, hook, land; informal nab, collar.
+1 a length of open-meshed material made of twine, cord, rope, or something similar, used typically for catching fish or other animals. 
+• a piece of open-meshed material supported by a frame at the end of a handle, used typically for catching fish or other aquatic animals or insects. 
+• a length of open-meshed material supported on a frame and forming part of the goal in various games such as soccer and hockey: he turned Wilson's cross into the net. 
+• a length of open-meshed material supported on a cord between two posts to divide the playing area in various games such as tennis, badminton, and volleyball. 
+• a safety net: he felt like a tightrope-walker without a net.
+2 a fine fabric with a very open weave: [as modifier] : net curtains.
+3 a system or procedure for catching or entrapping someone; a trap: the search was delayed, allowing the murderers to escape the net. 
+• a system or procedure for selecting or recruiting someone: he spread his net far and wide in his search for success.
+4 a network, in particular: 
+• a communications or broadcasting network: the radio net was brought to life with a mayday. 
+• a network of interconnected computers: a computer news net. 
+• (the Net) the Internet. 
+▶verb (nets, netted, netting) [with object]
+1 catch or land (a fish or other animal) with a net. 
+• fish with nets in (a river): he has netted the creeks and found them clogged with fish. 
+• acquire or obtain as if with a net: customs officials have netted large caches of drugs.
+2 (in sports) hit or kick (a ball or puck) into the net; score (a goal): in six years Wright has netted 177 goals 
+[no object] : Aldridge netted twice.
+3 cover with a net: we fenced off a rabbit-proof area for vegetables and netted the top. DERIVATIVES netful 
+ˈnetˌfo͝ol 
+noun (plural netfuls) . netlike 
+-ˌlīk 
+adjectiveORIGIN Old English net, nett, of Germanic origin; related to Dutch net and German Netz .

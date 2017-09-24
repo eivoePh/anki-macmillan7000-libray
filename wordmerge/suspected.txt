@@ -9,8 +9,17 @@ noun 嫌疑犯 xiányífàn he is the chief suspect at present 目前他是头�
 C.  /BrE ˈsʌspɛkt, AmE ˈsəsˌpɛkt
 adjective 不可信的 bù kěxìn de ‹story, claim›; 靠不住的 kàobuzhù de ‹painting, antique›; 可疑的 kěyí de ‹item, smell›; 可能有危险的 kěnéng yǒu wēixiǎn de ‹equipment, vehicle, foodstuff›a suspect package 可疑包裹 
 suspect 
-▶verb
-1 I suspected she'd made a mistake: have a suspicion, have a feeling, feel, (be inclined to) think, fancy, reckon, guess, surmise, conjecture, conclude, have a hunch; suppose, presume, deduce, infer, sense, imagine; fear.
-2 he had no reason to suspect my honesty: doubt, distrust, mistrust, have misgivings about, be skeptical about, have qualms about, be suspicious of, be wary of, harbor reservations about.
-▶noun a murder suspect: suspected person, accused, defendant.
-▶adjective a suspect package: suspicious, dubious, doubtful, untrustworthy; odd, queer; informal fishy, funny, shady.QUOTE Major Strasser has been shot. Round up the usual suspects.Claude Rains as Captain Renault in Casablanca (1942)
+▶verb 
+səˈspekt 
+[with object]
+1 have an idea or impression of the existence, presence, or truth of (something) without certain proof: if you suspect a gas leak, do not turn on an electric light 
+[with clause] : she suspected that he might be bluffing 
+(as adjective suspected) : a suspected heart condition. 
+• believe or feel that (someone) is guilty of an illegal, dishonest, or unpleasant act, without certain proof: parents suspected of child abuse.
+2 doubt the genuineness or truth of: a broker whose honesty he had no reason to suspect. 
+▶noun 
+ˈsəsˌpekt 
+a person thought to be guilty of a crime or offense: the police have arrested a suspect. 
+▶adjective 
+ˈsəsˌpekt 
+not to be relied on or trusted; possibly dangerous or false: a suspect package was found on the platform. ORIGIN Middle English (originally as an adjective): from Latin suspectus ‘mistrusted,’ past participle of suspicere, from sub- ‘from below’ + specere ‘to look.’

@@ -6,11 +6,13 @@ A.  noun
 ② Uncountablefigurative (benefit) 益处 yìchu to turn [something] to profit 从某物中得益 
 B.  intransitive verb 受益 shòuyì I have profited from your advice 我从你的忠告中受益 
 profit 
-▶noun
-1 the firm made a profit: (financial) gain, return(s), yield, proceeds, earnings, winnings, surplus, excess; informal pay dirt, bottom line. ANTONYMS loss.
-2 we could gain no profit by continuing: advantage, benefit, value, use, good, avail; informal mileage. ANTONYMS disadvantage.
-▶verb
-1 this company must not profit from its wrongdoing: make money, make a profit; informal rake it in, clean up, make a killing, make a bundle, make big bucks, make a fast/quick buck. ANTONYMS lose.
-2 how will that profit us? benefit, be beneficial to, be of benefit to, be advantageous to, be of advantage to, be of use to, be of value to, do someone good, help, be of service to, serve, assist, aid. ANTONYMS disadvantage.
+ˈpräfət
+
+▶noun a financial gain, especially the difference between the amount earned and the amount spent in buying, operating, or producing something: pretax profits 
+his eyes brightened at the prospect of profit. 
+• advantage; benefit: there's no profit in screaming at referees from the bench. 
+▶verb (profits, profiting, profited) [no object] obtain a financial advantage or benefit, especially from an investment: the only people to profit from the entire episode were the lawyers. 
+• obtain an advantage or benefit: not all children would profit from this kind of schooling. 
+• [with object] be beneficial to: it would profit us to change our plans. 
 PHRASES
-profit by/from if you're smart, you'll profit from their mistakes: benefit from, take advantage of, derive benefit from, capitalize on, make the most of, turn to one's advantage, put to good use, do well out of, exploit, gain from; informal cash in on.
+at a profit making more money than is spent buying, operating, or producing something: fixing up houses and selling them at a profit.ORIGIN Middle English (in the sense ‘advantage, benefit’): from Old French, from Latin profectus ‘progress, profit,’ from proficere ‘to advance,’ from pro- ‘on behalf of’ + facere ‘do.’ The verb is from Old French profiter .

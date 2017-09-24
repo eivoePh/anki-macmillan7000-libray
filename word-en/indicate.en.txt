@@ -1,6 +1,11 @@
 indicate 
-▶verb
-1 sales indicate a growing market: point to, be a sign of, be evidence of, evidence, demonstrate, show, testify to, bespeak, be a symptom of, be symptomatic of, denote, connote, mark, signal, signify, suggest, imply; manifest, reveal, betray, display, reflect, represent; formal evince; literary betoken.
-2 the president indicated his willingness to use force: state, declare, make known, communicate, announce, mention, express, reveal, divulge, disclose; put it on record; admit.
-3 please indicate your preferences on the form: specify, designate, mark, stipulate; show.
-4 he indicated the direction we needed to go: point to, point out, gesture toward.
+ˈindəˌkāt
+
+▶verb [with object]
+1 point out; show: dotted lines indicate the text's margins. 
+• be a sign or symptom of; strongly imply: sales indicate a growing market for such art 
+[with clause] : his tone indicated that he didn't hold out much hope. 
+• admit to or state briefly: the president indicated his willingness to use force against the rebels. 
+• (of a person) direct attention to (someone or something) by means of a gesture: he indicated Cindy with a brief nod of the head. 
+• (of a gauge or meter) register a reading of (a quantity, dimension, etc.).
+2 suggest as a desirable or necessary course of action: the treatment is likely to be indicated in severely depressed patients. ORIGIN early 17th century: from Latin indicat- ‘pointed out,’ from the verb indicare, from in- ‘toward’ + dicare ‘make known.’

@@ -5,7 +5,11 @@ transitive verb
 ② (challenge) 激 jī to defy [somebody] to do [something] 激某人做某事 I defy you to prove me wrong 我倒要看看你能否证明我是错的 
 ③ (elude, resist) 使不可能 shǐ bù kěnéng to defy [somebody's] efforts/attempts to do [something] 使某人做某事的努力不起作用 to defy belief/comprehension/description 难以相信/理解/描述 
 defy 
-▶verb
-1 he defied local law: disobey, go against, flout, fly in the face of, disregard, ignore; break, violate, contravene, breach, infringe. ANTONYMS obey.
-2 his actions defy belief: elude, escape, defeat; frustrate, thwart, baffle.
-3 he glowered, defying her to mock him: challenge, dare.
+dəˈfī
+
+▶verb (defies, defying, defied) [with object] openly resist or refuse to obey: a woman who defies convention. 
+• (of a thing) make (an action or quality) almost impossible: his actions defy belief. 
+• [with object and infinitive] appear to be challenging (someone) to do or prove something: he glowered at her, defying her to mock him. 
+• archaic challenge to combat: go now, defy him to the combat. DERIVATIVES defier 
+dəˈfī(ə)r 
+nounORIGIN Middle English (in the senses ‘renounce an allegiance’ and ‘challenge to combat’): from Old French desfier, based on Latin dis- (expressing reversal) + fidus ‘faithful.’

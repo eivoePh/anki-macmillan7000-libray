@@ -9,7 +9,16 @@ noun
 ⑥ Countable(interpretation) 解释 jiěshì to put a construction on or upon [something] 对某事物作解释说明 
 ⑦ Linguistics Uncountable(syntax) 结构 jiégòu ; Countable(syntactic unit) 结构体 jiégòutǐ 
 construction 
-▶noun
-1 the construction of a new airport: building, erection, putting up, setting up, establishment; assembly, manufacture, fabrication, creation.
-2 the station was a spectacular construction: structure, building, edifice, pile.
-3 you could put an honest construction on their conduct: interpretation, reading, meaning, explanation, explication, construal; informal take, spin.
+kənˈstrəkSH(ə)n
+
+▶noun the building of something, typically a large structure: there was a skyscraper under construction. 
+• the building of large structures considered as an industry. 
+• the style or method used in the building of something: the mill is of brick construction. 
+• a building or other structure. 
+• the creation or formation of an abstract entity: language plays a large part in our construction of reality. 
+• an interpretation or explanation: you could put an honest construction upon their conduct. 
+• Grammar the arrangement of words according to syntactical rules: sentence construction. DERIVATIVES constructional 
+kənˈstrəkSH(ə)n(ə)l 
+adjective. constructionally 
+-SHənl-ē 
+adverbORIGIN late Middle English: via Old French from Latin constructio(n-), from construere ‘heap together’ (see construct) .

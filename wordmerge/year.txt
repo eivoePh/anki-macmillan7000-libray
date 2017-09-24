@@ -12,6 +12,17 @@ B.  years noun plural
 ① (age) 岁数 suìshu from her earliest years 从她的早年 he's well on in years now 他现在已经一大把年纪了 to grow in years literary 年事渐高 
 ② colloquial (a long time) 很久 hěn jiǔ that would take years! 那要花很长时间！ it's (been) years since we last met! 我们已经多年没有见面了！ the worst film I've seen in years 我多年来看过的最糟糕的影片 he gave up smoking years ago 他老早就戒烟了 
 year 
-▶noun he held the office for one year: twelve-month period, twelve-month session, annum; calendar year, fiscal year, FY; archaic twelvemonth.
+yir
+
+▶noun
+1 the time taken by a planet to make one revolution around the sun. The length of the earth's year depends on the manner of calculation. For ordinary purposes the important period is the solar year (also called astronomical year, equinoctial year, or tropical year), which is the time between successive spring or autumnal equinoxes, or winter or summer solstices, roughly 365 days,
+5 hours, 48 minutes, and 46 seconds in length. This period thus marks the regular cycle of the seasons. See also sidereal year, anomalistic year .
+2 the period of 365 days (or 366 days in leap years) starting from the first of January, used for reckoning time in ordinary affairs. Also called calendar year or civil year. 
+• a period of 365 days starting from any date: the year starting July 1. 
+• [with adjective] a year regarded in terms of the quality of produce, typically wine: single-vineyard wine of a good year. 
+• a period used for reckoning time according to other calendars: the Muslim year.
+3 (one's years) one's age or time of life: she had a composure well beyond her years.
+4 (years) informal a very long time; ages: it's going to take years to put that right.
+5 a set of students grouped together as being of roughly similar ages, mostly entering a school or college in the same academic year: most of the girls in my year were leaving school at the end of the term. 
 PHRASES
-year in, year out we hear the same excuses, year in, year out: repeatedly, again and again, time and (time) again, time after time, over and over (again); 'week in, week out', 'day in, day out', inexorably, recurrently; continuously, continually, constantly, nonstop, habitually, regularly, without a break, unfailingly, always.
+in the year of our Lord (or dated in the year of grace) —— in the year ad——: I was born in the year of our Lord 1786. [year of grace, suggested by medieval Latin anno gratiae, used by chroniclers.] —— of the year a person or thing chosen as outstanding in a specified field or of a specified kind in a particular year: the sports personality of the year. put years on (or take years off) someone make someone feel or look older (or younger). a year and a day the period specified in some legal matters to ensure the completion of a full year. year in and year out continuously or repeatedly over a period of years: they rented the same bungalow year in and year out.ORIGIN Old English gē(a)r, of Germanic origin; related to Dutch jaar and German Jahr, from an Indo-European root shared by Greek hōra ‘season.’

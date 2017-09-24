@@ -1,9 +1,16 @@
 majority 
-▶noun
-1 the majority of cases: larger part/number, greater part/number, best/better part, most, more than half; plurality, bulk, mass, weight, (main) body, preponderance, predominance, generality, lion's share. ANTONYMS minority.
-2 a majority in the election: (winning) margin, superiority of numbers/votes; landslide.
-3 my youngest child has reached majority: legal age, adulthood, manhood/womanhood, maturity; age of consent, coming of age.
-USAGE
-majority, plurality
-1 Strictly speaking, majority should be used with countable nouns to mean ‘the greater number’: the majority of cases. The use of majority with uncountable nouns to mean ‘the greatest part’ (I spent the majority of the day reading), although common in informal contexts, is not considered good standard English.
-2 Majority means more than half: fifty-one out of a hundred is a majority. A plurality is the largest number among three or more. Consider the following scenarios: If Anne received 50 votes, Barry received 30, and Carlos received 20, then Anne received a plurality, and no candidate won a majority. If Anne got 35 votes, Barry 14, and Carlos 51, then Carlos won both the plurality and the majority .Usage notes show additional guidance on finer points of English usage.
+məˈjôrədē məˈjärədē
+
+▶noun (plural majorities)
+1 the greater number: in the majority of cases all will go smoothly 
+[as modifier] : it was a majority decision. 
+• US the number by which votes for one candidate in an election are more than those for all other candidates combined. 
+• British the number by which the votes for one party or candidate exceed those of the next in rank. 
+• a party or group receiving the greater number of votes.
+2 the age when a person is legally considered a full adult, in most contexts either
+18 or 21.
+3 the rank or office of a major. 
+PHRASES
+be in the majority belong to or constitute the larger group or number: publishing houses where women are in the majority.ORIGIN mid 16th century (denoting superiority): from French majorité, from medieval Latin majoritas, from Latin major (see major) . usage:
+1 Strictly speaking, majority should be used with countable nouns to mean ‘the greater number’: the majority of cases. The use of majority with uncountable nouns to mean ‘the greatest part’ ( I spent the majority of the day reading), although common in informal contexts, is not considered good standard English.
+2 Majority means more than half: fifty-one out of a hundred is a majority. A plurality is the largest number among three or more. Consider the following scenarios: If Anne received 50 votes, Barry received 30, and Carlos received 20, then Anne received a plurality, and no candidate won a majority. If Anne got 35 votes, Barry 14, and Carlos 51, then Carlos won both the plurality and the majority.

@@ -2,4 +2,7 @@ computer
 BrE kəmˈpjuːtə, AmE kəmˈpjudər 
 noun 计算机 jìsuànjī to do [something] by computer or on a computer 用计算机做某事 to have/put [something] on computer 将某资料存入计算机 the computer is up/down 这台计算机在运行/无法运行 a personal/home/laptop computer 个人/家用/笔记本电脑 to be or work in computers 在计算机行业工作 
 computer 
-▶noun your new computers will be able to handle much larger files: personal computer, PC, laptop, netbook, ultraportable, desktop, terminal; mainframe; Internet appliance; informal puter.
+kəmˈpyo͞odər
+
+▶noun an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program. 
+• a person who makes calculations, especially with a calculating machine.

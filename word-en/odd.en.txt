@@ -1,10 +1,17 @@
 odd 
+äd
+
 ▶adjective
-1 an odd man: strange, peculiar, weird, queer, funny, bizarre, abnormal, eccentric, unusual, unconventional, outlandish, quirky, zany; informal wacky, kooky, screwy, freaky, oddball, offbeat, off the wall, out there. ANTONYMS normal, conventional.
-2 quite a few odd things had happened: strange, unusual, peculiar, funny, curious, bizarre, weird, uncanny, queer, outré, unexpected, unfamiliar, abnormal, atypical, anomalous, different, out of the ordinary, out of the way, exceptional, rare, extraordinary, remarkable, puzzling, mystifying, mysterious, perplexing, baffling, unaccountable, uncommon, irregular, singular, deviant, aberrant, freak, freakish; informal fishy, freaky. ANTONYMS ordinary, usual.
-3 we have the odd drink together 
-he does odd jobs for friends: occasional, casual, irregular, isolated, random, sporadic, periodic; miscellaneous, various, varied, sundry. ANTONYMS regular, scheduled.
-4 odd socks: mismatched, unmatched, unpaired; single, lone, solitary, extra, surplus, leftover, remaining.
-5 when you've got an odd ten minutes, stop by my office: spare, free, available, unoccupied; between appointments, between engagements.
+1 different from what is usual or expected; strange: the neighbors thought him very odd 
+[with clause] : it's odd that she didn't recognize me.
+2 (of whole numbers such as
+3 and 5) having one left over as a remainder when divided by two. 
+• [postpositive in combination] in the region of or somewhat more than a particular number or quantity: she looked younger than her fifty-odd years.
+3 [attributive] happening or occurring infrequently and irregularly; occasional: neither did she want a secret affair, snatching odd moments together. 
+• spare; unoccupied: when you've got an odd five minutes, could I have a word?
+4 separated from a usual pair or set and therefore out of place or mismatched: he's wearing odd socks. 
 PHRASES
-odd man out no matter what our group planned to do over school vacations, Cassidy was always odd man out: outsider, exception, oddity, nonconformist, maverick, individualist, misfit, fish out of water, square peg in a round hole. 
+odd one (or man) out a person or thing differing from all other members of a particular group or set in some way: I hate being the odd one out among friends who are all couples 
+in the case of the verb become, the odd one out is the past form.DERIVATIVES oddish adjective odd ( sense 1) . oddness 
+ˈädnəs 
+nounORIGIN Middle English ( sense 2): from Old Norse odda-, found in combinations such as odda-mathr ‘third or odd man,’ from oddi ‘angle.’

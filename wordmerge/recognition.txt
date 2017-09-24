@@ -7,8 +7,11 @@ nounUncountable
 ④ (by a computer) 识别 shíbié 
 ⑤ (appreciation) 赞誉 zànyù to give or grant [somebody] recognition 给予某人表彰 general/universal/growing/official/public recognition 普遍的/一致的/日益增加的/官方的/公众的赞誉 recognition for [something] 对某事的赞赏 in recognition of [something]; 作为对某事的表彰 
 recognition 
-▶noun
-1 there was no sign of recognition on his face: identification, recollection, remembrance.
-2 his recognition of his lack of experience: acknowledgment, acceptance, admission; realization, awareness, consciousness, knowledge, appreciation; formal cognizance.
-3 the sport has finally received the recognition it deserves: official approval, certification, accreditation, endorsement, validation.
-4 you deserve recognition for the tremendous job you are doing: appreciation, gratitude, thanks, congratulations, credit, commendation, acclaim, acknowledgment; informal bouquets.
+ˌrekəɡˈniSH(ə)n
+
+▶noun the action or process of recognizing or being recognized, in particular: 
+• identification of a thing or person from previous encounters or knowledge: she saw him pass by without a sign of recognition. 
+• acknowledgment of something's existence, validity, or legality: the unions must receive proper recognition. 
+• appreciation or acclaim for an achievement, service, or ability: his work was slow to gain recognition 
+she received the award in recognition of her courageous human rights work. 
+• (also diplomatic recognition) formal acknowledgment by a country that another political entity fulfills the conditions of statehood and is eligible to be dealt with as a member of the international community. ORIGIN late 15th century (denoting the acknowledgment of a service): from Latin recognitio(n-), from the verb recognoscere ‘know again, recall to mind’ (see recognize) .

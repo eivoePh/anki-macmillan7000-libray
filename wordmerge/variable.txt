@@ -9,5 +9,20 @@ B.  noun
 ① (changeable factor) 可变因素 kě biàn yīnsù 
 ② Mathematics 变量 biànliàng a dependent/free/random variable 因变量/自变量/随机变数 
 variable 
-▶adjective the weather on the shoreline is known for being variable: changeable, changing, varying, shifting, fluctuating, irregular, inconstant, inconsistent, fluid, unsteady, unstable, unsettled, fitful, mutable, protean, wavering, vacillating, capricious, fickle, volatile, unpredictable, mercurial, unreliable; informal up and down. ANTONYMS constant.
-▶noun there are other variables to consider: factor, element, ingredient, quantity, unknown quantity, condition.WORD TOOLKITvariableunstablemercurialratesituationnaturelengthworldtalentspeedregiontemperamentsizeenvironmentpersonalityresultsconditionmoodseffectseconomyshiftsfrequencygovernmentenergyWord Toolkits illustrate the difference between close synonyms by means of words typically used with them.
+ˈverēəb(ə)l
+
+▶adjective
+1 not consistent or having a fixed pattern; liable to change: the quality of hospital food is highly variable 
+awards can be for variable amounts. 
+• (of a wind) tending to change direction. 
+• Mathematics (of a quantity) able to assume different numerical values. 
+• Botany & Zoology (of a species) liable to deviate from the typical color or form, or to occur in different colors or forms.
+2 able to be changed or adapted: the drill has variable speed. 
+• (of a gear) designed to give varying ratios or speeds. 
+▶noun an element, feature, or factor that is liable to vary or change: there are too many variables involved to make any meaningful predictions. 
+• Mathematics a quantity that during a calculation is assumed to vary or be capable of varying in value. 
+• Computing a data item that may take on more than one value during the runtime of a program. 
+• Astronomy short for variable star. 
+• (variables) the region of light, variable winds to the north of the northeast trade winds or (in the southern hemisphere) between the southeast trade winds and the westerlies. DERIVATIVES variableness noun. variably 
+ˈverēəblē 
+adverbORIGIN late Middle English: via Old French from Latin variabilis, from variare (see vary) .

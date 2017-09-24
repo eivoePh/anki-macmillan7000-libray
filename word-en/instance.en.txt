@@ -1,5 +1,11 @@
 instance 
-▶noun an instance of racism: example, exemplar, occasion, occurrence, case; illustration.
-▶verb they instanced the previous case as an example: cite, quote, refer to, mention, allude to, give; specify, name, identify, draw attention to, put forward, offer, advance.
+ˈinstəns
+
+▶noun
+1 an example or single occurrence of something: a serious instance of corruption 
+the search finds every instance where the word appears. 
+• a particular case: in this instance it mattered little.
+2 Law, rare the institution of a legal suit. 
+▶verb [with object] cite (a fact, case, etc.) as an instance or example: here he instances in particular the work of Bach. 
 PHRASES
-in the first instance See in the first place, at place. 
+at first instance Law at the first court hearing concerning a case. at the instance of formal at the request or instigation of: prosecution at the instance of the police. for instance as an example: take Canada, for instance. in the first (or second, etc.) instance in the first (or second, etc.) place; at the first (or second, etc.) stage of a proceeding: a tribunal should be formed, in the first instance to document these and other charges.ORIGIN Middle English: via Old French from Latin instantia ‘presence, urgency,’ from instare ‘be present, press upon,’ from in- ‘upon’ + stare ‘to stand.’ The original sense was ‘urgency, urgent entreaty,’ surviving in at the instance of. In the late 16th century the word denoted a particular case cited to disprove a general assertion, derived from medieval Latin instantia ‘example to the contrary’ (translating Greek enstasis ‘objection’); hence the meaning ‘single occurrence.’

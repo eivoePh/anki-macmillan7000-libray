@@ -6,6 +6,8 @@ A.  noun
 ② (lasting consequence) 遗存 yícún a legacy of hope/faith 希望/信念的遗存 a legacy from Victorian days 维多利亚时代的遗风 
 B.  adjective 老式的 lǎoshì de legacy software/hardware 陈旧的软件/硬件 
 legacy 
-▶noun
-1 a legacy from a great aunt: bequest, inheritance, heritage, endowment, gift, patrimony, settlement, birthright; formal benefaction.
-2 a legacy of the wars: consequence, effect, upshot, spin-off, repercussion, aftermath, by-product, result.
+ˈleɡəsē
+
+▶noun (plural legacies) an amount of money or property left to someone in a will. 
+• a thing handed down by a predecessor: the legacy of centuries of neglect. 
+▶adjective Computing denoting software or hardware that has been superseded but is difficult to replace because of its wide use. ORIGIN late Middle English (also denoting the function or office of a deputy, especially a papal legate): from Old French legacie, from medieval Latin legatia ‘legateship,’ from legatus ‘person delegated’ (see legate) .

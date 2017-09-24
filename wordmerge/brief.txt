@@ -16,12 +16,18 @@ E.  transitive verb
 ① (inform) 向…通报情况 xiàng… tōngbào qíngkuàng ‹journalists›Military 向…布置基本任务 xiàng… bùzhì jīběn rènwu ‹troops, crew›to be well briefed 完全掌握情况 
 ② Law 向…提供案情摘要 xiàng… tígōng ànqíng zhāiyào ‹lawyer›to brief [somebody] to do [something] 向某人提供案情摘要以便做某事 
 brief 
-▶adjective
-1 a brief account: concise, succinct, short, pithy, incisive, abridged, condensed, compressed, abbreviated, compact, thumbnail, capsule, potted; formal compendious. ANTONYMS lengthy, long-winded.
-2 a brief visit: short, flying, fleeting, hasty, hurried, quick, cursory, perfunctory; temporary, short-lived, momentary, transient; informal quickie. ANTONYMS long, lengthy.
-3 a pair of brief shorts: skimpy, scanty, short; revealing.
-4 the boss was rather brief with him: brusque, abrupt, curt, short, blunt, sharp.
-▶noun
-1 a lawyer's brief: summary, case, argument, contention; dossier.
-2 a brief of our requirements: outline, summary, synopsis, précis, sketch, digest.
-▶verb employees were briefed about the decision: inform, tell, update, notify, advise, apprise; prepare, prime, instruct; informal fill in, clue in, put in the picture.
+brēf
+
+▶adjective of short duration: the president made a brief visit to Moscow. 
+• concise in expression; using few words: introductions were brief and polite. 
+• (of a piece of clothing) not covering much of the body; scanty: Alice sported a pair of extremely brief black shorts. 
+▶noun a concise statement or summary: their comments were cribbed right from industry briefs. 
+• a set of instructions given to a person about a job or task: his brief is to turn around the country's economy. 
+• US a written summary of the facts and legal points supporting one side of a case, for presentation to a court. 
+• a letter from the Pope to a person or community on a matter of discipline. 
+▶verb [with object] instruct or inform (someone) thoroughly, especially in preparation for a task: she briefed him on last week's decisions. 
+PHRASES
+hold no brief for not support or argue in favor of: I hold no brief for the president. in brief in a few words; in short: he is, in brief, the embodiment of evil 
+the news in brief.DERIVATIVES briefness 
+ˈbrēfnəs 
+nounORIGIN Middle English: from Old French brief, from Latin brevis ‘short.’ The noun is via late Latin breve ‘note, dispatch,’ hence ‘an official letter.’

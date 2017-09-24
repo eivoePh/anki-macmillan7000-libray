@@ -34,20 +34,51 @@ D.  noun
 ⑩ Countableespecially Scottish, Irish (cupboard) 橱柜 chúguì 
 ⑪ CountableSport (in weightlifting) 推举 tuījǔ to do a press 推举 tuījǔ 
 ⑫ CountableMilitary, History 抓壮丁 zhuā zhuàngdīng PHRASAL VERBS press ahead: intransitive verb to press ahead with [something]; 推动 tuīdòng ‹project, reform, negotiation›press on intransitive verb (continue) 加紧继续进行 jiājǐn jìxù jìnxíng (hurry forward) 匆忙前进 cōngmáng qiánjìn to press on regardless (continue) 不顾一切地加紧进行 (hurry) 不顾一切地前进 to press on through the rain 冒雨赶路 to press on with [something] 加紧进行 ‹project, reform, negotiation›let's press on to the next item 我们抓紧来看下一项 press out transitive verb[press something out, press out something] 熨平 yùnpíng ‹crease›; 榨出 zhàchū ‹juice, oil›to press the cherry stones out 挤出樱桃核 
-press 
+press
+1 
+pres
+
 ▶verb
-1 press the paper down firmly: push (down), press down, depress, hold down, force, thrust, squeeze, compress.
-2 his shirt was pressed: smooth (out), iron, remove creases from.
-3 we pressed the grapes: crush, squeeze, squash, mash, pulp, pound, pulverize, macerate.
-4 she pressed the child to her bosom: clasp, hold close, hug, cuddle, squeeze, clutch, grasp, embrace.
-5 she pressed his hand: squeeze, grip, clutch.
-6 the crowd pressed around: cluster, gather, converge, congregate, flock, swarm, throng, crowd.
-7 the government pressed its claim: plead, urge, advance insistently, present, submit, put forward.
-8 they pressed him to agree: urge, put pressure on, force, push, coerce, dragoon, steamroller, browbeat; informal lean on, put the screws on, twist someone's arm, railroad, bulldoze.
-9 they pressed for a ban on the ivory trade: call, ask, advocate, clamor, push, campaign, demand, lobby.
+1 move or cause to move into a position of contact with something by exerting continuous physical force: [with object] : he pressed his face to the glass 
+[no object] : her body pressed against his. 
+• [with object] exert continuous physical force on (something), typically in order to operate a device or machine: he pressed a button and the doors slid open. 
+• [with object] squeeze (someone's arm or hand) as a sign of affection. 
+• [no object] move in a specified direction by pushing: the mob was still pressing forward. 
+• (of an enemy or opponent) attack persistently and fiercely: [no object] : their enemies pressed in on all sides 
+[with object] : two assailants were pressing Agrippa. 
+• [no object] (press on/ahead) continue in one's action: he stubbornly pressed on with his work. 
+• [with object] Weightlifting raise (a specified weight) by first lifting it to shoulder height and then gradually pushing it upward above the head.
+2 [with object] apply pressure to (something) to flatten, shape, or smooth it, typically by ironing: she pressed her nicest blouse 
+(as adjective pressed) : immaculately pressed trousers. 
+• apply pressure to (a flower or leaf) between sheets of paper in order to dry and preserve it. 
+• extract (juice or oil) by crushing or squeezing fruit, vegetables, etc.: (as adjective pressed) : freshly pressed grape juice. 
+• squeeze or crush (fruit, vegetables, etc.) to extract the juice or oil. 
+• manufacture (something, especially a phonograph record) by molding under pressure.
+3 [with object] forcefully put forward (an opinion, claim, or course of action): Rose did not press the point. 
+• make strong efforts to persuade or force (someone) to do or provide something: when I pressed him for precise figures, he evaded the subject 
+[with infinitive] : the marketing directors were pressed to justify their expenditure 
+[no object] : they continued to press for changes in legislation. 
+• [no object] Golf try too hard to achieve distance with a shot, at the risk of inaccuracy. 
+• (press something on/upon) insist that (someone) accept an offer or gift: he pressed dinner invitations on her. 
+• [no object] (of something, especially time) be in short supply and so demand immediate action. 
+• (be pressed) have barely enough of something, especially time: I'm very pressed for time. 
+• (be pressed to do something) have difficulty doing or achieving something: they may be hard pressed to keep their promise. 
 ▶noun
-1 a small literary press: publishing house, publisher; printing house/company; printing press.
-2 the freedom of the press : the media, the newspapers, the papers, the news media, the fourth estate; journalists, reporters, newspapermen/newspaperwomen, newsmen/newswomen, pressmen; informal journos, newshounds, newsies.
-3 the company had some bad press: (press) reports, press coverage, press articles, (press) reviews, media attention.
+1 a device for applying pressure to something in order to flatten or shape it or to extract juice or oil: a flower press 
+a wine press. 
+• a machine that applies pressure to a workpiece by means of a tool, in order to punch shapes.
+2 a printing press. 
+• [often in names] a business that prints or publishes books: the Clarendon Press. 
+• the process of printing: the book is ready to go to press.
+3 (the press) [treated as singular or plural] newspapers or journalists viewed collectively: the press was notified 
+[as modifier] : press coverage. 
+• coverage in newspapers and magazines: there's no point in demonstrating if you don't get any press 
+[in singular] : the mayor has had a bad press for years.
+4 an act of pressing something: the system summons medical help at the press of a button. 
+• [in singular] a closely packed crowd or mass of people or things: among the press of cars he saw a taxi. 
+• dated pressure of business. 
+• Weightlifting an act of raising a weight to shoulder height and then gradually pushing it above the head. 
+• Basketball any of various forms of close guarding by the defending team.
+5 chiefly Irish & Scottish a large cupboard. 
 PHRASES
-be pressed for you shouldn't schedule an interview when you are pressed for time: have too little, be short of, have insufficient, lack, be lacking (in), be deficient in, need, be/stand in need of; informal be strapped for. press on the team regrouped and pressed on: proceed, keep going, continue, carry on, make progress, make headway, press ahead, forge on/ahead, soldier on, push on, keep on, struggle on, persevere, keep at it, stay with it, stick with it, plod on, plug away.
+press charges see charge. press something home see home. press (the) flesh informal (of a celebrity or politician) greet people by shaking hands.ORIGIN Middle English: from Old French presse (noun), presser (verb), from Latin pressare ‘keep pressing,’ frequentative of premere .

@@ -1,8 +1,16 @@
 budget 
+ˈbəjət
+
 ▶noun
-1 your budget for the week: financial plan, forecast; accounts, statement.
-2 a cut in the defense budget: allowance, allocation, quota; grant, award, funds, resources, capital.
-▶verb
-1 we have to budget $7,000 for the work: allocate, allot, allow, earmark, designate, set aside.
-2 budget your finances: schedule, plan, cost, estimate; ration.
-▶adjective a budget hotel: cheap, inexpensive, economy, affordable, low-cost, low-price, cut-rate, discount, bargain, downmarket. ANTONYMS expensive.QUOTE Balancing the budget is like going to heaven. Everybody wants to do it, but nobody wants to do what you have to do to get there.Phil Gramm, American politician
+1 an estimate of income and expenditure for a set period of time: keep within the household budget 
+[as modifier] : a budget deficit. 
+• an annual or other regular estimate of national revenue and expenditure put forward by the government, often including details of changes in taxation. 
+• the amount of money needed or available for a purpose: they have a limited budget.
+2 archaic a quantity of material, typically that which is written or printed. 
+▶verb (budgets, budgeting, budgeted) [no object] allow or provide a particular amount of money in a budget: the university is budgeting for a deficit 
+(as noun budgeting) : corporate planning and budgeting. 
+• [with object] provide (a sum of money) for a particular purpose from a budget: the council proposes to budget $100,000 to provide grants 
+(as adjective budgeted) : a budgeted figure of $31,000. 
+▶adjective [attributive] inexpensive: a budget guitar. 
+PHRASES
+on a budget with a restricted amount of money: we're traveling on a budget.ORIGIN late Middle English: from Old French bougette, diminutive of bouge ‘leather bag,’ from Latin bulga ‘leather bag, knapsack,’ of Gaulish origin. Compare with bulge. The word originally meant a pouch or wallet, and later its contents. In the mid 18th century, the Chancellor of the Exchequer in the UK, in presenting his annual statement, was said “to open the budget.” In the late 19th century the use of the term was extended from governmental to private or commercial finances.

@@ -1,8 +1,13 @@
 impulse 
+ˈimˌpəls
+
 ▶noun
-1 she had an impulse to run and hide: urge, instinct, drive, compulsion, itch; whim, desire, fancy, notion, inclination, temptation.
-2 passions provide the main impulse of poetry: inspiration, stimulation, stimulus, incitement, motivation, encouragement, incentive, spur, catalyst, impetus, thrust.
-3 impulses from the spinal cord to the muscles: pulse, current, wave, signal.
+1 a sudden strong and unreflective urge or desire to act: I had an almost irresistible impulse to giggle. 
+• the tendency to act impulsively: he was a man of impulse, not premeditation.
+2 a driving or motivating force; an impetus: an added impulse to this process of renewal.
+3 a pulse of electrical energy; a brief current: nerve impulses 
+a spiral is used to convert radio waves into electrical impulses.
+4 Physics a force acting briefly on a body and producing a finite change of momentum. 
+• a change of momentum so produced, equivalent to the average value of the force multiplied by the time during which it acts. 
 PHRASES
-on (an) impulse I agreed to bungee jump on an impulse 
-they claimed the robbery was not planned, that they did it on impulse: impulsively, spontaneously, on the spur of the moment, without forethought, without premeditation.
+on impulse (or on an impulse) suddenly and without forethought; impulsively.ORIGIN early 17th century (as a verb in the sense ‘give an impulse to’): the verb from Latin impuls- ‘driven on,’ the noun from impulsus ‘impulsion, outward pressure,’ both from the verb impellere (see impel) .

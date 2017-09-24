@@ -1,6 +1,11 @@
 bulb 
-BrE bʌlb, AmE bəlb 
-noun 
-① Electricity 电灯泡 diàndēngpào a 60-watt bulb 60瓦的灯泡 
-② Botany 球茎 qiújīng daffodil/tulip bulbs 水仙/郁金香鳞茎 
-③ (of thermometer, test tube) 球部 qiúbù 
+bəlb
+
+▶noun
+1 a rounded underground storage organ present in some plants, notably those of the lily family, consisting of a short stem surrounded by fleshy scale leaves or leaf bases and lying dormant over winter. Compare with corm, rhizome. 
+• a plant grown from a bulb.
+2 an object with a rounded or teardrop shape like a bulb, in particular: 
+• a light bulb. 
+• an expanded part of a glass tube such as that forming the reservoir of a thermometer. 
+• a hollow flexible container with an opening through which the air can be expelled by squeezing, such as that used to fill a syringe. 
+• a spheroidal dilated part at the end of an anatomical structure. ORIGIN late Middle English: via Latin from Greek bolbos ‘onion, bulbous root.’

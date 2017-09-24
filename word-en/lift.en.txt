@@ -1,16 +1,37 @@
 lift 
-▶verb
-1 lift the pack onto your back: raise, hoist, heave, haul up, heft, raise up/aloft, elevate, hold high; pick up, grab, take up, scoop up, snatch up; winch up, jack up, lever up; informal hump; literary upheave. ANTONYMS drop, put down.
-2 the news lifted his spirits: boost, raise, buoy up, elevate, cheer up, perk up, uplift, brighten up, gladden, encourage, stimulate, revive; informal buck up. ANTONYMS subdue.
-3 the fog had lifted: clear, rise, disperse, dissipate, disappear, vanish, dissolve. ANTONYMS appear.
-4 the ban has been lifted: cancel, remove, withdraw, revoke, rescind, annul, void, discontinue, end, stop, terminate. ANTONYMS establish, impose.
-5 he lifted his voice: amplify, raise, make louder, increase. ANTONYMS soften, quiet.
-6 informal he lifted sections from a 1986 article: plagiarize, pirate, copy, reproduce, poach, steal; informal crib, rip off, pinch.
-7 informal she lifted a wallet. See steal (sense
-1 of the verb). 
+lift
+
+▶verb [with object]
+1 raise to a higher position or level: he lifted his trophy over his head. 
+• move (one's eyes or face) to face upward and look at someone or something: he lifted his eyes from the paper for an instant. 
+• increase the volume or pitch of (one's voice): Willie sang boldly, lifting up his voice. 
+• increase (a price or amount): higher than expected oil prices lifted Oklahoma's revenue. 
+• transport by air: a helicopter lifted
+11 crew members to safety from the ship. 
+• hit or kick (a ball) high into the air. 
+• [no object] move upward; be raised: Thomas's eyelids drowsily lifted 
+their voices lifted in wails and cries. 
+• [no object] (of a cloud, fog, etc.) move upward or away: the factory smoke hung low, never lifted 
+the gray weather lifted on the following Wednesday. 
+• perform cosmetic surgery on (especially the face or breasts) to reduce sagging: surgeons lift and remove excess skin from the face and neck.
+2 pick up and move to a different position: he lifted her down from the pony's back. 
+• enable (someone or something) to escape from an unpleasant situation: two billion barrels of oil that could lift this nation out of chronic poverty.
+3 raise (a person's spirits or confidence); encourage or cheer: we heard inspiring talks that lifted our spirits. 
+• [no object] (of a person's mood) become happier: suddenly his heart lifted, and he could have wept with relief.
+4 formally remove or end (a legal restriction, decision, or ban): the European Community lifted its oil embargo against South Africa.
+5 informal steal (something, especially a minor item of property): the shirt she had lifted from a supermarket. 
+• use (a person's work or ideas) without permission or acknowledgment; plagiarize: this is a hackneyed adventure lifted straight from a vintage Lassie episode. 
 ▶noun
-1 give me a lift up: push, boost, hoist, heave, thrust, shove.
-2 he gave me a lift to the airport: a ride, a drive, transportation.
-3 that goal will give his confidence a real lift: boost, fillip, stimulus, impetus, encouragement, spur, push; improvement, enhancement; informal shot in the arm, pick-me-up.
+1 a device incorporating a moving cable for carrying people, typically skiers, up or down a mountain. 
+• British term for elevator. 
+• a built-up heel or device worn in a boot or shoe to make the wearer appear taller or to correct shortening of a leg.
+2 an act of lifting: weightlifters attempting a particularly heavy lift. 
+• a rise in price or amount: the company has already produced a
+10 percent lift in profits. 
+• informal an instance of stealing or plagiarizing something. 
+• an upward force that counteracts the force of gravity, produced by changing the direction and speed of a moving stream of air: it had separate engines to provide lift and generate forward speed. 
+• the maximum weight that an aircraft can raise.
+3 a free ride in another person's vehicle: Miss Green is giving me a lift back to school.
+4 a feeling of encouragement or increased cheerfulness: winning this game has given everyone on the team a lift. 
 PHRASES
-lift off the helicopters lifted off at 1030 hours: take off, become airborne, take to the air, take wing; be launched, blast off, rise.
+lift a finger (or hand) [usually with negative] make the slightest effort to do something, especially to help someone: he never once lifted a finger to get Jimmy released from prison.lift his (or its) leg informal (of a male dog) urinate.PHRASAL VERBS lift off (of an aircraft, spacecraft, or rocket) rise from the ground or a launch pad, especially vertically.DERIVATIVES liftable adjective. lifter nounORIGIN Middle English: from Old Norse lypta, of Germanic origin; related to loft .

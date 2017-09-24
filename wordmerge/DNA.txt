@@ -6,9 +6,10 @@ DNA
 deoxyribonucleic acid [脱氧核糖核酸]
 DNA指纹鉴定
 DNA finger-printing
-DNA |ˌdē ˌen ˈā|
-nounBiochemistry
-deoxyribonucleic acid, a self-replicating material present in nearly all living organisms as the main constituent of chromosomes. It is the carrier of genetic information.
-Each molecule of DNA consists of two strands coiled around each other to form a double helix, a structure like a spiral ladder. Each rung of the ladder consists of a pair of chemical groups called bases (of which there are four types), which combine in specific pairs so that the sequence on one strand of the double helix is complementary to that on the other. It is the specific sequence of bases that constitutes the genetic information.
-• the fundamental and distinctive characteristics or qualities of someone or something, especially when regarded as unchangeable: diversity is part of the company's DNA | men just don't get shopping—it's not in our DNA.
-DNA abbreviation = deoxyribonucleic acid
+DNA 
+ˌdē ˌen ˈā
+
+▶noun Biochemistry deoxyribonucleic acid, a self-replicating material present in nearly all living organisms as the main constituent of chromosomes. It is the carrier of genetic information. Each molecule of DNA consists of two strands coiled around each other to form a double helix, a structure like a spiral ladder. Each rung of the ladder consists of a pair of chemical groups called bases (of which there are four types), which combine in specific pairs so that the sequence on one strand of the double helix is complementary to that on the other. It is the specific sequence of bases that constitutes the genetic information. 
+• the fundamental and distinctive characteristics or qualities of someone or something, especially when regarded as unchangeable: diversity is part of the company's DNA 
+men just don't get shopping—it's not in our DN
+A. 

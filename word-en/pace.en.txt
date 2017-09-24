@@ -1,6 +1,24 @@
-pace 
+pace
+1 
+pās
+
 ▶noun
-1 he stepped back a pace: step, stride.
-2 a slow, steady pace: gait, stride, walk, march.
-3 he drove home at a furious pace: speed, rate, velocity; informal clip, lick.
-▶verb she paced up and down: walk, stride, tread, march, pound, patrol.
+1 a single step taken when walking or running. 
+• a unit of length representing the distance between two successive steps in walking. 
+• a gait of a horse or other animal, especially one of the recognized trained gaits of a horse. 
+• literary a person's manner of walking or running: I steal with quiet pace.
+2 consistent and continuous speed in walking, running, or moving: most traffic moved at the pace of the riverboat 
+[in singular] : walking at a comfortably fast pace. 
+• the speed or rate at which something happens, changes, or develops: the children work separately in the classroom at their own pace 
+the poor neighborhoods fester at an increasingly rapid pace. 
+▶verb [no object] walk at a steady and consistent speed, especially back and forth and as an expression of one's anxiety or annoyance: we paced up and down in exasperation 
+[with object] : she had been pacing the room. 
+• [with object] measure (a distance) by walking it and counting the number of steps taken: I paced out the dimensions of my new home. 
+• [with object] lead (another runner in a race) in order to establish a competitive speed: Morales paced us for four miles. 
+• (pace oneself) do something at a slow and steady rate or speed in order to avoid overexerting oneself: Frank was pacing himself for the long night and day ahead. 
+• [with object] move or develop (something) at a particular rate or speed: the action is paced to the beat of a perky march 
+[as adjective in combination] (-paced) : our fast-paced daily lives. 
+• (of a horse) move in a distinctive lateral gait in which both legs on the same side are lifted together, seen mostly in specially bred or trained horses. 
+PHRASES
+change of pace chiefly North American a change from what one is used to: the magenta is a change of pace from traditional red. keep pace with move, develop, or progress at the same speed as: fees have had to be raised a little to keep pace with inflation. off the pace behind the leader or leading group in a race or contest. put someone (or something) through their (or its) paces make someone (or something) demonstrate their (or its) qualities or abilities: the cars are examined by our safety experts and put through their paces by our drivers. set the pace be the fastest runner in the early part of a race. 
+• lead the way in doing or achieving something: space movies have set the pace for the development of special effects.ORIGIN Middle English: from Old French pas, from Latin passus ‘stretch (of the leg),’ from pandere ‘to stretch.’

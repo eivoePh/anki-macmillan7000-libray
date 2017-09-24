@@ -9,6 +9,19 @@ A.  nounUncountable
 B.  transitive verb 
 ① especially AmE (send by post) 邮寄 yóujì to mail [something] to [somebody], to mail [somebody] [something]; 把某物寄给某人 
 ② Computing to mail [somebody] (with [something]); 给某人发送（有关某物的）电子邮件 gěi mǒu rén fāsòng(yǒuguān mǒu wù de)diànzǐ yóujiàn 
-mail 
-▶noun the mail arrived: letters, correspondence; postal system, postal service, post office; delivery, collection; email; chiefly British post; informal snail mail.
-▶verb we mailed the card: send, dispatch, post, direct, forward, redirect, ship, express, courier; email.
+mail
+1 
+māl
+
+▶noun letters and packages conveyed by the postal system. 
+• the postal system: you can order by mail 
+the check is in the mail 
+[as modifier] : a mail truck. 
+• [in singular] a single delivery or collection of mail: the new magazine that came in the mail today. 
+• Computing email. 
+• dated a vehicle, such as a train, carrying mail. 
+• archaic a bag of letters to be conveyed by the postal system. 
+▶verb [with object] send (a letter or package) using the postal system: if you will mail the coupon, we'll send you a free trial package. 
+• Computing send (someone) email. DERIVATIVES mailable 
+ˈmāləb(ə)l 
+adjectiveORIGIN Middle English (in the sense ‘traveling bag’): from Old French male ‘wallet,’ of West Germanic origin. The notion ‘by post’ dates from the mid 17th century.

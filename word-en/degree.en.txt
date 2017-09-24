@@ -1,7 +1,23 @@
 degree 
+dəˈɡrē
+
 ▶noun
-1 to a high degree: level, standard, grade, mark; amount, extent, measure; magnitude, intensity, strength; proportion, ratio.
-2 she completed her degree in three years: diploma, academic program; baccalaureate, bachelor's, master's, doctorate, Ph.
-D. .
+1 [in singular] the amount, level, or extent to which something happens or is present: a degree of caution is probably wise 
+a question of degree.
+2 a unit of measurement of angles, one three-hundred-and-sixtieth of the circumference of a circle: set at an angle of 45 degrees. (Symbol: °)
+3 a stage in a scale or series, in particular: 
+• a unit in any of various scales of temperature, intensity, or hardness: water boils at 100 degrees Celsius. (Symbol: °) 
+• [in combination] each of a set of grades (usually three) used to classify burns according to their severity. See first-degree, second-degree, third-degree. 
+• [in combination] a legal grade of crime or offense, especially murder: second-degree murder 
+criminal conduct in the first degree. 
+• [often in combination] a step in direct genealogical descent: second-degree relatives. 
+• Music a position in a musical scale, counting upward from the tonic or fundamental note: the lowered third degree of the scale. 
+• Mathematics the class into which an equation falls according to the highest power of unknowns or variables present: an equation of the second degree. 
+• Grammar any of the three steps on the scale of comparison of gradable adjectives and adverbs, namely positive, comparative, and superlative. 
+• archaic a thing placed like a step in a series; a tier or row.
+4 an academic rank conferred by a college or university after examination or after completion of a course of study, or conferred as an honor on a distinguished person: a degree in zoology. 
+• archaic social or official rank: persons of unequal degree. 
+• a rank in an order of Freemasonry. 
 PHRASES
-by degrees rivalries and prejudice were by degrees fading out: gradually, little by little, bit by bit, inch by inch, step by step, slowly; piecemeal. to a degree without proper instruction, you can operate the machinery only to a degree: to some extent, to a certain extent, up to a point, somewhat.
+by degrees a little at a time; gradually: rivalries and prejudice were by degrees fading out. to a degree to some extent: to a degree, it is possible to educate oneself. 
+• dated to a considerable extent: the pressure you were put under must have been frustrating to a degree.ORIGIN Middle English (in the senses ‘step,’ ‘tier,’ ‘rank,’ or ‘relative state’): from Old French, based on Latin de- ‘down’ + gradus ‘step or grade.’

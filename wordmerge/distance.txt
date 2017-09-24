@@ -11,12 +11,28 @@ A.  noun
 B.  transitive verb (dissociate, alienate) 使疏远 shǐ shūyuǎn to distance [somebody] from [somebody]/[something]; 使某人疏远某人/某物 to become distanced from [somebody] 与某人的关系变得疏远 to distance one's remarks from the government view 使言论与政府的观点保持距离 
 C.  reflexive verb to distance oneself (from [somebody]/[something]); 疏远（某人/某物） shūyuǎn(mǒu rén/mǒu wù) 
 distance 
+ˈdistəns
+
 ▶noun
-1 they measured the distance: interval, space, span, gap, extent; length, width, breadth, depth; range, reach.
-2 our perception of distance: remoteness; closeness.
-3 there is a distance between them: aloofness, remoteness, detachment, unfriendliness; reserve, reticence, restraint, formality; informal standoffishness.
-▶verb he distanced himself from her: withdraw, detach, separate, dissociate, disassociate, isolate, put at a distance.
+1 an amount of space between two things or people: I bicycled the short distance home 
+the distance between front and rear wheels. 
+• the condition of being far off; remoteness: distance makes things look small 
+figurative : a significant distance between German and Allied understandings of the war. 
+• a far-off point or place: watching them from a distance. 
+• (the distance) the more remote part of what is visible or discernible: I heard police sirens in the distance 
+they sped off into the distance. 
+• an interval of time: a distance of more than twenty years.
+2 the full length of a race: he claimed the 10,000 meter title in only his second race over the distance. 
+• North American Horse Racing the distance from the winning post that a horse must have reached when the winner finishes in order to qualify for a subsequent heat. 
+• (the distance) Boxing the scheduled length of a fight: he has won his first five fights inside the distance.
+3 the avoidance of familiarity; aloofness or reserve: a mix of warmth and distance makes a good neighbor. 
+▶verb [with object] make (someone or something) far off or remote in position or nature: her mother wished to distance her from the rough village children. 
+• (distance oneself from) declare that one is not connected with or a supporter of (someone or something): he sought to distance himself from the proposals. 
+• North American Horse Racing beat (a horse) by a distance. 
 PHRASES
-in the distance there was a cabin in the distance: far away/off, afar, just in view; on the horizon; dated yonder. 
-WORD LINKS
-distance tele- forming words meaning ‘to or at a distance,’ such as telecommunication (‘long-distance communication by means of cable, telephone, satellite, etc.’)Word Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+go the distance Boxing complete a fight without being knocked out: he went the distance after being floored in the first round. 
+• (of a boxing match) last the scheduled length: six of his fights went the distance. 
+• Baseball pitch for the entire length of a game. 
+• last for a long time: this amplifier system should go the distance. keep one's distance stay far away: keep your distance from birds feeding their young. 
+• maintain one's reserve: you had to say nothing and keep your distance. within —— distance near enough to reach by the means specified: the parking lot is within easy walking distance 
+he wanted to be within driving distance of his grandparents. within striking distance near enough to hit or achieve something: the aircraft carrier is dispatched to deep waters within striking distance of Moscow.ORIGIN Middle English (in the sense ‘discord, debate’): from Old French or from Latin distantia, from distant- ‘standing apart,’ from the verb distare (see distant).

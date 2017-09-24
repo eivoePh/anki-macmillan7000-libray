@@ -1,4 +1,9 @@
 identical 
+ˌīˈden(t)ək(ə)l
+
 ▶adjective
-1 wearing identical badges: indistinguishable, (exactly) the same, uniform, twin, duplicate, interchangeable, synonymous, undifferentiated, equivalent, homogeneous, of a piece, cut from the same cloth; alike, like, matching, like (two) peas in a pod; similar. ANTONYMS different, unlike.
-2 I used the identical technique: same, very same, selfsame, very, one and the same; aforementioned, aforesaid, aforenamed, above, above-stated; foregoing, preceding. ANTONYMS different.WORD TOOLKITidenticalsameequivalenttwinstimeamountsresultsplacelevelssequencespageunitscopiessexvaluecircumstancesdaydosesDNAteamratesWord Toolkits illustrate the difference between close synonyms by means of words typically used with them.
+1 similar in every detail; exactly alike: four girls in identical green outfits 
+the passage on the second floor was identical to the one below. 
+• (of twins) developed from a single fertilized ovum, and therefore of the same sex and usually very similar in appearance. Compare with fraternal ( sense 2). 
+• [attributive] (of something encountered on separate occasions) the same: she stole a suitcase from the identical station at which she had been arrested before.
+2 Logic & Mathematics expressing an identity: an identical proposition. ORIGIN late 16th century ( sense 2): from medieval Latin identicus, from late Latin identitas (see identity) .

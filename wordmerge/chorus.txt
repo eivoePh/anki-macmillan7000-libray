@@ -10,8 +10,19 @@ A.  noun(plural choruses)
 ⑥ plus singular verb Theatre [古希腊戏剧中解释剧情的] 歌队 gēduì 
 B.  transitive verb 齐声说 qíshēng shuō the crowd chorused their discontent 人群齐声表示不满 
 chorus 
-▶noun
-1 the chorus sang powerfully: choir, ensemble, choral group, choristers, (group of) singers, voices, glee club.
-2 Nancy sang the chorus: refrain.
-PHRASES
-in chorus at least on the library parking issue, we were in chorus: in unison, together, simultaneously, as one, united; in concert, in harmony.
+ˈkôrəs
+
+▶noun (plural choruses)
+1 a part of a song that is repeated after each verse, typically by more than one singer. 
+• a piece of choral music, especially one forming part of a larger work such as an opera or oratorio. 
+• a simple song for group singing, especially in informal Christian worship.
+2 a large organized group of singers, especially one that performs together with an orchestra or opera company. 
+• a group of singers or dancers performing together in a supporting role in a stage musical or opera.
+3 a simultaneous utterance of something by many people: a growing chorus of complaint 
+“Good morning,” we replied in chorus.
+4 (in ancient Greek tragedy) a group of performers who comment on the main action, typically speaking and moving together. 
+• a single character who speaks the prologue and other linking parts of the play, especially in Elizabethan drama. 
+• a section of text spoken by the chorus in drama.
+5 a device used with an amplified musical instrument to give the impression that more than one instrument is being played: [as modifier] : a chorus pedal. 
+▶verb (chorused, chorusing) [with object] (of a group of people) say the same thing at the same time: they chorused a noisy amen 
+[with direct speech] : “Morning, Father,” the children chorused. ORIGIN mid 16th century (denoting a character speaking the prologue and epilogue in a play and serving to comment on events): from Latin, from Greek khoros .

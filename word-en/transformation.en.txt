@@ -1,2 +1,10 @@
 transformation 
-▶noun the transformation of the sales department has been dramatic: change, alteration, mutation, conversion, metamorphosis, transfiguration, transmutation, sea change; revolution, overhaul; remodeling, reshaping, redoing, reconstruction, rebuilding, reorganization, rearrangement, reworking, renewal, revamp, remaking, remake; informal transmogrification, morphing.
+ˌtran(t)sfərˈmāSH(ə)n
+
+▶noun a thorough or dramatic change in form or appearance: its landscape has undergone a radical transformation. 
+• a metamorphosis during the life cycle of an animal. 
+• Physics the induced or spontaneous change of one element into another by a nuclear process. 
+• Mathematics & Logic a process by which one figure, expression, or function is converted into another that is equivalent in some important respect but is differently expressed or represented. 
+• Linguistics a process by which an element in the underlying deep structure of a sentence is converted to an element in the surface structure. 
+• Biology the genetic alteration of a cell by introduction of extraneous DNA, especially by a plasmid. 
+• Biology the heritable modification of a cell from its normal state to a malignant state. ORIGIN late Middle English: from Old French, or from late Latin transformatio(n-), from the verb transformare (see transform) .

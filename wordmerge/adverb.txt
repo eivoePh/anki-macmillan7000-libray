@@ -2,5 +2,6 @@ adverb
 BrE ˈadvəːb, AmE ˈædˌvərb 
 noun (single word) 副词 fùcí ; (phrase) 状语词组 zhuàngyǔ cízǔ 
 adverb 
-BrE ˈadvəːb, AmE ˈædˌvərb 
-noun (single word) 副词 fùcí ; (phrase) 状语词组 zhuàngyǔ cízǔ 
+ˈadˌvərb
+
+▶noun Grammar a word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc. (e.g., gently, quite, then, there). ORIGIN late Middle English: from Latin adverbium, from ad- ‘to’ (expressing addition) + verbum ‘word, verb.’

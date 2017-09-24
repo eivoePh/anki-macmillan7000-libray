@@ -4,4 +4,13 @@ noun
 ① Uncountable(technical language) 专门用语 zhuānmén yòngyǔ 
 ② Countable(set of terms) 术语 shùyǔ 
 terminology 
-▶noun medical terminology: phraseology, terms, expressions, words, language, lexicon, parlance, vocabulary, wording, nomenclature; usage, idiom; jargon, cant, argot; informal lingo, -speak, -ese.
+ˌtərməˈnäləjē
+
+▶noun (plural terminologies) the body of terms used with a particular technical application in a subject of study, theory, profession, etc.: the terminology of semiotics 
+specialized terminologies for higher education. DERIVATIVES terminological 
+ˌtərmənəˈläjək(ə)l 
+adjective. terminologically 
+ˌtərmənəˈläjək(ə)lē 
+adverb. terminologist 
+ˌtərməˈnäləjəst 
+nounORIGIN early 19th century: from German Terminologie, from medieval Latin terminus ‘term.’

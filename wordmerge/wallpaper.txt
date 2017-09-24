@@ -7,9 +7,8 @@ A.  noun
 ③ Uncountable and countableComputing 桌面壁纸 zhuōmiàn bìzhǐ 
 B.  transitive verb 给…贴墙纸 gěi… tiē qiángzhǐ ‹room, wall›
 wallpaper 
-BrE ˈwɔːlpeɪpə, AmE ˈwɔlˌpeɪpər 
-A. noun 
-① Uncountable and countable(for decorating) 墙纸 qiángzhǐ 
-② Uncountablefigurative colloquial (background) 背景 bèijǐng musical wallpaper 背景音乐 
-③ Uncountable and countableComputing 桌面壁纸 zhuōmiàn bìzhǐ 
-B.  transitive verb 给…贴墙纸 gěi… tiē qiángzhǐ ‹room, wall›
+ˈwôlˌpāpər
+
+▶noun paper that is pasted in vertical strips over the walls of a room to provide a decorative or textured surface. 
+• Computing an optional background pattern or picture on a computer or mobile phone screen. 
+▶verb [with object] apply wallpaper to (a wall or room).

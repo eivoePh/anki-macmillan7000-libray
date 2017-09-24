@@ -1,5 +1,13 @@
 internal 
-▶adjective
-1 the internal structure of the building: inner, interior, inside, intramural; central. ANTONYMS external.
-2 Canada's internal affairs: domestic, home, interior, civil, local; national, federal, provincial, state. ANTONYMS foreign.
-3 an internal battle with herself: mental, psychological, emotional; personal, private, secret, hidden.
+inˈtərnl
+
+▶adjective of or situated on the inside: the tube had an internal diameter of 1.1 mm. 
+• inside the body: internal bleeding. 
+• existing or occurring within an organization: an internal telephone system. 
+• relating to affairs and activities within a country rather than with other countries; domestic: the government's internal policies 
+internal flights. 
+• experienced in one's mind; inner rather than expressed: internal feelings. 
+• of the inner nature of a thing; intrinsic: he creates a dialogue internal to his work. 
+▶pl. noun (internals) inner parts or features: all the weapon's internals are well finished and highly polished. DERIVATIVES internality 
+ˌintərˈnalitē 
+nounORIGIN early 16th century (in the sense ‘intrinsic’): from modern Latin internalis, from Latin internus ‘inward, internal.’

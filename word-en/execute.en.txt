@@ -1,5 +1,12 @@
 execute 
-▶verb
-1 he was convicted and executed: put to death, kill; hang, behead, guillotine, electrocute, send to the (electric) chair, shoot, put before a firing squad; informal string up, fry.
-2 the corporation executed a series of financial deals: carry out, accomplish, bring off/about, achieve, complete, engineer, conduct; informal pull off; formal effectuate.
-3 a well-executed act: perform, present, render; stage.
+ˈeksəˌkyo͞ot
+
+▶verb [with object]
+1 carry out or put into effect (a plan, order, or course of action): the corporation executed a series of financial deals. 
+• produce (a work of art): not only does she execute embroideries, she designs them, too. 
+• perform (an activity or maneuver requiring care or skill): they had to execute their dance steps with the greatest precision. 
+• Law make (a legal instrument) valid by signing or sealing it. 
+• Law carry out (a judicial sentence, the terms of a will, or other order): police executed a search warrant. 
+• Computing carry out an instruction or program.
+2 carry out a sentence of death on (a legally condemned person): he was convicted of treason and executed. 
+• kill (someone) as a political act. ORIGIN late Middle English: from Old French executer, from medieval Latin executare, from Latin exsequi ‘follow up, carry out, punish,’ from ex- ‘out’ + sequi ‘follow.’

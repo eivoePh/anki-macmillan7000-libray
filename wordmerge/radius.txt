@@ -6,9 +6,17 @@ noun(plural radii or radiuses)
 10 km radius of here 离这里方圆10公里以内 
 ③ Anatomy 桡骨 ráogǔ 
 radius 
-BrE ˈreɪdɪəs, AmE ˈreɪdiəs 
-noun(plural radii or radiuses) 
-① Mathematics 半径 bànjìng 
-② (distance) 半径范围 bànjìng fànwéi within a
-10 km radius of here 离这里方圆10公里以内 
-③ Anatomy 桡骨 ráogǔ 
+ˈrādēəs
+
+▶noun (plural radii 
+ˈrādēˌī
+or radiuses)
+1 a straight line from the center to the circumference of a circle or sphere. radius
+1 See also illustration at geometric. 
+• a radial line from the focus to any point of a curve. 
+• the length of the radius of a circle or sphere. 
+• a specified distance from a center in all directions: there are plenty of local pubs within a two-mile radius.
+2 Anatomy the thicker and shorter of the two bones in the human forearm. Compare with ulna. 
+• Zoology the corresponding bone in a vertebrate's foreleg or a bird's wing. 
+• Zoology (in an echinoderm or coelenterate) any of the primary axes of radial symmetry. 
+• Entomology any of the main veins in an insect's wing. ORIGIN late 16th century ( sense 2): from Latin, literally ‘staff, spoke, ray.’

@@ -1,11 +1,25 @@
 address 
+əˈdres ˈaˌdres
+
 ▶noun
-1 the address on the envelope: inscription, superscription; directions, number.
-2 our officers arrived at the address: house, apartment, home; formal residence, dwelling, dwelling place, habitation, abode, domicile.
-3 her address to the board members: speech, lecture, talk, monologue, dissertation, discourse, oration, peroration; slang spiel, chalk talk; sermon, homily, lesson; harangue.
-▶verb
-1 I addressed the envelope by hand: inscribe, superscribe.
-2 Rev. Lally addressed a crowded congregation: talk to, give a talk to, speak to, make a speech to, give a lecture to, lecture, hold forth to; preach to, give a sermon to; informal buttonhole, collar.
-3 the question of how to address one's parents-in-law: call, name, designate; speak to; formal denominate.
-4 correspondence should be addressed to the Human Resources Department: direct, send, forward, communicate, convey, route, remit.
-5 the selectmen failed to address the issue of subsidies: attend to, apply oneself to, tackle, see to, deal with, confront, come to grips with, get down to, turn one's hand to, take in hand, undertake, concentrate on, focus on, devote oneself to.
+1 the particulars of the place where someone lives or an organization is situated: they exchanged addresses and agreed to keep in touch. 
+• the place itself: our officers went to the address. 
+• Computing a string of characters that identifies a destination for email messages or the location of a website. 
+• Computing a binary number that identifies a particular location in a data storage system or computer memory.
+2 a formal speech delivered to an audience: delivered an address to the National Council of Teachers. 
+• archaic a person's manner of speaking to someone else: his address was abrupt and unceremonious. 
+• (addresses) archaic courteous or amorous approaches to someone: he persecuted her with his addresses.
+3 dated skill, dexterity, or readiness: he rescued me with the most consummate address. 
+▶verb [with object]
+1 write the name and address of the intended recipient on (an envelope, letter, or package): I addressed my letter to him personally 
+(as adjective addressed) : an addressed envelope.
+2 speak to (a person or an assembly), typically in a formal way: she addressed an audience of the most important Shawnee chiefs 
+they addressed themselves to my father. 
+• (address someone as) name someone in a specified way when talking or writing: she addressed my father as “Mr. Stevens.” 
+• (address something to) say or write remarks or a protest to (someone): address your complaints to the Board of Review.
+3 think about and begin to deal with (an issue or problem): a fundamental problem has still to be addressed.
+4 Golf take up one's stance and prepare to hit (the ball). 
+PHRASES
+form of address a name or title used in speaking or writing to a person of a specified rank or function: “Venerable” was the usual form of address for a priest at that time.DERIVATIVES addresser 
+əˈdresər aˈdresər 
+nounORIGIN Middle English (as a verb in the senses ‘set upright’ and ‘guide, direct,’ hence ‘write directions for delivery on’ and ‘direct spoken words to’): from Old French, based on Latin ad- ‘toward’ + directus (see direct). The noun is of mid 16th-century origin in the sense ‘act of approaching or speaking to someone.’

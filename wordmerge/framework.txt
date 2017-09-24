@@ -1,7 +1,10 @@
-framework noun 
+framework
+ˈfrāmˌwərk
+noun 
 ① literal (support) 构架 gòujià 
 ② figurative (of society, agreement, theory) 体系 tǐxì (of novel, play) 结构 jiégòu within the framework of the constitution 在宪法的框架内 
 framework 
-▶noun
-1 a metal framework: frame, substructure, infrastructure, structure, skeleton, chassis, shell, body, bodywork; support, scaffolding, foundation.
-2 the framework of society: structure, shape, fabric, order, scheme, system, organization, construction, configuration, composition, warp and woof; informal makeup.
+ˈfrāmˌwərk
+
+▶noun an essential supporting structure of a building, vehicle, or object: a conservatory in a delicate framework of iron. 
+• a basic structure underlying a system, concept, or text: the theoretical framework of political sociology.

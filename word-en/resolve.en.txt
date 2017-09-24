@@ -1,11 +1,25 @@
 resolve 
+rəˈzälv
+
 ▶verb
-1 this matter cannot be resolved overnight: settle, sort out, solve, find a solution to, fix, straighten out, deal with, put right, put to rights, rectify; informal hammer out, thrash out, figure out.
-2 Bob resolved not to wait any longer: determine, decide, make up one's mind, make a decision.
-3 the committee resolved that the project should proceed: vote, pass a resolution, rule, decide formally, agree.
-4 the compounds were resolved into their active constituents: break down/up, separate, reduce, divide.
-5 the ability to resolve facts into their legal categories: analyze, dissect, break down, categorize.
-6 the gray smudge resolved into a sandy beach: turn, change, be transformed, be converted.
-▶noun
-1 their intimidation merely strengthened his resolve. See resolution (sense 3).
-2 he made a resolve not to go there again: decision, resolution, commitment.
+1 [with object] settle or find a solution to (a problem, dispute, or contentious matter): the firm aims to resolve problems within 30 days. 
+• [with object] Medicine cause (a symptom or condition) to disperse, subside, or heal: endoscopic biliary drainage can rapidly resolve jaundice. 
+• [no object] (of a symptom or condition) disperse, subside, or heal: symptoms resolved after a median of four weeks. 
+• [no object] Music (of a discord) lead into a concord during the course of harmonic change. 
+• [with object] Music cause (a discord) to pass into a concord.
+2 [no object] decide firmly on a course of action: [with infinitive] : she resolved to call Dana as soon as she got home. 
+• [with clause] (of a legislative body, committee, or other formal meeting) make a decision by a formal vote: the committee resolved that teachers should make their recommendations without knowledge of test scores 
+[with infinitive] : the conference resolved to support an alliance.
+3 chiefly Chemistry separate or cause to be separated into components. 
+• [with object] (resolve something into) reduce a subject, statement, etc., by mental analysis into (separate elements or a more elementary form): the ability to resolve facts into their legal categories. 
+• [no object] (of something seen at a distance) turn into a different form when seen more clearly: the orange glow resolved itself into four lanterns. 
+• [with object] (of optical or photographic equipment) separate or distinguish between (closely adjacent objects): Hubble was able to resolve six variable stars in M31. 
+• [with object] separately distinguish (peaks in a graph or spectrum). 
+• [with object] Physics analyze (a force or velocity) into components acting in particular directions. 
+▶noun firm determination to do something: she received information that strengthened her resolve 
+she intended to stick to her initial resolve. 
+• US a formal resolution by a legislative body or public meeting. DERIVATIVES resolvability 
+rəˌzälvəˈbilədē rēˌzälvəˈbilədē rəˌzôlvəˈbilədē rēˌzôlvəˈbilədē 
+noun. resolvable 
+rəˈzälvəbəl rēˈzälvəbəl rəˈzôlvəbəl rēˈzôlvəbəl 
+adjective. resolver nounORIGIN late Middle English (in the senses ‘dissolve, disintegrate’ and ‘solve (a problem)’): from Latin resolvere, from re- (expressing intensive force) + solvere ‘loosen.’

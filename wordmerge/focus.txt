@@ -16,13 +16,29 @@ C.  intransitive verb(present participle etc. -s- or -ss-)
 ③ (concentrate) 集中 jízhōng to focus on [something]; 集中于某物 she was too tired to focus on anything 她太累了，干什么都不能集中精神 all eyes focused on the Prime Minister 所有的人都注视着首相 
 ④ figurative (emphasize) «person, meeting, issue» 侧重 cèzhòng to focus on [something]/doing [something]; 侧重某事/做某事 
 focus 
-▶noun
-1 schools are a focus of community life: center, focal point, central point, center of attention, hub, pivot, nucleus, heart, core, cornerstone, linchpin, cynosure.
-2 the focus is on helping people: emphasis, accent, priority, attention, concentration.
-3 the main focus of this chapter: subject, theme, concern, subject matter, topic, issue, thesis, point, thread; substance, essence, gist, matter.
-4 the resulting light beams are brought to a focus at the eyepiece: focal point, point of convergence.
-▶verb
-1 she focused her binoculars on the tower: bring into focus; aim, point, turn.
-2 the investigation will focus on areas of social need: concentrate on, center on, zero in on, zoom in on; address itself to, pay attention to, pinpoint, revolve around, have as its starting point.
-PHRASES
-in focus submit only those snapshots that are in focus: sharp, crisp, distinct, clear, well defined, well focused. out of focus the shots are slightly out of focus, which gives them an eerie quality: blurred, unfocused, indistinct, blurry, fuzzy, hazy, misty, cloudy, lacking definition, nebulous. REFLECTIONS David Foster Wallacefocus Focus is now the noun of choice for expressing what people used to mean by concentration (Sampras's on-court focus was phenomenal) and emphasis (Our focus is on satisfying the needs of our customers). Adjectivized, it seems often to serve as an approving synonym for driven or monomaniacal:He's the most focused warehouse manager we've ever had. As a verb, it seems isomorphic with the older to concentrate:Focus, people! ; The Democrats hope that the campaign will focus on the economy; We need to focus on finding solutions instead of blaming each other ; etc. Notice, with respect to those last two sample sentences, how the verb phrase to focus on can take as its object either a thing-noun ('economy') or an -ing word ('finding'), and how its grammar is slightly different in these two cases. With a noun, to focus on means 'to concentrate attention or effort on,' i.e., the direct object is built right into the verb phrase; but with -ing words it means 'to direct toward a particular goal'—there's always a direct object like 'attention/efforts/energies' that's suppressed but understood, and the -ing word functions as an indirect object. Given the speed with which to focus has supplanted to concentrate, it's a little surprising that nobody objects to its somewhat jargony New Age feel—but nobody seems to. Maybe this is because the word is only one of many film and drama terms that have lately entered mainstream usage, e.g., to foreground (= to feature, to give top priority to); to background (= to downplay, to relegate to the back burner); scenario (= an outline of some hypothetical sequence of events), and dialogue.Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+ˈfōkəs
+
+▶noun (plural focuses or foci 
+ˈfōˌsī, -ˌkī
+)
+1 the center of interest or activity: this generation has made the environment a focus of attention. 
+• an act of concentrating interest or activity on something: our focus on the customer's requirements. 
+• Geology the point of origin of an earthquake. Compare with epicenter. 
+• Medicine the principal site of an infection or other disease. 
+• Linguistics the part of a sentence given prominence, usually for emphasis or contrast, e.g., Bob in it was Bob who came, not Bill. Compare with rheme.
+2 the state or quality of having or producing clear visual definition: his face is rather out of focus. 
+• another term for focal point. 
+• the point at which an object must be situated with respect to a lens or mirror for an image of it to be well defined. 
+• a device on a lens that can be adjusted to produce a clear image.
+3 Geometry one of the fixed points from which the distances to any point of a given curve, such as an ellipse or parabola, are connected by a linear relation. 
+▶verb (focuses, focusing, focused or focusses, focussing, focussed) [no object]
+1 (of a person or their eyes) adapt to the prevailing level of light and become able to see clearly: try to focus on a stationary object. 
+• [with object] cause (one's eyes) to focus: trying to focus his bleary eyes on Corbett. 
+• [with object] adjust the focus of (a telescope, camera, or other instrument): they were focusing a telescope on a star. 
+• (of rays or waves) meet at a single point. 
+• [with object] (of a lens) make (rays or waves) meet at a single point. 
+• [no object] (of light, radio waves, or other energy) become concentrated into a sharp beam of light or energy. 
+• [with object] (of a lens) concentrate (light, radio waves, or energy) into a sharp beam.
+2 (focus on) pay particular attention to: the study will focus on a number of areas in Wales. 
+• [with object] concentrate: the course helps to focus and stimulate your thoughts. 
+• [with object] Linguistics place the focus on (a part of a sentence). DERIVATIVES focuser nounORIGIN mid 17th century (as a term in geometry and physics): from Latin, literally ‘domestic hearth.’

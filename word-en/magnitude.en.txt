@@ -1,6 +1,13 @@
 magnitude 
+ˈmaɡnəˌt(y)o͞od
+
 ▶noun
-1 the magnitude of the task: immensity, vastness, hugeness, enormity; size, extent, expanse, greatness, largeness, bigness. ANTONYMS smallness.
-2 events of tragic magnitude: importance, import, significance, weight, consequence, mark, notability, note; formal moment. ANTONYMS triviality.
+1 the great size or extent of something: they may feel discouraged at the magnitude of the task before them. 
+• great importance: events of tragic magnitude.
+2 size: electorates of less than average magnitude. 
+• a numerical quantity or value: the magnitudes of all the economic variables could be determined.
+3 the degree of brightness of a star. The magnitude of an astronomical object is now reckoned as the negative logarithm of the brightness; a decrease of one magnitude represents an increase in brightness of 2.512 times. A star with an apparent magnitude of six is barely visible to the naked eye. See also apparent magnitude, absolute magnitude. 
+• the class into which a star falls by virtue of its brightness. 
+• a difference of one on a scale of brightness, treated as a unit of measurement. 
 PHRASES
-of the first magnitude we are witnessing a historic event of the first magnitude: of the utmost importance, of the greatest significance, very important, of great consequence; formal of great moment.
+of the first magnitude see first. ORIGIN late Middle English (also in the sense ‘greatness of character’): from Latin magnitudo, from magnus ‘great.’

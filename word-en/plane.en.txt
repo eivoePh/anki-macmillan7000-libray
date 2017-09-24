@@ -1,9 +1,14 @@
 plane
 1 
+plān
+
 ▶noun
-1 a horizontal plane: flat surface, level surface; horizontal.
-2 a higher plane of achievement: level, degree, standard, stratum; position, rung, echelon.
-▶adjective a plane surface: flat, level, horizontal, even; smooth, regular, uniform; technical planar.
-▶verb
-1 seagulls planed overhead: soar, glide, float, drift, wheel.
-2 boats planed across the water: skim, glide.
+1 a flat surface on which a straight line joining any two points on it would wholly lie: the horizontal plane. 
+• an imaginary flat surface through or joining material objects: the planets orbit the sun in roughly the same plane. 
+• a flat or level surface of a material object: the plane of his forehead. 
+• a flat surface producing lift by the action of air or water over and under it.
+2 a level of existence, thought, or development: everything is connected on the spiritual plane. 
+▶adjective [attributive] completely level or flat. 
+• relating to only two-dimensional surfaces or magnitudes: plane and solid geometry. 
+▶verb [no object] (of a bird or an airborne object) soar without moving the wings; glide: a bird planed down toward the water below. 
+• (of a boat, surfboard, etc.) skim over the surface of water as a result of lift produced hydrodynamically. ORIGIN early 17th century: from Latin planum ‘flat surface,’ neuter of the adjective planus ‘plain.’ The adjective was suggested by French plan(e)‘flat.’ The word was introduced to differentiate the geometric senses, previously expressed by plain1, from the latter's other meanings.

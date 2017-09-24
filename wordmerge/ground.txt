@@ -28,16 +28,47 @@ D.  transitive verb
 ⑥ (put on ground) 将…放在地上 jiāng… fàng zài dì shang ‹golf club, weapon›he didn't ground the ball (in rugby) 他未能使球触地 to ground arms 放下武器 
 ⑦ AmE Electricity 将…接地 jiāng… jiēdì to be soundly grounded 接地良好 a grounded plug 接地插头 
 E.  intransitive verb «ship» 搁浅 gēqiǎn 
-ground 
+ground
+1 
+ɡround
+
 ▶noun
-1 she collapsed on the ground: floor, earth, terra firma; flooring; informal deck.
-2 the soggy ground: earth, soil, dirt, clay, loam, turf, clod, sod; land, terrain.
-3 (grounds) the mansion's grounds: estate, lawn(s), yard(s), gardens, park, parkland, land, acres, property, surroundings, holding, territory; archaic demesne.
-4 (grounds) grounds for dismissal: reason, cause, basis, base, foundation, justification, rationale, argument, premise, occasion, excuse, pretext, motive, motivation.
-5 (grounds) coffee grounds: sediment, precipitate, settlings, dregs, lees, deposit, residue.
-▶verb
-1 the boat grounded on a sandbar: run aground, run ashore, beach, land.
-2 an assertion grounded on results of several studies: base, found, establish, root, build, construct, form.
-3 they were grounded in classics and history: instruct, coach, teach, tutor, educate, school, train, drill, prime, prepare; familiarize with, acquaint with.
+1 [in singular] the solid surface of the earth: he lay on the ground. 
+• a limited or defined extent of the earth's surface; land: an adjoining area of ground had been purchased. 
+• land of a specified kind: my feet squelched over marshy ground. 
+• an area of land or sea used for a specified purpose: shore dumping can pollute fishing grounds and beaches. 
+• (grounds) an area of enclosed land surrounding a large house or other building: the house stands in seven acres of grounds. 
+• [as modifier] (in aviation) relating to the ground rather than the air (with particular reference to the maintenance and servicing of an aircraft on the ground): ground staff 
+ground crew. 
+• [as modifier] (of an animal) living on or in the ground. 
+• [as modifier] (of a fish) bottom-dwelling. 
+• [as modifier] (of a plant) low-growing, especially in relation to similar plants.
+2 an area of knowledge or subject of discussion or thought: third-year courses typically cover less ground and go into more depth 
+he shifted the argument onto theoretical grounds of his own choosing.
+3 (grounds) factors forming a basis for action or the justification for a belief: there are some grounds for optimism 
+they called for a retrial on the grounds of the new evidence.
+4 chiefly Art a prepared surface to which paint is applied. 
+• a substance used to prepare a surface for painting. 
+• (in embroidery or ceramics) a plain surface to which decoration is applied. 
+• a piece of wood fixed to a wall as a base for boards, plaster, or woodwork.
+5 Music short for ground bass.
+6 (grounds) solid particles, especially of ground coffee, that form a residue; sediment.
+7 North American electrical connection of a circuit or conductor to the earth. 
+▶verb [with object]
+1 prohibit or prevent (a pilot or an aircraft) from flying: a bitter wind blew from the northeast, and the bombers were grounded. 
+• informal (of a parent) refuse to allow (a child) to go out socially as a punishment: he was grounded for hitting her on the head.
+2 (with reference to a ship) run or go aground: the larger ships grounded on the riverbed at low tide 
+rather than be blown up, Muller grounded his ship on a coral reef and surrendered.
+3 (usually be grounded in) give (something abstract) a firm theoretical or practical basis: the study of history must be grounded in a thorough knowledge of the past. 
+• instruct (someone) thoroughly in a subject: they were grounded in the classics, in history, and in literature.
+4 place or lay (something) on the ground or hit the ground with it: he was penalized two strokes for grounding his club in a bunker.
+5 North American connect (an electrical device) with the ground.
+6 [no object] Baseball (of a batter) hit a pitched ball so that it bounces on the ground: he grounded to second. 
+• (ground out) (of a batter) be put out by hitting a ball on the ground to a fielder who throws it to or touches first base before the batter touches that base: he grounded out to shortstop. 
 PHRASES
-hold one's ground he tried to dissuade me with his negative remarks, but I held my ground: stand firm, stand fast, make a stand, stick to one's guns, dig in one's heels. gain ground we failed to gain ground in that last campaign: advance, progress, make headway; catch up, close in.
+be thick (or thin) on the ground existing (or not existing) in large numbers or amounts: new textbooks on particle physics are thin on the ground. break ground
+1 do preparatory digging or other work prior to building or planting something.
+2 another term for break new ground. break new (or fresh) ground do something innovative that is considered an advance or positive benefit. cut the ground from under someone's feet do something that leaves someone without a reason or justification for their actions or opinions. from the ground up informal completely or complete: they needed to learn the business from the ground up. gain ground become more popular or accepted: new moral attitudes are gaining ground. gain ground on get closer to someone or something one is pursuing or with whom one is competing: the dollar gained ground on all other major currencies. get off the ground (or get something off the ground) start or cause to start happening or functioning successfully: he doesn't appreciate the steps he must take to get the negotiations off the ground.give (or lose) ground retreat or lose one's advantage during a conflict or competition: he refused to give ground on this issue. go to ground (of a fox or other animal) enter its earth or burrow. 
+• (of a person) hide or become inaccessible, especially for a long time: he had gone to ground following the presidential coup. make up ground get closer to someone ahead in a race or competition. on the ground in a place where real, practical work is done: the troops on the ground are cynical. on one's own ground in one's own territory or concerning one's own range of knowledge or experience: I feel reasonably relaxed if I'm interviewed on my own ground. prepare the ground make it easier for something to occur or be developed: congress approved a series of measures intended to prepare the ground for the new economic structure. run someone/something to ground see run. stand one's ground
+1 (also hold one's ground) not retreat or lose one's advantage during a conflict or competition: you will be able to hold your ground and resist the enemy's attack.
+2 (stand your ground) US Law denoting a law or legal principle that permits a person to use deadly force in self-defense without first trying to retreat. work (or run) oneself into the ground exhaust oneself by working (or running) very hard.ORIGIN Old English grund, of Germanic origin; related to Dutch grond and German Grund .

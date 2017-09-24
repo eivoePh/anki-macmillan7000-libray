@@ -10,11 +10,21 @@ B.  letters noun plural
 ② AmE (award) 校名首字母标志 xiàomíng shǒuzìmǔ biāozhì to award letters to the members of the school baseball team 授予校棒球队员校名首字母标志 
 C.  transitive verb 用字母标明 yòng zìmǔ biāomíng the rows are lettered from A to X 排数从A标到X 
 letter 
+ˈledər
+
 ▶noun
-1 capital letters: alphabetical character, character, sign, symbol, mark, figure, rune; Linguistics grapheme.
-2 he wrote Len a letter: written message, message, written communication, communication, note, line, missive, dispatch; correspondence, news, information, intelligence, word; post, mail; formal epistle.
-3 (letters) a man of letters: learning, scholarship, erudition, education, knowledge; intellect, intelligence, enlightenment, wisdom, sagacity, culture.
+1 a character representing one or more of the sounds used in speech; any of the symbols of an alphabet: a capital letter. 
+• US a school or college initial as a mark of proficiency, especially in sports: I earned a varsity letter in tennis 
+[as modifier] : a letter jacket.
+2 a written, typed, or printed communication, especially one sent in an envelope by mail or messenger: he sent a letter to Mrs. Falconer. 
+• (letters) printed communications as legal or formal documents.
+3 the precise terms of a statement or requirement; the strict verbal interpretation: we must be seen to keep the spirit of the law as well as the letter.
+4 (letters) literature: the world of letters. 
+• archaic scholarly knowledge; erudition.
+5 Printing a style of typeface. 
+▶verb
+1 [with object] inscribe letters or writing on: her name was lettered in gold. 
+• classify with letters: he numbered and lettered the paragraphs.
+2 [no object] US informal be given a school or college initial as a mark of proficiency in sports: juniors who lettered in soccer, basketball, or softball. 
 PHRASES
-to the letter he followed her instructions to the letter: strictly, precisely, exactly, accurately, closely, faithfully, religiously, punctiliously, literally, verbatim, in every detail. 
-WORD LINKS
-letter epistolary relating to letters (i.e., correspondence)Word Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+to the letter with adherence to every detail: the method was followed to the letter.ORIGIN Middle English: from Old French lettre, from Latin litera, littera ‘letter of the alphabet,’ (plural) ‘epistle, literature, culture.’

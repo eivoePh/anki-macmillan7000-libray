@@ -113,51 +113,91 @@ B.  transitive verb[turn something up], [turn up something]
 ④ (increase, intensify) 调高 tiáogāo ‹heat, radio, music›can you turn the sound up a bit, I can't hear 你能不能把声音弄大点儿，我听不见 
 ⑤ BrE colloquial (stop) 停止 tíngzhǐ ‹activity›turn it up! 停下来！ 
 turn 
+tərn
+
 ▶verb
-1 the wheels were still turning: go around, revolve, rotate, spin, roll, circle, wheel, whirl, twirl, gyrate, swivel, pivot.
-2 I turned and headed back: change direction, change course, make a U-turn, about-face, turn around/about; informal pull a U-ey, do a one-eighty.
-3 the car turned the corner: go around, round, negotiate, take.
-4 the path turned to right and left: bend, curve, wind, veer, twist, meander, snake, zigzag.
-5 he turned his gun on Lenny: aim at, point at, level at, direct at, train on.
-6 he turned his ankle: sprain, twist, wrench; hurt.
-7 their honeymoon turned into a nightmare: become, develop into, turn out to be; be transformed into, metamorphose into, descend into, grow into.
-8 Emma turned red: become, go, grow, get.
-9 he turned the house into apartments: convert, change, transform, make; adapt, modify, rebuild, reconstruct.
-10 I've just turned forty: reach, get to, become, hit.
-11 she turned to politics: take up, become involved in, go into, enter, undertake.
-12 we can now turn to another topic: move on to, go on to, proceed to, consider, attend to, address; take up, switch to.
+1 move or cause to move in a circular direction wholly or partly around an axis or point: [no object] : the big wheel was turning 
+[with object] : I turned the key in the door and crept in. 
+• [with object] move (something) so that it is in a different position in relation to its surroundings or its previous position: we waited in suspense for him to turn the cards over. 
+• [with object] move (a page) over so that it is flat against the previous or next page: she turned a page noisily 
+[no object] : turn to page five for the answer. 
+• change or cause to change direction: [no object] : we turned around and headed back to the house. 
+• [with object] aim, point, or direct (something): she turned her head toward me 
+the government has now turned its attention to primary schools. 
+• [no object] change the position of one's body so that one is facing in a different direction: Charlie turned and looked at his friend. 
+• [no object] (of the tide) change from flood to ebb or vice versa. 
+• [with object] pass around (the flank or defensive lines of an army) so as to attack it from the side or rear. 
+• [with object] perform (a somersault or cartwheel). 
+• [with object] twist or sprain (an ankle). 
+• [with object] fold or unfold (fabric or a piece of a garment) in the specified way: he turned up the collar of his coat. 
+• [with object] remake (a garment or a sheet), putting the worn outer side on the inside. 
+• [with object] (usually as adjective turned) Printing set or print (a type or letter) upside down. 
+• [with object] archaic bend back (the edge of a blade) so as to make it blunt: a sheet that Mrs Dibb wanted turned sides to middle.
+2 [no object] change in nature, state, form, or color; become: Emmeline turned pale. 
+• [with object or adverbial] cause to change; cause to become: potatoes are covered with sacking to keep the light from turning them green. 
+• (of leaves) change color in the autumn. 
+• [with object] pass the age or time of: I've just turned forty. 
+• (with reference to milk) make or become sour: [with object] : the thunder had turned the milk. 
+• (with reference to the stomach) make or become nauseated: [with object] : the smell was bad enough to turn the strongest stomach. 
+• [with object or adverbial] send or put into a specified place or condition: the dogs were turned loose on the crowd.
+3 [no object] (turn to) start doing or becoming involved with: in 1939 he turned to films in earnest. 
+• go on to consider next: we can now turn to another aspect of the problem. 
+• go to for help, advice, or information: who can she turn to? 
+• have recourse to (something, especially something dangerous or unhealthy): he turned to drink and drugs for solace.
+4 [with object] shape (something) on a lathe: the faceplate is turned rather than cast. 
+• give a graceful or elegant form to: (as adjective with submodifier turned) : a production full of so many finely turned words. 
+• make (a profit). 
 ▶noun
-1 a turn of the wheel: rotation, revolution, spin, whirl, gyration, swivel.
-2 a turn to the left: change of direction, veer, divergence.
-3 we're approaching the turn: bend, corner, turning, turnoff, junction, crossroads.
-4 you'll get your turn in a minute: opportunity, chance, say; stint, time; try; informal go, shot, stab, crack.
-5 she did me some good turns: service, deed, act; favor, kindness.
+1 an act of moving something in a circular direction around an axis or point: a safety lock requiring four turns of the key. 
+• a change of direction when moving: they made a left turn and picked up speed. 
+• a development or change in circumstances or a course of events: life has taken a turn for the better. 
+• a time when one specified period of time ends and another begins: the turn of the century. 
+• a bend or curve in a road, path, river, etc.: the twists and turns in the passageways. 
+• a place where a road meets or branches off another. 
+• (the turn) the beginning of the second nine holes of a round of golf: he made the turn in one under par. 
+• a change of the tide from ebb to flow or vice versa. 
+• one round in a coil of rope or other material.
+2 an opportunity or obligation to do something that comes successively to each of a number of people: it was his turn to speak. 
+• a short performance, especially one of a number given by different performers in succession: a comic turn. 
+• a performer giving one of a number of short performances.
+3 a short walk or ride: why don't you take a turn around the garden?
+4 informal a shock: you gave us quite a turn! 
+• a brief feeling or experience of illness: tell me how you feel when you have these funny turns.
+5 the difference between the buying and selling price of stocks or other financial products. 
+• a profit made from the difference between the buying and selling price of stocks or other financial products.
+6 Music a melodic ornament consisting of the principal note with those above and below it. 
 PHRASES
-at every turn her name seemed to come up at every turn: repeatedly, recurrently, all the time, always, constantly, again and again. in turn let's consider these three points in turn: one after the other, one by one, one at a time, in succession, successively, sequentially. take a turn for the better his luck took a turn for the better: improve, pick up, look up, perk up, rally, turn the corner; recover, revive. take a turn for the worse even the doctors were surprised when Richie took a turn for the worse: deteriorate, worsen, decline; informal go downhill. turn against after his father died, Bruce turned against his stepmother: become hostile to, take a dislike to, betray, double-cross. turn away I know you're hurt, but please don't turn us away: send away, reject, rebuff, repel, cold-shoulder; informal send packing. turn back just before boarding the ferry, Clint changed his mind and turned back: retrace one's steps, go back, return; retreat. turn down
-1 his novel was turned down: reject, refuse, decline, spurn, rebuff.
-2 Pete turned the volume down: reduce, lower, decrease, lessen; muffle, mute. turn in
-1 he turned in his brother to the police: betray, inform on, denounce, sell out, stab someone in the back; blow the whistle on, rat on, squeal on, finger.
-2 we turned in the entrance forms just in time: hand in/over/back, give in, submit, surrender, give up; deliver, return.
-3 I usually turn in before
-10 o'clock: go to bed, retire, go to sleep, call it a day; informal hit the hay, hit the sack. turn of events she was unprepared for this turn of events: development, incident, occurrence, happening, circumstance, surprise. turn of phrase a clever turn of phrase: expression, idiom, phrase, term, word, aphorism. turn off
-1 his so-called jokes really turn me off: put off, leave cold, repel, disgust, revolt, offend; disenchant, alienate; bore, gross out.
-2 please turn off the garage lights: switch off, shut off, turn out; extinguish; deactivate; informal kill, cut, power down. turn on
-1 the decision turned on the law: depend on, rest on, hinge on, be contingent on, be decided by.
-2 okay, I admit it—his green eyes turn me on. See arouse (sense 3).
-3 I'll turn on the generator: switch on, start up, activate, trip, power up.
-4 it began as a simple disagreement, but then he turned on us like a mad dog: attack, set on, fall on, let fly at, lash out at, hit out at; informal lay into, tear into, let someone have it, bite someone's head off, jump down someone's throat; light into. turn on to Christie has turned me on to the health benefits of yoga: introduce someone to, get someone into, pique someone's interest in. turn out
-1 a huge crowd turned out: come, be present, attend, appear, turn up, arrive; assemble, gather, show up.
-2 it turned out that she had been abroad: transpire, emerge, come to light, become apparent, become clear.
-3 things didn't turn out as I'd intended: happen, occur, come about; develop, proceed; work out, come out, end up, pan out, result; formal eventuate.
-4 it's about time she turned out that bum of a boyfriend: throw out, eject, evict, expel, oust, drum out, banish; informal kick out, send packing, boot out, show someone the door.
-5 turn out the light: switch off, shut off, turn off.
-6 they turn out a million engines a year: produce, make, manufacture, fabricate, generate, put out, churn out. turn over
-1 the crate fell off the back of the truck and turned over: overturn, upturn, capsize, keel over, flip, turn turtle, be upended, tip.
-2 I turned over a few pages: flip over, flick through, leaf through.
-3 she turned the proposal over in her mind: think about, think over, consider, ponder, contemplate, reflect on, chew over, mull over, muse on, ruminate on.
-4 he turned over the business to his brother: transfer, hand over, pass on, consign, commit. turn someone's stomach the sight of blood turns my stomach: nauseate someone, sicken someone, make someone sick. turn to I always had my grandparents to turn to: seek help from, have recourse to, approach, apply to, appeal to; take to, resort to. turn up
-1 the missing documents turned up: be found, be discovered, be located, reappear.
-2 the police turned up: arrive, appear, present oneself, show up, show, show one's face.
-3 something better will turn up: present itself, offer itself, occur, happen, crop up, appear.
-4 she turned up the treble: increase, raise, amplify, intensify.
-5 they turned up lots of information: discover, uncover, unearth, find, dig up, ferret out, root out, expose.
+at every turn on every occasion; continually: her name seemed to come up at every turn. by turns one after the other; alternately: he was by turns amused and mildly annoyed by her. do someone a good (or bad) turn do something that is helpful (or unhelpful) for someone. in turn in succession; one after the other: four men prayed in turn. 
+• (also in one's/its turn) used to convey that an action, process, or situation is the result or product of a previous one: he would shout until she, in her turn, lost her temper. not know which way (or where) to turn not know what to do; be completely at a loss. not turn a hair see hair. one good turn deserves another proverb if someone does you a favor, you should take the chance to repay it. on the turn at a turning point; in a state of change: my luck is on the turn. out of turn at a time when it is not one's turn. speak (or talk) out of turn speak in a tactless or foolish way. take turns (of two or more people) do something alternately or in succession.to a turn to exactly the right degree (used especially in relation to cooking): hamburgers done to a turn. turn and turn about chiefly British one after another; in succession: the two men were working in rotation, turn and turn about. turn one's back on see back. turn the corner pass the critical point and start to improve. turn a deaf ear see deaf. turn one's hand to something see hand. turn one's head see head. turn heads see head. turn an honest penny see honest. turn in one's grave see grave1. turn of mind a particular way of thinking: people with a practical turn of mind. turn of speed the ability to go fast when necessary. turn on one's heel see heel1. turn the other cheek see cheek. turn over a new leaf start to act or behave in a better or more responsible way. turn something over in one's mind think about or consider something thoroughly. turn around and do (or say) something informal used to convey that someone's actions or words are perceived as unexpected, unwelcome, or confrontational: then she just turned around and said she wasn't coming after all. turn the tables see table. turn tail informal turn around and run away. turn the tide see tide. turn something to (good) account see account. turn a trick see trick. turn turtle see turtle. turn up one's nose at see nose. PHRASAL VERBS turn against (or turn someone against) become (or cause someone to become) hostile toward: public opinion turned against him.turn around move so as to face in the opposite direction: Alice turned around and walked down the corridor. turn something around
+1 prepare a ship or aircraft for its return journey.
+2 reverse the previously poor performance of something, especially a company, and make it successful.turn someone away refuse to allow someone to enter or pass through a place. turn back (or turn someone/something back) go (or cause to go) back in the direction in which one has come: they turned back before reaching the church.turn someone down reject an offer or application made by someone: the Air Force turned him down on medical grounds. turn something down
+1 reject something offered or proposed: his novel was turned down by publisher after publisher.
+2 adjust a control on a device to reduce the volume, heat, etc. turn in informal go to bed in the evening. turn someone in hand someone over to the authorities. turn something in give something to someone in authority: I've turned in my resignation. 
+• produce or achieve a particular score or a performance of a specified quality. turn into become (a particular kind of thing or person); be transformed into: the slight drizzle turned into a downpour 
+that dream turned into a nightmare 
+in the next instant he turned into a tiny mouse. turn someone/something into cause to become (a particular kind of thing or person); transform into: the town was turned into a thriving seaside destination 
+every single good children's book has been turned into a feature-length cartoon. turn off leave one road in order to join another. turn someone off informal induce a feeling of boredom or disgust in someone. turn something off stop the operation or flow of something by means of a valve, switch, or button: remember to turn off the gas. 
+• operate a valve or switch in order to do this. turn on
+1 suddenly attack (someone) physically or verbally: he turned on her with cold savagery.
+2 have as the main topic or point of interest: for most businessmen, the central questions will turn on taxation. turn someone on informal excite or stimulate the interest of someone, especially sexually. turn something on start the flow or operation of something by means of a valve, switch, or button: she turned on the T
+V.  
+• operate a valve or switch in order to do this. turn someone on to informal cause someone to become interested or involved in (something, especially drugs): he turned her on to heroin. turn out
+1 prove to be the case: the job turned out to be beyond his rather limited abilities.
+2 go somewhere in order to do something, especially to attend a meeting, to play a game, or to vote: over 75 percent of the electorate turned out to vote. turn someone out
+1 eject or expel someone from a place.
+2 Military call a guard from the guardroom.
+3 (be turned out) be dressed in the manner specified: she was smartly turned out and as well groomed as always. turn something out
+1 extinguish a light.
+2 produce something: the plant takes 53 hours to turn out each car.
+3 empty something, especially one's pockets.
+4 tip prepared food from a mold or other container. turn over (of an engine) start or continue to run properly. turn someone over to deliver someone to the care or custody of (another person or body, especially one in authority): they turned him over to the police. turn something over
+1 cause an engine to run.
+2 transfer control or management of something to someone else: a plan to turn the bar over to a new manager.
+3 change the function or use of something: the works was turned over to the production of aircraft parts.
+4 informal rob a place.
+5 (of a business) have a turnover of a specified amount: last year the company turned over $12 million. turn up
+1 be found, especially by chance, after being lost: all the missing documents had turned up.
+2 put in an appearance; arrive: half the guests failed to turn up. turn something up
+1 increase the volume or strength of sound, heat, etc., by turning a knob or switch on a device.
+2 reveal or discover something: New Yorkers confidently expect the inquiry to turn up nothing.
+3 shorten a garment by raising the hem.ORIGIN Old English tyrnan, turnian (verb), from Latin tornare, from tornus ‘lathe,’ from Greek tornos ‘lathe, circular movement’; probably reinforced in Middle English by Old French turner. The noun (Middle English) is partly from Anglo-Norman French tourn, partly from the verb.

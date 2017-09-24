@@ -1,19 +1,56 @@
 round 
+round
+
 ▶adjective
-1 a round window: circular, ring-shaped, disk-shaped, hoop-shaped; spherical, spheroidal, globular, globe-shaped, orb-shaped; cylindrical; bulbous, rounded, rotund; technical annular, discoid.
-2 round cheeks: plump, chubby, fat, full. ANTONYMS thin.
-3 his deep, round voice: sonorous, full-bodied, full-toned, rich, deep, mellow, resonant, reverberant; grandiloquent, magniloquent, rotund, orotund; pear-shaped; rare canorous. ANTONYMS thin, reedy.
-4 a round dozen: complete, entire, whole, full.
-5 dated she berated him in round terms: candid, frank, direct, honest, truthful, straightforward, plain, blunt, forthright, bald, explicit, unequivocal, unmistakable, categorical. ANTONYMS evasive.
+1 shaped like or approximately like a circle or cylinder: she was seated at a small, round table. 
+• having a curved shape like part of the circumference of a circle: round arches.
+2 shaped like or approximately like a sphere: a round glass ball 
+the grapes are small and round. 
+• (of a person's body) plump. 
+• having a curved surface with no sharp or jagged projections: the boulders look round and smooth.
+3 (of a voice) rich and mellow; not harsh.
+4 [attributive] (of a number) altered for convenience of expression or calculation, for example to the nearest whole number or multiple of ten or five: the size of the fleet is given in round numbers. 
+• used to show that a figure has been completely and exactly reached: a round dozen. 
+• archaic (of a sum of money) considerable: his business is worth a round sum to me.
+5 archaic (of a person or their manner of speaking) not omitting or disguising anything; frank and truthful: she berated him in good round terms. 
 ▶noun
-1 mold the dough into rounds: ball, sphere, globe, orb, circle, disk, ring, hoop; technical annulus.
-2 (rounds) a policeman on his rounds: circuit, beat, route, tour.
-3 the first round of the tournament: stage, level; heat, game, bout, contest; go-round.
-4 an endless round of parties: succession, sequence, series, cycle.
-5 the gun fires thirty rounds per second: bullet, cartridge, shell, shot.
-▶verb the ship rounded the point: go around, travel around, skirt, circumnavigate, orbit.
+1 a circular piece of a particular substance: cut the pastry into rounds. 
+• a thick disk of beef cut from the haunch as a joint.
+2 an act of visiting each of a number of people or places: she did the rounds of her family to say goodbye 
+he made the rounds of the city's churches. 
+• a tour of inspection, typically repeated regularly, in which the safety or well-being of those visited is checked: the doctor is just making his rounds in the wards.
+3 one of a sequence of sessions or groups of related actions or events, typically such that development or progress can be seen between one group and another: the two sides held three rounds of talks. 
+• a division of a contest such as a boxing or wrestling match. 
+• one of a succession of stages in a sporting contest or other competition, in each of which more candidates are eliminated: the playoffs in the second round. 
+• an act of playing all the holes in a golf course once: Eileen enjoys the occasional round of golf.
+4 a regularly recurring sequence of activities or functions: their lives were a daily round of housework and laundry. 
+• Music a song for three or more unaccompanied voices or parts, each singing the same theme but starting one after another, at the same pitch or in octaves; a simple canon. 
+• a set of drinks bought for all the members of a group, typically as part of a sequence in which each member in turn buys such a set: it's my round.
+5 a measured quantity or number of something, in particular: 
+• the amount of ammunition needed to fire one shot. 
+• Archery a fixed number of arrows shot from a fixed distance. 
+▶adverb chiefly British variant of around. 
+▶preposition chiefly British variant of around. 
+▶verb [with object]
+1 pass and go around (something) so as to move on in a changed direction: the ship rounded the cape and sailed north.
+2 alter (a number) to one less exact but more convenient for calculations: we'll round the weight up to the nearest pound 
+the committee rounded down the figure 
+let's just round it off to an even ten dollars.
+3 give a round shape to: a lathe that rounded chair legs. 
+• [no object] become circular in shape: her eyes rounded in dismay. 
+• Phonetics pronounce (a vowel) with the lips narrowed and protruded. 
 PHRASES
-round about the campsite is round about two miles from the main road. See around (sense
-3 of the preposition). round the bend this time, I think Gordon's really gone round the bend. See mad (sense 1). round the clock See around the clock, at around. round off
-1 the square edges were rounded off: smooth (off), plane (off), sand (off), blunt.
-2 the party rounded off a successful year: complete, finish off, crown, cap, top; conclude, close, end. round up go round up your brothers for dinner: gather together, herd together, muster, marshal, rally, assemble, collect, group, corral. WORD TOOLKIT See circular .Word Toolkits illustrate the difference between close synonyms by means of words typically used with them.
+in the round
+1 (of sculpture) standing free with all sides shown, rather than carved in relief against a ground. 
+• treated fully and thoroughly; with all aspects shown or considered: to understand social phenomena one must see them in the round.
+2 (of a theatrical performance) with the audience placed on at least three sides of the stage. make (or go) the rounds (of a story or joke) be passed on from person to person.round about
+1 on all sides or in all directions; surrounding someone or something: everything round about was covered with snow.
+2 at a point or time approximately equal to: they arrived round about nine. 
+• approximately: we raised round about half a million dollars 
+round about 10,000 homes were affected.PHRASAL VERBS round something off make the edges or corners of something smooth: round off the spars with a soft plastic fitting. 
+• complete something in a satisfying or suitable way: I rounded off my visit to Ganu by purchasing a number of exquisite masks. round on make a sudden verbal attack on or unexpected retort to: she rounded on me angrily. round something out make something more complete: round out the meal with fruit and salad. round someone/something up drive or collect a number of people or animals together for a particular purpose: in the afternoon the cows are rounded up for milking. 
+• arrest a number of people.DERIVATIVES roundish 
+ˈroundiSH 
+adjective. roundness 
+ˈroun(d)nəs 
+nounORIGIN Middle English: from the Old French stem round-, from a variant of Latin rotundus ‘rotund.’ usage: On the difference in use between round and around, see usage at around .

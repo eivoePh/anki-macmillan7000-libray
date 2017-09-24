@@ -7,10 +7,15 @@ transitive verb
 ④ (bear) 承受 chéngshòu ‹weight›
 ⑤ Law (confirm) 认可 rènkě ‹claim, allegation›(affirm, uphold) 确认 quèrèn ‹decision, verdict›objection sustained! 反对有效！ 
 sustain 
-▶verb
-1 the balcony might not sustain the weight: bear, support, carry, stand, keep up, prop up, shore up, underpin.
-2 her memories sustained her: comfort, help, assist, encourage, succor, support, give strength to, buoy up, carry, cheer up, hearten; informal buck up.
-3 they were unable to sustain a coalition: continue, carry on, keep up, keep alive, maintain, preserve, conserve, perpetuate, retain.
-4 she had bread and cheese to sustain her: nourish, feed, nurture; maintain, preserve, keep alive, keep going, provide for.
-5 she sustained slight injuries: undergo, experience, suffer, endure.
-6 the allegation was not sustained: uphold, validate, ratify, vindicate, confirm, endorse; verify, corroborate, substantiate, bear out, prove, authenticate, back up, evidence, justify.
+səˈstān
+
+▶verb [with object]
+1 strengthen or support physically or mentally: this thought had sustained him throughout the years 
+(as adjective sustaining) : a sustaining breakfast of bacon and eggs. 
+• cause to continue or be prolonged for an extended period or without interruption: he cannot sustain a normal conversation. 
+• (of a performer) represent (a part or character) convincingly: he sustained the role with burly resilience. 
+• bear (the weight of an object) without breaking or falling: he sagged against her so that she could barely sustain his weight 
+figurative : his health will no longer enable him to sustain the heavy burdens of office.
+2 undergo or suffer (something unpleasant, especially an injury): he died after sustaining severe head injuries.
+3 uphold, affirm, or confirm the justice or validity of: the allegations of discrimination were sustained. 
+▶noun Music an effect or facility on a keyboard or electronic instrument whereby a note can be sustained after the key is released. DERIVATIVES sustainer noun. sustainment nounORIGIN Middle English: from Old French soustenir, from Latin sustinere, from sub- ‘from below’ + tenere ‘hold.’

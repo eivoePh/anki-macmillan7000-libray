@@ -1,2 +1,12 @@
 backup 
-▶noun never enter an unsecured area without backup: help, support, assistance, aid; reinforcements, reserves, additional resources.
+ˈbakˌəp
+
+▶noun
+1 help or support: no police backup could be expected. 
+• a person or thing that can be called on if necessary; a reserve: I've got a security force as backup 
+the filter is an excellent backup to other systems 
+[as modifier] : a backup generator.
+2 Computing the procedure for making extra copies of data in case the original is lost or damaged: automatic online backup 
+[as modifier] : a backup system. 
+• an extra copy of data from a computer.
+3 North American an overflow caused by a stoppage, as in water or automobile traffic: there are long backups on all routes.

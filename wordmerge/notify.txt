@@ -5,4 +5,8 @@ transitive verb
 ② (report) 报告 bàogào ‹theft, crime, result›to notify [something] to [somebody]; 向某人报告某事 
 ③ (give formal notice to) 正式通知 zhèngshì tōngzhī ‹family, nation›to notify [somebody] of [something]; 通知某人 ‹accident, result›
 notify 
-▶verb we will notify you as soon as possible: inform, tell, advise, brief, apprise, let someone know, put in the picture, fill in; alert, warn.
+ˈnōdəˌfī
+
+▶verb (notifies, notifying, notified) [with object] inform (someone) of something, typically in a formal or official manner: you will be notified of our decision as soon as possible 
+[with object and clause] : they were notified that John had been taken prisoner. 
+• chiefly British give notice of or report (something) formally or officially: if he does not notify the occurrences, he may be guilty of nondisclosure. ORIGIN late Middle English: from Old French notifier, from Latin notificare ‘make known,’ from notus ‘known’ (see notion) + facere ‘make.’

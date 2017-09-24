@@ -1,10 +1,35 @@
 shift 
-▶verb
-1 she shifted her position: change, alter, adjust, vary; modify, revise, reverse, retract; do a U-turn. ANTONYMS keep.
-2 the cargo has shifted: move, slide, slip, be displaced.
-3 the wind shifted: veer, alter, change, turn, swing round.
+SHift
+
+▶verb move or cause to move from one place to another, especially over a small distance: [with object] : I shift the weight back to the other leg 
+[no object] : the roof cracked and shifted. 
+• [no object] change the position of one's body, especially because one is nervous or uncomfortable: he shifted a little in his chair. 
+• [with object] change the emphasis, direction, or focus of: she's shifting the blame onto me. 
+• [no object] change in emphasis, direction, or focus: the wind had shifted to the east 
+the balance of power shifted abruptly. 
+• [with object] Computing move (data) one or more places to the right or left in a register: the partial remainder is shifted left. 
+• [no object] press the shift key on a typewriter or computer keyboard. 
+• [with object] informal sell (something): a lot of high-priced product you simply don't know how to shift. 
+• [no object] chiefly North American change gear in a vehicle: she shifted down to fourth. 
+• [no object] archaic be evasive or indirect: they know not how to shift and rob as the old ones do. 
 ▶noun
-1 the southward shift of people: movement, move, transference, transport, transposition, relocation.
-2 a shift in public opinion: change, alteration, adjustment, amendment, variation, modification, revision, reversal, retraction, U-turn.
-3 they worked three shifts: stint, stretch, spell of work.
-4 the night shift went home: workers, crew, gang, team, squad, patrol.
+1 a slight change in position, direction, or tendency: a shift of wind took us by surprise 
+a shift in public opinion. 
+• Astronomy the displacement of spectral lines. See also redshift. 
+• (also shift key) a key on a typewriter or computer keyboard used to switch between two sets of characters or functions, principally between lower- and upper-case letters. 
+• short for sound shift. 
+• North American the gearshift or gear-changing mechanism in a motor vehicle. 
+• Building the positioning of successive rows of bricks so that their ends do not coincide. 
+• Computing a movement of the digits of a word in a register one or more places to left or right, equivalent to multiplying or dividing the corresponding number by a power of whatever number is the base. 
+• American Football a change of position by two or more players before the ball is put into play.
+2 one of two or more recurring periods in which different groups of workers do the same jobs in relay: the night shift. 
+• the group of people who work during a particular shift.
+3 (also shift dress) a woman's straight, unwaisted dress. 
+• historical a long, loose-fitting undergarment.
+4 archaic an ingenious or devious device or stratagem: the thousand shifts and devices of which Hannibal was a master. 
+PHRASES
+make shift do what one wants to do in spite of not having ideal conditions. shift for oneself manage as best one can without help. shift one's ground say or write something that contradicts something one has previously written or said.DERIVATIVES shiftable 
+ˈSHiftəbəl 
+adjectiveORIGIN Old English sciftan ‘arrange, divide, apportion,’ of Germanic origin; related to German schichten ‘to layer, stratify.’ A common Middle English sense ‘change, replace’ gave rise to the noun sense
+3 of the noun (via the notion of changing one's clothes) and sense
+2 of the noun (via the concept of relays of workers).

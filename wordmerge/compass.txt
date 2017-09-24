@@ -6,4 +6,15 @@ A.  noun
 ② Uncountableformal (extent) 范围 fànwéi within/beyond/outside the compass of [something] 在某事物范围之内/超出某事物范围/在某事物范围之外 
 B.  compasses noun plural Mathematics 圆规 yuánguī a pair of compasses 一副圆规 
 compass 
-▶noun faith cannot be defined within the compass of human thought: scope, range, extent, reach, span, breadth, ambit, limits, parameters, bounds.CHOOSE THE RIGHT WORD See range .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+ˈkəmpəs
+
+▶noun
+1 (also magnetic compass) an instrument containing a magnetized pointer that shows the direction of magnetic north and bearings from it. compassesThe use of the compass for navigation at sea was reported from China c. 1100, western Europe 1187, Arabia c. 1220, and Scandinavia c. 1300, although it probably dates from much earlier. Since the early 20th century the magnetic compass has been superseded by the gyrocompass as primary equipment for ships and aircraft.
+2 (also pair of compasses) an instrument for drawing circles and arcs and measuring distances between points, consisting of two arms linked by a movable joint, one arm ending in a point and the other usually carrying a pencil or pen.
+3 [in singular] the range or scope of something: the event had political repercussions that are beyond the compass of this book. 
+• the enclosing limits of an area: this region had within its compass many types of agriculture. 
+• the range of notes that can be produced by a voice or a musical instrument: the cellos were playing in a rather somber part of their compass. 
+▶verb [with object] archaic
+1 go around (something) in a circular course: the ship wherein Magellan compassed the world. 
+• surround or enclose on all sides: they were compassed with numerous fierce and cruel tribes.
+2 contrive to accomplish (something): he compassed his end only by the exercise of violence. ORIGIN Middle English: from Old French compas (noun), compasser (verb), based on Latin com- ‘together’ + passus ‘a step or pace.’ Several senses (‘measure,’ ‘artifice,’ ‘circumscribed area,’ and ‘pair of compasses’) that appeared in Middle English are also found in Old French, but their development and origin are uncertain. The transference of sense to the magnetic compass is held to have occurred in the related Italian word compasso, from the circular shape of the compass box.

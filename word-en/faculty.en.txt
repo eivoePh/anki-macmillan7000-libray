@@ -1,6 +1,11 @@
 faculty 
-▶noun
-1 the faculty of speech: power, capability, capacity, facility, wherewithal, means; (faculties) senses, wits, reason, intelligence.
-2 an unusual faculty for unearthing contributors: ability, proficiency, competence, capability, potential, capacity, facility; aptitude, talent, gift, flair, bent, skill, knack, genius; expertise, expertness, adeptness, adroitness, dexterity, prowess, mastery, artistry.
-3 conflict between students and faculty: staff, teachers, professors, instructors.
-4 the arts faculty: department, school, division, section.
+ˈfakəltē
+
+▶noun (plural faculties)
+1 an inherent mental or physical power: her critical faculties. 
+• an aptitude or talent for doing something: the author's faculty for philosophical analysis.
+2 the teaching staff of a university or college, or of one of its departments or divisions, viewed as a body: there were then no tenured women on the faculty 
+the English faculty. 
+• a group of university departments concerned with a major division of knowledge: the Faculty of Arts and Sciences. 
+• dated the members of a particular profession, especially medicine, considered collectively.
+3 a license or authorization, especially from a church authority. ORIGIN late Middle English: from Old French faculte, from Latin facultas, from facilis ‘easy,’ from facere ‘make, do.’

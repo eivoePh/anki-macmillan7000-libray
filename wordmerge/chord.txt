@@ -4,9 +4,12 @@ noun
 ① Music 和弦 héxián 
 ② figurative (emotional response) 心弦 xīnxián to strike a chord (with [somebody]) 触动（某人的）心弦 it struck a chord in or with him 这引起了他的共鸣 
 ③ Mathematics 弦 xián 
-chord 
-BrE kɔːd, AmE kɔrd 
-noun 
-① Music 和弦 héxián 
-② figurative (emotional response) 心弦 xīnxián to strike a chord (with [somebody]) 触动（某人的）心弦 it struck a chord in or with him 这引起了他的共鸣 
-③ Mathematics 弦 xián 
+chord
+1 
+kôrd
+
+▶noun a group of (typically three or more) notes sounded together, as a basis of harmony: the triumphal opening chords 
+a G major chord. 
+▶verb [no object] (usually as noun chording) play, sing, or arrange notes in chords. DERIVATIVES chordal 
+ˈkôrdl 
+adjectiveORIGIN Middle English cord, from accord. The spelling change in the 18th century was due to confusion with chord2. The original sense was ‘agreement, reconciliation,’ later ‘a musical concord or harmonious sound’; the current sense dates from the mid 18th century.

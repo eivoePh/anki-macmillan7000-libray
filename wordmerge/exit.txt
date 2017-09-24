@@ -9,8 +9,20 @@ B.  intransitive verb
 ② (leave the stage) «actor, character» 退场 tuìchǎng to exit stage left/right 从舞台左边/右边退场 ‘exit Hamlet’ “哈姆雷特下” 
 ③ Computing 退出 tuìchū to exit from a program 退出程序 
 exit 
+ˈeɡzət ˈeksət
+
 ▶noun
-1 the fire exit: way out, door, egress, escape route; doorway, gate, gateway, portal. ANTONYMS entrance.
-2 take the second exit: turning, turnoff, turn, junction.
-3 his sudden exit: departure, leaving, withdrawal, going, decamping, retreat; flight, exodus, escape. ANTONYMS arrival.
-▶verb the doctor had just exited: leave, go (out), depart, withdraw, retreat. ANTONYMS enter.
+1 a way out, especially of a public building, room, or passenger vehicle: she slipped out by the rear exit 
+an emergency exit. 
+• a ramp where traffic can leave a highway, major road, or traffic circle: he pulled off at an exit and stopped his Mercedes-Benz.
+2 an act of going out of or leaving a place: he made a hasty exit from the room. 
+• a departure of an actor from the stage: the brief soliloquy following Clarence's exit. 
+• a departure from a particular situation: Australia's early exit from the World Cup. 
+▶verb (exits, exiting, exited) [no object] go out of or leave a place: they exited from the aircraft 
+the bullet entered her back and exited through her chest 
+[with object] : elephants enter and exit the forest on narrow paths. 
+• (of an actor) leave the stage. 
+• (exit) used as a stage direction in a printed play to indicate that a character leaves the stage: exit Pamela. See also exeunt. 
+• leave a particular situation: organizations that do not have freedom to exit from unprofitable markets. 
+• Computing terminate a process or program, usually returning to an earlier or more general level of interaction: this key enables you to temporarily exit from a LIFESPAN option. 
+• Bridge relinquish the lead. ORIGIN mid 16th century (as a stage direction): from Latin exit ‘he or she goes out,’ third person singular present tense of exire, from ex- ‘out’ + ire ‘go.’ The noun use (late 16th century) is from Latin exitus ‘going out,’ from the verb exire, and the other verb uses (early 17th century) are from the noun.

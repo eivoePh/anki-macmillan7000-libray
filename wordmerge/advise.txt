@@ -8,7 +8,12 @@ A.  transitive verb
 ④ formal (inform) 通知 tōngzhī to advise [somebody] of [something]/that … 告知某人某事物/… 
 B.  intransitive verb 提出建议 tíchū jiànyì to advise on [something] (give advice) 就某事提出建议 (inform) 告知某事 he has been appointed to advise on monetary matters 他被任命为金融顾问 to advise on doing [something] 在做某事方面提出建议 
 advise 
-▶verb
-1 her grandmother advised her about marriage: counsel, give guidance, guide, offer suggestions, give hints, give tips, give pointers.
-2 he advised caution: advocate, recommend, suggest, urge, encourage, enjoin.
-3 you will be advised of the requirements: inform of, notify about/of, give notice of, apprise of, warn of, forewarn of; acquaint with, make familiar with, keep posted about, update about/on; informal fill in on.
+ədˈvīz
+
+▶verb [reporting verb] offer suggestions about the best course of action to someone: [with object and infinitive] : I advised him to go home 
+[with object] : he advised caution 
+[no object] : we advise against sending cash by mail 
+[with direct speech] : “Go to Paris,” he advised. 
+• [with object] recommend (something): sleeping pills are not advised. 
+• [with object] inform (someone) about a fact or situation, typically in a formal or official way: you will be advised of the requirements 
+[with object and clause] : the lawyer advised the court that his client wished to give evidence. ORIGIN Middle English: from Old French aviser, based on Latin ad- ‘to’ + visere, frequentative of videre ‘to see.’ The original senses included ‘look at’ and ‘consider,’ hence ‘consider jointly, consult with others.’

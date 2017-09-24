@@ -1,5 +1,18 @@
 network 
+ˈnetˌwərk
+
 ▶noun
-1 a network of arteries: web, lattice, net, matrix, mesh, crisscross, grid, reticulum, reticulation; Anatomy plexus.
-2 a network of lanes: maze, labyrinth, warren, tangle.
-3 a network of friends: system, complex, nexus, web, webwork.
+1 an arrangement of intersecting horizontal and vertical lines. 
+• a complex system of roads, railroads, or other transportation routes: a network of railroads.
+2 a group or system of interconnected people or things: a trade network. 
+• a group of people who exchange information, contacts, and experience for professional or social purposes: a support network. 
+• a group of broadcasting stations that connect for the simultaneous broadcast of a program: the introduction of a second TV network 
+[as modifier] : network television. 
+• a number of interconnected computers, machines, or operations: specialized computers that manage multiple outside connections to a network 
+a local cellular phone network. 
+• a system of connected electrical conductors. 
+▶verb [with object] connect as or operate with a network: the stock exchanges have proven to be resourceful in networking these deals. 
+• link (machines, especially computers) to operate interactively: (as adjective networked) : networked workstations. 
+• [no object] (often as noun networking) interact with other people to exchange information and develop contacts, especially to further one's career: the skills of networking, bargaining, and negotiation. DERIVATIVES networkable 
+ˈnetˌwərkəb(ə)l 
+adjective

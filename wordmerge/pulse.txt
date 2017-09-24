@@ -8,8 +8,23 @@ A.  noun
 B.  intransitive verb «heart» 跳动 tiàodòng ; «star» 闪烁 shǎnshuò the vibrant life pulsing through a great city 大城市盎然勃发的生机 
 pulse
 1 
+pəls
+
 ▶noun
-1 the pulse in her neck: heartbeat, pulsation, pulsing, throbbing, pounding.
-2 the pulse of the train wheels: rhythm, beat, tempo, cadence, pounding, thudding, drumming.
-3 pulses of ultrasound: burst, blast, spurt, impulse, surge.
-▶verb music pulsed through the building: throb, pulsate, vibrate, beat, pound, thud, thump, drum, thrum, reverberate, echo.
+1 a rhythmical throbbing of the arteries as blood is propelled through them, typically as felt in the wrists or neck: the doctor found a faint pulse 
+the idea was enough to set my pulse racing. 
+• (usually pulses) each successive throb of the arteries or heart.
+2 a single vibration or short burst of sound, electric current, light, or other wave: radio pulses 
+[as modifier] : a pulse generator. 
+• a musical beat or other regular rhythm.
+3 the central point of energy and organization in an area or activity: those close to the financial and economic pulse maintain that there have been fundamental changes.
+4 Biochemistry a measured amount of an isotopic label given to a culture of cells. 
+▶verb [no object] throb rhythmically; pulsate: a knot of muscles at the side of his jaw pulsed. 
+• [with object] modulate (a wave or beam) so that it becomes a series of pulses. 
+• [with object] apply a pulsed signal to (a device). 
+• Biochemistry short for pulse-label. 
+PHRASES
+take (or feel) the pulse of determine the heart rate of (someone) by feeling and timing the pulsation of an artery: a nurse came in and took his pulse. 
+• ascertain the general mood or opinion of: he hopped around the country to visit stores and take the pulse of consumers.DERIVATIVES pulseless adjective. pulser 
+ˈpəlsər 
+nounORIGIN late Middle English: from Latin pulsus ‘beating,’ from pellere ‘to drive, beat.’

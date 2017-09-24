@@ -1,2 +1,15 @@
 translation 
-▶noun the translation of the Bible into English: rendition, rendering, conversion; transcription, transliteration.
+transˈlāSH(ə)n tranzˈlāSH(ə)n
+
+▶noun
+1 the process of translating words or text from one language into another: Constantine's translation of Arabic texts into Latin. 
+• a written or spoken rendering of the meaning of a word, speech, book, or other text, in another language: a German translation of Oscar Wilde's play 
+a term for which there is no adequate English translation. 
+• the conversion of something from one form or medium into another: the translation of research findings into clinical practice. 
+• Biology the process by which a sequence of nucleotide triplets in a messenger RNA molecule gives rise to a specific sequence of amino acids during synthesis of a polypeptide or protein.
+2 formal or technical the process of moving something from one place to another: the translation of the relics of St. Thomas of Canterbury. 
+• Mathematics movement of a body from one point of space to another such that every point of the body moves in the same direction and over the same distance, without any rotation, reflection, or change in size. DERIVATIVES translational 
+-SHənl 
+adjective. translationally 
+-SHənl-ē 
+adverbORIGIN Middle English: from Old French, or from Latin translatio(n-), from translat- ‘carried across’ (see translate) .

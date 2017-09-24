@@ -1,22 +1,47 @@
 hard 
+härd
+
 ▶adjective
-1 hard ground: firm, solid, rigid, stiff, resistant, unbreakable, inflexible, impenetrable, unyielding, solidified, hardened, compact, compacted, dense, close-packed, compressed; steely, tough, strong, stony, rocklike, flinty, as hard as stone; frozen; literary adamantine. ANTONYMS soft.
-2 hard physical work: arduous, strenuous, tiring, fatiguing, exhausting, wearying, back-breaking, grueling, heavy, laborious; difficult, taxing, exacting, testing, challenging, demanding, punishing, tough, formidable, onerous, rigorous, uphill, Herculean; informal murderous, killing, hellish; formal exigent; archaic toilsome. ANTONYMS easy.
-3 hard workers: diligent, hard-working, industrious, sedulous, assiduous, conscientious, energetic, keen, enthusiastic, zealous, earnest, persevering, persistent, unflagging, untiring, indefatigable; studious. ANTONYMS lazy.
-4 a hard problem: difficult, puzzling, perplexing, baffling, bewildering, mystifying, knotty, thorny, problematic, complicated, complex, intricate, involved; insoluble, unfathomable, impenetrable, incomprehensible, unanswerable. ANTONYMS simple.
-5 times are hard: harsh, grim, difficult, bad, bleak, dire, tough, austere, unpleasant, uncomfortable, straitened, spartan; dark, distressing, painful, awful. ANTONYMS comfortable.
-6 a hard taskmaster: strict, harsh, firm, severe, stern, tough, rigorous, demanding, exacting; callous, unkind, unsympathetic, cold, heartless, hard-hearted, unfeeling; intransigent, unbending, uncompromising, inflexible, implacable, stubborn, obdurate, unyielding, unrelenting, unsparing, grim, ruthless, merciless, pitiless, cruel; standing no nonsense, ruling with a rod of iron. ANTONYMS kind, easygoing.
-7 a hard winter: bitterly cold, cold, bitter, harsh, severe, bleak, freezing, icy, icy-cold, arctic. ANTONYMS mild.
-8 a hard blow: forceful, heavy, strong, sharp, smart, violent, powerful, vigorous, mighty, hefty, tremendous. ANTONYMS light, gentle.
-9 hard facts: reliable, definite, true, confirmed, substantiated, undeniable, indisputable, unquestionable, verifiable. ANTONYMS unverified, questionable.
-10 hard cider: alcoholic, strong, intoxicating, potent; formal spirituous. ANTONYMS nonalcoholic.
-11 hard drugs: addictive, habit-forming; strong, harmful.
+1 solid, firm, and resistant to pressure; not easily broken, bent, or pierced: a hard mattress 
+ground frozen hard as a rock. 
+• (of a person) not showing any signs of weakness; tough: the hard, tough, honest cop. 
+• (of information) reliable, especially because based on something true or substantiated: hard facts about the underclass are maddeningly elusive. 
+• (of a subject of study) dealing with precise and verifiable facts: efforts to turn psychology into hard science. 
+• (of water) containing mineral salts that make lathering difficult. 
+• (of prices of stock, commodities, etc.) stable or firm in value. 
+• (of science fiction) scientifically accurate rather than purely fantastic or whimsical: a hard SF novel. 
+• (of a consonant) pronounced as c in cat or g in go.
+2 requiring a great deal of endurance or effort: stooping over all day was hard work. 
+• putting a lot of energy into an activity: he'd been a hard worker all his life. 
+• difficult to bear; causing suffering: times were hard at the end of the war 
+he'd had a hard life. 
+• difficult to understand or solve: this is a really hard question 
+[with infinitive] : she found it hard to believe that he could be involved. 
+• not showing sympathy or affection; strict: my father is no longer the hard man he once was. 
+• (of a season or the weather) severe: it's been a long, hard winter. 
+• harsh or unpleasant to the senses: the hard light of morning. 
+• (of wine) harsh or sharp to the taste, especially because of tannin.
+3 done with a great deal of force or strength: a hard blow to the head.
+4 potent, powerful, or intense, in particular: 
+• (of liquor) strongly alcoholic; denoting distilled spirits rather than beer or wine. 
+• US (of apple cider) having alcoholic content from fermentation. 
+• (of a drug) potent and addictive. 
+• denoting an extreme or dogmatic faction within a political party: the hard left. 
+• (of radiation) highly penetrating. 
+• (of pornography) highly obscene and explicit. 
 ▶adverb
-1 George pushed the door hard: forcefully, forcibly, roughly, powerfully, strongly, heavily, sharply, vigorously, energetically, with all one's might, with might and main. ANTONYMS gently.
-2 they worked hard: diligently, industriously, assiduously, conscientiously, sedulously, busily, enthusiastically, energetically, doggedly, steadily; informal like mad, like crazy.
-3 this prosperity has been hard won: with difficulty, with effort, after a struggle, painfully, laboriously. ANTONYMS easily.
-4 her death hit him hard: severely, badly, acutely, deeply, keenly, seriously, profoundly, gravely; formal grievously. ANTONYMS slightly.
-5 it was raining hard: heavily, strongly, in torrents, in sheets; steadily; informal cats and dogs, buckets. ANTONYMS lightly.
-6 my mother looked hard at me: closely, attentively, intently, critically, carefully, keenly, searchingly, earnestly, sharply. ANTONYMS casually.
+1 with a great deal of effort: they work hard at school. 
+• with a great deal of force; violently: it was raining hard.
+2 so as to be solid or firm: the mortar has set hard.
+3 to the fullest extent possible: put the wheel hard over to starboard. 
 PHRASES
-hard and fast get used to it—the curfew here is hard and fast: definite, fixed, set, strict, rigid, binding, clear-cut, cast-iron, ironclad; inflexible, immutable, unchangeable, incontestable. hard by close to, right by, beside, near (to), nearby, not far from, a stone's throw from, on the doorstep of; informal within spitting distance of, ‘a hop, skip, and jump away from’. hard feelings I had no idea that our separation had left him with such hard feelings: resentment, animosity, ill feeling, ill will, bitterness, bad blood, resentfulness, rancor, malice, acrimony, antagonism, antipathy, animus, friction, anger, hostility, hate, hatred. hard up informal this administration ignores the families that are hard up: poor, short of money, badly off, impoverished, impecunious, in reduced circumstances, unable to make ends meet; penniless, destitute, poverty-stricken; informal broke, strapped for cash, strapped.
+be hard on
+1 treat or criticize (someone) severely: you're being too hard on her.
+2 be difficult for or unfair to: I think the war must have been hard on her.
+3 be likely to hurt or damage: the monitor flickers, which is hard on the eyes. be hard put [usually with infinitive] find it very difficult: you'll be hard put to find a better compromise.give someone a hard time informal deliberately make a situation difficult for someone. go hard with dated turn out to (someone's) disadvantage: it would go hard with the poor. hard and fast 
+ˌhärd ən ˈfast 
+(of a rule or a distinction made) fixed and definitive: it is impossible to lay down any hard and fast rules. hard as nails see nail. hard at it informal busily working or occupied: they were hard at it with brooms and mops. hard by close to: he lived hard by the cathedral. hard done by British harshly or unfairly treated: she would be justified in feeling hard done by. hard feelings [usually with negative] feelings of resentment: there are no hard feelings, and we wish him well. hard going difficult to understand or enjoy: the studying is at times hard going. hard hit badly affected: hard hit by falling oil prices. a hard nut to crack see nut. hard of hearing 
+ˌhärd əv ˈhiriNG 
+not able to hear well. hard on (or upon) close to; following soon after: we followed hard on their tracks.hard up 
+ˌhärd ˈəp 
+informal short of money: I'm too hard up to buy fancy clothes. the hard way through suffering or learning from the unpleasant consequences of mistakes: his reputation was earned the hard way. play hard to get informal deliberately adopt an aloof or uninterested attitude, typically in order to make oneself more attractive or interesting.DERIVATIVES hardish adjectiveORIGIN Old English hard, heard, of Germanic origin; related to Dutch hard and German hart .

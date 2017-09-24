@@ -1,4 +1,18 @@
 mouse 
-▶noun rodent, field mouse, dormouse.
-WORD LINKS
-mouse murine relating to miceWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+▶noun 
+mous 
+(plural mice 
+mīs
+)
+1 a small rodent that typically has a pointed snout, relatively large ears and eyes, and a long tail. [Family Muridae: many genera and numerous species. Also, some species in the families Heteromyidae, Zapodidae, and Muscardinidae.] 
+• (in general use) any small mammal similar to a mouse, such as a shrew or vole. 
+• a shy, timid, and quiet person.
+2 a dull light brown color reminiscent of a mouse's fur: her blonde hair dulled to mouse.
+3 (plural also mouses) a small handheld device that is dragged across a flat surface to move the cursor on a computer screen, typically having buttons that are pressed to control functions.
+4 informal a lump or bruise, especially one on or near the eye. 
+▶verb 
+mouz 
+[no object]
+1 (of a cat or owl) hunt for or catch mice. 
+• [with adverbial] prowl around as if searching: he was mousing among the books of the old library.
+2 [with adverbial of direction] use a mouse to move a cursor on a computer screen: simply mouse over any item in the list. DERIVATIVES mouselike adjectiveORIGIN Old English mūs, (plural) mȳs, of Germanic origin; related to Dutch muis and German Maus, from an Indo-European root shared by Latin and Greek mus . usage: Is the plural of mouse in the computing sense mice or mouses? People often feel that this sense needs its own distinctive plural, but in fact the ordinary plural mice is more common, and the first recorded use of the term in the plural (1984) is mice.

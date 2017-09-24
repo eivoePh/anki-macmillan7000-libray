@@ -1,4 +1,12 @@
 external 
+ikˈstərnl
+
 ▶adjective
-1 an external wall: outer, outside, outermost, outward, exterior. ANTONYMS internal.
-2 an external examiner: outside, independent, nonresident, from elsewhere. ANTONYMS in-house.
+1 belonging to or forming the outer surface or structure of something: the external walls. 
+• relating to or denoting a medicine or similar substance for use on the outside of the body: for external application only.
+2 coming or derived from a source outside the subject affected: for many people the church was a symbol of external authority. 
+• coming from or relating to a foreign country or an outside institution: responsibility for defense and external affairs. 
+• Computing (of hardware) not contained in the main computer; peripheral. 
+• Computing (of storage) using a disk or tape drive rather than the main memory. 
+▶noun (externals) the outward features of something: the place has all the appropriate externals, such as chimneys choked with ivy and windows with jasmine. 
+• features that are only superficial; inessentials. ORIGIN late Middle English: from medieval Latin, from Latin exter ‘outer.’

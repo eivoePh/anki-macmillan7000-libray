@@ -6,6 +6,15 @@ noun
 ② Railways (on line, train) 减震器 jiǎnzhènqì to run into the buffers figurative 突遭挫败 
 ③ Computing buffer (memory) 缓冲存储器 huǎnchōng cúnchǔqì printer/screen/file buffer 打印机/屏幕/文件缓冲存储器 dǎyìnjī/píngmù/wénjiàn huǎnchōng cúnchǔqì 
 ④ (for polishing) 抛光器 pāoguāngqì 
-buffer 
-▶noun a buffer against market fluctuations: cushion, bulwark, shield, barrier, guard, safeguard.
-▶verb she tried to buffer the children from the troubles: shield, protect, defend, cushion, insulate, screen, guard.
+buffer
+1 
+ˈbəfər
+
+▶noun
+1 a person or thing that prevents incompatible or antagonistic people or things from coming into contact with or harming each other: family and friends can provide a buffer against stress.
+2 (also buffer solution) Chemistry a solution that resists changes in pH when acid or alkali is added to it. Buffers typically involve a weak acid or alkali together with one of its salts.
+3 Computing a temporary memory area in which data is stored while it is being processed or transferred, especially one used while streaming video or downloading audio. 
+▶verb [with object]
+1 lessen or moderate the impact of (something): the massage helped to buffer the strain.
+2 treat with a chemical buffer: add organic matter to buffer the resulting alkalinity.
+3 Computing store (data) in a buffer while it is being processed or transferred: try buffering as much of the video stream as you can before you hit the 'play' button. ORIGIN mid 19th century: probably from obsolete buff (verb), imitative of the sound of a blow to a soft body.

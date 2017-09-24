@@ -16,11 +16,26 @@ C.  noun
 ② Countable and uncountableformal (lack) 缺乏 quēfá for want of [something] 由于缺乏某物 for want of doing [something] 因为没做某事 it's not for want of trying 不是没有努力 
 ③ Uncountableformal (deprivation) 贫穷 pínqióng to be in want; 缺衣少食 the war on want 向贫穷开战 ［建于1951年的英国组织］PHRASAL VERBS want for transitive verb[want for something] formal 缺少 quēshǎo she wants for nothing 她什么都不缺 want in intransitive verb colloquial 想要参与 xiǎngyào cānyù to want in on [something]; 想参与某事 to want in on a deal/project/contract 想参与一项交易/想加入一个项目/想订立合同 want out intransitive verb colloquial 想要退出 xiǎngyào tuìchū to want out of [something]; 想退出某事 to want out of the marriage/relationship 想离婚/想脱离关系 to want out of a deal/project/contract 想取消一项交易/想退出一个项目/想解除合同 
 want 
+wänt wônt
+
 ▶verb
-1 do you want more coffee? desire, wish for, hope for, aspire to, fancy, care for, like; long for, yearn for, crave, hanker after, hunger for, thirst for, cry out for, covet; need; informal have a yen for, have a jones for, be dying for.
-2 informal you want to be more careful: should, ought to, need to, must.
-3 this mollycoddled generation wants for nothing: lack, be without, have need of, be devoid of, be bereft of, be missing.
+1 [with object] have a desire to possess or do (something); wish for: I want an apple 
+[with infinitive] : we want to go to the beach 
+[with object and infinitive] : she wanted me to go to her room 
+[no object] : I'll give you a lift into town if you want. 
+• wish to consult or speak to (someone): Tony wants me in the studio. 
+• (usually be wanted) (of the police) desire to question or apprehend (a suspected criminal): he is wanted by the police in connection with an arms theft. 
+• desire (someone) sexually: I've wanted you since the first moment I saw you. 
+• [with present participle] informal, chiefly British (of a thing) require to be attended to in a specified way: the wheel wants greasing. 
+• [with infinitive] informal ought, should, or need to do something: you don't want to believe everything you hear. 
+• [no object] (want in/into/out/away) informal, chiefly North American desire to be in or out of a particular place or situation: if anyone wants out, there's the door.
+2 [no object] chiefly archaic lack or be short of something desirable or essential: you shall want for nothing while you are with me. 
+• [with object] (chiefly used in expressions of time) be short of or lack (a specified amount or thing): it wanted twenty minutes to midnight 
+it wants a few minutes of five o'clock. 
 ▶noun
-1 his want of vigilance: lack, absence, nonexistence, unavailability; dearth, deficiency, inadequacy, insufficiency, paucity, shortage, scarcity, deficit.
-2 a time of want: need, neediness, austerity, privation, deprivation, poverty, impoverishment, penury, destitution; famine, drought.
-3 all her wants would be taken care of: wish, desire, demand, longing, yearning, fancy, craving, hankering; need, requirement; informal yen.
+1 chiefly archaic a lack or deficiency of something: Victorian houses which are in want of repair 
+it won't be through want of trying. 
+• the state of being poor and in need of essentials; poverty: freedom from want.
+2 a desire for something: the expression of our wants and desires. 
+PHRASES
+for want of because of a lack of (something): for want of a better location we ate our picnic lunch in the cemetery.ORIGIN Middle English: the noun from Old Norse vant, neuter of vanr ‘lacking’; the verb from Old Norse vanta ‘be lacking.’ The original notion of “lack” was early extended to “need,” and from this developed the sense ‘desire.’

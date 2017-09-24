@@ -13,8 +13,11 @@ A.  [clip something on, clip on something] transitive verb (by fastening) 夹戴
 B.  intransitive verb (by fastening) «earrings» 能夹戴 néng jiādài (by hooking) «brooch» 能别上 néng biéshang to clip on to [something]; 夹到某物上 
 clip
 1 
-▶noun
-1 a briefcase clip: fastener, clasp, hasp, catch, hook, buckle, lock.
-2 a mother-of-pearl clip: brooch, pin, badge.
-3 his clip was empty: magazine, cartridge, cylinder.
-▶verb he clipped the pages together: fasten, attach, fix, join; pin, staple, tack.
+klip
+
+▶noun a device, typically flexible or worked by a spring, for holding an object or objects together or in place. 
+• a clip used to hold paper currency. 
+• a piece of jewelry fastened by a clip. 
+• a metal holder containing cartridges for an automatic firearm. 
+▶verb (clips, clipping, clipped) [with adverbial of place] fasten or be fastened with a clip or clips: [with object] : she clipped on a pair of diamond earrings 
+[no object] : the panels simply clip onto the framework. ORIGIN Old English clyppan (verb). The noun use dates from the late 15th century.

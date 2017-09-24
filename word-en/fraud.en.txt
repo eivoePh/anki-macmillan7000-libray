@@ -1,5 +1,6 @@
 fraud 
-▶noun
-1 he was arrested for fraud: fraudulence, cheating, swindling, embezzlement, deceit, deception, double-dealing, chicanery, sharp practice; pharming.
-2 social insurance frauds: swindle, racket, deception, trick, cheat, hoax; informal scam, con, rip-off, sting, gyp, fiddle, bunco, hustle, grift.
-3 they exposed him as a fraud: impostor, fake, sham, charlatan, quack, mountebank; swindler, gonif, snake oil salesman, fraudster, racketeer, cheat, confidence trickster; informal phony, con man, con artist, scam artist.
+frôd
+
+▶noun wrongful or criminal deception intended to result in financial or personal gain: he was convicted of fraud 
+prosecutions for social security frauds. 
+• a person or thing intended to deceive others, typically by unjustifiably claiming or being credited with accomplishments or qualities: mediums exposed as tricksters and frauds. ORIGIN Middle English: from Old French fraude, from Latin fraus, fraud- ‘deceit, injury.’

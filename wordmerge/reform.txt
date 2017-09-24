@@ -7,7 +7,18 @@ C.  noun
 ① Uncountable(improvement) 改革 gǎigé the reform of criminal justice/the penal system 刑事司法/刑罚制度的改革 
 ② Countable(change) 变革 biàngé far-reaching/radical/sweeping reforms 意义深远/根本性/大刀阔斧的变革 
 reform 
-▶verb
-1 a plan to reform the system: improve, better, make better, ameliorate, refine; alter, make alterations to, change, adjust, make adjustments to, adapt, amend, revise, reshape, refashion, redesign, restyle, revamp, rebuild, reconstruct, remodel, reorganize.
-2 after his marriage he reformed: mend one's ways, change for the better, turn over a new leaf, improve.
-▶noun the reform of the prison system: improvement, amelioration, refinement; alteration, change, adaptation, amendment, revision, reshaping, refashioning, redesigning, restyling, revamp, revamping, renovation, rebuilding, reconstruction, remodeling, reorganizing, reorganization.
+rəˈfôrm
+
+▶verb [with object]
+1 make changes in (something, typically a social, political, or economic institution or practice) in order to improve it: an opportunity to reform and restructure an antiquated schooling model. 
+• bring about a change in (someone) so that they no longer behave in an immoral, criminal, or self-destructive manner: the state has a duty to reform criminals 
+(as adjective reformed) : a reformed gambler. 
+• [no object] (of a person) change oneself for the better: it was only when his drunken behavior led to blows that he started to reform.
+2 Chemistry subject (hydrocarbons) to a catalytic process in which straight-chain molecules are converted to branched forms for use in gasoline. 
+▶noun the action or process of reforming an institution or practice: the reform of the divorce laws 
+economic reforms. 
+▶adjective (Reform) of, denoting, or pertaining to Reform Judaism: a Reform rabbi. DERIVATIVES reformable 
+rəˈfôrməb(ə)l 
+adjective. reformative 
+rəˈfôrmədiv 
+adjectiveORIGIN Middle English (as a verb in the senses ‘restore (peace)’ and ‘bring back to the original condition’): from Old French reformer or Latin reformare, from re- ‘back’ + formare ‘to form, shape.’ The noun dates from the mid 17th century.

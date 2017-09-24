@@ -21,16 +21,32 @@ B.  transitive verb
 ② (write down) 记下 jìxia ‘no change’he noted “无变化，”他记道 
 ③ (mention) 提及 tíjí to note that … 指出… as already noted 如早已指出的那样 PHRASAL VERB note down transitive verb[note down something, note something down] 记下 jìxia 
 note 
+nōt
+
 ▶noun
-1 a note in her diary: record, entry, item, notation, jotting, memorandum, reminder, aide-mémoire; informal memo.
-2 (notes) his notes were read at the next meeting: minutes, records, details; report, account, commentary, transcript, proceedings, transactions; synopsis, summary, outline.
-3 notes in the margins: annotation, footnote, commentary, comment; marginalia, exegesis.
-4 he dropped me a note: message, communication, letter, line; formal epistle, missive.
-5 this note is legal tender: bill; banknote; (notes) paper money.
-6 this is worthy of note: attention, consideration, notice, heed, observation, regard.
-7 a composer of note: distinction, importance, eminence, prestige, fame, celebrity, acclaim, renown, repute, stature, standing, consequence, account.
-8 a note of hopelessness in her voice: tone, intonation, inflection, sound; hint, indication, sign, element, suggestion.
-▶verb
-1 we will note your suggestion: bear in mind, be mindful of, consider, observe, heed, take notice of, pay attention to, take in.
-2 the letter noted the ministers' concern: mention, refer to, touch on, indicate, point out, make known, state.
-3 note the date in your diary: write down, put down, jot down, take down, inscribe, enter, mark, record, register, pencil (in).
+1 a brief record of facts, topics, or thoughts, written down as an aid to memory: I'll make a note in my diary 
+Robyn arranged her notes on the lectern. 
+• a short comment on or explanation of a word or passage in a book or article; an annotation: see note iv above.
+2 a short informal letter or written message: I left her a note explaining where I was going. 
+• an official letter sent from the representative of one government to another. 
+• [usually with modifier] a short official document that certifies a particular thing: you need a sick note from your doctor.
+3 British a banknote: a ten-pound note.
+4 a single tone of definite pitch made by a musical instrument or the human voice: the last notes of the symphony died away. 
+• a written sign representing the pitch and duration of musical note. 
+• a key of a piano or similar instrument: black notes 
+white notes. 
+• a bird's song or call, or a single tone in this: the tawny owl has a harsh flight note.
+5 [in singular] a particular quality or tone that reflects or expresses a mood or attitude: there was a note of scorn in her voice 
+the decade could have ended on an optimistic note. 
+• any of the basic components of fragrance or flavor: the fresh note of bergamot. 
+▶verb [with object]
+1 notice or pay particular attention to (something): noting his mother's unusual gaiety 
+[with clause] : please note that you will not receive a reminder that final payment is due. 
+• remark upon (something), typically in order to draw someone's attention to it: we noted earlier the difficulties inherent in this strategy.
+2 record (something) in writing: he noted down her address on a piece of paper. 
+PHRASES
+hit (or strike) the right (or wrong) note say or do something in a way that is very suitable (or unsuitable) for a particular audience or occasion. of note
+1 worth paying attention to: many of his comments are worthy of note.
+2 important; distinguished: Roman historians of note include Livy, Tacitus, and Sallust. strike a false note appear insincere or inappropriate: she greeted him gushingly, and that struck a false note. strike (or sound) a note of express (a particular feeling or view) about something: he sounded a note of caution about the trend toward health foods. take note pay attention: investors should take note of the company’s resilience.ORIGIN Middle English ( sense
+4 of the noun and sense
+1 of the verb): from Old French note (noun), noter (verb), from Latin nota ‘a mark,’ notare ‘to mark.’

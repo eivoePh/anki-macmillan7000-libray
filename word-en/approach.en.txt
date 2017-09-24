@@ -1,10 +1,22 @@
 approach 
-▶verb
-1 she approached the altar: move toward, come/go toward, advance toward, inch toward, go/come/draw/move nearer, go/come/draw/move closer, near; close in, gain on; reach, arrive at. ANTONYMS leave.
-2 the trade deficit is approaching $20 million: border on, verge on, approximate, touch, nudge, near, come near to, come close to.
-3 she approached him about leaving his job: speak to, talk to; make advances to, make overtures to, make a proposal to, sound out, proposition.
-4 he approached the problem in the best way: tackle, set about, address oneself to, undertake, get down to, launch into, embark on, go about, come to grips with.
+əˈprōCH
+
+▶verb [with object]
+1 come near or nearer to (someone or something) in distance: the train approached the main line 
+[no object] : she hadn't heard him approach 
+(as adjective approaching) : an approaching car. 
+• come near or nearer to (a future time or event): he was approaching retirement. 
+• [no object] (of a future time) come nearer: the time is approaching when you will be destroyed. 
+• come close to (a number, level, or standard) in quality or quantity: the population will approach
+12 million by the end of the decade. 
+• archaic bring nearer: all those changes shall serve to approach him the faster to the blest mansion.
+2 speak to (someone) for the first time about something, typically with a proposal or request: the department had been approached about funding.
+3 start to deal with (something) in a certain way: one must approach the matter with caution. 
 ▶noun
-1 a typical male approach: method, procedure, technique, modus operandi, MO, style, way, manner; strategy, tactic, system, means.
-2 the dog barked at the approach of any intruder: advance, coming, nearing; arrival, appearance; advent.
-3 the approach to the castle: driveway, drive, access road, road, avenue; way.
+1 a way of dealing with something: we need a whole new approach to the job.
+2 an act of speaking to someone for the first time about something, typically a proposal or request: the landowner made an approach to the developer. 
+• (approaches) dated behavior intended to propose personal or sexual relations with someone: feminine resistance to his approaches.
+3 [in singular] the action of coming near or nearer to someone or something in distance or time: the approach of winter. 
+• (approach to) an approximation to something: the past is impossible to recall with any approach to accuracy. 
+• the part of an aircraft's flight in which it descends gradually toward an airfield or runway for landing: the aircraft completed the approach and touched down.
+4 (usually approaches) a road, sea passage, or other way leading to a place: the eastern approach to the town. ORIGIN Middle English: from Old French aprochier, aprocher, from ecclesiastical Latin appropiare ‘draw near,’ from ad- ‘to’ + propius (comparative of prope ‘near’).

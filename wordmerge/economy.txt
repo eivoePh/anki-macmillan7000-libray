@@ -4,6 +4,17 @@ noun
 ① Countable and uncountable(saving) (careful management) 节约 jiéyuē to practise economy; 厉行节约 to make economies in [something]; 在某方面实行节约 economies of scale 规模效应 it's an economy to pay for quality, because it lasts 买优质商品划得来，因为这类商品经久耐用 
 ② Countable(financial system or state of a country) 经济 jīngjì the state of the economy; 经济状况 a market/planned economy 市场/计划经济 
 economy 
-▶noun
-1 the nation's economy: wealth, (financial) resources; financial system, financial management.
-2 one can combine good living with economy: thrift, thriftiness, providence, prudence, careful budgeting, economizing, saving, scrimping, restraint, frugality, abstemiousness. ANTONYMS extravagance.
+əˈkänəmē
+
+▶noun (plural economies)
+1 the wealth and resources of a country or region, especially in terms of the production and consumption of goods and services. 
+• a particular system or stage of an economy: a free-market economy 
+the less-developed economies.
+2 careful management of available resources: even heat distribution and fuel economy. 
+• sparing or careful use of something: economy of words. 
+• (usually economies) a financial saving: there were many economies to be made by giving up our offices in Manhattan. 
+• (also economy class) the cheapest class of air or rail travel: we flew economy. 
+▶adjective [attributive] (of a product) offering the best value for the money: [in combination] : an economy pack. 
+• designed to be economical to use: an economy car. 
+PHRASES
+economy of scale a proportionate saving in costs gained by an increased level of production. economy of scope a proportionate saving gained by producing two or more distinct goods, when the cost of doing so is less than that of producing each separately.ORIGIN late 15th century (in the sense ‘management of material resources’): from French économie, or via Latin from Greek oikonomia ‘household management,’ based on oikos ‘house’ + nemein ‘manage.’ Current senses date from the 17th century.

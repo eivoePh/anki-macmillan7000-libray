@@ -1,2 +1,13 @@
 universal 
-▶adjective the universal features of language: general, ubiquitous, comprehensive, common, omnipresent, all-inclusive, all-embracing, across-the-board; global, worldwide, international, widespread; formal catholic.
+ˌyo͞onəˈvərsəl
+
+▶adjective of, affecting, or done by all people or things in the world or in a particular group; applicable to all cases: universal adult suffrage 
+the incidents caused universal concern. 
+• Logic denoting a proposition in which something is asserted of all of a class. Contrasted with particular. 
+• Linguistics denoting or relating to a grammatical rule, set of rules, or other linguistic feature that is found in all languages. 
+• (of a tool or machine) adjustable to or appropriate for all requirements; not restricted to a single purpose or position. 
+▶noun a person or thing having universal effect, currency, or application, in particular: 
+• Logic a universal proposition. 
+• Philosophy a term or concept of general application. 
+• Philosophy a nature or essence signified by a general term. 
+• Linguistics a universal grammatical rule or linguistic feature. ORIGIN late Middle English: from Old French, or from Latin universalis, from universus (see universe) .

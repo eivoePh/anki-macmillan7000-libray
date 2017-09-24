@@ -6,4 +6,11 @@ noun
 ③ Computing 服务器 fúwùqì 
 ④ (food utensil) 上菜器具 shàngcài qìjù 
 server 
-▶noun waiter/waitress, attendant, garçon, waitperson; busboy; hostess, host, maître d'; wait staff.
+ˈsərvər
+
+▶noun
+1 a person or thing that provides a service or commodity, in particular: 
+• North American a waiter or waitress. 
+• Christian Church a person assisting the celebrant at the celebration of the Eucharist. 
+• a sideboard or similar piece of furniture, on which food to be served is placed.
+2 a computer or computer program that manages access to a centralized resource or service in a network.

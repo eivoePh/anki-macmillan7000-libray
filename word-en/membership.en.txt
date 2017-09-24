@@ -1,6 +1,7 @@
 membership 
-BrE ˈmɛmbəʃɪp, AmE ˈmɛmbərˌʃɪp 
-noun 
-① Uncountable(state of belonging) 会员资格 huìyuán zīgé to resign/renew one's membership 放弃/延长会员资格 full/associate/individual/joint membership 正式/非正式/个人/联合会员身份 open/closed membership 向/不向公众开放的会员资格 membership committee 会员资格审查委员会 
-② Countable(fee) 会费 huìfèi 
-③ Countable(number of members) 会员人数 huìyuán rénshù a society with a large/small membership 拥有很多/较少会员的社团 
+ˈmembərˌSHip
+
+▶noun the fact of being a member of a group: I was selected for membership in the National Honor Society 
+[as modifier] : a membership card. 
+• [in singular] the number or body of members in a group: our membership has grown by 600,000 in the past
+18 months.

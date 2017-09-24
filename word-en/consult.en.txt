@@ -1,5 +1,8 @@
 consult 
-▶verb
-1 you need to consult a lawyer: seek advice from, ask, take counsel from, call on/upon, speak to, turn to, have recourse to; informal pick someone's brains.
-2 the government must consult with interested parties: confer, have discussions, talk things over, exchange views, communicate, parley, deliberate; informal put their heads together.
-3 she consulted her diary: refer to, turn to, look at.
+kənˈsəlt
+
+▶verb [with object] seek information or advice from (someone with expertise in a particular area): you should consult a financial advisor. 
+• have discussions or confer with (someone), typically before undertaking a course of action: patients are entitled to be consulted about their treatment 
+[no object] : they've got to consult with their board of directors. 
+• refer for information to (a book, watch, etc.) in order to ascertain something: consult the index at the back of the brochure. 
+▶noun chiefly North American an act of consulting a professional; a consultation: after a consult with his attorneys, he retracted his previous statement. ORIGIN early 16th century (in the sense ‘deliberate together, confer’): from French consulter, from Latin consultare, frequentative of consulere ‘take counsel.’

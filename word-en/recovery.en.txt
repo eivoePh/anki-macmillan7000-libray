@@ -1,5 +1,16 @@
 recovery 
-▶noun
-1 her recovery may be slow: recuperation, convalescence. ANTONYMS relapse.
-2 the economy was showing signs of recovery: improvement, rallying, picking up, upturn, upswing. ANTONYMS deterioration.
-3 the recovery of the stolen goods: retrieval, regaining, repossession, getting back, reclamation, recouping, redemption, recuperation. ANTONYMS loss.
+rəˈkəv(ə)rē
+
+▶noun (plural recoveries)
+1 a return to a normal state of health, mind, or strength: signs of recovery in the housing market 
+he's back at home now and he looks all set to make a full recovery.
+2 the action or process of regaining possession or control of something stolen or lost: a team of salvage experts to ensure the recovery of family possessions 
+the recovery of his sight. 
+• the action of regaining or securing compensation or money lost or spent by means of a legal process or subsequent profits: debt recovery. 
+• an object or amount of money recovered: the recoveries included gold jewelry. 
+• the process of removing or extracting an energy source or industrial chemical for use, reuse, or waste treatment. 
+• (also recovery shot) Golf a stroke bringing the ball from the rough or from a hazard back onto the fairway or the green. 
+• American Football an act of taking possession of a fumbled ball. 
+• (in rowing, cycling, or swimming) the action of returning the paddle, leg, or arm to its initial position ready to make a new stroke. 
+PHRASES
+in recovery in the process of recovering from mental illness, drug addiction, or past abuse: support groups for parents whose children are in recovery.ORIGIN late Middle English (denoting a means of restoration): from Anglo-Norman French recoverie, from recovrer ‘get back.’

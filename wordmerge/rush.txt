@@ -25,18 +25,36 @@ C.  noun
 D.  rushes noun plural Cinema 样片 yàngpiàn PHRASAL VERBS rush into transitive verb 
 ① [rush into something] (undertake hastily) «person» 仓促进行 cāngcù jìnxíng ‹purchase, sale›to rush into marriage/a decision/a commitment 仓促结婚/作出决定/作出承诺 
 ② (make do hastily) 使仓促进行 shǐ cāngcù jìnxíng to rush [somebody] into [something]/doing [something]; 催促某人做某事 don't be rushed into it 不要因为有人催就草率行事 rush out transitive verb[rush something out, rush out something] 匆匆印制 cōngcōng yìnzhì ‹edition, pamphlet›; 匆匆作出 cōngcōng zuòchū ‹announcement, statement›rush through transitive verb[rush through something, rush something through] 快速通过 kuàisù tōngguò ‹bill, amendment›; 迅速处理 xùnsù chǔlǐ ‹order, application›to rush a bill through parliament 使议案在议会匆匆通过 
-rush 
+rush
+1 
+rəSH
+
 ▶verb
-1 she rushed home: hurry, dash, run, race, sprint, bolt, dart, gallop, career, charge, shoot, hurtle, careen, hare, fly, speed, zoom, scurry, scuttle, scamper, hasten; informal tear, belt, pelt, scoot, zip, whip, hotfoot it, leg it, bomb, hightail it.
-2 water rushed along gutters: flow, pour, gush, surge, stream, cascade, run, course.
-3 the legislation was rushed through both houses: push, hurry, hasten, speed, hustle, press, force.
-4 the mob rushed the police: attack, charge, run at, assail, storm.
+1 [no object] move with urgent haste: Jason rushed after her 
+I rushed outside and hailed a taxi. 
+• (of air or a liquid) flow strongly: the water rushed in through the great oaken gates. 
+• act with great haste: as soon as the campaign started, they rushed into action 
+[with infinitive] : shoppers rushed to buy computers. 
+• [with object] force (someone) to act hastily: I don't want to rush you into something. 
+• [with object] take (someone) somewhere with great haste: an ambulance was waiting to rush him to the hospital. 
+• [with two objects] deliver (something) quickly to (someone): we'll rush you a copy at once. 
+• (rush something out) produce and distribute something, or put something up for sale, very quickly: a rewritten textbook was rushed out last autumn. 
+• [with object] deal with (something) hurriedly: panic measures were rushed through Congress.
+2 [with object] dash toward (someone or something) in an attempt to attack or capture them or it: he rushed the stronghold. 
+• American Football advance rapidly toward (an offensive player, especially the quarterback). 
+• [no object] gain a specified amount of yardage or score a touchdown or conversion by running from scrimmage with the ball: he rushed for 100 yards on 22 carries.
+3 [with object] US entertain (a new student) in order to assess their suitability for membership in a college fraternity or sorority. 
+• (of a student) visit (a college fraternity or sorority) with a view toward joining it: he rushed three fraternities. 
 ▶noun
-1 Tim made a rush for the exit: dash, run, sprint, dart, bolt, charge, scramble, break.
-2 the lunch rush: hustle and bustle, commotion, hubbub, stir; busy time.
-3 a last-minute rush for flights: demand, clamor, call, request; run on.
-4 he was in no rush to leave: hurry, haste, urgency.
-5 a rush of adrenaline: surge, flow, flood, spurt, stream; thrill, flash; informal charge, jolt, kick.
-6 a rush of cold air: gust, blast, draft.
-7 I made a sudden rush at him: charge, onslaught, attack, assault, onrush.
-▶adjective a rush job: urgent, high-priority, emergency; hurried, hasty, fast, quick, swift; informal hurry-up.
+1 a sudden quick movement toward something, typically by a number of people: there was a rush for the door. 
+• a flurry of hasty activity: the pre-Christmas rush 
+[as modifier] : a rush job. 
+• a sudden strong demand for a commodity: there's been a rush on the Tribune because of the murder. 
+• a sudden flow or flood: she felt a rush of cold air. 
+• a sudden intense feeling: Mark felt a rush of anger. 
+• a sudden thrill or feeling of euphoria such as experienced after taking certain drugs: users experience a rush.
+2 American Football a rapid advance by a defensive player or players, especially toward the quarterback. 
+• an act of running from scrimmage with the ball to gain yardage.
+3 the process whereby college fraternities or sororities entertain new students in order to assess suitability for membership: ranking pledges during rush 
+[as modifier] : rush week.
+4 (rushes) the first prints made of a movie after a period of shooting. DERIVATIVES rushingly adverbORIGIN late Middle English: from an Anglo-Norman French variant of Old French ruser ‘drive back,’ an early sense of the word in English (see ruse).

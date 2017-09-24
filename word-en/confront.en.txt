@@ -1,6 +1,8 @@
 confront 
-▶verb
-1 Jones confronted the intruder: challenge, face (up to), come face to face with, meet, accost; stand up to, brave; tackle; informal collar. ANTONYMS avoid.
-2 the problems that confront us: trouble, bother, burden, distress, worry, oppress, annoy, strain, stress, tax, torment, plague, blight, curse; face, beset.
-3 they must confront their problems: tackle, address, face, come to grips with, grapple with, take on, attend to, see to, deal with, take care of, handle, manage. ANTONYMS avoid.
-4 she confronted him with the evidence: present, face.
+kənˈfrənt
+
+▶verb [with object] meet (someone) face to face with hostile or argumentative intent: 300 policemen confronted an equal number of union supporters. 
+• face up to and deal with (a problem or difficult situation): we knew we couldn't ignore the race issue and decided we'd confront it head on. 
+• compel (someone) to face or consider something, especially by way of accusation: Tricia confronted him with her suspicions. 
+• (of a problem, difficulty, etc.) present itself to (someone) so that dealing with it cannot be avoided: post-czarist Russia was confronted with a Ukrainian national movement. 
+• (usually be confronted) appear or be placed in front of (someone) so as to unsettle or threaten: we were confronted with pictures of moving skeletons. ORIGIN mid 16th century: from French confronter, from medieval Latin confrontare, from Latin con- ‘with’ + frons, front- ‘face.’

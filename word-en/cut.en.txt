@@ -1,36 +1,101 @@
 cut 
-▶verb
-1 the knife slipped and cut his finger: gash, slash, lacerate, sever, slit, pierce, penetrate, wound, injure; scratch, graze, nick, incise, score; lance.
-2 cut the pepper into small pieces: chop, cut up, slice, dice, cube, mince; carve, hash.
-3 cut back the new growth to about half its length 
-he should get his hair cut: trim, snip, clip, crop, barber, shear, shave; pare; prune, lop, dock; mow.
-4 I went to cut some flowers: pick, pluck, gather; literary cull.
-5 lettering had been cut into the stonework: carve, engrave, incise, etch, score; chisel, whittle.
-6 the government cut public spending: reduce, cut back/down on, decrease, lessen, retrench, trim, slim down; rationalize, downsize, lower, slash, chop.
-7 the text has been substantially cut: shorten, abridge, condense, abbreviate, truncate; edit; bowdlerize, expurgate.
-8 you need to cut at least ten lines per page: delete, remove, take out, excise, blue-pencil, chop.
-9 oil supplies to the area had been cut: discontinue, break off, suspend, interrupt; stop, end, put an end to.
-10 the point where the line cuts the vertical axis: cross, intersect, bisect; meet, join.
-11 she was suspended for cutting classes: skip, miss, play truant from; informal ditch, play hooky from.
+kət
+
+▶verb (cuts, cutting; past and past participle cut) [with object]
+1 make an opening, incision, or wound in (something) with a sharp-edged tool or object: he cut his big toe on a sharp stone 
+he cut open MacKay's face with the end of his hockey stick 
+[no object] figurative : his scorn cut deeper than knives. 
+• [no object] make an incision in one's own flesh, as a symptom of emotional distress: she's been cutting every day after school for months 
+[with object] : they cut themselves in a sad attempt to release the pain.
+2 remove (something) from something larger by using a sharp implement: I cut his photograph out of the paper 
+some prisoners had their right hands cut off. 
+• informal castrate (an animal, especially a horse). 
+• remove the foreskin of a penis; circumcise. 
+• (cut something out) make something by cutting: I cut out some squares of paper. 
+• (cut something out) remove, exclude, or stop eating or doing something undesirable: start today by cutting out fatty foods. 
+• (cut something out) North American separate an animal from the main herd.
+3 divide into pieces with a knife or other sharp implement: cut the beef into thin slices 
+he cut his food up into teeny pieces. 
+• make divisions in (something): land that has been cut up by streams into forested areas. 
+• separate (something) into two; sever: they cut the rope before he choked. 
+• (cut something down) make something, especially a tree, fall by cutting it through at the base. 
+• (cut someone down) (of a weapon, bullet, or disease) kill or injure someone: Barker had been cut down by a sniper's bullet.
+4 make or form (something) by using a sharp tool to remove material: workmen cut a hole in the pipe. 
+• make or design (a garment) in a particular way: (as adjective cut) : an impeccably cut chalk-stripe suit. 
+• make (a path, tunnel, or other route) by excavation, digging, or chopping: plans to cut a road through a rainforest 
+[no object] : investigators called for a machete to cut through the bush 
+figurative : a large woman with a voice that cut through crowds.
+5 trim or reduce the length of (something, especially grass or a person's hair or fingernails) by using a sharp implement: cutting the lawn 
+cut back all the year's growth to about four leaves.
+6 reduce the amount or quantity of: buyers will bargain hard to cut the cost of the house they want 
+I should cut down my sugar intake 
+[no object] : they've cut back on costs 
+the state passed a law to cut down on drunk-driving 
+the paper glut cuts into profits. 
+• abridge (a text, movie, or performance) by removing material: he had to cut unnecessary additions made to the opening scene. 
+• Computing delete (part of a text or other display) completely or so as to insert a copy of it elsewhere. See also cut and paste. 
+• US (in sports) remove (a player) from a team's roster. 
+• end or interrupt the provision of (something, especially power or food supplies): we resolved to cut oil supplies to territories controlled by the rebels 
+if the pump develops a fault, the electrical supply is immediately cut off. 
+• (cut something off) block the usual means of access to a place: the caves were cut off from the outside world by a landslide. 
+• North American absent oneself deliberately from (something one should normally attend, especially school): Robert was cutting class. 
+• switch off (an engine or a light).
+7 (of a line) cross or intersect (another line): the point where the line cuts the vertical axis. 
+• [no object] (cut across) pass or traverse, especially so as to shorten one's route: the following aircraft cut across to join him. 
+• [no object] (cut across) have an effect regardless of (divisions or boundaries between groups): subcultures that cut across national and political boundaries. 
+• [no object] (cut along) informal, dated leave or move hurriedly: you can cut along now.
+8 dated ignore or refuse to recognize (someone).
+9 [no object, often in imperative] stop filming or recording. 
+• move to another shot in a movie: cut to a dentist's surgery. 
+• [with object] make (a movie) into a coherent whole by removing parts or placing them in a different order.
+10 make (a sound recording).
+11 divide (a pack of playing cards) by lifting a portion from the top, either to reveal or draw a card at random or to place the top portion under the bottom portion.
+12 Golf slice (the ball).
+13 adulterate (a drug) or dilute (alcohol) by mixing it with another substance: speed cut with rat poison.
+14 (cut it) North American informal come up to expectations; meet requirements: this CD player doesn't quite cut it. [shortened form of the idiom cut the mustard.] 
 ▶noun
-1 a cut on his jaw: gash, slash, laceration, incision, wound, injury; scratch, graze, nick.
-2 a cut of beef: piece, section.
-3 informal the directors are demanding their cut: share, portion, bit, quota, percentage; informal slice, piece of the pie, piece of the action.
-4 his hair was in need of a cut: haircut, trim, clip, crop.
-5 a smart cut of the whip: blow, slash, stroke.
-6 he followed this with the unkindest cut of all: insult, slight, affront, slap in the face, jibe, barb, cutting remark, put-down, dig.
-7 a cut in interest rates: reduction, cutback, decrease, lessening, rollback.
-8 the elegant cut of his jacket: style, design; tailoring, lines, fit.
+1 an act of cutting, in particular: 
+• [in singular] a haircut: his hair was in need of a cut. 
+• a stroke or blow given by a sharp-edged implement or by a whip or cane: he could skin an animal with a single cut of the knife. 
+• a wounding remark or act: his unkindest cut at Elizabeth was to call her heartless. 
+• a reduction in amount or size: she took a 20% pay cut 
+a cut in interest rates. 
+• (in sports) a removal of a player from a team's roster. 
+• an act of removing part of a play, movie, or book, especially to shorten the work or to delete offensive material: they would not publish the book unless the author was willing to make cuts. 
+• an immediate transition from one scene to another in a movie. 
+• Golf the halfway point of a golf tournament, where half of the players are eliminated. 
+• Tennis a stroke made with a sharp horizontal or downward action of the racket, imparting spin.
+2 a result of cutting something, in particular: 
+• a long narrow incision in the skin made by something sharp. 
+• a long narrow opening or incision made in a surface or piece of material: make a single cut along the top of each potato. 
+• a piece of meat cut from a carcass: a good lean cut of beef. 
+• [in singular] informal a share of the profits from something: the directors are demanding their cut. 
+• a recording of a piece of music: a cut from his forthcoming album. 
+• a version of a movie after editing: the director's cut. 
+• a passage cut or dug out, as a railroad cutting or a new channel made for a river or other waterway. 
+• a woodcut.
+3 [in singular] the way or style in which something, especially a garment or someone's hair, is cut: the elegant cut of his dinner jacket. 
 PHRASES
-cut back if profits don't soon improve, we'll have to find ways to cut back 
-they cut back on medical benefits: economize, downsize, pull/draw in one's horns, tighten one's belt, slim down, scale down; (cut back on) cut, cut down, decrease, lessen, retrench, reduce, trim; informal slash. cut down
-1 24 hectares of trees were cut down: fell, chop down, hack down, saw down, hew.
-2 he was cut down in his prime: kill, slaughter, shoot down, mow down, gun down; informal take out, blow away; literary slay. cut and dried the answers to such questions are not always cut and dried: definite, decided, settled, explicit, specific, precise, unambiguous, clear-cut, unequivocal, black and white, hard and fast. cut in excuse me for cutting in, but Glenda says that dinner's ready: interrupt, butt in, break in, interject, interpose, chime in. cut off
-1 how did this doll's arm get cut off? sever, chop off, hack off; amputate.
-2 oil and gas supplies were cut off: discontinue, break off, disconnect, suspend; stop, end, bring to an end.
-3 a community cut off from the mainland by the floodwaters: isolate, separate, keep apart; seclude, closet, cloister, sequester. cut out
-1 the lifeboat's engines cut out: stop working, stop, fail, give out, break down; informal die, give up the ghost, conk out.
-2 cut out all the diseased wood: remove, take out, excise, extract; snip out, clip out.
-3 it's best to cut out alcohol altogether: give up, refrain from, abstain from, go without; informal quit, lay off, knock off. cut out of his mother cut him out of her will: exclude from, leave out of, omit from, eliminate from. cut short
-1 they cut short their vacation: break off, shorten, truncate, curtail, terminate, end, stop, abort, bring to an untimely end.
-2 several award recipients were cut short during their acceptance speeches: interrupt, cut off, butt in on, break in on.
+be cut out for (or to be) [usually with negative] informal have exactly the right qualities for a particular role, task, or job: I'm just not cut out to be a policeman.a cut above informal noticeably superior to: she's a cut above the rest. cut and dried 
+ˌkət ən ˈdrīd 
+[often with negative] (of a situation) completely settled or decided: the championship is not as cut and dried as everyone thinks. [early 18th century: originally used to distinguish the herbs of herbalists' shops from growing herbs.] cut and run informal make a speedy or sudden departure from an awkward or hazardous situation rather than deal with it. [originally a nautical phrase, meaning ‘cut the anchor cable because of some emergency and make sail immediately.’] cut and thrust 
+ˌkəd ən ˈTHrəst 
+Fencing the use of both the edge and the point of one's sword while fighting. 
+• a spirited and rapid interchange of views: the cut and thrust of political debate. 
+• a situation or sphere of activity regarded as carried out under adversarial conditions: the ruthless cut and thrust of the business world. cut both ways (of a point or statement) serve both sides of an argument. 
+• (of an action or process) have both good and bad effects: the triumphs of civilization cut both ways. cut the corner take the shortest course by going across and not around a corner. cut corners undertake something in what appears to be the easiest, quickest, or cheapest way, especially by omitting to do something important or ignoring rules. cut the crap [often in imperative] vulgar slang get to the point; state the real situation. cut someone dead completely ignore someone. cut a deal North American informal come to an arrangement, especially in business; make a deal. cut someone down to size informal deflate someone's exaggerated sense of self-worth. cut something down to size reduce the size or power of something, for example an organization, that is regarded as having become too large or powerful. cut a —— figure present oneself or appear in a particular way: David has cut a dashing figure on the international social scene. cut from the same cloth of the same nature; similar: don't assume all women are cut from the same cloth. cut in line North American push into a line of people in order to be served or dealt with before one's turn. cut it fine see fine1. cut it out [usually in imperative] informal used to ask someone to stop doing or saying something that is annoying or offensive: I'm sick of that joke; cut it out, can't you? cut loose distance oneself from a person, group, or system by which one is unduly influenced or on which one is overdependent: they cut loose from from the factory and started their own. 
+• act without restraint: consumers want to cut loose and have secret bacchanals. cut someone/something loose (or free) free someone or something from something that holds or restricts them: he'd cut loose the horses.cut one's losses abandon an enterprise or course of action that is clearly going to be unprofitable or unsuccessful before one suffers too much loss or harm. cut the mustard informal come up to expectations; reach the required standard: I didn't cut the mustard as a hockey player. cut no ice informal have no influence or effect: your holier-than-thou attitude cuts no ice with me. cut someone off (or down) in their prime bring someone's life or career to an abrupt end while they are at the peak of their abilities. cut someone/something short interrupt someone or something; bring an abrupt or premature end to something said or done: Peter cut him short rudely. cut someone to pieces kill or severely injure someone. 
+• totally defeat someone. cut a (or the) rug North American informal dance, typically in an energetic or accomplished way: you can cut a rug when dance bands and singers take to the stage. cut one's teeth acquire initial practice or experience of a particular sphere of activity or with a particular organization: the brothers cut their professional teeth at Lusardi's before starting their own restaurant. cut a tooth (usually of a baby or child) have a tooth appear through the gum. cut to the chase North American informal come to the point: cut to the chase—what is it you want us to do? [cut in the sense ‘move to another part of the movie,’ expressing the notion of ignoring any preliminaries.] cut your coat according to your cloth proverb undertake only what you have the money or ability to do and no more. have one's work cut out see work. make the cut Golf equal or better a required score, thus avoiding elimination from the last two rounds of a four-round tournament. miss the cut Golf fail to equal or better a required score, thus being eliminated from the last two rounds of a four-round tournament.PHRASAL VERBS cut in
+1 interrupt someone while they are speaking: “It's urgent,” Raoul cut in. 
+• dated interrupt a dancing couple to take over from one partner.
+2 pull in too closely in front of another vehicle after having overtaken it: she cut in on a station wagon, forcing the driver to brake.
+3 (of a motor or other mechanical device) begin operating, especially when triggered automatically by an electrical signal: emergency generators cut in. cut someone in informal include someone in a deal and give them a share of the profits. cut into interrupt the course of: Victoria's words cut into her thoughts. cut someone off interrupt someone while they are speaking. 
+• interrupt someone during a telephone call by breaking the connection: I listened to prerecorded messages for twenty-three minutes before being cut off. 
+• prevent someone from receiving or being provided with something, especially power or water: consumers were cut off for nonpayment. 
+• reject someone as one's heir; disinherit someone: Gabrielle's family cut her off without a penny. 
+• prevent someone from having access to somewhere or someone; isolate someone from something they previously had connections with: we were cut off from reality. 
+• informal (of a driver) overtake someone and pull in too closely in front of them. cut out
+1 (of a motor or engine) suddenly stop operating.
+2 North American informal (of a person) leave quickly, especially so as to avoid a boring or awkward situation. cut someone out exclude someone: his mother cut him out of her will. cut up
+1 North American informal behave in a mischievous or unruly manner: kids cutting up in a classroom.
+2 informal (of a horse race) have a particular selection of runners: the race has cut up badly with no other opposition from England. cut someone up North American informal criticize someone severely: my kids cut him up about his appetite all the time.ORIGIN Middle English (probably existing, although not recorded, in Old English); probably of Germanic origin and related to Norwegian kutte and Icelandic kuta ‘cut with a small knife,’ kuti ‘small blunt knife.’

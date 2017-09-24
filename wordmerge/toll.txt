@@ -8,7 +8,15 @@ noun
 ④ AmE Telecommunications 长途电话费 chángtú diànhuàfèi 
 toll
 1 
+tōl
+
 ▶noun
-1 a highway toll: charge, fee, payment, levy, tariff, tax.
-2 the toll of dead and injured: number, count, tally, total, sum total, grand total, sum; record, list.
-3 the toll on the environment has been high: adverse effect(s), detriment, harm, damage, injury, impact, hurt; cost, price, loss, disadvantage, suffering, penalty.
+1 a charge payable for permission to use a particular bridge or road: turnpike tolls 
+[as modifier] : a toll bridge. 
+• North American a charge for a long-distance telephone call.
+2 [in singular] the number of deaths, casualties, or injuries arising from particular circumstances, such as a natural disaster, conflict, or accident: the toll of dead and injured mounted. 
+• the cost or damage resulting from something: the environmental toll of the policy has been high. 
+▶verb [with object] (usually as noun tolling) charge a toll for the use of (a bridge or road): the report advocates expressway tolling. 
+PHRASES
+take its toll (or take a heavy toll) have an adverse effect, especially so as to cause damage, suffering, or death: years of pumping iron have taken their toll on his body.ORIGIN Old English (denoting a charge, tax, or duty), from medieval Latin toloneum, alteration of late Latin teloneum, from Greek telōnion ‘tollhouse,’ from telos ‘tax.’ Sense
+2 of the noun (late 19th century) arose from the notion of paying a toll or tribute in human lives (to an adversary or to death).

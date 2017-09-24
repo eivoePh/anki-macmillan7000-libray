@@ -5,8 +5,10 @@ A.  intransitive verb (stop) 停止 tíngzhǐ (let up, ease off) «activity, noi
 B.  transitive verb 停止 tíngzhǐ to cease to do [something], to cease doing [something]; 停止做某事 to cease from [something]/doing [something]; 停止某事/做某事 to cease to be important 不再重要 you never cease to amaze me! 你总是让我吃惊！ to cease fire 停止射击 
 C.  noun 停止 tíngzhǐ without cease 不停地 
 cease 
-▶verb
-1 hostilities had ceased: come to an end, come to a halt, end, halt, stop, conclude, terminate, finish, draw to a close, be over. ANTONYMS start, continue.
-2 they ceased all military activity: bring to an end, bring to a halt, end, halt, stop, conclude, terminate, finish, wind up, discontinue, suspend, break off; informal leave off. ANTONYMS start, continue.
+sēs
+
+▶verb [no object] bring or come to an end: the hostilities had ceased and normal life was resumed 
+[with infinitive] : on his retirement the job will cease to exist 
+[with object] : they were asked to cease all military activity. 
 PHRASES
-without cease they have worked without cease on these prototypes: continuously, incessantly, unendingly, unremittingly, without a pause, without a break, on and on.
+never cease to (in hyperbolic use) do something very frequently: her exploits never cease to amaze me. without cease without stopping.ORIGIN Middle English: from Old French cesser, from Latin cessare ‘stop,’ from cedere ‘to yield.’

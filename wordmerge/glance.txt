@@ -7,12 +7,18 @@ B.  intransitive verb
 ② (read) 快速阅读 kuàisù yuèdú to glance at/through/over [something]; 浏览某物 
 ③ (be deflected) «ball» 斜擦而过 xié cā ér guò to glance off [something]; «ball, bullet» 掠过某物 
 ④ (be reflected) 闪烁 shǎnshuò to glance off [something]; «light, ray» 在某物上反光 
-glance 
-▶verb
-1 Rachel glanced at him: look briefly, look quickly, peek, peep; glimpse; informal have a gander.
-2 I glanced through the report: read quickly, scan, skim through, leaf through, flip through, thumb through, browse (through); dip into.
-3 a bullet glanced off the ice: ricochet off, rebound off, be deflected off, bounce off; graze, clip.
-4 sunlight glanced off her hair: reflect, flash, gleam, glint, glitter, glisten, glimmer, shimmer.
-▶noun a glance at his watch: peek, peep, brief look, quick look, glimpse; informal gander.
+glance
+1 
+ɡlans
+
+▶verb [no object]
+1 take a brief or hurried look: Ginny glanced at her watch. 
+• (glance at/through) read quickly or cursorily: I glanced through your personnel file last night.
+2 hit something at an angle and bounce off obliquely: he saw a stone glance off a crag and hit Tom on the head. 
+• (especially of light) reflect off something with a brief flash: sunlight glanced off the curved body of a dolphin. 
+• [with object] (in ball games) deflect (the ball) slightly with a delicate contact: he glanced the ball into the right corner of the net. 
+▶noun
+1 a brief or hurried look: Sean and Michael exchanged glances.
+2 literary a flash or gleam of light. 
 PHRASES
-at first glance at first glance, the plastic stemware could have been mistaken for crystal: on the face of it, on the surface, at first sight, to the casual eye, to all appearances; apparently, seemingly, outwardly, superficially, it would seem, it appears, as far as one can see/tell, by all accounts.
+at a glance immediately upon looking: she saw at a glance what had happened. at first glance when seen or considered for the first time, especially briefly: good news, at first glance, for frequent travelers. glance one's eye archaic look briefly: glancing his severe eye around the group.DERIVATIVES glancingly adverbORIGIN late Middle English (in the sense ‘rebound obliquely’): probably a nasalized form of obsolete glace in the same sense, from Old French glacier ‘to slip,’ from glace ‘ice,’ based on Latin glacies .

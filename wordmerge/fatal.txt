@@ -4,6 +4,7 @@ adjective
 ① (lethal) 致命的 zhìmìng de ‹accident, illness›; 毁灭性的 huǐmièxìng de ‹delay, blow›she sustained fatal injuries 她受了致命伤 
 ② figurative (disastrous) 灾难性的 zāinànxìng de ‹mistake, decision, weakness›to be fatal to [something]; 对某事物有毁灭性的影响 
 fatal 
-▶adjective
-1 a fatal disease: deadly, lethal, mortal, death-dealing; terminal, incurable, untreatable, inoperable, malignant; literary deathly. ANTONYMS harmless, superficial.
-2 a fatal mistake: disastrous, devastating, ruinous, catastrophic, calamitous, dire; costly; formal grievous. ANTONYMS harmless, beneficial.
+ˈfādl
+
+▶adjective causing death: a fatal accident. 
+• leading to failure or disaster: there were three fatal flaws in the strategy. ORIGIN late Middle English (in the senses ‘destined by fate’ and ‘ominous’): from Old French, from Latin fatalis, from fatum (see fate) .

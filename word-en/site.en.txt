@@ -1,3 +1,12 @@
 site 
-▶noun the site of the battle: location, place, position, situation, locality, whereabouts; technical locus.
-▶verb garbage cans sited along the street: place, put, position, situate, locate.
+sīt
+
+▶noun
+1 an area of ground on which a town, building, or monument is constructed: the proposed site of a hydroelectric dam. 
+• a place where a particular event or activity is occurring or has occurred: the site of the Battle of Antietam 
+materials for repairs are always on site. 
+• short for building site.
+2 a website: the site has no ads and is not being promoted with banners 
+some servers use cookies to track users from site to site. 
+▶verb [with object] (usually be sited) fix or build (something) in a particular place: the rectory is sited behind the church 
+(as noun siting) : decisions concerning the siting of nuclear power plants. ORIGIN late Middle English (as a noun): from Anglo-Norman French, or from Latin situs ‘local position.’ The verb dates from the late 16th century.

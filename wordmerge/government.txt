@@ -5,6 +5,13 @@ noun
 ② Uncountable(system) 政体 zhèngtǐ democratic/totalitarian government 民主/极权主义政体 
 ③ Countableplus singular or plural verb (ruling body) 政府 zhèngfǔ central/national government 中央/国民政府 the British government 英国政府 to form a government; 建立政府 government policy/agency 政府政策/机构 
 government 
+ˈɡəvər(n)mənt
+
 ▶noun
-1 the government announced further cuts: administration, executive, regime, authority, powers that be, directorate, council, leadership; cabinet, ministry; nanny state; informal feds; (the government) Washington.
-2 her job was the government of the district: rule, governing, running, leadership, control, administration, regulation, management, supervision.QUOTE Thank heavens we do not get all of the government that we are made to pay for.Milton Friedman, American economist
+1 [treated as singular or plural] the governing body of a nation, state, or community: an agency of the federal government 
+[as modifier] : government controls. 
+• the system by which a nation, state, or community is governed: a secular, pluralistic, democratic government. 
+• the action or manner of controlling or regulating a nation, organization, or people: rules for the government of the infirmary. 
+• the group of people in office at a particular time; administration: the election of the new government. 
+• another term for political science.
+2 Grammar the relation between a governed and a governing word. ORIGIN Middle English: from Old French governement, from governer (see govern) .

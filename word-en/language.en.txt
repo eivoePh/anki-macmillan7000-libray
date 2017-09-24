@@ -1,7 +1,14 @@
 language 
+ˈlaNGɡwij
+
 ▶noun
-1 the structure of language: speech, writing, communication, conversation, speaking, talking, talk, discourse; words, vocabulary.
-2 the English language: tongue, mother tongue, native tongue; dialect, patois, slang, idiom, jargon, argot, cant; informal lingo.
-3 the booklet is written in simple, everyday language: wording, phrasing, phraseology, style, vocabulary, terminology, expressions, turns of phrase, parlance, form/mode of expression, usages, locutions, choice of words, idiolect; informal lingo.
-WORD LINKS
-language linguistic relating to language linguistics the scientific study of languageWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.REFLECTIONS David Lehmanlanguage "Made in the USA" Akin to the theoretical pleasure of explaining the rules of baseball to an Oxford don is the perpetuation of sentences composed of neologisms made in the USA: “The G-man, clad in tuxedo and T-shirt, played strip poker with the terrorist wannabe before wasting him at a unisex boutique.” Try explaining that to anyone caught in a 1928 time warp. Why 1928? Because that year the last part of the Oxford English Dictionary was published. It is now updated (itself a term unknown in 1928) online quarterly, but the first revision was edited by Robert Burchfield, who completed A Supplement to the Oxford English Dictionary in 1986. The final volume of the Supplement includes the nouns sit-com, sit-in, teenager, touchdown, transistor, and the adjective user-friendly, and one might write a sestina using precisely these as the six recurrent endwords on which the sestina as a form is based. “The center of gravity for the English language is no longer Britain,” Burchfield observed in 1986. “American English is the greatest influence on English everywhere.”Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+1 the method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way: a study of the way children learn language 
+[as modifier] : language development. 
+• any nonverbal method of expression or communication: a language of gesture and facial expression.
+2 the system of communication used by a particular community or country: the book was translated into twenty-five languages. 
+• Computing a system of symbols and rules for writing programs or algorithms: a new programming language.
+3 the manner or style of a piece of writing or speech: he explained the procedure in simple, everyday language. 
+• the phraseology and vocabulary of a certain profession, domain, or group of people: legal language. 
+• (usually as bad/strong language) coarse, crude, or offensive language: strong language. 
+PHRASES
+speak the same language understand one another as a result of shared opinions or values.ORIGIN Middle English: from Old French langage, based on Latin lingua ‘tongue.’

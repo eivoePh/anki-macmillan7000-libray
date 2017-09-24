@@ -1,18 +1,51 @@
 stock 
+stäk
+
 ▶noun
-1 the store carries little stock: merchandise, goods, wares, items/articles for sale, inventory.
-2 a stock of fuel: store, supply, stockpile, reserve, hoard, cache, bank, accumulation, quantity, collection.
-3 farm stock: animals, livestock, beasts; flocks, herds.
-4 (stocks) blue-chip stocks: shares, securities, equities, bonds.
-5 her stock is low with most voters: popularity, favor, regard, estimation, standing, status, reputation, name, prestige.
-6 his mother was of French stock: descent, ancestry, origin(s), parentage, pedigree, lineage, line (of descent), heritage, birth, extraction, family, blood, bloodline.
-7 chicken stock: bouillon, broth, consommé.
-8 the stock of a weapon: handle, butt, haft, grip, shaft, shank.
-▶adjective
-1 a stock size: standard, regular, normal, established, set; common, readily/widely available; staple. ANTONYMS nonstandard.
-2 the stock response: usual, routine, predictable, set, standard, staple, customary, familiar, conventional, traditional, stereotyped, clichéd, hackneyed, unoriginal, formulaic. ANTONYMS original, unusual.
-▶verb
-1 we stock organic food: sell, carry, keep (in stock), offer, have (for sale), retail, supply.
-2 the fridge was well stocked with milk: supply, provide, furnish, provision, equip, fill, load.
+1 the goods or merchandise kept on the premises of a business or warehouse and available for sale or distribution: the store has a very low turnover of stock 
+buy now, while stocks last! 
+[as modifier] : stock shortages. 
+• a supply or quantity of something accumulated or available for future use: I need to replenish my stock of wine 
+fish stocks are being dangerously depleted. 
+• farm animals such as cattle, pigs, and sheep, bred and kept for their meat or milk; livestock. 
+• short for rolling stock. 
+• (also film stock) photographic film that has not been exposed or processed. 
+• (in some card games) the cards that have not yet been dealt, left on the table to be drawn.
+2 the capital raised by a business or corporation through the issue and subscription of shares: between 1982 and 1986, the value of the company's stock rose by 86%. 
+• (also stocks) shares of stock of a particular company as held by an individual or group as an investment: she owned $3000 worth of stock. 
+• (also stocks) the shares of a particular company, type of company, or industry: blue-chip stocks. 
+• securities issued by the government in fixed units with a fixed rate of interest: government gilt-edged stock. 
+• a person's reputation or popularity: I felt I was right, but my stock was low with this establishment.
+3 liquid made by cooking bones, meat, fish, or vegetables slowly in water, used as a basis for the preparation of soup, gravy, or sauces: a pint of chicken stock. 
+• [with modifier] the raw material from which a specified commodity can be manufactured: the fat can be used as soap stock.
+4 [usually with adjective or noun modifier] a person's ancestry or line of descent: her mother was of French stock 
+both of them came from peasant stock. 
+• a breed, variety, or population of an animal or plant.
+5 the trunk or woody stem of a living tree or shrub, especially one into which a graft (scion) is inserted. 
+• the perennial part of a herbaceous plant, especially a rhizome.
+6 a herbaceous European plant that is widely cultivated for its fragrant flowers, which are typically lilac, pink, or white. [mid 17th century: from stock-gillyflower.] [Genus Matthiola, family Brassicaceae: several species.]
+7 (the stocks) [treated as singular or plural] historical an instrument of punishment consisting of an adjustable wooden structure with holes for securing a person's feet and hands, in which criminals were locked and exposed to public ridicule or assault.
+8 the part of a rifle or other firearm to which the barrel and firing mechanism are attached, held against one's shoulder when firing the gun. 
+• the crosspiece of an anchor. 
+• the handle of something such as a whip or fishing rod. 
+• short for headstock ( sense 1). 
+• short for tailstock.
+9 a band of white material tied like a cravat and worn as a part of formal horse-riding dress. 
+• a piece of black material worn under a clerical collar.
+10 (stocks) a frame used to support a ship or boat out of water, especially when under construction. 
+▶adjective [attributive]
+1 (of a product or type of product) usually kept in stock and thus regularly available for sale: 25 percent off stock items.
+2 (of a phrase or expression) so regularly used as to be automatic or hackneyed: “Two weeks” was the stock reply. 
+• denoting a conventional character type or situation that recurs in a particular genre of literature, theater, or film: the stock characters in every cowboy movie. 
+• denoting or relating to cinematic footage that can be regularly used in different productions, typically that of outdoor scenes used to add realism to a production shot in an indoor set. 
+▶verb [with object]
+1 have or keep a supply of (a particular product or type or product) available for sale: most supermarkets now stock a range of organic produce. 
+• provide or fill with goods, items, or a supply of something: I must stock up the fridge 
+[as adjective, with submodifier or in combination] (stocked) : a well-stocked store. 
+• [no object] (stock up) amass supplies of something, typically for a particular occasion or purpose: I'm stocking up for Christmas 
+you'd better stock up with fuel.
+2 fit (a rifle or other firearm) with a stock. 
 PHRASES
-in stock what brands of dog food do you have in stock? for/on sale, (immediately) available, on the shelf. stock up on/with people are stocking up on batteries and water: amass supplies of, stockpile, hoard, cache, lay in, buy up/in, put away/by, put/set aside, collect, accumulate, save; informal squirrel away, salt away, stash away. take stock of let's take stock of our current situation: review, assess, appraise, evaluate; informal size up.
+in (or out of) stock (of goods) available (or unavailable) for immediate sale in a store. on the stocks in construction or preparation: also on the stocks is a bill to bring about tax relief for these businesses. put stock in [often with negative] have a specified amount of belief or faith in: I don't put much stock in modern medicine. take stock review or make an overall assessment of a particular situation, typically as a prelude to making a decision: he needed a period of peace and quiet in order to take stock of his life.DERIVATIVES stockless adjectiveORIGIN Old English stoc(c) ‘trunk, block of wood, post,’ of Germanic origin; related to Dutch stok and German Stock ‘stick.’ The notion ‘store, fund’ ( sense
+1 of the noun and sense
+2 of the noun) arose in late Middle English and is of obscure origin, perhaps expressing ‘growth from a central stem’ or ‘firm foundation.’

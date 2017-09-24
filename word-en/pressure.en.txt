@@ -1,6 +1,13 @@
 pressure 
+ˈpreSHər
+
 ▶noun
-1 confined gas exerts a constant pressure: physical force, load, stress, thrust; compression, weight.
-2 they put pressure on us to borrow money: coercion, force, compulsion, constraint, duress; pestering, harassment, nagging, badgering, intimidation, arm-twisting, persuasion.
-3 she had a lot of pressure from work: strain, stress, tension, trouble, difficulty; informal hassle.
-▶verb they pressured him into resigning: coerce, pressurize, put pressure on, press, push, persuade, force, bulldoze, hound, harass, nag, harry, badger, goad, pester, browbeat, bully, bludgeon, intimidate, dragoon, twist someone's arm, strong-arm; informal railroad, lean on, hustle.
+1 the continuous physical force exerted on or against an object by something in contact with it: the slight extra pressure he applied to her hand. 
+• the force exerted per unit area: gas can be fed to the turbines at a pressure of around 250 psi.
+2 the use of persuasion, influence, or intimidation to make someone do something: the proposals put pressure on Britain to drop its demand 
+the many pressures on girls to worry about their looks. 
+• the influence or effect of someone or something: oil prices came under some downward pressure. 
+• the feeling of stressful urgency caused by the necessity of doing or achieving something, especially with limited time: you need to be able to work under pressure and not get flustered 
+some offenders might find prison a refuge against the pressures of the outside world. 
+▶verb [with object] attempt to persuade or coerce (someone) into doing something: it might now be possible to pressure him into resigning 
+[with object and infinitive] : she pressured her son to accept a job offer from the bank. ORIGIN late Middle English: from Old French, from Latin pressura, from press- ‘pressed,’ from the verb premere (see press1) .

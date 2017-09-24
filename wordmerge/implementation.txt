@@ -2,5 +2,6 @@ implementation
 BrE ɪmplɪmɛnˈteɪʃ(ə)n, AmE ˌɪmpləmənˈteɪʃ(ə)n 
 nounUncountable and countable(of plan, scheme) 实施 shíshī (of promise, suggestion, idea) 实践 shíjiàn (of law, policy, contract, decision) 执行 zhíxíng 
 implementation 
-BrE ɪmplɪmɛnˈteɪʃ(ə)n, AmE ˌɪmpləmənˈteɪʃ(ə)n 
-nounUncountable and countable(of plan, scheme) 实施 shíshī (of promise, suggestion, idea) 实践 shíjiàn (of law, policy, contract, decision) 执行 zhíxíng 
+ˌimpləmənˈtāSH(ə)n
+
+▶noun the process of putting a decision or plan into effect; execution: she was responsible for the implementation of the plan.

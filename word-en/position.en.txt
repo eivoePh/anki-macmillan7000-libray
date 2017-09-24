@@ -1,10 +1,29 @@
 position 
+pəˈziSH(ə)n
+
 ▶noun
-1 the aircraft's position: location, place, situation, spot, site, locality, setting, area; whereabouts, bearings, orientation; technical locus.
-2 a standing position: posture, stance, attitude, pose.
-3 our financial position: situation, state, condition, circumstances; predicament, plight, strait(s).
-4 the two parties jockeyed for position: advantage, the upper hand, the edge, the whip hand, primacy; informal the catbird seat.
-5 their position in society: status, place, level, rank, standing; stature, prestige, influence, reputation, importance, consequence, class; dated station.
-6 a secretarial position: job, post, situation, appointment, role, occupation, employment; office, capacity, duty, function; opening, vacancy, placement.
-7 the government's position on the matter: viewpoint, opinion, outlook, attitude, stand, standpoint, stance, perspective, approach, slant, thinking, policy, feelings.
-▶verb he positioned a chair between them: put, place, locate, situate, set, site, stand, station; plant, stick, install; arrange, dispose; informal park.
+1 a place where someone or something is located or has been put: the distress call had given the ship's position 
+Mrs. Snell had taken up her position on the bottom step of the stairs. 
+• the location where someone or something should be; the correct place: the lid was put into position and screwed down 
+make sure that no slates have slipped out of position. 
+• (often positions) a place where part of a military force is posted for strategic purposes: the guns were shelling the German positions.
+2 a particular way in which someone or something is placed or arranged: he moved himself into a reclining position 
+a cramp forced her to change position. 
+• in a game of chess, the configuration of the pieces and pawns on the board at any point. 
+• Music a particular location of the hand on the fingerboard of a stringed instrument: be familiar with the first six positions across the four strings. 
+• Music a particular location of the slide of a trombone. 
+• Music the arrangement of the constituent notes of a chord.
+3 a situation or set of circumstances, especially one that affects one's power to act: the company's financial position is grim 
+[with infinitive] : we felt we were not in a position to judge the merits of the case. 
+• a job: she retired from her position as marketing director. 
+• the state of being placed where one has an advantage over one's rivals in a competitive situation: his successors were already jockeying for position. 
+• a person's place or rank in relation to others, especially in a competitive situation: he made up ground to finish in second position. 
+• high rank or social standing: a woman of supposed wealth and position. 
+• (in team games) a set of functions considered as the responsibility of a particular player based on the location in which they play: it gives every player a chance to play every fielding position.
+4 a person's particular point of view or attitude toward something: I’ll never accept his position on censorship.
+5 an investor's net holdings in one or more markets at a particular time; the status of an individual or institutional trader's open contracts: traders were covering short positions.
+6 Logic a proposition laid down or asserted; a tenet or assertion. 
+▶verb [with object] put or arrange (someone or something) in a particular place or way: he pulled out a chair and positioned it between them 
+she positioned herself on a bench. 
+• promote (a product, service, or business) within a particular sector of a market, or as the fulfillment of that sector's specific requirements: a comprehensive development plan that will position the city as a major economic force in the region. 
+• portray or regard (someone) as a particular type of person: I had positioned her as my antagonist. ORIGIN late Middle English: from Old French, from Latin positio(n-), from ponere ‘to place.’ The current sense of the verb dates from the early 19th century.

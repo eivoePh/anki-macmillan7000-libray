@@ -1,9 +1,21 @@
 empty 
-▶adjective
-1 an empty house: vacant, unoccupied, uninhabited, untenanted, bare, desolate, deserted, abandoned; clear, free. ANTONYMS full.
-2 an empty threat: meaningless, hollow, idle, vain, futile, worthless, useless, nugatory, insubstantial, ineffective, ineffectual. ANTONYMS meaningful, serious.
-3 without her, my life is empty: futile, pointless, purposeless, worthless, meaningless, valueless, of no value, useless, of no use, aimless, senseless, hollow, barren, insignificant, inconsequential, trivial. ANTONYMS worthwhile.
-4 his eyes were empty: blank, expressionless, vacant, deadpan, wooden, stony, impassive, absent, glazed, fixed, lifeless, emotionless, unresponsive. ANTONYMS expressive.
-▶verb
-1 I emptied the dishwasher: unload, unpack, void; clear, evacuate. ANTONYMS fill, load.
-2 he emptied out the contents of the case: remove, take out, extract, tip out, pour out, dump out, drain.
+ˈem(p)tē
+
+▶adjective (emptier, emptiest)
+1 containing nothing; not filled or occupied: he took his empty coffee cup back to the counter 
+the room was empty of furniture. 
+• Mathematics (of a set) containing no members or elements.
+2 (of words or a gesture) lacking meaning or sincerity: his answer sounded a little empty 
+empty threats.
+3 having no value or purpose: her life felt empty and meaningless.
+4 informal hungry. 
+▶verb (empties, emptying, emptied) [with object] remove all the contents of (a container): we empty the cash register each night at closing time 
+pockets were emptied of loose change. 
+• remove (the contents) from a container: he emptied out the contents of his briefcase. 
+• [no object] (of a place) be vacated by people in it: the bar suddenly seemed to empty. 
+• [no object] (empty into) (of a river) discharge itself into (the sea or a lake). 
+▶noun (plural empties) (usually empties) informal a container (especially a bottle or glass) left empty of its contents. 
+PHRASES
+running on empty exhausted of all one's resources or sustenance. empty vessels make the most noise (or sound) proverb those with least wisdom or knowledge are always the most talkative.on an empty stomach see stomach. DERIVATIVES emptily 
+ˈem(p)təlē 
+adverbORIGIN Old English ǣmtig, ǣmetig ‘at leisure, unoccupied, empty,’ from ǣmetta ‘leisure,’ perhaps from ā ‘no, not’ + mōt ‘meeting’ (see moot) .

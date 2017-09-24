@@ -1,5 +1,9 @@
 infect 
-▶verb
-1 he didn't want to infect others with his chickenpox: pass infection to, spread disease to, contaminate.
-2 nitrates were infecting rivers: contaminate, pollute, taint, foul, dirty, blight, damage, ruin; poison.
-3 his high spirits infected everyone: affect, influence, have an impact on, touch; excite, inspire, stimulate, animate.
+inˈfekt
+
+▶verb [with object] affect (a person, organism, cell, etc.) with a disease-causing organism: there is no evidence that the virus can infect humans. 
+• contaminate (air, water, etc.) with harmful organisms. 
+• Computing affect with a virus. 
+• (of a negative feeling or idea) take hold of or be communicated to (someone): the panic in his voice infected her. DERIVATIVES infector 
+inˈfektər 
+nounORIGIN late Middle English: from Latin infect- ‘tainted,’ from the verb inficere, from in- ‘into’ + facere ‘put, do.’

@@ -10,9 +10,18 @@ transitive verb
 ⑦ (be sold for) 售得 shòudé ‹amount›how much do you expect the furniture to realize? 这家具你想卖多少钱？ 
 ⑧ Busn (make, earn) 赚得 zhuàndé to realize a sum on [something]; 在某物上赚一笔钱 
 realize 
-▶verb
-1 he suddenly realized what she meant: register, perceive, discern, be/become aware of (the fact that), be/become conscious of (the fact that), notice; understand, grasp, comprehend, see, recognize, work out, fathom, apprehend; informal latch on to, savvy, figure out, get (the message); British suss; formal be/become cognizant of.
-2 they realized their dream: fulfill, achieve, accomplish, make a reality, make happen, bring to fruition, bring about/off, carry out/through; formal effectuate.
-3 the company realized significant profits: make, clear, gain, earn, return, produce.
-4 the goods realized $3000: be sold for, fetch, go for, make, net.
-5 he realized his assets: cash in, liquidate, capitalize.
+ˈrē(ə)ˌlīz
+
+▶verb [with object]
+1 become fully aware of (something) as a fact; understand clearly: he realized his mistake at once 
+[with clause] : they realized that something was wrong 
+she had not realized how hungry she was.
+2 cause (something desired or anticipated) to happen: our loans are helping small business realize their dreams 
+his worst fears have been realized. 
+• fulfill: it is only now that she is beginning to realize her potential.
+3 (usually be realized) give actual or physical form to: the stage designs have been beautifully realized. 
+• use (a linguistic feature) in a particular spoken or written form. 
+• Music add to or complete (a piece of music left sparsely notated by the composer).
+4 make (money or a profit) from a transaction: she realized a profit of $100,000. 
+• (of goods) be sold for (a specified price); fetch: the drawings are expected to realize $500,000. 
+• convert (an asset) into cash: he realized all the assets in her trust fund. DERIVATIVES realizer nounORIGIN early 17th century: from real1, on the pattern of French réaliser .

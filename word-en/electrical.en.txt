@@ -1,5 +1,5 @@
 electrical 
-BrE ɪˈlɛktrɪk(ə)l, AmE əˈlɛktrək(ə)l 
-adjective 
-① (relating to electricity) 电的 diàn de electrical power 电力 
-② (using electricity) 用电的 yòng diàn de electrical appliances 电器 
+əˈlektrək(ə)l
+
+▶adjective operating by or producing electricity: an electrical appliance. 
+• concerned with electricity: an electrical engineer.

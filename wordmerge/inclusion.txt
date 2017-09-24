@@ -4,7 +4,9 @@ noun
 ① Uncountable(incorporation) 包括 bāokuò the inclusion of a woman in the committee 吸纳一名女成员进入委员会 advertisements for inclusion in next week's issue 下周发行的一期将刊出的广告 
 ② Countable(included item) 被包括的项目 bèi bāokuò de xiàngmù (included person) 被包括的人 bèi bāokuò de rén there were some surprising inclusions in the list 名单包括了一些意想不到的人 
 inclusion 
-BrE ɪnˈkluːʒ(ə)n, AmE ɪnˈkluʒən 
-noun 
-① Uncountable(incorporation) 包括 bāokuò the inclusion of a woman in the committee 吸纳一名女成员进入委员会 advertisements for inclusion in next week's issue 下周发行的一期将刊出的广告 
-② Countable(included item) 被包括的项目 bèi bāokuò de xiàngmù (included person) 被包括的人 bèi bāokuò de rén there were some surprising inclusions in the list 名单包括了一些意想不到的人 
+inˈklo͞oZHən
+
+▶noun
+1 the action or state of including or of being included within a group or structure: federal legislation now mandates the inclusion of students who are English language learners. 
+• a person or thing that is included within a larger group or structure: the exhibition features such inclusions as the study of the little girl.
+2 Biology, Geology, & Metallurgy a body or particle recognizably distinct from the substance in which it is embedded. ORIGIN early 17th century: from Latin inclusio(n-), from includere ‘shut in.’

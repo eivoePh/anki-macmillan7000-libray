@@ -12,9 +12,23 @@ C.  noun
 ① (snatch) 抓 zhuā to make a grab at or for [something]; 抓某物 to make a grab for power 试图夺取权力 up for grabs colloquial 可供争夺的 the job is up for grabs 这个工作人人都可以争取 before noun 用作抓握的 yòngzuò zhuāwò de 
 ② Technology 抓具 zhuājù 
 grab 
-▶verb
-1 Jessica grabbed his arm: seize, grasp, snatch, take hold of, grip, clasp, clutch; take; informal glom on to.
-2 informal I'll grab another drink: get, acquire, obtain; buy, purchase, procure; secure, snap up; gather, collect, garner; achieve, attain; informal get one's hands on, get one's mitts on, get hold of, bag, score, nab.
-▶noun she made a grab for his gun: lunge, snatch.
+ɡrab
+
+▶verb (grabs, grabbing, grabbed) [with object]
+1 grasp or seize suddenly and roughly: she grabbed him by the shirt collar 
+she grabbed her keys and rushed out. 
+• [no object] (grab at/for) make a sudden snatch at: he grabbed at the handle, missed, and nearly fell. 
+• informal obtain or get (something) quickly or opportunistically, sometimes unscrupulously: I'll grab another drink while there's still time 
+someone's grabbed my seat. 
+• [no object] (of a brake on a vehicle) grip the wheel harshly or jerkily: the brakes grabbed very badly.
+2 [usually with negative or in questions] informal attract the attention of; make an impression on: how does that grab you? 
+▶noun
+1 [in singular] a quick, sudden clutch or attempt to seize: he made a grab at the pistol. 
+• an act of obtaining something opportunistically or unscrupulously: they used the law to effect a land grab.
+2 a mechanical device for clutching, lifting, and moving things, especially materials in bulk. 
+• [as modifier] denoting a bar or strap for people to hold on to for support or in a moving vehicle: for elderly people, grab rails at strategic places are likely to prevent accidents.
+3 [usually with modifier] Computing a frame of video or television footage, digitized and stored as a still image in a computer memory for subsequent display, printing, or editing: a screen grab from Wednesday's program. 
 PHRASES
-up for grabs informal dozens of prizes are up for grabs: available, obtainable, to be had, for the taking; for sale, on the market; informal for the asking, on tap, gettable.
+up for grabs informal available; obtainable: great prizes up for grabs.DERIVATIVES grabber 
+ˈɡrabər 
+nounORIGIN late 16th century: from Middle Low German and Middle Dutch grabben; perhaps related to grip, gripe, and grope .

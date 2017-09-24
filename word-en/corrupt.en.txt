@@ -1,9 +1,22 @@
 corrupt 
+kəˈrəpt
+
 ▶adjective
-1 a corrupt official 
-corrupt practices: dishonest, unscrupulous, dishonorable, unprincipled, unethical, amoral, untrustworthy, venal, underhanded, double-dealing, fraudulent, bribable, criminal, illegal, unlawful, nefarious; informal crooked, shady, dirty, sleazy. ANTONYMS honest, law-abiding.
-2 a corrupt society: immoral, depraved, degenerate, reprobate, vice-ridden, perverted, debauched, dissolute, dissipated, bad, wicked, evil, base, sinful, ungodly, unholy, irreligious, profane, impious, impure; informal warped. ANTONYMS moral.
-3 a corrupt text: impure, bastardized, debased, adulterated. ANTONYMS pure.
-▶verb
-1 a book that might corrupt its readers: deprave, pervert, debauch, degrade, warp, lead astray, defile, pollute, sully.
-2 the apostolic writings had been corrupted: alter, tamper with, interfere with, bastardize, debase, adulterate.WORD TOOLKIT See illegal .Word Toolkits illustrate the difference between close synonyms by means of words typically used with them.
+1 having or showing a willingness to act dishonestly in return for money or personal gain: unscrupulous logging companies assisted by corrupt officials. 
+• evil or morally depraved: the play can do no harm since its audience is already corrupt. 
+• archaic (of organic or inorganic matter) in a state of decay; rotten or putrid: a corrupt and rotting corpse.
+2 (of a text or a computer database or program) made unreliable by errors or alterations. 
+▶verb [with object]
+1 cause to act dishonestly in return for money or personal gain: there is a continuing fear of firms corrupting politicians in the search for contracts. 
+• cause to become morally depraved: he has corrupted the boy. 
+• archaic infect; contaminate: (as adjective corrupting) : the corrupting smell of death.
+2 change or debase by making errors or unintentional alterations: Epicurus's teachings have since been much corrupted. 
+• cause errors to appear in (a computer program or database): a program that has somehow corrupted your system files. DERIVATIVES corrupter 
+kəˈrəptər 
+noun. corruptibility 
+kəˌrəptəˈbilədē 
+noun. corruptible 
+kəˈrəptəb(ə)l 
+adjective. corruptive 
+kəˈrəptiv 
+adjective. corruptly adverbORIGIN Middle English: from Latin corruptus, past participle of corrumpere ‘mar, bribe, destroy,’ from cor- ‘altogether’ + rumpere ‘to break.’

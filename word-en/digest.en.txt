@@ -1,3 +1,16 @@
 digest 
-▶verb Liz digested this information: assimilate, absorb, take in, understand, comprehend, grasp; consider, think about, reflect on, ponder, contemplate, mull over.
-▶noun a digest of their findings: summary, synopsis, abstract, précis, résumé, summation; compilation; informal wrap-up.
+▶verb 
+dəˈjest dīˈjest 
+[with object] break down (food) in the alimentary canal into substances that can be absorbed and used by the body. 
+• understand or assimilate (new information or the significance of something) by a period of reflection. 
+• arrange (something) in a systematic or convenient order, especially by reduction: the computer digested your labors into a form understandable by a program. 
+• Chemistry treat (a substance) with heat, enzymes, or a solvent in order to decompose it or extract essential components. 
+▶noun 
+ˈdīˌjest 
+
+1 a compilation or summary of material or information: a digest of their findings. 
+• a periodical consisting of condensed versions of pieces of writing or news published elsewhere. 
+• a methodical summary of a body of laws. 
+• (the Digest) the compendium of Roman law compiled in the reign of Justinian.
+2 Chemistry a substance or mixture obtained by digestion: a digest of cloned DN
+A.  ORIGIN late Middle English: from Latin digest- ‘distributed, dissolved, digested,’ from the verb digerere, from di- ‘apart’ + gerere ‘carry’; the noun from Latin digesta ‘matters methodically arranged,’ from digestus ‘divided,’ from digerere .

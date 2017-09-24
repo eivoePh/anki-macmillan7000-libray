@@ -6,8 +6,13 @@ noun
 ③ (dependent country) 卫星国 wèixīngguó a satellite state 卫星国 wèixīngguó 
 ④ (community) 卫星城 wèixīngchéng a satellite town 卫星城 wèixīngchéng 
 satellite 
+ˈsadlˌīt
+
 ▶noun
-1 the satellite orbited the earth: space station, space capsule, spacecraft; communications satellite, weather satellite.
-2 the two small satellites of Mars: moon, secondary planet.
-3 a former satellite of the Soviet Union: branch, colony, protectorate, puppet state, possession, holding; historical fief, vassal; informal offshoot.
-▶adjective a satellite state: dependent, subordinate, subsidiary.
+1 (also artificial satellite) an artificial body placed in orbit around the earth or moon or another planet in order to collect information or for communication. 
+• [as modifier] transmitted by satellite; using or relating to satellite technology: satellite broadcasting. 
+• satellite television: a news service on satellite.
+2 Astronomy a celestial body orbiting the earth or another planet.
+3 [usually as modifier] something that is separated from or on the periphery of something else but is nevertheless dependent on or controlled by it: satellite offices in London and New York. 
+• a small country or state politically or economically dependent on another.
+4 Biology a portion of the DNA of a genome with repeating base sequences and of different density from the main sequence. ORIGIN mid 16th century (in the sense ‘follower, obsequious underling’): from French satellite or Latin satelles, satellit- ‘attendant.’

@@ -12,14 +12,26 @@ A.  transitive verb[tick something off], [tick off something] (put mark against)
 B.  [tick somebody off, tick off somebody] transitive verb 
 ① BrE colloquial (reprimand) 斥责 chìzé 
 ② AmE colloquial (annoy) 使恼火 shǐ nǎohuǒ he was a little ticked off about the news 他听到那个消息有点生气 tick over intransitive verb BrE «engine, machine, vehicle» 空转 kōngzhuàn ; figurative 缓慢进行 huǎnmàn jìnxíng they are keeping things ticking over until the boss returns 在老板回来以前，他们做事都是慢慢吞吞的 
-tick 
+tick
+1 
+tik
+
 ▶noun
-1 the tick of his watch: ticking, tick-tock, click, clicking, tap, tapping.
-2 put a tick against the item of your choice: check mark, check, stroke, mark.
+1 a regular short, sharp sound, especially that made by a clock or watch. 
+• British informal a moment (used especially to reassure someone that one will return or be ready very soon): I'll be with you in a tick.
+2 chiefly British a check mark.
+3 Stock Market the smallest recognized amount by which a price of a security or future may fluctuate. 
 ▶verb
-1 the clock ticks: click, tock, tick-tock, tap.
-2 time is ticking away : pass, elapse, go, continue, advance, wear on, roll on, fly, run out, vanish.
+1 [no object] (of a clock or other mechanical device) make regular short sharp sounds, typically one for every second of time that passes: I could hear the clock ticking. 
+• (tick away/by/past) (of time) pass (used especially when someone is pressed for time or keenly awaiting an event): the minutes were ticking away till the actor's appearance. 
+• [with object] (tick something away) (of a clock or watch) mark the passing of time with regular short sharp sounds: the little clock ticked the precious minutes away. 
+• proceed or progress: her book was ticking along nicely.
+2 [with object] chiefly British mark (an item) with a tick or select (a box) on a form, questionnaire, etc., to indicate that something has been chosen, checked, approved, or dealt with: just tick the appropriate box below. 
 PHRASES
-tick off
-1 that really ticked me off: annoy, irritate, rile, rattle, anger, antagonize, make someone mad, get on someone's nerves, get to, get someone's back up.
-2 tick off a list: check off; count off, cross off.
+what makes someone tick informal what motivates someone: people are curious to know what makes these men tick.PHRASAL VERBS tick someone off
+1 North American informal make someone annoyed or angry.
+2 British informal reprimand or rebuke someone: he was ticked off by Angela 
+(as noun ticking off) : he got a ticking off from the boss. tick something off chiefly British
+1 mark an item in a list with a tick to show that it has been dealt with: I ticked several items off my “to do” list.
+2 list items one by one in one's mind or during a speech: he ticked the points off on his fingers. tick over (of an engine) idle. 
+• work or function at a basic or minimum level: they are keeping things ticking over until their father returns.ORIGIN Middle English (as a verb in the sense ‘pat, touch’): probably of Germanic origin and related to Dutch tik (noun), tikken (verb) ‘pat, touch.’ The noun was recorded in late Middle English as ‘a light tap’; current senses date from the late 17th century.

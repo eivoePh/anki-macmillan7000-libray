@@ -1,6 +1,9 @@
 event 
-▶noun
-1 an annual event: occurrence, happening, proceeding, incident, affair, circumstance, occasion, phenomenon; function, gathering; informal bash.
-2 the team lost the event: competition, contest, tournament, round, heat, match, fixture; race, game, bout.
+əˈvent
+
+▶noun a thing that happens, especially one of importance: one of the main political events of the late 20th century. 
+• a planned public or social occasion: events to raise money for charity. 
+• each of several particular contests making up a sports competition: a star sprinter in the 100- and 200-meter events. 
+• Physics a single occurrence of a process, e.g., the ionization of one atom. 
 PHRASES
-in any event we may not join you for dinner, but in any event we'll see you at the theater: regardless, whatever happens, come what may, no matter what, at any rate, in any case, anyhow, anyway, even so, still, nevertheless, nonetheless; informal anyways, anyhoo. in the event in the event, they squabbled and the plan fell through: as it turned out, as it happened, in the end; as a result, as a consequence.
+in any event (or at all events) whatever happens or may have happened: in any event, there was one promise the trickster did keep. in the event chiefly British as it turns (or turned) out: he was sent on this important and, in the event, quite fruitless mission. in the event of —— if —— happens: this will reduce the chance of serious injury in the event of an accident. in the event that if; should it happen that: in the event that an attack is launched, the defenders will have been significantly weakened by air attacks. in that event if that happens: in that event, the US would incline toward a lifting of the arms embargo.DERIVATIVES eventless adjective. eventlessness nounORIGIN late 16th century: from Latin eventus, from evenire ‘result, happen,’ from e- (variant of ex-)‘out of’ + venire ‘come.’

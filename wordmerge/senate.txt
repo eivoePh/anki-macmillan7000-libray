@@ -5,8 +5,9 @@ BrE ˈsɛnɪt, AmE ˈsɛnət
 ② University 理事会 lǐshìhuì 
 ③ History (council) [古罗马的] 元老院 yuánlǎoyuàn (building) 元老院大楼 yuánlǎoyuàn dàlóu the Roman senate 罗马元老院 
 senate 
-BrE ˈsɛnɪt, AmE ˈsɛnət 
-→ the Senate noun 
-① Senate Politics 参议院 cānyìyuàn 
-② University 理事会 lǐshìhuì 
-③ History (council) [古罗马的] 元老院 yuánlǎoyuàn (building) 元老院大楼 yuánlǎoyuàn dàlóu the Roman senate 罗马元老院 
+ˈsenət
+
+▶noun any of various legislative or governing bodies, in particular: 
+• the smaller upper assembly in the US Congress, most US states, France, and other countries. 
+• the state council of the ancient Roman republic and empire, which shared legislative power with the popular assemblies, administration with the magistrates, and judicial power with the knights. 
+• the governing body of a university or college. ORIGIN Middle English: from Old French senat, from Latin senatus, from senex ‘old man.’

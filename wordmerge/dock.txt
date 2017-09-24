@@ -15,5 +15,16 @@ C.  intransitive verb
 ② Aerospace 对接 duìjiē to dock with [something]; 与某航天器对接 
 dock
 1 
-▶noun his boat was moored at the dock: harbor, marina, port, anchorage, harborside; wharf, quay, pier, jetty, landing stage.
-▶verb the ship docked: moor, berth, put in, tie up, anchor.
+däk
+
+▶noun
+1 North American a structure extending alongshore or out from the shore into a body of water, to which boats may be moored: the gangplank was lowered to the dock. 
+• an enclosed area of water in a port for the loading, unloading, and repair of ships. 
+• (docks) a group of enclosed areas of water along with the wharves and buildings near them. 
+• short for dry dock. 
+• (also loading dock) a platform for loading or unloading trucks or freight trains.
+2 a device in which a laptop computer, smartphone, or other mobile device may be placed for charging, providing access to a power supply and to peripheral devices or auxiliary features; a docking station. 
+▶verb [no object] (of a ship) tie up at a dock, especially in order to load or unload passengers or cargo: the ship docked at San Francisco. 
+• [with object] bring (a ship or boat) into a dock: the riverbank where the fur traders docked their boats. 
+• (of a spacecraft) join with a space station or another spacecraft in space. 
+• attach (a piece of equipment) to another: the user wants to dock a portable into a desktop computer. ORIGIN late Middle English: from Middle Dutch, Middle Low German docke, of unknown origin.

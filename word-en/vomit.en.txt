@@ -1,5 +1,9 @@
 vomit 
-▶verb
-1 he needed to vomit: be sick, spew, heave, retch, gag, get sick; informal throw up, puke, purge, hurl, barf, upchuck, ralph.
-2 I vomited my breakfast: regurgitate, bring up, spew up, cough up, lose; informal throw up, puke, spit up.
-▶noun a coat stained with vomit: vomitus; informal puke, spew, barf.
+ˈvämət
+
+▶verb (vomits, vomiting, vomited) [no object] eject matter from the stomach through the mouth: the sickly stench made him want to vomit 
+[with object] : she used to vomit up her food. 
+• [with object] emit (something) in an uncontrolled stream or flow: the machine vomited fold after fold of paper. 
+▶noun
+1 matter vomited from the stomach.
+2 archaic an emetic. DERIVATIVES vomiter nounORIGIN late Middle English: from Old French vomite (noun) or Latin vomitus, from vomere ‘to vomit.’

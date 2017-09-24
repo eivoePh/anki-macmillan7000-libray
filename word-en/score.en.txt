@@ -1,16 +1,38 @@
 score 
+skôr
+
 ▶noun
-1 the final score was 4–3: result, outcome; total, sum total, tally, count.
-2 an IQ score of 161: rating, grade, mark, percentage.
-3 I've got a score to settle with you: grievance, grudge, complaint; dispute, bone of contention; (score to settle) bone to pick, ax to grind.
-4 informal he knew the score before he got here: the situation, the position, the facts, the truth of the matter, the (true) state of affairs, the picture, how things stand, the lay of the land; informal what's what, what the deal is/was.
-5 (scores) scores of complaints: a great many, a lot, a great/good deal, large quantities, plenty; informal lots, a bunch, umpteen, a slew, loads, masses, stacks, scads, heaps, piles, bags, tons, oodles, dozens, hundreds, thousands, millions, billions, gazillions, bajillions of.
-▶verb
-1 Lou's already scored
-13 goals this season: net, bag, rack up, chalk up, tally, notch, record; get, gain, achieve, make.
-2 informal his new movie really scored: be successful, be a success, triumph, make an impression, go down well; informal be a hit, be a winner, be a sellout.
-3 the piece was scored for flute and violin: orchestrate, arrange, set, adapt; write, compose.
-4 score the wood in crisscross patterns: scratch, cut, notch, incise, scrape, nick, chip, gouge; mark.
-5 informal he was hoping to score on his date tonight: get lucky, have sex, go all the way, do it.
+1 the number of points, goals, runs, etc., achieved in a game by a team or an individual: the final score was 25–16 in favor of Washington. 
+• informal an act of gaining a point, goal, or run in a game. 
+• a rating or grade, such as a mark achieved in a test: an IQ score of 161. 
+• (the score) informal the state of affairs; the real facts about the present situation: “Hey, what's the score here, what's goin' on?” 
+• informal an act of buying illegal drugs. 
+• informal the proceeds of a crime.
+2 (plural same) a group or set of twenty or about twenty: a score of men lost their lives in the battle 
+Doyle's success brought imitators by the score. 
+• (scores of) a large amount or number of something: he sent scores of enthusiastic letters to friends.
+3 a written representation of a musical composition showing all the vocal and instrumental parts arranged one below the other. 
+• the music composed for a movie or play.
+4 a notch or line cut or scratched into a surface. 
+• historical a running account kept by marks against a customer's name, typically in a tavern. 
+▶verb [with object]
+1 gain (a point, goal, run, etc.) in a competitive game: Penn State scored two touchdowns in the fourth quarter 
+[no object] : Martinez scored on Anderson's sacrifice fly. 
+• decide on the score to be awarded to (a competitor): the judge must score each dog against this standard. 
+• gain (a number of points) for a competitor; be worth: each correct answer scores ten points. 
+• decide on the scores to be awarded in (a game or competition): the three judges each scored the bout 100–86 for the Panamanian. 
+• [no object] record the score during a game; act as scorer. 
+• Baseball cause (a teammate) to score: McNab singled, scoring Reynolds and Diaz. 
+• informal secure (a success or an advantage): the band scored a hit single. 
+• [no object] informal be successful: [with complement] : his new movie scored big. 
+• informal buy or acquire (something, typically illegal drugs): Sally had scored some acid. 
+• [no object] informal succeed in attracting a sexual partner, typically for a casual encounter.
+2 orchestrate or arrange (a piece of music), typically for a specified instrument or instruments: the Quartet Suite was scored for flute, violin, viola da gamba, and continuo. 
+• compose the music for (a movie or play).
+3 cut or scratch a notch or line on (a surface): score the card until you cut through. 
+• historical record (a total owed) by making marks against a customer's name: a slate on which the old man scored up vast accounts. 
+• Medicine & Biology examine (experimentally treated cells, bacterial colonies, etc.), making a record of the number showing a particular character. 
 PHRASES
-score points off he's obsessed with scoring points off everyone, even his best friends: get the better of, gain the advantage over, outdo, best, have the edge over; have the last laugh on, make a fool of, humiliate; informal get/be one up on, get one over on.
+keep (the) score register the score of a game as it proceeds. know the score informal be aware of the essential facts about a situation. on that (or this) score so far as that (or this) is concerned: my priority was to blend new faces into the team, and we have succeeded on that score. score points outdo another person, especially in an argument. settle a (or the) score
+1 take revenge on someone for a past act.
+2 dated pay off a debt or other obligation.ORIGIN late Old English scoru ‘set of twenty,’ from Old Norse skor ‘notch, tally, twenty,’ of Germanic origin; related to shear. The verb (late Middle English) is from Old Norse skora ‘make an incision.’

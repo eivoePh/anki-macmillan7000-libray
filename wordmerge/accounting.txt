@@ -1,15 +1,7 @@
 accounting 
 BrE əˈkaʊntɪŋ, AmE əˈkaʊn(t)ɪŋ 
 nounUncountable(process, work) 会计 kuàijì ; (studies) 会计学 kuàijìxué 
-account 
-▶noun
-1 an account of the extraordinary events: description, report, version, story, narration, narrative, statement, explanation, exposition, delineation, portrayal, tale; chronicle, history, record, log; view, impression.
-2 the firm's quarterly accounts: financial record, ledger, balance sheet, financial statement; (accounts) books.
-3 I pay the account off in full each month: bill, invoice, tally; debt, charges; informal tab.
-4 his background is of no account: importance, import, significance, consequence, substance, note; formal moment.
-5 efforts to keep our most important accounts happy: client, customer.
-▶verb her visit could not be accounted a success: consider, regard as, reckon, hold to be, think, look on as, view as, see as, judge, adjudge, count, deem, rate.
-PHRASES
-account for
-1 they must account for the delay: explain, answer for, give reasons for, rationalize, justify.
-2 taxes account for much of the price of gasoline: constitute, make up, form, compose, represent. on account of I was invited on account of my friendship with her parents: because of, owing to, due to, as a consequence of, thanks to, by/in virtue of, in view of. on no account on no account sign a document without reading it: never, under no circumstances, not for any reason.
+accounting 
+əˈkoun(t)iNG
+
+▶noun the action or process of keeping financial accounts.

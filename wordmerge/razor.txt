@@ -2,5 +2,7 @@ razor
 BrE ˈreɪzə, AmE ˈreɪzər 
 noun 剃须刀 tìxūdāo an electric razor 电动剃须刀 
 razor 
-BrE ˈreɪzə, AmE ˈreɪzər 
-noun 剃须刀 tìxūdāo an electric razor 电动剃须刀 
+ˈrāzər
+
+▶noun an instrument with a sharp blade or combination of blades, used to remove unwanted hair from the face or body. 
+▶verb [with object] cut with a razor. ORIGIN Middle English: from Old French rasor, from raser ‘shave closely’ (see raze) .

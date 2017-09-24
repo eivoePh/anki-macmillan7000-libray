@@ -1,9 +1,28 @@
 try 
-▶verb
-1 try to help him: attempt, endeavor, venture, make an effort, exert oneself, strive, do one's best, do one's utmost, move heaven and earth; undertake, aim, take it upon oneself; informal have a go, give it one's best shot, bend over backwards, bust a gut, do one's damnedest, pull out all the stops, go all out, knock oneself out; formal essay.
-2 try it and see what you think: test, put to the test, sample, taste, inspect, investigate, examine, appraise, evaluate, assess; informal check out, give something a whirl, test drive.
-3 Mary tried everyone's patience: tax, strain, test, stretch, sap, drain, exhaust, wear out.
-4 the case is to be tried by a jury: adjudicate, consider, hear, adjudge, examine.
-▶noun I'll have one last try: attempt, effort, endeavor; informal go, shot, crack, stab; formal essay.
+trī
+
+▶verb (tries, trying, tried)
+1 [no object] make an attempt or effort to do something: [with infinitive] : he tried to regain his breath 
+I started to try and untangle the mystery 
+I decided to try writing fiction 
+none of them tried very hard 
+[with object] : three times he tried the maneuver and three times he failed. 
+• (try for) attempt to achieve or attain: they decided to try for another baby. 
+• [with object] use, test, or do (something new or different) in order to see if it is suitable, effective, or pleasant: everyone wanted to know if I'd tried jellied eel 
+these methods are tried and tested. 
+• (try out for) North American compete or audition in order to join (a team) or be given (a position): she tried out for the team. 
+• [with object] go to (a place) or attempt to contact (someone), typically in order to obtain something: I've tried the apartment, but the number is busy. 
+• [with object] push or pull (a door or window) to determine whether it is locked: I tried the doors, but they were locked. 
+• [with object] make severe demands on (a person or a quality, typically patience): Mary tried everyone's patience to the limit.
+2 [with object] (usually be tried) subject (someone) to trial: he was arrested and tried for the murder. 
+• investigate and decide (a case or issue) in a formal trial: such cases must be tried by a jury.
+3 [with object] chiefly British smooth (roughly planed wood) with a plane to give an accurately flat surface.
+4 [with object] extract (oil or fat) by heating: some of the fat may be tried out and used. 
+▶noun (plural tries)
+1 an effort to accomplish something; an attempt: Mitterrand was elected president on his third try. 
+• an act of doing, using, or testing something new or different to see if it is suitable, effective, or pleasant: they should give the idea a try.
+2 Rugby an act of touching the ball down behind the opposing goal line, scoring points and entitling the scoring side to a goal kick. 
 PHRASES
-try something out they volunteered to try out the new system: test, trial, experiment with, pilot; put through its paces; assess, evaluate.
+I (or he, etc.) will try anything once used to indicate willingness to do or experience something new. try something on for size assess whether something is suitable: he was trying on the role for size. try one's hand at attempt to do (something) for the first time, typically in order to find out if one is good at it: a chance to try your hand at the ancient art of drystone walling. try it on British informal attempt to deceive or seduce someone: he was trying it on with my wife. 
+• deliberately test someone's patience to see how much one can get away with. try one's luck see luck. try me used to suggest that one may be willing to do something unexpected or unlikely: “You won't use a gun up here.” “Try me.”PHRASAL VERBS try something on put on an item of clothing to see if it fits or suits one. try someone/something out test someone or something new or different to assess their suitability or effectiveness: I try out new recipes on my daughter.ORIGIN Middle English: from Old French trier ‘sift,’ of unknown origin. Sense
+1 of the noun dates from the early 17th century. usage: In practice, there is little discernible difference in meaning between try to plus infinitive ( we should try to help them) and try and plus infinitive ( we should try and help them), but there is a difference in formality, with try to being regarded as more formal than try and. Beyond the issue of formality, the construction try and is grammatically odd, in that it cannot be inflected for tense—that is, sentences like she tried and fix it or they are trying and renew their visa are not acceptable, while their equivalents she tried to fix it or they are trying to renew their visa obviously are. For this reason, try and is best regarded as a fixed idiom used only in its infinitive and imperative form. See also usage at and .

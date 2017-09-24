@@ -114,14 +114,66 @@ C.  intransitive verb
 ① (stop) «person» 停车 tíngchē ; «vehicle» 停下 tíngxia to pull up at the traffic lights 在交通灯前停车 
 ② (regain lost ground) «athlete, pupil» 追上 zhuīshang 
 pull 
-▶verb
-1 he pulled the box toward him: tug, haul, drag, draw, tow, heave, lug, jerk, wrench; informal yank. ANTONYMS push.
-2 he pulled the bad tooth out: extract, take out, remove.
-3 she pulled a muscle: strain, sprain, wrench, turn, tear; damage.
-4 race day pulled big crowds: attract, draw, bring in, pull in, lure, seduce, entice, tempt, beckon, interest, fascinate. ANTONYMS repel.
+po͝ol
+
+▶verb [with object]
+1 [usually with adverbial] exert force on (someone or something), typically by taking hold of them, in order to move or try to move them toward oneself or the origin of the force: he pulled them down onto the couch 
+[with object and complement] : I pulled the door shut behind me 
+[no object] : the little boy pulled at her skirt. 
+• (of an animal or vehicle) be attached to the front and be the source of forward movement of (a vehicle): the carriage was pulled by four horses. 
+• take hold of and exert force on (something) so as to move it from a specified position or in a specified direction: she pulled a handkerchief out of her pocket 
+he pulled on his boots 
+I pulled up some onions. 
+• informal bring out (a weapon) to attack or threaten someone: it's not every day a young woman pulls a gun on a burglar. 
+• [no object] (pull at/on) inhale deeply while smoking (a pipe or cigar). 
+• damage (a muscle, ligament, etc.) by abnormal strain. 
+• print (a proof). 
+• Computing retrieve (an item of data) from the top of a stack.
+2 [no object] (of a vehicle or person) move steadily in a specified direction or to reach a specified point: the bus was about to pull away 
+the boy pulled ahead and disappeared around the corner. 
+• [with adverbial of direction] (pull oneself) move in a specified direction with effort, especially by taking hold of something and exerting force: he pulled himself into the saddle. 
+• move one's body in a specified direction, especially against resistance: she tried to pull away from him. 
+• (of an engine) exert propulsive force; deliver power: the engine warmed up quickly and pulled well. 
+• work oars to cause a boat to move: he pulled at the oars and the boat moved swiftly through the water 
+she looked at the waves and pulled hard with her oars.
+3 cause (someone) to patronize, buy, or show interest in something; attract: tourist attractions that pull in millions of foreign visitors. 
+• informal carry out or achieve (something requiring skill, luck, or planning): the magazine pulled its trick of producing the right issue at the right time.
+4 informal cancel or withdraw (an entertainment or advertisement): the gig was pulled at the first sign of difficulty. 
+• North American withdraw (a player) from a game: four of the leading eight runners were pulled. 
+• check the speed of (a horse), especially so as to make it lose a race.
+5 chiefly Baseball & Golf strike (a ball) in the direction of one's follow-through so that it travels to the left or, with a left-handed player, to the right: he pulled the ball every time he hit a grounder.
+6 [no object] American Football (of a lineman) withdraw from position and cross parallel to and behind the line of scrimmage to block opposing players for a runner. 
 ▶noun
-1 give the chain a pull: tug, jerk, heave; informal yank.
-2 she felt the pull of the sea: attraction, draw, lure, allurement, enticement, magnetism, temptation, fascination, appeal.
-3 he has a lot of pull in finance: influence, sway, power, authority, say, prestige, standing, weight, leverage, muscle, teeth, clout.
+1 an act of taking hold of something and exerting force to draw it toward one: give the hair a quick pull, and it comes out by the roots. 
+• a handle to hold while pulling: the Cowboy Collection offers hand-forged iron drawer pulls. 
+• a deep draft of a drink: he unscrewed the cap from the flask and took another pull. 
+• an act of sucking at a cigar or pipe: he took a pull on his cheroot. 
+• an injury to a muscle or ligament caused by abnormal strain: he was taken out of the game with a hamstring pull. 
+• a printer's proof.
+2 [in singular] a force drawing someone or something in a particular direction or course of action: the pull of the water tore her away 
+the pull of her hometown was a strong one. 
+• something exerting an influence or attraction: one of the pulls of urban life is the opportunity of finding work. 
+• the condition of being able to exercise influence: they were hamstrung without the political pull of the mayor's office. 
 PHRASES
-pull apart they pulled apart the suitcase looking for hidden drugs: dismantle, disassemble, take/pull to pieces, take/pull to bits, take apart, strip down; demolish, destroy, break up. pull back the troops were ordered to pull back: withdraw, retreat, fall back, back off; pull out, retire, disengage; flee, turn tail. pull in pull in here, next to the Camaro: stop, halt, come to a halt, pull over, pull up, draw up, brake, park. pull someone's leg are we really getting a snowstorm, or are you pulling my leg? tease, fool, play a trick on, rag, pull the wool over someone's eyes; informal kid, rib, take for a ride, have on. pull off they pulled off a daring crime: achieve, fulfill, succeed in, accomplish, bring off, carry off, perform, discharge, complete, clinch, fix, effect, engineer. pull out our forces have begun to pull out: withdraw, resign, leave, retire, step down, bow out, back out, give up; informal quit. pull through we're all praying that Steve will pull through: get better, get well again, improve, recover, rally, come through, recuperate. pull oneself together it's just a movie, pull yourself together: regain one's composure, recover, get a grip on oneself, get over it; informal snap out of it, get one's act together, buck up. pull over See pull in. 
+like pulling teeth informal extremely difficult to do: it had been like pulling teeth to extract these two small items from Moore. pull a face (or faces) see face. pull a fast one see fast1. pull someone's leg deceive someone playfully; tease someone. pull out all the stops see stop. pull the plug
+1 informal prevent something from happening or continuing: the company pulled the plug on the deal because it was not satisfied with the terms.
+2 informal remove (a patient) from life support: we'll be talking to people who pulled the plug on their mothers. pull (one's) punches [usually with negative] be less forceful, severe, or violent than one could be: a sharp-tongued critic who doesn't pull his punches. pull rank see rank1. pull one's socks up see sock. pull strings make use of one's influence and contacts to gain an advantage unofficially or unfairly. pull the strings be in control of events or of other people's actions. pull together cooperate in a task or undertaking. pull oneself together recover control of one's emotions. pull one's weight do one's fair share of work. pull wires US make use of one's influence and contacts to gain an advantage unofficially or unfairly. pull the wool over someone's eyes see wool. PHRASAL VERBS pull back (or pull someone/something back) retreat or cause troops to retreat from an area: the pact called on the rival forces to pull back and allow a neutral force to take control. 
+• (pull back) withdraw from an undertaking: the party pulled back from its only positive policy.pull something down
+1 demolish a building.
+2 informal earn a sum of money: he was pulling down sixty grand. pull in
+1 (of a vehicle or its driver) move to the side of or off the road: he pulled in at the curb.
+2 (of a bus or train) arrive to take passengers. pull someone/something in
+1 succeed in securing or obtaining something: the Reform Party pulled in 10% of the vote. 
+• informal earn a sum of money: you could pull in $100,000.
+2 informal arrest someone: I'd pull him in for questioning.
+3 use reins to check a horse. pull something off informal succeed in achieving or winning something difficult: he pulled off a brilliant first round win. pull out
+1 withdraw from an undertaking: he was forced to pull out of the championship because of an injury. 
+• retreat or cause to retreat from an area: the army pulled out, leaving the city in ruins 
+(pull someone out) : the CIA had pulled its operatives out of Tripoli.
+2 (of a bus or train) leave with its passengers.
+3 (of a vehicle or its driver) move out from the side of the road, or from its normal position in order to pass: as he turned the corner, a police car pulled out in front of him. pull over (of a vehicle or its driver) move to the side of or off the road. pull someone over cause a driver to move to the side of the road to be charged for a traffic offense: he was pulled over for speeding. pull through (or pull someone/something through) get through or enable someone or something to get through an illness or other dangerous or difficult situation: the illness is difficult to overcome, but we hope she'll pull through.pull up
+1 (of a vehicle or its driver) come to a halt: he pulled up outside the cabin.
+2 increase the altitude of an aircraft. pull someone up cause someone to stop or pause; check someone: the shock of his words pulled her up short. 
+• reprimand someone.DERIVATIVES puller 
+ˈpo͝olər 
+nounORIGIN Old English pullian ‘pluck, snatch’; origin uncertain; the sense has developed from expressing a short sharp action to one of sustained force.

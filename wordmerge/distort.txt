@@ -7,9 +7,10 @@ A.  transitive verb
 ③ Electronics 使…畸变 shǐ… jībiàn ‹electrical signal, sound wave›
 B.  intransitive verb «face» 扭曲 niǔqū ; «voice» 失真 shīzhēn ; «metal» 变形 biànxíng 
 distort 
-BrE dɪˈstɔːt, AmE dəˈstɔrt 
-A. transitive verb 
-① (physically) 使…扭曲 shǐ… niǔqū ‹face›; 使…失真 shǐ… shīzhēn ‹voice›; 使…变形 shǐ… biànxíng ‹metal›
-② (misrepresent or skew) 歪曲 wāiqū ‹truth, fact, history›; 曲解 qūjiě ‹meaning, words, text›; 篡改 cuàngǎi ‹result, figures, statistics›
-③ Electronics 使…畸变 shǐ… jībiàn ‹electrical signal, sound wave›
-B.  intransitive verb «face» 扭曲 niǔqū ; «voice» 失真 shīzhēn ; «metal» 变形 biànxíng 
+dəˈstôrt
+
+▶verb [with object]
+1 pull or twist out of shape: a grimace distorted her fine mouth. 
+• [no object] become twisted out of shape: the pipe will distort as you bend it.
+2 give a misleading or false account or impression of: many factors can distort the results.
+3 change the form of (an electrical signal or sound wave) during transmission, amplification, or other processing: you're distorting the sound by overdriving the amp. ORIGIN late 15th century (in the sense ‘twist to one side’): from Latin distort- ‘twisted apart,’ from the verb distorquere, from dis- ‘apart’ + torquere ‘to twist.’

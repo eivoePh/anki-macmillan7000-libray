@@ -7,6 +7,14 @@ A.  noun
 ③ (cost) 运费 yùnfèi who pays the freight? 谁付运费？ 
 B.  transitive verb 以货运运输 yǐ huòyùn yùnshū ‹goods›the bricks had been freighted to the building site 砖头运到了建筑工地 
 freight 
+frāt
+
 ▶noun
-1 freight carried by rail: goods, cargo, load, consignment, delivery, shipment; merchandise.
-2 our reliance on air freight: transportation, transport, conveyance, carriage, portage, haulage.
+1 goods transported by truck, train, ship, or aircraft. 
+• the transport of goods by truck, train, ship, or aircraft. 
+• a charge for transport by freight.
+2 (in full freight train) a train of freight cars: sugar and molasses moving by freight.
+3 a load or burden. 
+▶verb [with object] transport (goods) in bulk by truck, train, ship, or aircraft: the metals had been freighted from the city 
+[no object] : ships freighting to Dublin. 
+• (be freighted with) be laden or imbued with (something abstract): each word was freighted with anger. ORIGIN late Middle English (in the sense ‘rental of a ship for transporting goods’): from Middle Dutch, Middle Low German vrecht, variant of vracht ‘ship's cargo.’ Compare with fraught .

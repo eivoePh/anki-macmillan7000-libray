@@ -15,11 +15,22 @@ B.  transitive verb
 ② (detect) «sensor, system» 检测出 jiǎncè chū ‹movement, heat›
 ③ Computing (locate) 探出 tànchū ‹position›(read) 读取 dúqǔ ‹data›
 sense 
+sens
+
 ▶noun
-1 the sense of touch: sensory faculty, feeling, sensation, perception; sight, hearing, touch, taste, smell.
-2 a sense of guilt: feeling, awareness, sensation, consciousness, recognition.
-3 a sense of humor: appreciation, awareness, understanding, comprehension, discernment; informal nose.
-4 she had the sense to press the panic button: wisdom, common sense, sagacity, discernment, perception; wit, intelligence, cleverness, shrewdness, judgment, reason, logic, brain(s); informal gumption, horse sense, savvy, (street) smarts. ANTONYMS stupidity.
-5 I can't see the sense in this: purpose, point, reason, object, motive; use, value, advantage, benefit.
-6 the different senses of “well”: meaning, definition, import, signification, significance, purport, implication, nuance; drift, gist, thrust, tenor, message.
-▶verb she sensed their hostility: discern, feel, observe, notice, recognize, pick up (on), be aware of, distinguish, make out, identify; comprehend, apprehend, see, appreciate, realize; suspect, have a funny feeling about, have a hunch about, divine, intuit; informal catch on to.
+1 a faculty by which the body perceives an external stimulus; one of the faculties of sight, smell, hearing, taste, and touch: the bear has a keen sense of smell that enables it to hunt at dusk.
+2 a feeling that something is the case: she had the sense of being a political outsider. 
+• an awareness or feeling that one is in a specified state: you can improve your general health and sense of well-being. 
+• (sense of) a keen intuitive awareness of or sensitivity to the presence or importance of something: she had a fine sense of comic timing.
+3 a sane and realistic attitude to situations and problems: he earned respect by the good sense he showed at meetings. 
+• a reasonable or comprehensible rationale: I can't see the sense in leaving all the work to you.
+4 a way in which an expression or a situation can be interpreted; a meaning: it is not clear which sense of the word “characters” is intended in this passage.
+5 chiefly Mathematics & Physics a property, e.g., direction of motion, distinguishing a pair of objects, quantities, effects, etc., that differ only in that each is the reverse of the other. 
+• [as modifier] Genetics relating to or denoting a coding sequence of nucleotides, complementary to an antisense sequence. 
+▶verb [with object] perceive by a sense or senses: with the first frost, they could sense a change in the days. 
+• be aware of: she could sense her father's anger rising. 
+• [with clause] be aware that something is the case without being able to define exactly how one knows: he could sense that he wasn't liked. 
+• (of a machine or similar device) detect: an optical fiber senses a current flowing in a conductor. 
+PHRASES
+bring someone to their (or come to one's) senses restore someone to (or regain) consciousness. 
+• cause someone to (or start to) think and behave reasonably after a period of folly or irrationality. in a (or one) sense used to indicate a particular interpretation of a statement or situation: in a sense, behavior cannot develop independently of the environment. in one's senses fully aware and in control of one's thoughts and words; sane: would any man in his senses invent so absurd a story? make sense be intelligible, justifiable, or practicable. make sense of find meaning or coherence in: she must try to make sense of what was going on. out of one's senses in or into a state of insanity. take leave of one's senses (in hyperbolic use) go insane.ORIGIN late Middle English (as a noun in the sense ‘meaning’): from Latin sensus ‘faculty of feeling, thought, meaning,’ from sentire ‘feel.’ The verb dates from the mid 16th century.

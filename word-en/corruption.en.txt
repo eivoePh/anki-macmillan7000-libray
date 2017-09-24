@@ -1,5 +1,9 @@
 corruption 
+kəˈrəpSH(ə)n
+
 ▶noun
-1 political corruption: dishonesty, unscrupulousness, double-dealing, fraud, fraudulence, misconduct, crime, criminality, wrongdoing; bribery, venality, extortion, profiteering, payola; informal graft, grift, crookedness, sleaze. ANTONYMS honesty.
-2 his fall into corruption: immorality, depravity, vice, degeneracy, perversion, debauchery, dissoluteness, decadence, wickedness, evil, sin, sinfulness, ungodliness; formal turpitude. ANTONYMS morality, purity.
-3 these figures have been subject to corruption: alteration, bastardization, debasement, adulteration.
+1 dishonest or fraudulent conduct by those in power, typically involving bribery: the journalist who wants to expose corruption in high places. 
+• the action of making someone or something morally depraved or the state of being so: the word “addict” conjures up evil and corruption. 
+• archaic decay; putrefaction: the potato turned black and rotten with corruption.
+2 the process by which something, typically a word or expression, is changed from its original use or meaning to one that is regarded as erroneous or debased. 
+• the process of causing errors to appear in a computer program or database. ORIGIN Middle English: via Old French from Latin corruptio(n-), from corrumpere ‘mar, bribe, destroy’ (see corrupt) .

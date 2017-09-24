@@ -4,6 +4,11 @@ noun(plural diagnoses /ˌdaɪəɡˈnəʊsiːz/)
 ① Medicine (act of diagnosing) 诊断 zhěnduàn (result of diagnosing) 诊断结果 zhěnduàn jiéguǒ (branch of medicine) 诊断法 zhěnduànfǎ diagnosis of [something]; 对某疾病的诊断 diagnosis of [something]/[somebody] (as [something]); 某疾病/某人（为某状况）的诊断 to make a diagnosis (act) 做诊断 (result) 下诊断结论 a diagnosis that … …的诊断 
 ② (of a situation) 判断 pànduàn 
 diagnosis 
-▶noun
-1 the diagnosis of celiac disease: identification, detection, recognition, determination, discovery, pinpointing.
-2 the results confirmed his diagnosis: opinion, judgment, verdict, conclusion.
+ˌdīəɡˈnōsəs
+
+▶noun (plural diagnoses 
+-ˌsēz
+)
+1 the identification of the nature of an illness or other problem by examination of the symptoms: early diagnosis and treatment are essential 
+a diagnosis of Crohn's disease was made.
+2 the distinctive characterization in precise terms of a genus, species, or phenomenon. ORIGIN late 17th century: modern Latin, from Greek, from diagignōskein ‘distinguish, discern,’ from dia ‘apart’ + gignōskein ‘recognize, know.’

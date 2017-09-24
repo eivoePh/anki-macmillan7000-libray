@@ -1,9 +1,31 @@
 bounce 
-▶verb
-1 the ball bounced: rebound, spring back, ricochet, jounce, carom; reflect.
-2 William bounced down the stairs: bound, leap, jump, spring, bob, hop, skip, trip, prance.
+bouns
+
+▶verb [no object]
+1 (of an object, especially a ball) move quickly up, back, or away from a surface after hitting it; rebound (once or repeatedly): the ball bounced off the rim 
+the ball bounced away, and he chased it 
+[with object] : he was bouncing the ball against the wall. 
+• (of light, sound, or an electronic signal) come into contact with an object or surface and be reflected: short sound waves bounce off even small objects. 
+• (also bounce back) (of an email) be returned to its sender after failing to reach its destination: I tried to email him, but the message bounced. 
+• (bounce back) recover well after a setback: he was admired for his ability to bounce back from injury. 
+• Baseball hit a ball that bounces before reaching a fielder: bouncing out with the bases loaded 
+[with object] : bounced a grounder to third.
+2 (of a person) jump repeatedly up and down, typically on something springy: bouncing up and down on the mattress. 
+• (of a thing) move up and down while remaining essentially in the same position: the gangplank bounced under his confident step. 
+• [with object] cause (a child) to move lightly up and down on one's knee as a game: I remember how you used to bounce me on your knee. 
+• [with adverbial of direction] (of a vehicle) move jerkily along a bumpy surface: the car bounced down the narrow track. 
+• [with adverbial of direction] move in an energetic or happy manner: Linda bounced in through the open front door.
+3 informal (of a check) be returned by a bank when there are insufficient funds to meet it: my rent check bounced. 
+• [with object] informal write (a check) on insufficient funds: I've never bounced a check.
+4 [with object] informal eject (a troublemaker) forcibly from a nightclub or similar establishment. 
+• chiefly North American dismiss (someone) from a job: those who put in a dismal performance will be bounced from the tour. 
 ▶noun
-1 he caught the ball after a single bounce: rebound, reflection, ricochet.
-2 she had lost her bounce: vitality, vigor, energy, vivacity, liveliness, animation, sparkle, verve, spirit, enthusiasm, dynamism; cheerfulness, happiness, buoyancy, optimism; exuberance, ebullience; informal get-up-and-go, pep, zing.
+1 a rebound of a ball or other object: a bad bounce caused the ball to get away from the second baseman. 
+• the power of rebounding.
+2 an act of jumping or an instance of being moved up and down: every bounce of the truck brought them into fresh contact 
+a bounce on your knee or a cuddle and pat on the back. 
+• a sudden rise in the level of something: economists agree that there could be a bounce in prices next year. 
+• exuberant self-confidence: the bounce was now back in Jenny's step. 
+• health and body in the hair: use conditioner to help hair regain its bounce. 
 PHRASES
-bounce back despite our optimistic predictions, sales never bounced back: recover, revive, rally, pick up, be on the mend; perk up, cheer up, brighten up, liven up; informal buck up.
+bounce an idea off someone informal share an idea with another person in order to get feedback on it. be bouncing off the walls North American informal be full of nervous excitement or agitation.ORIGIN Middle English bunsen ‘beat, thump.’

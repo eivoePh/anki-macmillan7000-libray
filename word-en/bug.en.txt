@@ -1,10 +1,18 @@
 bug 
+bəɡ
+
 ▶noun
-1 bugs were crawling everywhere: insect, mite; informal creepy-crawly, beastie.
-2 informal a stomach bug: illness, ailment, disorder, infection, disease, sickness, complaint, upset, condition; bacterium, germ, virus.
-3 informal he caught the journalism bug: obsession, enthusiasm, craze, fad, mania, passion, fixation.
-4 the bug planted in his phone: listening device, hidden microphone, wire, wiretap, tap.
-5 a bug in the software: fault, error, defect, flaw; virus; informal glitch, gremlin.
-▶verb
-1 her conversations were bugged: record, eavesdrop on, spy on, overhear; wiretap, tap, monitor.
-2 informal she really bugs me. See annoy. 
+1 chiefly North American a small insect. 
+• informal a harmful microorganism, as a bacterium or virus. 
+• an illness caused by a harmful microorganism such as a bacterium or virus: suffering from a flu bug. 
+• [with modifier] informal an enthusiastic, almost obsessive, interest in something: they caught the sailing bug 
+Joe was bitten by the showbiz bug.
+2 (also true bug) Entomology an insect of a large order distinguished by having mouthparts that are modified for piercing and sucking. [Order Hemiptera: see Hemiptera .]
+3 a miniature microphone, typically concealed in a room or telephone, used for surveillance.
+4 an error in a computer program or system. 
+▶verb (bugs, bugging, bugged) [with object]
+1 conceal a miniature microphone in (a room or telephone) in order to monitor or record someone's conversations: the telephones in the presidential palace were bugged. 
+• record or monitor (a conversation) by concealing a microphone in a room or telephone.
+2 informal annoy or bother (someone): a persistent reporter was bugging me. PHRASAL VERBS bug off North American informal go away. bug out informal
+1 leave quickly: if you see enemy troops, bug out.
+2 North American informal bulge outward: he did a double take and his eyes bugged out.ORIGIN early 17th century: of unknown origin. Current verb senses date from the early 20th century.

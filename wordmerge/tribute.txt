@@ -5,8 +5,12 @@ noun
 ② Countable(credit) 体现 tǐxiàn to be a tribute to [somebody's] skill/generosity/determination 显示出某人的技艺/慷慨/决心 
 ③ UncountableHistory (payment to ruler) (in cash) 贡金 gòngjīn (in kind) 贡品 gòngpǐn to pay tribute to [somebody] 向某人进贡 to exact tribute from [somebody] 向某人索取贡品 
 tribute 
+ˈtribyo͞ot
+
 ▶noun
-1 tributes flooded in from friends and colleagues: accolade, praise, commendation, salute, testimonial, homage, eulogy, paean, panegyric; congratulations, compliments, plaudits, appreciation; gift, present, offering; bouquet; formal encomium. ANTONYMS criticism, condemnation.
-2 it is a tribute to his courage that he ever played again: testimony, indication, manifestation, testament, evidence, proof, attestation.
-PHRASES
-pay tribute to the players on both teams paid tribute to the retiring Ripken: praise, sing the praises of, speak highly of, commend, acclaim, tip one's hat to, applaud, salute, honor, show appreciation of, recognize, acknowledge, pay homage to, extol; formal laud.
+1 an act, statement, or gift that is intended to show gratitude, respect, or admiration: the video is a tribute to the musicals of the '40s 
+a symposium organized to pay tribute to Darwin. 
+• [in singular] something resulting from something else and indicating its worth: his victory in the championship was a tribute to his persistence. 
+• [as modifier] denoting or relating to a group or musician that performs the music of a more famous one and typically imitates them in appearance and style of performance: an Abba tribute band.
+2 historical payment made periodically by one state or ruler to another, especially as a sign of dependence: the king had at his disposal plunder and tribute amassed through warfare.
+3 historical a proportion of ore or its equivalent, paid to a miner for his work, or to the owner or lessor of a mine. ORIGIN late Middle English ( sense 2): from Latin tributum, neuter past participle (used as a noun) of tribuere ‘assign’ (originally ‘divide between tribes’), from tribus ‘tribe.’

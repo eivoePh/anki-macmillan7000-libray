@@ -2,6 +2,9 @@ deteriorate
 BrE dɪˈtɪərɪəreɪt, AmE dəˈtɪriəˌreɪt 
 intransitive verb «health, weather» 恶化 èhuà ; «mental powers» 退化 tuìhuà ; «fabric» 磨损 mósǔn ; «food» 变坏 biànhuài ; «work» 质量下降 zhìliàng xiàjiàng to deteriorate into [something] «discussion» 演变成 ‹argument›
 deteriorate 
-▶verb
-1 his health deteriorated: worsen, decline, degenerate; fail, slump, slip, go downhill, wane, ebb; informal go to pot. ANTONYMS improve.
-2 these materials deteriorate if stored wrongly: decay, degrade, degenerate, break down, decompose, rot, go off, spoil, perish; break up, disintegrate, crumble, fall apart; photodegrade.
+dəˈtirēəˌrāt
+
+▶verb [no object] become progressively worse: relations between the countries had deteriorated sharply 
+(as adjective deteriorating) : deteriorating economic conditions. DERIVATIVES deteriorative 
+-ˌrātiv 
+adjectiveORIGIN late 16th century (used transitively in the sense ‘make worse’): from late Latin deteriorat- ‘worsened,’ from the verb deteriorare, from Latin deterior ‘worse.’

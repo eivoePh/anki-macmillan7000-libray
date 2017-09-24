@@ -6,13 +6,20 @@ noun
 ③ Uncountable(physical freedom) 人身自由 rénshēn zìyóu to deprive [somebody] of his/her liberty 剥夺某人的人身自由 to be at liberty 不受监禁 to set [somebody] at liberty 释放某人 to be at liberty to do [something] 可以随意做某事 
 ④ Countable(presumptuous remark or action) 放肆 fàngsì to take the liberty of doing [something] 肆意做某事 to take liberties with [somebody] 对某人过分亲昵 to take liberties with [something] 任意改动 ‹text, script›it is a bit of a liberty to turn up uninvited 不请自来有些失礼 what a liberty! colloquial 胡闹！ 
 liberty 
-▶noun
-1 personal liberty: freedom, independence, free rein, license, self-determination, free will, latitude. ANTONYMS constraint, slavery.
-2 the fight for liberty: independence, freedom, autonomy, sovereignty, self-government, self-rule, self-determination; civil liberties, human rights. ANTONYMS tyranny.
-3 the liberty to go where you please: right, birthright, prerogative, entitlement, privilege, permission, sanction, authorization, authority, license, power. ANTONYMS constraint.
+ˈlibərdē
+
+▶noun (plural liberties)
+1 the state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views: compulsory retirement would interfere with individual liberty. 
+• (usually liberties) an instance of this; a right or privilege, especially a statutory one: the Bill of Rights was intended to secure basic civil liberties. 
+• the state of not being imprisoned or enslaved: people who have lost property or liberty without due process. 
+• (Liberty) the personification of liberty as a female figure: the Statue of Liberty.
+2 the power or scope to act as one pleases: individuals should enjoy the liberty to pursue their own interests and preferences. 
+• Philosophy a person's freedom from control by fate or necessity. 
+• informal a presumptuous remark or action: how did he know what she was thinking?—it was a liberty! 
+• Nautical shore leave granted to a sailor. 
 PHRASES
 at liberty
-1 he was at liberty for three months: free, on the loose, loose, at large, unconfined; escaped, out, on the lam.
-2 you are at liberty to leave: free, permitted, allowed, authorized, able, entitled, eligible. take liberties with I'd appreciate it if you would refrain from taking liberties with me: act with familiarity toward, show disrespect to/toward, act with impropriety with/toward, act indecorously with, be impudent with, act with impertinence to/toward; take advantage of, exploit. 
-PHRASES
-take the liberty may I take the liberty to order champagne? presume, venture, be so bold as. CHOOSE THE RIGHT WORD liberty, freedom, independence, license, permission The Fourth of July is the day on which Americans commemorate their nation's independence, a word that implies the ability to stand alone, without being sustained by anything else. While independence is usually associated with countries or nations, freedom and liberty more often apply to individuals. But unlike freedom, which implies an absence of restraint or compulsion (the freedom to speak openly), liberty implies the power to choose among alternatives rather than merely being unrestrained (the liberty to select their own form of government). Freedom can also apply to many different types of oppressive influences (freedom from interruption; freedom to leave the room at any time), while liberty often connotes deliverance or release (he granted the prisoners their liberty). License may imply the liberty to disobey rules or regulations imposed on others, especially when there is an advantage to be gained in doing so (poetic license). But more often it refers to an abuse of liberty or the power to do whatever one pleases (a license to sell drugs). Permission is an even broader term than license, suggesting the capacity to act without interference or censure, usually with some degree of approval or authority (permission to be absent from his post).These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 not imprisoned: he was at liberty for three months before he was recaptured.
+2 allowed or entitled to do something: competent adults are generally at liberty to refuse medical treatment. take liberties
+1 behave in an unduly familiar manner toward a person: you've taken too many liberties with me.
+2 treat something freely, without strict faithfulness to the facts or to an original: the scriptwriter has taken few liberties with the original narrative. take the liberty venture to do something without first asking permission: I have taken the liberty of submitting an idea to several of their research departments.ORIGIN late Middle English: from Old French liberte, from Latin libertas, from liber ‘free.’

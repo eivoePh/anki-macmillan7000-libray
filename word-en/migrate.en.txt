@@ -1,4 +1,10 @@
 migrate 
-▶verb
-1 cities grew rapidly as rural populations migrated in search of jobs: relocate, resettle, move (house); immigrate; emigrate, go abroad, go overseas, pull up stakes; dated remove.
-2 wildebeest migrate across the Serengeti: roam, wander, drift, rove, travel (around).
+ˈmīˌɡrāt
+
+▶verb [no object] (of an animal, typically a bird or fish) move from one region or habitat to another, especially regularly according to the seasons: as autumn arrives, the birds migrate south. 
+• (of a person) move from one area or country to settle in another, especially in search of work: rural populations have migrated to urban areas. 
+• move from one specific part of something to another: cells that can form pigment migrate beneath the skin. 
+• Computing change or cause to change from using one system to another. 
+• [with object] Computing transfer (programs or hardware) from one system to another. DERIVATIVES migrator 
+ˈmīˌɡrādər 
+nounORIGIN early 17th century (in the general sense ‘move from one place to another’): from Latin migrat- ‘moved, shifted,’ from the verb migrare .

@@ -1,7 +1,9 @@
 cylinder 
-BrE ˈsɪlɪndə, AmE ˈsɪləndər 
-noun 
-① Mathematics 圆柱体 yuánzhùtǐ 
-② Auto 汽缸 qìgāng a four-cylinder engine 四缸发动机 to be firing or working on all cylinders figurative 全力以赴 
-③ (container) 圆筒容器 yuántǒng róngqì 
-④ (cylindrical-shaped object) 圆柱状物 yuánzhùzhuàngwù 
+ˈsiləndər
+
+▶noun a solid geometric figure with straight parallel sides and a circular or oval cross section. 
+• a solid or hollow body, object, or part having the shape of a cylinder. 
+• a piston chamber in a steam or internal combustion engine. 
+• a cylindrical container for liquefied gas under pressure. 
+• a rotating metal roller in a printing press. 
+• Archaeology a cylinder seal. ORIGIN late 16th century: from Latin cylindrus, from Greek kulindros ‘roller,’ from kulindein ‘to roll.’

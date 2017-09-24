@@ -1,5 +1,16 @@
 path 
-▶noun
-1 a path down to the beach: trail, pathway, walkway, track, footpath, trackway, bridleway, bridle path, portage trail, lane, alley, alleyway, passage, passageway; sidewalk, pedway, bikeway.
-2 journalists blocked his path: route, way, course; direction, bearing, line; orbit, trajectory.
-3 the best path toward a settlement: course of action, route, road, avenue, line, approach, tack, strategy, tactic.
+paTH
+
+▶noun (plural paths 
+paT͟Hz, paTHs
+) a way or track laid down for walking or made by continual treading. 
+• the course or direction in which a person or thing is moving: the missile traced a fiery path in the sky 
+figurative : a chosen career path. 
+• a course of action or conduct: an ordered, gradual path toward economic liberalization. 
+• a schedule available for allocation to an individual railroad train over a given route. 
+• Computing a definition of the order in which an operating system or program searches for a file or executable program. 
+▶verb [no object] (usually as noun pathing) (especially in computing and railroad contexts) allocate a path. 
+PHRASES
+the path of least resistance see resistance. DERIVATIVES pathless 
+ˈpaTHləs 
+adjectiveORIGIN Old English pæth; related to Dutch pad,German Pfad, of unknown ultimate origin.

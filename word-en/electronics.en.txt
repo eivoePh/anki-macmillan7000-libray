@@ -1,5 +1,6 @@
 electronics 
-BrE ɪlɛkˈtrɒnɪks, ɛlɛkˈtrɒnɪks, AmE əˌlɛkˈtrɑnɪks 
-noun plural 
-① plus singular verb (branch of science, technology) 电子学 diànzǐxué 
-② plus plural verb (components) 电子器件 diànzǐ qìjiàn (circuits) 电子电路 diànzǐ diànlù 
+əˌlekˈträniks
+
+▶pl. noun [usually treated as singular] the branch of physics and technology concerned with the design of circuits using transistors and microchips, and with the behavior and movement of electrons in a semiconductor, conductor, vacuum, or gas: electronics is seen as a growth industry 
+[as modifier] : electronics engineers. 
+• [treated as plural] circuits or devices using transistors, microchips, and other components.

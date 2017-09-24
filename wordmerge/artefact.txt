@@ -2,4 +2,10 @@ artefact
 BrE ˈɑːtɪfakt, AmE ˈɑrdəfækt 
 noun BrE 人工制品 réngōng zhìpǐn 
 artifact 
-▶noun hundreds of unidentified artifacts are stored in numerous rooms beneath the museum: relic, article; handiwork.
+ˈärdəfakt 
+(British artefact) 
+▶noun
+1 an object made by a human being, typically an item of cultural or historical interest: gold and silver artifacts.
+2 something observed in a scientific investigation or experiment that is not naturally present but occurs as a result of the preparative or investigative procedure: widespread tissue infection may be a technical artifact. DERIVATIVES artifactual 
+ˌärtəˈfakCHo͞oəl 
+adjectiveORIGIN early 19th century: from Latin arte ‘by or using art’ + factum ‘something made’ (neuter past participle of facere ‘make’).

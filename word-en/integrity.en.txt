@@ -1,7 +1,8 @@
 integrity 
+inˈteɡrədē
+
 ▶noun
-1 I never doubted his integrity: honesty, probity, rectitude, honor, good character, principle(s), ethics, morals, righteousness, morality, virtue, decency, fairness, scrupulousness, sincerity, truthfulness, trustworthiness. ANTONYMS dishonesty.
-2 the integrity of the federation: unity, unification, coherence, cohesion, togetherness, solidarity. ANTONYMS division.
-3 the structural integrity of the aircraft: soundness, strength, sturdiness, solidity, durability, stability, stoutness, toughness. ANTONYMS fragility.QUOTE Once you lose your integrity, the rest is easy.Larry Hagman as 
-J.  
-R.  Ewing on the TV series Dallas (1978–1991)
+1 the quality of being honest and having strong moral principles; moral uprightness: he is known to be a man of integrity.
+2 the state of being whole and undivided: upholding territorial integrity and national sovereignty. 
+• the condition of being unified, unimpaired, or sound in construction: the structural integrity of the novel. 
+• internal consistency or lack of corruption in electronic data: [as modifier] : integrity checking. ORIGIN late Middle English ( sense 2): from French intégrité or Latin integritas, from integer ‘intact’ (see integer). Compare with entirety, integral, and integrate .

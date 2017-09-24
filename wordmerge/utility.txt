@@ -9,6 +9,16 @@ B.  adjective
 ① (functional) 实用的 shíyòng de ‹vehicle›
 ② (versatile) 技术全面的 jìshù quánmiàn de ‹player›; 多才多艺的 duō cái duō yì de ‹actor›
 utility 
-▶noun
-1 we have increased the machine's utility: usefulness, use, benefit, value, advantage, advantageousness, help, helpfulness, effectiveness, avail; formal efficacy.
-2 an important public utility: service, service provider, organization, corporation, institution.
+yo͞oˈtilədē
+
+▶noun (plural utilities)
+1 the state of being useful, profitable, or beneficial: he had a poor opinion of the utility of book learning. 
+• (in game theory or economics) a measure of that which is sought to be maximized in any situation involving a choice.
+2 a public utility. 
+• (utilities) US stocks and bonds in public utilities.
+3 Computing a utility program. 
+▶adjective [attributive]
+1 useful, especially through being able to perform several functions: a utility truck. 
+• denoting a player capable of playing in several different positions in a sport.
+2 functional rather than attractive: utility clothing.
+3 US relating to the lowest US government grade of beef. ORIGIN late Middle English: from Old French utilite, from Latin utilitas, from utilis ‘useful.’

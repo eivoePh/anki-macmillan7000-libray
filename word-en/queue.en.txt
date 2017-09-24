@@ -1,3 +1,11 @@
 queue 
-▶noun a long queue of people: lineup, line, row, column, file, chain, string; procession, train, cavalcade.
-▶verb we queued for ice cream: line up, wait in line, form a line, fall in, form a queue, queue up.
+kyo͞o
+
+▶noun
+1 chiefly British a line or sequence of people or vehicles awaiting their turn to be attended to or to proceed.
+2 Computing a list of data items, commands, etc., stored so as to be retrievable in a definite order, usually the order of insertion.
+3 archaic a braid of hair worn at the back. 
+▶verb (queues, queuing or queueing, queued) [no object]
+1 chiefly British take one's place in a queue: in the war they had queued for food. 
+• (queue up) be extremely keen to do or have something: companies are queuing up to move to the bay.
+2 [with object] Computing arrange in a queue. ORIGIN late 16th century (as a heraldic term denoting the tail of an animal): from French, based on Latin cauda ‘tail.’ Compare with cue2. dates from the mid 19th century.

@@ -4,7 +4,13 @@ noun
 ① Countable and uncountable(prerogative) 特权 tèquán 
 ② Countable(honour) 荣幸 róngxìng 
 privilege 
-▶noun
-1 senior students have certain privileges: advantage, benefit; prerogative, entitlement, right; concession, freedom, liberty.
-2 it was a privilege to meet her: honor, pleasure.
-3 congressional privilege: immunity, exemption, dispensation.REFLECTIONS David Foster Wallaceprivilege Even though some dictionaries OK it, the verb to privilege is currently used only in a particular English subdialect that might be called academese. Example: The patriarchal Western canon privileges univocal discourse situated within established contexts over the polyphonic free play of decentered utterance. (Yes: it's often that ghastly.) Contemporary academese originated in literary and social theory but has now metastasized throughout much of the humanities. There is exactly one rhetorical situation in which you'd want to use to privilege, to situate, or to interrogate + some abstract noun phrase, or pretty much any transitivized-verb construction that's three times longer than it needs to be—this is in a university course taught by a professor so thoroughly cloistered, insecure, or stupid as to believe that academese constitutes intelligent writing. A required course, one that you can't switch out of. In any other situation, run very fast the other way.Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+ˈpriv(ə)lij
+
+▶noun a special right, advantage, or immunity granted or available only to a particular person or group of people: education is a right, not a privilege 
+he has been accustomed all his life to wealth and privilege. 
+• something regarded as a rare opportunity and bringing particular pleasure: I have the privilege of awarding you this scholarship. 
+• (also absolute privilege) (in a parliamentary context) the right to say or write something without the risk of incurring punishment or legal action for defamation. 
+• the right of a lawyer or official to refuse to divulge confidential information. 
+• chiefly historical a grant to an individual, corporation, or place of special rights or immunities, especially in the form of a franchise or monopoly. 
+▶verb [with object] formal grant a privilege or privileges to: English inheritance law privileged the eldest son. 
+• (usually be privileged from) exempt (someone) from a liability or obligation to which others are subject. ORIGIN Middle English: via Old French from Latin privilegium ‘bill or law affecting an individual,’ from privus ‘private’ + lex, leg- ‘law.’

@@ -5,6 +5,12 @@ transitive verb
 ② (specify) 确定 quèdìng ‹time, place›
 ③ (equip) 装设 zhuāng shè well appointed 陈设齐全的 
 appoint 
-▶verb
-1 he was appointed chairman: nominate, name, designate, install as, commission, engage, co-opt; select, choose, elect, vote in; Military detail. ANTONYMS reject.
-2 the arbitrator shall appoint a date for the meeting: specify, determine, assign, designate, allot, set, fix, arrange, choose, decide on, establish, settle, ordain, prescribe, decree.
+əˈpoint
+
+▶verb [with object]
+1 assign a job or role to (someone): she has been appointed to the board 
+[with object and infinitive] : a delegated engineer will be appointed to oversee each graduate 
+they appointed her as personnel manager.
+2 determine or decide on (a time or a place): they appointed a day in May for the meeting. 
+• archaic decree: such laws are appointed by God.
+3 Law decide the disposal of (property of which one is not the owner) under powers granted by the owner: trustees appoint the capital to the beneficiaries. DERIVATIVES appointer nounORIGIN late Middle English: from Old French apointer, from a point ‘to a point.’

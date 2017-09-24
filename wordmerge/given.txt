@@ -14,8 +14,11 @@ C.  preposition
 ③ (with) 如果有 rúguǒ yǒu given the training 如果接受培训 given a bit of encouragement, she will … 给她一点鼓励，她就会… the plants should flourish, given regular watering 只要定期浇水，这些植物就会枝叶繁茂 
 D.  noun 确定的情况 quèdìng de qíngkuàng attentive service is a given 殷勤的服务是理所当然的 
 given 
+ˈɡivən
+past participle of give. 
 ▶adjective
-1 a given number of years: specified, stated, designated, set, particular, specific; prescribed, agreed, appointed, prearranged, predetermined. ANTONYMS unspecified.
-2 she was given to fits of temper: prone, liable, inclined, disposed, predisposed, apt, likely.
-▶preposition given the issue's complexity, a brief summary is difficult: considering, in view of, bearing in mind, in the light of; assuming.
-▶noun his aggression is taken as a given: established fact, reality, certainty.
+1 specified or stated: our level of knowledge on any given subject.
+2 [predicative] (given to) inclined or disposed to: she was not often given to anger.
+3 Law, archaic (of a document) signed and dated: given under my hand this eleventh day of April. 
+▶preposition taking into account: given the complexity of the task, they were able to do a good job. 
+▶noun a known or established fact or situation: at a couture house, attentive service is a given.

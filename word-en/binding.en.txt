@@ -1,2 +1,10 @@
 binding 
-▶adjective the agreement is binding: irrevocable, unalterable, inescapable, unbreakable, contractual; compulsory, obligatory, mandatory, incumbent.
+ˈbīndiNG
+
+▶noun
+1 a strong covering holding the pages of a book together. 
+• fabric such as braid used for binding the edges of a piece of material.
+2 (also ski binding) a mechanical device fixed to a ski to grip a ski boot, especially either of a pair used for downhill skiing that hold the toe and heel of the boot and release it automatically in a fall.
+3 the action of fastening, holding together, or being linked by chemical bonds: the binding of antibodies to cell surfaces. 
+• (in Chomskyan linguistics) the relationship between a referentially dependent form (such as a reflexive) and the independent noun phrase that determines its reference. 
+▶adjective (of an agreement or promise) involving an obligation that cannot be broken: business agreements are intended to be legally binding.

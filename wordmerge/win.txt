@@ -10,11 +10,22 @@ C.  noun
 ① (victory) 胜利 shènglì to have a win against or over [somebody] (in [something]) （在某事上）赢某人 to have a win on the horses 赌马获胜 to back [something] for a win 赌某物获胜 
 ② (amount won) 奖金 jiǎngjīn a £30,000 win in the lottery 在乐透彩中赢得的3万英镑奖金 PHRASAL VERBS win back transitive verb[win somebody/something back], [win back somebody/something] 重新获得 chóngxīn huòdé ‹support, respect›will you be able to win the money back from him? 你能够从他那里把钱赢回来吗？ they won back the territory from the invaders 他们从入侵者手中夺回了这片领土 win out intransitive verb 胜出 shèngchū we'll win out in the end 我们将最终获胜 to win out over adversity 战胜逆境 win over, win round transitive verb[win somebody over], [win over somebody] 说服 shuōfú to win [somebody] over to [something]/doing [something]; 说服某人同意某事/做某事 win through intransitive verb 摆脱困境 bǎituō kùnjìng 
 win 
-▶verb
-1 he won the race: take, be the victor in, be the winner of, come first in, take first prize in, triumph in, be successful in. ANTONYMS lose.
-2 Claire knew he would win: be the winner, come in first, be victorious, carry the day, win the day, come out on top, succeed, triumph, prevail. ANTONYMS lose.
-3 he won a cash prize: secure, gain, garner, collect, pick up, walk away/off with, carry off; informal land, net, bag, scoop.
-4 she won his heart: captivate, steal, snare, capture.
-▶noun a 1–0 win: victory, triumph, conquest. ANTONYMS defeat.
+win
+
+▶verb (wins, winning; past and past participle won 
+wən, wän
+) [with object]
+1 be successful or victorious in (a contest or conflict): the Mets have won four games in a row 
+[no object] : a determination to win 
+[with complement] : the Pirates won 2–1.
+2 acquire or secure as a result of a contest, conflict, bet, or other endeavor: there are hundreds of prizes to be won 
+[with two objects] : the sort of play that won them the World Cup. 
+• gain (a person's attention, support, or love), typically gradually or by effort: you will find it difficult to win back their attention. 
+• (win someone over) gain the support or favor of someone by action or persuasion: her sense of humor had won him over at once. 
+• [no object] (win out) manage to succeed or achieve something by effort: talent won out over bureaucracy. 
+• archaic manage to reach (a place) by effort: many lived to win the great cave. 
+• obtain (ore) from a mine. 
+▶noun a successful result in a contest, conflict, bet, or other endeavor; a victory: a win against Norway. 
 PHRASES
-win over do you really believe that flowers and jewelry are enough to win her over? persuade, convince, sway, prevail on; seduce.
+one can't win informal said when someone feels that no course of action open to them will bring success or please people. win the day be victorious in battle, sport, or argument. win or lose whether one succeeds or fails: win or lose, the important thing for him is to set a good example. win (or earn) one's spurs historical gain a knighthood by an act of bravery. 
+• informal gain one's first distinction or honors. you can't win them all (or win some, lose some) informal said to express consolation or resignation after failure in a contest.DERIVATIVES winless adjectiveORIGIN Old English winnan ‘strive, contend,’ also ‘subdue and take possession of, acquire,’ of Germanic origin.

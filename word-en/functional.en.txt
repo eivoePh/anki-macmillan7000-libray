@@ -1,4 +1,10 @@
 functional 
+ˈfəNG(k)SH(ə)n(ə)l
+
 ▶adjective
-1 a small functional kitchen: practical, useful, utilitarian, utility, workaday, serviceable; minimalist, plain, simple, basic, modest, unadorned, unostentatious, no-frills, without frills; impersonal, characterless, soulless, institutional, clinical.
-2 the machine is now fully functional: working, in working order, functioning, in service, in use; going, running, operative, operating, in operation, in commission, in action; informal up and running.
+1 of or having a special activity, purpose, or task; relating to the way in which something works or operates: there are important functional differences between left and right brain. 
+• (of a disease) affecting the operation, rather than the structure, of an organ: functional diarrhea. 
+• (of a mental illness) having no discernible organic cause: functional psychosis.
+2 designed to be practical and useful, rather than attractive: she had assumed the apartment would be functional and simple.
+3 working or operating: the museum will be fully functional from the opening of the festival.
+4 Mathematics relating to a variable quantity whose value depends on one or more other variables.

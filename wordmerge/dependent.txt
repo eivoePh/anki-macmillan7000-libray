@@ -5,9 +5,13 @@ adjective
 ② predicative (determined by) to be dependent on [something] 取决于 ‹event, action› 受…影响 shòu… yǐngxiǎng ‹emotion›
 ③ Linguistics 从属的 cóngshǔ de ‹phrase, word›a dependent clause 从句 
 dependent 
+dəˈpendənt
+
 ▶adjective
-1 your placement is dependent on her decision: conditional on, contingent on, based on; subject to, determined by, influenced by.
-2 the army is dependent on volunteers: reliant on, relying on, counting on; sustained by.
-3 she is dependent on drugs: addicted to, reliant on; informal hooked on.
-4 he is ill and dependent: reliant, needy; helpless, weak, infirm, invalid, incapable; debilitated, disabled.
-▶noun providing for his dependents: child, minor; ward, charge, protégé; relative; (dependents) offspring, progeny.
+1 [predicative] (dependent on/upon) contingent on or determined by: the various benefits will be dependent on length of service.
+2 requiring someone or something for financial, emotional, or other support: an economy heavily dependent on oil exports 
+households with dependent children. 
+• unable to do without: people dependent on drugs 
+[in combination] : welfare-dependent families. 
+• Grammar (of a clause, phrase, or word) subordinate to another clause, phrase, or word. 
+▶noun (British also dependant) a person who relies on another, especially a family member, for financial support: a single man with no dependents. DERIVATIVES dependently adverbORIGIN late Middle English dependant ‘hanging down,’ from Old French, present participle of dependre (see depend). The spelling change in the 16th century was due to association with the Latin participial stem dependent- .

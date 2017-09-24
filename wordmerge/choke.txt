@@ -14,12 +14,25 @@ C.  noun
 ① (action) 窒息 zhìxī ; (sound) 呛住的声音 qiàngzhù de shēngyīn 
 ② (of emotion) 哽咽 gěngyè with a choke in one's voice 声音哽咽地 
 ③ Auto 阻气门 zǔqìmén to pull out/use the choke 拔出/使用阻气门 PHRASAL VERBS choke back transitive verb [choke back something] 强忍住 qiángrěnzhù ‹tears›; 克制住 kèzhìzhù ‹feelings›to choke back one's anger 强压怒火 choke down transitive verb [choke something down, choke down something] 硬吞下 yìng tūnxia choke off transitive verb [choke off something] 制止 zhìzhǐ choke up transitive verb [choke something up], [choke up something] 堵塞住 dǔsèzhù the street was choked up with traffic 街上交通拥堵 
-choke 
+choke
+1 
+CHōk
+
 ▶verb
-1 Christopher started to choke: gag, retch, cough, fight for breath.
-2 thick dust choked her: suffocate, asphyxiate, smother, stifle.
-3 she had been choked to death: strangle, throttle; asphyxiate, suffocate; informal strangulate.
-4 the gutters were choked with leaves: clog (up), stop up, block, obstruct, plug, bung up; technical occlude.
-5 the Rangers choked in the playoffs: underachieve, underperform, disappoint, lose, collapse, fall apart.
-PHRASES
-choke back we could see that he was choking back tears: suppress, hold back, fight back, bite back, swallow, check, restrain, control, repress, smother, stifle; informal keep a lid on.
+1 [no object] (of a person or animal) have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air: Willie choked on a mouthful of soda. 
+• [with object] hinder or obstruct the breathing of (a person or animal) by choking. 
+• [with object] prevent (a plant) from growing by depriving it of light, air, or nourishment: the bracken will choke the wild gladiolus. 
+• [with object] (choke something down) swallow something with difficulty: I attempted to choke down supper. 
+• [with object] prevent or suppress (the occurrence of something): higher rates of interest choke off investment demand. 
+• [no object] informal (in sports) fail to perform at a crucial point of a game or contest owing to a failure of nerve: we were the only team not to choke when it came to the crunch.
+2 [with object] (often be choked with) fill (a passage or space), especially so as to make movement difficult or impossible: the roads were choked with traffic.
+3 [with object] overwhelm and make (someone) speechless with a strong and typically negative feeling or emotion: she was choked with angry emotion. 
+• become or cause to become tearful or extremely upset: [no object] : I just choked up reading it. 
+• suppress a strong emotion or the expression of such an emotion: Liz was choking back her anger.
+4 [with object] enrich the fuel mixture in (a gasoline engine) by reducing the intake of air. 
+▶noun
+1 a valve in the carburetor of a gasoline engine that is used to reduce the amount of air in the fuel mixture when the engine is started. 
+• a knob that controls a choke valve in a gasoline engine. 
+• a narrowed part of a shotgun bore, typically near the muzzle and serving to restrict the spread of the shot. 
+• informal an electrical inductor, especially an inductance coil used to smooth the variations of an alternating current or to alter its phase.
+2 an action or sound of a person or animal having or seeming to have difficulty in breathing: a little choke of laughter. PHRASAL VERBS choke up (in sports) grip (a bat, racket, etc.) further from the narrow end than is usual: he choked up on the bat a few inches.ORIGIN Middle English: from Old English ācēocian (verb), from cēoce (see cheek).

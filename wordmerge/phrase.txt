@@ -9,5 +9,13 @@ B.  transitive verb
 ① (express) 表达 biǎodá a neatly phrased letter 措词巧妙的信 
 ② Music 将…划分乐句 jiāng… huàfēn yuèjù 
 phrase 
-▶noun familiar words and phrases: expression, group of words, construction, locution, term, turn of phrase; idiom, idiomatic expression; saying, tag.
-▶verb how could I phrase the question? express, put into words, put, word, style, formulate, couch, frame, articulate, verbalize.
+frāz
+
+▶noun a small group of words standing together as a conceptual unit, typically forming a component of a clause. 
+• an idiomatic or short pithy expression: his favorite phrase is “it's a pleasure.” 
+• Music a group of notes forming a distinct unit within a longer passage. 
+• Ballet a group of steps within a longer sequence or dance. 
+▶verb [with object] put into a particular form of words: it's important to phrase the question correctly. 
+• divide (music) into phrases in a particular way, especially in performance: (as noun phrasing) : original phrasing brought out unexpected aspects of the music. 
+PHRASES
+turn of phrase a manner of expression: an awkward turn of phrase.ORIGIN mid 16th century (in the sense ‘style or manner of expression’): via late Latin from Greek phrasis, from phrazein ‘declare, tell.’

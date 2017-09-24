@@ -1,56 +1,130 @@
 take 
-▶verb
-1 she took his hand: lay hold of, get hold of; grasp, grip, clasp, clutch, grab. ANTONYMS give.
-2 he took an envelope from his pocket: remove, pull, draw, withdraw, extract, fish. ANTONYMS give.
-3 a passage taken from my book: extract, quote, cite, excerpt, derive, abstract, copy, cull.
-4 she took a little wine: drink, imbibe; consume, swallow, eat, ingest.
-5 many prisoners were taken: capture, seize, catch, arrest, apprehend, take into custody; carry off, abduct. ANTONYMS liberate, free.
-6 someone's taken my car: steal, remove, appropriate, make off with, pilfer, purloin; informal filch, swipe, snaffle, pinch. ANTONYMS give back, restore.
-7 take four from the total: subtract, deduct, remove; discount; informal knock off, minus. ANTONYMS add.
-8 all the seats had been taken: occupy, use, utilize, fill, hold; reserve, engage; informal bag.
-9 I have taken a room nearby: rent, lease, hire, charter; reserve, book, engage.
-10 I took the job: accept, undertake, take on. ANTONYMS refuse, turn down.
-11 I'd take this over the other option: pick, choose, select; prefer, favor, opt for, vote for. ANTONYMS refuse, turn down.
-12 take, for instance, Altoona: consider, contemplate, ponder, think about, mull over, examine, study, meditate over, ruminate about.
-13 she took his temperature: ascertain, determine, establish, measure, find out, discover; calculate, compute, evaluate, rate, assess, appraise, gauge.
-14 he took notes: write, note (down), jot (down), scribble, scrawl, record, register, document, minute.
-15 I took the package to Wilmington: bring, carry, bear, transport, convey, move, transfer, ferry; informal cart, tote.
-16 the police took her home: escort, accompany, help, assist, show, lead, guide, see, usher, shepherd, convey.
-17 he took the train: travel on/by, journey on, go via; use.
-18 the town takes its name from the lake: derive, get, obtain, come by, acquire, pick up.
-19 she took the prize for best speaker: receive, obtain, gain, get, acquire, collect, accept, be awarded; secure, come by, win, earn, pick up, carry off; informal land, bag, net, scoop.
-20 I took the chance to postpone it: act on, take advantage of, capitalize on, use, exploit, make the most of, leap at, jump at, pounce on, seize, grasp, grab, accept. ANTONYMS ignore, miss. 21 he took great pleasure in painting: derive, draw, acquire, obtain, get, gain, extract, procure; experience, undergo, feel. 22 Liz took the news badly: receive, respond to, react to, meet, greet; deal with, cope with. 23 do you take me for a fool? regard as, consider to be, view as, see as, believe to be, reckon to be, imagine to be, deem to be. 24 I take it that you are hungry: assume, presume, suppose, imagine, expect, reckon, gather, dare say, trust, surmise, deduce, guess, conjecture, fancy, suspect. 25 I take your point: understand, grasp, get, comprehend, apprehend, see, follow; accept, appreciate, acknowledge, sympathize with, agree with. 26 Shirley was very taken with him: captivate, enchant, charm, delight, attract, beguile, enthrall, entrance, infatuate, dazzle; amuse, divert, entertain; informal tickle someone's fancy. 27 I can't take much more: endure, bear, tolerate, stand, put up with, abide, stomach, accept, allow, countenance, support, shoulder; formal brook; archaic suffer. 28 applicants must take a test: carry out, do, complete, write, conduct, perform, execute, discharge, accomplish, fulfill. 29 I took drama, French, and art history: study, learn, have lessons in; take up, pursue; informal do. 30 the journey took six hours: last, continue for, go on for, carry on for; require, call for, need, necessitate, entail, involve. 31 it would take an expert to know that: require, need, necessitate, demand, call for, entail, involve. 32 I take size six shoes: wear, use; require, need. 33 the dye did not take: be effective, take effect, hold, root, be productive, be effectual, be useful; work, operate, succeed, function; formal be efficacious.
+tāk
+
+▶verb (past took 
+to͝ok
+; past participle taken 
+ˈtākən
+) [with object]
+1 lay hold of (something) with one's hands; reach for and hold: he leaned forward to take her hand. 
+• remove (someone or something) from a particular place: he took an envelope from his inside pocket 
+the police took him away. 
+• consume as food, drink, medicine, or drugs: take an aspirin and lie down. 
+• capture or gain possession of by force or military means: twenty of their ships were sunk or taken 
+the French took Ghent. 
+• (in bridge, hearts, and similar card games) win (a trick). 
+• Chess capture (an opposing piece or pawn). 
+• dispossess someone of (something); steal or illicitly remove: someone must have sneaked in here and taken it. 
+• cheat (someone) of something: can I get taken by buying mutual funds? 
+• subtract: take two from ten 
+add the numbers together and take away five. 
+• occupy (a place or position): we found that all the seats were taken. 
+• buy or rent (a house). 
+• agree to buy (an item): I'll take the one on the end. 
+• gain or acquire (possession or ownership of something): he took possession of a unique Picasso ceramic piece. 
+• (be taken) humorous (of a person) already be married or in an emotional relationship. 
+• [in imperative] use or have ready to use: take half the marzipan and roll out. 
+• [usually in imperative] use as an instance or example in support of an argument: let's take Napoleon, for instance. 
+• regularly buy or subscribe to (a particular newspaper or periodical). 
+• ascertain by measurement or observation: the nurse takes my blood pressure. 
+• write down: he was taking notes. 
+• make (a photograph) with a camera. 
+• (especially of illness) suddenly strike or afflict (someone): he was taken with a seizure of some kind. 
+• have sexual intercourse with.
+2 carry or bring with one; convey: he took along a portfolio of his drawings 
+the drive takes you through some wonderful scenery 
+[with two objects] : I took him a letter. 
+• accompany or guide (someone) to a specified place: I'll take you to your room. 
+• bring into a specified state: the invasion took Europe to the brink of war. 
+• use as a route or a means of transportation: take 95 north to Baltimore 
+we took the night train to Scotland.
+3 accept or receive (someone or something): she was advised to take any job offered 
+they don't take children. 
+• understand or accept as valid: I take your point. 
+• acquire or assume (a position, state, or form): teaching methods will take various forms 
+he took office in September. 
+• achieve or attain (a victory or result): John Martin took the men's title. 
+• act on (an opportunity): he took his chance to get out while the house was quiet. 
+• experience or be affected by: the lad took a savage beating. 
+• tolerate, stand: I can't take the humidity. 
+• react to or regard (news or an event) in a specified way: she took the news well 
+everything you say, he takes it the wrong way. 
+• deal with (a physical obstacle or course) in a specified way: he takes the corners with no concern for his own safety. 
+• Baseball (of a batter) allow (a pitch) to go by without attempting to hit the ball. 
+• regard or view in a specified way: he somehow took it as a personal insult 
+[with object and infinitive] : I fell over what I took to be a heavy branch. 
+• (be taken by/with) be attracted or charmed by: Billie was very taken with him. 
+• submit to, tolerate, or endure: they refused to take it any more 
+some people found her hard to take. 
+• (take it) [with clause] assume: I take it that someone is coming to meet you.
+4 make, undertake, or perform (an action or task): Lucy took a deep breath 
+he took the oath of office. 
+• be taught or examined in (a subject): some degrees require a student to take a secondary subject. 
+• British obtain (an academic degree) after fulfilling the required conditions: she took a degree in English.
+5 require or use up (a specified amount of time): the jury took an hour and a half to find McPherson guilty 
+[with two objects] : it takes me about a quarter of an hour to walk to work. 
+• (of a task or situation) need or call for (a particular person or thing): it will take an electronics expert to dismantle it. 
+• hold; accommodate: an exclusive island hideaway that takes just twenty guests. 
+• wear or require (a particular size of garment or type of complementary article): he takes size
+5 boots.
+6 [no object] (of a plant or seed) take root or begin to grow; germinate: the fuchsia cuttings had taken and were looking good. 
+• (of an added substance) become successfully established.
+7 Grammar have or require as part of the appropriate construction: verbs that take both the infinitive and the finite clause as their object. 
 ▶noun
-1 the whalers' commercial take: catch, haul, bag, yield, net.
-2 the state's tax take: revenue, income, gain, profit; takings, proceeds, returns, receipts, winnings, pickings, earnings, spoils; purse.
-3 a clapperboard for the start of each take: scene, sequence, film clip, clip.
-4 a fresh take on gender issues: view of, reading of, version of, interpretation of, understanding of, account of, analysis of, approach to.
+1 a scene or sequence of sound or vision photographed or recorded continuously at one time: he completed a particularly difficult scene in two takes. 
+• a particular version of or approach to something: his own whimsical take on life.
+2 an amount of something gained or acquired from one source or in one session: the take from commodity taxation. 
+• chiefly US the money received at a theater, arena, etc., for seats.
+3 Printing an amount of copy set up at one time or by one compositor. 
 PHRASES
-take after Sandy takes after his adventurous Uncle Lenny: resemble, look like; remind one of, make one think of, recall, conjure up, suggest, evoke; informal favor, be a chip off the old block. take apart
-1 we took the machine apart: dismantle, pull to pieces, pull apart, disassemble, break up; tear down, demolish, destroy, wreck.
-2 informal the scene was taken apart by the director. See criticize. take someone back
-1 the dream took me back to Vienna: evoke, remind one of, conjure up, summon up; echo, suggest.
-2 I will never take her back: be reconciled (to), forgive, pardon, excuse, exonerate, absolve; let bygones be bygones, bury the hatchet. take something back
-1 I take back every word: retract, withdraw, renounce, disclaim, unsay, disavow, recant, repudiate; formal abjure.
-2 I must take the keys back: return, bring back, give back, restore. take something down I took down everything she said: write down, note down, jot down, set down, record, commit to paper, register, draft, document, minute, pen. take someone in
-1 she took in paying guests: accommodate, board, house, feed, put up, admit, receive; harbor.
-2 you were taken in by a hoax: deceive, delude, hoodwink, mislead, trick, dupe, fool, cheat, defraud, swindle, outwit, gull, hoax, bamboozle; informal con, put one over on. take something in
-1 she could hardly take in the news: comprehend, understand, grasp, follow, absorb; informal get.
-2 this route takes in some great scenery: include, encompass, embrace, contain, comprise, cover, incorporate, comprehend, hold. take someone in hand part of your job is to take young Master Jonathon in hand: control, be in charge of, dominate, master; reform, improve, correct, change, rehabilitate. take something in hand are you willing to take this project in hand? deal with, apply oneself to, come to grips with, set one's hand to, grapple with, take on, attend to, see to, sort out, take care of, handle, manage. take it out of someone the final lap has taken it out of Johnson: exhaust, drain, enervate, tire, fatigue, wear out, weary, debilitate; informal poop out. take off
-1 the horse took off at great speed: run away/off, flee, abscond, take flight, decamp, leave, go, depart, make off, bolt, take to one's heels, escape; informal split, clear off, skedaddle, vamoose.
-2 the plane took off: become airborne, take to the air, take wing; lift off, blast off.
-3 the idea really took off: succeed, do well, become popular, catch on, prosper, flourish, thrive, boom. take someone on
-1 there was no challenger to take him on: compete against, oppose, challenge, confront, face, fight, vie with, contend with, stand up to.
-2 we took on extra staff: engage, hire, employ, enroll, enlist, sign up; informal take on board. take something on
-1 he took on more responsibility: undertake, accept, assume, shoulder, acquire, carry, bear.
-2 the study took on political meaning: acquire, assume, come to have. take one's time if the place were on fire, Mark would still take his time: go slowly, dally, dawdle, delay, linger, drag one's feet, waste time, kill time; informal dilly-dally, lollygag; archaic tarry. take someone out
-1 he asked if he could take her out: go out with, escort, partner, accompany, go with; romance; informal date, see, go steady with; dated court, woo.
-2 informal the sniper took them all out: kill, murder, assassinate, dispatch, execute, finish off, eliminate, exterminate, terminate; informal do in, do away with, bump off, rub out, mow down; literary slay. take something over the workers were stunned to learn that a rival corporation had taken over their company: assume control of, take charge of, take command of. take to
-1 he took to carrying his money in his sock: make a habit of, resort to, turn to, have recourse to (start/begin); start, begin, commence.
-2 Ruth took to the cat instantly: like, get on with, be friendly toward; informal take a shine to.
-3 the dog has really taken to racing: become good at, develop an ability for; like, enjoy. take something up
-1 she took up abstract painting: engage in, practice; begin, start, commence.
-2 the meetings took up all her time: consume, fill, absorb, use, occupy; waste, squander.
-3 her cousin took up the story: resume, recommence, restart, carry on, continue, pick up, return to.
-4 he took up their offer of a job: accept, say yes to, agree to, adopt; formal accede to.
-5 take the skirt up an inch: shorten, turn up; raise, lift. take up with Burt has taken up with the kids in the ski club: become friends with, (begin to) go around with, fall in with, string along with, get involved with, start seeing; informal (begin to) hang out with.
+be on the take informal take bribes. be taken ill become ill suddenly. have what it takes informal have the necessary qualities for success. take a chair sit down.take advantage of (take advice, etc.) see advantage, advice, etc. take something as read British accept something without considering or discussing it; assume something. take five (or ten) informal, chiefly North American take a five (or ten) minute break before resuming work or another activity. take a lot of (or some) —— be difficult to do or effect in the specified way: he might take some convincing. take someone in hand undertake to control or reform someone. take something in hand start doing or dealing with a task. take the heat informal accept blame or withstand disapproval: “Don't worry about it,” Mulder said, “we'll take the heat. You can tell him we pulled rank.” take something ill archaic resent something done or said: I did not mean for you to take my comments ill. take it from me I can assure you: take it from me, kid—I've been there. take it on one (or oneself) to do something decide to do something without asking for permission or advice. take it or leave it [usually in imperative] said to express that the offer one has made is not negotiable and that one is indifferent to another's reaction to it: that's the deal—take it or leave it. take it out of exhaust the strength of (someone): parties and tours can take it out of you, especially if you are over 65. take sick (or ill) informal become ill, especially suddenly.take the stand testify at a trial. take someone out of themselves make a person forget their worries. take that! exclaimed when hitting someone or taking decisive action against them. take one's time not hurry.PHRASAL VERBS take after resemble (a parent or ancestor): the rest of us take after our mother. take something apart dismantle something. 
+• (take someone/something apart) informal attack, criticize, or defeat someone or something in a vigorous or forceful way. take something away British another way of saying take something out. take away from detract from: that shouldn't take away from the achievement of the French. take someone back strongly remind someone of a past time: if “Disco Inferno” doesn't take you back, the bell-bottom pants will. take something back
+1 retract a statement: I take back nothing of what I said.
+2 return unsatisfactory goods to a store. 
+• (of a store) accept returned goods.
+3 Printing transfer text to the previous line. take something down
+1 write down spoken words: I took down the address.
+2 dismantle and remove a structure: the old Norman church was taken down in 1819. take from another way of saying take away from. take someone in
+1 accommodate someone as a lodger or because they are homeless or in difficulties.
+2 cheat, fool, or deceive someone: she tried to pass this off as an amusing story, but nobody was taken in. take something in
+1 undertake work at home: she took in laundry on weekends.
+2 make a garment tighter by altering its seams. 
+• Sailing furl a sail.
+3 receive a specified amount of money as payment or earnings: our club took in nearly $800,000 in its first year.
+4 include or encompass something: the sweep of his arm took in most of Main Street. 
+• fully understand or absorb something heard or seen: she took in the scene at a glance.
+5 visit or attend a place or event in a casual way or on the way to another: he'd maybe take in a movie, or just relax. take off
+1 (of an aircraft or bird) become airborne. 
+• (of an enterprise) become successful or popular: the newly launched electronic newspaper has really taken off.
+2 depart hastily: the officer took off after his men. take something off
+1 remove clothing from one's or another's body: she took off her cardigan.
+2 deduct part of an amount.
+3 choose to have a period away from work: I took the next day off. take someone on
+1 hire an employee.
+2 be willing or ready to meet an adversary or opponent, especially a stronger one: a group of villagers has taken on the planners. take something on
+1 undertake a task or responsibility, especially a difficult one: whoever takes on the trout farm will have their work cut out.
+2 acquire a particular meaning or quality: the subject has taken on a new significance in the past year. take someone out
+1 escort someone to a social event or place of entertainment: I finally get to take her out on Saturday night.
+2 Bridge respond to a bid or double by one's partner by bidding a different suit. take someone/something out informal kill, destroy, or disable someone or something. take something out
+1 obtain an official document or service: you can take out a loan for a specific purchase. 
+• get a license or summons issued.
+2 chiefly US buy food at a cafe or restaurant for eating elsewhere: he ordered a lamb madras to take out. take something out on relieve frustration or anger by attacking or mistreating (a person or thing not responsible for such feelings). take something over
+1 (also take over) assume control of something: British troops had taken over the German trenches. 
+• (of a company) buy out another. 
+• become responsible for a task in succession to another: he will take over as chief executive in April.
+2 Printing transfer text to the next line. take to
+1 begin or fall into the habit of: he took to hiding some secret supplies in his desk.
+2 form a liking for: Mrs. Brady never took to Moran. 
+• develop an ability for (something), especially quickly or easily: I took to pole-vaulting right away.
+3 go to (a place) to escape danger or an enemy: they took to the hills. take something up
+1 become interested or engaged in a pursuit: she took up tennis at the age of 11. 
+• begin to hold or fulfill a position or post: he left to take up an appointment as a missionary. 
+• accept an offer or challenge.
+2 occupy time, space, or attention: I don't want to take up any more of your time.
+3 pursue a matter later or further: he'll have to take it up with the bishop. 
+• (also take up) resume speaking after an interruption: I took up where I had left off.
+4 shorten a garment by turning up the hem. take someone up on
+1 accept (an offer or challenge) from someone: I'd like to take you up on that offer.
+2 challenge or question a speaker on (a particular point): the interviewer did not take him up on his quotation. take up with begin to associate with (someone), especially in a way disapproved of by the speaker: he's taken up with a divorced woman, I understand.DERIVATIVES takable 
+ˈtākəb(ə)l 
+(also takeable) adjectiveORIGIN late Old English tacan ‘get (especially by force), capture,’ from Old Norse taka ‘grasp, lay hold of,’ of unknown ultimate origin.

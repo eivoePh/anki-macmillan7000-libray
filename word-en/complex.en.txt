@@ -1,7 +1,25 @@
 complex 
-▶adjective
-1 a complex situation: complicated, involved, intricate, convoluted, elaborate, impenetrable, Gordian; difficult, knotty, tricky, thorny. ANTONYMS simple.
-2 a complex structure: compound, composite, multiplex.
-▶noun
-1 a complex of roads: network, system, nexus, web, tissue; combination, aggregation.
-2 informal he had a complex about losing his hair: obsession, fixation, preoccupation; neurosis; informal hang-up, thing, bee in one's bonnet.WORD TOOLKIT See intricate .Word Toolkits illustrate the difference between close synonyms by means of words typically used with them.
+▶adjective 
+ˌkämˈpleks kəmˈpleks ˈkämˌpleks 
+
+1 consisting of many different and connected parts: a complex network of water channels. 
+• not easy to analyze or understand; complicated or intricate: a complex personality 
+the situation is more complex than it appears.
+2 Mathematics denoting or involving numbers or quantities containing both a real and an imaginary part.
+3 Chemistry denoting an ion or molecule in which one or more groups are linked to a metal atom by coordinate bonds. 
+▶noun 
+ˈkämpleks 
+
+1 a group of similar buildings or facilities on the same site: a new apartment complex 
+a complex of hotels. 
+• a group or system of different things that are linked in a close or complicated way; a network: a complex of mountain roads.
+2 Psychoanalysis a related group of emotionally significant ideas that are completely or partly repressed and that cause psychic conflict leading to abnormal mental states or behavior. 
+• informal a disproportionate concern or anxiety about something: there's no point having a complex about losing your hair.
+3 Chemistry an ion or molecule in which one or more groups are linked to a metal atom by coordinate bonds. 
+• any loosely bonded species formed by the association of two molecules: cross-linked protein-DNA complexes. 
+▶verb 
+ˈkämpleks 
+[with object] (usually be complexed) Chemistry make (an atom or compound) form a complex with another: the DNA was complexed with the nuclear extract 
+(as adjective complexed) : the complexed metal ion. DERIVATIVES complexation 
+kämˌplekˈsāSHən, kəm- 
+noun (Chemistry). complexly adverbORIGIN mid 17th century (in the sense ‘group of related elements’): from Latin complexus, past participle (used as a noun) of complectere ‘embrace, comprise,’ later associated with complexus ‘plaited’; the adjective is partly via French complexe .

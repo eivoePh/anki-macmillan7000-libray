@@ -1,6 +1,20 @@
 nest 
+nest
+
 ▶noun
-1 the birds built a nest: roost, aerie.
-2 the animals disperse rapidly from the nest: lair, den, burrow.
-3 a cozy love nest: hideaway, hideout, retreat, shelter, refuge, den.
-4 a nest of intrigue: hotbed, den, breeding ground, cradle.
+1 a structure or place made or chosen by a bird for laying eggs and sheltering its young. 
+• a place where an insect or other animal breeds or shelters: an ants' nest. 
+• a person's snug or secluded retreat or shelter. 
+• a bowl-shaped object likened to a bird's nest: arrange in nests of lettuce leaves. 
+• a place filled with or frequented by undesirable people or things: a nest of spies.
+2 a set of similar objects of graduated sizes, made so that each smaller one fits into the next in size for storage: a nest of tables. 
+▶verb
+1 [no object] (of a bird or other animal) use or build a nest: the owls often nest in barns 
+(as adjective nesting) : do not disturb nesting birds.
+2 [with object] fit (an object or objects) inside a larger one: the town is nested inside a large crater on the flanks of a volcano. 
+• [no object] (of a set of objects) fit inside one another: Russian dolls that nest inside one another. 
+• (especially in computing and linguistics) place (an object or element) in a hierarchical arrangement, typically in a subordinate position: (as adjective nested) : organisms classified in a series of nested sets. DERIVATIVES nestful 
+-ˌfo͝ol 
+noun (plural nestfuls) . nestlike 
+-ˌlīk 
+adjectiveORIGIN Old English nest, of Germanic origin; related to Latin nidus, from the Indo-European bases of nether (meaning ‘down’) and sit .

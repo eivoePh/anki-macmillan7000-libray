@@ -1,15 +1,34 @@
-settle 
+settle
+1 
+ˈsedl
+
 ▶verb
-1 they settled the dispute: resolve, sort out, solve, clear up, end, fix, work out, iron out, straighten out, set right, rectify, remedy, reconcile; informal patch up. ANTONYMS prolong.
-2 she settled their affairs: put in order, sort out, tidy up, arrange, organize, order, clear up.
-3 they settled on a date for the wedding: decide on, set, fix, agree on, name, establish, arrange, appoint, designate, assign; choose, select, pick.
-4 she went down to the lobby to settle her bill: pay, settle up, square, clear, defray.
-5 they settled for a 4.2% raise: accept, agree to, assent to; formal accede to.
-6 he settled in Otsego County: make one's home in, set up home in, take up residence in, put down roots in, establish oneself in; live in, move to, emigrate to.
-7 immigrants settled much of Australia: colonize, occupy, inhabit, people, populate.
-8 Catherine settled down to her work: apply oneself to, get down to, set about, attack; concentrate on, focus on, devote oneself to.
-9 the class wouldn't settle down : calm down, quiet down, be quiet, be still; informal shut up.
-10 a brandy will settle your nerves: calm, quiet; soothe, pacify, quell; sedate, tranquilize; British quieten. ANTONYMS agitate, disturb.
-11 he settled into an armchair: sit down, seat oneself, install oneself, ensconce oneself, plant oneself; informal park oneself, plunk oneself.
-12 a butterfly settled on the flower: land, come to rest, alight, descend, perch; archaic light.
-13 when the stirring stops, the sediment settles: sink, subside, fall, gravitate. ANTONYMS rise.
+1 [with object] resolve or reach an agreement about (an argument or problem): every effort was made to settle the dispute. 
+• end (a legal dispute) by mutual agreement: the matter was settled out of court 
+[no object] : he sued for libel and then settled out of court. 
+• determine; decide on: exactly what goes into the legislation has not been settled 
+[no object] : they had not yet settled on a date for the wedding. 
+• pay (a debt or account): his bill was settled by charge card 
+[no object] : I settled up with your brother for my board and lodging. 
+• complete the administration and distribution of a decedent's estate. 
+• (settle something on) give money or property to (someone) through a deed of settlement or a will. 
+• [no object] (settle for) accept or agree to (something that one considers to be less than satisfactory): it was too cold for champagne so they settled for a cup of tea. 
+• dated silence (someone considered a nuisance) by some means: he told me to hold my tongue or he would find a way to settle me.
+2 [no object] adopt a more steady or secure style of life, especially in a permanent job and home: one day I will settle down and raise a family. 
+• [with adverbial of place] make one's permanent home somewhere: in 1863 the family settled in London. 
+• begin to feel comfortable or established in a new home, situation, or job: she settled in happily with a foster family 
+he had settled into his new job. 
+• [with object] establish a colony in: European immigrants settled much of Australia. 
+• (settle down to) turn one's attention to; apply oneself to: Catherine settled down to her studies. 
+• become or make calmer or quieter: [no object] : after a few months the controversy settled down 
+[with object] : try to settle your puppy down before going to bed.
+3 [no object] sit or come to rest in a comfortable position: he settled into an armchair. 
+• [with object] make (someone) comfortable in a particular place or position: she allowed him to settle her in the taxi. 
+• [with object] move or adjust (something) so that it rests securely: she settled her bag on her shoulder. 
+• fall or come down onto a surface: dust from the mill had settled on the roof. 
+• (of suspended particles) sink slowly in a liquid to form sediment; (of a liquid) become clear or still through this process: sediment settles near the bottom of the tank 
+he pours a glass and leaves it on the bar to settle. 
+• (of an object or objects) gradually sink down under its or their own weight: they listened to the soft ticking and creaking as the house settled. 
+• (of a ship or boat) sink gradually. 
+PHRASES
+settle one's affairs make any necessary arrangements, such as writing a will, before one's death.settle someone's hash see hash1. DERIVATIVES settleable adjective. settledness nounORIGIN Old English setlan ‘to seat, place,’ from settle2 .

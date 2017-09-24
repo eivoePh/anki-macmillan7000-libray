@@ -1,6 +1,9 @@
 install 
-▶verb
-1 a photocopier was installed in the office: put, position, place, locate, situate, station, site, lodge; insert. ANTONYMS remove.
-2 the college installs its new president this afternoon: swear in, induct, instate, inaugurate, invest; appoint; ordain, consecrate, anoint; enthrone, crown. ANTONYMS remove.
-3 she installed herself behind the table: ensconce, establish, position, settle, seat, lodge, plant; sit (down); informal plonk, park.
-4 you'll need to install new software: load, store.
+inˈstôl 
+(British also instal) 
+▶verb (installs or British instals, installing, installed) [with object]
+1 place or fix (equipment or machinery) in position ready for use: we're planning to install a new shower. 
+• load (software) into a computer: you may want to install a new version of the program.
+2 place (someone) in a new position of authority, especially with ceremony: he was installed as music director at the Cathedral of St. Barbara in Cracow. 
+• establish (someone) in a new place, condition, or role: Ashley installed herself behind her table. ORIGIN late Middle English ( sense 2): from medieval Latin installare, from in- ‘into’ + stallum ‘place, stall.’ Sense
+1 dates from the mid 19th century.

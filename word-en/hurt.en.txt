@@ -1,10 +1,17 @@
 hurt 
-▶verb
-1 my back hurts: be painful, be sore, be tender, cause pain, cause discomfort; ache, smart, sting, burn, throb; informal be killing (one).
-2 Dad hurt his leg: injure, wound, damage, abuse, disable, incapacitate, maim, mutilate, wrench; bruise, cut, gash, graze, scrape, scratch, lacerate. ANTONYMS heal.
-3 his words hurt her: distress, pain, wound, sting, upset, sadden, devastate, grieve, mortify; cut to the quick. ANTONYMS please, comfort.
-4 high interest rates are hurting the economy: harm, damage, be detrimental to, weaken, blight, impede, jeopardize, undermine, ruin, wreck, sabotage, cripple. ANTONYMS improve, benefit.
-▶noun she apologized for the hurt she had caused: distress, pain, suffering, injury, grief, misery, anguish, agony, trauma, woe, upset, sadness, sorrow; harm, damage, trouble. ANTONYMS joy.
-▶adjective
-1 my hurt hand: injured, wounded, bruised, grazed, cut, gashed, battered, sore, painful, aching, smarting, throbbing. ANTONYMS healed.
-2 Anne's hurt expression: pained, injured, distressed, anguished, upset, sad, mortified, offended; informal miffed, peeved, sore. ANTONYMS pleased.
+hərt
+
+▶verb (past and past participle hurt) [with object] cause physical pain or injury to: Ow! You're hurting me! 
+[no object] : does acupuncture hurt? 
+• [no object] (of a part of the body) suffer pain: my back hurts. 
+• cause mental pain or distress to (a person or their feelings): she didn't want to hurt his feelings. 
+• [no object] (of a person) feel mental pain or distress: he was hurting badly, but he smiled through his tears. 
+• be detrimental to: high interest rates are hurting the local economy. 
+• [no object] (hurt for) North American informal have a pressing need for: Frank wasn't hurting for money. 
+▶adjective physically injured: he complained of a hurt leg and asked his trainer to stop the fight 
+dogs and cats with hurt paws. 
+• distressed or offended by another person's behavior: “You know I care,” he said, in a hurt voice 
+I felt so hurt and alone. 
+▶noun physical injury; harm. 
+• mental pain or distress: the hurt of being constantly ignored 
+wariness that masked a hurt. ORIGIN Middle English (originally in the senses ‘to strike’ and ‘a blow’): from Old French hurter (verb), hurt (noun), perhaps ultimately of Germanic origin.

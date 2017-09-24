@@ -8,5 +8,8 @@ A.  noun
 ④ Chemistry 组分 zǔfèn 
 B.  adjective attributive 组成的 zǔchéng de ‹element›
 component 
-▶noun the components of electronic devices: part, piece, bit, element, constituent, ingredient, building block; unit, module, section.
-▶adjective the molecule's component elements: constituent, integral; basic, essential.
+kəmˈpōnənt
+
+▶noun a part or element of a larger whole, especially a part of a machine or vehicle: stereo components. 
+• Physics each of two or more forces, velocities, or other vectors acting in different directions that are together equivalent to a given vector. 
+▶adjective constituting part of a larger whole; constituent: light passed through a prism breaks up into its component colors. ORIGIN mid 17th century: from Latin component- ‘putting together,’ from the verb componere, from com- ‘together’ + ponere ‘put.’ Compare with compound1 .

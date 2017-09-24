@@ -42,22 +42,54 @@ A.  intransitive verb
 ② (share) 共用一物 gòng yòng yī wù to double up with [somebody]; 和某人共用 to double up on [something]; 共用某物 
 B.  transitive verb [double somebody up], [double up somebody] 使…弯腰 shǐ… wānyāo ‹opponent, audience›to be doubled up (in or with pain/laughter); （疼得/笑得）直不起腰 
 double 
+ˈdəb(ə)l
+
 ▶adjective
-1 a double garage 
-double yellow lines: dual, duplex, twin, binary, duplicate, in pairs, coupled, twofold. ANTONYMS single.
-2 a double helping: doubled, twofold.
-3 a double meaning: ambiguous, equivocal, dual, two-edged, double-edged, ambivalent, cryptic, enigmatic. ANTONYMS unambiguous.
-4 a double life: deceitful, double-dealing, two-faced, Janus-faced, dual; hypocritical, false, duplicitous, insincere, deceiving, dissembling, dishonest. ANTONYMS simple, honest.
-▶adverb we had to pay double: twice (over), twice the amount, doubly.
+1 consisting of two equal, identical, or similar parts or things: the double doors. 
+• having twice the usual size, quantity, or strength: she sipped a double brandy. 
+• designed to be used by two people: a double bed. 
+• having two different roles or interpretations, especially in order to deceive or confuse: the double life of a freelance secret agent.
+2 having some essential part or feature twice, in particular: 
+• (of a flower variety) having more than one circle of petals: large double blooms. 
+• (of a domino) having the same number of dots on each half. 
+• used to indicate that a letter or number occurs twice in succession: “otter” is spelled with a double t.
+3 Music lower in pitch by an octave. 
+▶predet. twice as much or as many: the jail now houses almost double the number of prisoners it was designed for 
+I'll pay double what I paid last time. 
+▶adverb at or to twice the amount or extent: you have to be careful, and this counts double for older people. 
+• as two instead of the more usual one: she thought she was seeing double. 
 ▶noun
-1 if it's not her, it's her double: look-alike, twin, clone, duplicate, exact likeness, replica, copy, facsimile, doppelgänger; informal spitting image, dead ringer.
-2 she used a double for the stunts: stand-in, substitute.
+1 a thing that is twice as large as usual or is made up of two standard units or things: join the two sleeping bags together to make a double. 
+• a double measure of liquor. 
+• Baseball a hit that allows the batter to reach second base safely: Sabo came home on a double by O'Neill. 
+• a type of bet in which two selections are made, with any winnings from the first being transferred to the second. 
+• Bridge a call that will increase the points won if the declarer is successful, or increase the penalty points won by the defenders if the declarer fails to make the contract. 
+• Darts a hit on the narrow ring enclosed by the two outer circles of a dartboard, scoring double.
+2 a person who looks exactly like another: you could pass yourself off as his double. 
+• a person who stands in for an actor in a film. 
+• an apparition of a living person: she had seen her husband's double.
+3 (doubles) (especially in tennis and badminton) a game or competition involving sides made up of two players: the semifinals of the doubles. 
+▶pronoun a number or amount that is twice as large as a contrasting or usual number or amount: he paid double and had a room all to himself. 
 ▶verb
-1 they doubled his salary: multiply by two, increase twofold.
-2 the bottom sheet had been doubled up: fold (back/up/down/over/under), turn back/up/down/over/under, tuck back/up/down/under.
-3 the kitchen can double as a dining room: function, do, (also) serve.
+1 [no object] become twice as much or as many: profits doubled in one year. 
+• [with object] make twice as much or as many of (something): Clare doubled her income overnight. 
+• [with object] archaic amount to twice as much as: thy fifty yet doth double five and twenty. 
+• (of a member of the armed forces) move at twice the usual speed; run: I doubled across the deck to join the others. 
+• Baseball (of a batter) get a two-base hit: Strawberry doubled with two outs. 
+• Bridge make a call increasing the value of the penalty points to be scored on an opponent's bid if it wins the auction and is not fulfilled. 
+• informal US go out on a double date: they doubled with his sister and her oafish boyfriend.
+2 [with object] fold or bend (paper, cloth, or other material) over on itself: the muslin is doubled and then laid in a sieve over the bowl. 
+• clench (a fist): he had one arm around her and the other fist doubled. 
+• Nautical sail around (a headland): we struck out seaward to double the headland of the cape.
+3 [no object] (of a person or thing) be used in or play another, different role: a laser printer doubles as a photocopier. 
+• [with object] (of an actor) play (two parts) in the same piece. 
+• Music play two or more musical instruments. 
+• [with object] Music add the same note in a higher or lower octave to (a note). 
 PHRASES
-on the double hold tight, we'll be there on the double: very quickly, as fast as one's legs can carry one, at a run, at a gallop, fast, swiftly, rapidly, speedily, at full speed, at full tilt, as fast as possible; informal like (greased) lightning, like the wind, like a bat out of hell, lickety-split, pretty damn quick, PD
-Q.  
-WORD LINKS
-double bi- , di-1 forming words meaning ‘having two’ or ‘double,’ such as biped (‘an animal that walks on two feet’) and dioxide (‘an oxide with two atoms of oxygen to one of a metal or other element’)Word Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+on the double at running speed; very fast: he disappeared on the double. double or nothing a gamble to decide whether a loss or debt should be doubled or canceled.PHRASAL VERBS double back go back in the direction one has come: he had to double back to pick them up. double down chiefly US (in blackjack) double a bet after seeing one's initial cards, with the requirement that one additional card be drawn: the amount only increases when you choose to split or double down 
+he doubled down on a pair and lost. 
+• strengthen one's commitment to a particular strategy or course of action, typically one that is potentially risky: he decided to double down and escalate the war 
+the third quarter of the year saw central banks doubling down on the quantitative easing approach. double up
+1 bend over or curl up, typically because one is overcome with pain or mirth: Billy started to double up with laughter.
+2 share a room: “Where's Jimmy going to sleep?” “He can double up with Bert.”
+3 use the winnings from a bet as stake for another bet.DERIVATIVES doubler nounORIGIN Middle English: via Old French from Latin duplus (see duple). The verb is from Old French dobler, from late Latin duplare, from duplus .

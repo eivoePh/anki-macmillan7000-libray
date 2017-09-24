@@ -4,6 +4,12 @@ adjective
 ① (common) 普通的 pǔtōng de a generic term 通称 
 ② Busn 无注册商标的 wú zhùcè shāngbiāo de ‹food, product›
 generic 
+jəˈnerik
+
 ▶adjective
-1 a generic classification for similar offenses: general, common, collective, nonspecific, inclusive, all-encompassing, broad, comprehensive, blanket, umbrella. ANTONYMS specific.
-2 generic drugs are cheaper than brand-name ones: unbranded, nonproprietary, no-name. ANTONYMS specific.REFLECTIONS Alexandra Horowitzgeneric The medically inspired usage of generic is poised to entirely supplant the original meaning of this word, which describes what is characteristic of a class or group of things. But it remains more compelling to use generic to relate to a ‘non-specific feature’ (the look on his face could best be described as a generic expression of boredom) than to a ‘non-brand-name drug.’Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+1 characteristic relating to a class or group of things; not specific: chèvre is a generic term for all goat's milk cheese. 
+• (of goods, especially medicinal drugs) having no brand name; not protected by a registered trademark: generic aspirin. 
+• derogatory lacking imagination or individuality; predictable and unoriginal: generic dance-floor fillers 
+the plot of the film isn't just generic, it's insultingly stupid.
+2 Biology relating to a genus. 
+▶noun a consumer product having no brand name or registered trademark: substituting generics for brand-name drugs. ORIGIN late 17th century: from French générique, from Latin genus, gener- ‘stock, race.’

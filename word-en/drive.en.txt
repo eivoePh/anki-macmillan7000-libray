@@ -1,18 +1,55 @@
 drive 
-▶verb
-1 I can't drive a car: operate, handle, manage; pilot, steer.
-2 he drove to the police station: travel by car, motor.
-3 I'll drive you to the airport: chauffeur, run, give someone a lift/ride, take, ferry, transport, convey, carry.
-4 the engine drives the front wheels: power, propel, move, push.
-5 he drove a nail into the board: hammer, screw, ram, sink, plunge, thrust, propel, knock.
-6 she drove her cattle to market: impel, urge; herd, round up, shepherd.
-7 a desperate mother driven to crime: force, compel, prompt, precipitate; oblige, coerce, pressure, goad, spur, prod.
-8 he drove his staff extremely hard: work, push, tax, exert.
+drīv
+
+▶verb (past drove 
+drōv
+; past participle driven 
+ˈdrivən
+)
+1 [no object] operate and control the direction and speed of a motor vehicle: he got into his car and drove off 
+they drove back into town. 
+• (of a motor vehicle) travel under the control of a driver: a car drives up, and a man gets out 
+a stream of black cars drove by. 
+• [with object] own or use (a specified type of motor vehicle): Sue drives an old Chevy. 
+• be licensed or competent to drive a motor vehicle: I take it you can drive? 
+• [with object] convey (someone) in a vehicle, especially a private car: Shelley drove him to the supermarket.
+2 [with object] propel or carry along by force in a specified direction: the wind will drive you onshore. 
+• [no object] (of wind, water, or snow) move or fall with great force: the snow drove against him. 
+• (of a source of power) provide the energy to set and keep (an engine or piece of machinery) in motion: turbines driven by steam. 
+• Electronics (of a device) power or operate (another device): the interface can be used to drive a printer. 
+• force (a stake or nail) into place by hitting or pushing it: nails are driven through the boards. 
+• bore (a tunnel). 
+• (in ball games) hit or kick (the ball) hard with a free swing of the bat, racket, or foot. 
+• Golf strike (a ball) from the tee, typically with a driver.
+3 [with object] urge or force (animals or people) to move in a specified direction: they drove a flock of sheep through the center of the city 
+the French infantry were driven back. 
+• compel to leave: troops drove out the demonstrators 
+he wanted to drive me away.
+4 [with object] (of a fact or feeling) compel (someone) to act in a particular way, especially one that is considered undesirable or inappropriate: he was driven by ambition 
+[with object and infinitive] : some people are driven to murder their tormentors 
+(as adjective driven) : my husband is a driven man. 
+• bring (someone) forcibly into a specified negative state: the thought drove him to despair 
+[with object and complement] : my laziness drives my wife crazy. 
+• force (someone) to work to an excessive extent: you're driving yourself too hard. 
+• cause (something abstract) to happen or develop: the consumer has been driving the economy for a number of years 
+we need to allow market forces to drive growth in the telecommunications sector. 
 ▶noun
-1 an afternoon drive: excursion, outing, trip, jaunt, tour; ride, run, journey; informal spin.
-2 the house has a long drive: driveway, approach, access road.
-3 sexual drive: urge, appetite, desire, need; impulse, instinct.
-4 she lacked the drive to succeed: motivation, ambition, single-mindedness, willpower, dedication, doggedness, tenacity; enthusiasm, zeal, commitment, aggression, spirit; energy, vigor, verve, vitality, pep; informal get-up-and-go.
-5 an anticorruption drive: campaign, crusade, movement, effort, push, appeal.
+1 a trip or journey in a car: they went for a drive in the country. 
+• [in names] a street or road: Hammond Drive. 
+• short for driveway.
+2 Psychology an innate, biologically determined urge to attain a goal or satisfy a need: her emotional and sexual drives. 
+• the determination and ambition of a person to achieve something: her drive has sustained her through some shattering personal experiences.
+3 an organized effort by a number of people to achieve a particular purpose, often to raise money: we're planning a massive membership drive. 
+• American Football a series of offensive plays that advance the ball for the purpose of a score: an 80-yard scoring drive.
+4 the transmission of power to machinery or to the wheels of a motor vehicle. 
+• (in a car with automatic transmission) the position of the gear selector in which the car will move forward, changing gears automatically as required: he threw the car into drive. 
+• Computing short for disk drive.
+5 (in ball games) a forceful stroke made with a free swing of the bat, racket, or foot against the ball. 
+• Golf a shot from the tee.
+6 an act of driving a group of animals to a particular destination. 
 PHRASES
-drive at I can see what you're driving at, but you're wrong: suggest, imply, hint at, allude to, intimate, insinuate, indicate; refer to, mean, intend; informal get at.
+drive something home see home. what someone is driving at the point that someone is attempting to make: I don't understand what you're driving at.DERIVATIVES drivability 
+ˌdrīvəˈbilədē 
+(also driveability) noun. drivable 
+ˈdrīvəb(ə)l 
+(also driveable) adjectiveORIGIN Old English drīfan ‘urge (a person or animal) to go forward,’ of Germanic origin; related to Dutch drijven and German treiben .

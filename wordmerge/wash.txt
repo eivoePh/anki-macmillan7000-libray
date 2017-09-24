@@ -65,20 +65,40 @@ B.  transitive verb[wash something up], [wash up something]
 ① BrE (clean) 洗 xǐ ‹dishes, cutlery›
 ② (carry on to shore) 把…冲上岸 bǎ… chōngshang'àn ‹debris›
 wash 
+wäSH wôSH
+
 ▶verb
-1 he is washing in the guest bathroom: clean oneself; bathe, take a bath, shower, soak, freshen up; formal perform one's ablutions.
-2 he washed her socks: clean, cleanse, rinse, launder, scour; shampoo, lather, sponge, scrub, wipe; sluice, douse, swab, disinfect; literary lave. ANTONYMS soil.
-3 waves washed against the hull: splash, lap, splosh, dash, crash, break, beat, surge, ripple, roll.
-4 the wreckage was washed downriver: sweep, carry, convey, transport.
-5 it washed up on my front lawn: land, come to rest, be deposited, be beached.
-6 guilt washed over her: surge through, rush through, course through, flood over, flow over; affect, overcome.
-7 informal this story just won't wash: be accepted, be acceptable, be plausible, be convincing, hold up, hold water, stand up, bear scrutiny; do.
+1 [with object] clean with water and, typically, soap or detergent: I stripped and washed myself all over. 
+• [no object] clean oneself, especially one's hands and face with soap and water. 
+• (with reference to a stain or dirt) remove or be removed by cleaning with water and detergent: they have to keep washing the mold off the walls 
+figurative : all that hate can't wash away the guilt 
+[no object] : the dirt on his clothes would easily wash out. 
+• [no object] (of fabric, a garment, or dye) withstand cleaning to a specified degree without shrinking or fading: a linen-mix yarn that washes well. 
+• [no object] do one's laundry: I need someone to cook and wash for me. 
+• literary wet or moisten (something) thoroughly: you are beautiful with your face washed with rain.
+2 [with object] (of flowing water) carry (someone or something) in a particular direction: floods washed away the bridges. 
+• [no object] be carried by flowing water: an oil slick washed up on the beaches. 
+• [no object] (especially of waves) sweep, move, or splash in a particular direction: the sea began to wash along the decks. 
+• (of a river, sea, or lake) flow through or lap against (a country, coast, etc.): offshore islands washed by warm blue seas. 
+• sift metallic particles from (earth or gravel) by running water through it.
+3 [with object] brush with a thin coat of diluted paint or ink: the walls were washed with shades of umber. 
+• (wash something with) coat inferior metal with (a film of gold or silver from a solution).
+4 [no object] informal seem convincing or genuine: charm won't wash with this crew. 
 ▶noun
-1 she needs a wash: clean, shower, dip, bath, soak; formal ablutions.
-2 that shirt should go in the wash: laundry, washing.
-3 antiseptic skin wash: lotion, salve, preparation, rinse, liquid; liniment.
-4 the wash of the boat: backwash, wake, trail, path.
-5 the wash of the waves on the beach: surge, flow, swell, sweep, rise and fall, roll, splash.
-6 a light watercolor wash: paint, stain, film, coat, coating; tint, glaze.
+1 [usually in singular] an act of washing something or an instance of being washed. 
+• a quantity of clothes needing to be or just having been washed: she hung out her Tuesday wash. 
+• a medicinal or cleansing solution: mouth wash.
+2 [in singular] the disturbed water or air behind a moving boat or aircraft or the sound made by this: the wash of a motorboat. 
+• the surging of water or breaking of waves or the sound made by this: the wash of waves on the pebbled beach.
+3 a layer of paint or metal spread thinly on a surface: the walls were covered with a pale lemon wash.
+4 silt or gravel carried by a stream or river and deposited as sediment. 
+• a sandbank exposed only at low tide. 
+• (in the western US) a dry bed of a stream, typically in a ravine, that flows only seasonally.
+5 kitchen slops and other food waste fed to pigs.
+6 malt fermenting in preparation for distillation.
+7 [in singular] North American informal a situation or result that is of no benefit to either of two opposing sides: the plan's impact on jobs would be a wash, creating as many as it costs. 
 PHRASES
-wash one's hands of I'm going to wash my hands of the whole business: disown, renounce, reject, forswear, disavow, give up on, turn one's back on, cast aside, abandon; formal abjure. wash up you kids can wash up after dinner: wash the dishes, do the dishes, clean up.
+come out in the wash informal be resolved eventually with no lasting harm: he's not happy, but he assures me it'll all come out in the wash. in the wash (of clothes, bed linen, or similar) put aside for washing or in the process of being washed. one hand washes the other mutual favors are exchanged: You can be on the list if you also link to our page. One hand washes the other. wash (or air) one's dirty linen (or laundry) in public informal (of an individual or a member of an organization) discuss or argue about one's private affairs in public. wash one's hands go to the toilet (used euphemistically). wash one's hands of disclaim responsibility for: the social services washed their hands of his daughter. [originally with biblical allusion to Matt. 27:24.] wash one's mouth out (with soap) [often as imperative] stop swearing.PHRASAL VERBS wash something down accompany or follow food with a drink: bacon and eggs washed down with a cup of tea. wash out (or wash someone out) North American be excluded (or exclude someone) from a course or position after a failure to meet the required standards: a lot of them had washed out of pilot training.wash something out
+1 cause an event to be postponed or canceled because of rain: the game was washed out.
+2 (of a flood or downpour) make a breach in a road. wash over (of a feeling) affect (someone) suddenly: a deep feeling of sadness washed over her. 
+• occur all around without greatly affecting (someone): she allowed the babble of conversation to wash over her.ORIGIN Old English wæscan (verb), of Germanic origin; related to Dutch wassen,German waschen, also to water .

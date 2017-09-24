@@ -2,5 +2,10 @@ preposition
 BrE ˌprɛpəˈzɪʃ(ə)n, AmE ˌprɛpəˈzɪʃ(ə)n 
 noun 介词 jiècí 
 preposition 
-BrE ˌprɛpəˈzɪʃ(ə)n, AmE ˌprɛpəˈzɪʃ(ə)n 
-noun 介词 jiècí 
+ˌprepəˈziSH(ə)n
+
+▶noun Grammar a word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause, as in “the man on the platform,” “she arrived after dinner,” “what did you do it for?” DERIVATIVES prepositional 
+ˌprepəˈziSH(ə)n(ə)l 
+adjective. prepositionally 
+ˌprepəˈziSH(ə)n(ə)lē 
+adverbORIGIN late Middle English: from Latin praepositio(n-), from the verb praeponere, from prae ‘before’ + ponere ‘to place.’ usage: There is a traditional view, as set forth by the 17th-century poet and dramatist John Dryden, that it is incorrect to put a preposition at the end of a sentence, as in where do you come from? or she's not a writer I've ever come across. The rule was formulated on the basis that, since in Latin a preposition cannot come after the word it governs or is linked with, the same should be true of English. What this rule fails to take into account is that English is not like Latin in this respect, and in many cases (particularly in questions and with phrasal verbs) the attempt to move the preposition produces awkward, unnatural-sounding results. Winston Churchill famously objected to the rule, saying “This is the sort of English up with which I will not put.” In standard English the placing of a preposition at the end of a sentence is widely accepted, provided the use sounds natural and the meaning is clear.

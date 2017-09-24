@@ -1,10 +1,11 @@
 offshore 
-BrE ˈɒfʃɔː, ɒfˈʃɔː, AmE ˌɔfˈʃɔr, ˌɑfˈʃɔr 
-A. adjective 
-① (away from the coast) 近海的 jìnhǎi de ‹island, anchorage›; 向海的 xiàng hǎi de ‹wind›
-② (in oil industry) 海上的 hǎi shang de ‹drilling, oilfield, platform›
-③ Finance 境外的 jìngwài de ‹banking›an offshore fund/tax haven 境外基金/避税港 
-B.  adverb 
-① (away from the coast) 离岸地 lí'àn de 
-② (in oil industry) 在海上 zài hǎi shang ‹drill, prospect›
-③ Finance 在境外 zài jìngwài to invest/bank offshore 在海外投资/存钱 
+ˌôfˈSHôr ˌäfˈSHôr
+
+▶adjective & adverb
+1 situated at sea some distance from the shore: [as adjective] : this huge stretch of coastline is dominated by offshore barrier islands 
+[as adverb] : we dropped anchor offshore. 
+• (of the wind) blowing toward the sea from the land. 
+• relating to the business of extracting oil or gas from the seabed: offshore drilling.
+2 made, situated, or conducting business abroad, especially in order to take advantage of lower costs or less stringent regulation: [as adjective] : deposits in offshore accounts. 
+• relating to or derived from a foreign country: [as adjective] : offshore politics. 
+▶verb [with object] relocate (a business or department) to a foreign country to take advantage of lower costs: firms had offshored some activities by early 2004.

@@ -1,9 +1,27 @@
-cap 
+cap
+1 
+kap
+
 ▶noun
-1 a white plastic cap: lid, top; stopper, cork, bung.
-2 the cap on spending: limit, upper limit, ceiling; curb, check.
-▶verb
-1 mountains capped with snow: top, crown, cover, coat.
-2 his breakaway goal capped a great game: round off, crown, top off, be a fitting climax to.
-3 they tried to cap each other's stories: beat, better, improve on, surpass, outdo, outshine, outstrip, top, upstage.
-4 budgets will be capped: set a limit on, limit, restrict; curb, control.
+1 a kind of soft, flat hat without a brim, and sometimes having a visor. 
+• [with adjective or noun modifier] a kind of soft, close-fitting head covering worn for a particular purpose or as a mark of a particular profession or status: a nurse's cap 
+a bathing cap. 
+• an academic mortarboard: graduates in cap and gown.
+2 a protective lid or cover for an object such as a bottle, the point of a pen, or a camera lens. 
+• Dentistry an artificial protective covering for a tooth. 
+• the top of a bird's head when distinctively colored. 
+• the broad upper part of the fruiting body of most mushrooms and toadstools, at the top of a stem and bearing gills or pores.
+3 an upper limit imposed on spending or other activities: a cap on government purchases.
+4 short for percussion cap. 
+▶verb (caps, capped, capping) [with object]
+1 put a lid or cover on: he capped his pen. 
+• form a covering layer or top part of: several towers were capped by domes 
+[as adjective, in combination] (-capped) : snow-capped mountains. 
+• put an artificial protective covering on (a tooth). 
+• provide a fitting climax or conclusion to: he capped a memorable season by becoming champion. 
+• follow or reply to (a story, remark, or joke) by producing a better or more apposite one: they capped each other's stories.
+2 place a limit or restriction on (prices, expenditure, or other activity): council budgets will be capped. 
+PHRASES
+cap (or hat) in hand humbly asking for a favor: we have to go cap in hand begging for funds.set one's cap for (or at) dated (of a woman) try to attract (a particular man) as a suitor.DERIVATIVES capful 
+ˈkapˌfo͝ol 
+noun (plural capfuls) ORIGIN Old English cæppe ‘hood,’ from late Latin cappa, perhaps from Latin caput ‘head.’

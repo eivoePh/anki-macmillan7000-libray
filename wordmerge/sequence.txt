@@ -5,6 +5,22 @@ noun
 ② Countable and uncountable(order) 顺序 shùnxù in ascending/chronological sequence 按升序/按年代顺序 in sequence of [something] 按某种次序 
 ③ Countable(of film) 一组镜头 yī zǔ jìngtóu 
 sequence 
+ˈsēkwəns
+
 ▶noun
-1 the sequence of events: succession, order, course, series, chain, train, string, progression, chronology, timeline; pattern, flow; formal concatenation.
-2 a sequence from his film: excerpt, clip, extract, episode, section.
+1 a particular order in which related events, movements, or things follow each other: the content of the program should follow a logical sequence. 
+• Music a repetition of a phrase or melody at a higher or lower pitch. 
+• Biochemistry the order in which amino acid or nucleotide residues are arranged in a protein, DNA, etc.
+2 a set of related events, movements, or things that follow each other in a particular order: a grueling sequence of exercises 
+a sonnet sequence. 
+• a set of three or more playing cards of the same suit next to each other in value, for example 10, 9, 8. 
+• Mathematics an infinite ordered series of numerical quantities.
+3 a part of a film dealing with one particular event or topic: the famous underwater sequence.
+4 (in the Eucharist) a hymn said or sung after the Gradual or Alleluia that precedes the Gospel. 
+▶verb [with object]
+1 arrange in a particular order: trainee librarians decide how a set of misfiled cards could be sequenced. 
+• Biochemistry ascertain the sequence of amino acid or nucleotide residues in (a protein, DNA, etc.).
+2 play or record (music) with a sequencer. 
+PHRASES
+in sequence in a given order.ORIGIN late Middle English ( sense
+4 of the noun): from late Latin sequentia, from Latin sequent- ‘following,’ from the verb sequi ‘follow.’

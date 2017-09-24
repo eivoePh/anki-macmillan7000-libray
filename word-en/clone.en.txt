@@ -1,7 +1,12 @@
 clone 
-BrE kləʊn, AmE kloʊn 
-A. noun 
-① Biology 克隆 kèlóng 
-② Computing 克隆机 kèlóngjī 
-③ figurative pejorative (person resembling sb. else) 一味仿效的人 yīwèi fǎngxiào de rén 
-B.  transitive verb 克隆 kèlóng ‹cell, organism›
+klōn
+
+▶noun Biology an organism or cell, or group of organisms or cells, produced asexually from one ancestor or stock, to which they are genetically identical. 
+• a person or thing regarded as identical to another: successful women don't want to be male clones. 
+• a computer designed to simulate exactly the operation of another, typically more expensive, model: an IBM PC clone. 
+▶verb [with object] propagate (an organism or cell) as a clone: of the hundreds of new plants cloned, the best ones are selected. 
+• make an identical copy of. 
+• Biochemistry replicate (a fragment of DNA placed in an organism) so that there is enough to analyze or use in protein production. 
+• illegally copy the security codes from (a mobile phone) to one or more others as a way of obtaining free calls. DERIVATIVES clonal 
+ˈklōnl 
+adjectiveORIGIN early 20th century: from Greek klōn ‘twig.’

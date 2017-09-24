@@ -1,5 +1,7 @@
 departure 
-▶noun
-1 he tried to delay her departure: leaving, going, leave-taking, withdrawal, exit, egress, retreat.
-2 a departure from the norm: deviation, divergence, digression, shift; variation, change.
-3 an exciting departure for filmmakers: change, innovation, novelty, rarity.
+dəˈpärCHər
+
+▶noun the action of leaving, typically to start a journey: the day of departure 
+she made a hasty departure. 
+• a deviation from an accepted, prescribed, or traditional course of action or thought: a departure from their usual style. 
+• Nautical the east–west distance between two points, especially as traveled by a ship or aircraft and expressed in miles. ORIGIN late Middle English: from Old French departeure, from the verb departir (see depart) .

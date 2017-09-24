@@ -16,7 +16,18 @@ C.  intransitive verb
 ③ (blend) «images, flavours» 结合 jiéhé to fuse together; 结合在一起 
 ④ BrE Electricity (stop working) «lights, television, plug» 保险丝熔断 bǎoxiǎnsī róngduàn 
 ⑤ Physics 核聚变 héjùbiàn 
-fuse 
+fuse
+1 
+fyo͞oz
+
 ▶verb
-1 a band that fuses rap with rock: combine, amalgamate, put together, join, unite, marry, blend, merge, meld, mingle, integrate, intermix, intermingle, synthesize; coalesce, compound, alloy; technical admix; literary commingle. ANTONYMS separate.
-2 metal fused to a base of colored glass: bond, stick, bind, weld, solder; melt, smelt. ANTONYMS disconnect.
+1 [with object] join or blend to form a single entity: intermarriage had fused the families into a large unit. 
+• [no object] (of groups of atoms or cellular structures) join or coalesce: the two nuclei move together and fuse into one nucleus. 
+• melt (a material or object) with intense heat, especially so as to join it with something else: powdered glass was fused to a metal base.
+2 [with object] provide (a circuit or electrical appliance) with a fuse: (as adjective fused) : a fused plug.
+3 [no object] British (of an electrical appliance) stop working when a fuse melts: the crew were left in darkness after the lights fused. 
+• [with object] cause (an electrical appliance) to stop working when a fuse melts. 
+▶noun a safety device consisting of a strip of wire that melts and breaks an electric circuit if the current exceeds a safe level. 
+PHRASES
+blow a fuse use too much power in an electrical circuit, causing a fuse to melt. 
+• informal lose one's temper: it was only a suggestion—there's no need to blow a fuse.ORIGIN late 16th century: from Latin fus- ‘poured, melted,’ from the verb fundere .

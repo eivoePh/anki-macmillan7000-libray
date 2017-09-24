@@ -1,4 +1,9 @@
 contradiction 
-▶noun
-1 the contradiction between his faith and his lifestyle: conflict, clash, disagreement, opposition, inconsistency, mismatch, variance. ANTONYMS agreement.
-2 a contradiction of his statement: denial, refutation, rebuttal, countering. ANTONYMS confirmation, reaffirmation.
+ˌkäntrəˈdikSH(ə)n
+
+▶noun a combination of statements, ideas, or features of a situation that are opposed to one another: the proposed new system suffers from a set of internal contradictions. 
+• a person, thing, or situation in which inconsistent elements are present: the paradox of using force to overcome force is a real contradiction. 
+• the statement of a position opposite to one already made: the second sentence appears to be in flat contradiction of the first 
+the experiment provides a contradiction of the hypothesis. 
+PHRASES
+contradiction in terms a statement or group of words associating objects or ideas that are incompatible: “true fiction” is a contradiction in terms.ORIGIN late Middle English: via Old French from Latin contradictio(n-), from the verb contradicere (see contradict) .

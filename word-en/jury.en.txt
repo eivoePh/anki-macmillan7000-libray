@@ -1,5 +1,10 @@
-jury 
-BrE ˈdʒʊəri, AmE ˈdʒʊri 
-nounplus singular or plural verb 
-① Law 陪审团 péishěntuán trial by jury 陪审团审判 the jury is out literal 陪审团尚未作出裁定 figurative 争端悬而未决 zhēngduān xuán ér wèi jué 
-② (at competition) 评委会 píngwěihuì 
+jury
+1 
+ˈjo͝orē
+
+▶noun (plural juries) a body of people (typically twelve in number) sworn to give a verdict in a legal case on the basis of evidence submitted to them in court: the jury returned unanimous guilty verdicts. 
+• a body of people selected to judge a competition. 
+▶verb (juries, juried) [with object] (usually be juried) North American judge (an art or craft exhibition or exhibit): the exhibition was juried by a tapestry artist 
+(as adjective juried) : the juried show. 
+PHRASES
+the jury is still out a decision has not yet been reached on a controversial subject: the jury is still out on whether self-regulation by doctors is adequate.ORIGIN late Middle English: from Old French juree ‘oath, inquiry,’ from Latin jurata, feminine past participle of jurare ‘swear’ (see juror) .

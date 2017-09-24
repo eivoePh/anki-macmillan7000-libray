@@ -14,16 +14,26 @@ C.  intransitive verb
 ① (love) 喜欢 xǐhuan to care about or for [somebody]; 在乎某人 show him that you care 向他表明你在乎他 I didn't know you cared! 才发现你喜欢过我！ 
 ② (feel concern) 关心 guānxīn what do you want for lunch? — I don't care 你午饭想吃什么？──随便 he didn't seem to care about failing the exam 他好像并不在乎考试不及格 [somebody] couldn't care less (about [something]) 某人（对某事物）根本不在乎 he couldn't care less who wins 他毫不在乎谁会赢 for all [somebody] cares 某人根本不在乎 she can go and sleep in the park, for all I care 她可以去公园里睡觉，我才不管呢 [somebody] doesn't care a damn/tuppence/two hoots etc. colloquial 某人根本就不在乎 as if I/he cared! 好像我/他很在乎似的！ 
 care 
+ker
+
 ▶noun
-1 the care of the child: safekeeping, supervision, custody, charge, protection, control, responsibility; guardianship, wardship. ANTONYMS neglect.
-2 handle with care: caution, carefulness, heedfulness, heed, attention, attentiveness. ANTONYMS carelessness.
-3 she chose her words with care: discretion, judiciousness, forethought, thought, regard, heed, mindfulness; accuracy, precision, discrimination. ANTONYMS carelessness.
-4 the cares of the day: worry, anxiety, trouble, concern, stress, pressure, strain; sorrow, woe, hardship.
-5 care for the elderly: help, aid, assistance, succor, support; concern, consideration, thought, regard, solicitude; informal TL
-C.  ANTONYMS disregard.
-▶verb the teachers didn't care about our work: be concerned, worry (oneself), trouble oneself, concern oneself, bother, mind, be interested; informal give a damn, give a hoot.
+1 the provision of what is necessary for the health, welfare, maintenance, and protection of someone or something: the care of the elderly 
+the child is safe in the care of her grandparents 
+health care.
+2 serious attention or consideration applied to doing something correctly or to avoid damage or risk: he planned his departure with great care. 
+• an object of concern or attention: the cares of family life. 
+• a feeling of or occasion for anxiety: she was driving along without a care in the world. 
+▶verb [no object]
+1 [often with negative] feel concern or interest; attach importance to something: they don't care about human life 
+[with clause] : I don't care what she says. 
+• feel affection or liking: you care very deeply for him. 
+• (care for something/care to do something) like or be willing to do or have something: would you care for some tea? 
+I don't care to listen to him.
+2 (care for) look after and provide for the needs of: he has numerous animals to care for. 
 PHRASES
-care for
-1 he cares for his children: love, be fond of, be devoted to, treasure, adore, dote on, think the world of, worship, idolize.
-2 would you care for a cup of coffee? like, want, desire, fancy, feel like.
-3 hospices care for the terminally ill: look after, take care of, tend (to), attend to, minister to, nurse; be responsible for, keep safe, keep an eye on.
+care of at the address of: write to me care of Anne. I (or he, she, etc.) couldn't (or informal also could) care less informal used to express complete indifference: he couldn't care less about football. for all you care (or he, she, etc., cares) informal used to indicate that someone feels no interest or concern: I could drown for all you care.have a care [often in imperative] dated be cautious: “Have a care!” she warned. take care
+1 [often in imperative] be cautious; keep oneself safe: take care if you're planning to go out tonight. 
+• said to someone on leaving them: take care, see you soon.
+2 [with infinitive] make sure of doing something: he would take care to provide himself with an escape clause. take care of
+1 keep (someone or something) safe and provided for: I can take care of myself.
+2 deal with (something): he has the tools to take care of the electrical problem.ORIGIN Old English caru (noun), carian (verb), of Germanic origin; related to Old High German chara ‘grief, lament,’ charon ‘grieve,’ and Old Norse kǫr ‘sickbed.’

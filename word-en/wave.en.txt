@@ -1,14 +1,31 @@
 wave 
+wāv
+
 ▶verb
-1 he waved his flag in triumph: brandish, shake, swish, move to and fro, move up and down, wag, sweep, swing, flourish, wield; flick, flutter.
-2 the grass waved in the breeze: ripple, flutter, undulate, stir, flap, sway, billow, shake, quiver, move.
-3 the waiter waved them closer: gesture, gesticulate, signal, beckon, motion.
+1 [no object] move one's hand to and fro in greeting or as a signal: he waved to me from the train. 
+• [with object] move (one's hand or arm, or something held in one's hand) to and fro: he waved a sheaf of papers in the air. 
+• move to and fro with a swaying or undulating motion while remaining fixed to one point: the flag waved in the wind. 
+• [with object] convey (a greeting or other message) by moving one's hand or something held in it to and fro: we waved our farewells 
+[with two objects] : she waved him goodbye. 
+• [with object] instruct (someone) to move in a particular direction by moving one's hand: he waved her back.
+2 [with object] style (hair) so that it curls slightly: her hair had been carefully waved for the evening. 
+• [no object] (of hair) grow with a slight curl: (as adjective waving) : thick, waving gray hair sprouted back from his forehead. 
 ▶noun
-1 she gave him a friendly wave: gesture, gesticulation; signal, sign, motion; salute.
-2 he surfs the Malibu waves: breaker, roller, comber, boomer, ripple, white horse, bore, big kahuna; (waves) swell, surf, froth; backwash.
-3 a wave of emigration: flow, rush, surge, flood, stream, tide, deluge, spate.
-4 a wave of self-pity: surge, rush, stab, dart, upsurge, groundswell; thrill, frisson; feeling.
-5 his hair grew in thick waves: curl, kink, corkscrew, twist, ringlet, coil.
-6 electromagnetic waves: ripple, vibration, oscillation.
+1 a long body of water curling into an arched form and breaking on the shore. 
+• a ridge of water between two depressions in open water: gulls and cormorants bobbed on the waves. 
+• a shape seen as comparable to a breaking wave: a wave of treetops stretched to the horizon. 
+• (usually the wave) an effect resembling a moving wave produced by successive sections of the crowd in a stadium standing up, raising their arms, lowering them, and sitting down again. 
+• (the waves) literary the sea. 
+• a sudden occurrence of or increase in a specified phenomenon, feeling, or emotion: a wave of strikes had effectively paralyzed the government 
+horror came over me in waves.
+2 a gesture or signal made by moving one's hand to and fro: he gave a little wave and walked off.
+3 a slightly curling lock of hair: his hair was drying in unruly waves. 
+• a tendency to curl in a person's hair: her hair has a slight natural wave.
+4 Physics a periodic disturbance of the particles of a substance that may be propagated without net movement of the particles, such as in the passage of undulating motion, heat, or sound. See also standing wave and traveling wave. 
+• a single curve in the course of a wave. 
+• a variation of an electromagnetic field in the propagation of light or other radiation through a medium or vacuum. 
 PHRASES
-make waves informal just be quiet and don't make waves: cause trouble, be disruptive, be troublesome; make an impression, get noticed. wave aside he waved aside her protest: dismiss, reject, brush aside, shrug off, disregard, ignore, discount, play down; informal pooh-pooh. wave down she had no luck waving down a cab: flag down, hail, stop, summon, call, accost.
+make waves informal create a significant impression: he has already made waves as a sculptor. 
+• cause trouble: I don't want to risk her welfare by making waves.PHRASAL VERBS wave something aside dismiss something as unnecessary or irrelevant: he waved the objection aside and carried on. wave someone/something down use one's hand to give a signal to stop to a driver or vehicle.DERIVATIVES waveless 
+ˈwāvləs 
+adjective. wavelike adjectiveORIGIN Old English wafian (verb), from the Germanic base of waver; the noun by alteration (influenced by the verb) of Middle English wawe ‘(sea) wave.’ usage: See usage at waive .

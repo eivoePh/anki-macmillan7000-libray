@@ -26,14 +26,32 @@ A.  transitive verb[miss something/somebody out, miss out something/somebody] Br
 B.  intransitive verb colloquial 错过机会 cuòguò jīhuì if you don't go, you'll miss out 如果你不去，就会错过机会 to miss out on [something]; 错失 ‹meal, experience›to miss out on a deal (not join) 错失一笔交易 (not benefit from) 未获收益 
 miss
 1 
-▶verb
-1 the shot missed her by inches: fail to hit, be/go wide of, fall short of. ANTONYMS hit.
-2 Mandy missed the ball: fail to catch, drop, fumble, bobble, fluff, flub, mishandle, screw up. ANTONYMS catch.
-3 I've missed my bus: be too late for, fail to catch/get. ANTONYMS catch.
-4 I missed what you said: fail to hear, mishear.
-5 you can't miss the station: fail to see/notice, overlook. ANTONYMS see, notice.
-6 she never missed a class: fail to attend, be absent from, play truant from, cut, skip. ANTONYMS attend.
-7 don't miss this exciting opportunity! let slip, fail to take advantage of, let go, let pass, pass up.
-8 I left early to miss rush hour: avoid, beat, evade, escape, dodge, sidestep, elude, circumvent, steer clear of, find a way around, bypass.
-9 she missed him when he was away: pine for, yearn for, ache for, long for, long to see.
-▶noun one hit and three misses: failure, omission, slip, blunder, error, mistake.
+mis
+
+▶verb [with object]
+1 fail to hit, reach, or come into contact with (something aimed at): a laser-guided bomb had missed its target 
+[no object] : he was given two free throws, but missed both times. 
+• pass by without touching; chance not to hit: a piece of shrapnel missed him by inches. 
+• fail to catch (something thrown or dropped). 
+• be too late to catch (a passenger vehicle, etc.): we'll miss the train if he doesn't hurry. 
+• fail to notice, hear, or understand: the villa is impossible to miss—it's right by the road. 
+• fail to attend, participate in, or watch (something one is expected to do or habitually does): teachers were supposed to report those students who missed class that day. 
+• fail to see or have a meeting with (someone): “Potter's been here this morning?” “You've just missed him.” 
+• not be able to experience or fail to take advantage of (an opportunity or chance): don't miss the chance to visit the breathtaking Dolomites 
+[no object] : he failed to recover from a leg injury and missed out on a trip to Barcelona. 
+• avoid; escape: smart Christmas shoppers go out early to miss the crowds. 
+• fail to include (someone or something); omit: if we miss a few things in the first draft, we can add them later. 
+• (of a woman) fail to have (a monthly period). 
+• [no object] (of an engine or motor vehicle) undergo failure of ignition in one or more cylinders.
+2 notice the loss or absence of: he's rich—he won't miss the money 
+she slipped away when she thought she wouldn't be missed. 
+• feel regret or sadness at no longer being able to enjoy the presence of: she misses all her old friends. 
+• feel regret or sadness at no longer being able to go to, do, or have: I still miss France and I wish I could go back. 
+▶noun a failure to hit, catch, or reach something: Elster's stunning catch in the third inning made up for his dreadful miss in the first. 
+• a failure, especially an unsuccessful movie, television show, recording, etc.: audiences will decide whether Brando's latest flick is a hit or a miss. 
+PHRASES
+give something a miss British informal decide not to do or have something: we decided to give the popcorn a miss. miss a beat
+1 (of the heart) temporarily fail or appear to fail to beat.
+2 [usually with negative] informal hesitate or falter, especially in demanding circumstances or when making a transition from one activity to another: his speech segued from child-care subsidies to nuclear disarmament, without missing a beat. miss the boat (or bus) informal be too slow to take advantage of an opportunity: the company missed the boat with its first attempt at a computer line five years ago.a miss is as good as a mile proverb the fact of failure or escape is not affected by the narrowness of the margin. not miss a trick informal never fail to take advantage of a situation.DERIVATIVES missable 
+ˈmisəbəl 
+adjectiveORIGIN Old English missan, of Germanic origin; related to Dutch and German missen .

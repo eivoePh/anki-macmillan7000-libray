@@ -6,8 +6,9 @@ transitive verb
 ③ Sport colloquial (defeat) 彻底打败 chèdǐ dǎbài 
 ④ BrE humorous (devour) 狼吞虎咽地吃 láng tūn hǔ yàn de chī ‹food›
 demolish 
-▶verb
-1 they demolished the building: knock down, pull down, tear down, bring down, destroy, flatten, raze (to the ground), level, bulldoze, topple; blow up; dismantle, disassemble. ANTONYMS construct.
-2 he demolished her credibility: destroy, ruin, wreck; refute, disprove, discredit, overturn, explode; informal poke holes in. ANTONYMS confirm, strengthen.
-3 informal our team was demolished. See trounce.
-4 informal she demolished a bagel. See devour (sense 1). CHOOSE THE RIGHT WORD See destroy .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+dəˈmäliSH
+
+▶verb [with object] pull or knock down (a building). 
+• comprehensively refute (an argument or its proponent): I looked forward keenly to demolishing my opponent. 
+• informal overwhelmingly defeat (a player or team): they demolished the Denver Broncos, 55-10. 
+• humorous eat up (food) quickly: we demolished the potato pancakes. DERIVATIVES demolisher nounORIGIN mid 16th century: from French démoliss-, lengthened stem of démolir, from Latin demoliri, from de- (expressing reversal) + moliri ‘construct’ (from moles ‘mass’).

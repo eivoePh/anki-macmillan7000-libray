@@ -4,7 +4,11 @@ transitive verb
 ① (declare untrue) 否认 fǒurèn to deny an accusation/a rumour/an account 否认指责/谣言/说法 to deny doing or having done [something] 否认做了某事 to deny all knowledge of [something] 彻底否认知道某事 there's no denying it/that … …无可否认 
 ② (refuse to give) 拒绝给予 jùjué jǐyǔ to deny [somebody] admittance to a building/club 禁止某人进入大楼/拒绝接受某人加入俱乐部 to deny oneself 自我克制 to deny oneself [something] 戒绝某物 he was denied bail 他不得保释 
 deny 
-▶verb
-1 the report was denied by witnesses: contradict, controvert, repudiate, challenge, counter, contest, oppose, rebut; informal poke holes in; formal gainsay. ANTONYMS confirm.
-2 he denied the request: refuse, turn down, reject, rebuff, repulse, decline, veto, dismiss; informal give the thumbs down to, give the red light to, nix. ANTONYMS accept.
-3 she had to deny her parents: renounce, eschew, repudiate, disavow, disown, wash one's hands of, reject, discard, cast aside, abandon, give up; formal forswear; literary forsake.
+dəˈnī
+
+▶verb (denies, denying, denied) [with object]
+1 state that one refuses to admit the truth or existence of: they deny any responsibility for the tragedy. 
+• refuse to admit the truth of (a concept or proposition that is supported by the majority of scientific or historical evidence): an anti-environmentalist campaign group that denies climate change.
+2 [with two objects] refuse to give or grant (something requested or desired) to (someone): the inquiry was denied access to intelligence sources. 
+• (deny oneself) refrain from satisfying oneself: he had denied himself sexually for years. 
+• archaic refuse access to (someone): the servants are ordered to deny him. ORIGIN Middle English: from Old French deni-, stressed stem of deneier, from Latin denegare, from de- ‘formally’ + negare ‘say no.’

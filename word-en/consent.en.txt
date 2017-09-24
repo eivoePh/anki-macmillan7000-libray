@@ -1,4 +1,8 @@
 consent 
-▶noun the consent of all members: agreement, assent, acceptance, approval, approbation; permission, authorization, sanction, leave; backing, endorsement, support; informal go-ahead, thumbs up, green light, O
-K.  ANTONYMS dissent.
-▶verb she consented to surgery: agree to, assent to, yield to, give in to, submit to; allow, give permission for, sanction, accept, approve, go along with. ANTONYMS forbid.
+kənˈsent
+
+▶noun permission for something to happen or agreement to do something: no change may be made without the consent of all the partners. 
+▶verb [no object] give permission for something to happen: he consented to a search by a detective. 
+• agree to do something: he had consented to serve on the panel. 
+PHRASES
+by common consent with the agreement of all: it was, by common consent, our finest performance. informed consent permission granted in the knowledge of the possible consequences, typically that which is given by a patient to a doctor for treatment with full knowledge of the possible risks and benefits.ORIGIN Middle English: from Old French consente (noun), consentir (verb), from Latin consentire, from con- ‘together’ + sentire ‘feel.’

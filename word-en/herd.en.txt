@@ -1,9 +1,11 @@
 herd 
-▶noun
-1 a herd of cows: drove, flock, pack, fold; group, collection.
-2 a herd of actors: crowd, group, bunch, horde, mob, host, pack, multitude, throng, swarm, company.
-3 they consider themselves above the herd: common people, masses, rank and file, crowd, mob, commonality, plebeians, proletariat; derogatory hoi polloi, rabble, riffraff, (great) unwashed, proles, plebs; humorous sheeple.
+hərd
+
+▶noun a large group of animals, especially hoofed mammals, that live, feed, or migrate together or are kept together as livestock: a herd of elephants 
+large farms with big dairy herds. 
+• derogatory a large group of people, typically with a shared characteristic: I dodged herds of joggers and cyclists 
+he is not of the common herd. 
 ▶verb
-1 we herded the sheep into the pen: drive, shepherd, guide; round up, gather, collect, corral.
-2 we all herded into the room: crowd, pack, flock; cluster, huddle.
-3 they herd reindeer: tend, look after, keep, watch (over), mind, guard.
+1 [with adverbial of direction] (with reference to a group of people or animals) move in a particular direction: [with object] : Nick herded me through the baggage claim and into his Jaguar 
+[no object] : we all herded into a storage room.
+2 [with object] keep or look after (livestock): Hunter and Tripp herded sheep. ORIGIN Old English heord, of Germanic origin; related to German Herde .

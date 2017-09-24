@@ -1,2 +1,8 @@
 unlock 
-▶verb I unlocked the door and led the way in: unbolt, unlatch, unbar, unfasten, open.
+ənˈläk
+
+▶verb [with object]
+1 undo the lock of (something) by using a key: he unlocked the door to his room. 
+• make (something previously inaccessible or unexploited) available for use: the campaign has helped us unlock rich reserves of talent among our employees.
+2 use a password or other form of authentication to access the full functionality or data of (a computer, mobile phone, file, etc.): when you unlock your phone, you're presented with the ‘home screen’—the interface that shows off all your apps. 
+• make (a mobile phone) capable of operating on the network of any chosen carrier: you cannot unlock your phone while you are under contract.

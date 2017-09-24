@@ -1,7 +1,18 @@
-process 
+process
+1 
+ˈpräˌses ˈprōˌses
+
 ▶noun
-1 investigation is a long process: procedure, operation, action, activity, exercise, affair, business, job, task, undertaking.
-2 a new canning process: method, system, technique, means, practice, way, approach, methodology.
-▶verb applications are processed rapidly: deal with, attend to, see to, sort out, handle, take care of, action.
+1 a series of actions or steps taken in order to achieve a particular end: military operations could jeopardize the peace process. 
+• a natural or involuntary series of changes: the aging process. 
+• a systematic series of mechanized or chemical operations that are performed in order to produce or manufacture something: the modern block printer needs to accommodate all the traditional factory processes in one shop. 
+• a series of interdependent operations carried out by computer. 
+• [as modifier] Printing relating to or denoting printing using ink in three colors (cyan, magenta, and yellow) and black to produce a complete range of color: process inks.
+2 Law a summons or writ requiring a person to appear in court.
+3 Biology & Anatomy a natural appendage or outgrowth on or in an organism, such as a protuberance on a bone. 
+▶verb [with object] perform a series of mechanical or chemical operations on (something) in order to change or preserve it: the various stages in processing the wool. 
+• operate on (computer data) by means of a program. 
+• deal with (someone) using an official and established procedure: the immigration authorities who processed him. 
+• another term for conk3. 
 PHRASES
-in the process of we're in the process of updating our files: in the middle of, in the course of, in the midst of, in the throes of, busy with, occupied in/with, taken up with/by, involved in.
+be in the process of doing something be continuing with an action already started: a hurricane that was in the process of devastating South Carolina. in the process as an unintended part of a course of action: she would make him pay for this, even if she killed herself in the process. in process of time as time goes on.DERIVATIVES processable adjectiveORIGIN Middle English: from Old French proces, from Latin processus ‘progression, course,’ from the verb procedere (see proceed). Current senses of the verb date from the late 19th century.

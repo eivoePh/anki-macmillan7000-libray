@@ -5,12 +5,26 @@ noun
 ② Countable BrE Politics, Administration 选区 xuǎnqū ward councillors/secretaries 选区政务委员/秘书 
 ③ CountableLaw 受监护人 shòu jiānhù rén to be made a ward of the court 由法院监护 PHRASAL VERB ward off transitive verb[ward something/somebody off], [ward off somebody/something] 躲避 duǒbì ‹attacker, blow, disaster›to ward off evil spirits 驱邪 to ward off a cold/the flu 防止感冒/流感 
 ward 
+wôrd
+
 ▶noun
-1 the surgical ward: room, department, unit, area, wing.
-2 the majority of voters in our ward are Democrats: district, constituency, division, quarter, zone, parish.
-3 the boy is my ward: dependent, charge, protégé.
+1 a separate room in a hospital, typically one allocated to a particular type of patient: a children's ward 
+[as modifier] : a ward nurse. 
+• one of the divisions of a prison.
+2 an administrative division of a city or borough that typically elects and is represented by a councilor or councilors. 
+• a territorial division of the Mormon Church presided over by a bishop.
+3 a person, usually a minor, under the care and control of a guardian appointed by their parents or a court. 
+• archaic guardianship or the state of being subject to a guardian: the ward and care of the Crown.
+4 (usually wards) any of the internal ridges or bars in a lock that prevent the turning of any key that does not have grooves of corresponding form or size. 
+• the corresponding grooves in the bit of a key.
+5 archaic the action of keeping a lookout for danger: I saw them keeping ward at one of those huge gates.
+6 historical an area of ground enclosed by the encircling walls of a fortress or castle.
+7 Fencing a defensive position or motion. 
+▶verb [with object]
+1 archaic guard; protect: it was his duty to ward the king.
+2 admit (a patient) to a hospital ward. 
 PHRASES
-ward off
-1 we use this lotion to ward off gnats: fend off, repel, repulse, beat back, chase away; informal send packing.
-2 she warded off the blow: parry, avert, deflect, block; evade, avoid, dodge.
-3 garlic is worn to ward off evil spirits: rebuff, avert, keep at bay, fend off, stave off, turn away, repel, resist, prevent, obstruct, foil, frustrate, thwart, check, stop.
+ward of the court a person, usually a minor or of unsound mind, for whom a guardian has been appointed by a court or who has become directly subject to the authority of that court.PHRASAL VERBS ward someone/something off prevent from harming or affecting one: she put up a hand as if to ward him off.DERIVATIVES wardship 
+ˈwôrdˌSHip 
+nounORIGIN Old English weard ( sense
+5 of the noun, also ‘body of guards’), weardian ‘keep safe, guard,’ of Germanic origin; reinforced in Middle English by Old Northern French warde (noun), warder (verb) ‘guard,’ variants of Old French garde, garder; compare with guard .

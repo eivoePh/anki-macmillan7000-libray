@@ -9,7 +9,22 @@ B.  intransitive verb
 ① (acquire knowledge) 学习 xuéxí to learn about [something]; 学习关于某事物的知识 to learn from [somebody]; 向某人学习 to learn by or from one's mistakes 从错误中吸取教训 it's never too late to learn 活到老，学到老 you'll learn! 你等着瞧！ I've learnt better since then 自那之后我学聪明了 
 ② (hear information) 听说 tīngshuō to learn about or of [something]; 得知某事物 we only learned about or of the accident today 我们今天才听说了这次事故 
 learn 
-▶verb
-1 learning a foreign language: acquire a knowledge of, acquire skill in, become competent in, become proficient in, grasp, master, take in, absorb, assimilate, digest, familiarize oneself with; study, read up on, be taught, have lessons in; upskill; informal get the hang of, bone up on.
-2 she learned the poem in just a few minutes: memorize, learn by heart, commit to memory, get down pat; archaic con.
-3 he learned that the school would shortly be closing: discover, find out, become aware, be informed, hear, hear tell; gather, understand, ascertain, establish; informal get wind of the fact, get wise to the fact; British informal suss out.
+lərn
+
+▶verb (past and past participle learned 
+lərnd 
+or chiefly British learnt 
+lərnt
+) [with object]
+1 gain or acquire knowledge of or skill in (something) by study, experience, or being taught: they'd started learning French 
+[with infinitive] : she is learning to play the piano 
+[no object] : we learn from experience. 
+• commit to memory: I'd learned too many grim poems in school. 
+• become aware of (something) by information or from observation: [with clause] : I learned that they had eaten already 
+[no object] : the military learned of a plot to attack the presidential compound.
+2 archaic, informal teach (someone): “That'll learn you,” he chuckled 
+[with object and infinitive] : we'll have to learn you to milk cows. 
+PHRASES
+learn one's lesson see lesson. DERIVATIVES learnability 
+ˌlərnəˈbilətē 
+noun. learnable adjectiveORIGIN Old English leornian ‘learn’ (in Middle English also ‘teach’), of West Germanic origin; related to German lernen, also to lore1 . usage: In modern standard English, it is wrong to use learn to mean teach, as in that'll learn you (correct use is that'll teach you). This meaning has been recorded since the 13th century and has been used by writers such as Spenser, Bunyan, and Samuel Johnson, but it fell into disfavor in the early 19th century and is now found only in nonstandard and dialect use.

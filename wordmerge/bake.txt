@@ -10,7 +10,19 @@ B.  intransitive verb
 ② (cook) «bread» 在烤炉里烘烤 zài kǎolú li hōngkǎo 
 ③ figurative «earth» 被晒干 bèi shàigān ; «brick» 被烧硬 bèi shāoyìng 
 C.  nounUncountable烘烤食品 hōngkǎo shípǐn fish/vegetable bake 烤鱼/烘烤的蔬菜 
-bake 
-▶verb
-1 bake the fish for 15–20 minutes: cook, oven-bake, roast, dry-roast.
-2 the earth was baked by the sun: scorch, burn, sear, parch, dry (up), desiccate; broil.
+bake
+1 
+bāk
+
+▶verb [with object]
+1 cook (food) by dry heat without direct exposure to a flame, typically in an oven or on a hot surface: they bake their own bread and cakes 
+[with two objects] : I baked him a cake for his birthday 
+(as adjective baked) : baked apples. 
+• [no object] (of food) be cooked by baking: the bread was baking on hot stones.
+2 (of the sun or other agency) subject (something) to dry heat, especially so as to harden it: the sun has baked the earth a dusty brown. 
+• [no object] informal (of a person or place) be or become extremely hot in prolonged sun or hot weather: the city was baking in a heat wave 
+(as adjective baking) : the summer's baking heat. 
+▶noun [with modifier] North American a social gathering at which baked food is eaten: lobster bakes on deserted islands. 
+PHRASES
+baked in the cake US informal inevitable or unchangeable as a result of previous actions or events: look out for the next big tax—it is pretty much baked in the cake now.PHRASAL VERBS bake something in incorporate something as an integral part of a product, service, or system: we have baked in XML web services as part of the core of our platform 
+(as adjective baked-in) : the company continues to place a heavy emphasis on baked-in security.ORIGIN Old English bacan, of Germanic origin; related to Dutch bakken and German backen .

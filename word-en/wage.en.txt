@@ -1,6 +1,7 @@
 wage 
-▶noun
-1 (usually wages) the farm workers' wages 
-a fair wage: pay, payment, remuneration, salary, stipend, fee, honorarium; income, revenue; profit, gain, reward; earnings, paycheck; British pay packet; formal emolument.
-2 (wages) the wages of sin is death: reward, recompense, retribution; returns, deserts.
-▶verb the security forces waged war on the guerrillas: engage in, carry on, conduct, execute, pursue, prosecute, proceed with.
+wāj
+
+▶noun (usually wages) a fixed regular payment, typically paid on a daily or weekly basis, made by an employer to an employee, especially to a manual or unskilled worker: we were struggling to get better wages. Compare with salary. 
+• (wages) Economics the part of total production that is the return to labor as earned income, as distinct from the remuneration received by capital as unearned income. 
+• the result or effect of doing something considered wrong or unwise: the wages of sin is death. 
+▶verb [with object] carry on (a war or campaign): it is necessary to destroy their capacity to wage war. ORIGIN Middle English: from Anglo-Norman French and Old Northern French, of Germanic origin; related to gage1 and wed .

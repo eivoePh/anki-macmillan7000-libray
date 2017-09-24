@@ -14,11 +14,22 @@ C.  noun
 ② (desired thing) 想要的东西 xiǎngyào de dōngxi 
 D.  wishes noun plural 祝愿 zhùyuàn good/best wishes 美好/最好的祝愿 to offer/send good wishes (to [somebody]/for [something]) （向某人/某事物）致以/送上美好的祝愿 PHRASAL VERB wish away transitive verb[wish something away], [wish away something] 希望…不存在 xīwàng… bù cúnzài ‹problem›
 wish 
-▶verb
-1 I wished for power: desire, want, hope for, covet, dream of, long for, yearn for, crave, hunger for, lust after; aspire to, be desirous of, set one's heart on, seek, fancy, hanker after; informal have a yen for, itch for.
-2 they can do as they wish: want, desire, feel inclined, feel like, care; choose, please, think fit.
-3 I wish you to send them a message: want, desire, require.
-4 I wished him farewell: bid.
-▶noun
-1 his wish to own a Mercedes: desire, longing, yearning, inclination, urge, whim, craving, hunger; hope, aspiration, aim, ambition, dream; informal hankering, yen, itch.
-2 her parents' wishes: request, requirement, bidding, instruction, direction, demand, entreaty, order, command; want, desire; will; literary behest.
+wiSH
+
+▶verb [no object] feel or express a strong desire or hope for something that is not easily attainable; want something that cannot or probably will not happen: we wished for peace 
+[with clause] : he wished that he had practiced the routines. 
+• silently invoke a hope or desire, especially in a ritualized way: I closed my eyes and wished. 
+• [with infinitive] feel or express a desire to do something: they wish to become involved. 
+• [with object and infinitive] ask (someone) to do something or that (something) be done: I wish it to be clearly understood. 
+• [with two objects] express a desire for (the success or good fortune) of (someone): they wish her every success. 
+• [with object] (wish something on) hope that something unpleasant will happen to: I would not wish it on the vilest soul. 
+▶noun a desire or hope for something to happen: the union has reiterated its wish for an agreement 
+[with infinitive] : it is their wish to continue organizing similar exhibitions. 
+• (usually wishes) an expression of a desire or hope for something to happen, typically in the form of a request or instruction: she must carry out her late father's wishes. 
+• an invocation or recitation of a hope or desire: he makes a wish. 
+• (usually wishes) an expression of a desire for someone's success or good fortune: they had received kindness and good wishes from total strangers. 
+• a thing or event that is or has been desired; an object of desire: the petitioners eventually got their wish. 
+PHRASES
+if wishes were horses, beggars would ride proverb if you could achieve your aims simply by wishing for them, life would be very easy. wish someone well feel or express a desire for someone's well-being. the wish is father to the thought proverb we believe a thing because we wish it to be true.DERIVATIVES wisher 
+ˈwiSHər 
+noun [in combination] : an ill-wisherORIGIN Old English wȳscan, of Germanic origin; related to German wünschen, also to ween and wont . usage: Is it correct to say I wish I were rich or I wish I was rich? On the question of the use of the subjunctive mood, see usage at subjunctive .

@@ -13,12 +13,20 @@ C.  noun
 ① Uncountable(decrease) 下降 xiàjiàng a (small/steep) decline in [something]; 某物的（小幅/急剧）下降 to be on the or in decline; 在下降 a 5% decline to 175 下降5%至175 
 ② Uncountable and countable(waning) 衰退 shuāituì to be on the or in decline; 在衰退 a decline in [something]; 某事的衰退 to go or fall into (a) decline; 陷入衰退 his decline into madness 他发疯的过程 
 decline 
+dəˈklīn
+
 ▶verb
-1 she declined all invitations: turn down, reject, brush aside, refuse, rebuff, spurn, repulse, dismiss; forgo, deny oneself, pass up; abstain from, say no to; informal give the thumbs down to, give something a miss. ANTONYMS accept.
-2 the number of traders has declined: decrease, reduce, lessen, diminish, dwindle, contract, shrink, fall off, tail off; drop, fall, go down, slump, plummet; informal nosedive, take a header, crash. ANTONYMS increase.
-3 standards steadily declined: deteriorate, degenerate, decay, crumble, collapse, slump, slip, slide, go downhill, worsen; weaken, wane, ebb; informal go to pot, go to the dogs, go into/down the toilet. ANTONYMS rise.
-▶noun
-1 a decline in profits: reduction, decrease, downturn, downswing, downtrend, devaluation, depreciation, diminution, ebb, drop, slump, plunge; informal nosedive, crash.
-2 forest decline: deterioration, degeneration, degradation, shrinkage; death, decay.
-PHRASES
-in decline sadly, our volunteer program is in decline: declining, decaying, crumbling, collapsing, failing; disappearing, dying, moribund; informal on its last legs, on the way out.
+1 [no object] (typically of something regarded as good) become smaller, fewer, or less; decrease: the birth rate continued to decline. 
+• diminish in strength or quality; deteriorate: her health began to decline 
+(as adjective declining) : the victims of declining educational standards.
+2 [with object] politely refuse (an invitation or offer): Caroline declined the coffee. 
+• [with infinitive] politely refuse to do something: the company declined to comment.
+3 [no object] (especially of the sun) move downward. 
+• archaic bend down; droop.
+4 [with object] (in the grammar of Latin, Greek, and certain other languages) state the forms of (a noun, pronoun, or adjective) corresponding to cases, number, and gender. 
+▶noun [in singular] a gradual and continuous loss of strength, numbers, quality, or value: a serious decline in bird numbers 
+a civilization in decline. 
+• archaic the gradual setting of the sun. 
+• archaic any disease in which bodily strength gradually fails, especially tuberculosis. DERIVATIVES declinable 
+dəˈklīnəb(ə)l 
+adjective. decliner nounORIGIN late Middle English: from Old French decliner, from Latin declinare ‘bend down, turn aside,’ from de- ‘down’ + clinare ‘to bend.’

@@ -9,5 +9,23 @@ B.  transitive verb
 C.  intransitive verb Busn 被列入价目表 bèi lièrù jiàmùbiǎo what does list it at or for? 它定价多少？ 
 list
 1 
-▶noun a list of the world's wealthiest people: catalog, inventory, record, register, address book, roll, file, index, directory, listing, checklist, enumeration; blogroll.
-▶verb the accounts are listed alphabetically: record, register, make a list of, enter; itemize, enumerate, catalog, file, log, categorize, inventory; classify, group, sort, rank, alphabetize, index.
+list
+
+▶noun
+1 a number of connected items or names written or printed consecutively, typically one below the other: consult the list of drugs on page 326 
+writing a shopping list 
+figurative : tourism is at the top of the list of potential job creators. 
+• Computing a formal structure analogous to a list by which items of data can be stored or processed in a definite order.
+2 (lists) historical barriers enclosing an area for a jousting tournament. 
+• the scene of a contest or combat.
+3 a selvage of a piece of fabric. 
+▶verb [with object]
+1 make a list of: I have listed four reasons below. 
+• include or enter in a list: 93 men were still listed as missing. 
+• [no object] (list at/for) be on a list of products at (a specified price): the bottom-of-the-line Mercedes lists for $52,050.
+2 archaic enlist for military service. 
+PHRASES
+enter the lists issue or accept a challenge.DERIVATIVES listable adjectiveORIGIN Middle English (in sense
+3 of the noun): from Old English liste ‘border,’ of Germanic origin; related to Dutch lijst and German Leiste. Sense
+2 of the noun is late Middle English, from Old French lisse; sense
+1 of the noun is late 16th century, from French liste, of Germanic origin.

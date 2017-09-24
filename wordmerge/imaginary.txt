@@ -6,4 +6,10 @@ adjective
 ③ (hypothetical) 假想的 jiǎxiǎng de 
 ④ Mathematics, Geography 虚的 xū de ‹point, line›
 imaginary 
-▶adjective his imaginary friends: unreal, nonexistent, fictional, fictitious, pretend, make-believe, mythical, mythological, fabulous, fanciful, storybook, fantastic; made-up, dreamed-up, invented, concocted, fancied; illusory, illusive, a figment of one's imagination; archaic visionary. ANTONYMS real, actual.
+iˈmajəˌnerē
+
+▶adjective
+1 existing only in the imagination: Chris had imaginary conversations with her.
+2 Mathematics (of a number or quantity) expressed in terms of the square root of a negative number (usually the square root of −1, represented by i or j). See also complex. DERIVATIVES imaginarily 
+iˌmajəˈne(ə)rəlē 
+adverbORIGIN late Middle English: from Latin imaginarius, from imago, imagin- ‘image.’ usage: Imaginary means ‘product of the imagination, unreal.’ Imaginative means ‘showing imagination, original.’ Science fiction, for example, deals with imaginary people, places, and events; how imaginative it is depends on the writer's ability.

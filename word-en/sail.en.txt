@@ -1,11 +1,24 @@
 sail 
-▶noun the ship's sails: canvas, sailcloth.
-▶verb
-1 we sailed across the Atlantic: voyage, travel by water, steam, navigate, cruise.
-2 you can learn to sail here: yacht, boat, go sailing; crew, helm.
-3 we sail tonight: set sail, put to sea, leave port, weigh anchor, shove off.
-4 he is sailing the ship: steer, pilot, navigate, con, helm, captain; informal skipper.
-5 clouds were sailing past: glide, drift, float, flow, sweep, skim, coast, flit.
-6 a pencil sailed past his ear: whiz, speed, streak, shoot, whip, buzz, zoom, flash; fly, wing, soar, zip.
+sāl
+
+▶noun
+1 a piece of material extended on a mast to catch the wind and propel a boat, ship, or other vessel: all the sails were unfurled. 
+• the use of sailing ships as a means of transport: this led to bigger ships as steam replaced sail. 
+• [in singular] a voyage or excursion in a ship, especially a sailing ship or boat: they went for a sail. 
+• archaic a sailing ship: sail ahoy!
+2 something resembling a sail in shape or function, in particular: 
+• a wind-catching apparatus, typically one consisting of canvas or a set of boards, attached to the arm of a windmill. 
+• the broad fin on the back of a sailfish or of some prehistoric reptiles. 
+• a structure by which an animal is propelled across the surface of water by the wind, e.g., the float of a Portuguese man-of-war. 
+• the conning tower of a submarine. 
+▶verb [no object]
+1 travel in a boat with sails, especially as a sport or recreation: Ian took us out sailing on the lake. 
+• [with adverbial] travel in a ship or boat using sails or engine power: the ferry caught fire sailing between Caen and Portsmouth. 
+• [with adverbial] begin a voyage; leave a harbor: the catamaran sails at 3:30. 
+• [with object] travel by ship on or across (a sea) or on (a route): plastic ships could be sailing the oceans soon. 
+• [with object] navigate or control (a boat or ship): I stole a small fishing boat and sailed it to the Delta.
+2 [with adverbial of direction] move smoothly and rapidly or in a stately or confident manner: she sailed into the conference room at 2:30 sharp. 
+• (sail through) informal succeed easily at (something, especially a test or examination): Alex sailed through his exams. 
+• (sail into) informal attack physically or verbally with force. 
 PHRASES
-sail through she sailed through the exam: succeed easily at, pass easily, romp through, walk through.
+in (or under) full sail with all the sails in position or fully spread: a galleon in full sail. take in sail furl the sail or sails of a vessel. under sail with the sails hoisted: at a speed of eight knots under sail.DERIVATIVES sailable adjectiveORIGIN Old English segel (noun), seglian (verb), of Germanic origin; related to Dutch zeil and German Segel (nouns).

@@ -7,8 +7,11 @@ transitive verb
 ④ (reintroduce) 恢复 huīfù ‹tax›to restore law and order 恢复治安 
 ⑤ (give back to owner) 归还 guīhuán ‹property›
 restore 
-▶verb
-1 the aim to restore democracy: reinstate, bring back, reinstitute, reimpose, reinstall, reestablish. ANTONYMS abolish.
-2 he restored it to its rightful owner: return, give back, hand back.
-3 the building has been restored: repair, fix, mend, refurbish, recondition, rehabilitate, rebuild, reconstruct, remodel, overhaul, redevelop, renovate; informal do up, rehab. ANTONYMS neglect.
-4 a good sleep can restore you: reinvigorate, revitalize, revive, refresh, energize, fortify, revivify, regenerate, stimulate, freshen.
+rəˈstôr
+
+▶verb [with object] bring back (a previous right, practice, custom, or situation); reinstate: the government restored confidence in the housing market. 
+• return (someone or something) to a former condition, place, or position: the effort to restore him to office isn't working. 
+• repair or renovate (a building, work of art, vehicle, etc.) so as to return it to its original condition: the building has been lovingly restored. 
+• give (something previously stolen, taken away, or lost) back to the original owner or recipient: the government will restore land and property to those who lost it through confiscation. DERIVATIVES restorable 
+rəˈstôrəb(ə)l 
+adjectiveORIGIN Middle English: from Old French restorer, from Latin restaurare ‘rebuild, restore.’

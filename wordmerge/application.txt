@@ -7,10 +7,19 @@ noun
 ④ Uncountable(diligence) 勤奋 qínfèn 
 ⑤ CountableComputing 应用程序 yìngyòng chéngxù 
 application 
+ˌapləˈkāSH(ə)n
+
 ▶noun
-1 an application for a loan: request, appeal, petition, entreaty, plea, solicitation, supplication, requisition, suit, approach, claim, demand.
-2 the application of official rules: implementation, use, exercise, employment, utilization, practice, applying, discharge, execution, prosecution, enactment; formal praxis.
-3 the argument is clearest in its application to the theater: relevance, relevancy, bearing, significance, pertinence, aptness, appositeness, germaneness, importance.
-4 the application of makeup: putting on, rubbing in, applying.
-5 a smelly application to relieve muscle pain: ointment, lotion, cream, rub, salve, emollient, preparation, liniment, embrocation, balm, unguent, poultice.
-6 a vector graphics application: program, software, routine.
+1 a formal request to an authority for something: an application for leave 
+[with infinitive] : an application to join the forum 
+[as modifier] : application form.
+2 the action of putting something into operation: the application of general rules to particular cases 
+massage has far-reaching medical applications. 
+• [often with negative] practical use or relevance: this principle has no application to the present case.
+3 the action of putting something on a surface: a fresh application of makeup 
+paints suitable for application on fabric. 
+• a medicinal substance put on the skin.
+4 sustained effort; hard work: the job takes a great deal of patience and application.
+5 (also application program) Computing a program or piece of software designed and written to fulfill a particular purpose of the user: a database application. DERIVATIVES applicational 
+-SHənl 
+adjectiveORIGIN Middle English: via Old French from Latin applicatio(n-), from the verb applicare (see apply) .

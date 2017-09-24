@@ -1,5 +1,15 @@
 version 
+ˈvərZHən
+
 ▶noun
-1 his version of events: account, report, statement, description, record, story, rendering, interpretation, explanation, understanding, reading, impression, side, take.
-2 the Japanese version will be published next year: edition, translation, impression.
-3 they replaced coal-burning furnaces with gas versions: form, sort, kind, type, variety, variant, model.
+1 a particular form of something differing in certain respects from an earlier form or other forms of the same type of thing: a revised version of the paper was produced for a later meeting 
+they produce yachts in both standard and master versions. 
+• a particular edition or translation of a book or other work: the English version will be published next year. 
+• [usually with modifier] an adaptation of a novel, piece of music, etc., into another medium or style: a film version of a wonderfully funny cult novel. 
+• a particular release of a piece of computer software. 
+• an account of a matter from a particular person's point of view: he told her his version of events.
+2 Medicine the manual turning of a fetus in the uterus to make delivery easier. 
+• an abnormal displacement of the uterus. 
+▶verb [with object] (often as noun versioning) create a new version of: it's the software for you if you need versioning and group editing. DERIVATIVES versional 
+ˈvərZH(ə)n(ə)l 
+adjectiveORIGIN late Middle English (in the sense ‘translation’): from French, or from medieval Latin versio(n-), from Latin vertere ‘to turn.’

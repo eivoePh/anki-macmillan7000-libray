@@ -6,11 +6,26 @@ A.  nounUncountable and countable
 ② figurative (quality) 特色 tèsè (atmosphere) 气氛 qìfēn a or the flavour of [something]; 某物的特色 the book captures the flavour of London 这本书抓住了伦敦的风情 flavour of the month colloquial (person) 短期内风靡的人 (thing) 短期内风靡的事物 
 B.  transitive verb «cook, brewer» 给…调味 gěi… tiáowèi ‹food, drink›to flavour [something] with [something]; 用某物给某物调味 
 flavor 
+ˈflāvər 
+(British flavour) 
 ▶noun
-1 the flavor of prosciutto: taste, savor, tang.
-2 cilantro gives a distinctive flavor to the sauce: flavoring, seasoning, tastiness, tang, relish, bite, piquancy, pungency, spice, spiciness, zest; informal zing, zip.
-3 a strong international flavor: character, quality, feel, feeling, ambience, atmosphere, aura, air, mood, tone; spirit, essence, nature.
-4 this excerpt will give a flavor of the report: impression, suggestion, hint, taste.
-▶verb spices for flavoring food: add flavor to, add flavoring to, season, spice (up), add piquancy to, ginger up, enrich; informal pep up.
+1 the distinctive taste of a food or drink: the yogurt comes in eight fruit flavors 
+adding sun-dried tomatoes gives the sauce extra flavor. 
+• the general quality of taste in a food: no other cracker adds so much flavor to the cheese. 
+• chiefly US a substance used to alter or enhance the taste of food or drink; a flavoring: we use vanilla and almond flavors.
+2 [in singular] an indication of the essential character of something: the extracts give a flavor of the content and tone of the conversation. 
+• [in singular] a distinctive quality or atmosphere: whitewashed walls and red pantiles gave the resort a Mediterranean flavor.
+3 a kind, variety, or sort: various flavors of firewall are evolving.
+4 Physics a quantized property of quarks that differentiates them into at least six varieties (up, down, charmed, strange, top, bottom). Compare with color. 
+▶verb [with object] alter or enhance the taste of (food or drink) by adding a particular ingredient: they use a wide range of spices to flavor their foods 
+chunks of chicken flavored with herbs. 
+• give a distinctive quality to: the faint exasperation that had flavored her tone. 
 PHRASES
-flavor of the month informal sure, it's great to be flavor of the month, but where will you be a year from now? all the rage, the latest thing, the fashion, in vogue; a one-hit wonder; informal hot, in.
+flavor of the month a person or thing that enjoys a short period of great popularity: social networking is no longer the flavor of the month among investors.DERIVATIVES flavorful 
+ˈflāvərfəl 
+adjective. flavorless 
+ˈflāvərləs 
+adjective. flavorsome 
+ˈflāvərsəm 
+adjectiveORIGIN late Middle English (in the sense ‘fragrance, aroma’): from Old French flaor, perhaps based on a blend of Latin flatus ‘blowing’ and foetor ‘stench’; the -v- appears to have been introduced in Middle English by association with savor. Sense
+1 of the noun dates from the late 17th century.

@@ -11,8 +11,10 @@ A.  intransitive verb «blows, bullets» 雹子般落下 báozi bān luòxia ; �
 B.  transitive verb to hail down [something] on [somebody]/[something]; «attacker» 使…雹子般落在某人/某物上 ‹blows› «critic» 连珠炮似地发表 liánzhūpào shìde fābiǎo ‹criticism›
 hail
 1 
-▶verb
-1 a friend hailed him from the upper deck: call out to, shout to, address; greet, say hello to, salute.
-2 he hailed a cab: flag down, wave down, signal to.
-3 critics hailed the film as a masterpiece: acclaim, praise, applaud, rave about, extol, eulogize, hymn, lionize, sing the praises of, make much of, glorify, cheer, salute, toast, ballyhoo; formal laud.
-4 Rick hails from Australia: come from, be from, be a native of, have one's roots in.
+hāl
+
+▶noun pellets of frozen rain that fall in showers from cumulonimbus clouds. 
+• [in singular] a large number of objects hurled forcefully through the air: a hail of bullets. 
+▶verb [no object]
+1 (it hails, it is hailing, etc.) hail falls: it hailed so hard we had to stop.
+2 [with adverbial of direction] (of a large number of objects) fall or be hurled forcefully: missiles and bombs hail down from the sky. ORIGIN Old English hagol, hægl (noun), hagalian (verb), of Germanic origin; related to Dutch hagel and German Hagel .

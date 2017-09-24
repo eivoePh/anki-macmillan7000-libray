@@ -7,8 +7,16 @@ A.  transitive verb
 ③ (perform) 演绎 yǎnyì ‹role, song›
 B.  intransitive verb 做口译 zuò kǒuyì to interpret for [somebody]; 为某人口头翻译 
 interpret 
-▶verb
-1 the rabbis interpret the Jewish laws: explain, elucidate, expound, explicate, clarify, illuminate, shed light on.
-2 the remark was interpreted as an invitation: understand, construe, take (to mean), see, regard.
-3 the symbols are difficult to interpret: decipher, decode, unscramble, make intelligible; understand, comprehend, make sense of, figure out; informal crack.
-4 he interpreted the role of Hamlet: perform, act, play, render, depict, portray.CHOOSE THE RIGHT WORD See clarify .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+inˈtərprət
+
+▶verb (interprets, interpreting, interpreted) [with object]
+1 explain the meaning of (information, words, or actions): the evidence is difficult to interpret. 
+• [no object] translate orally or into sign language the words of a person speaking a different language: I agreed to interpret for Jean-Claude. 
+• perform (a dramatic role or piece of music) in a particular way that conveys one's understanding of the creator's ideas.
+2 understand (an action, mood, or way of behaving) as having a particular meaning or significance: her self-confidence was often interpreted as brashness. DERIVATIVES interpretability 
+-ˌtərpritəˈbilitē 
+noun. interpretable 
+inˈtərprədəb(ə)l 
+adjective. interpretively 
+-ˈtərpritivlē 
+adverbORIGIN late Middle English: from Old French interpreter or Latin interpretari ‘explain, translate,’ from interpres, interpret- ‘agent, translator, interpreter.’ usage: Interpretative, which means ‘serving to interpret or explain,’ dates back to around 1560, but the shorter form interpretive, about a hundred years younger, is steadily pressing it out of employment. They mean the same thing, and both are correct. The traditional interpretative is still the preferred form in Britain, but in American usage, interpretive is far more common.

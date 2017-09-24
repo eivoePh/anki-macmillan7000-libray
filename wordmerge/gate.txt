@@ -8,5 +8,23 @@ noun
 ⑤ (at airport) 登机口 dēngjīkǒu 
 ⑥ Sport (number of spectators) 观众数 guānzhòngshù a good or large/poor or small gate 众多/很少的观众 
 ⑦ Sport (in skiing) 旗门 qímén 
-gate 
-▶noun they barged through the gate without stopping: gateway, doorway, entrance, entryway; exit, egress, opening; door, portal; barrier, turnstile.
+gate
+1 
+ɡāt
+
+▶noun
+1 a hinged barrier used to close an opening in a wall, fence, or hedge. 
+• a gateway: she went out through the gate. 
+• an exit from an airport building to an aircraft. 
+• [in names] a mountain pass or other natural passage: the Golden Gate.
+2 the number of people who pay to enter a sports facility, exhibition hall, etc., for any one event: [as modifier] : gate receipts. 
+• the money taken for admission.
+3 a device resembling a gate in structure or function, in particular: 
+• a hinged or sliding barrier for controlling the flow of water: a sluice gate. 
+• Skiing an opening through which a skier must pass in a slalom course, typically marked by upright poles. 
+• a device for holding each frame of a movie film in position behind the lens of a camera or projector.
+4 an electric circuit with an output that depends on the combination of several inputs: a logic gate. 
+• the part of a field-effect transistor to which a signal is applied to control the resistance of the conductive channel of the device. 
+▶verb [with object] (usually be gated) British confine (a student) to school or college: he was gated for the rest of term. 
+PHRASES
+get (or be given) the gate North American informal be dismissed from a job.ORIGIN Old English gæt, geat, plural gatu, of Germanic origin; related to Dutch gat ‘gap, hole, breach.’

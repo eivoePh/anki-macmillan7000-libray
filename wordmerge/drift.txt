@@ -20,13 +20,25 @@ C.  noun
 ① (doze) 入睡 rùshuì she drifted off (to sleep) 她迷迷糊糊地睡着了 
 ② (leave) 离开 líkāi drift out intransitive verb 闲散地离开 xiánsǎn de líkāi 
 drift 
-▶verb
-1 his raft drifted down the river: be carried, be borne; float, bob, waft, meander.
-2 the guests drifted away: wander, meander, stray, putter, dawdle.
-3 don't allow your attention to drift: stray, digress, deviate, diverge, veer, get sidetracked.
-4 snow drifted over the path: pile up, bank up, heap up, accumulate, gather, amass.
+drift
+
+▶verb [no object]
+1 be carried slowly by a current of air or water: the cabin cruiser started to drift downstream 
+figurative : excited voices drifted down the hall. 
+• [with adverbial of direction] (of a person) walk slowly, aimlessly, or casually: people began to drift away. 
+• [with adverbial] move passively, aimlessly, or involuntarily into a certain situation or condition: I was drifting off to sleep 
+Lewis and his father drifted apart. 
+• (of a person or their attention) digress or stray to another subject: I noticed my audience's attention drifting.
+2 (especially of snow or leaves) be blown into heaps by the wind: fallen leaves start to drift in the gutters 
+(as adjective drifting) : drifting snow. 
 ▶noun
-1 a drift from the country to urban areas: movement, shift, flow, transfer, relocation, gravitation.
-2 the pilot had not noticed any drift: deviation, digression.
-3 he caught her drift: gist, essence, meaning, sense, substance, significance; thrust, import, tenor; implication, intention; direction, course.
-4 a drift of deep snow: pile, heap, bank, mound, mass, accumulation.
+1 [in singular] a continuous slow movement from one place to another: there was a drift to the towns. 
+• the deviation of a vessel, aircraft, or projectile from its intended or expected course as the result of currents or winds: the pilot had not noticed any appreciable drift. 
+• a steady movement or development from one thing toward another, especially one that is perceived as unwelcome: the drift toward a more repressive style of policing. 
+• a state of inaction or indecision: after so much drift, any expression of enthusiasm is welcome.
+2 [in singular] the general intention or meaning of an argument or someone's remarks: maybe I'm too close to the forest to see the trees, if you catch my drift 
+he didn't understand much Greek, but he got her drift.
+3 a large mass of snow, leaves, or other material piled up or carried along by the wind. 
+• Geology glacial and fluvioglacial deposits left by retreating ice sheets. 
+• a large mass of flowering plants growing together: a drift of daffodils.
+4 Mining a horizontal or inclined passage following a mineral vein or coal seam. DERIVATIVES drifty adjectiveORIGIN Middle English (in the sense ‘mass of snow, leaves, etc’): originally from Old Norse drift ‘snowdrift, something driven’; in later use from Middle Dutch drift ‘course, current’; related to drive .

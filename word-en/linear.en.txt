@@ -1,2 +1,14 @@
 linear 
-▶adjective linear motion: straight, direct, undeviating, as straight as an arrow; sequential.
+ˈlinēər
+
+▶adjective
+1 arranged in or extending along a straight or nearly straight line: linear arrangements 
+linear in shape 
+linear movement. 
+• consisting of or predominantly formed using lines or outlines: simple linear designs. 
+• involving one dimension only: linear elasticity. 
+• Mathematics able to be represented by a straight line on a graph; involving or exhibiting directly proportional change in two related quantities: linear functions 
+linear relationship.
+2 progressing from one stage to another in a single series of steps; sequential: a linear narrative. DERIVATIVES linearity 
+ˌlinēˈerədē 
+nounORIGIN mid 17th century: from Latin linearis, from linea ‘a line’ (see line1) .

@@ -4,4 +4,13 @@ noun
 ① Uncountable(quality) 对称性 duìchènxìng 
 ② Countable(instance) 对称 duìchèn 
 symmetry 
-▶noun the garden is laid out with perfect symmetry: regularity, evenness, uniformity, consistency, conformity, correspondence, equality; balance, proportions; formal concord.
+ˈsimətrē
+
+▶noun (plural symmetries) the quality of being made up of exactly similar parts facing each other or around an axis: this series has a line of symmetry through its center 
+a crystal structure with hexagonal symmetry. 
+• correct or pleasing proportion of the parts of a thing: an overall symmetry making the poem pleasant to the ear. 
+• similarity or exact correspondence between different things: a lack of symmetry between men and women 
+history sometimes exhibits weird symmetries between events. 
+• Physics & Mathematics a law or operation in which a physical property or process has an equivalence in two or more directions. DERIVATIVES symmetrize 
+ˈsiməˌtrīz 
+verbORIGIN mid 16th century (denoting proportion): from French symétrie or Latin symmetria, from Greek, from sun- ‘with’ + metron ‘measure.’

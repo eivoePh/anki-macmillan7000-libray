@@ -1,10 +1,25 @@
-drum 
+drum
+1 
+drəm
+
 ▶noun
-1 the beat of a drum: percussion instrument; bongo, tom-tom, snare drum, kettledrum, bodhrán; historical tambour.
-2 the steady drum of raindrops: beat, rhythm, patter, tap, pounding, thump, thud, rattle, pitter-patter, pit-a-pat, rat-a-tat, thrum.
-3 a drum of radioactive waste: canister, barrel, cylinder, tank, bin, can; container.
-▶verb
-1 she drummed her fingers on the desk: tap, beat, rap, thud, thump; tattoo, thrum.
-2 the rules were drummed into us at school: instill, drive, din, hammer, drill, implant, ingrain, inculcate.
+1 a percussion instrument sounded by being struck with sticks or the hands, typically cylindrical, barrel-shaped, or bowl-shaped with a taut membrane over one or both ends. 
+• (drums) a set of drums. 
+• (drums) the percussion section of a band or orchestra. 
+• [in singular] a sound made by or resembling that of a drum: the drum of their feet. 
+• historical a military drummer.
+2 a cylindrical container or receptacle. See also oil drum. 
+• a rotating cylindrical part in a washing machine, in which the laundry is placed. 
+• a cylindrical part in certain other appliances. 
+• Architecture the circular vertical wall supporting a dome. 
+• Architecture a stone block forming part of a column.
+3 an evening or afternoon tea party of a kind that was popular in the late 18th and early 19th century. 
+▶verb (drums, drumming, drummed) [no object] play on a drum. 
+• make a continuous rhythmic noise: she felt the blood drumming in her ears 
+(as noun drumming) : the drumming of hooves. 
+• [with object] beat (the fingers, feet, etc.) repeatedly on a surface, especially as a sign of impatience or annoyance: waiting around an empty table, drumming their fingers. 
+• (of a woodpecker) strike the bill rapidly on a dead trunk or branch, especially as a sound indicating a territorial claim. 
+• (of a snipe) vibrate the outer tail feathers in a diving display flight, making a throbbing sound. 
 PHRASES
-drum out of he was running the organization into the ground, until the other members drummed him out: expel, dismiss, throw out, oust; drive out, get rid of; exclude, banish; informal give someone the boot, boot out, kick out, give someone their marching orders, show someone the door, send packing. drum up leaflets were distributed in hopes of drumming up support for the campaign: round up, gather, collect; summon, attract; canvass, solicit, petition.
+beat (or bang) the drum for (or against) be ostentatiously in support of (or in opposition to): he limited campaign contributions in order to beat the drum against political action committees 
+he bangs the drum of the free market.PHRASAL VERBS drum something into drive a lesson into (someone) by constant repetition: it had been drummed into them to dress correctly. drum someone out expel or dismiss someone with ignominy from a place or institution: he was drummed out of the air force. [with allusion to the formal military drumbeat accompanying dismissal from a regiment.] drum something up attempt to obtain something by canvassing or soliciting: the organizers are hoping to drum up support from local businesses.ORIGIN Middle English: from Middle Dutch or Low German tromme, of imitative origin.

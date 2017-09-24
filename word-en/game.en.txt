@@ -1,10 +1,29 @@
-game 
+game
+1 
+ɡām
+
 ▶noun
-1 Andrew and his friends invented a new game: pastime, diversion, entertainment, amusement, distraction, divertissement, recreation, sport, activity.
-2 the team hasn't lost a game all season: match, contest, tournament, meet; final, playoff; deathmatch.
-3 I spoiled his little game: scheme, plot, ploy, stratagem, strategy, gambit, tactics; trick, device, maneuver, wile, dodge, ruse, machination, contrivance, subterfuge; prank, practical joke; informal scam; archaic shift.
-4 she lived off fish and game: wild animals, wild fowl, big game.
-▶adjective
-1 they weren't game enough to join in: brave, courageous, plucky, bold, daring, intrepid, valiant, stouthearted, mettlesome; fearless, dauntless, undaunted, unflinching; informal gutsy, gutty, spunky, skookum.
-2 I need a bit of help—are you game? willing, prepared, ready, disposed, of a mind; eager, keen, enthusiastic, up for it.
-▶verb they were drinking and gaming all evening: gamble, bet, place/lay bets.
+1 a form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck. 
+• a complete episode or period of play, typically ending in a definite result: a baseball game. 
+• a single portion of play forming a scoring unit in a match, especially in tennis. 
+• Bridge a score of 100 points for tricks bid and made (the best of three games constituting a rubber). 
+• a person's performance in a game; a person's standard or method of play: he will attempt to raise his game to another level. 
+• (games) a meeting for sporting contests, especially track and field: the Olympic Games. 
+• (games) British sports and athletic activities as organized in a school. 
+• the equipment for a game, especially a board game or a computer game.
+2 a type of activity or business, especially when regarded as a game: this was a game of shuttle diplomacy at which I had become adept. 
+• a secret and clever plan or trick: I was on to his little game, but I didn't want him to know.
+3 wild mammals or birds hunted for sport or food. 
+• the flesh of mammals or birds, used as food. 
+▶adjective eager and willing to do something new or challenging: they were game for anything after the traumas of Monday. 
+▶verb
+1 [with object] manipulate (a situation), typically in a way that is unfair or unscrupulous: it was very easy for a few big companies to game the system 
+politicians blamed electricity generators for gaming the market.
+2 [no object] play video or computer games: the majority of the audience are teens who game and watch anime.
+3 [no object] play games of chance for money; gamble: other Russians gamed at the tables in Monte Carlo. 
+PHRASES
+ahead of the game ahead of one's competitors or peers in the same sphere of activity. at the top of one's game see top1. beat someone at their own game use someone's own methods to outdo them in their chosen activity. game over informal said when a situation is regarded as hopeless or irreversible. make (a) game of archaic mock; taunt. make a game of it make a contest more closely competitive. off (or on) one's game playing badly (or well). the only game in town informal the best, the most important, or the only thing worth considering. play the game behave in a fair or honorable way; abide by the rules or conventions. play games deal with someone or something in a way that lacks due seriousness or respect: Don't play games with me!DERIVATIVES gameness 
+ˈɡāmnəs 
+noun. gamester 
+ˈɡāmstər 
+nounORIGIN Old English gamen ‘amusement, fun,’ gamenian ‘play, amuse oneself,’ of Germanic origin.

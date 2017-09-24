@@ -1,11 +1,21 @@
 heat 
+hēt
+
 ▶noun
-1 a plant sensitive to heat: warmth, hotness, warmness, high temperature; hot weather, warm weather, sultriness, mugginess, humidity; heat wave, hot spell. ANTONYMS cold.
-2 he took the heat out of the dispute: passion, intensity, vehemence, warmth, fervor, fervency; enthusiasm, excitement, agitation; anger, fury. ANTONYMS apathy.
-3 a female bear in heat: estrus, season, sexual receptivity.
-▶verb
-1 the food was heated: warm, warm up, heat up, make hot, make warm; reheat, cook, microwave; informal nuke, zap. ANTONYMS cool, chill.
-2 the pipes expand as they heat up : become hot, become warm, get hotter, get warmer, increase in temperature. ANTONYMS cool (down).
-3 he calmed down as quickly as he had heated up : become impassioned, become excited, become animated; get angry, become enraged.
-WORD LINKS
-heat thermal , caloric relating to heatWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 the quality of being hot; high temperature: it is sensitive to both heat and cold. 
+• hot weather conditions: the oppressive heat was making both men sweat. 
+• a source or level of heat for cooking: remove from the heat and beat in the butter. 
+• a spicy quality in food that produces a burning sensation in the mouth: chili peppers add taste and heat to food. 
+• Physics heat seen as a form of energy arising from the random motion of the molecules of bodies, which may be transferred by conduction, convection, or radiation. 
+• technical the amount of heat that is needed to cause a specific process or is evolved in such a process: the heat of formation. 
+• technical a single operation of heating something, especially metal in a furnace.
+2 intensity of feeling, especially of anger or excitement: words few men would dare use to another, even in the heat of anger. 
+• (the heat) informal intensive and unwelcome pressure or criticism, especially from the authorities: a flurry of legal proceedings turned up the heat in the dispute.
+3 a preliminary round in a race or contest: the 200-meter heats. 
+▶verb make or become hot or warm: [with object] : the room faces north and is difficult to heat 
+[no object] : the pipes expand as they heat up. 
+• [no object] (heat up) (of a person) become excited or impassioned. 
+• [no object] (heat up) become more intense and exciting: the action really begins to heat up. 
+• [with object] archaic inflame; excite: this discourse had heated them. 
+PHRASES
+if you can't stand the heat, get out of the kitchen proverb if you can't deal with the pressures and difficulties of a situation or task, you should leave others to deal with it rather than complaining. in the heat of the moment while temporarily angry, excited, or engrossed, and without stopping for thought. in heat (of a female mammal) in the receptive period of the sexual cycle; in estrus.ORIGIN Old English hǣtu (noun), hǣtan (verb), of Germanic origin; related to Dutch hitte (noun) and German heizen (verb), also to hot .

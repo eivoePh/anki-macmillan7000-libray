@@ -1,8 +1,12 @@
 olive 
-BrE ˈɒlɪv, AmE ˈɑləv 
-A. noun 
-① Countable(fruit) 油橄榄 yóugǎnlǎn 
-② Countable(tree) 橄榄树 gǎnlǎn shù 
-③ Uncountable(wood) 橄榄木 gǎnlǎn mù 
-④ Uncountable(colour) 橄榄绿 gǎnlǎnlǜ 
-B.  adjective 橄榄绿的 gǎnlǎnlǜ de ‹paint›; 浅褐色的 qiǎn hèsè de ‹complexion›
+ˈäləv
+
+▶noun
+1 a small oval fruit with a hard pit and bitter flesh, green when unripe and brownish black when ripe, used as food and as a source of oil.
+2 (also olive tree) the widely cultivated evergreen tree that yields the olive, native to warm regions of the Old World. [Olea europaea, family Oleaceae (the olive family). This family also includes the ash, lilac, jasmine, and privet.] 
+• used in names of other trees that are related to the olive, resemble it, or bear similar fruit, e.g., Russian olive.
+3 (also olive green) a grayish-green color like that of an unripe olive.
+4 a metal ring or fitting that is tightened under a threaded nut to form a seal, as in a compression joint.
+5 (also olive shell) a marine mollusk with a smooth, roughly cylindrical shell that is typically brightly colored. [Genus Oliva, family Olividae, class Gastropoda.] 
+▶adjective grayish-green, like an unripe olive: a small figure in olive fatigues. 
+• (of the complexion) yellowish brown; sallow. ORIGIN Middle English: via Old French from Latin oliva, from Greek elaia, from elaion ‘oil.’

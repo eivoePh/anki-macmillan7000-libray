@@ -1,11 +1,24 @@
 bank
 1 
+baNGk
+
 ▶noun
-1 the bank of the great river: edge, side, shore, coast, embankment, bankside, levee, border, verge, boundary, margin, rim, fringe; literary marge, skirt.
-2 a grassy bank: slope, rise, incline, gradient, ramp; mound, ridge, hillock, hummock, knoll; bar, reef, shoal, shelf; accumulation, pile, heap, mass, drift.
-3 a bank of switches: array, row, line, tier, group, series.
-▶verb
-1 they banked up the earth: pile (up), heap (up), stack (up); accumulate, amass, assemble, put together.
-2 the aircraft banked: tilt, lean, tip, slant, incline, angle, slope, list, camber, pitch, dip, cant.
-WORD LINKS
-bank riparian relating to a riverbankWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 the land alongside or sloping down to a river or lake: willows lined the bank.
+2 a slope, mass, or mound of a particular substance: a bank of clouds 
+a bank of snow. 
+• an elevation in the seabed or a riverbed; a mudbank or sandbank. 
+• a transverse slope given to a road, railroad, or sports track to enable vehicles or runners to maintain speed around a curve. 
+• the sideways tilt of an aircraft when turning in flight: flying with small amounts of bank.
+3 a set or series of similar things, especially electrical or electronic devices, grouped together in rows: the DJ had big banks of lights and speakers on either side of his console. 
+• a tier of oars: the early ships had only twenty-five oars in each bank.
+4 the cushion of a pool table: [as modifier] : a bank shot. 
+▶verb [with object]
+1 heap (a substance) into a mass or mound: the rain banked the soil up behind the gate 
+snow was banked in humps at the roadside. 
+• [no object] rise or form into a mass or mound: purple clouds banked up over the hills. 
+• heap (a fire) with tightly packed fuel so that it burns slowly: she could have made a fire and banked it with dirt. 
+• edge or surround with a ridge or row of something: steps banked with pots of chrysanthemums.
+2 (of an aircraft or vehicle) tilt or cause to tilt sideways in making a turn: [no object] : the plane banked as if to return to the airport 
+[with object] : I banked the aircraft steeply and turned. 
+• [no object] build (a road, railroad, or sports track) higher at the outer edge of a bend to facilitate fast cornering.
+3 North American (in pool and other games) play (a ball) so that it rebounds off a surface such as a backboard or cushion. ORIGIN Middle English: from Old Norse bakki, of Germanic origin; related to bench. The senses ‘set of similar things in sloping rows’ and ‘tier of oars’ are from French banc, of the same ultimate origin.

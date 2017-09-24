@@ -1,8 +1,26 @@
 strip
 1 
-▶verb
-1 he stripped and got into bed: undress, strip off, take one's clothes off, unclothe, disrobe, strip naked. ANTONYMS dress.
-2 stripping off paint: peel (off), remove, take off, scrape (off), rub off, clean off.
-3 they stripped her of her doctorate: take away from someone, dispossess someone of, deprive someone of, confiscate, divest someone of, relieve someone of.
-4 they stripped down my engine: dismantle, disassemble, take to bits/pieces, take apart. ANTONYMS assemble.
-5 the house had been stripped: empty, clear, clean out, plunder, rob, burgle, burglarize, loot, pillage, ransack, despoil, sack.
+strip
+
+▶verb (strips, stripping, stripped) [with object]
+1 remove all coverings from: they stripped the bed. 
+• remove the clothes from (someone): [with object and complement] : the man had been stripped naked. 
+• [no object] take off one's clothes: they stripped and showered 
+she stripped down to her underwear. 
+• pull or tear off (a garment or covering): she stripped off her shirt 
+figurative : strip away the hype, and you'll find original thought. 
+• remove bark and branches from (a tree). 
+• remove (paint or varnish) from (a surface): the floorboards can be stripped, sanded, and polished 
+strip off the existing paint. 
+• remove the stems from (tobacco). 
+• milk (a cow) to the last drop.
+2 leave bare of accessories or fittings: thieves stripped the room of luggage. 
+• remove the accessory fittings of or take apart (a machine, motor vehicle, etc.) to inspect or adjust it: the tank was stripped down piece by piece.
+3 (strip someone of) deprive someone of (rank, power, or property): the lieutenant was stripped of his rank.
+4 sell off (the assets of a company) for profit. 
+• Finance divest (a bond) of its interest coupons so that it and they may be sold separately.
+5 tear the thread or teeth from (a screw, gearwheel, etc.). 
+• [no object] (of a screw, gearwheel, etc.) lose its thread or teeth.
+6 [no object] (of a bullet) be fired from a rifled gun without spin owing to a loss of surface. 
+▶noun an act of undressing, especially in a striptease: she got drunk and did a strip on top of the piano. 
+• [as modifier] used for or involving the performance of stripteases: a campaigner against strip joints. ORIGIN Middle English (as a verb): of Germanic origin; related to Dutch stropen .

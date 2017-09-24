@@ -1,5 +1,19 @@
 hack
 1 
-▶verb Stuart hacked the padlock off: cut, chop, hew, lop, saw; slash.
-PHRASES
-hack it informal he tried to run his own commercial fishing outfit, but he couldn't hack it: cope, manage, get on/by, carry on, come through, muddle along/through; stand it, tolerate it, bear it, endure it, put up with it; informal handle it, abide it, stick it out.
+hak
+
+▶verb
+1 [with object] cut with rough or heavy blows: hack off the dead branches 
+[no object] : a fishmonger hacked at it with a cleaver.
+2 [no object] use a computer to gain unauthorized access to data in a system: they hacked into the bank's computer 
+[with object] : someone hacked his computer from another location 
+(as noun hacking) : outlawing hacking has not stopped it.
+3 [usually with negative] (hack it) informal manage; cope: lots of people leave because they can't hack it. 
+▶noun
+1 a rough cut, blow, or stroke: he was sure one of us was going to take a hack at him. 
+• (in sports) a kick or hit inflicted on another player. 
+• a cut or gash. 
+• a tool for rough striking or cutting, e.g., a mattock or a miner's pick.
+2 informal an act of computer hacking. 
+• a piece of computer code providing a quick or inelegant solution to a particular problem: this hack doesn't work on machines that have a firewall. 
+• a strategy or technique for managing one's time or activities more efficiently: there's one easy hack to avoid the eight dollar popcorn trap: eat before you get to the theater. PHRASAL VERBS hack around North American informal pass one's time idly or with no definite purpose. hack someone off informal annoy or infuriate someone.ORIGIN Old English haccian ‘cut in pieces’; related to Dutch hakken and German hacken .

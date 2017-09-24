@@ -1,3 +1,6 @@
 microphone 
-BrE ˈmʌɪkrəfəʊn, AmE ˈmaɪkrəˌfoʊn 
-noun 麦克风 màikèfēng to sing/speak into the microphone 对着话筒唱/讲话 
+ˈmīkrəˌfōn
+
+▶noun an instrument for converting sound waves into electrical energy variations, which may then be amplified, transmitted, or recorded. DERIVATIVES microphonic 
+ˌmīkrəˈfänik 
+adjective

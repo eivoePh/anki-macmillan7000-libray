@@ -1,2 +1,14 @@
 node 
-▶noun the node of the branches: junction, intersection, interchange, fork, confluence, convergence, crossing.
+nōd
+
+▶noun
+1 a point at which lines or pathways intersect or branch; a central or connecting point. 
+• Computing a piece of equipment, such as a PC or peripheral, attached to a network. 
+• Mathematics a point at which a curve intersects itself. 
+• Astronomy either of the two points at which a planet's orbit intersects the plane of the ecliptic or the celestial equator. 
+• (in generative grammar) a vertex or endpoint in a tree diagram.
+2 Botany the part of a plant stem from which one or more leaves emerge, often forming a slight swelling or knob.
+3 Anatomy a lymph node or other structure consisting of a small mass of differentiated tissue.
+4 Physics & Mathematics a point at which the amplitude of vibration in a standing wave system is zero. 
+• a point at which a harmonic function has the value zero, especially a point of zero electron density in an orbital. 
+• a point of zero current or voltage. ORIGIN late Middle English (denoting a knotty swelling or a protuberance): from Latin nodus ‘knot.’

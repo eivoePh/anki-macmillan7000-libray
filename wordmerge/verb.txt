@@ -2,5 +2,10 @@ verb
 BrE vəːb, AmE vərb 
 noun 动词 dòngcí a regular/an irregular verb 规则/不规则动词 
 verb 
-BrE vəːb, AmE vərb 
-noun 动词 dòngcí a regular/an irregular verb 规则/不规则动词 
+vərb
+
+▶noun Grammar a word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence, such as hear, become, happen. 
+▶verb [with object] use (a word that is not conventionally used as a verb, typically a noun) as a verb: any English noun can be verbed, but some are more resistant than others 
+(as noun verbing) : I hate the verbing of that particular noun. DERIVATIVES verbless 
+ˈvərbləs 
+adjectiveORIGIN late Middle English: from Old French verbe or Latin verbum ‘word, verb.’

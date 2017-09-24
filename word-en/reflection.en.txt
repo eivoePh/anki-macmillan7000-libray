@@ -1,8 +1,12 @@
 reflection 
+rəˈflekSH(ə)n
+
 ▶noun
-1 the reflection of light: sending back, throwing back, casting back.
-2 her reflection in the pond: image, mirror image, likeness.
-3 your hands and nails are a reflection of your well-being: indication, display, demonstration, manifestation; expression, evidence.
-4 a sad reflection on society: slur, aspersion, imputation, reproach, shame, criticism.
-5 after some reflection, he turned it down: thought, thinking, consideration, contemplation, deliberation, pondering, meditation, musing, rumination; formal cogitation.
-6 write down your reflections: opinion, thought, view, belief, feeling, idea, impression, conclusion, assessment; comment, observation, remark.
+1 the throwing back by a body or surface of light, heat, or sound without absorbing it: the reflection of light. 
+• an amount of light, heat, or sound that is reflected by a body or surface: the reflections from the streetlights gave us just enough light. 
+• an image seen in a mirror or shiny surface: Marianne surveyed her reflection in the mirror. 
+• a thing that is a consequence of or arises from something else: a healthy skin is a reflection of good health in general. 
+• [in singular] a thing bringing discredit to someone or something: it was a sad reflection on society that because of his affliction he was picked on. 
+• Mathematics the conceptual operation of inverting a system or event with respect to a plane, each element being transferred perpendicularly through the plane to a point the same distance the other side of it.
+2 serious thought or consideration: he doesn't get much time for reflection. 
+• an idea about something, especially one that is written down or expressed: reflections on human destiny and art. ORIGIN late Middle English: from Old French reflexion or late Latin reflexio(n-), from Latin reflex- ‘bent back,’ from the verb reflectere .

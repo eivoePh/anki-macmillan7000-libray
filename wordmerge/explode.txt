@@ -12,9 +12,18 @@ B.  transitive verb
 ① (detonate) 引爆 yǐnbào ‹bomb›
 ② (refute) 戳穿 chuōchuān ‹rumour, myth›; «publication» 推翻 tuīfān ‹theory, assumption›
 explode 
-▶verb
-1 a bomb has exploded: blow up, detonate, go off, burst (apart), fly apart, erupt.
-2 they exploded the bomb: detonate, set off, let off, discharge. ANTONYMS disarm, defuse.
-3 he exploded in anger: lose one's temper, blow up, get angry, become enraged, get mad; informal fly off the handle, hit the roof, blow one's cool/top/stack, go wild, go bananas, go ballistic, see red, go off the deep end, go crackers, go postal.
-4 the city's population is exploding: increase suddenly/rapidly, mushroom, snowball, escalate, multiply, burgeon, rocket, skyrocket.
-5 exploding the myths about men: disprove, refute, invalidate, negate, discredit, debunk, dispel, belie, give the lie to; informal poke holes in, blow out of the water; formal confute. ANTONYMS confirm.
+ikˈsplōd
+
+▶verb [no object]
+1 burst or shatter violently and noisily as a result of rapid combustion, decomposition, excessive internal pressure, or other process, typically scattering fragments widely: a large bomb exploded in a park. 
+• [with object] cause (a bomb) to do this: the USSR had not yet exploded its first nuclear weapon. 
+• technical undergo a violent expansion in which much energy is released as a shock wave: lead ensures that gasoline burns rather than explodes. 
+• (of a person) suddenly give expression to violent and uncontainable emotion, especially anger: he can explode with anger 
+[with direct speech] : “This is ludicrous!” she exploded. 
+• (of a violent emotion or a situation) arise or develop suddenly: tension that could explode into violence at any time. 
+• (explode into) suddenly begin to move or start a new activity: a bird exploded into flight. 
+• increase suddenly or rapidly in size, number, or extent: the car population of Warsaw has exploded. 
+• (as adjective exploded) (of a diagram or drawing) showing the components of a mechanism as if separated by an explosion but in the normal relative positions: an exploded diagram of the rifle's parts.
+2 [with object] show (a belief or theory) to be false or unfounded: the myths that link smoking with glamour need to be exploded. DERIVATIVES exploder nounORIGIN mid 16th century (in the sense ‘reject scornfully, discard’): from Latin explodere ‘drive out by clapping, hiss off the stage,’ from ex- ‘out’ + plaudere ‘to clap.’ Sense
+2 is derived from the original sense of the word. Sense
+1 (late 18th century) evolved via an old sense ‘expel with violence and sudden noise,’ perhaps influenced by obsolete displode ‘burst with a noise.’

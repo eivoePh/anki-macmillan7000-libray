@@ -4,6 +4,7 @@ transitive verb
 ① (prompt) 促动 cùdòng to be motivated by [something]; 由某事物促动 they were motivated by greed 他们是出于贪婪 
 ② (inspire) 调动…的积极性 diàodòng… de jījíxìng a teacher who can motivate her pupils 能调动学生积极性的老师 
 motivate 
-▶verb
-1 she was primarily motivated by the desire for profit: prompt, drive, move, inspire, stimulate, influence, activate, impel, push, propel, spur (on).
-2 it's the teacher's job to motivate the child: inspire, stimulate, encourage, spur (on), excite, inspirit, incentivize, fire with enthusiasm.
+ˈmōdəˌvāt
+
+▶verb [with object] provide (someone) with a motive for doing something: he was primarily motivated by the desire for profit. 
+• stimulate (someone's) interest in or enthusiasm for doing something: I'm going to motivate kids to study civics.

@@ -1,14 +1,51 @@
 hit 
-▶verb
-1 she hit her child: strike, slap, smack, spank, cuff, punch, thump, swat; beat, thrash, batter, pound, pummel, box someone's ears; whip, flog, cane; informal whack, wallop, bash, bop, clout, clip, clobber, sock, swipe, crown, beat the living daylights out of, knock someone around, belt, tan, lay into, let someone have it, deck, floor, slug; literary smite.
-2 a car hit the barrier: crash into, run into, smash into, smack into, knock into, bump into, plow into, collide with, meet head-on, impact.
-3 informal spending will hit $180 million: reach, touch, arrive at, rise to, climb to.
-4 it hit me that I had forgotten: occur to, strike, dawn on, come to; enter one's head, cross one's mind, come to mind, spring to one's mind.
+hit
+
+▶verb (hits, hitting, hit) [with object]
+1 bring one's hand or a tool or weapon into contact with (someone or something) quickly and forcefully: the woman hit the mugger with her umbrella 
+[no object] : use your words, but do not hit 
+the police hit out with billy clubs. 
+• accidentally strike (part of one's body) against something, often causing injury: she fainted and hit her head on the metal bedstead. 
+• (of a moving object or body) come into contact with (someone or something stationary) quickly and forcefully: a car hit the barrier. 
+• informal touch or press (part of a machine or other device) in order to work it: he picked up the phone and hit several buttons.
+2 cause harm or distress to: the area has been badly hit by business closures. 
+• [no object] (hit out) make a strongly worded criticism or attack: he hit out at suppliers for hyping their products. 
+• (of a disaster) occur in and cause damage to (an area) suddenly: the country was hit by a major earthquake. 
+• informal, chiefly North American attack and rob or kill: if they're cops, maybe it's not a good idea to have them hit. 
+• informal be affected by (an unfortunate and unexpected circumstance or event): the opening of the town center hit a snag.
+3 (of a missile or a person aiming one) strike (a target): the sniper fired and hit a third man. 
+• informal reach (a particular level, point, or figure): his career hit rock bottom. 
+• informal arrive at or go to (a place): we hit a diner for coffee and doughnuts 
+it was still night when we hit the outskirts of Chicago. 
+• be suddenly and vividly realized by: [with object and clause] : it hit her that I wanted to settle down here. 
+• [no object] take effect: we sat waiting for the caffeine to hit. 
+• informal give (someone) a dose of a drug or an alcoholic drink. 
+• informal (of a product) become available and make an impact on: the latest board game to hit the market. 
+• informal used to express the idea that someone is taking up a pursuit or taking it seriously: more and more teenagers are hitting the books.
+4 propel (a ball) with a bat, racket, stick, etc., to score or attempt to score runs or points in a game. 
+• score (runs or points) by hitting a ball with a bat, racket, or stick: he had hit 25 home runs. 
+• [no object] Baseball (of a batter) make a base hit. 
 ▶noun
-1 he received a hit from behind: blow, thump, punch, knock, bang, cuff, slap, smack, spank, tap, crack, stroke, welt, karate chop; impact, collision, bump, crash; informal whack, thwack, wallop, bash, belt, clout, sock, swipe, clip, slug.
-2 he directed many big hits: success, box-office success, sellout, winner, triumph, sensation; bestseller; informal smash, smash hit, megahit, knockout, crowd-pleaser, chart-topper, chart-buster, wow, biggie, number one. ANTONYMS failure.
+1 an instance of striking or being struck: few structures can withstand a hit from a speeding car. 
+• a verbal attack: he could not resist a hit at his friend's religiosity. 
+• informal, chiefly North American a murder, typically one planned and carried out by a criminal organization. 
+• Baseball short for base hit.
+2 an instance of striking the target aimed at: one of the bombers had scored a direct hit. 
+• a successful venture, especially in entertainment: he was the director of many big hits 
+[as modifier] : a hit comedy. 
+• a successful film, pop record, or song: he was the director of many big hits. 
+• informal a successful and popular person or thing: handsome, smiling, and smart, he was an immediate hit. 
+• Computing an instance of identifying an item of data that matches the requirements of a search. 
+• an instance of a particular website being accessed by a user: the site gets an average 350,000 hits per day.
+3 informal a dose of a psychoactive drug. 
 PHRASES
-hit back if you're gonna come after me with lies and innuendo, I'm gonna hit back: retaliate, respond, reply, react, counter, defend oneself. hit hard the tragedy hit her hard: devastate, affect badly, hurt, harm, leave a mark on; upset, shatter, crush, shock, overwhelm, traumatize. hit home the documentary on teen suicide painfully hit home: have the intended effect, strike home, hit the mark, register, be understood, get through, sink in. hit it off informal Mark and Mika hit it off almost immediately: get on well, get along, get on, be friends, be friendly, be compatible, be well matched, feel a rapport, see eye to eye, take to each other, warm to each other; informal click, get on like a house on fire, be on the same wavelength. hit on/upon
-1 he hit on the truth 
-Cagney hit upon a great idea for the finale: discover, come up with, think of, conceive of, dream up, work out, invent, create, devise, design, pioneer; uncover, stumble on, happen upon, chance on, light on, come upon.
-2 he tried to hit on me: flirt with, show interest in, make eyes at, come on to, make advances to/toward.
+hit-and-miss 
+ˈˌhit n ˈmis 
+done or occurring at random: picking a remedy can be a bit hit-and-miss. hit someone below the belt Boxing give one's opponent an illegal low blow. 
+• behave unfairly, especially so as to gain an unfair advantage. hit someone for six see six. hit the bottle see bottle. hit the ground running informal start something and proceed at a fast pace with enthusiasm. hit the hay see hay1. hit home see home. hit it off informal be naturally friendly or well suited. hit the jackpot see jackpot. hit the mark be successful in an attempt or accurate in a guess. hit the nail on the head find exactly the right answer. hit-or-miss 
+ˈˌhid ôr ˈmis 
+as likely to be unsuccessful as successful: her work can be hit-or-miss. hit the right note see note. hit the road (or trail) informal set out on a journey.hit the roof see roof. hit the sack see sack1. hit the spot see spot. make a hit be successful or popular: you made a big hit with her.PHRASAL VERBS hit on
+1 (also hit upon) discover or think of, especially by chance: she hit on a novel idea for fund-raising.
+2 North American make sexual advances toward. hit someone up North American informal ask someone for something, typically money: he hit up some family members 
+I have an employee who is always hitting me up for a raise. 
+• [usually in imperative] contact someone: if you have a serious band and would like to play some music, hit me up.ORIGIN late Old English hittan (in the sense ‘come upon, find’), from Old Norse hitta ‘come upon, meet with,’ of unknown origin.

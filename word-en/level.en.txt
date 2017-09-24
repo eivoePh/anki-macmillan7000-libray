@@ -1,19 +1,47 @@
 level 
-▶adjective
-1 a smooth and level surface: flat, smooth, even, uniform, plane, flush, plumb. ANTONYMS uneven, bumpy.
-2 he kept his voice level: unchanging, steady, unvarying, even, uniform, regular, constant, invariable, unaltering; calm, unemotional, composed, equable, unruffled, serene, tranquil. ANTONYMS shaky, unsteady.
-3 his eyes were level with hers: aligned with, on the same level as, on a level with, at the same height as, in line with. ANTONYMS uneven, above, below.
+ˈlevəl
+
 ▶noun
-1 she is at a managerial level: rank, standing, status, position; echelon, degree, grade, gradation, stage, standard, rung; class, stratum, group, grouping, set, classification.
-2 a high level of unemployment: quantity, amount, extent, measure, degree, volume, size, magnitude, intensity, proportion.
-3 the level of water is rising: height, altitude, elevation.
-4 the sixth level: floor, story, deck.
-▶verb
-1 tilt the pan to level the mixture: make level, level out/off, make even, even out, make flat, flatten, smooth, smooth out, make uniform.
-2 bulldozers leveled the building: raze, demolish, flatten, topple, destroy; tear down, knock down, pull down, bulldoze.
-3 he leveled his opponent with a single blow: knock down, lay out, flatten, floor, fell; knock out; informal KO, kayo.
-4 Carl leveled the playing field: equalize, make equal, equal, even, even up, make level.
-5 he leveled his pistol at me: aim, point, direct, train, focus, turn, sight.
-6 informal I knew you'd level with me: be frank with, be open with, be honest with, be aboveboard with, tell the truth to, tell all to, hide nothing from, be straightforward with, be upfront with; informal come clean with, set the record straight with.
+1 a horizontal plane or line with respect to the distance above or below a given point.level
+3 
+• a height or distance from the ground or another stated or understood base: storms caused river levels to rise. 
+• a floor within a multistory building.
+2 a position on a real or imaginary scale of amount, quantity, extent, or quality: a high level of unemployment 
+debt rose to unprecedented levels. 
+• a social, moral, or intellectual standard: at six he could play chess at an advanced level. 
+• a position in a real or notional hierarchy: a fairly junior level of management.
+3 Gaming (in a video game) each of a series of stages of increasing difficulty through which a player may progress, completing one stage in order to reach the next: I've now reached level 106 on Candy Crush Saga. 
+• (especially in a role-playing game) each of a number of steps in the development of a character, who progressively acquires enhanced skills and abilities within the game as the player advances by completing tasks and earning points: you can easily take a character to level
+20 in less than
+15 hours and finish the campaign.
+4 a device consisting of a sealed glass tube partially filled with alcohol or other liquid, containing an air bubble whose position reveals whether a surface is perfectly level or plumb. Also called spirit level, bubble level. 
+• Surveying an instrument for giving a horizontal line of sight.
+5 a flat tract of land: flooded levels. 
+▶adjective
+1 having a flat and even surface without slopes or bumps: we had reached level ground. 
+• (of a quantity of a dry substance) with the contents not rising above the brim of the measure: a level teaspoon of salt.
+2 at the same height as someone or something else: his eyes were level with hers.
+3 having the same relative position; not in front of or behind: the car braked suddenly, then backed rapidly until it was level with me. 
+• chiefly British having the same position or score in a contest: the two teams finished level on points. 
+• unchanged; not having risen or fallen: earnings were level at 57 cents a share.
+4 calm and steady: “Adrian,” she said in her most level voice. 
+▶verb (levels, leveling, leveled; also chiefly British levels, levelling, levelled)
+1 [with object] give a flat and even surface to: contractors started leveling the ground for the new power station. 
+• demolish (a building or town): bulldozers are now waiting to level their home.
+2 [no object] (level off/out) begin to fly horizontally after climbing or diving. 
+• (of a path, road, or incline) cease to slope upward or downward: the track leveled out, and there below us was the bay. 
+• cease to fall or rise in number, amount, or quantity: inflation has leveled out at an acceptable rate.
+3 [with object] chiefly British make (something, especially a score in sport) equal or similar: Woods sliced the ball into the net to level the score. 
+• [with object] (level something up/down) increase or reduce the amount, number, or quantity of something in order to remove a disparity.
+4 [with object] aim (a weapon): he leveled a long-barreled pistol at us. 
+• direct (a criticism or accusation): accusations of corruption had been leveled against him.
+5 [no object] (level with) informal be frank or honest with (someone): when are you going to level with me?
+6 Surveying ascertain differences in the height of (land). 
 PHRASES
-on the level informal she is such a smooth talker, we never know for sure if she's on the level: genuine, straight, honest, aboveboard, fair, true, sincere, straightforward, trustworthy; informal upfront, on the up and up.
+do one's level best do one's utmost; make all possible efforts. find its (own) level (of a liquid) reach the same height in containers that are interconnected. 
+• reach a stable level, value, or position without interference. find one's (own) level (of a person) reach a position or competency that seems appropriate and natural in relation to one's associates. a level playing field a situation in which everyone has a fair and equal chance of succeeding. on a level with 
+• equal with: they were treated as menials, on a level with cooks. on the level informal honest; truthful: Eddie said my story was on the level. take something to the next level further improve or develop something that is already successful: five years after founding my software company, I'm ready to take it to the next level.PHRASAL VERBS level up Gaming (especially in a role-playing game) progress to the next level: you can collect runes and use them as you level up to increase the power of your weapons . 
+• (level something up) (in a role-playing game) advance one's character to the next level of development: build your army, level up your hero, purchase equipment, and challenge your friends to massive battles.DERIVATIVES levelly 
+ˈlevəlē 
+adverb level ( sense
+4 of the adjective) . levelness nounORIGIN Middle English (denoting an instrument to determine whether a surface is horizontal): from Old French livel, based on Latin libella, diminutive of libra ‘scales, balance.’

@@ -9,7 +9,11 @@ B.  adjective
 ① (normal) 例行的 lìxíng de ‹procedure›; 常规的 chángguī de ‹maintenance, medical›
 ② (uninspiring) 平淡乏味的 píngdàn fáwèi de ‹tasks, chores, work, job, performance›
 routine 
-▶noun
-1 his morning routine: procedure, practice, pattern, drill, regimen; program, schedule, plan; formula, method, system; customs, habits; wont.
-2 a stand-up routine: act, performance, number, turn, piece; informal spiel, patter, shtick.
-▶adjective a routine safety inspection: standard, regular, customary, normal, usual, ordinary, typical; everyday, common, commonplace, conventional, habitual, wonted. ANTONYMS unusual.
+ro͞oˈtēn
+
+▶noun a sequence of actions regularly followed; a fixed program: I settled down into a routine of work and sleep 
+as a matter of routine a report will be sent to the director. 
+• a set sequence in a performance such as a dance or comedy act: he was trying to persuade her to have a tap routine in the play. 
+• Computing a sequence of instructions for performing a task that forms a program or a distinct part of one. 
+▶adjective performed as part of a regular procedure rather than for a special reason: the principal insisted that this was just a routine annual drill. 
+▶verb [with object] rare organize according to a routine: all had been routined with smoothness. ORIGIN late 17th century (denoting a regular course or procedure): from French, from route ‘road’ (see route) .

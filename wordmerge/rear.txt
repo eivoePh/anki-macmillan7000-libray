@@ -9,9 +9,13 @@ A.  noun
 B.  adjectiveattributive 后部的 hòubù de he got in by the rear entrance 他从后门进来了 
 rear
 1 
-▶verb
-1 I was reared on a farm: bring up, raise, care for, look after, nurture, parent; hand-rear; educate.
-2 he reared cattle: breed, raise, keep, farm, ranch.
-3 laboratory-reared plants: grow, cultivate.
-4 the bear reared its head: raise, lift (up), hold up, uplift.
-5 Mount Logan reared up before them: rise, rise up, tower, soar, loom.
+rir
+
+▶noun [in singular] the back part of something, especially a building or vehicle: the kitchen door at the rear of the house. 
+• the space or position at the back of something or someone: the field at the rear of the church. 
+• the hindmost part of an army, fleet, or line of people: two blue policemen at the rear fell out of the formation. 
+• (also rear end) informal a person's buttocks. 
+▶adjective [attributive] at the back: the car's rear window. 
+PHRASES
+bring up the rear be at the very end of a line of people. 
+• come last in a race or other contest.ORIGIN Middle English (first used as a military term): from Old French rere, based on Latin retro ‘back.’

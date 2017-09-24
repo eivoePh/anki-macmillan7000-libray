@@ -1,9 +1,23 @@
-link 
+link
+1 
+liNGk
+
 ▶noun
-1 a chain of steel links: loop, ring, connection, connector, coupling, joint.
-2 the links between transport and the environment: connection, relationship, association, linkage, tie-up.
-3 their links with the labor movement: bond, tie, attachment, connection, relationship, association, affiliation.
-4 he was an important link in our operation: component, constituent, element, part, piece.
-▶verb
-1 four boxes were linked together: join, connect, fasten, attach, bind, unite, combine, amalgamate; clamp, secure, fix, tie, couple, yoke, hitch.
-2 the evidence linking him with the murder: associate, connect, relate, join, bracket.
+1 a relationship between two things or situations, especially where one thing affects the other: investigating a link between pollution and forest decline. 
+• a social or professional connection between people or organizations: he retained strong links with the media. 
+• something that enables communication between people: sign language interpreters represent a vital link between the deaf and hearing communities. 
+• a means of contact, travel, or transport between two points or places: they set up a satellite link with Tokyo 
+a rail link from Newark to Baltimore. 
+• Computing a code or instruction that connects one part of a program or an element in a list to another. 
+• short for hyperlink.
+2 a ring or loop in a chain. 
+• a unit of measurement of length equal to one hundredth of a surveying chain (7.92 inches). 
+▶verb make, form, or suggest a connection with or between: [with object] : rumors that linked his name with Judith 
+foreign and domestic policy are linked 
+[no object] : she was linked up with an artistic group. 
+• connect or join physically: [with object] : a network of routes linking towns and villages 
+the cows are linked up to milking machines 
+[no object] : three different groups, each linking with the other. 
+• Computing create a hyperlink between (web pages or hypertext documents): I've had problems linking my blog to other websites 
+[no object] : it turns out he reads my blogs and was very pleased I'd linked to his article. 
+• [with object] clasp; intertwine: once outside he linked arms with her. ORIGIN late Middle English (denoting a loop; also as a verb in the sense ‘connect physically’): from Old Norse hlekkr, of Germanic origin; related to German Gelenk ‘joint.’

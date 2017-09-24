@@ -1,4 +1,9 @@
 assess 
-▶verb
-1 we need more time to assess the situation: evaluate, judge, gauge, rate, estimate, appraise, consider, get the measure of, determine, analyze; informal size up.
-2 the damage was assessed at $5 million: value, calculate, work out, determine, fix, cost, price, estimate.
+əˈses
+
+▶verb [with object] evaluate or estimate the nature, ability, or quality of: the committee must assess the relative importance of the issues 
+[with clause] : it is difficult to assess whether this is a new trend. 
+• (usually be assessed) calculate or estimate the price or value of: the damage was assessed at $5 billion. 
+• set the value of a tax, fine, etc., for (a person or property) at a specified level: all empty properties will be assessed at 50 percent. DERIVATIVES assessable 
+əˈsesəb(ə)l 
+adjectiveORIGIN late Middle English: from Old French assesser, based on Latin assidere ‘sit by’ (in medieval Latin ‘levy tax’), from ad- ‘to, at’ + sedere ‘sit.’ Compare with assize .

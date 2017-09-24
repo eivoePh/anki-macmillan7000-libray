@@ -1,5 +1,12 @@
 select 
-▶verb select the correct tool for the job: choose, pick (out), single out, sort out, take; opt for, decide on, settle on, determine, nominate, appoint, elect.
-▶adjective
-1 a select group of players: choice, hand-picked, prime, first-rate, first-class, superior, finest, best, top-class, blue-ribbon, supreme, superb, excellent; informal A1, top-notch. ANTONYMS inferior.
-2 a select clientele: exclusive, elite, favored, privileged; wealthy; informal posh. ANTONYMS common.
+səˈlekt
+
+▶verb [with object] carefully choose as being the best or most suitable: students must select their own program 
+[with object and infinitive] : he has been selected to take part 
+[no object] : you can select from a range of quality products. 
+• [no object] (select for/against) Biology (in terms of evolution) determine whether (a characteristic or organism) will survive: a phenotype can be selected against. 
+• use a mouse or keystrokes to mark (something) on a computer screen for a particular operation. 
+▶adjective (of a group of people or things) carefully chosen from a larger number as being the best or most valuable: he joined his select team of young Intelligence operatives. 
+• (of a place or group of people) only used by or consisting of a wealthy or sophisticated elite; exclusive: the opera was seen by a small and highly select audience. DERIVATIVES selectable adjective. selectness 
+səˈlek(t)nəs 
+nounORIGIN mid 16th century: from Latin select- ‘chosen,’ from the verb seligere, from se- ‘apart’ + legere ‘choose.’

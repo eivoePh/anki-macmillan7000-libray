@@ -1,4 +1,8 @@
 wealth 
-▶noun
-1 a gentleman of wealth: affluence, prosperity, riches, means, substance, fortune; money, cash, lucre, capital, treasure, finance; assets, possessions, resources, funds; property, stock, reserves, securities, holdings; informal wherewithal, dough, moola. ANTONYMS poverty.
-2 a wealth of information: abundance, profusion, mine, store, treasury, bounty, bonanza, cornucopia, myriad; informal lot, load, heap, mass, mountain, stack, ton; formal plenitude. ANTONYMS dearth.
+welTH
+
+▶noun an abundance of valuable possessions or money: he used his wealth to bribe officials. 
+• the state of being rich; material prosperity: some people buy boats and cars to display their wealth. 
+• plentiful supplies of a particular resource: the country's mineral wealth. 
+• [in singular] a plentiful supply of a particular desirable thing: the tables and maps contain a wealth of information. 
+• archaic well-being; prosperity. ORIGIN Middle English welthe, from well1 or weal2, on the pattern of health.

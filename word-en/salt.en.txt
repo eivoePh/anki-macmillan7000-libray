@@ -1,9 +1,24 @@
 salt 
+sôlt
+
 ▶noun
-1 the potatoes need salt: sodium chloride, table salt, NaCl.
-2 literary he added salt to the conversation: zest, spice, piquancy, bite, edge; vitality, liveliness, spirit, sparkle; informal zing, punch.
-▶adjective salt water: salty, salted, saline, briny, brackish.
+1 (also common salt) a white crystalline substance that gives seawater its characteristic taste and is used for seasoning or preserving food. [Alternative name: sodium chloride; chemical formula: NaCl. See sea salt .] 
+• literary something that adds freshness or piquancy: he described danger as the salt of pleasure. 
+• a saltcellar.
+2 Chemistry any chemical compound formed from the reaction of an acid with a base, with all or part of the hydrogen of the acid replaced by a metal or other cation.
+3 (usually old salt) informal an experienced sailor. 
+▶adjective [attributive]
+1 impregnated with, treated with, or tasting of salt: salt water 
+salt beef.
+2 (of a plant) growing on the coast or in salt marshes. 
+▶verb [with object]
+1 (usually as adjective salted) season or preserve with salt: cook the carrots in boiling salted water. 
+• make (something) piquant or more interesting: there was good talk to salt the occasion. 
+• sprinkle (a road or path) with salt in order to melt snow or ice.
+2 informal fraudulently make (a mine) appear to be a paying one by placing rich ore in it.
+3 (as adjective salted) (of a horse) having developed a resistance to disease by surviving it. 
 PHRASES
-salt away informal Esther salted away most of her allowance: save, put aside, put by, set aside, reserve, keep, store, stockpile, hoard, stow away; informal squirrel away, stash away. with a grain of salt he's a spinner of tales, so take what he says with a grain of salt: with reservations, with misgivings, skeptically, cynically, doubtfully, doubtingly, suspiciously, quizzically, incredulously. 
-WORD LINKS
-salt saline containing saltWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+rub salt into the (or someone's) wound make a painful experience even more painful for someone. the salt of the earth a person or group of people of great kindness, reliability, or honesty. [with biblical allusion to Matt 5:13.] sit below the salt be of lower social standing or worth. [from the former custom of placing a large saltcellar in the middle of a dining table with the host at one end.] take something with a grain (or pinch) of salt regard something as exaggerated; believe only part of something: take a stock tip with a grain of salt. worth one's salt good or competent at the job or profession specified: any astrologer worth her salt would have predicted this.PHRASAL VERBS salt something away informal secretly store or put by something, especially money. salt something out cause soap to separate from lye by adding salt. 
+• Chemistry cause an organic compound to separate from an aqueous solution by adding an electrolyte.DERIVATIVES saltish adjective. saltless adjective. saltness 
+ˈsôltnəs 
+nounORIGIN Old English sealt (noun), sealtan (verb), of Germanic origin; related to Dutch zout and German Salz (nouns), from an Indo-European root shared by Latin sal,Greek hals ‘salt.’

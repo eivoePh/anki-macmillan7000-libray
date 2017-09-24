@@ -11,6 +11,18 @@ noun
 ③ Computing 升级版 shēngjíbǎn 
 ④ Transport [旅客座位、所享受服务标准等的] 升级 shēngjí 
 upgrade 
-▶verb
-1 there are plans to upgrade the rail system: improve, modernize, update, bring up to date, make better, ameliorate, reform; rehabilitate, recondition, refurbish, spruce up, renovate, rejuvenate, overhaul; bring up to code. ANTONYMS downgrade.
-2 he was upgraded to a seat in the cabinet: promote, give a promotion, elevate, move up, raise. ANTONYMS demote.
+▶verb 
+ˈəpˌɡrād ˌəpˈɡrād 
+[with object] raise (something) to a higher standard, in particular improve (equipment or machinery) by adding or replacing components: the cost of upgrading each workstation is around $300 
+(as adjective upgraded) : upgraded computers. 
+• raise (an employee) to a higher grade or rank. 
+▶noun 
+ˈəpˌɡrād 
+an act of upgrading something. 
+• an improved or more modern version of something, especially a piece of computing equipment. 
+PHRASES
+on the upgrade improving; progressing.DERIVATIVES upgradability 
+ˌəpˌɡrādəˈbilitē 
+(also upgradeability) noun. upgradable 
+ˌəpˈɡrādəbəl 
+(also upgradeable) adjective

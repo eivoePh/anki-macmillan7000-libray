@@ -9,9 +9,15 @@ transitive verb
 ① (roughly calculate or judge) 估计 gūjì ‹value, price, distance, speed›to estimate that …; 估计… to estimate [something] at/to be …; 估计某物为… 
 ② (submit a probable price for) 为…估价 wèi… gūjià to estimate a price for [something]; 估计某物的价格 
 estimate 
-▶verb
-1 estimate the cost: calculate roughly, approximate, guess; evaluate, judge, gauge, reckon, rate, determine; informal guesstimate, ballpark.
-2 we estimate it to be worth $50,000: consider, believe, reckon, deem, judge, rate, gauge.
-▶noun
-1 an estimate of the cost: rough calculation, approximation, estimation, rough guess; costing, quotation, valuation, evaluation; informal guesstimate.
-2 his estimate of Paul's integrity: evaluation, estimation, judgment, rating, appraisal, opinion, view.
+▶verb 
+ˈestəˌmāt 
+[with object] roughly calculate or judge the value, number, quantity, or extent of: the aim is to estimate the effects of macroeconomic policy on the economy 
+[with clause] : it is estimated that smoking causes 100,000 premature deaths every year 
+(as adjective estimated) : an estimated cost of $140,000,000. 
+▶noun 
+ˈestəmət 
+an approximate calculation or judgment of the value, number, quantity, or extent of something: at a rough estimate, our staff is recycling a quarter of the paper used. 
+• a written statement indicating the likely price that will be charged for specified work or repairs: compare costs by getting estimates from at least two firms. 
+• a judgment of the worth or character of someone or something: his high estimate of the poem. DERIVATIVES estimative 
+ˈestəˌmādiv 
+adjectiveORIGIN late Middle English: from Latin aestimat- ‘determined, appraised,’ from the verb aestimare. The noun originally meant ‘intellectual ability, comprehension’ (only in late Middle English), later ‘valuing, a valuation’ (compare with estimation). The verb originally meant ‘to think well or badly of someone or something’ (late 15th century), later ‘regard as being, consider to be’ (compare with esteem).

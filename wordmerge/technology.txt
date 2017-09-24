@@ -5,8 +5,11 @@ noun
 ② Countable(method) 工艺 gōngyì 
 ③ Uncountable(resources) 技术设备 jìshù shèbèi we don't yet have the technology to isolate the virus 我们还没有隔离这种病毒的技术 
 technology 
-BrE tɛkˈnɒlədʒi, AmE tɛkˈnɑlədʒi 
-noun 
-① Uncountable(applied science) (application) 技术 jìshù science and technology 科学技术 advances in technology 技术上的发展 modern technology 现代技术 
-② Countable(method) 工艺 gōngyì 
-③ Uncountable(resources) 技术设备 jìshù shèbèi we don't yet have the technology to isolate the virus 我们还没有隔离这种病毒的技术 
+tekˈnäləjē
+
+▶noun (plural technologies) the application of scientific knowledge for practical purposes, especially in industry: advances in computer technology 
+recycling technologies. 
+• machinery and equipment developed from the application of scientific knowledge. 
+• the branch of knowledge dealing with engineering or applied sciences. DERIVATIVES technologize 
+-ˌjīz 
+verbORIGIN early 17th century: from Greek tekhnologia ‘systematic treatment,’ from tekhnē ‘art, craft’ + -logia (see -logy) .

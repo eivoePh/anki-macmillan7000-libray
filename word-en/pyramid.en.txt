@@ -1,5 +1,15 @@
 pyramid 
-BrE ˈpɪrəmɪd, AmE ˈpɪrəˌmɪd 
-noun 
-① Architecture 金字塔 jīnzìtǎ the pyramids of Egypt 埃及的金字塔 
-② (shape) 锥体 zhuītǐ 
+ˈpirəˌmid
+
+▶noun
+1 a monumental structure with a square or triangular base and sloping sides that meet in a point at the top, especially one built of stone as a royal tomb in ancient Egypt. pyramid 1Pyramids were built as tombs for Egyptian pharaohs from the 3rd dynasty (c. 2649 bc) until c. 1640 bc. Monuments of similar shape are associated with the Maya and Aztec civilizations of c. 1200 bc–ad 750, and, like those in Egypt, were part of large ritual complexes.
+2 an object, shape, or arrangement in the form of a pyramid: a pyramid of logs. 
+• Geometry a polyhedron of which one face is a polygon of any number of sides, and the other faces are triangles with a common vertex: a three-sided pyramid. 
+• Anatomy a structure of more or less pyramidal form, especially in the brain or the renal medulla. 
+• an organization or system that is structured with fewer people or things at each level as one approaches the top: the lowest strata of the social pyramid.
+3 a system of financial growth achieved by a small initial investment, with subsequent investments being funded by using unrealized profits as collateral. 
+• short for pyramid scheme. 
+▶verb [with object] chiefly North American heap or stack in the shape of a pyramid: debt was pyramided on top of unrealistic debt in an orgy of speculation. 
+• achieve a substantial return on (money or property) after making a small initial investment. DERIVATIVES pyramidical 
+ˌpirəˈmidikəl 
+adjective. pyramidically adverbORIGIN late Middle English (in the geometric sense): via Latin from Greek puramis, puramid-, of unknown ultimate origin.

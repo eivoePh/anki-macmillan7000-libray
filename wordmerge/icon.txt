@@ -6,6 +6,10 @@ noun
 ③ Computing 图标 tú biāo 
 ④ figurative (person) 偶像 ǒuxiàng (object) 标志 biāozhì a feminist icon 女权主义者的偶像 
 icon 
+ˈīˌkän
+
 ▶noun
-1 an icon of the Blessed Virgin: image, idol, portrait, picture, representation, likeness, symbol, sign; figure, statue.
-2 he became a teen icon: idol, paragon, hero, heroine; celebrity, superstar, star; favorite, darling.
+1 (also ikon) a painting of Jesus Christ or another holy figure, typically in a traditional style on wood, venerated and used as an aid to devotion in the Byzantine and other Eastern Churches.
+2 a person or thing regarded as a representative symbol of something: this iron-jawed icon of American manhood.
+3 Computing a symbol or graphic representation on a screen of a program, option, or window, especially one of several for selection.
+4 Linguistics a sign whose form directly reflects the thing it signifies, for example, the word snarl pronounced in a snarling way. ORIGIN mid 16th century (in the sense ‘simile’): via Latin from Greek eikōn ‘likeness, image.’ Current senses date from the mid 19th century onward.

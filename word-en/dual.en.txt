@@ -1,2 +1,14 @@
 dual 
-▶adjective a futuristic car with dual engines: double, twofold, binary; duplicate, twin, matching, paired, coupled. ANTONYMS single.
+ˈd(y)o͞oəl
+
+▶adjective
+1 [attributive] consisting of two parts, elements, or aspects: their dual role at work and home. 
+• Grammar (in some languages) denoting an inflection that refers to exactly two people or things (as distinct from singular and plural): Old English has dual number for first- and second-person pronouns. 
+• (in an aircraft) using dual controls: a dual flight.
+2 (often dual to) Mathematics (of a theorem, expression, etc.) related to another by the interchange of particular pairs of terms, such as “point” and “line.” 
+▶noun
+1 Grammar a dual form of a word. 
+• the dual number.
+2 Mathematics a theorem, expression, etc., that is dual to another. DERIVATIVES dualize 
+-ˌlīz 
+verb. dually adverbORIGIN late Middle English (as a noun denoting either of the two middle incisor teeth in each jaw): from Latin dualis, from duo ‘two.’

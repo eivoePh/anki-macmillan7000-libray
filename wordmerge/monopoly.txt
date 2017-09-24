@@ -6,8 +6,11 @@ A.  noun
 ② figurative (exclusive possession, control) 独占 dúzhàn monopoly on [something]; 对某事物的独占 to have a monopoly on or of [something] 独占某事物 a good education should not be the monopoly of the rich 良好的教育不应该成为富人的专利 
 B.  Monopoly® nounUncountable(board game) 大富翁游戏 dàfùwēng yóuxì 
 monopoly 
-BrE məˈnɒp(ə)li, AmE məˈnɑpəli 
-A. noun 
-① Economics 垄断 lǒngduàn to have a monopoly on or of [something]; 垄断某事物 to break [somebody's] monopoly on [something]; 打破某人对某事物的垄断 
-② figurative (exclusive possession, control) 独占 dúzhàn monopoly on [something]; 对某事物的独占 to have a monopoly on or of [something] 独占某事物 a good education should not be the monopoly of the rich 良好的教育不应该成为富人的专利 
-B.  Monopoly® nounUncountable(board game) 大富翁游戏 dàfùwēng yóuxì 
+məˈnäpəlē
+
+▶noun (plural monopolies)
+1 the exclusive possession or control of the supply or trade in a commodity or service: his likely motive was to protect his regional monopoly on furs. 
+• [usually with negative] the exclusive possession, control, or exercise of something: men don't have a monopoly on unrequited love. 
+• a company or group having exclusive control over a commodity or service: areas where cable companies operate as monopolies. 
+• a commodity or service in the exclusive control of a company of group: electricity, gas, and water were considered to be natural monopolies.
+2 (Monopoly) trademark a board game in which players engage in simulated property and financial dealings using imitation money. It was invented in the US and the name was coined by Charles Darrow c. 1935. ORIGIN mid 16th century: via Latin from Greek monopōlion, from monos ‘single’ + pōlein ‘sell.’

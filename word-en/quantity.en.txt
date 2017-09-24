@@ -1,4 +1,13 @@
 quantity 
-▶noun
-1 the quantity of food collected: amount, total, aggregate, sum, quota, mass, weight, volume, bulk; quantum, proportion, portion, part.
-2 a quantity of ammunition: amount, lot, great deal, good deal, abundance, wealth, profusion; informal pile, ton, load, heap, buttload, mass, stack.
+ˈkwän(t)ədē
+
+▶noun (plural quantities)
+1 the amount or number of a material or immaterial thing not usually estimated by spatial measurement: the quantity and quality of the fruit can be controlled 
+note down the sizes, colors, and quantities that you require. 
+• a certain, usually specified, amount or number of something: a small quantity of food 
+if taken in large quantities, the drug can result in liver failure. 
+• (often quantities) a considerable number or amount of something: she was able to drink quantities of beer without degenerating into giggles 
+many people like to buy in quantity.
+2 Phonetics the perceived length of a vowel sound or syllable.
+3 Mathematics & Physics a value or component that may be expressed in numbers. 
+• the figure or symbol representing this. ORIGIN Middle English: from Old French quantite, from Latin quantitas (translating Greek posotēs), from quantus ‘how great, how much.’

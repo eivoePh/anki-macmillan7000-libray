@@ -1,11 +1,13 @@
 sum 
+səm
+
 ▶noun
-1 a large sum of money: amount, quantity, volume.
-2 just a small sum: amount of money, price, charge, fee, cost.
-3 the sum of two numbers: (sum) total, grand total, tally, aggregate, summation. ANTONYMS difference.
-4 the sum of his wisdom: entirety, totality, total, whole, aggregate, summation, beginning and end.
-5 we did sums at school: (arithmetical) problem, calculation; (sums) arithmetic, mathematics, math, computation.
+1 a particular amount of money: they could not afford such a sum.
+2 (the sum of) the total amount resulting from the addition of two or more numbers, amounts, or items: the sum of two prime numbers. 
+• the total amount of something that exists: the sum of his own knowledge.
+3 an arithmetical problem, especially at an elementary level. 
+▶verb (sums, summing, summed) [with object] technical find the sum of (two or more amounts): if we sum these equations we obtain x. 
+• [no object] (sum to) (of two or more amounts) add up to a specified total: these additional probabilities must sum to 1. 
 PHRASES
-sum up
-1 one reviewer summed it up as “compelling”: evaluate, assess, appraise, rate, gauge, judge, deem, adjudge, estimate, form an opinion of.
-2 he summed up his reasons: summarize, make/give a summary of, précis, outline, give an outline of, recapitulate, review; informal recap.
+in sum to sum up; in summary: this interpretation does little, in sum, to add to our understanding.PHRASAL VERBS sum up give a brief summary of something: Gerard will open the debate and I will sum up. 
+• Law (of a judge) review the evidence at the end of a case, and direct the jury regarding points of law. sum someone/something up express a concise idea of the nature or character of a person or thing: selfish—that summed her up.ORIGIN Middle English: via Old French from Latin summa ‘main part, sum total,’ feminine of summus ‘highest.’

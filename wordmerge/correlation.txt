@@ -2,4 +2,11 @@ correlation
 BrE ˌkɒrəˈleɪʃ(ə)n, AmE ˌkɔrəˈleɪʃ(ə)n 
 noun Uncountable and countable相关 xiāngguān a high/poor correlation 高/低相关性 
 correlation 
-▶noun the correlation between smoking and lung cancer: connection, association, link, tie-in, tie-up, relation, relationship, interrelationship, interdependence, interaction, interconnection; correspondence, parallel.
+ˌkôrəˈlāSH(ə)n
+
+▶noun a mutual relationship or connection between two or more things: research showed a clear correlation between recession and levels of property crime. 
+• Statistics interdependence of variable quantities. 
+• Statistics a quantity measuring the extent of interdependence of variable quantities. 
+• the process of establishing a relationship or connection between two or more measures. DERIVATIVES correlational 
+-SHənl 
+adjectiveORIGIN mid 16th century: from medieval Latin correlatio(n-), from cor- ‘together’ + relatio (see relation) .

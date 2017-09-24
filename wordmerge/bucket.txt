@@ -7,6 +7,21 @@ A.  noun
 B.  buckets noun plural colloquial (large amount) 大量 dàliàng to cry buckets 泪如泉涌 
 C.  intransitive verb BrE colloquial to bucket (down) «rain» 倾盆而下 qīngpén ér xià 
 bucket 
+ˈbəkət
+
 ▶noun
-1 a bucket of cold water: pail, scuttle, can, tin, tub; ice bucket, wine cooler.
-2 informal everyone wept buckets: floods, gallons, oceans.
+1 a roughly cylindrical open container, typically made of metal or plastic, with a handle, used to hold and carry liquids or other material. 
+• the contents of a bucket or the amount it can contain: she emptied a bucket of water over them. 
+• (buckets) informal large quantities of liquid, typically rain or tears: I wept buckets. 
+• Basketball informal a basket. 
+• a compartment on the outer edge of a waterwheel. 
+• the scoop of a dredger or grain elevator. 
+• a scoop attached to the front of a loader, digger, or tractor.
+2 Computing a unit of data that can be transferred from secondary storage in a single operation. 
+▶verb (buckets, bucketed, bucketing) [no object]
+1 (it buckets, it is bucketing, etc.) informal rain heavily: it was still bucketing down.
+2 [with adverbial of direction] (of a vehicle) move quickly and jerkily: the car came bucketing out of a side road. 
+PHRASES
+a drop in the bucket see drop. kick the bucket see kick1. DERIVATIVES bucketful 
+ˈbəkətˌfo͝ol 
+noun (plural bucketfuls) ORIGIN Middle English: from Anglo-Norman French buquet ‘tub, pail,’ perhaps from Old English būc ‘belly, pitcher.’

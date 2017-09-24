@@ -1,10 +1,24 @@
 attack 
-▶verb
-1 Chris had been brutally attacked: assault, assail, set upon, beat up; batter, pummel, punch; informal do over, work over, rough up.
-2 they attacked along a 10-mile front: strike, charge, pounce; bombard, shell, blitz, strafe, fire, besiege. ANTONYMS defend.
-3 the clergy attacked government policies: criticize, censure, condemn, pillory, savage, revile, vilify; informal knock, slam, blast, bash, lay into. ANTONYMS praise.
-4 they have to attack the problem soon: address, attend to, deal with, confront, apply oneself to, get to work on, undertake, embark on; informal get cracking on.
-▶noun
-1 the attack began at dawn: assault, onslaught, offensive, strike, blitz, raid, charge, rush, invasion, incursion.
-2 she wrote a hostile attack against him: criticism, censure, rebuke, admonishment, reprimand; condemnation, denunciation, vilification; tirade, diatribe, polemic; informal roasting, caning, hatchet job. ANTONYMS defense, commendation.
-3 an asthmatic attack: fit, seizure, spasm, convulsion, paroxysm, outburst, bout.CHOOSE THE RIGHT WORD attack, assail, assault, beset, besiege, bombard, charge, molest, storm There is no shortage of “fighting words.” Attack is the most general verb, meaning to set upon someone or something in a violent, forceful, or aggressive way (the rebels attacked at dawn) ; but it can also be used figuratively (attack the government's policy). Assault implies a greater degree of violence or viciousness and the infliction of more damage. As part of the legal term assault and battery, it suggests an attempt or threat to injure someone physically. Molest is another word meaning to attack and is used today almost exclusively of sexual molestation (she had been molested as a child). Charge and storm are primarily military words, both suggesting a forceful assault on a fixed position. To charge is to make a violent onslaught (the infantry charged the enemy camp) and is often used as a command (“Charge!” the general cried). To storm means to take by force, with all the momentum and fury of a storm (after days of planning, the soldiers stormed the castle), but there is often the suggestion of a last-ditch, all-out effort to end a long siege or avoid defeat. To assail is to attack with repeated thrusts or blows, implying that victory depends not so much on force as on persistence. To bombard is to assail continuously with bombs or shells (they bombarded the city without mercy for days). Besiege means to surround with an armed force (to besiege the capital city). When used figuratively, its meaning comes close to that of assail, but with an emphasis on being hemmed in and enclosed rather than punished repeatedly (besieged with fears). Beset also means to attack on all sides (beset by enemies), but it is also used frequently in other contexts to mean set or placed upon (a bracelet beset with diamonds).These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+əˈtak
+
+▶verb [with object] take aggressive action against (a place or enemy forces) with weapons or armed force, typically in a battle or war: in December, the Japanese attacked Pearl Harbor 
+[no object] : Italian forces attacked in October. 
+• (of a person or animal) act against (someone or something) aggressively in an attempt to injure or kill: a doctor was attacked by two youths. 
+• (of a disease, chemical substance, or insect) act harmfully on: HIV is thought to attack certain cells in the brain. 
+• criticize or oppose fiercely and publicly: he attacked the government's defense policy. 
+• begin to deal with (a problem or task) in a determined and vigorous way: a plan of action to attack unemployment. 
+• [no object] make an aggressive or forceful attempt to score a goal or point, or gain or exploit an advantage in a game against an opposing team or player: (as adjective attacking) : the home team showed some good attacking play. 
+• Chess move into or be in a position to capture (an opponent's piece). 
+▶noun an aggressive and violent action against a person or place: he was killed in an attack on a checkpoint 
+three classrooms were gutted in the arson attack. 
+• destructive action by a disease, chemical, or insect: the tissue is open to attack by fungus. 
+• a sudden short bout of an illness or stress: an attack of nausea 
+an asthma attack. 
+• an instance of fierce public criticism or opposition: he launched a stinging attack on the White House. 
+• a determined attempt to tackle a problem or task: an attack on inflation. 
+• Music the manner of beginning to play or sing a passage. 
+• forceful and decisive style in performing music or another art: the sheer attack of Hendrix's playing. 
+• an aggressive attempt to score a goal, win points, or gain or exploit an advantage in a game. 
+• Chess a threat to capture an opponent's piece. 
+PHRASES
+under attack subject to aggressive, violent, or harmful action: his paintings have come under attack for their satanic content.ORIGIN early 17th century: from French attaque (noun), attaquer (verb), from Italian attacco ‘an attack,’ attaccare ‘join battle,’ based on an element of Germanic origin (see attach) .

@@ -1,6 +1,10 @@
 resign 
+rəˈzīn
+
 ▶verb
-1 the executive director resigned: leave, hand in one's notice, give notice, stand down, step down; informal quit, jump ship.
-2 three state senators resigned their seats: give up, leave, vacate, stand down from; informal quit, pack in.
-3 he resigned his right to the title: renounce, relinquish, give up, abandon, surrender, forgo, cede; Law disclaim; literary forsake.
-4 we resigned ourselves to a long wait: reconcile oneself to, become resigned to, come to terms with, accept.
+1 [no object] voluntarily leave a job or other position: he resigned from the government in protest at the policy. 
+• [with object] give up (an office, power, privilege, etc.): four deputies resigned their seats. 
+• [no object] Chess end a game by conceding defeat without being checkmated: he lost his queen and resigned in 45 moves.
+2 (be resigned) accept that something undesirable cannot be avoided: he seems resigned to a shortened career 
+she resigned herself to a lengthy session. 
+• archaic surrender oneself to another's guidance: he vows to resign himself to her direction. DERIVATIVES resigner nounORIGIN late Middle English: from Old French resigner, from Latin resignare ‘unseal, cancel,’ from re- ‘back’ + signare ‘sign, seal.’

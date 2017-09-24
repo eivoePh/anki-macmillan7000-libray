@@ -9,10 +9,16 @@ B.  transitive verb
 ① (try) 品尝 pǐncháng ‹food, wine›to sample the pleasure of being waited on 体验被人服侍的快乐 
 ② (get a representative judgement of) 抽样调查 chōuyàng diàochá ‹product, opinion, market›
 sample 
-▶noun
-1 a sample of the fabric: specimen, example, bit, snippet, swatch, representative piece, exemplification; prototype, test piece, dummy, pilot, trial, taste, taster, tester.
-2 a sample of 10,000 people nationwide: cross section, variety, sampling, test.
-▶verb we sampled the culinary offerings: try (out), taste, test, put to the test, experiment with; appraise, evaluate, test drive; informal check out.
-▶adjective
-1 the sample group is small: representative, illustrative, selected, specimen, test, trial, typical.
-2 a sample copy can be obtained: specimen, test, trial, pilot, dummy.
+ˈsampəl
+
+▶noun a small part or quantity intended to show what the whole is like: investigations involved analyzing samples of handwriting. 
+• a specimen taken for scientific testing or analysis: a urine sample. 
+• Statistics a portion drawn from a population, the study of which is intended to lead to statistical estimates of the attributes of the whole population. 
+• a small amount of a food or other commodity, especially one given to a prospective customer. 
+• a sound created by sampling. 
+▶verb [with object] take a sample or samples of (something) for analysis: bone marrow cells were sampled 
+(as adjective, with submodifier sampled) : a survey of two hundred randomly sampled households. 
+• try the qualities of (food or drink) by tasting it. 
+• get a representative experience of: sample the pleasures of Saint Maarten. 
+• Electronics ascertain the momentary value of (an analog signal) many times a second so as to convert the signal to digital form. 
+• record or extract a small piece of music or sound digitally for reuse as part of a composition or song. ORIGIN Middle English (as a noun): from an Anglo-Norman French variant of Old French essample ‘example.’ Current senses of the verb date from the mid 18th century.

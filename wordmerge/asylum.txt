@@ -4,6 +4,9 @@ noun
 ① Uncountable(protection) 避难 bìnàn to grant/seek asylum 准予/寻求避难 
 ② Countabledated (institution) 精神病院 jīngshénbìngyuàn 
 asylum 
+əˈsīləm
+
 ▶noun
-1 he appealed for political asylum: refuge, sanctuary, shelter, safety, protection, security, immunity; a safe haven.
-2 he was confined to an asylum: psychiatric hospital, mental hospital, mental institution, mental asylum; informal madhouse, loony bin, funny farm, nuthouse, bughouse; dated lunatic asylum; archaic bedlam.
+1 (also political asylum) the protection granted by a nation to someone who has left their native country as a political refugee: she applied for asylum and was granted refugee status. 
+• shelter or protection from danger: we provide asylum for those too ill to care for themselves.
+2 dated an institution offering shelter and support to people who are mentally ill: he'd been committed to an asylum. ORIGIN late Middle English (in the sense ‘place of refuge,’ especially for criminals): via Latin from Greek asulon ‘refuge,’ from asulos ‘inviolable,’ from a- ‘without’ + sulon ‘right of seizure.’ The current senses date from the 18th century.

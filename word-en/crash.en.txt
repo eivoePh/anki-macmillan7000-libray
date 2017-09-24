@@ -1,12 +1,29 @@
-crash 
+crash
+1 
+kraSH
+
 ▶verb
-1 the car crashed into a tree: smash into, collide with, be in collision with, hit, strike, ram, cannon into, plow into, meet head-on, run into, impact.
-2 he crashed his car: smash, wreck; informal total.
-3 waves crashed against the shore: dash against, batter, pound, lash (against), slam (against), be hurled against.
-4 thunder crashed overhead: boom, crack, roll, clap, explode, bang, blast, blare, resound, reverberate, rumble, thunder, echo.
-5 informal his clothing company crashed: collapse, fold, fail, go under, go bankrupt, become insolvent, cease trading, go into receivership, go into liquidation; informal go broke, go bust, go belly up.
+1 [no object] (of a vehicle) collide violently with an obstacle or another vehicle: the stolen car she was riding in crashed into a tree. 
+• [with object] cause (a moving object) to collide with an obstacle or another vehicle. 
+• (of an aircraft) fall from the sky and violently hit the land or sea: a jet crashed 200 yards from the school. 
+• [with object] cause (an aircraft) to fall from the sky and land violently.
+2 move or cause to move with force, speed, and sudden loud noise: [no object] : huge waves crashed down on us 
+[with object] : she crashed down the telephone receiver. 
+• [no object] make a sudden loud, deep noise: the thunder crashed.
+3 [no object] informal (of a business, a market, or a price) fall suddenly and disastrously in value: silver prices crashed in early 1980.
+4 [no object] Computing (of a machine, system, or software) fail suddenly: the project was postponed because the computer crashed. 
+• chiefly North American (of a patient) suffer a cardiac arrest.
+5 [with object] informal enter (a party) without an invitation or permission.
+6 [no object] informal go to sleep, especially suddenly or in an improvised setting: I'll crash in the back of the van for a couple of hours. 
 ▶noun
-1 a crash on the highway: accident, collision, road traffic accident, derailment, wreck; informal pileup, smash-up, rear-ender.
-2 a loud crash: bang, smash, smack, crack, bump, thud, clatter, clunk, clang; report, detonation, explosion; noise, racket, clangor, din.
-3 the stock market crash: collapse, failure, bankruptcy.
-▶adjective a crash course: intensive, concentrated, rapid, short; accelerated, immersion.
+1 a violent collision, typically of one vehicle with another or with an obstacle: a car crash. 
+• an instance of an aircraft falling from the sky to hit the land or sea.
+2 a sudden loud noise as of something breaking or hitting another object: he slammed the phone down with a crash.
+3 a sudden disastrous drop in the value or price of something, especially shares of stock: a stock market crash 
+the crash of 1987. 
+• the sudden collapse of a business.
+4 Computing a sudden failure which puts a system out of action. 
+▶adjective done rapidly or urgently and involving a concentrated effort: a crash course in Italian. 
+▶adverb with a sudden loud sound: crash went the bolt. 
+PHRASES
+crash and burn informal come to grief or fail spectacularly.ORIGIN late Middle English: imitative, perhaps partly suggested by craze and dash .

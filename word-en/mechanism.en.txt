@@ -1,5 +1,9 @@
 mechanism 
+ˈmekəˌnizəm
+
 ▶noun
-1 an electrical mechanism: machine, piece of machinery, appliance, apparatus, device, instrument, contraption, gadget; informal gizmo.
-2 the train's safety mechanism: machinery, workings, works, movement, action, gears, components.
-3 a formal mechanism for citizens to lodge complaints: procedure, process, system, operation, method, technique, means, medium, agency, channel.
+1 a system of parts working together in a machine; a piece of machinery: the gunner injured his arm in the turret mechanism.
+2 a natural or established process by which something takes place or is brought about: we have no mechanism for assessing the success of forwarded inquiries 
+the mechanism by which genes build bodies. 
+• a contrivance in the plot of a literary work: his Irma La Douce is a musical based on the farce mechanism.
+3 Philosophy the doctrine that all natural phenomena, including life and thought, allow mechanical explanation by physics and chemistry. ORIGIN mid 17th century: from modern Latin mechanismus, from Greek mēkhanē (see machine) .

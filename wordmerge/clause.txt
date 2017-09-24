@@ -4,4 +4,10 @@ noun
 ① Linguistics 分句 fēnjù a main/subordinate/relative clause 主句/从句/关系从句 
 ② Law, Politics (in will, contract etc.) 条款 tiáokuǎn 
 clause 
-▶noun a new clause in the treaty: section, paragraph, article, subsection; stipulation, condition, proviso, rider.
+klôz
+
+▶noun
+1 a unit of grammatical organization next below the sentence in rank and in traditional grammar said to consist of a subject and predicate. See also main clause, subordinate clause.
+2 a particular and separate article, stipulation, or proviso in a treaty, bill, or contract. DERIVATIVES clausal 
+ˈklôzəl 
+adjectiveORIGIN Middle English: via Old French clause, based on Latin claus- ‘shut, closed,’ from the verb claudere .

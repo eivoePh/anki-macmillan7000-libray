@@ -5,4 +5,9 @@ adjective
 ② predicative (discriminating) 精挑细选的 jīng tiāo xì xuǎn de to be selective about or in [something]; 对某事物很讲究 to be selective about what one reads 对所读的东西很挑剔 she should be more selective in the friends she makes 她挑选朋友时应该更小心些 
 ③ (for plants) 选择性的 xuǎnzéxìng de ‹pesticide›
 selective 
-▶adjective he's very selective about his coffee: discerning, discriminating, discriminatory, critical, exacting, demanding, particular; fussy, fastidious; informal choosy, persnickety, picky, finicky.
+səˈlektiv
+
+▶adjective relating to or involving the selection of the most suitable or best qualified: the mini-cow is the result of generations of selective breeding. 
+• (of a person) tending to choose carefully: he is very selective in his reading. 
+• (of a process or agent) affecting some things and not others: modern pesticides are more selective in effect. 
+• chiefly Electronics operating at or responding to a particular frequency.

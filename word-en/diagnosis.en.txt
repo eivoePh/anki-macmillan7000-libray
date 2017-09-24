@@ -1,4 +1,9 @@
 diagnosis 
-▶noun
-1 the diagnosis of celiac disease: identification, detection, recognition, determination, discovery, pinpointing.
-2 the results confirmed his diagnosis: opinion, judgment, verdict, conclusion.
+ˌdīəɡˈnōsəs
+
+▶noun (plural diagnoses 
+-ˌsēz
+)
+1 the identification of the nature of an illness or other problem by examination of the symptoms: early diagnosis and treatment are essential 
+a diagnosis of Crohn's disease was made.
+2 the distinctive characterization in precise terms of a genus, species, or phenomenon. ORIGIN late 17th century: modern Latin, from Greek, from diagignōskein ‘distinguish, discern,’ from dia ‘apart’ + gignōskein ‘recognize, know.’

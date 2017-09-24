@@ -26,25 +26,48 @@ C.  intransitive verb «puddle, fog, cloud, idea» 形成 xíngchéng a scab had
 A.  intransitive verb «troops, procession, band» 列队 lièduì 
 B.  transitive verb[form something up], [form up something] «commander» 使…列队 shǐ… lièduì ‹troops›
 form 
+fôrm
+
 ▶noun
-1 the general form of the landscape 
-form is less important than content: shape, configuration, formation, structure, construction, arrangement, appearance, exterior, outline, format, layout, design.
-2 the human form: body, shape, figure, stature, build, frame, physique, anatomy; informal vital statistics.
-3 the infection takes different forms: manifestation, appearance, embodiment, incarnation, semblance, shape, guise.
-4 sponsorship is a form of advertising: kind, sort, type, class, classification, category, variety, genre, brand, style; species, genus, family.
-5 put the mixture into a form: mold, cast, shape, matrix, die.
-6 what is the form here? etiquette, social practice, custom, usage, use, modus operandi, habit, wont, protocol, procedure, rules, convention, tradition, fashion, style; formal praxis.
-7 you have to fill in a form: questionnaire, document, coupon, paper, sheet.
-8 in top form: fitness, condition, fettle, shape, trim, health.
-▶verb
-1 the pads are formed from mild steel: make, construct, build, manufacture, fabricate, assemble, put together; create, produce, concoct, devise, contrive, frame, fashion, shape.
-2 he formed a plan: formulate, devise, conceive, work out, think up, lay, draw up, put together, produce, fashion, concoct, forge, hatch, incubate, develop; informal dream up.
-3 they plan to form a company: set up, establish, found, launch, float, create, bring into being, institute, start (up), get going, initiate, bring about, inaugurate. ANTONYMS dissolve.
-4 a mist was forming: materialize, come into being/existence, crystallize, emerge, spring up, develop; take shape, appear, loom, show up, become visible. ANTONYMS disappear.
-5 the horse may form bad habits: acquire, develop, get, pick up, contract, slip into, get into. ANTONYMS avoid, break.
-6 the warriors formed themselves into a diamond pattern: arrange, draw up, line up, assemble, organize, sort, order, range, array, dispose, marshal, deploy.
-7 the parts of society form an integrated whole: constitute, make, make up, compose, add up to.
-8 the city formed a natural meeting point: constitute, serve as, act as, function as, perform the function of, do duty for, make.
-9 teachers form the minds of children: develop, mold, shape, train, teach, instruct, educate, school, drill, discipline, prime, prepare, guide, direct, inform, enlighten, inculcate, indoctrinate, edify.
+1 the visible shape or configuration of something: the form, color, and texture of the tree. 
+• arrangement of parts; shape: the entities underlying physical form. 
+• the body or shape of a person or thing: his eyes scanned her slender form. 
+• arrangement and style in literary or musical composition: these videos are a triumph of form over content. 
+• Philosophy the essential nature of a species or thing, especially (in Plato's thought) regarded as an abstract ideal that real things imitate or participate in.
+2 a mold, frame, or block in or on which something is shaped. 
+• a temporary structure for holding fresh concrete in shape while it sets.
+3 a particular way in which a thing exists or appears; a manifestation: her obsession has taken the form of compulsive exercise. 
+• any of the ways in which a word may be spelled, pronounced, or inflected: an adjectival rather than adverbial form. 
+• the structure of a word, phrase, sentence, or discourse: every distinction in meaning is associated with a distinction in form.
+4 a type or variety of something: sponsorship is a form of advertising. 
+• an artistic or literary genre. 
+• Botany a taxonomic category that ranks below variety, which contains organisms differing from the typical kind in some trivial, frequently impermanent, character, e.g., a color variant. Compare with subspecies and variety.
+5 the customary or correct method or procedure; what is usually done: an excessive concern for legal form and precedent. 
+• a set order of words; a formula. 
+• a formality or item of mere ceremony: the outward forms of religion.
+6 a printed document with blank spaces for information to be inserted: an application form.
+7 chiefly British a class or year in a school, usually given a specifying number: the fifth form.
+8 the state of an athlete or sports team with regard to their current standard of performance: illness has affected his form 
+they've been in good form this season. 
+• details of previous performances by a racehorse or greyhound: an interested bystander studying the form.
+9 British a long bench without a back.
+10 Printing, chiefly US variant spelling of forme.
+11 chiefly British a hare's lair. 
+▶verb [with object]
+1 bring together parts or combine to create (something): the company was formed in 1982. 
+• (form people/things into) organize people or things into (a group or body): peasants and miners were formed into a militia. 
+• go to make up or constitute: the precepts that form the basis of the book. 
+• [no object] gradually appear or develop: a thick mist was forming all around. 
+• conceive (an idea or plan) in one's mind. 
+• enter into or contract (a relationship): the women would form supportive friendships. 
+• articulate (a word, speech sound, or other linguistic unit). 
+• construct (a new word) by derivation or inflection.
+2 make or fashion into a certain shape or form: form the dough into balls. 
+• [no object] (form into) be made or fashioned into a certain shape or form: his strong features formed into a smile of pleasure. 
+• (be formed) have a specified shape: her body was slight and flawlessly formed. 
+• shape or develop by training or discipline. 
+• influence or shape (something abstract): the role of the news media in forming public opinion. 
 PHRASES
-good form it is not good form to leave visitors on their own: good manners, manners, polite behavior, correct behavior, convention, etiquette, protocol; informal the done thing.
+in form (of an athlete or sports team) playing or performing well. off form (of an athlete or sports team) not playing or performing well.DERIVATIVES formability 
+ˌfôrməˈbilətē 
+noun. formable adjectiveORIGIN Middle English: from Old French forme (noun), fo(u)rmer (verb, from Latin formare ‘to form’), both based on Latin forma ‘a mold or form.’

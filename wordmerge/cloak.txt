@@ -8,7 +8,9 @@ B.  transitive verb
 ① (cover) 给…披上披风 gěi… pīshang pīfēng ; figurative «snow» 覆盖 fùgài ‹land›; «darkness» 笼罩 lǒngzhào ‹land›to be cloaked in fog 被笼罩在雾中 to cloak [somebody] in [something]; 将某人裹在某事物里 
 ② (hide) 遮掩 zhēyǎn ‹activities, intentions›negotiations were cloaked in secrecy 谈判笼罩在秘密的气氛中 
 cloak 
-▶noun
-1 the cloak over his shoulders: cape, poncho, serape, shawl, mantle, wrap, pelisse, burnoose, cope, robe, cowl, djellaba, tippet; cassock, chasuble, pallium; historical cardinal.
-2 a cloak of secrecy: cover, veil, mantle, shroud, screen, mask, shield, blanket.
-▶verb a peak cloaked in mist: conceal, hide, cover, veil, shroud, mask, obscure, cloud; envelop, swathe, surround.
+klōk
+
+▶noun an outdoor overgarment, typically sleeveless, that hangs loosely from the shoulders. 
+• something serving to hide or disguise something: lifting the cloak of secrecy on the arms trade. 
+▶verb [with object] dress in a cloak: she cloaked herself in black. 
+• hide, cover, or disguise (something): the horror of war was cloaked in the trappings of chivalry. ORIGIN Middle English: from Old French cloke, dialect variant of cloche ‘bell, cloak’ (from its bell shape), from medieval Latin clocca ‘bell.’ Compare with clock1 .

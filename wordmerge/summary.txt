@@ -6,7 +6,14 @@ B.  adjectiveattributive
 ① especially Law (without usual procedure) 即决的 jíjué de ‹fine, arrest›summary execution 草草处决 
 ② (summarizing) 概要的 gàiyào de ‹account, statement›
 summary 
-▶noun a summary of the findings: synopsis, précis, résumé, abstract, digest, encapsulation, abbreviated version; outline, sketch, rundown, review, summing-up, overview, recapitulation, epitome; informal recap.
+ˈsəmərē
+
+▶noun (plural summaries) a brief statement or account of the main points of something: a summary of Chapter Three. 
 ▶adjective
-1 a summary financial statement: abridged, abbreviated, shortened, condensed, concise, capsule, succinct, short, brief, pithy; formal compendious.
-2 summary execution: immediate, instant, instantaneous, on-the-spot; speedy, swift, rapid, without delay, sudden; arbitrary, without formality, peremptory.
+1 dispensing with needless details or formalities; brief: summary financial statements.
+2 Law (of a judicial process) conducted without the customary legal formalities: summary arrest. 
+• (of a conviction) made by a judge or magistrate without a jury. 
+PHRASES
+in summary in short: in summary, there is no clear case for one tax system compared to another.DERIVATIVES summariness 
+səˈmerēnis 
+nounORIGIN late Middle English (as an adjective): from Latin summarius, from summa ‘sum total’ (see sum) .

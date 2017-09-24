@@ -22,10 +22,36 @@ B.  noun
 ④ Linguistics 原级 yuánjí 
 ⑤ Electricity 正极 zhèngjí 
 positive 
+ˈpäzədiv
+
 ▶adjective
-1 a positive response: affirmative, favorable, good, approving, enthusiastic, supportive, encouraging. ANTONYMS negative.
-2 do something positive: constructive, practical, useful, productive, helpful, worthwhile, beneficial, effective.
-3 she seems a lot more positive: optimistic, hopeful, confident, cheerful, sanguine, buoyant; informal upbeat. ANTONYMS pessimistic.
-4 positive economic signs: favorable, good, promising, encouraging, heartening, propitious, auspicious. ANTONYMS negative, unfavorable.
-5 positive proof: definite, conclusive, certain, categorical, unequivocal, incontrovertible, indisputable, undeniable, unmistakable, irrefutable, reliable, concrete, tangible, clear-cut, explicit, firm, decisive, real, actual. ANTONYMS doubtful.
-6 I'm positive he's coming back: certain, sure, convinced, confident, satisfied, assured. ANTONYMS uncertain, unsure.
+1 consisting in or characterized by the presence or possession of features or qualities rather than their absence. 
+• (of a statement or decision) expressing or implying affirmation, agreement, or permission: the company received a positive response from investors. 
+• (of the results of a test or experiment) indicating that a certain substance or condition is present or exists: the positive results of a pregnancy test 
+a positive test for Down's syndrome. 
+• (of a person) having a specified condition, or showing traces of a specified substance in their body: a player had tested positive for cocaine use 
+[in combination] : he is HIV-positive. 
+• constructive in intention or attitude: there needs to be a positive approach to youthful offenders. 
+• showing optimism and confidence: I hope you will be feeling very positive about your chances of success. 
+• showing pleasing progress, gain, or improvement: the election result will have a positive effect because it will restore people's confidence.
+2 with no possibility of doubt; clear and definite: he made a positive identification of a glossy ibis. 
+• convinced or confident in one's opinion; certain: “You are sure it was the same man?” “Positive!” 
+[with clause] : I am positive that he is not coming back. 
+• [attributive] informal downright; complete (used for emphasis): it's a positive delight to see you.
+3 of, containing, producing, or denoting an electric charge opposite to that carried by electrons.
+4 (of a photographic image) showing lights and shades or colors true to the original.
+5 Grammar (of an adjective or adverb) expressing a quality in its basic, primary degree. Contrasted with comparative and superlative.
+6 chiefly Philosophy dealing only with matters of fact and experience; not speculative or theoretical. Compare with positivism ( sense 1).
+7 (of a quantity) greater than zero.
+8 Astrology relating to or denoting any of the air or fire signs, considered active in nature. 
+▶noun
+1 a good, affirmative, or constructive quality or attribute: take your weaknesses and translate them into positives 
+to manage your way out of recession, accentuate the positive.
+2 a photographic image showing lights and shades or colors true to the original, especially one printed from a negative.
+3 a result of a test or experiment indicating the presence of something: let us look at the distribution of those positives.
+4 the part of an electric circuit that is at a higher electrical potential than another point designated as having zero electrical potential.
+5 Grammar an adjective or adverb in the positive degree.
+6 Music another term for positif.
+7 a number greater than zero. DERIVATIVES positiveness 
+ˈpäzədivnəs 
+nounORIGIN late Middle English: from Old French positif, -ive or Latin positivus, from posit- ‘placed,’ from the verb ponere. The original sense referred to laws as being formally ‘laid down,’ which gave rise to the sense ‘explicitly laid down and admitting no question,’ hence ‘very sure, convinced.’

@@ -39,36 +39,84 @@ B.  intransitive verb
 ③ (take sides) «people, group, nation» 联合起来 liánhé qilai to line up alongside or with [somebody]/[something]; 站在某人/某事物一边 to line up behind [somebody]/[something]; 联合起来支持某人/某事物 to line up against [somebody]/[something]; 联合起来反对某人/某事物 
 line
 1 
+līn
+
 ▶noun
-1 he drew a line through the name: dash, rule, bar, score; underline, underscore, stroke, slash; technical stria, striation.
-2 there were lines around her eyes: wrinkle, furrow, crease, groove, crinkle, crow's foot, laugh line.
-3 (usually lines) the classic lines of the exterior: contour, outline, configuration, shape, figure, delineation, profile.
-4 the line between Canada and the United States: boundary, boundary line, limit, border, borderline, demarcation line, dividing line, edge, margin, perimeter, frontier.
-5 (usually lines) behind enemy lines: position, formation, defense, fieldwork, front (line); trenches.
-6 he put the wash on the line: clothesline; cord, rope, string, cable, wire, thread, twine, strand.
-7 they waited in a line: row, file, lineup, queue.
-8 a line of figures: column, row.
-9 a long line of bad decisions: series, sequence, succession, chain, string, set, cycle.
-10 a line of flight: course, route, track, path, way, run.
-11 they took a very tough line with the industry 
-the party line: course of action, course, procedure, technique, tactic, tack; policy, practice, approach, plan, program, position, stance, philosophy.
-12 her own line of thought: course, direction, drift, tack, tendency, trend.
-13 informal he fed me a line: story, piece of fiction, fabrication; informal spiel.
-14 (lines) he couldn't remember his lines: words, part, script, speech.
-15 my line is engineering: line of work, work, line of business, business, field, trade, occupation, employment, profession, job, career, specialty, forte, province, department, sphere, area, area of expertise.
-16 a new line of cologne: brand, kind, sort, type, variety, make.
-17 a noble line: ancestry, family, parentage, birth, descent, lineage, extraction, genealogy, roots, origin, background; stock, bloodline, pedigree.
-18 the opening line of the poem: sentence, phrase, clause, utterance; passage, extract, quotation, quote, citation.
-19 I should drop Ralph a line: note, letter, card, postcard, email, message, communication, missive, memorandum; correspondence, word; informal memo; formal epistle.
-▶verb
-1 her face was lined with age: furrow, wrinkle, crease, pucker, mark with lines.
-2 the driveway was lined by poplars: border, edge, fringe, bound, rim.
+1 a long, narrow mark or band: a row of closely spaced dots will look like a continuous line 
+I can't draw a straight line. 
+• Mathematics a straight or curved continuous extent of length without breadth. 
+• a positioning or movement of a thing or things that creates or appears to follow a line: her mouth set in an angry line 
+the ball rose in a straight line. 
+• a furrow or wrinkle in the skin of the face or hands. 
+• a contour or outline considered as a feature of design or composition: crisp architectural lines 
+the artist's use of clean line and color. 
+• (on a map or graph) a curve connecting all points having a specified common property. 
+• a line marking the starting or finishing point in a race. 
+• a line marked on a field or court that relates to the rules of a game or sport. 
+• American Football the line of scrimmage. 
+• (the Line) the equator. 
+• a notional limit or boundary: the issue of peace cut across class lines 
+television blurs the line between news and entertainment. 
+• each of the very narrow horizontal sections forming a television picture. 
+• Physics a narrow range of the spectrum noticeably brighter or darker than the adjacent parts. 
+• (the line) the level of the base of most letters, such as h and x, in printing and writing. 
+• [as modifier] Printing & Computing denoting an illustration or graphic consisting of lines and solid areas, with no gradation of tone: a line block 
+line art. 
+• each of (usually five) horizontal lines forming a staff in musical notation. 
+• a sequence of notes or tones forming an instrumental or vocal melody: a powerful melodic line. 
+• a dose of a powdered narcotic or hallucinatory drug, especially cocaine or heroin, laid out in a line.
+2 a length of cord, rope, wire, or other material serving a particular purpose: wring the clothes and hang them on the line 
+a telephone line. 
+• a telephone connection: she had a crank on the line. 
+• a railroad track. 
+• a branch or route of a railroad system: the Philadelphia to Baltimore line. 
+• a company that provides ships, aircraft, or buses on particular routes on a regular basis: a major shipping line.
+3 a horizontal row of written or printed words. 
+• a part of a poem forming one row of written or printed words: each stanza has eight lines. 
+• (lines) the words of an actor's part in a play or film. 
+• (lines) British an amount of text or number of repetitions of a sentence written out as a school punishment.
+4 a row of people or things: a line of acolytes proceeded down the aisle. 
+• North American a row or sequence of people or vehicles awaiting their turn to be attended to or to proceed. 
+• a connected series of people following one another in time (used especially of several generations of a family): we follow the history of a family through the male line. 
+• US (in football, hockey, etc.) a set of players in the forwardmost positions for offense or defense. 
+• American Football one of the positions on the line of scrimmage. 
+• a series of related things: the bill is the latest in a long line of measures to protect society from criminals. 
+• a range of commercial goods: the company intends to hire more people and expand its product line. 
+• informal a false or exaggerated account or story: he feeds me a line about this operation. 
+• US the point spread for sports events on which bets may be made.
+5 an area or branch of activity: the stresses unique to their line of work. 
+• a direction, course, or channel: lines of communication 
+he opened another line of attack. 
+• (lines) a manner of doing or thinking about something: you can't run a business on these lines 
+the superintendent was thinking along the same lines. 
+• an agreed-upon approach; a policy: the official line is that there were no chemical attacks on allied troops.
+6 a connected series of military fieldworks or defenses facing an enemy force: raids behind enemy lines. 
+• an arrangement of soldiers or ships in a column or line formation; a line of battle. 
+• (the line) regular army regiments (as opposed to auxiliary forces or household troops). 
+▶verb [with object]
+1 stand or be positioned at intervals along: a processional route lined by people waving flags.
+2 (usually as adjective lined) mark or cover with lines: a thin woman with a lined face 
+lined paper.
+3 Baseball hit a line drive. 
 PHRASES
-draw the line at we draw the line at keg parties: stop short of/at, refuse to accept, balk at; object to, take issue with, take exception to. in line
-1 they stood in line for food: in a row, in a file, in a lineup; chiefly British in a queue.
-2 the advertisements are in line with the editorial style: in agreement, in accord, in accordance, in harmony, in step, in compliance.
-3 he stood in line with the target: in alignment, aligned, level, at the same height; side by side.
-4 the referee kept him in line: under control, in order, in check. in line for Laine is in line for a senior position: a candidate for, in the running for, on the short list for, being considered for. get a line on were you able to get a line on their upcoming projects? learn something about, find out about, be informed about, hear about, hear tell about. lay it on the line go ahead, lay it on the line, I can take it: speak frankly, speak honestly, be direct, pull no punches, be blunt, not mince one's words, call a spade a spade; informal give it to someone straight. line up
-1 line up for inspection: form a line, get into rows/columns, fall in; chiefly British queue up; Military dress.
-2 they lined them up against the wall: arrange in lines, put in rows, arrange in columns, align, range; Military dress.
-3 we've lined up an all-star cast: assemble, put together, organize, prepare, arrange, prearrange, fix up; book, schedule. on the line a firefighter's life is on the line every day: at risk, in danger, in jeopardy, endangered, imperiled. toe the line the choice is yours: toe the line or pack your bags: conform, obey the rules, observe the rules, comply with the rules, abide by the rules, follow the rules; informal play by the rules.
+above the line
+1 Finance denoting or relating to money spent on items of current expenditure.
+2 Marketing denoting or relating to advertising in the mass media: with no above-the-line advertising spend, every spare dollar available for marketing is directed towards point-of-sale promotions.
+3 Bridge denoting bonus points and penalty points, which do not count toward the game. all (the way) down (or along) the line at every point or stage: the mistakes were caused by lack of care all down the line. along (or down) the line at a further, later, or unspecified point: I knew that somewhere down the line there would be an inquest. below the line 
+bəˌlō T͟Hə ˈlīn 
+
+1 Finance denoting or relating to money spent on items of capital expenditure.
+2 Marketing denoting or relating to advertising by means such as direct mail, email, promotional events, etc.: they choose to spend the bulk of their budget in below-the-line digital marketing.
+3 Bridge denoting points for tricks bid and won, which count toward the game.
+4 denoting or relating to a section at the end of an online article or blog post in which readers can post comments: the issue causes embarrassment in the UK, as you can see from the numerous comments below the line. bring someone/something into line cause someone or something to conform: the change in the law will bring Britain into line with Europe. come down to the line (of a race) be closely fought right until the end. come into line conform: Britain has come into line with other Western democracies in giving the vote to its citizens living abroad. draw a line under resolve not to engage in further discussion or consideration of (a difficult or distressing issue or situation): we need to draw a line under this whole affair, not prolong it. draw the line set a limit on what one is willing to do or accept, beyond which one will not go: Alex shared the domestic work but drew the line at laundry. the end of the line see the end of the road at end. get a line on informal learn something about. in line
+1 under control: that threat kept a lot of people in line.
+2 chiefly North American in a row waiting to proceed: I always peer at other people's shopping carts as we stand in line. in line for likely to receive: she might be in line for a cabinet post. in the line of duty while one is working (used mainly of police officers, firefighters, or soldiers). in (or out of) line with in (or not in) alignment or accordance with: remuneration is in line with comparable international organizations. lay (or put) it on the line speak frankly. a line in the sand a point beyond which one will not go; a limit to what one will do or accept: the banks drew a line in the sand: there was to be no additional help. line of communications see communication. line of credit an amount of credit extended to a borrower. line of fire 
+ˌlīn əv ˈfīr 
+the expected path of gunfire or a missile: residents within line of fire were evacuated from their homes. line of flight the route taken through the air. line of force an imaginary line that represents the strength and direction of a magnetic, gravitational, or electric field at any point. the line of least resistance see resistance. line of march the route taken in marching. line of sight a straight line along which an observer has unobstructed vision: a building that obstructs our line of sight. line of vision 
+ˌlīn əv ˈviZH(ə)n 
+the straight line along which an observer looks: Jimmy moved forward into Len's line of vision. on the line
+1 at serious risk: their careers were on the line.
+2 (of a picture in an exhibition) hung with its center about level with the spectator's eye. out of line informal behaving in a way that breaks the rules or is considered disreputable or inappropriate: he had never stepped out of line with her before.PHRASAL VERBS line out Baseball be put out by hitting a line drive that is caught. line something out transplant seedlings from beds into nursery lines, where they are grown before being moved to their permanent position. line someone/something up
+1 arrange a number of people or things in a straight row. 
+• (line up) (of a number of people or things) be arranged in a straight row: we would line up across the parade ground, shoulder to shoulder.
+2 have someone or something ready or prepared: have you got any work lined up?ORIGIN Old English līne ‘rope, series,’ probably of Germanic origin, from Latin linea (fibra)‘flax (fiber),’ from linum ‘flax,’ reinforced in Middle English by Old French ligne, based on Latin linea .

@@ -1,19 +1,40 @@
 split 
-▶verb
-1 the ax split the wood: break, chop, cut, hew, lop, cleave; snap, crack.
-2 the ice cracked and split: break apart, fracture, rupture, fissure, snap, come apart, splinter.
-3 her dress was split: tear, rip, slash, slit; literary rend.
-4 the issue could split the party: divide, disunite, separate, sever; bisect, partition; literary tear asunder. ANTONYMS unite, unify.
-5 they split the money between them: share (out), divide (up), apportion, allocate, allot, distribute, dole out, parcel out, measure out; carve up, slice up; informal divvy up.
-6 the path split: fork, divide, bifurcate, diverge, branch. ANTONYMS converge, merge.
-7 they split up last year: break up, separate, part, part company, become estranged; divorce, get divorced. ANTONYMS get together, marry.
-8 informal let's split. See leave1 (sense 1). 
+split
+
+▶verb (splits, splitting, split)
+1 break or cause to break forcibly into parts, especially into halves or along the grain: [no object] : the ice cracked and heaved and split 
+[with object] : split and toast the muffins. 
+• remove or be removed by breaking, separating, or dividing: [with object] : the point was pressed against the edge of the flint to split off flakes 
+[no object] : an incentive for regions to split away from countries. 
+• divide or cause to divide into parts or elements: [no object] : the river had split into a number of channels 
+[with object] : splitting water into oxygen and hydrogen. 
+• [with object] divide and share (something, especially resources or responsibilities): they met up and split the booty. 
+• [with object] cause the fission of (an atom). 
+• [with object] issue new shares of (stock) to existing stockholders in proportion to their current holdings.
+2 (with reference to a group of people) divide into two or more groups: [no object] : let's split up and find the other two 
+[with object] : once again the family was split up. 
+• [no object] end a marriage or an emotional or working relationship: I split up with my boyfriend a year ago. 
+• [with object] (of an issue) cause (a group) to be divided because of opposing views: the party was deeply split over its future direction.
+3 [no object] informal (of one's head) suffer great pain from a headache: my head is splitting 
+(as adjective splitting) : a splitting headache.
+4 [no object] informal leave a place, especially suddenly: “Let's split,” Harvey said.
+5 [no object] British informal betray the secrets of or inform on someone: I told him I wouldn't split on him. 
 ▶noun
-1 a split in the rock face: crack, fissure, cleft, crevice, break, fracture, breach.
-2 a split in the curtain: rip, tear, cut, rent, slash, slit.
-3 a split in the governing party: division, rift, breach, schism, rupture, partition, separation, severance, scission, breakup.
-4 the acrimonious split with his wife: breakup, split-up, separation, parting, estrangement, rift; divorce.
+1 a tear, crack, or fissure in something, especially down the middle or along the grain: light squeezed through a small split in the curtain. 
+• an instance or act of splitting or being split; a division: the split between the rich and the poor. 
+• a separation into parties or within a party; a schism: the accusations caused a split in the party. 
+• an ending of a marriage or an emotional or working relationship: a much-publicized split with his wife. 
+• short for stock split.
+2 (a split or the splits) (in gymnastics and dance) an act of leaping in the air or sitting down with the legs straight and at right angles to the upright body, one in front and the other behind, or one at each side: I could never do a split before.
+3 a thing that is divided or split, in particular: 
+• a bun, roll, or cake that is split or cut in half. 
+• a split osier used in basketwork. 
+• each strip of steel or cane that makes up the reed in a loom. 
+• half a bottle or glass of champagne or other liquor. 
+• a single thickness of split hide. 
+• (in bowling) a formation of standing pins after the first ball in which there is a gap between two pins or groups of pins, making a spare unlikely. 
+• North American a drawn game or series. 
+• US a split-level house.
+4 the time it takes to complete a recognized part of a race, or the point in the race where such a time is measured. 
 PHRASES
-split hairs while you're splitting hairs over who's the better parent, no one is watching the kids: quibble, cavil, carp, niggle, chop logic; informal nitpick; archaic pettifog. 
-WORD LINKS
-split fissile easily splitWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+split the difference take the average of two proposed amounts. split hairs see hair. split one's sides (also split a gut) informal be convulsed with laughter: the dynamic comedy duo will have you splitting your sides with laughter.split the ticket (or one's vote) US vote for candidates of more than one party.split the vote (of a candidate or minority party) attract votes from another candidate or party with the result that both are defeated by a third.ORIGIN late 16th century (originally in the sense ‘break up (a ship),’ describing the force of a storm or rock): from Middle Dutch splitten, of unknown ultimate origin.

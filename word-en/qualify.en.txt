@@ -1,7 +1,19 @@
 qualify 
-▶verb
-1 I qualify for free prescriptions: be eligible for, meet the requirements for; be entitled to, be permitted.
-2 they qualify as refugees: count, be considered, be designated, be eligible.
-3 she qualified as a doctor: be certified, be licensed; pass, graduate, make the grade, succeed, pass muster.
-4 the course qualified them to teach: authorize, empower, allow, permit, license; equip, prepare, train, educate, teach.
-5 they qualified their findings: modify, limit, restrict, make conditional; moderate, temper, modulate, mitigate.
+ˈkwäləˌfī
+
+▶verb (qualifies, qualifying, qualified)
+1 [no object] be entitled to a particular benefit or privilege by fulfilling a necessary condition: they do not qualify for compensation payments. 
+• become eligible for a competition or its final rounds, by reaching a certain standard or defeating a competitor: he failed to qualify for the Olympic team 
+(as adjective qualifying) : a World Cup qualifying game. 
+• be or make properly entitled to be classed in a particular way: he qualifies as a genuine political refugee.
+2 [no object] become officially recognized as a practitioner of a particular profession or activity by satisfying the relevant conditions or requirements, typically by undertaking a course of study and passing examinations: after the war he qualified as a lawyer 
+I've only just qualified. 
+• [with object] officially recognize or establish (someone) as a practitioner of a particular profession or activity: the courses qualify you as an instructor of the sport. 
+• [with object and infinitive] make (someone) competent or knowledgeable enough to do something: I'm not qualified to write on the subject.
+3 [with object] make (a statement or assertion) less absolute; add reservations to: she felt obliged to qualify her first short answer. 
+• archaic make (something extreme or undesirable) less severe or extreme: his sincere piety and his large heart always qualify his errors. 
+• archaic alter the strength or flavor of (something, especially a liquid): he qualified his mug of water with a plentiful infusion of the liquor. 
+• (qualify something as) archaic attribute a specified quality to something; describe something as: the propositions have been qualified as heretical. 
+• [with object] Grammar (of a word or phrase) attribute a quality to (another word, especially a preceding noun). DERIVATIVES qualifiable 
+ˌkwäləˈfīəb(ə)l 
+adjectiveORIGIN late Middle English (in the sense ‘describe in a particular way’): from French qualifier, from medieval Latin qualificare, from Latin qualis ‘of what kind, of such a kind’ (see quality).

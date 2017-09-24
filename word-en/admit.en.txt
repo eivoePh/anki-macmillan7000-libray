@@ -1,5 +1,18 @@
 admit 
-▶verb
-1 he unlocked the door to admit her: let in, allow entry, permit entry, take in, usher in, show in, receive, welcome. ANTONYMS exclude.
-2 she was admitted to law school: accept to/into, receive into, enroll in, enlist into, register into. ANTONYMS expel.
-3 Paul admitted that he was angry: confess, acknowledge, own, concede, grant, accept, allow; reveal, disclose, divulge; plead guilty. ANTONYMS deny.
+ədˈmit
+
+▶verb (admits, admitting, admitted)
+1 [reporting verb] confess to be true or to be the case, typically with reluctance: [with clause] : the office finally admitted that several prisoners had been injured 
+I have to admit I was relieved when he left 
+[with direct speech] : “I am feeling pretty tired,” Jan admitted 
+[with object] : she admitted her terror of physical contact. 
+• [with object] confess to (a crime or fault, or one's responsibility for it): he was sentenced to prison after admitting 47 charges of burglary 
+[no object] : he had admitted to a long history of sexual misconduct. 
+• acknowledge (a failure or fault): after searching for an hour, she finally had to admit defeat 
+[no object] : he admits to having lied.
+2 [with object] allow (someone) to enter a place: senior citizens are admitted free to the museum. 
+• receive (a patient) into a hospital for treatment: she was admitted to the hospital suffering from a chest infection. 
+• allow (a person, country, or organization) to join an organization or group: Canada was admitted to the League of Nations. 
+• allow (someone) to share in a privilege: the doctrine held that only a chosen few were admitted to the covenant. 
+• [with object] accept as valid: the courts can refuse to admit police evidence that has been illegally obtained.
+3 [no object] (admit of) allow the possibility of: the need to inform him was too urgent to admit of further delay. ORIGIN late Middle English: from Latin admittere, from ad- ‘to’ + mittere ‘send.’

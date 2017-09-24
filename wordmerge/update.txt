@@ -4,6 +4,11 @@ transitive verb 更新 gēngxīn
 B.  /BrE ˈʌpdeɪt, AmE ˈəpˌdeɪt
 noun 最新报道 zuì xīn bàodào 
 update 
-▶verb
-1 security measures are continually updated: modernize, upgrade, bring up to date, improve, overhaul.
-2 I'll update him on today's developments: brief, bring up to date, inform, fill in, tell, notify, apprise, keep posted; informal clue in, put in the picture, bring/keep up to speed.
+▶verb 
+ˌəpˈdāt ˈəpˌdāt 
+[with object] make (something) more modern or up to date: security measures are continually updated and improved 
+(as adjective updated) : an updated list of subscribers. 
+• give (someone) the latest information about something: the reporter promised to keep the viewers updated. 
+▶noun 
+ˈəpˌdāt 
+an act of bringing something or someone up to date, or an updated version of something: an update on recently published crime figures. DERIVATIVES updatable adjective (Computing)

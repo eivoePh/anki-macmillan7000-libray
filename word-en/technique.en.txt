@@ -1,4 +1,7 @@
 technique 
-▶noun
-1 different techniques for solving the problem: method, approach, procedure, system, modus operandi, MO, way; means, strategy, tack, tactic, line; routine, practice.
-2 I was impressed with his technique: skill, ability, proficiency, expertise, mastery, talent, genius, artistry, craftsmanship; aptitude, adroitness, deftness, dexterity, facility, competence; performance, delivery; informal know-how.
+tekˈnēk
+
+▶noun a way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure. 
+• skill or ability in a particular field: he has excellent technique 
+[in singular] : an established athlete with a very good technique. 
+• a skillful or efficient way of doing or achieving something: tape recording is a good technique for evaluating our own communications. ORIGIN early 19th century: from French, from Latin technicus (see technic) .

@@ -4,7 +4,10 @@ noun
 ① CountableLaw 定罪 dìngzuì a conviction for drug trafficking 贩毒罪 to obtain/quash or overturn/uphold a conviction 获得/撤销/维持判决 
 ② Uncountable and countable(belief) 坚定信念 jiāndìng xìnniàn (certitude) 确信 quèxìn a deep conviction of [something] 对某事物的深信不疑 to have/lack the courage of one's convictions 有/没有勇气做自己认为对的事 with/without conviction 坚定地/不坚定地 he is, by conviction, a socialist 他是一个坚定的社会主义者 
 conviction 
+kənˈvikSH(ə)n
+
 ▶noun
-1 his conviction for murder: declaration of guilt, sentence, judgment. ANTONYMS acquittal.
-2 his political convictions: belief, opinion, view, thought, persuasion, idea, position, stance, article of faith.
-3 she spoke with conviction: certainty, certitude, assurance, confidence, sureness, no shadow of a doubt. ANTONYMS uncertainty.CHOOSE THE RIGHT WORD See opinion .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 a formal declaration that someone is guilty of a criminal offense, made by the verdict of a jury or the decision of a judge in a court of law: she had a previous conviction for a similar offense.
+2 a firmly held belief or opinion: his conviction that the death was no accident 
+she takes pride in stating her political convictions. 
+• the quality of showing that one is firmly convinced of what one believes or says: his voice lacked conviction. ORIGIN late Middle English: from Latin convictio(n-), from the verb convincere (see convince) .

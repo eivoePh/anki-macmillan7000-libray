@@ -8,10 +8,18 @@ noun
 ⑤ Uncountable(commemoration) 纪念 jìniàn in (loving) memory of [somebody]; （深情地）纪念某人 to the memory of [somebody]/[something]; 作为对某人/某事的纪念 of blessed memory; 已故的 
 ⑥ UncountableComputing 内存 nèicún 
 memory 
-▶noun
-1 she is losing her memory: ability to remember, powers of recall.
-2 happy memories of her young days: recollection, remembrance, reminiscence; impression.
-3 the town built a statue in memory of him: commemoration, remembrance; honor, tribute, recognition, respect.
-4 a computer's memory: memory bank, store, cache, disk, RAM, ROM, hard drive.
-WORD LINKS
-memory mnemonic a pattern of letters or words that helps someone remember somethingWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+ˈmem(ə)rē
+
+▶noun (plural memories)
+1 the faculty by which the mind stores and remembers information: I've a great memory for faces 
+my grandmother is losing her memory 
+the brain regions responsible for memory. 
+• the mind regarded as a store of things remembered: he searched his memory frantically for an answer.
+2 something remembered from the past; a recollection: one of my earliest memories is of sitting on his knee 
+the mind can bury all memory of traumatic abuse. 
+• the remembering or recollection of a dead person, especially one who was popular or respected: clubs devoted to the memory of Sherlock Holmes. 
+• the length of time over which people continue to remember a person or event: the worst slump in recent memory.
+3 the part of a computer in which data or program instructions can be stored for retrieval. 
+• capacity for storing information on a computer: the module provides 16Mb of memory. 
+PHRASES
+from memory without reading or referring to notes: each child was required to recite a verse from memory. in memory of intended to remind people of, especially to honor a dead person. take a trip (or walk) down memory lane deliberately recall pleasant or sentimental memories.ORIGIN Middle English: from Old French memorie, from Latin memoria, from memor ‘mindful, remembering.’

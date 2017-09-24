@@ -9,9 +9,11 @@ B.  adjectiveattributive
 ① (giving notice of danger) 警告的 jǐnggào de a warning light/siren/notice 报警灯/警笛/警告 
 ② (deterring) 警告性的 jǐnggàoxìng de ‹growl, glance, shout›
 warning 
-▶noun
-1 the earthquake came without warning: (advance) notice, forewarning, alert; hint, signal, sign, danger sign, alarm bells; informal tip-off, heads-up, red flag.
-2 a health warning: caution, advisory, notification, information; exhortation, injunction; advice.
-3 a warning of things to come: omen, premonition, foreboding, prophecy, prediction, forecast, token, portent, signal, sign, danger sign; literary foretoken.
-4 his sentence is a warning to other drunk drivers: example, deterrent, lesson, caution, exemplar, message, moral.
-5 a written warning: admonition, remonstrance, reprimand, censure, caution; informal dressing-down, talking-to.
+ˈwôrniNG
+
+▶noun a statement or event that indicates a possible or impending danger, problem, or other unpleasant situation: a warning about heavy thunderstorms 
+suddenly and without any warning, the army opened fire 
+[as modifier] : a red warning light. 
+• cautionary advice: a word of warning—don't park illegally. 
+• advance notice of something: she had only had four days' warning before leaving Berlin. 
+• an experience or sight that serves as a cautionary example to others: his death should be a warning to everyone. DERIVATIVES warningly adverbORIGIN Old English war(e)nung (see warn, -ing1) .

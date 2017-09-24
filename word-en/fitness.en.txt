@@ -1,4 +1,7 @@
 fitness 
-▶noun
-1 marathon running requires tremendous fitness: good health, strength, robustness, vigor, athleticism, toughness, physical fitness, muscularity; good condition, good shape, well-being.
-2 his fitness for active service: suitability, capability, competence, ability, aptitude; readiness, preparedness, eligibility.
+ˈfitnəs
+
+▶noun the condition of being physically fit and healthy: disease and lack of fitness are closely related 
+[as modifier] : a fitness test. 
+• the quality of being suitable to fulfill a particular role or task: he had a year in which to establish his fitness for the office. 
+• Biology an organism's ability to survive and reproduce in a particular environment: if sharp teeth increase fitness, then genes causing teeth to be sharp will increase in frequency.

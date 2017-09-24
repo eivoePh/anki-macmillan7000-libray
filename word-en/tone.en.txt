@@ -1,8 +1,25 @@
 tone 
+tōn
+
 ▶noun
-1 the tone of the tuba: timbre, sound, sound quality, voice, voice quality, color, tonality.
-2 the somewhat impatient tone of his letter: mood, air, spirit, feel, sound, flavor, note, attitude, character, nature, manner, temper; tenor, vein, drift, gist.
-3 a dial tone: note, signal, beep, bleep.
-4 tones of burgundy and firebrick red: shade, color, hue, tint, tinge.
-PHRASES
-tone down the pastels in the upholstery will help to tone down the color scheme: soften, lighten, mute, subdue, mellow; moderate, modify, modulate, mitigate, temper, dampen.
+1 a musical or vocal sound with reference to its pitch, quality, and strength: the piano tone appears monochrome or lacking in warmth. 
+• a modulation of the voice expressing a particular feeling or mood: a firm tone of voice. 
+• a musical note, warble, or other sound used as a particular signal on a telephone or answering machine.
+2 the general character or attitude of a place, piece of writing, situation, etc.: trust her to lower the tone of the conversation 
+there was a general tone of ill-concealed glee in the reporting. 
+• informal an atmosphere of respectability or class: they don't feel he gives the place tone.
+3 Phonetics (in some languages, such as Chinese) a particular pitch pattern on a syllable used to make semantic distinctions. 
+• Phonetics (in some languages, such as English) intonation on a word or phrase used to add functional meaning.
+4 (also whole tone) a basic interval in classical Western music, equal to two semitones and separating, for example, the first and second notes of an ordinary scale (such as C and D, or E and F sharp); a major second or whole step.
+5 the particular quality of brightness, deepness, or hue of a tint or shade of a color: an attractive color that is even in tone and texture 
+stained glass in vivid tones of red and blue. 
+• the general effect of color or of light and shade in a picture. 
+• a slight degree of difference in the intensity of a color.
+6 (also muscle tone) the normal level of firmness or slight contraction in a resting muscle. 
+• Physiology the normal level of activity in a nerve fiber. 
+▶verb [with object]
+1 give greater strength or firmness to (the body or a part of it): exercise tones up the muscles. 
+• [no object] (tone up) (of a muscle or bodily part) became stronger or firmer.
+2 [no object] (tone with) harmonize with (something) in terms of color: the rich orange color of the wood tones beautifully with the yellow roses.
+3 Photography give (a monochrome picture) an altered color in finishing by means of a chemical solution. PHRASAL VERBS tone something down make something less harsh in sound or color. 
+• make something less extreme or intense: she saw the need to tone down her protests.ORIGIN Middle English: from Old French ton, from Latin tonus, from Greek tonos ‘tension, tone,’ from teinein ‘to stretch.’

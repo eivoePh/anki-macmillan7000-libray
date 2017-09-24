@@ -1,9 +1,13 @@
 failure 
+ˈfālyər
+
 ▶noun
-1 the failure of the assassination attempt: lack of success, nonfulfillment, defeat, collapse, foundering. ANTONYMS success.
-2 all his schemes had been a failure: fiasco, debacle, catastrophe, disaster; informal flop, megaflop, washout, dead loss, snafu, clinker, dud, no-go. ANTONYMS success.
-3 she was regarded as a failure: loser, underachiever, ne'er-do-well, disappointment; informal no-hoper, dead loss, dud, write-off, busted flush. ANTONYMS success.
-4 his failure in duty: negligence, dereliction; omission, oversight.
-5 a crop failure: inadequacy, insufficiency, deficiency, dearth, scarcity, shortfall.
-6 the failure of the camera: breaking down, breakdown, malfunction; crash.
-7 company failures: collapse, crash, bankruptcy, insolvency, liquidation, closure. ANTONYMS success.
+1 lack of success: an economic policy that is doomed to failure 
+the failures of his policies. 
+• an unsuccessful person, enterprise, or thing: bad weather had resulted in crop failures.
+2 the omission of expected or required action: their failure to comply with the basic rules. 
+• a lack or deficiency of a desirable quality: a failure of imagination.
+3 the action or state of not functioning: symptoms of heart failure 
+an engine failure. 
+• a sudden cessation of power. 
+• the collapse of a business. ORIGIN mid 17th century (originally as failer, in the senses ‘nonoccurrence’ and ‘cessation of supply’): from Anglo-Norman French failer for Old French faillir (see fail) .

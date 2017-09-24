@@ -4,7 +4,16 @@ BrE ˈkɒmpɛnseɪt, ˈkɒmp(ə)nseɪt, AmE ˈkɑmpənˌseɪt
 A.  transitive verb 赔偿 péicháng to compensate [somebody] for [something]/doing [something]; 为某事物/做某事赔偿某人 
 B.  intransitive verb 补偿 bǔcháng to compensate for [something]; 为…进行补偿 ‹loss, difficulty›to go a long way to compensate or towards compensating for … 费一番周折来弥补… 
 compensate 
+ˈkämpənˌsāt
+
 ▶verb
-1 you must compensate for what you did: make amends, make up, make reparation, recompense, atone, requite, pay; expiate, make good, rectify.
-2 we agreed to compensate him for his loss: recompense, repay, pay back, reimburse, remunerate, recoup, requite, indemnify.
-3 his flair compensated for his faults: balance (out), counterbalance, counteract, offset, make up for, cancel out, neutralize, negative.
+1 [with object] give (someone) something, typically money, in recognition of loss, suffering, or injury incurred; recompense: payments were made to farmers to compensate them for cuts in subsidies. 
+• pay (someone) for work performed: he will be richly compensated for his efforts.
+2 [no object] (compensate for) make up for (something unwelcome or unpleasant) by exerting an opposite force or effect: officials have boosted levies to compensate for huge deficits. 
+• act to neutralize or correct (a deficiency or abnormality in a physical property or effect): the output voltage rises, compensating for the original fall. 
+• Psychology attempt to conceal or offset (a disability or frustration) by development in another direction: they identified with radical movements to compensate for their inability to relate to individual human beings.
+3 [with object] Mechanics provide (a pendulum) with extra or less weight to neutralize the effects of temperature, etc. DERIVATIVES compensative 
+kəmˈpensədiv ˈkämp(ə)nˌsādiv 
+adjective. compensator 
+ˈkämp(ə)nˌsādər 
+nounORIGIN mid 17th century (in the sense ‘counterbalance’): from Latin compensat- ‘weighed against,’ from the verb compensare, from com- ‘together’ + pensare (frequentative of pendere ‘weigh’).

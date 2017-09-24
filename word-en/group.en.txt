@@ -1,12 +1,17 @@
 group 
-▶noun
-1 the exhibits were divided into three distinct groups: category, class, classification, grouping, set, lot, batch, bracket, type, sort, kind, variety, family, species, genus, breed; grade, grading, rank, status.
-2 a group of tourists: crowd, party, body, band, company, gathering, congregation, assembly, collection, cluster, flock, pack, troop, gang; informal bunch, pile.
-3 a coup attempt by a group within the legislature: faction, division, section, clique, coterie, circle, set, ring, camp, bloc, caucus, cabal, fringe movement, splinter group.
-4 the women's group: association, club, society, league, guild, circle, union, sorority, fraternity.
-5 a small group of trees: cluster, knot, collection, mass, clump.
-6 a local singing group: band, ensemble, act; informal combo, outfit.
-▶verb
-1 patients were grouped according to their symptoms: categorize, classify, class, catalog, sort, bracket, pigeonhole, grade, rate, rank; prioritize, triage.
-2 extra chairs were grouped around the table: place, arrange, assemble, organize, range, line up, dispose.
-3 the two parties grouped together : unite, join together/up, team up, gang up, join forces, get together, ally, form an alliance, affiliate, combine, marry, merge, pool resources; collaborate, work together, pull together, cooperate.
+ɡro͞op
+
+▶noun [treated as singular or plural] a number of people or things that are located close together or are considered or classed together: these bodies fall into four distinct groups. 
+• a number of people who work together or share certain beliefs: I now belong to my local drama group. 
+• a commercial organization consisting of several companies under common ownership. 
+• a number of musicians who play popular music together. 
+• Military a unit of the US Air Force, consisting of two or more squadrons. 
+• Military a unit of the US Army, consisting of two or more battalions. 
+• Art two or more figures or objects forming a design. 
+• Chemistry a set of elements occupying a column in the periodic table and having broadly similar properties arising from their similar electronic structure. 
+• Chemistry a combination of atoms having a recognizable identity in a number of compounds. 
+• Mathematics a set of elements, together with an associative binary operation, that contains an inverse for each element and an identity element. 
+• Geology a stratigraphic division consisting of two or more formations. 
+▶verb [with object] put together or place in a group or groups: three wooden chairs were grouped around a dining table. 
+• put into categories; classify: we group them into species merely as a convenience. 
+• [no object] form a group or groups: many growers began to group together to form cooperatives. ORIGIN late 17th century: from French groupe, from Italian gruppo, of Germanic origin; related to crop .

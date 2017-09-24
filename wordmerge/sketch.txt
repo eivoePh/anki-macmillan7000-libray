@@ -14,11 +14,17 @@ C.  transitive verb
 ① Art 画出…的草图 huàchū… de cǎotú ‹composition, outline›
 ② (outline) 简述 jiǎn shù ‹plot, policy, agenda›
 sketch 
+skeCH
+
 ▶noun
-1 a sketch of the proposed design: (preliminary) drawing, outline; diagram, design, plan; informal rough.
-2 she gave a rough sketch of what had happened: outline, brief description, rundown, main points, thumbnail sketch, (bare) bones; summary, synopsis, summarization, précis, résumé, wrap-up.
-3 a biographical sketch: description, portrait, profile, portrayal, depiction.
-4 a hilarious sketch: skit, scene, piece, act, item, routine.
-▶verb
-1 he sketched the garden: draw, make a drawing of, draw a picture of, pencil, rough out, outline.
-2 the company sketched out its plans: describe, outline, give a brief idea of, rough out; summarize, précis.
+1 a rough or unfinished drawing or painting, often made to assist in making a more finished picture: a charcoal sketch. 
+• a brief written or spoken account or description of someone or something, giving only basic details: a biographical sketch of Ernest Hemingway. 
+• a rough or unfinished version of any creative work.
+2 a short humorous play or performance, consisting typically of one scene in a comedy program.
+3 informal a comical or amusing person or thing. 
+▶verb [with object] make a rough drawing of: as they talked, Modigliani began to sketch her 
+[no object] : Jeanne sketched and painted whenever she had the time. 
+• give a brief account or general outline of: they sketched out the prosecution case. 
+• perform (a gesture) with one's hands or body: he sketched a graceful bow in her direction. DERIVATIVES sketcher 
+ˈskeCHər 
+nounORIGIN mid 17th century: from Dutch schets or German Skizze, from Italian schizzo, from schizzare ‘make a sketch,’ based on Greek skhedios ‘done extempore.’

@@ -1,17 +1,32 @@
 skin 
+skin
+
 ▶noun
-1 these chemicals could damage the skin: epidermis, dermis, derma.
-2 Mary's fair skin: complexion, coloring, skin color/tone, pigmentation.
-3 leopard skins: hide, pelt, fleece; historical plew; archaic fell.
-4 a banana skin: peel, rind, integument.
-5 milk with a skin on it: film, layer, membrane.
-6 the plane's skin was damaged: casing, exterior.
-▶verb
-1 skin the tomatoes: peel, pare, hull; technical decorticate.
-2 he skinned his knee: graze, scrape, abrade, bark, rub raw, chafe; Medicine excoriate.
+1 the thin layer of tissue forming the natural outer covering of the body of a person or animal: I use body lotion to keep my skin soft 
+a flap of skin. 
+• the skin of a dead animal with or without the fur, used as material for clothing or other items: is this real crocodile skin? 
+• a container made from the skin of an animal such as a goat, used for holding liquids.
+2 an outer layer or covering, in particular: 
+• the peel or outer layer of certain fruits or vegetables. 
+• the thin outer covering of a sausage. 
+• a thin layer forming on the surface of certain hot liquids, such as milk, as they cool. 
+• the outermost layer of a structure such as a building or aircraft. 
+• Computing a customized graphic user interface for an application or operating system: music, reviews, and attitude all wrapped up in the skin of a catalog. 
+• (usually skins) a strip of sealskin or other material attached to the underside of a ski to prevent a skier from slipping backward while climbing.
+3 informal a skinhead.
+4 (usually skins) informal (especially in jazz) a drum or drum head.
+5 [as modifier] informal relating to or denoting pornographic literature or films: the skin trade. 
+▶verb (skins, skinning, skinned)
+1 [with object] remove the skin from (an animal or a fruit or vegetable). 
+• (in hyperbolic use) punish severely: Dad would skin me alive if I forgot it. 
+• scratch or scrape the skin off (a part of one's body): he scrambled down from the tree with such haste that he skinned his knees. 
+• informal take money from or swindle (someone).
+2 [with object] archaic cover with skin: the wound was skinned, but the strength of his leg was not restored. 
+• [no object] (of a wound) form new skin: the hole in his skull skinned over. 
 PHRASES
-by the skin of one's teeth he won, but only by the skin of his teeth: (only) just, narrowly, barely, by a hair's breadth, by a very small margin; informal by a whisker. get under someone's skin informal
-1 the children really got under my skin. See irritate (sense 1).
-2 she got under my skin: obsess, intrigue, captivate, charm; enthrall, enchant, entrance. it's no skin off my nose informal if you want to go swimming in that icy water, it's no skin off my nose: I don't care, I don't mind, I'm not bothered, it doesn't bother me, it doesn't matter to me; informal I don't give a damn, I couldn't/could care less. skin alive informal Dad would skin me alive if I forgot it: punish severely; informal murder, come down on (like a ton of bricks), give what for. 
-WORD LINKS
-skin cutaneous relating to or affecting the skin subcutaneous situated or applied under the skin dermatology the branch of medicine concerned with skin disordersWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+be skin and bones (of a person or animal) be very thin. by the skin of one's teeth by a very narrow margin; barely: I only got away by the skin of my teeth. [from a misquotation of Job 19:20: “I am escaped with the skin of my teeth” (i.e., and nothing else). Current use reflects a different sense.] get under someone's skin informal
+1 annoy or irritate someone intensely: it was the sheer effrontery of them that got under my skin.
+2 fill someone's mind in a compelling and persistent way.
+3 reach or display a deep understanding of someone: movies that get under the skin of our national character. give someone (some) skin US informal shake or slap hands together as a gesture or friendship or solidarity. have a thick (or thin) skin be insensitive (or oversensitive) to criticism or insults. have skin in the game informal have a personal investment in an organization or undertaking, and therefore a vested interest in its success. it's no skin off my nose (or off my back) informal (usually spoken with emphasis on “my”) used to indicate that one is not offended or adversely affected by something: it's no skin off my nose if you don't want dessert.keep (or sleep in) a whole skin archaic escape being wounded or injured. make someone's skin (or flesh) crawl (or creep) cause someone to feel fear, horror, or disgust: a person dying in a fire—doesn't it make your skin crawl?save someone's skin see save1. there's more than one way to skin a cat proverb there's more than one way of achieving one's aim. under the skin in reality, as opposed to superficial appearances: he still believes that all women are goddesses under the skin.DERIVATIVES skinless 
+ˈskinləs 
+adjectiveORIGIN late Old English scinn, from Old Norse skinn; related to Dutch schinden ‘flay, peel’ and German schinden .

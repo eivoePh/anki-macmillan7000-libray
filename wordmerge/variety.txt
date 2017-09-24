@@ -7,7 +7,17 @@ noun
 ④ CountableBiology 品种 pǐnzhǒng a new plant variety 新的植物品种 
 ⑤ Uncountable and countableTheatre, Television variety (show) 综艺节目 zōngyì jiémù a variety act 综艺表演 zōngyì biǎoyǎn 
 variety 
-▶noun
-1 the lack of variety in the curriculum: diversity, variation, diversification, heterogeneity, multifariousness, change, choice, difference. ANTONYMS uniformity.
-2 a wide variety of flowers and shrubs: assortment, miscellany, range, array, collection, selection, mixture, medley, multiplicity; mixed bag, motley collection, potpourri, hodgepodge.
-3 fifty varieties of pasta: sort, kind, type, class, category, style, form; make, model, brand; strain, breed, genus.
+vəˈrīədē
+
+▶noun (plural varieties)
+1 the quality or state of being different or diverse; the absence of uniformity, sameness, or monotony: it's the variety that makes my job so enjoyable. 
+• (a variety of) a number or range of things of the same general class that are different or distinct in character or quality: the center offers a variety of leisure activities. 
+• a thing that differs in some way from others of the same general class or sort; a type: fifty varieties of fresh and frozen pasta. 
+• a form of television or theater entertainment consisting of a series of different types of acts, such as singing, dancing, and comedy: in 1937 she did another season of variety 
+[as modifier] : a variety show.
+2 Biology a taxonomic category that ranks below subspecies (where present) or species, its members differing from others of the same subspecies or species in minor but permanent or heritable characteristics. Varieties are more often recognized in botany, in which they are designated in the style Apium graveolens var. dulce. Compare with form ( sense
+3 of the noun) and subspecies. 
+• a cultivated form of a plant. See cultivar. 
+• a plant or animal that varies in some trivial respect from its immediate parent or type. 
+PHRASES
+variety is the spice of life proverb new and exciting experiences make life more interesting.ORIGIN late 15th century: from French variété or Latin varietas, from varius (see various) .

@@ -1,7 +1,15 @@
 maintain 
-▶verb
-1 they wanted to maintain peace: preserve, conserve, keep, retain, keep going, keep alive, keep up, prolong, perpetuate, sustain, carry on, continue. ANTONYMS break (off), discontinue.
-2 the association maintains its private roads: keep in good condition, keep in (good) repair, keep up, service, care for, take good care of, look after. ANTONYMS neglect.
-3 the cost of maintaining a dog: support, provide for, keep, sustain; nurture, feed, nourish. ANTONYMS neglect.
-4 he always maintained his innocence 
-he maintains that he is innocent: insist (on), declare, assert, protest, affirm, avow, profess, claim, allege, contend, argue, swear (to), hold to; formal aver. ANTONYMS deny.
+mānˈtān
+
+▶verb [with object]
+1 cause or enable (a condition or state of affairs) to continue: the need to maintain close links between industry and schools. 
+• keep (something) at the same level or rate: agricultural prices will have to be maintained. 
+• keep (a building, machine, or road) in good condition or in working order by checking or repairing it regularly.
+2 provide with necessities for life or existence: the allowance covers the basic costs of maintaining a child. 
+• keep (a military unit) supplied with equipment and other requirements. 
+• archaic give one's support to; uphold: the king swears he will maintain the laws of God.
+3 [reporting verb] state something strongly to be the case; assert: [with object] : he has always maintained his innocence 
+[with clause] : he had persistently maintained that he would not stand against his old friend 
+[with direct speech] : “It was not an ideology at all,” she maintained. DERIVATIVES maintainability 
+ˌmānˌtānəˈbilətē 
+noun. maintainable adjectiveORIGIN Middle English (also in the sense ‘practice (a good or bad action) habitually’): from Old French maintenir, from Latin manu tenere ‘hold in the hand.’

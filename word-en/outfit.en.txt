@@ -1,6 +1,9 @@
 outfit 
-▶noun
-1 a new outfit: costume, suit, uniform, ensemble, attire, clothes, clothing, dress, garb; informal getup, gear, togs, threads; formal apparel; archaic habit, raiment.
-2 a studio lighting outfit: kit, equipment, tools, implements, tackle, apparatus, paraphernalia, things, stuff.
-3 a local manufacturing outfit: organization, setup, enterprise, company, firm, business; group, band, body, team.
-▶verb enough swords to outfit an army: equip, kit out, fit out/up, rig out, supply, arm; dress, attire, clothe, deck out; archaic apparel, invest, habit.
+ˈoutˌfit
+
+▶noun a set of clothes worn together, typically for a particular occasion or purpose: a riding outfit. 
+• informal a group of people undertaking a particular activity together, as a group of musicians, a military unit, or a business concern: Tom was the brains of the outfit. 
+• [with modifier] a complete set of equipment or articles needed for a particular purpose: a repair outfit. 
+▶verb (outfits, outfitting, outfitted) [with object] provide (someone) with a set of clothes: an auction of dolls outfitted by world-famous designers 
+he outfitted himself in the best gray suit he could afford. 
+• provide with equipment: planes outfitted with sophisticated electronic gear.

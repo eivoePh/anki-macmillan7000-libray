@@ -1,11 +1,19 @@
 render 
-▶verb
-1 her fury rendered her speechless: make, cause to be/become, leave.
-2 he was notified of the incident and drove to the scene to render assistance: give, provide, supply, furnish, contribute; offer, proffer.
-3 the invoices rendered by the accountants: send in, present, submit.
-4 the jury rendered its verdict: deliver, return, hand down, give, announce.
-5 paintings rendered in muted colors: paint, draw, depict, portray, represent, execute; literary limn.
-6 she rendered all three verses: perform, sing.
-7 the characters are vividly rendered: act, perform, play, depict, interpret.
-8 the phrase was rendered into English: translate, put, express, rephrase, reword.
-9 the fat can be rendered: melt down, clarify.
+ˈrendər
+
+▶verb [with object]
+1 provide or give (a service, help, etc.): money serves as a reward for services rendered 
+Mrs. Evans would render assistance to those she thought were in real need. 
+• submit or present for inspection or consideration: he would render income tax returns at the end of the year. 
+• literary hand over: he will render up his immortal soul. 
+• deliver (a verdict or judgment): the jury's finding amounted to the clearest verdict yet rendered upon the scandal.
+2 [with object and complement] cause to be or become; make: the rains rendered his escape impossible.
+3 represent or depict artistically: the eyes and the cheeks are exceptionally well rendered. 
+• translate: the phrase was rendered into English. 
+• Music perform (a piece): a soprano solo reverently rendered by Linda Howie. 
+• Computing process (an outline image) using color and shading in order to make it appear solid and three-dimensional.
+4 covertly send (a foreign criminal or terrorist suspect) for interrogation abroad; subject to extraordinary rendition.
+5 melt down (fat): the fat was being cut up and rendered for lard. 
+• process (the carcass of an animal) in order to extract proteins, fats, and other usable parts: (as adjective rendered) : the rendered down remains of sheep.
+6 cover (stone or brick) with a coat of plaster: external walls will be rendered and tiled. 
+▶noun a first coat of plaster applied to a brick or stone surface. DERIVATIVES renderer nounORIGIN late Middle English: from Old French rendre, from an alteration of Latin reddere ‘give back,’ from re- ‘back’ + dare ‘give.’ The earliest senses were ‘recite,’ ‘translate,’ and ‘give back’ (hence ‘represent’ and ‘perform’); ‘hand over’ (hence ‘give (help)’ and ‘submit for consideration’); ‘cause to be’; and ‘melt down.’

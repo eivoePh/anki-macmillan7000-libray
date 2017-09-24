@@ -7,8 +7,11 @@ A.  transitive verb
 ③ (show) 表露 biǎolù ‹affection, dislike, indifference, feeling›to demonstrate one's concern/support for [something] 表明对某事的关心/支持 as demonstrated by … 如…所表现的 
 B.  intransitive verb (protest) 游行示威 yóuxíng shìwēi to demonstrate for/against [something]; 进行支持/反对某事的示威游行 
 demonstrate 
+ˈdemənˌstrāt
+
 ▶verb
-1 the findings demonstrate important differences between men and women: show, indicate, determine, establish, prove, confirm, verify, corroborate, substantiate.
-2 she was asked to demonstrate quilting: give a demonstration of, show how something is done; display, show, illustrate, exemplify; informal demo.
-3 his work demonstrated an analytical ability: reveal, bespeak, indicate, signify, signal, denote, show, display, exhibit; bear witness to, testify to; imply, intimate, give away.
-4 they demonstrated against the government: protest, rally, march; stage a sit-in, picket, strike, walk out; mutiny, rebel.
+1 [with object] clearly show the existence or truth of (something) by giving proof or evidence: their shameful silence demonstrates their ineptitude. 
+• give a practical exhibition and explanation of (how a machine, skill, or craft works or is performed): computerized design methods will be demonstrated 
+[with clause] : he demonstrated how to make his favorite hotdog. 
+• show or express (a feeling or quality) by one's actions: she began to demonstrate a new-found confidence.
+2 [no object] take part in a public demonstration: thousands demonstrated in favor of the government. ORIGIN mid 16th century (in the sense ‘point out’): from Latin demonstrat- ‘pointed out,’ from the verb demonstrare .

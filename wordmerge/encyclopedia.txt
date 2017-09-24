@@ -1,6 +1,7 @@
 encyclopedia, encyclopaedia 
 BrE ɛnˌsʌɪklə(ʊ)ˈpiːdɪə, ɪnˌsʌɪklə(ʊ)ˈpiːdɪə, AmE ɪnˌsaɪkləˈpidiə, ɛnˌsaɪkləˈpidiə 
 noun 百科全书 bǎikē quánshū 
-encyclopedia, encyclopaedia 
-BrE ɛnˌsʌɪklə(ʊ)ˈpiːdɪə, ɪnˌsʌɪklə(ʊ)ˈpiːdɪə, AmE ɪnˌsaɪkləˈpidiə, ɛnˌsaɪkləˈpidiə 
-noun 百科全书 bǎikē quánshū 
+encyclopedia 
+inˌsīkləˈpēdēə enˌsīkləˈpēdēə 
+(also chiefly British encyclopaedia) 
+▶noun a book or set of books giving information on many subjects or on many aspects of one subject and typically arranged alphabetically. ORIGIN mid 16th century: modern Latin, from pseudo-Greek enkuklopaideia for enkuklios paideia ‘all-around education.’

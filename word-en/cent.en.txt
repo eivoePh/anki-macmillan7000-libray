@@ -1,6 +1,8 @@
 cent 
-BrE sɛnt, AmE sɛnt 
-noun 
-① (monetary unit) 分 fēn 
-② (coin) 一分硬币 yī fēn yìngbì 
-③ colloquial (small sum) 一点点钱 yīdiǎndiǎn qián I haven't got a cent 我身无分文 to be not worth a cent 一钱不值 I'm not giving her a cent 我一个子儿也不会给她 
+sent
+
+▶noun
+1 a monetary unit of the US, Canada, and various other countries, equal to one hundredth of a dollar, euro, or other decimal currency unit. 
+• informal a small sum of money: she saved every cent possible. 
+• [in singular with negative] informal used for emphasis to denote any money at all: he hadn't yet earned a cent.
+2 Music one hundredth of a half step. ORIGIN late Middle English (in the sense ‘a hundred’): from French cent,Italian cento, or Latin centum ‘hundred.’

@@ -1,3 +1,4 @@
 pronoun 
-BrE ˈprəʊnaʊn, AmE ˈproʊˌnaʊn 
-noun 代词 dàicí a personal/relative/possessive pronoun 人称/关系/物主代词 
+ˈprōˌnoun
+
+▶noun a word that can function by itself as a noun phrase and that refers either to the participants in the discourse (e.g., I, you) or to someone or something mentioned elsewhere in the discourse (e.g., she, it, this). See also personal pronoun, impersonal pronoun. ORIGIN late Middle English: from pro-1 ‘on behalf of’ + noun, suggested by French pronom,Latin pronomen (from pro- ‘for, in place of’ + nomen ‘name’).

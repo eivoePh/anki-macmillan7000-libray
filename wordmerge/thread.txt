@@ -14,10 +14,26 @@ C.  transitive verb
 ③ (move) 穿过 chuānguo to thread one's way through 在…中间穿行 ‹tables, obstacles, crowd›
 D.  intransitive verb «needle, sewing machine, bead» 穿上线 chuānshang xiàn ; «film, yarn» 装入 zhuāngrù the machine threads from behind 这台机器从后面穿线 the tape threads between these magnetic heads 磁带在这些磁头中间穿过 
 thread 
+THred
+
 ▶noun
-1 a needle and thread: cotton, filament, fiber; yarn, string, twine.
-2 literary the Fraser was a thread of silver below them: streak, strand, stripe, line, strip, seam, vein.
-3 she lost the thread of the conversation: gist, train of thought, drift, direction; theme, motif, tenor; storyline, plot; through line.
-▶verb
-1 he threaded the rope through a pulley: pass, string, work, ease, push, poke.
-2 she threaded her way through the tables: weave, inch, wind, squeeze, make.
+1 a long, thin strand of cotton, nylon, or other fibers used in sewing or weaving. 
+• cotton, nylon, or other fibers spun into long, thin strands and used for sewing. 
+• (threads) informal, chiefly North American clothes.
+2 a thing resembling a thread in length or thinness, in particular: 
+• chiefly literary a long, thin line or piece of something: the river was a thread of silver below them. 
+• a theme or characteristic, typically forming one of several, running throughout a situation or piece of writing: a common thread running through the scandals was the failure to conduct audits.
+3 a group of linked messages posted on an Internet forum that share a common subject or theme. 
+• a programming structure or process formed by linking a number of separate elements or subroutines, especially each of the tasks executed concurrently in multithreading.
+4 (also screw thread) a helical ridge on the outside of a screw, bolt, etc., or on the inside of a cylindrical hole, to allow two parts to be screwed together. 
+▶verb [with object]
+1 pass a thread through the eye of (a needle) or through the needle and guides of (a sewing machine). 
+• pass (a long, thin object or piece of material) through something and into the required position for use: he threaded the rope through a pulley. 
+• [no object] move carefully or skillfully in and out of obstacles: she threaded her way through the tables. 
+• interweave or intersperse as if with threads: his hair had become ill-kempt and threaded with gray. 
+• put (beads, chunks of food, or other small objects) together or singly on a thread, chain, or skewer that runs through the center of each one: Connie sat threading beads.
+2 (usually as adjective threaded) cut a screw thread in or on (a hole, screw, or other object). 
+PHRASES
+hang by a thread be in a highly precarious state. lose the (or one's) thread be unable to follow what someone is saying or remember what one is going to say next.DERIVATIVES threadlike 
+ˈTHredˌlīk 
+adjectiveORIGIN Old English thrǣd (noun), of Germanic origin; related to Dutch draad and German Draht, also to the verb throw. The verb dates from late Middle English.

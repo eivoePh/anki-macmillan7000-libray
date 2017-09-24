@@ -1,20 +1,48 @@
 fix 
-▶verb
-1 he fixed my washing machine: repair, mend, put right, put to rights, get working, restore (to working order); overhaul, service, renovate, recondition.
-2 signs were fixed to utility poles: fasten, attach, affix, secure; join, connect, couple, link; install, implant, embed; stick, glue, pin, nail, screw, bolt, clamp, clip.
-3 his words are fixed in my memory: stick, lodge, embed, burned, branded.
-4 his eyes were fixed on the ground: focus, direct, level, point, train.
-5 informal Laura was fixing her hair: arrange, put in order, adjust; style, groom, comb, brush; informal do.
-6 informal Chris will fix supper: prepare, cook, make, get; informal rustle up, whip up.
-7 let's fix a date for the meeting: decide on, select, choose, resolve on; determine, settle, set, arrange, establish, allot; designate, name, appoint, specify.
-8 chemicals are used to fix the dye: make permanent, make fast, set.
-9 informal the fight was fixed: rig, arrange fraudulently; tamper with, influence; informal fiddle.
-10 informal don't tell anybody, or I'll fix you! get one's revenge on, avenge oneself on, get even with, get back at, take reprisals against, punish, deal with; sort someone out.
-11 the cat has been fixed: castrate, neuter, geld, spay, desex, sterilize; informal doctor, alter.
-▶noun informal
-1 they are in a bit of a fix: predicament, plight, difficulty, awkward situation, corner, tight spot; mess, mare's nest, dire straits; informal pickle, jam, hole, scrape, bind, sticky situation.
-2 he needed his fix: dose; informal hit.
-3 a quick fix for the coal industry: solution, answer, resolution, way out, remedy, cure, placebo; informal magic bullet, band-aid solution.
-4 the result was a complete fix: fraud, swindle, trick, charade, sham; informal setup, fiddle.
+fiks
+
+▶verb [with object]
+1 [with object] fasten (something) securely in a particular place or position: fix the clamp on a rail 
+the upper jaw of an amphibian is firmly fixed to the skull. 
+• lodge or implant (an idea, image, or memory) firmly in a person's mind: he turned back to fix the scene in his mind.
+2 (fix something on/upon) direct one's eyes, attention, or mind steadily or unwaveringly toward: I fixed my attention on the tower. 
+• [no object] (fix on/upon) (of a person's eyes, attention, or mind) be directed steadily or unwaveringly toward: her gaze fixed on Jess. 
+• attract and hold (a person's attention or gaze): their taut relationship fixes your attention. 
+• (fix someone with) look at someone unwaveringly: she fixed her nephew with an unwavering stare.
+3 mend; repair: you should fix that shelf. 
+• (fix something up) do the necessary work to improve or adapt something: we want to fix up the house before we sell it. 
+• make arrangements for (something); organize: he's sent her on ahead to fix things up 
+I've fixed it for you to see him on Thursday. 
+• informal, chiefly North American restore order or tidiness to (something, especially one's hair, clothes, or makeup): Laura was fixing her hair. 
+• informal, chiefly North American prepare or arrange for the provision of (food or drink): [with two objects] : they were fixing him breakfast 
+Ruth fixed herself a cold drink. 
+• (fix someone up) informal arrange for someone to have something; provide someone with something: I'll fix you up with a room. 
+• (fix someone up) informal arrange for someone to meet or go out with someone in order to help them establish a romantic relationship. 
+• (be fixing to do something) US dialect be intending or planning to do something: you're fixing to get into trouble.
+4 decide or settle on (a specific price, date, course of action, etc.): no date has yet been fixed for a hearing 
+the rent will be fixed at $600 a month 
+[no object] : their thinking then seemed fixed on conventional projects. 
+• discover the exact location of (something) by using radar or visual bearings or astronomical observation: he fixed his position. 
+• settle the form of (a language). 
+• assign or determine (a person's liability or responsibility) for legal purposes: there are no facts that fix the defendant with liability.
+5 make (something) permanent or static in nature: the rate of interest is fixed for the life of the loan. 
+• make (a dye, photographic image, or drawing) permanent. 
+• Biology preserve or stabilize (a specimen) with a chemical substance prior to microscopy or other examination: specimens were fixed in buffered formalin. 
+• (of a plant or microorganism) assimilate (nitrogen or carbon dioxide) by forming a nongaseous compound: lupines fix gaseous nitrogen in their root nodules.
+6 informal influence the outcome of (something, especially a race, contest, or election) by illegal or underhanded means: the foundation denies fixing races. 
+• put (an enemy or rival) out of action, especially by killing them: don't you tell nobody, or I'll fix you good!
+7 [no object] informal take an injection of a narcotic drug.
+8 North American castrate or spay (an animal); neuter. 
+▶noun
+1 [in singular] informal a difficult or awkward situation from which it is hard to extricate oneself; a predicament: how on earth did you get into such a fix?
+2 informal a dose of a narcotic drug to which one is addicted: he hadn't had his fix. 
+• figurative a thing or activity that gives a person a feeling of euphoria or pleasure and that it is difficult to do without: that rush of adrenaline that is the fix of the professional newsman.
+3 a measure taken to resolve a problem or correct a mistake; a solution or remedy: representatives trying to find cheap fixes to meet their obligations 
+the company is working on a fix but suggests users consider technical workarounds in the meantime.
+4 a position determined by visual or radio bearings or astronomical observations.
+5 [in singular] informal a dishonest or underhanded arrangement: obviously, his appointment was a fix. 
 PHRASES
-fixing to are you fixing to start a fight? about to, ready to, all set to, preparing to, getting ready to, intending to, soon to; on the point of, on the verge of, on the brink of. fix up informal we need to get Dolly fixed up with a job: provide, supply, furnish. REFLECTIONS David Auburnfixing to If you grew up in the South, you used this expression a lot, and no other synonymous phrase—not preparing to, not getting ready to or about to —quite conveys the combination of determined intent with a hint of threat, as in, “Look out, I'm fixing to come over there ….”Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+get a fix on determine the position of (something) by visual or radio bearings or astronomical observation. 
+• informal assess or determine the nature or facts of; obtain a clear understanding of: it is hard to get a fix on their ages.DERIVATIVES fixable 
+ˈfiksəbəl 
+adjectiveORIGIN late Middle English: partly from Old French fix ‘fixed,’ partly from medieval Latin fixare ‘to fix,’ both from Latin fixus, past participle of figere ‘fix, fasten.’ The noun dates from the early 19th century.

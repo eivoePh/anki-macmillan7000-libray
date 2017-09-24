@@ -34,16 +34,42 @@ B.  transitive verb[flash back something, flash something back]
 ② colloquial (say immediately) 立刻回答 lìkè huídá flash by, flash past intransitive verb «person, animal, vehicle» 飞奔而过 fēibēn ér guò ; «landscape» 掠过 lüèguo ; «time» 飞逝 fēishì the hours flashed by 时间飞逝 flash up 
 A.  intransitive verb «news, message, image» 闪现 shǎnxiàn 
 B.  transitive verb[flash something up, flash up something] 使…闪现 shǐ… shǎnxiàn ‹news, message, image›
-flash 
+flash
+1 
+flaSH
+
 ▶verb
-1 a torch flashed: light up, shine, flare, blaze, gleam, glint, sparkle, burn; blink, wink, flicker, shimmer, twinkle, glimmer, glisten, scintillate; literary glister, coruscate.
-2 informal he was flashing his money around: show off, flaunt, flourish, display, parade.
-3 informal he flashed at me: expose oneself.
-4 racing cars flashed past: zoom, streak, tear, shoot, dash, dart, fly, whistle, hurtle, careen, rush, bolt, race, speed, career, whiz, whoosh, buzz; informal belt, zap, bomb; barrel.
+1 [no object] (of a light or something that reflects light) shine in a bright but brief, sudden, or intermittent way: the lights started flashing 
+(as adjective flashing) : a police car with a flashing light. 
+• [with object] cause to shine briefly or suddenly: the oncoming car flashed its lights. 
+• [with object] shine or show a light to send (a signal): red lights started to flash a warning. 
+• [with object] give (a swift or sudden look): Carrie flashed a glance in his direction 
+[with two objects] : she flashed him a withering look. 
+• express a sudden burst of emotion, especially anger, with a swift or sudden look: she glared at him, her eyes flashing.
+2 [with object] display (an image, words, or information) suddenly on a television or computer screen or electronic sign, typically briefly or repeatedly: suddenly the screen flashes a message. 
+• [no object] (of an image or message) be displayed briefly or repeatedly on a screen: the election results flashed on the screen. 
+• informal hold up or show (something, often proof of one's identity) quickly before replacing it: she opened her purse and flashed her ID card. 
+• informal make a conspicuous display of (something) so as to impress or attract attention: they all flash their money around. 
+• [no object] (often as noun flashing) informal (especially of a man) show one's genitals briefly in public.
+3 [no object] move or pass very quickly: a look of terror flashed across Kirov's face 
+the scenery flashed by 
+another stray thought flashed through her mind. 
+• [with object] send (news or information) swiftly by means of telegraphy or telecommunications: the story was flashed around the world. 
 ▶noun
-1 a flash of light: flare, blaze, burst; gleam, glint, sparkle, flicker, shimmer, twinkle, glimmer.
-2 a basic uniform with no flashes: emblem, insignia, badge; stripe, bar, chevron, brevet, wings.
-3 a sudden flash of inspiration: burst, outburst, wave, rush, surge, flush.
-▶adjective informal a flash sports car. See flashy. 
+1 a sudden brief burst of bright light or a sudden glint from a reflective surface: the grenade exploded with a yellow flash of light 
+a lightning flash.
+2 a thing that occurs suddenly and within a brief period of time, in particular: 
+• a sudden instance or manifestation of a quality, understanding, or humor: she had a flash of inspiration. 
+• a news flash.
+3 (Flash) Computing, trademark a platform for producing and displaying animation and video in web browsers.
+4 a camera attachment that produces a brief very bright light, used for taking photographs in poor light: an electronic flash 
+if in any doubt, use flash 
+[as modifier] : flash photography.
+5 excess plastic or metal forced between facing surfaces as two halves of a mold close up, forming a thin projection on the finished object. 
+▶adjective informal, chiefly British
+1 (of a thing) ostentatiously expensive, elaborate, or up to date: a flash new car. 
+• (of a person) superficially attractive because stylish and full of brash charm: he was carrying this money around and trying to be flash.
+2 archaic relating to thieves, prostitutes, or the underworld, especially their language. 
 PHRASES
-in/like a flash the police were there in a flash: instantly, suddenly, abruptly, immediately, all of a sudden; quickly, rapidly, swiftly, speedily; in an instant/moment, in a (split) second, in a trice, in the blink of an eye; informal in a jiff, in a jiffy.
+flash in the pan a thing or person whose sudden but brief success is not repeated or repeatable: our start to the season was just a flash in the pan. [with allusion to the priming of a firearm, the flash arising from an explosion of gunpowder from the pan within the lock.] in (or like) a flash very quickly; immediately: she was out of the back door in a flash. (as) quick as a flash (especially of a person's response or reaction) very quickly: quick as a flash, he was at her side.PHRASAL VERBS flash back (of a person's thoughts or mind) briefly and suddenly recall a previous time or incident: her thoughts immediately flashed back to last night. flash over make an electric circuit by sparking across a gap. 
+• (of a fire) spread instantly across a gap because of intense heat.ORIGIN Middle English (in the sense ‘splash water about’): probably imitative; compare with flush1 and splash .

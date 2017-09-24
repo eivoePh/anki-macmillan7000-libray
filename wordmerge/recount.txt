@@ -2,5 +2,10 @@ recount
 1 
 BrE rɪˈkaʊnt, AmE rɪˈkaʊnt 
 transitive verb 详细叙述 xiángxì xùshù ‹story, adventures›
-recount 
-▶verb Gretchen recounted everything she could remember about what happened that night: tell, relate, narrate, give an account of, describe, report, outline, delineate, relay, convey, communicate, impart.
+recount
+1 
+riˈkount
+
+▶verb [reporting verb] tell someone about something; give an account of an event or experience: [with object] : I recounted the tale to Steve 
+[with clause] : he recounts how they often talked of politics. 
+▶noun an act or instance of giving an account of an event or experience: one woman's recount of a prolonged battle with “huge centipedes.” ORIGIN late Middle English: from Old Northern French reconter ‘tell again,’ based on Old French counter (see count1) .

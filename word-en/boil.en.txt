@@ -1,9 +1,30 @@
 boil
 1 
+boil
+
 ▶verb
-1 boil the potatoes: bring to a boil, simmer, parboil, poach; cook.
-2 the soup is boiling: simmer, bubble, stew.
-3 a huge cliff with the sea boiling below: churn, seethe, froth, foam; literary roil.
-▶noun bring the stock to a boil: boiling point, rolling boil.
+1 (with reference to a liquid) reach or cause to reach the temperature at which it bubbles and turns to vapor: [with object] : we tried to get people to boil their drinking water 
+I'll boil up the stock 
+[no object] : he waited for the water to boil. 
+• (with reference to a kettle, pan, or other container) heat or be heated until the liquid inside reaches a temperature at which it bubbles and turns to vapor: [with object] : she boiled the kettle and took down a couple of mugs 
+[no object] : the kettle boiled and he filled the teapot.
+2 [with object] subject (something) to the heat of boiling liquid, in particular: 
+• (with reference to food) cook or be cooked by immersing in boiling water or stock: [with object] : boil the potatoes until well done 
+(as adjective boiled) : two boiled eggs 
+[no object] : make the sauce while the lobsters are boiling. 
+• [no object] (of food) be cooked in boiling water: make the sauce while the lobsters are boiling. 
+• wash or sterilize (clothes) in very hot water. 
+• historical execute (someone) by subjecting them to the heat of boiling liquid.
+3 [no object] (of the sea or clouds) be turbulent and stormy: a huge cliff with the black sea boiling below. 
+• (of a person or strong emotion) be stirred up or inflamed: he was boiling with rage. 
+▶noun
+1 [in singular] the temperature at which a liquid bubbles and turns to vapor: stir in cream and bring to a boil. 
+• an act or process of heating a liquid to the temperature at which it bubbles and turns to vapor. 
+• a state of vigorous activity or excitement. 
+• an area of churning water: massive current differentials, boils, and braided channels. 
+• Fishing a sudden rise of a fish at a fly.
+2 US an outdoor meal at which seafood is boiled: everything for a traditional Louisiana seafood boil can be carried down to the beach. 
+• a blend of seasonings added to water to enhance the flavor of boiled seafood. 
 PHRASES
-boil something down you have to boil down a lot of tomatoes to make just a few tablespoons of tomato paste: condense, reduce, concentrate, distill, thicken, compress. boil down to it all boils down to how much money you're willing to spend: come down to, amount to, add up to, be in essence.
+keep the pot boiling maintain the momentum or interest value of something. make one's blood boil see blood. PHRASAL VERBS boil down to be in essence a matter of: everything boiled down to cash in the end. boil something down reduce the volume of a liquid by boiling: they boil down the syrup until it is very thick. boil over (of a liquid) flow over the sides of the container in boiling. 
+• (of a situation or strong emotion) become so excited or tense as to get out of control: one woman's anger boiled over.ORIGIN Middle English: from Old French boillir, from Latin bullire ‘to bubble,’ from bulla ‘bubble.’

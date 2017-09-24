@@ -1,21 +1,38 @@
 bad 
-▶adjective
-1 bad workmanship: substandard, poor, inferior, second-rate, second-class, unsatisfactory, inadequate, unacceptable, not up to scratch, not up to par, deficient, imperfect, defective, faulty, shoddy, amateurish, careless, negligent, miserable, sorry; incompetent, inept, inexpert, ineffectual; awful, atrocious, appalling, execrable, deplorable, terrible, abysmal; informal crummy, rotten, godawful, pathetic, useless, woeful, bum, lousy, not up to snuff. ANTONYMS good, excellent, skilled.
-2 the alcohol had a really bad effect on me: harmful, damaging, detrimental, injurious, hurtful, inimical, destructive, ruinous, deleterious; unhealthy, unwholesome. ANTONYMS good, beneficial.
-3 the bad guys: wicked, evil, sinful, immoral, morally wrong, corrupt, base, black-hearted, reprobate, amoral; criminal, villainous, nefarious, iniquitous, dishonest, dishonorable, unscrupulous, unprincipled; informal crooked, dirty; dated dastardly. ANTONYMS virtuous.
-4 you bad girl! badly behaved, naughty, ill-behaved, disobedient, wayward, willful, self-willed, defiant, unruly, insubordinate, undisciplined. ANTONYMS well behaved.
-5 bad news: unpleasant, disagreeable, unwelcome; unfortunate, unlucky, unfavorable; terrible, dreadful, awful, grim, distressing. ANTONYMS good.
-6 a bad time to arrive: inauspicious, unfavorable, inopportune, unpropitious, unfortunate, disadvantageous, adverse, inappropriate, unsuitable, untoward. ANTONYMS good, auspicious.
-7 a bad accident: severe, serious, grave, critical, acute; formal grievous. ANTONYMS minor, slight.
-8 the meat's bad: rotten, decayed, decomposed, decomposing, putrid, putrefied, off, moldy; sour, spoiled, rancid, rank, unfit for human consumption; (of an egg) addled; (of beer) skunky. ANTONYMS fresh.
-9 if you still feel bad, stay in bed. See ill (sense
-1 of the adjective).
-10 a bad knee: injured, wounded, diseased; dated game.
-11 I felt bad about leaving them: guilty, conscience-stricken, remorseful, guilt-ridden, ashamed, contrite, sorry, full of regret, regretful, shamefaced. ANTONYMS unrepentant.
-12 a bad check: invalid, worthless; counterfeit, fake, false, bogus, fraudulent; informal phony, dud. ANTONYMS valid.
-13 bad language: offensive, vulgar, crude, foul, obscene, rude, coarse, smutty, dirty, filthy, indecent, indecorous; blasphemous, profane.
+bad
+
+▶adjective (worse 
+wərs
+; worst 
+wərst
+)
+1 of poor quality or a low standard: a bad diet 
+bad eyesight. 
+• (of a person) not able to do a particular thing well: I'm so bad at names 
+a bad listener. 
+• not appropriate in a particular situation: morning was a bad time to ask Andy about anything.
+2 not such as to be hoped for or desired; unpleasant or unwelcome: bad weather 
+we had the worst luck. 
+• (of something causing pain, danger, or other unwelcome consequences) severe or serious: bad headaches 
+a bad crash 
+a bad mistake. 
+• unfavorable; adverse: bad reviews. 
+• (bad for) having a harmful effect on: soap was bad for his face.
+3 failing to conform to standards of moral virtue or acceptable conduct: the bad guys 
+bad behavior. 
+• (of language) using words generally considered offensive; vulgar.
+4 (of a part of the body) injured, diseased, or painful: a bad back. 
+• [as complement] (of a person) unwell: I tried medication but felt even worse the next morning.
+5 (of food) decayed; putrid: everything in the fridge went bad. 
+• (of the atmosphere) polluted; unhealthy: bad air.
+6 [as complement] regretful, guilty, or ashamed about something: she feels bad about ending their engagement 
+I feel bad that our business is benefiting from something so horrible.
+7 worthless; not valid: he ran up 87 bad checks.
+8 (badder, baddest) informal, chiefly North American good; excellent: they want the baddest, best-looking Corvette there is. 
+▶adverb North American informal badly: he beat her up real bad. 
 PHRASES
-not bad hey, this curried octopus is not bad 
-the movie's not bad, but the book's much better: all right, adequate, good enough, pretty good, reasonable, fair, decent, average, tolerable, acceptable, passable, middling, moderate, fine; informal OK, so-so, 'comme ci, comme ça', fair-to-middling, satisfactory. 
-USAGE
-bad Confusion in the use of bad versus badly usually has to do with verbs called copulas, such as feel or seem. Thus, standard usage calls for I feel bad, not I feel badly. As a precise speaker or writer would explain, I feel badly means ‘I do not have a good sense of touch.’.Usage notes show additional guidance on finer points of English usage.
+come to a bad end see end. from bad to worse into an even worse state: the country's going from bad to worse. in a bad way ill: Sammy shivered. He was in a bad way. 
+• in trouble: the fleet was in a bad way, mainly due to a shortage of spares. my bad North American informal used to acknowledge responsibility for a mistake: Sorry about the confusion. It's my bad. not (or not so) bad informal fairly good: she discovered he wasn't so bad after all. to the bad to ruin: I hate to see you going to the bad. 
+• in deficit: he was $80 to the bad. too bad informal used to indicate that something is regrettable but now beyond retrieval: too bad, but that's the way it is.DERIVATIVES baddish 
+ˈbadiSH 
+adjectiveORIGIN Middle English: perhaps representing Old English bǣddel ‘hermaphrodite, womanish man.’ usage: Confusion in the use of bad versus badly usually has to do with verbs called copulas, such as feel or seem. Thus, standard usage calls for I feel bad, not I feel badly. As a precise speaker or writer would explain, I feel badly means ‘I do not have a good sense of touch.’ See also usage at good .

@@ -8,5 +8,14 @@ B.  intransitive verb
 ① (stop) 暂停 zàntíng she paused and then went on in a quiet voice 她停顿了一下，然后平静地继续说 to pause in [something]; 暂停做某事 to pause for breath 停下来歇口气 
 ② (hesitate, wait) 犹豫 yóuyù to pause over [something]; 在某物前驻足 
 pause 
-▶noun a pause in the conversation: stop, cessation, break, halt, interruption, check, lull, respite, breathing space, discontinuation, hiatus, gap, interlude; adjournment, suspension, rest, wait, hesitation; informal letup, breather.
-▶verb Hannah paused for a moment: stop, cease, halt, discontinue, break off, take a break; adjourn, rest, wait, hesitate, falter, waver; informal take a breather, take five.
+pôz
+
+▶verb [no object] interrupt action or speech briefly: she paused, at a loss for words. 
+• [with object] temporarily interrupt the operation of (a videotape, audiotape, or computer program): she had paused a tape on the VC
+R.  
+▶noun a temporary stop in action or speech: she dropped me outside during a brief pause in the rain 
+the admiral chattered away without pause. 
+• Music a mark over a note or rest that is to be lengthened by an unspecified amount; a fermata. 
+• (also pause button) a control allowing the temporary interruption of an electronic (or mechanical) process, especially video or audio recording or reproduction. 
+PHRASES
+give someone pause cause someone to think carefully or hesitate before doing something: public outrage has given him pause.ORIGIN late Middle English: from Old French, from Latin pausa, from Greek pausis, from pausein ‘to stop.’

@@ -12,12 +12,23 @@ C.  intransitive verb 击剑 jījiàn PHRASAL VERBS fence in transitive verb
 ① [fence something in, fence in something] (surround) 把…用栅栏围起来 bǎ… yòng zhàlan wéi qilai ‹land, monument›
 ② [fence somebody/something in] literal 使…无法挪动 shǐ… wúfǎ nuódòng ‹person, car›; figurative (restrict) 限制 xiànzhì fence off transitive verb[fence something off, fence off something] 把…用栅栏隔开 bǎ… yòng zhàlan gékāi 
 fence 
+fens
+
 ▶noun
-1 a gap in the fence: barrier, fencing, enclosure, barricade, stockade, palisade, fenceline; railing.
-2 informal a fence dealing mainly in jewelry: receiver (of stolen goods), dealer.
+1 a barrier, railing, or other upright structure, typically of wood or wire, enclosing an area of ground to mark a boundary, control access, or prevent escape. 
+• a large upright obstacle used in equestrian jumping events.
+2 a guard or guide on a plane, saw, or other tool.
+3 informal a person who deals in stolen goods. 
 ▶verb
-1 they fenced off many acres: enclose, surround, circumscribe, encircle, circle, encompass; archaic compass.
-2 he fenced in his chickens: confine, pen in, coop up, shut in/up, separate off; enclose, surround, corral.
-3 she fences as a hobby: sword-fight; duel.
+1 [with object] surround or protect with a fence: our garden was not fully fenced. 
+• (fence something in/off) enclose or separate with a fence for protection or to prevent escape: everything is fenced in to keep out the wolves. 
+• (fence someone/something out) use a barrier to exclude someone or something: Idaho law requires people to fence out cows.
+2 [with object] informal deal in (stolen goods): after stealing your ring, he didn't even know how to fence it.
+3 [no object] fight with swords, especially as a sport. See also fencing. 
+• conduct a discussion or argument in such a way as to avoid the direct mention of something: we were fencing, not talking about the subject we'd come to talk about. 
 PHRASES
-(sitting) on the fence informal voters tend to shy away from candidates who are on the fence: undecided, uncommitted, uncertain, unsure, vacillating, wavering, dithering, hesitant, doubtful, ambivalent, of two minds, in a quandary, hemming and hawing, wishy-washy; neutral, impartial, nonpartisan.
+mend (one's) fences see mend. side of the fence either of the opposing positions involved in a conflict: whatever side of the fence you are on, the issue is here to stay. sit on the fence avoid making a decision or choice.DERIVATIVES fenceless 
+ˈfensləs 
+adjective. fencer 
+ˈfensər 
+nounORIGIN Middle English (in the sense ‘defending, defence’): shortening of defence. Compare with fend .

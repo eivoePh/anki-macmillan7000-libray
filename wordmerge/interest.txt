@@ -15,17 +15,27 @@ C.  transitive verb
 ② (arouse curiosity or desire in) 使愿意参与 shǐ yuànyì cānyù can I interest you in our latest computer? 我向您介绍一下我们最新的计算机好吗？ I tried to interest him in helping with the preparations 我试图让他来帮忙做准备工作 
 ③ formal (cause to give attention) 使关心 shǐ guānxīn the future of endangered species interests us all 我们大家都很关注濒危物种的未来 
 interest 
+ˈint(ə)rəst
+
 ▶noun
-1 we listened with interest: attentiveness, attention, absorption; heed, regard, notice; curiosity, inquisitiveness; enjoyment, delight, enthusiasm. ANTONYMS boredom.
-2 places of interest: attraction, appeal, fascination, charm, beauty, allure. ANTONYMS repulsion.
-3 this will be of interest to those involved: concern, consequence, importance, import, significance, note, relevance, value, weight; formal moment. ANTONYMS irrelevance.
-4 her interests include reading: hobby, pastime, leisure pursuit, recreation, diversion, amusement; passion, enthusiasm; informal thing, bag, cup of tea.
-5 a financial interest in the firm: stake, share, claim, investment, stock, equity; involvement, concern.
-6 what is your interest in the case? involvement, partiality, partisanship, preference, loyalty; bias, prejudice.
-7 his attorney guarded his interests: concern, business, affair.
-8 her savings earned interest: dividends, profits, returns; a percentage.
-▶verb
-1 a topic that interests you: appeal to, be of interest to, attract, intrigue, fascinate; absorb, engross, rivet, grip, captivate; amuse, divert, entertain; arouse one's curiosity, whet one's appetite; informal float someone's boat, tickle someone's fancy. ANTONYMS bore.
-2 can I interest you in a drink? persuade to have, tempt to have; sell.
+1 the state of wanting to know or learn about something or someone: she looked about her with interest. 
+• (an interest in) a feeling of wanting to know or learn about (something): he developed an interest in art. 
+• the quality of exciting curiosity or holding the attention: a tale full of interest. 
+• a subject about which one is concerned or enthusiastic: my particular interest is twentieth-century poetry.
+2 money paid regularly at a particular rate for the use of money lent, or for delaying the repayment of a debt: the monthly rate of interest 
+[as modifier] : interest payments.
+3 the advantage or benefit of a person or group: the merger is not contrary to the public interest 
+we are acting in the best interests of our customers. 
+• archaic the selfish pursuit of one's own welfare; self-interest.
+4 a stake, share, or involvement in an undertaking, especially a financial one: holders of voting rights must disclose their interests 
+he must have no personal interest in the outcome of the case. 
+• a legal concern, title, or right in property: third parties having an interest in a building.
+5 (usually interests) a group or organization having a specified common concern, especially in politics or business: the regulation of national interests in India, Brazil, and Africa. 
+▶verb [with object] excite the curiosity or attention of (someone): I thought the book might interest Eric. 
+• (interest someone in) cause someone to undertake or acquire (something): efforts were made to interest her in a purchase. 
 PHRASES
-in someone's best interests there was bitter disagreement over which treatment would be in their father's best interests: of (the most) benefit to, to the advantage of; for the sake of, for the benefit of.
+declare an (or one's) interest make known one's financial interests in an undertaking before it is discussed. in the interests (or interest) of something for the benefit of: in the interests of security we are keeping the information confidential. of interest interesting: much of it is of interest to historians. with interest with interest charged or paid: loans that must be paid back with interest. 
+• (of an action) reciprocated with more force or vigor than the original one: he may have a reputation for getting even, with interest.ORIGIN late Middle English (originally as interess): from Anglo-Norman French interesse, from Latin interesse ‘differ, be important,’ from inter- ‘between’ + esse ‘be.’ The -t was added partly by association with Old French interest ‘damage, loss,’ apparently from Latin interest ‘it is important.’ The original sense was ‘the possession of a share in or a right to something’; hence sense
+4 of the noun. Sense
+1 of the noun and the verb arose in the 18th century sense
+2 of the noun was influenced by medieval Latin interesse ‘compensation for a debtor's defaulting.’

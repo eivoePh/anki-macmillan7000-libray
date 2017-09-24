@@ -1,21 +1,42 @@
 charge 
-▶verb
-1 he didn't charge much: ask in payment, ask, levy, demand, want, exact; bill, invoice.
-2 the subscription will be charged to your account: bill, debit from, take from.
-3 two men were charged with theft: accuse of, indict for, arraign for, arraign on a charge of; prosecute for, try for, put on trial for, inculpate for.
-4 they charged him with reforming the system: entrust, burden, encumber, saddle, tax.
-5 the cavalry charged the tanks: attack, storm, assault, assail, fall on, swoop on, descend on; informal lay into, tear into.
-6 we charged into the crowd: rush, storm, stampede, push, plow, launch oneself, go headlong, steam, barrel, zoom.
-7 his work was charged with energy: suffuse, pervade, permeate, saturate, infuse, imbue, load, fill.
-8 I charge you to stop: order, command, direct, instruct, enjoin; formal adjure; literary bid.
+CHärj
+
+▶verb [with object]
+1 demand (an amount) as a price from someone for a service rendered or goods supplied: the restaurant charged $15 for dinner 
+[with two objects] : he charged me
+2 euros for the postcard 
+[no object] : museums should charge for admission. 
+• (charge something to) record the cost of something as an amount payable by (someone) or on (an account): they charge the calls to their credit-card accounts.
+2 accuse (someone) of something, especially an offense under law: they were charged with assault. 
+• [with clause] make an accusation or assertion that: opponents charged that below-cost pricing would reduce safety. 
+• Law accuse someone of (an offense).
+3 entrust (someone) with a task as a duty or responsibility: the committee was charged with reshaping the educational system.
+4 store electrical energy in (a battery or battery-operated device): the shaver can be charged up and used while traveling. 
+• [no object] (of a battery or battery-operated device) receive and store electrical energy. 
+• load or fill (a container, gun, etc.) to the full or proper extent: will you see to it that your glasses are charged? 
+• fill or pervade (something) with a quality or emotion: the air was charged with menace.
+5 [no object] rush forward in attack: the plan is to charge headlong at the enemy. 
+• rush aggressively toward (someone or something) in attack. 
+• [with adverbial of direction] move quickly and with impetus: Henry charged up the staircase.
+6 Heraldry place a heraldic bearing on: a pennant argent, charged with a cross gules. 
 ▶noun
-1 all customers pay a charge: fee, payment, price, tariff, amount, sum, fare, levy.
-2 he pleaded guilty to the charge: accusation, allegation, indictment, arraignment.
-3 an infantry charge: attack, assault, offensive, onslaught, drive, push, thrust.
-4 the child was in her charge: care, protection, safekeeping, control; custody, guardianship, wardship; hands.
-5 his charge was to save the business: duty, responsibility, task, job, assignment, mission, function; informal marching orders.
-6 the safety of my charge: ward, protégé, dependent.
-7 the judge gave a careful charge to the jury: instruction, direction, directive, order, command, dictate, exhortation.
-8 informal I get a real charge out of working hard: thrill, tingle, glow; excitement, stimulation, enjoyment, pleasure; informal kick, buzz, rush.
+1 a price asked for goods or services: an admission charge. 
+• a financial liability or commitment: an asset of $550,000 should have been taken as a charge on earnings.
+2 an accusation, typically one formally made against a prisoner brought to trial: he appeared in court on a charge of attempted murder 
+three people were arrested but released without charge.
+3 the responsibility of taking care or control of someone or something: the people in her charge are pupils and not experimental subjects. 
+• a person or thing entrusted to the care of someone: the babysitter watched over her charges. 
+• dated a responsibility or onerous duty assigned to someone. 
+• an official instruction, especially one given by a judge to a jury regarding points of law.
+4 the property of matter that is responsible for electrical phenomena, existing in a positive or negative form. 
+• the quantity of matter responsible for electrical phenomena carried by a body. 
+• energy stored chemically for conversion into electricity. 
+• an act or process of storing electrical energy in a battery. 
+• [in singular] informal a thrill: I get a real charge out of working hard.
+5 a quantity of explosive to be detonated, typically in order to fire a gun or similar weapon.
+6 a headlong rush forward, typically one made by attacking soldiers in battle: a cavalry charge.
+7 Heraldry a device or bearing placed on a shield or crest. 
 PHRASES
-in charge of I'm in charge of museum security: responsible for, in control of, in command of, at the helm/wheel of; managing, running, administering, directing, supervising, overseeing, controlling. CHOOSE THE RIGHT WORD See attack .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.REFLECTIONS Joshua Ferrischarge It looks dull but it’s wonderfully diverse. The noun form alone contains sixteen definitions, according to the Oxford English Dictionary, among them these two: that of a duty, or responsibility (Cara’s main charge was to raise the two boys properly); and that of an accusation (Cara was charged with two counts of infanticide). In the first instance, the subject is elected; in the second, damned. Like John Gardner’s distinction that all fiction falls into one of two categories (the hero goes on a quest or a stranger comes to town), the word charge neatly situates fiction into the elected or the damned. The best fiction does both. Dante is charged with touring hell, to survey the diverse and sundry charged; Humbert Humbert’s charge leads to the damnable charges of which he is clearly guilty; Hamlet charges himself with inaction, cowardice, and insanity until at last he executes his charge.Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+free of charge without any payment due. in charge in control or with overall responsibility: he was in charge of civil aviation matters. press (or prefer) charges accuse someone formally of a crime so that they can be brought to trial. take charge assume control or responsibility: the candidate must take charge of an actual flight.DERIVATIVES chargeable 
+ˈCHärjəb(ə)l 
+adjective. chargee nounORIGIN Middle English (in the general senses ‘to load’ and ‘a load’): from Old French charger (verb), charge (noun), from late Latin carricare, carcare ‘to load,’ from Latin carrus ‘wheeled vehicle.’

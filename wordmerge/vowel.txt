@@ -4,7 +4,9 @@ noun
 ① Linguistics 元音 yuányīn a vowel symbol 元音符号 a vowel shift 元音演变 
 ② (letter) 元音字母 yuányīn zìmǔ 
 vowel 
-BrE ˈvaʊəl, AmE ˈvaʊ(ə)l 
-noun 
-① Linguistics 元音 yuányīn a vowel symbol 元音符号 a vowel shift 元音演变 
-② (letter) 元音字母 yuányīn zìmǔ 
+ˈvou(ə)l
+
+▶noun a speech sound that is produced by comparatively open configuration of the vocal tract, with vibration of the vocal cords but without audible friction and is a unit of the sound system of a language that forms the nucleus of a syllable. Contrasted with consonant. 
+• a letter representing a vowel sound, such as a, e, i, o, u. DERIVATIVES voweled 
+ˈvou(ə)ld 
+(British vowelled) adjective [usually in combination] . vowelless adjectiveORIGIN Middle English: from Old French vouel, from Latin vocalis (littera)‘vocal (letter).’

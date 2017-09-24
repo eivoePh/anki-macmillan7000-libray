@@ -1,5 +1,7 @@
 recruitment 
-BrE rɪˈkruːtm(ə)nt, AmE rəˈkrutmənt 
-nounUncountable
-① (to armed forces) 征兵 zhēngbīng ; (to police) 招募警员 zhāomù jǐngyuán 
-② (to company, department) 招聘新员工 zhāopìn xīn yuángōng (to club, party) 招收新成员 zhāoshōu xīn chéngyuán (to society, sect) 吸纳新人 xīnà xīnrén 
+rəˈkro͞otmənt
+
+▶noun the action of enlisting new people in the armed forces. 
+• the action of finding new people to join an organization or support a cause: the recruitment of nurses. 
+• Ecology the increase in a natural population as progeny grow and immigrants arrive. 
+• Physiology the incorporation into a tissue or region of cells from elsewhere in the body.

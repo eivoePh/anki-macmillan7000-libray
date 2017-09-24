@@ -1,8 +1,4 @@
-bomb 
-▶noun
-1 they saw bombs bursting on the runway: explosive, incendiary (device); missile, projectile; dated blockbuster, bombshell.
-2 countries with the bomb: nuclear weapons, nuclear bombs, atom bombs, A-bombs.
-3 informal their next film was a bomb: failure, megaflop, fiasco, loss-maker, debacle; informal flop, washout, bust, dud, turkey, dog, lemon, no-hoper, nonstarter, dead loss, clunker.
-▶verb
-1 their headquarters were bombed: bombard, blast, shell, blitz, strafe, pound; attack, assault; blow up, destroy, demolish, flatten, devastate.
-2 informal the show bombed at the box office: fail, flop, fall flat, founder.
+bombing 
+ˈbɒmɪŋ
+
+▶noun an act or instance of dropping or detonating a bomb somewhere: a series of terrorist bombings.

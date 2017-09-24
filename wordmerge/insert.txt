@@ -7,7 +7,19 @@ noun
 ② 
 ② (in dress, shoe) 嵌饰 qiànshì 
 insert 
-▶verb
-1 he inserted a tape in the machine: put, place, push, thrust, slide, slip, load, fit, slot, lodge, install; informal pop, stick. ANTONYMS extract, take out.
-2 she inserted a clause: enter, introduce, add, incorporate, interpolate, interpose, interject. ANTONYMS remove.
-▶noun the newspaper carried an insert: enclosure, insertion, supplement; circular, advertisement, pamphlet, leaflet; informal ad.
+▶verb 
+inˈsərt 
+[with object]
+1 place, fit, or thrust (something) into another thing, especially with care: a steel rod was inserted into the small hole 
+he pulled out a small cassette recorder and inserted a new tape. 
+• add (text) to a piece of writing: he immediately inserted a clause into later contracts 
+the objection has been inserted in the minutes. 
+• place (a spacecraft or satellite) into an orbit or trajectory: he inserted the ship into equatorial orbit. 
+• Biology incorporate (a piece of genetic material) into a chromosome.
+2 (be inserted) Anatomy & Zoology (of a muscle or other organ) be attached to a part, especially that which is moved: the muscle that raises the wing is inserted on the dorsal surface of the humerus. 
+▶noun 
+ˈinˌsərt 
+a thing that has been inserted, in particular: 
+• a loose page or section, typically one carrying an advertisement, in a magazine or other publication. 
+• an ornamental section of cloth or needlework inserted into the plain material of a garment. 
+• a shot inserted into a movie or video. DERIVATIVES insertable adjective. inserter nounORIGIN late 15th century (in the sense ‘include (text) in a piece of writing’): from Latin insert- ‘put in,’ from the verb inserere, from in- ‘into’ + serere ‘to join.’

@@ -1,8 +1,13 @@
 corn
 1 
-BrE kɔːn, AmE kɔrn 
-nounUncountable
-① BrE (wheat) 小麦 xiǎomài an ear of corn 一穗麦 
-② AmE, Australian (maize) 玉米 yùmǐ 
-③ (seed) 谷粒 gǔlì 
-④ colloquial pejorative (in book, film, etc.) (hackneyed) 老掉牙的东西 lǎodiàoyá de dōngxi (sentimental) 令人伤感的东西 lìng rén shānggǎn de dōngxi 
+kôrn
+
+▶noun
+1 a North American cereal plant that yields large grains, or kernels, set in rows on a cob. Its many varieties yield numerous products, highly valued for both human and livestock consumption. corn1
+1 Also called Indian corn. [Zea mays, family Gramineae; it was domesticated before 5000 bc, although the wild ancestor is unidentified.] 
+• the grains of this: creamed corn 
+two ears of corn. 
+• British the chief cereal crop of a district, especially (in England) wheat or (in Scotland) oats.
+2 informal something banal or sentimental: the movie is pure corn. 
+PHRASES
+corn on the cob corn when cooked and eaten straight from the cob; an ear of corn.ORIGIN Old English, of Germanic origin; related to Dutch koren and German Korn .

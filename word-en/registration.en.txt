@@ -1,7 +1,8 @@
 registration 
-BrE rɛdʒɪˈstreɪʃ(ə)n, AmE ˌrɛdʒəˈstreɪʃ(ə)n 
-noun 
-① Uncountable(of person, birth, marriage, firearm) 登记 dēngjì (of student, trademark, patent, company) 注册 zhùcè gun/voter registration 枪支/选民登记 land registration 土地注册 registration for; …的登记 ‹work, tax, shares›the registration of students for a course 学生的选课登记 
-② Countable(entry) 登记项目 dēngjì xiàngmù a registration for …的登记项目 ‹work, tax, shares›we have had a lot of registrations for the French class 我们这儿有很多人注册法语班 
-③ Countable BrE Auto (number) 车牌号码 chēpái hàomǎ 
-④ Countable AmE Auto (document) 行车执照 xíngchē zhízhào 
+ˌrejəˈstrāSH(ə)n
+
+▶noun
+1 the action or process of registering or of being registered: the registration of births, marriages, and deaths 
+the number of new private car registrations has increased. 
+• a certificate that attests to the registering of a person, automobile, etc.
+2 Music a combination of stops used when playing the organ. ORIGIN mid 16th century: from medieval Latin registratio(n-), based on Latin regerere ‘enter, record’ (see register) .

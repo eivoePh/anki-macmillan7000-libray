@@ -2,8 +2,14 @@ concluding
 BrE kənˈkluːdɪŋ, AmE kənˈkludɪŋ 
 adjectiveattributive 最后的 zuìhòu de ‹moment, episode, musical note›
 conclude 
+kənˈklo͞od
+
 ▶verb
-1 the meeting concluded at ten: finish, end, draw to a close, be over, stop, cease. ANTONYMS commence, start, begin.
-2 she concluded the press conference: bring to an end, close, wind up, terminate, dissolve; informal wrap up. ANTONYMS open, start, begin.
-3 an attempt to conclude a ceasefire: negotiate, broker, agree, come to terms on, settle, clinch, finalize, tie up; bring about, arrange, effect, engineer; informal sew up.
-4 I concluded that he was rather unpleasant: deduce, infer, gather, judge, decide, conjecture, surmise, extrapolate, figure, reckon.
+1 [with object] bring (something) to an end: they conclude their study with these words 
+[no object] : we concluded by singing carols. 
+• [no object] come to an end: the talk concluded with slides. 
+• formally and finally settle or arrange (a treaty or agreement): an attempt to conclude a ceasefire.
+2 arrive at a judgment or opinion by reasoning: the doctors concluded that Esther had suffered a stroke 
+what do you conclude from all this? 
+• say in conclusion: “It's a wicked old world,” she concluded. 
+• [with infinitive] US dated decide to do something: I concluded to go without his knowledge. ORIGIN Middle English (in the sense ‘convince’): from Latin concludere, from con- ‘completely’ + claudere ‘to shut.’

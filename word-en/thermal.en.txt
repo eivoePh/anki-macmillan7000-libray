@@ -1,8 +1,11 @@
 thermal 
-BrE ˈθəːm(ə)l, AmE ˈθərməl 
-A. adjective 
-① (relating to heat) 热的 rè de thermal energy 热能 a thermal power station 热电站 
-② = geothermal 
-③ (retaining heat) 保暖的 bǎonuǎn de ‹garment, underwear›
-B.  noun 上升热气流 shàngshēng rèqìliú 
-C.  thermals noun plural 保暖内衣 bǎonuǎn nèiyī 
+ˈTHərməl
+
+▶adjective relating to heat. 
+• another term for geothermal. 
+• (of a garment) made of a fabric that provides exceptional insulation to keep the body warm: thermal underwear. 
+▶noun
+1 an upward current of warm air, used by gliders, balloons, and birds to gain height.
+2 (usually thermals) a thermal garment, especially underwear. DERIVATIVES thermally 
+ˈTHərməlē 
+adverbORIGIN mid 18th century (in the sense ‘relating to hot springs’): from French, from Greek thermē ‘heat.’

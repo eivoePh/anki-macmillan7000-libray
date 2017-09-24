@@ -1,4 +1,7 @@
 exert 
-▶verb
-1 he exerted considerable pressure on me: bring to bear, apply, exercise, employ, use, utilize, deploy.
-2 Geoff had been exerting himself : strive, try hard, make an/every effort, endeavor, do one's best, do one's utmost, give one's all, push oneself, drive oneself, work hard; informal go all out, pull out all the stops, bend/lean over backwards, do one's damnedest, do one's darnedest, move heaven and earth, bust one's chops.
+iɡˈzərt
+
+▶verb [with object]
+1 apply or bring to bear (a force, influence, or quality): the moon exerts a force on the Earth 
+exerting influence over the next generation.
+2 (exert oneself) make a physical or mental effort: he needs to exert himself to try to find an answer. ORIGIN mid 17th century (in the sense ‘perform, practice’): from Latin exserere ‘put forth,’ from ex- ‘out’ + serere ‘bind.’

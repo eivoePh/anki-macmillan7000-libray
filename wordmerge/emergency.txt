@@ -5,10 +5,10 @@ nounUncountable and countable
 ② Politics 紧急状态 jǐnjí zhuàngtài to declare a state of emergency 宣布进入紧急状态 
 ③ (hospital case) 急症 jízhèng an emergency operation 急诊手术 jízhěn shǒushù 
 emergency 
-▶noun
-1 a military emergency: crisis, urgent situation, extremity, exigency; accident, disaster, catastrophe, calamity; difficulty, plight, predicament, danger.
-2 get her down to emergency right away: emergency room, E
-R. 
-▶adjective
-1 an emergency meeting: urgent, crisis; impromptu, extraordinary.
-2 emergency supplies: reserve, standby, backup, fallback, in reserve.
+əˈmərjənsē
+
+▶noun (plural emergencies) a serious, unexpected, and often dangerous situation requiring immediate action: your quick response in an emergency could be a lifesaver 
+times of emergency. 
+• [as modifier] arising from or needed or used in an emergency: an emergency exit. 
+• a person with a medical condition requiring immediate treatment. 
+• North American short for emergency room: he was rushed into emergency. ORIGIN mid 17th century: from medieval Latin emergentia, from Latin emergere ‘arise, bring to light’ (see emerge) .

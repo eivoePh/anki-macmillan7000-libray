@@ -1,4 +1,17 @@
 zero 
-▶noun I rated my chances at zero: nothing, nothing at all, nil, none, naught/nought; informal zilch, nix, zip, nada, diddly-squat.
-PHRASES
-zero in on each study group will zero in on a different aspect of the ecosystem: focus on, focus attention on, center on, concentrate on, home in on, fix on, pinpoint, highlight, spotlight; informal zoom in on.
+ˈzirō ˈzēˌrō
+
+▶cardinal number (plural zeros) no quantity or number; naught; the figure 0: figures from zero to nine 
+you've left off a zero—it should be five hundred million. 
+• a point on a scale or instrument from which a positive or negative quantity is reckoned: the gauge dropped to zero 
+[as adjective] : a zero rate of interest. 
+• the temperature corresponding to 0° on the Celsius scale (32° Fahrenheit), marking the freezing point of water: the temperature was below zero. 
+• the temperature corresponding to 0° on the Fahrenheit scale (approximately minus 18° Celsius), considered a very cold temperature, especially for outdoor activities: thirty below zero! See also subzero. 
+• [usually as adjective] Linguistics the absence of an actual word or morpheme to realize a syntactic or morphological phenomenon: the zero plural in “three sheep.” 
+• the lowest possible amount or level; nothing at all: I rated my chances as zero. 
+• short for zero hour. 
+• informal a worthless or contemptibly undistinguished person: her husband is an absolute zero. 
+▶verb (zeroes, zeroing, zeroed) [with object]
+1 adjust (an instrument) to zero: zero the counter when the tape has rewound.
+2 set the sights of (a gun) for firing. PHRASAL VERBS zero in take aim with a gun or missile: jet fighters zeroed in on the rebel positions. 
+• focus one's attention: they zeroed in on the clues he gave away about. zero out phase out or reduce to zero: the bill would zero out capital gains taxes.ORIGIN early 17th century: from French zéro or Italian zero, via Old Spanish from Arabic ṣifr ‘cipher.’

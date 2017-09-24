@@ -1,4 +1,8 @@
 transcript 
-▶noun
-1 a radio transcript: written version, printed version, script, text, transliteration, record, reproduction.
-2 university transcript: student record, grades, report card.
+ˈtran(t)skript
+
+▶noun a written or printed version of material originally presented in another medium. 
+• Biochemistry a length of RNA or DNA that has been transcribed respectively from a DNA or RNA template. 
+• an official record of a student's work, showing courses taken and grades achieved. DERIVATIVES transcriptive 
+ˌtranˈskriptiv 
+adjectiveORIGIN Middle English: from Old French transcrit, from Latin transcriptum, neuter past participle of transcribere (see transcribe). The spelling change in the 15th century was due to association with the Latin.

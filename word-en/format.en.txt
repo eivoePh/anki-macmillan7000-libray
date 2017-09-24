@@ -1,2 +1,9 @@
 format 
-▶noun the journal's new format: design, style, presentation, appearance, look; form, shape, size; arrangement, plan, structure, scheme, composition, configuration.
+ˈfôrˌmat
+
+▶noun the way in which something is arranged or set out: the format of the funeral service. 
+• the shape, size, and presentation of a book or periodical. 
+• the medium in which a sound recording is made available: the album is available as a CD as well as on LP and cassette formats. 
+• Computing a defined structure for the processing, storage, or display of data: a data file in binary format. 
+▶verb (formats, formatting, formatted) [with object] (especially in computing) arrange or put into a format. 
+• prepare (a storage medium) to receive data. ORIGIN mid 19th century: via French and German from Latin formatus (liber)‘shaped (book),’ past participle of formare ‘to form.’

@@ -2,5 +2,9 @@ spreadsheet
 BrE ˈsprɛdʃiːt, AmE ˈsprɛdˌʃit 
 noun 电子表格程序 diànzǐ biǎogé chéngxù 
 spreadsheet 
-BrE ˈsprɛdʃiːt, AmE ˈsprɛdˌʃit 
-noun 电子表格程序 diànzǐ biǎogé chéngxù 
+ˈspredˌSHēt
+
+▶noun an electronic document in which data is arranged in the rows and columns of a grid and can be manipulated and used in calculations: we have a color-coded Excel spreadsheet of all of our trip expenses 
+William spent most of the day updating the Risk Assessment spreadsheet. 
+• a computer program used to create and manipulate spreadsheets. 
+▶verb [no object] (usually as noun spreadsheeting) use or create a spreadsheet.

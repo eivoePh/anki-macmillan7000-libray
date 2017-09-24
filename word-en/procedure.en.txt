@@ -1,2 +1,8 @@
 procedure 
-▶noun once we establish a procedure, it must be followed: course of action, plan of action, action plan, policy, series of steps, method, system, strategy, way, approach, formula, mechanism, methodology, modus operandi, MO, technique; routine, drill, practice, operation.
+prəˈsējər
+
+▶noun an established or official way of doing something: the police are now reviewing procedures 
+rules of procedure. 
+• a series of actions conducted in a certain order or manner: the standard procedure for informing new employees about conditions of work. 
+• a surgical operation: the procedure is carried out under general anesthesia. 
+• Computing another term for subroutine. ORIGIN late 16th century: from French procédure, from procéder (see proceed) .

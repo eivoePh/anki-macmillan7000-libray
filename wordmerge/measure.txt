@@ -26,15 +26,42 @@ A.  transitive verb[measure something/somebody up, measure up something/somebody
 ② figurative (scrutinize, assess) 估量 gūliáng ‹person, situation›
 B.  intransitive verb (fulfil expectations) «person, product, experience» 合格 hégé to measure up to; 符合…的要求 ‹task› 符合 fúhé ‹standard, expectations›
 measure 
-▶verb
-1 they measured the length of the room: calculate, compute, count, meter, quantify, weigh, size, evaluate, assess, gauge, plumb, determine.
-2 she did not need to measure herself against some ideal: compare with, pit against, set against, test against, judge by.
+ˈmeZHər
+
+▶verb [with object]
+1 ascertain the size, amount, or degree of (something) by using an instrument or device marked in standard units or by comparing it with an object of known size: the amount of water collected is measured in pints 
+they will measure up the room and install the cabinets. 
+• be of (a specified size or degree): the fabric measures 45 inches wide. 
+• ascertain the size and proportions of (someone) in order to make or provide clothes for them: he will be measured for his tuxedo next week. 
+• (measure something out) take an exact quantity or fixed amount of something: she helped to measure out the ingredients. 
+• estimate or assess the extent, quality, value, or effect of (something): it is hard to measure teaching ability. 
+• (measure someone/something against) judge someone or something by comparison with (a certain standard): she did not need to measure herself against some ideal. 
+• [no object] (measure up) reach the required or expected standard; fulfill expectations: I'm afraid we didn't measure up to the standards they set. 
+• scrutinize (someone) keenly in order to form an assessment of them: the two shook hands and silently measured each other up.
+2 consider (one's words or actions) carefully: I had better measure my words so as not to embarrass anyone.
+3 archaic travel over (a certain distance or area): we must measure twenty miles today. 
 ▶noun
-1 cost-cutting measures: action, act, course (of action), deed, proceeding, procedure, step, means, expedient; maneuver, initiative, program, operation.
-2 the House passed the measure: statute, act, bill, law, legislation.
-3 the original dimensions were in metric measure: system, standard, units, scale.
-4 a measure of egg white: quantity, amount, portion.
-5 the students retain a measure of independence: a certain amount, an amount, a certain degree, a degree; some.
-6 sales are the measure of the company's success: yardstick, test, standard, barometer, touchstone, litmus test, criterion, benchmark.
+1 a plan or course of action taken to achieve a particular purpose: cost-cutting measures 
+children were evacuated as a precautionary measure. 
+• a legislative bill: the Senate passed the measure by a 48–30 vote. 
+• archaic punishment or retribution imposed or inflicted on someone: her husband had dealt out hard measure to her.
+2 a standard unit used to express the size, amount, or degree of something: a furlong is an obsolete measure of length 
+tables of weights and measures. 
+• a system or scale of standard measuring units: the original dimensions were in imperial measure. 
+• a container of standard capacity used for taking fixed amounts of a substance. 
+• a particular amount of something: a measure of egg white as a binding agent. 
+• a standard official amount of an alcoholic drink as served in a licensed establishment. 
+• a graduated rod or tape used for ascertaining the size of something. 
+• Printing the width of a full line of type or print, typically expressed in picas. 
+• Mathematics a quantity contained in another an exact number of times; a divisor.
+3 a certain quantity or degree of something: the states retain a large measure of independence. 
+• an indication or means of assessing the degree, extent, or quality of something: it was a measure of the team's problems that they were still working after
+2 a.m.
+4 the rhythm of a piece of poetry or a piece of music. 
+• a particular metrical unit or group: measures of two or three syllables are more frequent in English prose. 
+• North American any of the sections, typically of equal time value, into which a musical composition is divided, shown on a score by vertical lines across the staff; bar. 
+• archaic a dance, typically one that is grave or stately: now tread we a measure!
+5 (measures) [with modifier] a group of rock strata. 
 PHRASES
-beyond measure it irritates him beyond measure that she is always right: immensely, extremely, vastly, greatly, excessively, immeasurably, incalculably, infinitely. for good measure she added a couple of chili peppers for good measure: as a bonus, as an extra, into the bargain, to boot, in addition, besides, as well. get/have the measure of she wants to get the measure of Kate before they meet at the Olympics: evaluate, assess, gauge, judge, understand, fathom, read, be wise to, see through; informal have someone's number. measure up he was cut from the Corps because he just couldn't measure up: pass muster, match up, come up to standard, fit/fill the bill, be acceptable; informal come up to scratch, make the grade, cut the mustard, be up to snuff. measure up to we didn't measure up to their standards: meet, come up to, equal, match, bear comparison with, be on a level with; achieve, satisfy, fulfill.
+beyond measure to a very great extent: it irritates him beyond measure. for good measure in addition to what has already been done, said, or given: he added a couple of chili peppers for good measure. take (or get or have) the measure of assess or have assessed the character, nature, or abilities of (someone or something): he's got her measure—she won't fool him. in —— measure to the degree specified: his rapid promotion was due in some measure to his friendship with the CE
+O. ORIGIN Middle English (as a noun in the senses ‘moderation,’ ‘instrument for measuring,’ ‘unit of capacity’): from Old French mesure, from Latin mensura, from mens- ‘measured,’ from the verb metiri .

@@ -7,8 +7,13 @@ noun
 ④ Uncountable(embarrassment) 窘迫 jiǒngpò to [somebody's] confusion; 使某人尴尬的是 to her great confusion, he asked her to marry him 让她大为尴尬的是，他向她求婚了 in [somebody's] confusion; 在某人很窘迫的情况下 in my confusion and delight, I quite forgot to thank her 我既局促又高兴，居然忘了感谢她 
 ⑤ Uncountable(uncertainty) 不确定 bù quèdìng there was some confusion about what to do next 下面该怎么做还不明确 
 confusion 
+kənˈfyo͞oZHən
+
 ▶noun
-1 there is confusion about the new system: uncertainty, incertitude, unsureness, doubt, ignorance; formal dubiety. ANTONYMS certainty.
-2 she stared in confusion: bewilderment, bafflement, perplexity, puzzlement, mystification, befuddlement; shock, daze, wonder, wonderment, astonishment; informal head-scratching, discombobulation.
-3 I could not live in this kind of confusion: disorder, disarray, disorganization, untidiness, chaos, mayhem; turmoil, tumult, disruption, upheaval, uproar, muddle, mess, shambles; informal three-ring circus. ANTONYMS order.
-4 a confusion of boxes: jumble, muddle, mess, heap, tangle; informal shambles.
+1 lack of understanding; uncertainty: there seems to be some confusion about which system does what 
+he cleared up the confusion over the party's policy. 
+• a situation of panic; a breakdown of order: the shaken survivors retreated in confusion. 
+• a disorderly jumble: all I can see is a confusion of brown cardboard boxes.
+2 the state of being bewildered or unclear in one's mind about something: she looked about her in confusion. 
+• the mistaking of one person or thing for another: there is some confusion between “unlawful” and “illegal” 
+most of the errors are reasonable confusions between similar words or sequences of words. ORIGIN Middle English: from Latin confusio(n-), from the verb confundere ‘mingle together’ (see confuse) .

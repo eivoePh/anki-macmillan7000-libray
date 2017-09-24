@@ -5,8 +5,11 @@ noun
 ② Countable(arrangement) 准备工作 zhǔnbèi gōngzuò preparation(s) for [something]; 某事的准备工作 to make preparations to do [something]; 为做某事进行准备 preparation time 准备时间 
 ③ Countable(product) 配制品 pèizhìpǐn a pharmaceutical/herbal preparation 药物/草药制剂 
 preparation 
-▶noun
-1 the preparation of contingency plans: devising, putting together, drawing up, construction, composition, production, getting ready, development.
-2 (preparations) preparations for the party: arrangements, planning, plans, preparatory measures.
-3 preparation for exams: instruction, teaching, coaching, training, tutoring, drilling, priming.
-4 a preparation to kill off mites: mixture, compound, concoction, solution, tincture, medicine, potion, cream, ointment, lotion.
+ˌprepəˈrāSH(ə)n
+
+▶noun the action or process of making ready or being made ready for use or consideration: the preparation of a draft contract 
+the project is in preparation. 
+• (usually preparations) something done to get ready for an event or undertaking: she continued her preparations for the party. 
+• a substance that is specially made up and usually sold, especially a medicine or food. 
+• a specimen that has been prepared for scientific or medical examination: a microscope preparation. 
+• Music (in conventional harmony) the sounding of the discordant note in a chord in the preceding chord where it is not discordant, lessening the effect of the discord. ORIGIN late Middle English: via Old French from Latin praeparatio(n-), from praeparare ‘make ready before’ (see prepare) .

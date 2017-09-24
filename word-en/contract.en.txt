@@ -1,12 +1,35 @@
 contract 
-▶noun a legally binding contract: agreement, commitment, arrangement, settlement, understanding, compact, covenant, bond; deal, bargain; Law indenture.
+▶noun 
+ˈkäntrakt 
+a written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law: both parties must sign employment contracts 
+a network of doctors and hospitals under contract to provide services. 
+• the branch of law concerned with the making and observation of contracts. 
+• informal an arrangement for someone to be killed by a hired assassin: smuggling bosses routinely put out contracts on witnesses. 
+• Bridge the declarer's undertaking to win the number of tricks bid with a stated suit as trump: South can make the contract with correct play. 
+• dated a formal agreement to marry. 
 ▶verb
-1 the market for such goods began to contract: shrink, get smaller, decrease, diminish, reduce, dwindle, decline. ANTONYMS expand, increase.
-2 her stomach muscles contracted: tighten, tense, flex, constrict, draw in, narrow. ANTONYMS relax.
-3 she contracted her brow: wrinkle, knit, crease, purse, pucker.
-4 his name was soon contracted to “Rob”: shorten, abbreviate, cut, reduce; elide. ANTONYMS expand, lengthen.
-5 the company contracted to rebuild the stadium: undertake, pledge, promise, covenant, commit oneself, engage, agree, enter an agreement, make a deal.
-6 she contracted rubella: develop, catch, get, pick up, come down with, be struck down by, be stricken with, succumb to.
-7 he contracted a debt of $3,300: incur, run up.
-PHRASES
-contract out trash collection is contracted out by the town: subcontract, outsource, farm out.
+1 
+kənˈtrakt 
+[no object] decrease in size, number, or range: glass contracts as it cools. 
+• (of a muscle) become shorter or tighter in order to effect movement of part of the body: the heart is a muscle that contracts about seventy times a minute 
+[with object] : then contract your lower abdominal muscles. 
+• [with object] shorten (a word or phrase) by combination or elision: “quasistellar object” was soon contracted to “quasar.”
+2 
+ˈkänˌtrakt kənˈtrakt 
+[no object] enter into a formal and legally binding agreement: the local authority will contract with a wide range of agencies to provide services. 
+• secure specified rights or undertake specified obligations in a formal and legally binding agreement: a buyer may contract for the right to withhold payment 
+the paper had contracted to publish extracts from the diaries. 
+• impose an obligation on (someone) to do something by means of a formal agreement: health authorities contract a hospital to treat a specific number of patients. 
+• [with object] (contract something out) arrange for work to be done by another organization: local authorities will have to contract out waste management. 
+• [with object] formally enter into (a marriage): before Fanny met him, he had contracted a disastrous liaison and marriage. 
+• [with object] enter into (a friendship or other relationship): the patterns of social relationships contracted by men and women differ.
+3 
+kənˈtrakt 
+[with object] catch or develop (a disease or infectious agent): three people contracted a killer virus.
+4 
+kənˈtrakt 
+[with object] become liable to pay (a debt): he contracted a debt of $3,300. DERIVATIVES contractee 
+ˌkänˌtrakˈtē 
+noun. contractive 
+kənˈtraktiv 
+adjectiveORIGIN Middle English: via Old French from Latin contractus, from contract- ‘drawn together, tightened,’ from the verb contrahere, from con- ‘together’ + trahere ‘draw.’

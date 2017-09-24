@@ -11,9 +11,14 @@ C.  noun
 ② AmE (exhibition) 展览 zhǎnlǎn to be on exhibit; 在展出 
 ③ Law (document) 证件 zhèngjiàn (object) 物证 wùzhèng 
 exhibit 
-▶verb
-1 the paintings were exhibited at the Wadsworth: put on display/show, display, show, put on public view, showcase; set out, lay out, array, arrange.
-2 Luke exhibited signs of jealousy: show, reveal, display, manifest; express, indicate, demonstrate, present; formal evince.
-▶noun
-1 exhibit A is a handwritten letter: object, item, piece, showpiece; display; evidence.
-2 people flocked to the exhibit. See exhibition (sense 1). 
+iɡˈzibət
+
+▶verb [with object]
+1 publicly display (a work of art or item of interest) in an art gallery or museum or at a trade fair: only one sculpture was exhibited in the artist's lifetime. 
+• [no object] (of an artist) display one's work to the public in an art gallery or museum: she was invited to exhibit at several French museums. 
+• (usually be exhibited) publicly display the work of (an artist) in an art gallery or museum: no foreign painters were exhibited.
+2 manifest or deliberately display (a quality or a type of behavior): he could exhibit a saintlike submissiveness. 
+• show as a sign or symptom: patients with alcoholic liver disease exhibit many biochemical abnormalities. 
+▶noun an object or collection of objects on public display in an art gallery or museum or at a trade fair: the museum is rich in exhibits. 
+• North American an exhibition: people flocked to the exhibit in record-breaking numbers. 
+• Law a document or other object produced in a court as evidence. ORIGIN late Middle English (in the sense ‘submit for consideration,’ also specifically ‘present a document as evidence in court’): from Latin exhibit- ‘held out,’ from the verb exhibere, from ex- ‘out’ + habere ‘hold.’

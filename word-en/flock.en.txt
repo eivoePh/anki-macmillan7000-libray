@@ -1,8 +1,10 @@
-flock 
-▶noun
-1 a flock of sheep: herd, drove.
-2 a flock of birds: flight, congregation, covey, clutch.
-3 flocks of people: crowd, throng, horde, mob, rabble, mass, multitude, host, army, pack, swarm, sea; informal gaggle.
-▶verb
-1 people flocked around the stars outside the stage door: gather, collect, congregate, assemble, converge, mass, crowd, throng, cluster, swarm.
-2 tourists flock to the place: stream, go in large numbers, swarm, crowd, troop.
+flock
+1 
+fläk
+
+▶noun a number of birds of one kind feeding, resting, or traveling together: a flock of gulls. 
+• a number of domestic animals, especially sheep, goats, or geese, that are kept together: a flock of sheep. 
+• (flocks) large crowds of people: flocks of young people hung around at twilight. 
+• a group of children or students in someone's charge. 
+• a Christian congregation or body of believers, especially one under the charge of a particular minister: Thomas addressed his flock. [alluding to the metaphor of Christ or a Christian pastor as a shepherd.] 
+▶verb [no object] congregate or mass in a flock or large group: students flocked to spring break sites. ORIGIN Old English flocc, of unknown origin. The original sense was ‘a band or body of people’: this became obsolete, but has been reintroduced as a transferred use of the sense ‘a number of animals kept together.’

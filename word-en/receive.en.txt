@@ -1,10 +1,28 @@
 receive 
-▶verb
-1 Toni received an award 
-they received $650 in damages: be given, be presented with, be awarded, collect, garner; get, obtain, gain, acquire; win, be paid, earn, gross, net. ANTONYMS give, present.
-2 she received a letter: be sent, be in receipt of, accept delivery of, accept. ANTONYMS send.
-3 Alec received the news on Monday: be told, be informed of, be notified of, hear, discover, find out (about), learn; informal get wind of.
-4 he received her suggestion with a complete lack of interest: hear, listen to; respond to, react to.
-5 she received a serious injury: experience, sustain, undergo, meet with; suffer, bear.
-6 they received their guests: greet, welcome, say hello to.
-7 she's not receiving visitors: entertain, see.
+rəˈsēv
+
+▶verb [with object]
+1 be given, presented with, or paid (something): most businesses will receive a tax cut 
+she received her prize from the manager. 
+• take delivery of (something sent or communicated): he received fifty inquiries after advertising the job. 
+• buy or accept goods in the knowledge that they have been stolen: a man convicted of receiving stolen property. 
+• detect or pick up (broadcast signals): Turkish television began to be received in Tashkent. 
+• form (an idea or impression) as a result of perception or experience: the impression she received was one of unhurried leisure. 
+• (in tennis and similar games) be the player to whom the server serves (the ball). 
+• (in Christian services) eat or drink (the Eucharistic bread or wine): he received Communion and left. 
+• consent to formally hear (an oath or confession): he failed to find a magistrate to receive his oath. 
+• serve as a receptacle for: the basin that receives your blood.
+2 suffer, experience, or be subject to (specified treatment): the event received wide press coverage 
+he received an eight-year prison sentence 
+she received only cuts and bruises. 
+• (usually be received) respond to (something) in a specified way: her first poem was not well received. 
+• meet with (a specified response or reaction): the rulings have received widespread acceptance. 
+• (as adjective received) widely accepted as authoritative or true: the myths and received wisdom about the country's past. 
+• meet and have to withstand: the landward slopes receive the full force of the wind.
+3 greet or welcome (a visitor) formally: representatives of the club will be received by the Mayor. 
+• be visited by: she was not allowed to receive visitors. 
+• admit as a member: hundreds of converts were received into the Church. 
+• provide space or accommodations for: three lines are reserved for special vehicles, and the remaining lines receive the general rolling stock. 
+PHRASES
+be at (or on) the receiving end be the person to whom a telephone call is made. 
+• informal be subjected to something unpleasant: she found herself on the receiving end of a good deal of teasing.ORIGIN Middle English: from Anglo-Norman French receivre, based on Latin recipere, from re- ‘back’ + capere ‘take.’

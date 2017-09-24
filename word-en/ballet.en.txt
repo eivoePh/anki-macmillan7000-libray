@@ -1,6 +1,6 @@
 ballet 
-BrE ˈbaleɪ, ˈbali, AmE bæˈleɪ, ˈbæleɪ 
-noun 
-① Uncountable(art form) 芭蕾舞 bālěiwǔ ballet shoes/dress 芭蕾舞鞋/服装 
-② Countable(performance) 芭蕾舞剧 bālěiwǔjù to go to the ballet 去看芭蕾舞剧 
-③ Countable(troupe) 芭蕾舞团 bālěiwǔtuán the Kirov Ballet 基洛夫芭蕾舞团 
+baˈlā ˈbalā
+
+▶noun an artistic dance form performed to music using precise and highly formalized set steps and gestures. Classical ballet, which originated in Renaissance Italy and established its present form during the 19th century, is characterized by light, graceful, fluid movements and the use of pointe shoes. 
+• a creative work or performance of ballet, or the music written for it. 
+• a group of dancers who regularly perform ballets: the New York City Ballet. ORIGIN mid 17th century: from French, from Italian balletto, diminutive of ballo ‘a dance,’ from late Latin ballare ‘to dance’ (see ball2) .

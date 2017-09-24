@@ -1,8 +1,12 @@
 conductor 
-BrE kənˈdʌktə, AmE kənˈdəktər 
-noun 
-① Music 指挥 zhǐhuī 
-② (on bus, tram) 售票员 shòupiàoyuán 
-③ AmE (on train) 列车长 lièchēzhǎng 
-④ (guide) 向导 xiàngdǎo 
-⑤ Electricity, Physics 导体 dǎotǐ 
+kənˈdəktər
+
+▶noun
+1 a person who directs the performance of an orchestra or choir: he was appointed principal conductor of the Berlin Philharmonic Orchestra.
+2 North American a person in charge of a train, streetcar, or other public conveyance, who collects fares and sells tickets.
+3 Physics a material or device that conducts or transmits heat, electricity, or sound, especially when regarded in terms of its capacity to do this: graphite is a reasonably good conductor of electricity. 
+• another term for lightning rod. DERIVATIVES conductorial 
+ˌkänˌdəkˈtôrēəl, kən- 
+adjective. conductorship 
+kənˈdəktərˌSHip 
+noun conductor ( sense 1) ORIGIN late Middle English (denoting a military leader): via Old French from Latin conductor, from conducere ‘bring together’ (see conduct) .

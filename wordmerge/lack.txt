@@ -5,5 +5,11 @@ A.  noun 缺乏 quēfá a/no lack of [something]; 某物的缺乏/不缺乏 ther
 B.  transitive verb 缺乏 quēfá ‹confidence, funds, talent, time›to lack a sense of proportion 不知分寸 to lack the courage of one's convictions 没有勇气坚持自己的信念 
 C.  intransitive verb 缺乏 quēfá to be lacking; «clothing, food, funding» 短缺 to be lacking in; 缺少 ‹humour, experience, raw materials› …不足 … bùzú ‹ability›to lack for nothing 什么也不缺 
 lack 
-▶noun a lack of cash: absence, want, need, deficiency, dearth, insufficiency, shortage, shortfall, scarcity, paucity, unavailability, deficit. ANTONYMS abundance.
-▶verb they lack sufficient resources: be without, be in need of, need, be lacking, require, want, be short of, be deficient in, be bereft of, be low on, be pressed for, have insufficient; informal be strapped for. ANTONYMS have, possess.
+lak
+
+▶noun the state of being without or not having enough of something: the case was dismissed for lack of evidence 
+there is no lack of entertainment aboard ship 
+[in singular] : there is a lack of parking space in the town. 
+▶verb [with object] be without or deficient in: the novel lacks imagination 
+[no object] : she lacks in patience 
+Sam did not lack for friends. ORIGIN Middle English: corresponding to, and perhaps partly from, Middle Dutch and Middle Low German lak ‘deficiency,’ Middle Dutch laken ‘lack, blame.’

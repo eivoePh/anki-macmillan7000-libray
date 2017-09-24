@@ -1,5 +1,10 @@
 decision 
-▶noun
-1 they came to a decision: resolution, conclusion, settlement, commitment, resolve, determination; choice, option, selection.
-2 the judge's decision: verdict, finding, ruling, recommendation, judgment, judgment call, pronouncement, adjudication, order, rule, resolve; findings, results; Law determination.
-3 his order had a ring of decision: decisiveness, determination, resolution, resolve, firmness; strong-mindedness, purpose, purposefulness.
+dəˈsiZHən
+
+▶noun a conclusion or resolution reached after consideration: I'll make the decision on my own 
+the editor's decision is final. 
+• the action or process of deciding something or of resolving a question: the information was used as the basis for decision. 
+• a formal judgment: last year's Supreme Court decision. 
+• the ability or tendency to make decisions quickly; decisiveness: she was a woman of decision. 
+• Boxing the awarding of a fight, in the absence of a knockout or technical knockout, to the boxer with the most rounds won or with the most points. 
+• Baseball a win or a loss assigned to a pitcher. ORIGIN late Middle English: from Latin decisio(n-), from decidere ‘determine’ (see decide) .

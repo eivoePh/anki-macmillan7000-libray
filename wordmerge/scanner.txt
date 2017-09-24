@@ -6,9 +6,8 @@ noun
 ③ Computing (for electronic data) 扫描仪 sǎomiáoyí a bar-code scanner 条形码扫描仪 
 ④ Computing (for viruses) 病毒扫描程序 bìngdú sǎomiáo chéngxù an e-mail scanner 邮件病毒扫描程序 
 scanner 
-BrE ˈskanə, AmE ˈskænər 
-noun 
-① Medicine 扫描器 sǎomiáoqì 
-② (for receiving radar signals) 扫掠天线 sǎolüè tiānxiàn 
-③ Computing (for electronic data) 扫描仪 sǎomiáoyí a bar-code scanner 条形码扫描仪 
-④ Computing (for viruses) 病毒扫描程序 bìngdú sǎomiáo chéngxù an e-mail scanner 邮件病毒扫描程序 
+ˈskanər
+
+▶noun a device for examining, reading, or monitoring something, in particular: 
+• Medicine a machine that examines the body through the use of radiation, ultrasound, or magnetic resonance imaging, as a diagnostic aid. 
+• Electronics a device that scans documents and converts them into digital data.

@@ -4,6 +4,14 @@ adjective
 ① (by inheritance) 世袭的 shìxí de ‹title, monarch›
 ② (by genetic factors) 遗传的 yíchuán de ‹disease, characteristic›
 hereditary 
-▶adjective
-1 a hereditary right: inherited; bequeathed, willed, handed-down, passed-down, passed-on, transferred; ancestral, family, familial.
-2 a hereditary disease: genetic, congenital, inborn, inherited, inbred, innate; in the family, in the blood, in the genes.
+həˈredəˌterē
+
+▶adjective (of a title, office, or right) conferred by or based on inheritance: members of the ancient Polish aristocracy who had hereditary right to elect the king. 
+• [attributive] (of a person) holding a position by inheritance: I am the hereditary chief of the Piscataway people. 
+• (of a characteristic or disease) determined by genetic factors and therefore able to be passed on from parents to their offspring or descendants: cystic fibrosis is our most common fatal hereditary disease. 
+• relating to inheritance: a form of hereditary succession and dynastic rule became standard practice. 
+• Mathematics (of a set) defined such that every element that has a given relation to a member of the set is also a member of the set. DERIVATIVES hereditarily 
+həˌredəˈterəlē 
+adverb. hereditariness 
+həˌredəˈterinəs 
+nounORIGIN late Middle English: from Latin hereditarius, from hereditas (see heredity) .

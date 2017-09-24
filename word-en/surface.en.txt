@@ -1,12 +1,20 @@
 surface 
+ˈsərfəs
+
 ▶noun
-1 the surface of the door: outside, exterior; top, side; finish, veneer. ANTONYMS inside, interior.
-2 the surface of police culture: outward appearance, facade.
-3 a floured surface: counter, table.
-▶adjective surface appearances: superficial, external, exterior, outward, ostensible, apparent, cosmetic, skin deep. ANTONYMS underlying.
+1 the outside part or uppermost layer of something (often used when describing its texture, form, or extent): the earth's surface 
+poor road surfaces. 
+• the level top of something: roll out the dough on a floured surface. 
+• (also surface area) the area of such an outer part or uppermost layer: the surface area of a cube. 
+• [in singular] the upper limit of a body of liquid: fish floating on the surface of the water. 
+• [in singular] what is apparent on a casual view or consideration of someone or something, especially as distinct from feelings or qualities that are not immediately obvious: Tom was a womanizer, but on the surface he remained respectable 
+[as modifier] : we need to go beyond surface appearances.
+2 Geometry a continuous set of points that has length and breadth but no thickness. 
+▶adjective [attributive] relating to or occurring on the upper or outer part of something: surface workers at the copper mines. 
+• denoting ships that travel on the surface of the water as distinct from submarines: the surface fleet. 
+• carried by or denoting transportation by sea or overland as contrasted with by air: surface mail. 
 ▶verb
-1 a submarine surfaced: come to the surface, come up, rise. ANTONYMS dive.
-2 the idea first surfaced in the sixties: emerge, arise, appear, come to light, crop up, materialize, spring up.
-3 informal she eventually surfaces for breakfast: get up, get out of bed, rise, wake, awaken, appear.
-PHRASES
-on the surface it sounded plausible enough on the surface: at first glance, to the casual eye, outwardly, to all appearances, apparently, ostensibly, superficially, externally.
+1 [no object] rise or come up to the surface of the water or the ground: he surfaced from his dive. 
+• come to people's attention; become apparent: the quarrel first surfaced two years ago. 
+• informal (of a person) appear after having been asleep: it was almost noon before Anthony surfaced.
+2 [with object] (usually be surfaced) provide (something, especially a road) with a particular upper or outer layer: a small path surfaced with terra-cotta tiles. DERIVATIVES surfacer nounORIGIN early 17th century: from French (see sur-1, face), suggested by Latin superficies .

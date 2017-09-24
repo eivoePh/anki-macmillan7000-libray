@@ -2,4 +2,10 @@ delete
 BrE dɪˈliːt, AmE dəˈlit 
 transitive verb 删去 shānqù to delete [something] from [something]; 把某物从某处删除 
 delete 
-▶verb the offending paragraph was deleted: remove, cut out, take out, edit out, expunge, excise, eradicate, cancel; cross out, strike out, blue-pencil, ink out, scratch out, obliterate, white out; rub out, erase, efface, wipe out, blot out; Printing dele. ANTONYMS add.
+dəˈlēt
+
+▶verb [with object] remove or obliterate (written or printed matter), especially by drawing a line through it or marking it with a delete sign: the passage was deleted. 
+• (usually be deleted) remove (data) from a computer's memory. 
+• (be deleted) Genetics (of a section of genetic code, or its product) be lost or excised from a nucleic acid or protein sequence: if one important gene is deleted from an animal's DNA, other genes can stand in. 
+• remove (a product, especially a recording) from the catalog of those available for purchase: their EMI release has already been deleted. 
+▶noun a command or key on a computer that erases text. ORIGIN late Middle English (in the sense ‘destroy’): from Latin delet- ‘blotted out, effaced,’ from the verb delere .

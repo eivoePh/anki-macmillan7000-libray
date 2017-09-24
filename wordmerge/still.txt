@@ -6,15 +6,29 @@ adverb
 ② (nevertheless) 然而 rán'ér the weather was cold and wet; still, we had a great time 天气又冷又潮，不过我们还是玩得很开心 it was very dear; still, it was worth it 这很贵，但物有所值 
 ③ (even) 甚至更 shènzhì gèng faster/better/worse still, still faster/better/worse 甚至更快/更好/更糟 if you can manage to get two tickets that’s better still 要是你能设法弄到两张票，那就更好了 still less 更不用说 no explanation was offered, still less an apology 没有任何解释，更不用说道歉了 
 ④ (yet) 还有 hái yǒu many died; still others emigrated 许多人死了，还有的人移居国外了 still more money was spent 花掉了更多的钱 she made still another excuse 她又找了一个借口 
-still 
-▶adjective
-1 the parrot lay still: motionless, unmoving, not moving a muscle, stock-still, immobile, inanimate, like a statue, as if turned to stone, rooted to the spot, transfixed, static, stationary. ANTONYMS moving, active.
-2 a still night: quiet, silent, hushed, soundless, noiseless, undisturbed; calm, peaceful, serene, windless; literary stilly. ANTONYMS noisy.
-3 the lake was still: calm, flat, even, smooth, placid, tranquil, pacific, waveless, glassy, like a millpond, unruffled, stagnant. ANTONYMS rough, turbulent.
-▶noun the still of the night: quietness, quiet, quietude, silence, stillness, hush, soundlessness; calm, tranquility, peace, serenity. ANTONYMS noise, disturbance, hubbub.
+still
+1 
+stil
+
+▶adjective not moving or making a sound: the still body of the young man 
+the sheriff commanded him to stand still and drop the gun 
+she sat very still, her eyes closed 
+he lay still, unable to move. 
+• (of air or water) undisturbed by wind, sound, or current; calm and tranquil: her voice carried on the still air 
+a still autumn day. 
+• (of a drink) not effervescent. Compare with sparkling ( sense 2). 
+▶noun
+1 deep silence and calm; stillness: the still of the night.
+2 an ordinary static photograph as opposed to a motion picture, especially a single shot from a movie. 
 ▶adverb
-1 she's still running in circles: up to this time, up to the present time, until now, even now, yet.
-2 He's crazy. Still, he's good for dinner conversation: nevertheless, nonetheless, regardless, all the same, just the same, anyway, anyhow, even so, yet, but, however, notwithstanding, despite that, in spite of that, for all that, be that as it may, in any event, at any rate; informal still and all, anyhoo.
-▶verb
-1 she stilled the crowd: quiet, silence, hush; calm, settle, pacify, soothe, lull, allay, subdue. ANTONYMS stir up.
-2 the wind stilled: abate, die down, lessen, subside, ease up/off, let up, moderate, slacken, weaken. ANTONYMS get stronger.
+1 up to and including the present or the time mentioned; even now (or then) as formerly: he still lives with his mother 
+it was still raining. 
+• referring to something that will or may happen in the future: we could still win.
+2 nevertheless; all the same: I'm afraid he's crazy. Still, he's harmless.
+3 even (used with comparatives for emphasis): write, or better still, type, captions for the pictures 
+Hank, already sweltering, began to sweat still more profusely. 
+▶verb make or become still; quieten: [with object] : she raised her hand, stilling Erica's protests 
+[no object] : the din in the hall stilled. 
+PHRASES
+still and all informal nevertheless; even so. still small voice the voice of one's conscience (with reference to
+1 Kings 19:12). still waters run deep proverb a quiet or placid manner may conceal a more passionate nature.ORIGIN Old English stille (adjective and adverb), stillan (verb), from a base meaning ‘be fixed, stand.’

@@ -4,8 +4,14 @@ noun
 ① (skyline) 地平线 dìpíngxiàn on the horizon (visible) 在地平线上 figurative (imminent) 即将发生 jíjiāng fāshēng the only cloud on the horizon 唯一能起破坏作用的因素 
 ② figurative (possibility, potential) 范围 fànwéi to open up new horizons 开启新的领域 to widen or broaden one's horizons 开阔眼界 
 horizon 
+həˈrīzən
+
 ▶noun
-1 the sun rose above the horizon: skyline.
-2 she wanted to broaden her horizons: outlook, perspective, perception; range of experience, range of interests, scope, prospect, ambit, compass, orbit.
+1 [usually in singular] the line at which the earth's surface and the sky appear to meet: the sun rose above the horizon. 
+• (also apparent or visible horizon) the circular boundary of the part of the earth's surface visible from a particular point, ignoring irregularities and obstructions. 
+• (also celestial horizon) Astronomy a great circle of the celestial sphere, the plane of which passes through the center of the earth and is parallel to that of the apparent horizon of a place.
+2 (often horizons) the limit of a person's mental perception, experience, or interest: she wanted to leave home and broaden her horizons.
+3 Geology a layer of soil or rock, or a set of strata, with particular characteristics. 
+• Archaeology a level of an excavated site representing a particular period. 
 PHRASES
-on the horizon a better life for us is on the horizon: imminent, impending, due, close, near, approaching, coming, forthcoming, at hand, on the way, about to happen, upon us, in the offing, in the pipeline, in the air, in the wings, in the cards, just around the corner, coming down the pike; brewing, looming, threatening, menacing.
+on the horizon just imminent or becoming apparent: trouble could be on the horizon.ORIGIN late Middle English: via Old French from late Latin horizon, from Greek horizōn (kuklos)‘limiting (circle).’

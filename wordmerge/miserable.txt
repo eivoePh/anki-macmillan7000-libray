@@ -5,10 +5,11 @@ adjective
 ② (wretched) 不幸的 bùxìng de ‹failure, defeat›; 悲惨的 bēicǎn de ‹poverty, existence›; 糟糕的 zāogāo de ‹performance, dwellings›; 阴沉的 yīnchén de ‹sky, weather, afternoon›
 ③ pejorative (small, inadequate) 少得可怜的 shǎo de kělián de ‹quantity, meal, wage›; 差得可怜的 chà de kělián de ‹quality›
 miserable 
+ˈmiz(ə)rəb(ə)l
+
 ▶adjective
-1 I'm too miserable to eat: unhappy, sad, sorrowful, dejected, depressed, downcast, downhearted, down, despondent, disconsolate, wretched, glum, gloomy, dismal, melancholy, woebegone, doleful, forlorn, heartbroken; informal blue, down in/at the mouth, down in the dumps. ANTONYMS happy, contented.
-2 their miserable surroundings: dreary, dismal, gloomy, drab, wretched, depressing, grim, cheerless, bleak, desolate; poor, shabby, squalid, seedy, dilapidated; informal flea-bitten, skeevy. ANTONYMS luxurious.
-3 miserable weather: unpleasant, disagreeable, depressing; wet, rainy, stormy; informal rotten. ANTONYMS glorious, lovely.
-4 a miserable old grouch: grumpy, sullen, gloomy, bad-tempered, ill-tempered, ill-natured, dour, surly, sour, glum, moody, unsociable, saturnine, lugubrious, irritable, churlish, cantankerous, crotchety, cross, crabby, cranky, grouchy, testy, peevish, crusty, waspish. ANTONYMS cheerful, good-natured.
-5 miserable wages: inadequate, meager, scanty, paltry, small, poor, pitiful, niggardly; informal measly, stingy, pathetic; formal exiguous. ANTONYMS generous, adequate.
-6 all that fuss about a few miserable dollars: wretched, confounded; informal blithering, blessed, damned, blasted; dated accursed.WORD TOOLKIT See melancholy .Word Toolkits illustrate the difference between close synonyms by means of words typically used with them.
+1 (of a person) wretchedly unhappy or uncomfortable: their happiness made Anne feel even more miserable. 
+• (of a situation or environment) causing someone to feel wretchedly unhappy or uncomfortable: horribly wet and miserable conditions. 
+• (of a person) habitually morose: a miserable man in his late sixties.
+2 pitiably small or inadequate: all they pay me is a miserable $10,000 a year. 
+• [attributive] contemptible (used as a term of abuse or for emphasis): you miserable old creep! DERIVATIVES miserableness nounORIGIN late Middle English: from French misérable, from Latin miserabilis ‘pitiable,’ from miserari ‘to pity,’ from miser ‘wretched.’

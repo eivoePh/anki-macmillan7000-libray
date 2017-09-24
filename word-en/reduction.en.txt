@@ -1,7 +1,18 @@
 reduction 
+rəˈdəkSH(ə)n
+
 ▶noun
-1 a reduction in pollution: lessening, lowering, decrease, diminution, fade-out.
-2 a staff reduction: cutback, cut, downsizing, scaling down, trimming, pruning, axing, chopping.
-3 a reduction in inflationary pressure: easing, lightening, moderation, alleviation.
-4 a reduction in status: demotion, downgrading, lowering.
-5 substantial reductions: discount, markdown, deduction, cut, price cut.
+1 the action or fact of making a specified thing smaller or less in amount, degree, or size: talks on arms reduction 
+there had been a reduction in the number of casualties. 
+• the amount by which something is made smaller, less, or lower in price: special reductions on knitwear. 
+• the simplification of a subject or problem to a particular form in presentation or analysis: the reduction of classical genetics to molecular biology. 
+• Mathematics the process of converting an amount from one denomination to a smaller one, or of bringing down a fraction to its lowest terms. 
+• Biology the halving of the number of chromosomes per cell that occurs at one of the two anaphases of meiosis.
+2 a thing that is made smaller or less in size or amount, in particular: 
+• an arrangement of an orchestral score for piano or for a smaller group of performers. 
+• a thick and concentrated liquid or sauce made by boiling. 
+• a copy of a picture or photograph made on a smaller scale than the original.
+3 the action of remedying a dislocation or fracture by returning the affected part of the body to its normal position.
+4 Chemistry the process or result of reducing or being reduced.
+5 Phonetics substitution of a sound that requires less muscular effort to articulate: the process of vowel reduction. ORIGIN late Middle English (denoting the action of bringing back): from Old French, or from Latin reductio(n-), from reducere ‘bring back, restore’ (see reduce). The sense development was broadly similar to that of reduce; sense
+1 dates from the late 17th century.

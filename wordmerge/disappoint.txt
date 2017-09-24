@@ -4,6 +4,7 @@ transitive verb
 ① (let down) 使…失望 shǐ… shīwàng ‹person›
 ② (thwart) 使…破灭 shǐ… pòmiè ‹hope, dream›
 disappoint 
-▶verb
-1 I'm sorry to have disappointed you: let down, fail, dissatisfy, dash someone's hopes; upset, dismay, sadden, disenchant, disillusion, shatter someone's illusions, disabuse. ANTONYMS please, satisfy.
-2 his hopes were disappointed: thwart, frustrate, foil, dash, put a damper on; informal throw cold water on. ANTONYMS fulfill.
+ˌdisəˈpoint
+
+▶verb [with object] fail to fulfill the hopes or expectations of (someone): I have no wish to disappoint everyone by postponing the visit. 
+• prevent (hopes or expectations) from being realized: to disappoint the hopes that are now awakened could be very dangerous. ORIGIN late Middle English (in the sense ‘deprive of an office or position’): from Old French desappointer .

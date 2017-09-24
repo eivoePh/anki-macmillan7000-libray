@@ -1,22 +1,31 @@
 dress 
+dres
+
 ▶verb
-1 he dressed quickly: put on clothes, clothe oneself, get dressed.
-2 she was dressed in a suit: clothe, attire, garb, deck out, trick out, costume, array, robe; informal get up, doll up.
-3 they dress for dinner every day: wear formal clothes, wear evening dress, dress up.
-4 dressing the house for the holidays: decorate, trim, deck, adorn, ornament, embellish, beautify, prettify; festoon, garland, garnish.
-5 they dressed his wounds: bandage, cover, bind, wrap, swathe; doctor, care for.
-6 dress the chicken: prepare, get ready; clean.
-7 the field was dressed with manure: fertilize, enrich, manure, mulch, compost, top-dress.
-8 he dressed Michelle's hair: style, groom, arrange, do; comb, brush; preen, primp; informal fix.
-9 Military the battalion dressed its ranks: line up, align, straighten, arrange, order, dispose; fall in.
+1 [no object] put on one's clothes: Graham showered and dressed quickly 
+I'll go and get dressed. 
+• [with adverbial] wear clothes in a particular way or of a particular type: she's nice-looking and dresses well 
+(be dressed) : he was dressed in jeans and a thick sweater. 
+• [with object] put clothes on (someone): they dressed her in a white hospital gown. 
+• put on clothes appropriate for a formal occasion: we dressed for dinner every night. 
+• [with object] design or supply clothes for (a celebrity): for over four decades he dressed the royal family. 
+• [with object] decorate (something) in an artistic or attractive way: they had dressed the doorframes with sprays of bittersweet.
+2 [with object] treat or prepare (something) in a certain way, in particular: 
+• clean, treat, or apply a dressing to (a wound). 
+• clean and prepare (food, especially poultry or shellfish) for cooking or eating: (as adjective dressed) : dressed crab. 
+• add a dressing to (a salad). 
+• apply a fertilizing substance to (a field, garden, or plant). 
+• complete the preparation or manufacture of (leather or fabric) by treating its surface in some way. 
+• smooth the surface of (stone): (as adjective dressed) : a tower built of dressed stone. 
+• arrange or style (one's own or someone else's hair), especially in an elaborate way.
+3 [with object] Military draw up (troops) in the proper alignment. 
+• [no object] (of troops) come into proper alignment.
+4 [with object] prepare (an artificial fly) for use in fishing: (as adjective dressed) : a dressed wet fly. 
 ▶noun
-1 a long blue dress: gown, robe, shift, frock.
-2 fancy dress: clothes, clothing, garments, attire; costume, outfit, ensemble, garb; informal gear, getup, togs, duds, glad rags, threads, Sunday best; formal apparel; archaic raiment.
+1 a one-piece garment for a woman or girl that covers the body and extends down over the legs.
+2 clothing of a specified kind for men or women: traditional African dress 
+figurative : the underlying theme is recognizable even when it appears in feminist dress. 
+• [as modifier] denoting military uniform or other clothing used on formal or ceremonial occasions: a dress suit. 
 PHRASES
-dress down
-1 even the execs dress down on Fridays: dress informally, dress casually.
-2 never dress down an employee in front of his colleagues. See reprimand (verb). dress up
-1 Angela loved dressing up: dress smartly, dress formally, wear evening dress; informal doll oneself up, put on one's glad rags, gussy oneself up.
-2 Hugh dressed up as Santa Claus: disguise oneself, dress; put on fancy dress, put on a costume. 
-WORD LINKS
-dress sartorial relating to clothes or a person's style of dressWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+dressed to kill wearing glamorous clothes intended to create a striking impression. dressed to the nines dressed very elaborately.PHRASAL VERBS dress down dress informally: Sue dressed down in old jeans and a white blouse. dress someone down informal reprimand someone. dress ship decorate a ship with flags, for a special occasion. dress up dress in smart or formal clothes. 
+• dress in a special costume for fun or as part of an entertainment: he dressed up as a gorilla. dress something up present something in such a way that it appears better than it really is: the company dressed up the figures a little.ORIGIN Middle English (in the sense ‘put straight’): from Old French dresser ‘arrange, prepare,’ based on Latin directus ‘direct, straight.’

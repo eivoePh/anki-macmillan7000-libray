@@ -1,2 +1,8 @@
 coherent 
-▶adjective the patient's speech is more coherent today: logical, reasoned, reasonable, rational, sound, cogent, consistent, consilient; clear, lucid, articulate; intelligible, comprehensible. ANTONYMS muddled.
+ˌkōˈhirənt
+
+▶adjective
+1 (of an argument, theory, or policy) logical and consistent: they failed to develop a coherent economic strategy. 
+• (of a person) able to speak clearly and logically: she was lucid and coherent and did not appear to be injured.
+2 united as or forming a whole: divided into a number of geographically coherent kingdoms.
+3 Physics (of waves) having a constant phase relationship. ORIGIN mid 16th century (in the sense ‘logically related to’): from Latin cohaerent- ‘sticking together,’ from the verb cohaerere (see cohere) .

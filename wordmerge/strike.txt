@@ -73,28 +73,79 @@ A.  transitive verb[strike up something, strike something up]
 ② (begin relationship, conversation) 开始 kāishǐ to strike up a friendship 建立友谊 to strike up a conversation with a stranger 和陌生人攀谈 
 B.  intransitive verb (start to play) 开始演奏 kāishǐ yǎnzòu (start to sing) 开始演唱 kāishǐ yǎnchàng the band struck up with a waltz 乐队开始演奏一支华尔兹舞曲 
 strike 
-▶verb
-1 the teacher struck Mary: hit, slap, smack, beat, thrash, spank, thump, punch, cuff; cane, lash, whip, club; informal clout, schmuck, wallop, belt, whack, thwack, bash, clobber, bop, cold-cock; literary smite.
-2 he struck the gong: bang, beat, hit; informal bash, wallop.
-3 the car struck a tree: crash into, collide with, hit, run into, bump into, smash into, impact.
-4 Jennifer struck the ball: hit, drive, propel; informal clout, wallop, swipe.
-5 he struck a match: ignite, light.
-6 she was asleep when the killer struck: attack, set upon someone, fall on someone, assault someone.
-7 the disease is striking 3,000 people a year: affect, afflict, attack, hit.
-8 striking a balance: achieve, reach, arrive at, find, attain, establish.
-9 we have struck a bargain: agree (on), come to an agreement on, settle on; informal clinch.
-10 he struck a heroic pose: assume, adopt, take on/up, affect, cop.
-11 they have struck oil: discover, find, come upon, hit.
-12 a thought struck her: occur to, come to (mind), dawn on one, hit, spring to mind, enter one's head.
-13 you strike me as intelligent: seem to, appear to, come across to, give the impression to.
-14 drivers are striking: take industrial action, go on strike, down tools, walk out, hit the bricks.
-15 the commodore struck his flag: lower, take down, bring down.
-16 we should strike south: go, make one's way, head, forge.
+strīk
+
+▶verb (past and past participle struck 
+strək
+)
+1 [with object] hit forcibly and deliberately with one's hand or a weapon or other implement: he raised his hand, as if to strike me 
+one man was struck on the head with a stick 
+[no object] : Edgar struck out at her. 
+• inflict (a blow): [with two objects] : he struck her two blows on the leg. 
+• accidentally hit (a part of one's body) against something: she fell, striking her head against the side of the boat. 
+• come into forcible contact or collision with: he was struck by a car on Whitepark Road. 
+• (of a beam or ray of light or heat) fall on (an object or surface): the light struck her ring, reflecting off the diamond. 
+• (in sporting contexts) hit or kick (a ball) so as to score a run, point, or goal: he struck the ball into the back of the net. 
+• [no object] (of a clock) indicate the time by sounding a chime or stroke: [with complement] : the church clock struck twelve. 
+• ignite (a match) by rubbing it briskly against an abrasive surface. 
+• produce (fire or a spark) as a result of friction: his iron stick struck sparks from the pavement. 
+• bring (an electric arc) into being. 
+• produce (a musical note) by pressing or hitting a key.
+2 [with object] (of a disaster, disease, or other unwelcome phenomenon) occur suddenly and have harmful or damaging effects on: an earthquake struck the island 
+[no object] : tragedy struck when he was killed in a car crash 
+[as adjective in combination] (struck) : storm-struck areas. 
+• [no object] carry out an aggressive or violent action, typically without warning: it was eight months before the murderer struck again. 
+• (usually be struck down) kill or seriously incapacitate (someone): he was struck down by a mystery virus. 
+• (strike something into) cause or create a particular strong emotion in (someone): drugs—a subject guaranteed to strike fear into parents' hearts. 
+• [with object and complement] cause (someone) to be in a specified state: he was struck dumb.
+3 [with object] (of a thought or idea) come into the mind of (someone) suddenly or unexpectedly: a disturbing thought struck Melissa. 
+• cause (someone) to have a particular impression: [with clause] : it struck him that Marjorie was unusually silent 
+the idea struck her as odd. 
+• (be struck by/with) find particularly interesting, noticeable, or impressive: Lucy was struck by the ethereal beauty of the scene.
+4 [no object] (of employees) refuse to work as a form of organized protest, typically in an attempt to obtain a particular concession or concessions from their employer: workers may strike over threatened job losses. 
+• [with object] North American undertake an organized protest against (an employer).
+5 [with object] cancel, remove, or cross out with or as if with a pen: strike his name from the list 
+striking words through with a pen. 
+• (strike something down) North American abolish a law or regulation: the law was struck down by the Supreme Court. 
+• (strike someone off) chiefly British officially remove someone from membership of a professional group: he had been struck off as a disgrace to the profession.
+6 [with object] make (a coin or medal) by stamping metal. 
+• (in cinematography) make (another print) of a film. 
+• reach, achieve, or agree to (something involving agreement, balance, or compromise): the team has struck a deal with a sports marketing agency 
+you have to strike a happy medium. 
+• (in financial contexts) reach (a figure) by balancing an account: last year's loss was struck after allowing for depreciation of 67 million dollars. 
+• Canadian form (a committee): the government struck a committee to settle the issue.
+7 [with object] discover (gold, minerals, or oil) by drilling or mining. 
+• [no object] (strike on/upon) discover or think of, especially unexpectedly or by chance: pondering, she struck upon a brilliant idea. 
+• come to or reach: several days out of the village, we struck the Gilgit Road.
+8 [no object] move or proceed vigorously or purposefully: she struck out into the lake with a practiced crawl 
+he struck off down the track. 
+• (strike out) start out on a new or independent course or endeavor: after two years he was able to strike out on his own.
+9 [with object] take down (a tent or the tents of an encampment): it took ages to strike camp. 
+• dismantle (theatrical scenery): the minute we finish this evening, they'll start striking the set. 
+• lower or take down (a flag or sail), especially as a salute or to signify surrender: the ship struck her German colors.
+10 [with object] insert (a cutting of a plant) in soil to take root. 
+• [no object] (of a plant or cutting) develop roots: small conifers will strike from cuttings. 
+• [no object] (of a young oyster) attach itself to a bed.
+11 [no object] Fishing secure a hook in the mouth of a fish by jerking or tightening the line after it has taken the bait or fly. 
 ▶noun
-1 a 48-hour strike: industrial action, walkout, job action, stoppage.
-2 a military strike: (air) attack, assault, bombing, raid.
-3 a gold strike: find, discovery.
+1 a refusal to work organized by a body of employees as a form of protest, typically in an attempt to gain a concession or concessions from their employer: dockers voted for an all-out strike 
+local government workers went on strike 
+[as modifier] : strike action. 
+• [with modifier] a refusal to do something expected or required, typically by a body of people, with a similar aim: a rent strike.
+2 a sudden attack, typically a military one: the threat of nuclear strikes. 
+• (in bowling) an act of knocking down all the pins with one's first ball. 
+• Fishing an act or instance of jerking or tightening the line to secure a fish that has already taken the bait or fly.
+3 a discovery of gold, minerals, or oil by drilling or mining: the Lena goldfields strike of 1912.
+4 Baseball a pitch that is counted against the batter, in particular one that the batter swings at and misses, or that passes through the strike zone without the batter swinging, or that the batter hits foul (unless two strikes have already been called). A batter accumulating three strikes is out. 
+• a pitch that passes through the strike zone and is not hit. 
+• North American something to one's discredit: when they returned from Vietnam they had two strikes against them.
+5 the horizontal or compass direction of a stratum, fault, or other geological feature.
+6 short for fly strike. 
 PHRASES
-strike out strike out the old phone number: delete, cross out, erase, rub out. strike up
-1 the band struck up another tune: begin to play, start playing.
-2 we struck up a friendship: begin, start, commence, embark on, establish.
+strike a balance see balance. strike a blow for (or at/against) do something to help (or hinder) a cause, belief, or principle: just by finishing the race, she hopes to strike a blow for womankind.strike a chord see chord2. strike at the root (or roots) of see root1. strike gold
+1 discover gold during the course of drilling or mining: as miners explored further, they struck gold in other nearby areas.
+2 be very successful in an undertaking or enterprise: he struck gold with his first picture, which was nominated for two Oscars. strike hands archaic (of two people) clasp hands to seal a deal or agreement. strike home see home. strike it rich informal acquire a great deal of money, typically in a sudden or unexpected way. strike me pink British informal dated used to express astonishment or indignation.strike a pose (or attitude) hold one's body in a particular position to create an impression: striking a dramatic pose, Antonia announced that she was leaving.strike while the iron is hot make use of an opportunity immediately. [with reference to smithing.]PHRASAL VERBS strike back
+1 retaliate: he struck back at critics who claim he is too negative.
+2 (of a gas burner) burn from an internal point before the gas has become mixed with air. strike in archaic intervene in a conversation or discussion. strike someone out (or strike out) Baseball put a batter out (or be put out) from play as a batter by means of three strikes. 
+• (strike out) North American informal fail or be unsuccessful: the company struck out the first time it tried to manufacture personal computers.strike up (or strike something up) (of a band or orchestra) begin to play a piece of music: they struck up the “Star-Spangled Banner.” 
+• (strike something up) begin a friendship or conversation with someone, typically in a casual way.ORIGIN Old English strīcan ‘go, flow’ and ‘rub lightly’; related to German streichen ‘to stroke,’ also to stroke. The sense ‘deliver a blow’ dates from Middle English.

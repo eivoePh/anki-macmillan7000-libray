@@ -10,14 +10,29 @@ noun
 ⑦ CountablePhysics 物体 wùtǐ heavenly bodies 天体 
 ⑧ Uncountable(fullness, richness) (of food) 稠度 chóudù (of wine) 醇度 chúndù (of hair) 浓密度 nóngmìdù 
 body 
-▶noun
-1 the human body: figure, frame, form, physique, anatomy, skeleton; soma; informal bod, soul case.
-2 he was hit by shrapnel in the head and body: torso, trunk.
-3 the body was exhumed: corpse, carcass, skeleton, remains; informal stiff; Medicine cadaver.
-4 the body of the essay: main part, central part, core, heart.
-5 a body of water: expanse, mass, area, stretch, tract, sweep, extent.
-6 a growing body of evidence: quantity, amount, volume, collection, mass, corpus.
-7 the representative body of the employers: association, organization, group, party, company, society, circle, syndicate, guild, corporation, contingent.
-8 add body to your hair: fullness, thickness, substance, bounce, lift, shape.
+ˈbädē
+
+▶noun (plural bodies)
+1 the physical structure of a person or an animal, including the bones, flesh, and organs: it's important to keep your body in good condition 
+[as modifier] : body temperature. 
+• the trunk apart from the head and the limbs: the blow almost severed his head from his body. 
+• a corpse: they found his body washed up on the beach. 
+• the physical and mortal aspect of a person as opposed to the soul or spirit: a duality of body and soul. 
+• informal a person's body regarded as an object of sexual desire: he was just after her body. 
+• informal, dated a person, often one of a specified type or character: a motherly body.
+2 the main section of a car or aircraft: the body of the aircraft was filled with smoke.
+3 the main or central part of something, especially a building or text: information that changes regularly is kept apart from the main body of the text. 
+• the part of an email containing the message, as opposed to information such as the subject and sender: put your name, address, and daytime phone number in the email's body. Compare with header ( sense 4).
+4 a large or substantial amount of something; a mass or collection of something: a rich body of Canadian folklore 
+large bodies of seawater. 
+• a group of people with a common purpose or function acting as an organized unit: a regulatory body 
+international bodies of experts.
+5 [often with adjective] technical a distinct material object: the path taken by the falling body.
+6 a full or substantial quality of flavor in wine. 
+• fullness or thickness of a person's hair: designed to add body to limp and straight hair.
+7 (in pottery) a clay used for making the main part of ceramic ware, as distinct from a glaze. 
+▶verb (bodies, bodying, bodied) [with object]
+1 (body something forth) give material form to something abstract: he bodied forth the traditional Prussian remedy for all ills.
+2 build the bodywork of (a motor vehicle): an era when automobiles were bodied over wooden frames. 
 PHRASES
-body and soul I belong to him body and soul: completely, entirely, totally, utterly, fully, thoroughly, wholeheartedly, unconditionally, to the hilt. CHOOSE THE RIGHT WORD body, cadaver, carcass, corpse, cremains, remains The problem of what to call the human body after it has departed this life is a delicate one. Although a body can be either dead or alive, human or animal, a corpse is most definitely a dead human body and a carcass is the body of a dead animal. The issue has been confused, of course, by the figurative use of carcass as a term of contempt: get your carcass out of bed and come down here! While carcass is often used humorously, there's nothing funny about corpse, a no-nonsense term for a lifeless physical body (the battlefield was littered with corpses). A funeral director is likely to prefer the term remains, which is a euphemism for the body of the deceased (he had his wife's remains shipped home for burial), or cremains, if the body has been cremated. A medical student, on the other hand, is much more likely to use the term cadaver, which is a corpse that is dissected in a laboratory for scientific study.These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+body and soul involving every aspect of a person; completely: the company owned them body and soul. in a body all together; as a group: they departed in a body. keep body and soul (or soul and body) together stay alive, especially in difficult circumstances: do you think a man can keep body and soul together by selling coconuts? over my dead body informal used to emphasize that one opposes something and would do anything to prevent it from happening: she moves into our home over my dead body.ORIGIN Old English bodig, of unknown origin.

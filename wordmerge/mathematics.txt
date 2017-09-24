@@ -4,7 +4,7 @@ noun plural
 ① plus singular verb (subject) 数学 shùxué 
 ② plus singular or plural verb (mathematical operations) 运算 yùnsuàn the mathematics of [something]; 某物的运算 
 mathematics 
-BrE maθ(ə)ˈmatɪks, AmE mæθ(ə)ˈmædɪks 
-noun plural 
-① plus singular verb (subject) 数学 shùxué 
-② plus singular or plural verb (mathematical operations) 运算 yùnsuàn the mathematics of [something]; 某物的运算 
+maTH(ə)ˈmadiks
+
+▶pl. noun [usually treated as singular] the abstract science of number, quantity, and space. Mathematics may be studied in its own right (pure mathematics), or as it is applied to other disciplines such as physics and engineering (applied mathematics). 
+• [often treated as plural] the mathematical aspects of something: the mathematics of general relativity. ORIGIN late 16th century: plural of obsolete mathematic ‘mathematics,’ from Old French mathematique, from Latin (ars) mathematica ‘mathematical (art),’ from Greek mathēmatikē (tekhnē), from the base of manthanein ‘learn.’

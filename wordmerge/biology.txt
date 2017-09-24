@@ -4,7 +4,8 @@ noun
 ① Uncountable(branch of science) 生物学 shēngwùxué a biology department 生物系 
 ② Countable(organism's nature) 生理 shēnglǐ 
 biology 
-BrE bʌɪˈɒlədʒi, AmE baɪˈɑlədʒi 
-noun 
-① Uncountable(branch of science) 生物学 shēngwùxué a biology department 生物系 
-② Countable(organism's nature) 生理 shēnglǐ 
+bīˈäləjē 
+(abbreviation biol.) 
+▶noun the study of living organisms, divided into many specialized fields that cover their morphology, physiology, anatomy, behavior, origin, and distribution. 
+• the plants and animals of a particular area: the biology of Chesapeake Bay. 
+• the physiology, behavior, and other qualities of a particular organism or class of organisms: human biology. ORIGIN early 19th century: coined in German, via French from Greek bios ‘life’ + -logy .

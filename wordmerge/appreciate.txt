@@ -7,8 +7,13 @@ A.  transitive verb
 ③ (enjoy) 欣赏 xīnshǎng 
 B.  intransitive verb Finance 升值 shēngzhí 
 appreciate 
-▶verb
-1 I'd appreciate your advice: be grateful for, be thankful for, be obliged for, be indebted for, be in your debt for, be appreciative of. ANTONYMS disparage.
-2 the college appreciated her greatly: value, treasure, admire, respect, hold in high regard, think highly of, think much of.
-3 we appreciate your difficulty: recognize, acknowledge, realize, know, be aware of, be conscious of, be sensitive to, understand, comprehend, grasp, fathom; informal be wise to.
-4 a home that will appreciate in value: increase, gain, grow, rise, go up, escalate, soar, rocket. ANTONYMS depreciate, decrease.
+əˈprēSHēˌāt
+
+▶verb [with object]
+1 recognize the full worth of: she feels that he does not appreciate her. 
+• be grateful for (something): I'd appreciate any information you could give me.
+2 understand (a situation) fully; recognize the full implications of: they failed to appreciate the pressure he was under 
+[with clause] : I appreciate that you cannot be held totally responsible.
+3 [no object] rise in value or price: they expected the house to appreciate in value. DERIVATIVES appreciator 
+-ˌātər 
+nounORIGIN mid 16th century: from late Latin appretiat- ‘set at a price, appraised,’ from the verb appretiare, from ad- ‘to’ + pretium ‘price.’

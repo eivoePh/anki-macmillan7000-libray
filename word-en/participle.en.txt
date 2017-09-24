@@ -1,3 +1,8 @@
 participle 
-BrE ˈpɑːtɪsɪp(ə)l, pɑːˈtɪsɪp(ə)l, AmE ˈpɑrdəˌsɪp(ə)l 
-noun 分词 fēncí past/present participle 过去/现在分词 
+ˈpärdəˌsip(ə)l
+
+▶noun Grammar a word formed from a verb (e.g., going, gone, being, been) and used as an adjective (e.g., working woman, burned toast) or a noun (e.g., good breeding). In English, participles are also used to make compound verb forms (e.g., is going, has been). Compare with gerund. DERIVATIVES participial 
+ˌpärdəˈsipēəl 
+adjective. participially 
+ˌpärtəˈsipēəlē 
+adverbORIGIN late Middle English: from Old French, by-form of participe, from Latin participium ‘(verbal form) sharing (the functions of a noun),’ from participare ‘share in.’

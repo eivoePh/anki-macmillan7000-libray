@@ -5,7 +5,8 @@ transitive verb
 ② (explain, make clear) 说明 shuōmíng to illustrate a point/how … 说明一个观点/如何… 
 ③ (exemplify) 举例说明 jǔlì shuōmíng to illustrate the fact that …; 举例说明…的事实 
 illustrate 
-▶verb
-1 the photographs that illustrate the book: decorate, adorn, ornament, accompany, embellish; add pictures/drawings to, provide artwork for.
-2 this can be illustrated through a brief example: explain, explicate, elucidate, clarify, make plain, demonstrate, show, emphasize; informal get across.
-3 his sense of humor was illustrated by his screen saver: exemplify, typify, epitomize, show, demonstrate, display, represent, encapsulate.
+ˈiləˌstrāt
+
+▶verb [with object] provide (a book, newspaper, etc.) with pictures: the guide is illustrated with full-color photographs. 
+• explain or make (something) clear by using examples, charts, pictures, etc.: the results are illustrated in Figure 7. 
+• serve as an example of: a collection of pieces that illustrate Bach's techniques. ORIGIN early 16th century (in the sense ‘illuminate, shed light on’): from Latin illustrat- ‘lit up,’ from the verb illustrare, from in- ‘upon’ + lustrare ‘illuminate.’

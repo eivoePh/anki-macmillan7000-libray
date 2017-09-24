@@ -1,10 +1,35 @@
-trip 
-▶verb
-1 he tripped on the loose stones: stumble, lose one's footing, catch one's foot, slip, lose one's balance, fall, fall down, tumble, topple, take a spill, wipe out.
-2 students often trip up by forgetting to add a bibliography: make a mistake, miscalculate, make a blunder, blunder, go wrong, make an error, err; informal slip up, screw up, make a boo-boo, goof up, mess up, fluff.
-3 the question was intended to trip him up : catch out, trick, outwit, outsmart; throw off balance, disconcert, unsettle, discountenance, discomfit, throw, wrong-foot.
-4 they tripped merrily along the path: skip, run, dance, prance, bound, spring, scamper.
-5 Hoffman tripped the alarm: set off, activate, trigger; turn on.
+trip
+1 
+trip
+
+▶verb (trips, tripping, tripped)
+1 [no object] catch one's foot on something and stumble or fall: he tripped over his cat 
+she tripped up during the penultimate lap. 
+• [with object] cause (someone) to do this: she shot out her foot to trip him up. 
+• (trip up) make a mistake: taxpayers often trip up by not declaring taxable income. 
+• [with object] (trip someone up) detect or expose someone in an error, blunder, or inconsistency: the man was determined to trip him up on his economics.
+2 [no object] walk, run, or dance with quick light steps: they tripped up the terrace steps. 
+• (of words) flow lightly and easily: a name that trips off the tongue 
+the guest list tripped from her lips.
+3 [with object] activate (a mechanism), especially by contact with a switch, catch, or other electrical device: an intruder trips the alarm. 
+• [no object] (of part of an electric circuit) disconnect automatically as a safety measure: the plugs will trip as soon as any change in current is detected.
+4 [with object] Nautical release and raise (an anchor) from the seabed by means of a buoyed line attached to the anchor's crown. 
+• turn (a yard or other object) from a horizontal to a vertical position for lowering.
+5 [no object] informal experience hallucinations induced by taking a psychedelic drug, especially LSD: they prance around tripping out on their hallucinogens. 
+• (be tripping) North American be behaving in an irrational or crazy way: you're tripping if you think I'm hanging around 
+I would like to know if I'm the one who's trippin' or if it's him.
+6 [no object] go on a short journey: when tripping through the Yukon, take some time to explore our museums. 
 ▶noun
-1 a trip to Oahu: excursion, outing, jaunt; vacation, visit, tour, journey, expedition, voyage; drive, run, day out, day trip, road trip, cruise, junket, spin; rare peregrination.
-2 a trip down icy front steps can be a devastating accident: stumble, slip, misstep, false step; fall, tumble, spill.CHOOSE THE RIGHT WORD See journey .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 an act of going to a place and returning; a journey or excursion, especially for pleasure: Sally's gone on a school trip 
+a trip to the North Pole 
+a quick trip to the store.
+2 a stumble or fall due to catching one's foot on something. 
+• archaic a mistake: an occasional trip in the performance.
+3 informal a hallucinatory experience caused by taking a psychedelic drug, especially LSD: acid trips. 
+• an exciting or stimulating experience: it was a trip seeing him again. 
+• a self-indulgent attitude or activity: politics was a sixties trip.
+4 a device that activates or disconnects a mechanism, circuit, etc.
+5 archaic a light, lively movement of a person's feet: yonder comes Dalinda; I know her by her trip. 
+PHRASES
+trip the light fantastic humorous dance, in particular engage in ballroom dancing. [from “Trip it as you go 
+On the light fantastic toe” (Milton's L'Allegro).]ORIGIN Middle English: from Old French triper, from Middle Dutch trippen ‘to skip, hop.’

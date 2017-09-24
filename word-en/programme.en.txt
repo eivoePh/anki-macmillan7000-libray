@@ -1,8 +1,21 @@
 program 
+ˈprōˌɡram 
+(British programme) 
 ▶noun
-1 our program for the day: schedule, agenda, calendar, timetable; order of events, lineup.
-2 the government's reform program: plan of action, series of measures, strategy, scheme.
-3 a television program: broadcast, production, show, presentation, transmission, performance, telecast.
-4 a program of study: course, syllabus, curriculum.
-5 a theater program: guide, list of performers, cast list, playbill.
-▶verb they programmed the day well: arrange, organize, schedule, plan, map out, timetable, line up, slate.
+1 a planned series of future events, items, or performances: a weekly program of films 
+the program includes Dvorak's New World symphony. 
+• a set of related measures, events, or activities with a particular long-term aim: the nuclear power program.
+2 a sheet or booklet giving details of items or performers at an event or performance: a theater program.
+3 a presentation or item on radio or television, especially one broadcast regularly between stated times: a nature program. 
+• dated a radio or television service or station providing a regular succession of programs on a particular frequency; a channel.
+4 (program) a series of coded software instructions to control the operation of a computer or other machine. 
+▶verb (programs, programming, programmed, or programing, programed) [with object]
+1 (program) provide (a computer or other machine) with coded instructions for the automatic performance of a particular task: it is a simple matter to program the computer to recognize such symbols. 
+• [no object] write computer programs: I've programmed for 25 years and have used many languages. 
+• input (instructions for the automatic performance of a task) into a computer or other machine: simply program in your desired volume level. 
+• cause (a person or animal) to behave in a predetermined way: all members of a particular species are programmed to build nests in the same way.
+2 arrange according to a plan or schedule: we learn how to program our own lives consciously. 
+• schedule (an item) within a framework: the next stage of the treaty is programmed for 1996. 
+• US broadcast (an item): the station does not program enough contemporary works. 
+PHRASES
+get with the program [often in imperative] North American informal do what is expected of one; adopt the prevailing viewpoint.ORIGIN early 17th century (in the sense ‘written notice’): via late Latin from Greek programma, from prographein ‘write publicly,’ from pro ‘before’ + graphein ‘write.’

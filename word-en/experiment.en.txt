@@ -1,5 +1,10 @@
 experiment 
-▶noun
-1 carrying out experiments: test, investigation, trial, examination, observation; assessment, evaluation, appraisal, analysis, study.
-2 these results have been established by experiment: research, experimentation, observation, analysis, testing.
-▶verb they experimented with new ideas: conduct experiments, carry out trials/tests, conduct research; test, trial, do tests on, try out, assess, appraise, evaluate.
+▶noun 
+ikˈsperəmənt 
+a scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact: laboratory experiments on guinea pigs 
+I have tested this by experiment. 
+• a course of action tentatively adopted without being sure of the eventual outcome: the previous experiment in liberal democracy had ended in disaster. 
+▶verb 
+ikˈsperəmənt 
+[no object] perform a scientific procedure, especially in a laboratory, to determine something: she experimented on chickens as well as mice. 
+• try out new concepts or ways of doing things: the designers experimented with new ideas in lighting. ORIGIN Middle English: from Old French, or from Latin experimentum, from experiri ‘try.’ Compare with experience and expert .

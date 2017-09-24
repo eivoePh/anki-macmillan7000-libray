@@ -48,16 +48,69 @@ B.  intransitive verb
 ① to square with [something] (be consistent with) 和某事物一致 hé mǒu shìwù yīzhì that doesn't square with what you said yesterday 那和你昨天所讲的不吻合 
 ② to square with [somebody] (come to agreement) 征得某人的同意 zhēngdé mǒu rén de tóngyì 
 square 
+skwer
+
 ▶noun
-1 a shop in the square: market square, marketplace, plaza, piazza.
-2 informal you're such a square! (old) fogey, conservative, traditionalist, conformist, bourgeois, fossil; informal stick-in-the-mud, fuddy-duddy, prig, stuffed shirt. ANTONYMS trendy.
+1 a plane figure with four equal straight sides and four right angles. 
+• a thing having the shape of four equal straight sides and four right angles: she tore a bit of cloth into a four-inch square. 
+• a thing having the shape or approximate shape of a cube: a small square of chocolate. 
+• an open (typically four-sided) area surrounded by buildings in a town, village, or city: a market square 
+[in place names] : Herald Square. 
+• an open area at the meeting of streets. 
+• a small square area on the board used in a game. 
+• US a block of buildings bounded by four streets. 
+• historical a body of infantry drawn up in rectangular form. 
+• a unit of 100 square ft. used as a measure of flooring, roofing, etc.
+2 the product of a number multiplied by itself: a circle's area is proportional to the square of its radius.
+3 an L-shaped or T-shaped instrument used for obtaining or testing right angles: a carpenter's square. 
+• Astrology an aspect of 90° (one quarter of a circle): Venus in square to Jupiter.
+4 informal a person considered to be old-fashioned or boringly conventional in attitude or behavior. 
+• North American a cigarette containing tobacco rather than cannabis.
+5 North American informal a square meal: three squares a day. 
 ▶adjective
-1 a square table: quadrilateral, rectangular, oblong, right-angled, at right angles, perpendicular; straight, level, parallel, horizontal, upright, vertical, true, plane. ANTONYMS crooked, uneven.
-2 the sides were square at halftime: level, even, drawn, equal, tied; neck and neck, nip and tuck, side by side, evenly matched; informal even-steven(s). ANTONYMS uneven.
-3 I'm going to be square with you: fair, honest, just, equitable, straight, true, upright, aboveboard, ethical, decent, proper; informal on the level. ANTONYMS underhanded.
-4 informal don't be square! old-fashioned, behind the times, out of date, conservative, traditionalist, conventional, conformist, bourgeois, strait-laced, fogeyish, stuffy; informal stick-in-the-mud, fuddy-duddy. ANTONYMS trendy.
-▶verb
-1 the theory does not square with the data: agree, tally, be in agreement, be consistent, match up, correspond, fit, coincide, accord, conform, be compatible.
-2 his goal squared the match 1–1: level, even, make equal.
-3 would you square up the bill? pay, settle, discharge, clear, meet.
-4 Bob squared things with his boss: resolve, sort out, settle, clear up, work out, iron out, smooth over, straighten out, deal with, put right, set right, put to rights, rectify, remedy; informal patch up.
+1 having the shape or approximate shape of a square: a square table. 
+• having the shape or approximate shape of a cube: a square box. 
+• having or in the form of two right angles: a suitable length of wood with square ends. 
+• having an outline resembling two corners of a square: his square jaw. 
+• broad and solid in shape: he was short and square.
+2 denoting a unit of measurement equal to the area of a square whose side is of the unit specified: 30,000 square feet of new gallery space. 
+• [postpositive] denoting the length of each side of a square shape or object: the office was fifteen feet square.
+3 at right angles; perpendicular: these lines must be square to the top and bottom marked edges. 
+• Astrology having or denoting an aspect of 90°: Jupiter is square to the Sun.
+4 level or parallel: place one piece of wood on top of the other, ensuring that they are exactly square. 
+• properly arranged; in good order: we should get everything square before we leave. 
+• compatible or in agreement: he wanted to make sure we were square with the court's decision and not subject to a lawsuit. 
+• fair and honest: she'd been as square with him as anybody could be.
+5 (of two people) owing nothing to each other: an acknowledgment that we are square. 
+• with both players or sides having equal scores in a game: the goal brought the match all square once again.
+6 informal old-fashioned or boringly conventional: Elvis was anything but square.
+7 (of rhythm) simple and straightforward. 
+▶adverb directly; straight: it hit me square in the forehead. 
+• informal fairly; honestly: I'd acted square and on the level with him. 
+▶verb [with object]
+1 make square or rectangular; give a square or rectangular cross section to: you can square off the other edge. 
+• (usually as adjective squared) mark out in squares.
+2 multiply (a number) by itself:
+5 squared equals 25. 
+• [usually as postpositive adjective] (squared) convert (a linear unit of measurement) to a unit of area equal to a square whose side is of the unit specified: there were only three people per kilometer squared.
+3 make compatible; reconcile: I'm able to square my profession with my religious beliefs. 
+• [no object] be compatible: do those announcements really square with the facts?
+4 balance (an account): they're anxious to square their books before the audit. 
+• make the score of (a match or game) even: [with object and complement] : his goal squared the match 1-1. 
+• informal secure the help, acquiescence, or silence of (someone), especially by offering an inducement: trying to square the press.
+5 bring (one's shoulders) into a position in which they appear square and broad, typically to prepare oneself for a difficult task or event: chin up, shoulders squared, she stepped into the room. 
+• (square oneself) adopt a posture of defense.
+6 Sailing set (a yard or other part of a ship) approximately at right angles to the keel or other point of reference.
+7 Astrology (of a planet) have a square aspect with (another planet or position): Saturn squares the Sun on the 17th. 
+PHRASES
+back to (or at) square one informal back to where one started, with no progress having been made. on the square
+1 informal honest; straightforward.
+2 informal honestly; fairly.
+3 at right angles. out of square not at right angles. square accounts with see account. square the circle construct a square equal in area to a given circle (a problem incapable of a purely geometric solution). 
+• do something that is considered to be impossible. a square peg in a round hole see peg. PHRASAL VERBS square something away North American arrange or deal with something in a satisfactory way: don't you worry, we'll get things squared away. square off assume the attitude of a person about to fight: the two men squared off 
+figurative : a debate gives the candidates an opportunity to square off. square up settle or pay an account: would you square up the bill? 
+• settle a dispute or misunderstanding: I want to square up whatever's wrong between us.DERIVATIVES squareness 
+ˈskwernəs 
+noun. squarer 
+ˈskwerər 
+noun. squarish adjectiveORIGIN Middle English: shortening of Old French esquare (noun), esquarre (past participle, used as an adjective), esquarrer (verb), based on Latin quadra ‘square.’

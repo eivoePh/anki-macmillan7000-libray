@@ -8,7 +8,16 @@ A.  transitive verb
 B.  intransitive verb formal 归属 guīshǔ to attach to [somebody]/[something]; 与某人/某事物有关 
 C.  reflexive verb to attach oneself to [somebody]; 缠上某人 chánshang mǒu rén 
 attach 
-▶verb
-1 a lead weight is attached to the cord: fasten, fix, affix, join, connect, link, couple, secure, make fast, tie, bind, chain; stick, adhere, glue, fuse; append. ANTONYMS detach.
-2 they attached importance to research: ascribe, assign, attribute, accredit, impute.
-3 the medical officer attached to HQ: assign, appoint, allocate, second; Military detail.
+əˈtaCH
+
+▶verb [with object]
+1 fasten; join: he made certain that the trailer was securely attached to the van. 
+• fasten (a related document) to another, or to an email: I attach a copy of the memo for your information. 
+• include (a condition) as part of an agreement: the Commission can attach appropriate conditions to the operation of the agreement. 
+• (attach oneself to) join (someone or something) without being invited: they were all too ready to attach themselves to you for the whole day. 
+• (usually be attached) appoint (someone) for special or temporary duties: I was attached to another department.
+2 (attach something to) attribute importance or value to: he doesn't attach too much importance to radical ideas. 
+• [no object] (attach to) (of importance or value) be attributed to: great importance attaches to the family role.
+3 Law seize (a person's property) by legal authority: the court attached his wages for child support. DERIVATIVES attachable 
+əˈtaCHəb(ə)l 
+adjectiveORIGIN Middle English (in the sense ‘seize by legal authority’): from Old French atachier or estachier ‘fasten, fix,’ based on an element of Germanic origin related to stake1; compare with attack .

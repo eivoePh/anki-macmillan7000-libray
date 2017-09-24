@@ -1,8 +1,11 @@
 royalty 
-BrE ˈrɔɪəlti, AmE ˈrɔɪəlti 
-nounplus singular or plural verb 
-① Uncountable(king, queen, etc.) 王室成员 wángshì chéngyuán to treat [somebody] like royalty 给某人以君王般的礼遇 
-② Uncountable(status) 王权 wángquán 
-③ Countable(for copyright) 版税 bǎnshuì 
-④ Countable(for patent) 专利权费 zhuānlìquánfèi 
-⑤ Countable(for mineral rights) 矿区土地使用费 kuàngqū tǔdì shǐyòngfèi 
+ˈroiəltē
+
+▶noun (plural royalties)
+1 people of royal blood or status: diplomats, heads of state, and royalty shared tables at the banquet. 
+• a member of a royal family: she swept by as if she were royalty. 
+• the status or power of a king or queen: the brilliance of her clothes, her jewels, all revealed her royalty. 
+• the most successful, famous, or highly regarded members of a particular group: it's not often you meet real Hollywood royalty, let alone chat to Angelina Jolie and Dustin Hoffman in one day.
+2 a sum of money paid to a patentee for the use of a patent or to an author or composer for each copy of a book sold or for each public performance of a work.
+3 a royal right (now especially over minerals) granted by a sovereign to an individual or corporation. 
+• a payment made by a producer of minerals, oil, or natural gas to the owner of the site or of the mineral rights over it. ORIGIN late Middle English: from Old French roialte, from roial (see royal). The sense ‘royal right (especially over minerals)’ (late 15th century) developed into the sense ‘payment made by a mineral producer to the site owner’ (mid 19th century), which was then transferred to payments for the use of patents and published materials.

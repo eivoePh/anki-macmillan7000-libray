@@ -4,6 +4,8 @@ transitive verb
 ① (put furniture in) 为…配备家具 wèi… pèibèi jiājù ‹room, flat, office›to furnish [something] with [something]; 用某物布置某处 
 ② (provide) 提供 tígōng ‹information, equipment, supplies›to furnish [somebody] with [something]; 为某人提供某物 
 furnish 
-▶verb
-1 the bedrooms are elegantly furnished: fit out, provide with furniture, appoint, outfit.
-2 grooms furnished us with horses for our journey: supply, provide, equip, provision, issue, kit out, present, give, offer, afford, purvey, bestow; informal fix up.
+ˈfərniSH
+
+▶verb [with object] provide (a house or room) with furniture and fittings: the proprietor has furnished the bedrooms in a variety of styles. 
+• (furnish someone with) supply someone with (something); give (something) to someone: she was able to furnish me with details of the incident. 
+• be a source of; provide: fish furnish an important source of protein. ORIGIN late Middle English (in the general sense ‘provide or equip with what is necessary or desirable’): from Old French furniss-, lengthened stem of furnir, ultimately of West Germanic origin.

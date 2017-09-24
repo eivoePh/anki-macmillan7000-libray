@@ -1,5 +1,9 @@
 rational 
+ˈraSH(ə)n(ə)l
+
 ▶adjective
-1 a rational approach: logical, reasoned, sensible, reasonable, cogent, intelligent, judicious, shrewd, common-sense, commonsensical, sound, prudent; down-to-earth, practical, pragmatic. ANTONYMS illogical.
-2 she was not rational at the time of signing: sane, compos mentis, in one's right mind, of sound mind; normal, balanced, grounded, lucid, coherent; informal all there. ANTONYMS insane.
-3 humans are rational beings: intelligent, thinking, reasoning; cerebral, logical, analytical; formal ratiocinative.
+1 based on or in accordance with reason or logic: I'm sure there's a perfectly rational explanation. 
+• (of a person) able to think clearly, sensibly, and logically: Andrea's upset—she's not being very rational. 
+• endowed with the capacity to reason: man is a rational being.
+2 Mathematics (of a number, quantity, or expression) expressible, or containing quantities that are expressible, as a ratio of whole numbers. When expressed as a decimal, a rational number has a finite or recurring expansion. 
+▶noun Mathematics a rational number. ORIGIN late Middle English (in the sense ‘having the ability to reason’): from Latin rationalis, from ratio(n-) ‘reckoning, reason’ (see ratio) .

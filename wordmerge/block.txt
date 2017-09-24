@@ -25,15 +25,56 @@ B.  transitive verb
 A.  transitive verb [block up something], [block something up] 堵塞 dǔsè ‹passage, hole›
 B.  intransitive verb «passage, hole» 被堵塞 bèi dǔsè 
 block 
+bläk
+
 ▶noun
-1 a block of cheese: chunk, hunk, lump, wedge, cube, brick, slab, bar, piece.
-2 an apartment block: building, complex, structure, development.
-3 a block of shares: batch, group, set, quantity.
-4 a block to reasoned public debate: obstacle, bar, barrier, impediment, hindrance, check, hurdle, stumbling block, handicap, deterrent. ANTONYMS aid.
-5 a block in the pipe: blockage, obstruction, stoppage, clog, congestion, occlusion, clot.
-▶verb
-1 weeds can block drainage ditches: clog (up), stop up, choke, plug, obstruct, gum up, dam up, congest, jam, close; informal gunge up; technical occlude. ANTONYMS open.
-2 picket lines blocked access to the factory: hinder, hamper, obstruct, impede, inhibit, restrict, limit; halt, stop, bar, check, prevent. ANTONYMS facilitate.
-3 he blocked a shot on the goal line: stop, deflect, fend off, hold off, repel, parry, repulse.
+1 a large solid piece of hard material, especially rock, stone, or wood, typically with flat surfaces on each side: a block of marble. 
+• a sturdy, flat-topped block used as a work surface, typically for chopping food. 
+• (usually blocks) any of a set of solid cubes used as a child's toy. 
+• (usually blocks) a starting block: the thrust a sprinter gets when coming out of the blocks. 
+• Printing a piece of wood or metal engraved for printing on paper or fabric. 
+• (also cylinder block or engine block) the main body of an internal combustion engine, containing the pistons. 
+• a head-shaped mold used for shaping hats or wigs.
+2 North American the area bounded by four streets in a town or suburb: she went for a run around the block 
+ours was the ugliest house on the block. 
+• North American the length of one side of a town block, typically as a measure of distance: he lives a few blocks away from the museum.
+3 [with modifier] a building, especially part of a complex, used for a particular purpose: a cell block. 
+• chiefly British a large single building subdivided into separate rooms, apartments, or offices: an apartment block.
+4 a large quantity or allocation of things regarded as a unit: a block of shares 
+[as modifier] : block grants. 
+• Computing a large piece of text processed as a unit. 
+• chiefly British a set of sheets of paper glued along one edge, used for drawing or writing on: a sketching block. 
+• an unseparated unit of at least four postage stamps in at least two rows, generally a group of four.
+5 an obstacle to the normal progress or functioning of something: substantial demands for time off may constitute a block to career advancement 
+an emotional block. 
+• (in sports) a hindering or stopping of an opponent's movement or action. 
+• Tennis a shot in which the racket is held stationary rather than being swung back, especially a stop volley. 
+• short for mental block. 
+• short for nerve block. 
+• a chock for stopping the motion of a wheel.
+6 a flat area of something, typically a solid area of color: cover the eyelid with a neutral block of color.
+7 a pulley or system of pulleys mounted in a case.
+8 informal a person's head: “I'll knock your block off,” he said. 
+▶verb [with object]
+1 make the movement or flow in (a passage, pipe, road, etc.) difficult or impossible: block up the holes with sticky tape 
+a police cordon blocked off roads 
+(as adjective blocked) : a blocked nose. 
+• put an obstacle in the way of (something proposed or attempted): he stood up, blocking her escape 
+the administration tried to block an agreement on farm subsidies. 
+• restrict the use or conversion of (currency or any other asset). 
+• (in sports) hinder or stop the movement or action of (an opponent, a ball, etc.). 
+• Medicine produce insensibility in (a part of the body) by injecting an anesthetic close to the nerves that supply it. 
+• Bridge play in such a way that an opponent cannot establish (a long suit).
+2 impress text or a design on (a book cover).
+3 design or plan the movements of actors on a stage or movie set.
+4 shape or reshape (a hat) using a wooden mold. 
 PHRASES
-block something off the bridge was blocked off: close up, shut off, seal off, barricade, bar, obstruct. block something out trees blocked out the light: conceal, keep out, blot out, exclude, obliterate, blank out, stop.
+have been around the block (a few times) North American informal (of a person) have a lot of experience.the new kid on the block informal a newcomer to a particular place or sphere of activity, typically someone who has yet to prove themselves. on the (auction) block for sale at auction: the original first manuscript for Ravel's Bolero goes on the block today 
+figurative : the company put its subsidiary on the block because it did not fit its core business interests. put (or lay) one's head (or neck) on the block informal put one's standing or reputation at risk by proceeding with a particular course of action. [with reference to the executioner's block.]PHRASAL VERBS block something in
+1 mark something out roughly. 
+• add something in a unit: it's a good idea to block in regular periods of exercise. 
+• paint something with solid areas of color.
+2 park one's car in such a way as to prevent another car from moving away: he blocked in Vera's minivan. block something out
+1 stop something, typically light or noise, from reaching somewhere: you're blocking out my sun. 
+• exclude something unpleasant from one's thoughts or memory.
+2 mark or sketch something out roughly.ORIGIN Middle English (denoting a log or tree stump): from Old French bloc (noun), bloquer (verb), from Middle Dutch blok, of unknown ultimate origin.

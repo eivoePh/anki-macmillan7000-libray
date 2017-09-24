@@ -4,6 +4,11 @@ adjective
 ① (relating to logic) 逻辑的 luóji de logical thought/reasoning 逻辑思考/推理 
 ② (reasonable) 合理的 hélǐ de ‹solution, conclusion›
 logical 
-▶adjective
-1 information displayed in a logical fashion: reasoned, well reasoned, reasonable, rational, left-brained, sound, cogent, well-thought-out, valid; coherent, clear, well organized, systematic, orderly, methodical, analytical, consistent, objective. ANTONYMS illogical, irrational.
-2 the logical outcome: natural, reasonable, sensible, understandable; predictable, unsurprising, only to be expected, most likely, likeliest, obvious. ANTONYMS unlikely, surprising.
+ˈläjək(ə)l
+
+▶adjective of or according to the rules of logic or formal argument: a logical impossibility. 
+• characterized by or capable of clear, sound reasoning: the information is displayed in a simple and logical fashion 
+her logical mind. 
+• (of an action, development, decision, etc.) natural or sensible given the circumstances: it is a logical progression from the job before. DERIVATIVES logicality 
+ˌläjəˈkalədē 
+nounORIGIN late Middle English: from medieval Latin logicalis, from late Latin logica (see logic) .

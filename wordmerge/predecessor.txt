@@ -4,6 +4,7 @@ noun
 ① (person) 前任 qiánrèn 
 ② (thing) 被替代的事物 bèi tìdài de shìwù 
 predecessor 
-▶noun
-1 the senator's predecessor: forerunner, precursor, antecedent. ANTONYMS successor.
-2 our Victorian predecessors: ancestor, forefather, forebear, antecedent. ANTONYMS descendant.
+ˈpredəˌsesər ˈprēdəˌsesər
+
+▶noun a person who held a job or office before the current holder: the new president's foreign policy is very similar to that of his predecessor. 
+• a thing that has been followed or replaced by another: the chapel was built in 1864 on the site of its predecessor. ORIGIN late Middle English: from late Latin praedecessor, from Latin prae ‘beforehand’ + decessor ‘retiring officer’ (from decedere ‘depart’).

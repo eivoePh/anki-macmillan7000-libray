@@ -16,16 +16,36 @@ B.  transitive verb
 A.  transitive verb[shell out something] 大笔支付 dàbǐ zhīfù ‹money, taxes, donations›
 B.  intransitive verb 大笔付款 dàbǐ fùkuǎn to shell out on [something]; 支付某物的费用 
 shell 
+SHel
+
 ▶noun
-1 a crab shell: carapace, exterior; armor; Zoology exoskeleton.
-2 peanut shells: pod, husk, hull, casing, case, covering, integument, shuck.
-3 shells passing overhead: projectile, bomb, explosive; grenade; bullet, cartridge.
-4 the metal shell of the car: framework, frame, chassis, skeleton; hull, exterior.
+1 the hard protective outer case of a mollusk or crustacean: cowrie shells 
+the technique of carving shell. 
+• the thin outer covering of an animal's egg, which is hard and fragile in that of a bird but leathery in that of a reptile. 
+• the outer case of a nut kernel or seed. 
+• the carapace of a tortoise, turtle, or terrapin. 
+• the wing cases of a beetle. 
+• the integument of an insect pupa or chrysalis. 
+• (one's shell) used with reference to a state of shyness or introversion: she'll soon come out of her shell with the right encouragement.
+2 something resembling or likened to a shell because of its shape or its function as an outer case: pasta shells 
+baked pastry shells filled with cheese. 
+• the walls of an unfinished or gutted building or other structure: the hotel was a shell, the roof having collapsed completely. 
+• an outer form without substance: he was a shell of the man he had been previously. 
+• a light racing boat used in the sport of crew. 
+• the metal framework of a vehicle body. 
+• an inner or roughly made coffin. 
+• the hand guard of a sword. 
+• Physics each of a set of orbitals around the nucleus of an atom, occupied or able to be occupied by electrons of similar energies.
+3 an explosive artillery projectile or bomb: the sound of the shell passing over, followed by the explosion 
+[as modifier] : shell holes. 
+• a hollow metal or paper case used as a container for fireworks, explosives, or cartridges. 
+• North American a cartridge.
+4 Computing short for shell program. 
 ▶verb
-1 they were shelling peas: hull, pod, husk, shuck.
-2 rebel artillery shelled the city: bombard, fire on, shoot at, attack, bomb, blitz, strafe.
-PHRASES
-shell out informal how much did you shell out for those shoes? See pay (sense
-2 of the verb). 
-WORD LINKS
-shell conchology the scientific study of shellsWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 [with object] bombard with shells: the guns started shelling their positions.
+2 [with object] remove the shell or pod from (a nut or seed): they were shelling peas 
+(as adjective shelled) : shelled Brazil nuts.
+3 [no object] gather seashells: there was nothing to do except swim or go shelling on the beaches. PHRASAL VERBS shell something out (or shell out) informal pay a specified amount of money, especially an amount that is resented as being excessive: it doesn't make sense to shell out $8.50 for an elevator ride.DERIVATIVES shell-less adjective. shelly 
+ˈSHelē 
+adjectiveORIGIN Old English scell (noun), of Germanic origin; related to Dutch schel ‘scale, shell,’ also to scale1. The verb dates from the mid 16th century in sense
+2 of the verb .

@@ -1,8 +1,17 @@
 scan 
-▶verb
-1 Adam scanned the horizon: scrutinize, examine, study, inspect, survey, search, scour, sweep, look at, stare at, look someone/something up and down, gaze at, eye, watch; contemplate, regard, take stock of; informal check out, scope (out).
-2 I scanned the pages of his diary: glance through/over, look through/over, have a look at, run/cast/pass one's eye over, skim (through), flick through, flip through, leaf through, thumb through, rifle through, read quickly, browse (through). ANTONYMS pore over.
-▶noun
-1 a careful scan of the terrain: inspection, scrutiny, examination, survey.
-2 a quick scan through the report: glance, look, flick, browse, skim.
-3 a brain scan: examination, screening, MRI, ultrasound.
+skan
+
+▶verb (scans, scanning, scanned) [with object]
+1 look at all parts of (something) carefully in order to detect some feature: he raised his binoculars to scan the coast. 
+• look quickly but not very thoroughly through (a document or other text) in order to identify relevant information: we scan the papers for news from the trouble spots 
+[no object] : I scanned through the reference materials.
+2 cause (a surface, object, or part of the body) to be traversed by a detector or an electromagnetic beam: their brains are scanned so that researchers can monitor the progress of the disease. 
+• cause (a beam) to traverse across a surface or object: we scanned the beam over a sector of 120°. 
+• convert (a document or picture) into digital form for storage or processing on a computer: text and pictures can be scanned into the computer. 
+• resolve (a picture) into its elements of light and shade in a prearranged pattern for the purposes of television transmission.
+3 analyze the meter of (a line of verse) by reading with the emphasis on its rhythm or by examining the pattern of feet or syllables. 
+• [no object] (of verse) conform to metrical principles. 
+▶noun an act of scanning someone or something: a quick scan of the sports page. 
+• a medical examination using a scanner: a brain scan. 
+• an image obtained by scanning or with a scanner: we can't predict anything until we have seen the scan. DERIVATIVES scannable adjectiveORIGIN late Middle English (as a verb in sense
+3 of the verb): from Latin scandere ‘climb’ (in late Latin ‘scan (verses)’), by analogy with the raising and lowering of one's foot when marking rhythm. From ‘analyze (meter)’ arose the senses ‘estimate the correctness of’ and ‘examine minutely,’ which led to ‘look at searchingly’ (late 18th century).

@@ -7,10 +7,12 @@ A.  noun
 B.  in addition adverb phrase 另外 lìngwài 
 C.  in addition to preposition phrase 除…之外 chú… zhī wài 
 addition 
+əˈdiSH(ə)n 
+(abbreviation addn.) 
 ▶noun
-1 the soil is improved by the addition of compost: adding, incorporation, inclusion, introduction.
-2 an addition to the existing regulations: supplement, adjunct, addendum, adhesion, appendage, add-on, extra, attachment; rider, appurtenance.
+1 the action or process of adding something to something else: the hotel has been extended with the addition of more rooms. 
+• a person or thing added or joined, typically in order to improve something: you will find the coat a useful addition to your wardrobe.
+2 (abbreviation addn.) the process or skill of calculating the total of two or more numbers or amounts: she began with simple arithmetic, addition and then subtraction. 
+• Mathematics the process of combining matrices, vectors, or other quantities under specific rules to obtain their sum. 
 PHRASES
-in addition
-1 the wind was frigid and, in addition, the sky threatened rain: additionally, as well, what's more, furthermore, moreover, also, into the bargain, to boot, likewise.
-2 three presidential hopefuls in addition to the vice president: besides, as well as, along with, other than, apart from, on top of, plus, over and above, not to mention, to say nothing of.
+in addition as an extra person, thing, or circumstance: members of the board were paid a small allowance in addition to their normal salary.ORIGIN late Middle English: from Latin additio(n-), from the verb addere (see add) .

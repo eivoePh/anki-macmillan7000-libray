@@ -9,7 +9,6 @@
  * 配置导入后的记忆库为混乱模式
  * 导出 apkg 给别人或者自己用
 
-
 ## 单词来源
 单词列表采用[赛门喵麦克米伦7000高频词记忆卡](https://zhuanlan.zhihu.com/p/27063304)中的单词表
 删除了IT/it及其他4个重复单词,最终单词数量为`6140`
@@ -30,7 +29,7 @@
 
 ## 单词解释来源
     中文含义来自 Apple Dictionary 牛津英汉汉英词典(Simplified Chinese-English)
-    英文含义来自 Apple Dictionary Oxford American Writer's Thesaurus (American English)
+    英文含义来自 Apple Dictionary New Oxford American Dictionary(American English)
 
 ## 生成中文含义
 * 调节 Apple Dictionary中字典顺序，将`牛津英汉汉英词典(Simplified Chinese-English)`拖动至最上层
@@ -87,7 +86,39 @@
 <div class="explain" style="text-align:left;font-size:12px; color: #444;">{{explain}}</div>
 ```
 
+## 从word-zh word-en 合成 wordmerge
+    ./gen-mergeword.scala macmillan7000word.list
 
+## 将 wordmerge 合成 anki-card
+    ./gen-ankicard.scala macmillan7000word.list
+    生成 macmillan7000word.card.txt
+
+## 导入 anki 
+    导入文件 ->选择`macmillan7000word.card.txt` -> 类型&记忆库 anki-macmillan7000-libray 
+    -> 区域分割：选项卡
+    -> 导入，即使已存在有同样第一字段的笔记
+    -> 允许在字段中使用HTML
+    -> 导入成功。 添加了6140条笔记, 更新了0条笔记, 0 处附注不变.
+
+### 库简介
+```html
+<h1>Anki macmillan 7000 记忆库</h1>
+<h8>version 0.1(2017/09/24)</h8>
+<br />
+
+<h8><a href="https://github.com/jiahualong/anki-macmillan7000-libray">GitHub Project Anki-macmillan7000-libray</a></h8>
+<h8><a href="#">Anki Page</a></h8>
+<br />
+
+<h8>资源来源:</h8>
+<h8> 
+	<li>单词列表源自 <a href="https://zhuanlan.zhihu.com/p/27063304">赛门喵麦克米伦7000高频词记忆卡</a></li>
+	<li>发音源自 Apple Daniel United Kingdom English Sound</li>
+	<li>中文翻译源自 Apple 牛津英汉汉英词典(Simplified Chinese-English) Dictionary </li>
+	<li>英文翻译源自 Apple New Oxford American Dictionary(American English) Dictionary</h8>
+</h8>
+
+```
 
 ## 引用
 * [赛门喵麦克米伦7000高频词记忆卡](https://zhuanlan.zhihu.com/p/27063304)

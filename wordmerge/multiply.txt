@@ -9,7 +9,13 @@ B.  intransitive verb
 ① Mathematics 做乘法 zuò chéngfǎ 
 ② (increase) 成倍增长 chéngbèi zēngzhǎng 
 ③ Biology 繁殖 fánzhí 
-multiply 
-▶verb
-1 their difficulties seem to be multiplying: increase, grow, become more numerous, accumulate, proliferate, mount up, mushroom, snowball. ANTONYMS decrease.
-2 the rabbits have multiplied: breed, reproduce, procreate.
+multiply
+1 
+ˈməltəˌplī
+
+▶verb (multiplies, multiplying, multiplied) [with object] obtain from (a number) another that contains the first number a specified number of times: I asked you to multiply fourteen by nineteen 
+[no object] : we all know how to multiply by ten. 
+• increase or cause to increase greatly in number or quantity: [no object] : ever since I became a landlord my troubles have multiplied tenfold 
+[with object] : cigarette smoking combines with other factors to multiply the risks of atherosclerosis. 
+• [no object] (of an animal or other organism) increase in number by reproducing. 
+• propagate (plants). ORIGIN Middle English: from Old French multiplier, from Latin multiplicare .

@@ -1,2 +1,6 @@
 infection 
-▶noun a treatable skin infection: disease, virus; disorder, condition, affliction, complaint, illness, ailment, sickness, infirmity; contamination, poison, septicemia, suppuration; informal bug; dated contagion; Medicine sepsis.
+inˈfekSH(ə)n
+
+▶noun the process of infecting or the state of being infected: strict hygiene will limit the risk of infection. 
+• an infectious disease: a chest infection. 
+• Computing the presence of a virus in, or its introduction into, a computer system. ORIGIN late Middle English: from late Latin infectio(n-), from Latin inficere ‘dip in, taint’ (see infect) .

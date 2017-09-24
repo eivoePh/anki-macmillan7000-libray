@@ -1,22 +1,67 @@
 head 
+hed
+
 ▶noun
-1 she scratched her head thoughtfully: skull, cranium, crown; informal nut, noodle, noggin, dome.
-2 he had to use his head: brain(s), brainpower, intellect, intelligence; wit(s), wisdom, mind, sense, reasoning, common sense; informal savvy, gray matter, smarts.
-3 she had a good head for business: aptitude, faculty, talent, gift, capacity, ability; mind, brain.
-4 the head of the church: leader, chief, controller, governor, superintendent, commander, captain; director, manager; principal, president, premier; chieftain, headman, sachem; CEO; informal boss, bossman, kingpin, top dog, Mr. Big, skipper, ringleader, numero uno, head honcho, big kahuna.
-5 the head of the line: front, beginning, start, fore, forefront; top.
-6 the head of the river: source, origin, headspring, headwater; literary wellspring.
-7 beer with a head : froth, foam, bubbles, spume, fizz, effervescence; suds.
-▶adjective the head waiter: chief, principal, leading, main, first, foremost, prime, premier, senior, top, highest, supreme, superior, top-ranking, ranking. ANTONYMS subordinate.
-▶verb
-1 the procession was headed by the mayor: lead, be at the front of; be first, lead the way.
-2 Dr. Jones heads a research team: command, control, lead, run, manage, direct, supervise, superintend, oversee, preside over, rule, govern, captain; informal be the boss of.
-3 she was heading for the exit: move toward, make for, aim for, go in the direction of, be bound for, make a beeline for; set out for, start out for.
+1 the upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs. 
+• the head regarded as the location of intellect, imagination, and memory: whatever comes into my head. 
+• (head for) an aptitude for or tolerance of: she had a good head for business. 
+• informal a headache, especially one resulting from intoxication. 
+• the height or length of a head as a measure: a dazzling woman half a head taller than he was. 
+• (heads) the obverse side of a coin (used when tossing a coin): heads or tails? 
+• the antlers of a deer.
+2 a thing having the appearance of a head either in form or in relation to a whole, in particular: 
+• the cutting, striking, or operational end of a tool, weapon, or mechanism. 
+• the flattened or knobbed end of a nail, pin, screw, or match. 
+• the ornamented top of a pillar or column. 
+• a compact mass of leaves or flowers at the top of a stem, especially a capitulum: huge heads of fluffy cream flowers. 
+• the edible leafy part at the top of the stem of such green vegetables as cabbage and lettuce.
+3 the front, forward, or upper part or end of something, in particular: 
+• the upper end of a table or bed: he sat down at the head of the cot. 
+• the flat end of a cask or drum. 
+• the front of a line or procession. 
+• the top of a page. 
+• short for headline. 
+• the top of a flight of stairs or steps. 
+• the source of a river or stream. 
+• the end of a lake or inlet at which a river enters. 
+• [usually in place names] a promontory: Beachy Head. 
+• the top of a ship's mast. 
+• the bows of a ship. 
+• the foam on top of a glass of beer, or the cream on the top of milk. 
+• short for cylinder head.
+4 a person in charge of something; a director or leader: the head of the Dutch Catholic Church. 
+• British short for headmaster or headmistress.
+5 Grammar the word that governs all the other words in a phrase in which it is used, having the same grammatical function as the whole phrase.
+6 a person considered as a numerical unit: they paid fifty dollars a head. 
+• [treated as plural] a number of cattle or game as specified: seventy head of dairy cattle.
+7 a component in an audio, video, or information system by which information is transferred from an electrical signal to the recording medium, or vice versa. 
+• short for printhead.
+8 a body of water kept at a particular height in order to provide a supply at sufficient pressure: an
+8 m head of water in the shafts. 
+• the pressure exerted by a body of water kept at a particular height or by a confined body of steam: a good head of steam on the gauge.
+9 Nautical a toilet or bathroom on a boat or ship.
+10 Geology a superficial deposit of rock fragments, formed at the edge of an ice sheet by repeated freezing and thawing and then moved downhill. 
+▶adjective [attributive] chief; principal: the head waiter. 
+▶verb [with object]
+1 be in the leading position on: the Palm Sunday procession was headed by the crucifer. 
+• be in charge of: an organizational unit headed by a line manager 
+she headed up the Centennial program.
+2 give a title or caption to: an article headed “The Protection of Human Life.”
+3 [no object] (also be headed) move in a specified direction: he was heading for the exit 
+we were headed in the wrong direction. 
+• (head for) appear to be moving inevitably toward (something, especially something undesirable): the economy is heading for recession. 
+• [with object] direct or steer in a specified direction: she headed the car toward them.
+4 Soccer shoot or pass (the ball) with the head: a corner kick that he headed into the net.
+5 lop off the upper part or branches of (a plant or tree).
+6 [no object] (of a lettuce or cabbage) form a head. 
 PHRASES
-at the head of Stasha will now be at the head of the department: in charge of, controlling, commanding, leading, managing, running, directing, supervising, overseeing; at the wheel of, at the helm of. come to a head the violence came to a head after two civilians were killed: reach a crisis, come to a climax, reach a critical point, reach a crossroads. go to someone's head
-1 the wine has gone to my head: intoxicate someone, befuddle someone, make someone drunk; informal make someone woozy; formal inebriate someone.
-2 her victory went to her head: make someone conceited, make someone full of themselves, turn someone's head, puff someone up. head off
-1 he went to head off the cars: intercept, divert, deflect, redirect, reroute, draw away, turn away.
-2 they headed off a confrontation: forestall, avert, ward off, fend off, stave off, hold off, nip in the bud, keep at bay; prevent, avoid, stop. keep one's head Richie kept his head throughout the confrontation: keep/stay calm, keep one's self-control, maintain one's composure; informal keep one's cool, keep one's shirt on, keep it together, cool one's jets. lose one's head you cannot lose your head in the courtroom: lose control, lose one's composure, lose one's equilibrium, go to pieces; panic, get flustered, get confused, get hysterical; informal lose one's cool, freak out, crack up. 
-WORD LINKS
-head cephalic relating to the headWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+be banging (or knocking) one's head against a brick wall be doggedly attempting the impossible and suffering in the process. bang (or knock) people's heads together reprimand people severely, especially in an attempt to stop their arguing. be hanging over someone's head (of something unpleasant) threaten to affect someone at any moment. be heading for a fall see fall. be in over one's head informal be involved in something that is beyond one's capacity to deal with: when I became a graduate student I knew at once I was in over my head. be on someone's (own) head be someone's sole responsibility. bite (or snap) someone's head off reply sharply and brusquely to someone. (down) by the head Nautical (of a boat or ship) deeper in the water forward than astern: the Boy Andrew went down by the head. come to a head reach a crisis: the violence came to a head with the deaths of six youths. 
+• suppurate; fester: abscesses should be allowed to come to a head. enter someone's head see enter. from head to toe (or foot) all over one's body: I was shaking from head to toe.get one's head around (or round) [usually with negative] informal understand or come to terms with something: I just can't get my head around this idea.give someone his (or her) head allow someone complete freedom of action. give someone head vulgar slang perform oral sex on someone. go to someone's head (of alcohol) make someone dizzy or slightly drunk. 
+• (of success) make someone conceited. get something into one's (or someone's) head come or cause (someone) to realize or understand: when will you get it into your head that it's the project that counts, not me? head of hair the hair on a person's head, regarded in terms of its appearance or quantity: he had a fine head of hair. —— one's head off talk, laugh, etc., unrestrainedly: he was drunk as a skunk and singing his head off. head over heels
+1 turning over completely in forward motion, as in a somersault.
+2 (also head over heels in love) madly in love: I immediately fell head over heels for Don. a head start an advantage granted or gained at the beginning of something: our fine traditions give us a head start on the competition. heads will roll people will be dismissed or forced to resign. head to head in open, direct conflict or competition: the governor and the senator went head to head in a spontaneous debate. hold up one's head (or hold one's head high) be confident or unashamed: under the circumstances I would find it impossible to hold my head up in the town.in one's head by mental process without use of physical aids: the piece he'd already written in his head. keep one's head remain calm. keep one's head above water avoid succumbing to difficulties, typically debt. keep one's head down remain inconspicuous in difficult or dangerous times. lose one's head lose self-control; panic. make head or tail (or heads or tails) of [usually with negative] understand at all: we couldn't make head or tail of his answer. off (or out of) one's head informal crazy: my old man's going off his head, you know. 
+• extremely drunk or severely under the influence of drugs. off the top of one's head without careful thought or investigation. over someone's head
+1 (also above someone's head) beyond someone's ability to understand: the discussion was over my head, I'm afraid.
+2 without someone's knowledge or involvement, especially when they have a right to it: the deal was struck over the heads of the regions concerned. 
+• with disregard for someone else's (stronger) claim: his promotion over the heads of more senior colleagues. put their (or our or your) heads together consult and work together: they forced the major banks to put their heads together to sort it out. put something into someone's head suggest something to someone: who's being putting ideas into your head? take it into one's head to do something impetuously decide to do something. turn someone's head make someone conceited. turn heads attract a great deal of attention or interest: she recently turned heads with a nude scene.PHRASAL VERBS head someone/something off intercept and turn aside: he ran up the road to head off approaching cars. 
+• forestall: they headed off a fight by ordering further study of both plans. head up Sailing steer toward the wind.ORIGIN Old English hēafod, of Germanic origin; related to Dutch hoofd and German Haupt .

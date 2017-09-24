@@ -2,5 +2,6 @@ surgeon
 BrE ˈsəːdʒ(ə)n, AmE ˈsərdʒən 
 noun 外科医生 wàikē yīshēng a brain/heart surgeon 脑/心外科医生 
 surgeon 
-BrE ˈsəːdʒ(ə)n, AmE ˈsərdʒən 
-noun 外科医生 wàikē yīshēng a brain/heart surgeon 脑/心外科医生 
+ˈsərjən
+
+▶noun a medical practitioner qualified to practice surgery. ORIGIN Middle English: from Anglo-Norman French surgien, contraction of Old French serurgien, based on Latin chirurgia, from Greek kheirourgia ‘handiwork, surgery,’ from kheir ‘hand’ + ergon ‘work.’

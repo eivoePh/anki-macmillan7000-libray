@@ -5,4 +5,10 @@ noun
 ② (machine producing oxygen, sound, microwaves) 发生器 fāshēngqì 
 ③ (creator) 制造者 zhìzàozhě 
 generator 
-▶noun crank up the generator: engine, dynamo, alternator, magneto, cell, turbine, turbocharger, pump, windmill.
+ˈjenəˌrādər
+
+▶noun a thing that generates something, in particular: 
+• a dynamo or similar machine for converting mechanical energy into electricity. 
+• an apparatus for producing gas, steam, or another product. 
+• [with modifier] Computing a routine that constructs other routines or subroutines using given parameters, for specific applications: a report generator. 
+• Mathematics a point, line, or surface regarded as moving and so notionally forming a line, surface, or solid.

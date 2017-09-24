@@ -1,7 +1,15 @@
 spider 
-BrE ˈspʌɪdə, AmE ˈspaɪdər 
-noun 
-① Zoology 蜘蛛 zhīzhū a spider's web 蜘蛛网 zhīzhūwǎng 
-② BrE (elastic ties) 弹性束带 tánxìng shùdài 
-③ (snooker rest) 架杆 jiàgǎn 
-④ Computing 蜘蛛程序 zhīzhū chéngxù 
+ˈspīdər
+
+▶noun
+1 an eight-legged predatory arachnid with an unsegmented body consisting of a fused head and thorax and a rounded abdomen. Spiders have fangs that inject poison into their prey, and most kinds spin webs in which to capture insects. [Order Araneae, class Arachnida.] 
+• used in names of arachnids similar or related to the spider, e.g., sea spider, sun spider.
+2 an object resembling a spider, especially one having numerous or prominent legs or radiating spokes. 
+• a cast-iron frying pan, originally made with legs for cooking on coals in a hearth. 
+• a long-legged rest for a billiard cue that can be placed over a ball without touching it.
+3 Computing another term for crawler ( sense 2). 
+▶verb
+1 [no object] move in a scuttling manner suggestive of a spider: a treecreeper spidered head first down the tree trunk. 
+• form a pattern suggestive of a spider or its web.
+2 [with object] Computing another term for crawl ( sense
+4 of the verb): when the search engines spider your site they'll find all of the pages. DERIVATIVES spiderish adjectiveORIGIN late Old English spīthra, from spinnan (see spin) .

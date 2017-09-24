@@ -1,10 +1,18 @@
 dial 
-BrE dʌɪəl, AmE ˈdaɪ(ə)l 
-A. noun 
-① (on telephone) 拨号盘 bōhàopán 
-② (of gauge, meter) 刻度盘 kèdùpán 
-③ (of TV, radio) 调节器 tiáojiéqì ; (of other equipment) 控制器 kòngzhìqì 
-④ (face of watch) 表盘 biǎopán ; (clock face) 钟盘 zhōngpán 
-⑤ BrE dated colloquial (face) 脸 liǎn 
-B.  transitive verb (present participle etc. -ll- BrE, -l- AmE ) 拨电话给 bō diànhuà gěi ‹person, country›; 拨 bō ‹number›to dial 222 for [something]/[somebody] 做某事/找某人请拨222 to dial the wrong number 拨错号 
-C.  intransitive verb (present participle etc. -ll- BrE, -l- AmE ) 拨号 bōhào you can dial direct 你可以直拨 
+ˈdī(ə)l
+
+▶noun a face of a clock, watch, or sundial that is marked to show units of time. 
+• a face or flat plate with a scale and pointer for showing measurements of weight, volume, pressure, compass direction, etc. 
+• a disk with numbered holes on a telephone, enabling someone to make a call by inserting a finger in each of the holes corresponding to the number to be called and turning the disk. 
+• a plate or disk on a radio, stove, washing machine, or other piece of equipment that is tuned to select a wavelength or setting. 
+▶verb (dials, dialing, dialed; British dials, dialling, dialled) [with object] call (a telephone number) by turning a disk with numbered holes or pressing a set of buttons: he dialed room service 
+it took only a moment to dial in the numbers 
+[no object] : company employees dial out from their office. PHRASAL VERBS dial something down adjust the control on an electrical device so as to reduce the level of sound, light, heat, etc., produced: after
+15 minutes of frustration, someone on the stand took the hint and dialed down the music. 
+• informal lessen the amount, intensity, or degree of a quality, factor, etc.: he's dialed down the rage that seems to permeate his other novels 
+having read this review I think I will dial down my expectations a little. dial in (or into) access a computer system or service remotely via a telephone line: there's no need to dial in to see if you have mail 
+remote workers or traveling employees can dial into the data network.dial something in (or into) indicate or regulate by means of a dial: you're expected to dial in volume and tone settings. 
+• include or add: the car has a lot of understeer dialed into the suspension.dial up (or dial something up) access a computer system or service remotely via a telephone line: dialing up each time we want to use the Internet will become a thing of the past 
+people do not have to pay for phone line calls every time they dial up to the internet 
+plans to enable customers to dial up videos from their living room.dial something up adjust the control on an electrical device so as to increase the level of sound, light, heat, etc., produced: even with everything dialed up to full, the audio output level was only moderate at best. 
+• informal increase the amount, intensity, or degree of a quality, factor, etc.: the Raiders really dialed up the pressure in the second half.ORIGIN Middle English (denoting a mariner's compass): from medieval Latin diale ‘clock dial,’ based on Latin dies ‘day.’

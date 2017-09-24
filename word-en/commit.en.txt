@@ -1,7 +1,19 @@
 commit 
-▶verb
-1 he committed a murder: carry out, do, perpetrate, engage in, enact, execute, effect, accomplish; be responsible for; informal pull off.
-2 she was committed to their care: entrust, consign, assign, deliver, give, hand over, relinquish; formal commend.
-3 they committed themselves to the project: pledge, devote, apply, give, dedicate.
-4 the judge committed him to prison: consign, send, deliver, confine.
-5 her husband had her committed: hospitalize, confine, institutionalize, put away; certify.
+kəˈmit
+
+▶verb (commits, committing, committed) [with object]
+1 carry out or perpetrate (a mistake, crime, or immoral act): he committed an uncharacteristic error.
+2 pledge or bind (a person or an organization) to a certain course or policy: they were reluctant to commit themselves to an opinion 
+the treaty commits each party to defend the other 
+try it out before you commit to a purchase. 
+• pledge or set aside (resources) for future use: manufacturers will have to commit substantial funds to developing new engines. 
+• (be committed to) be in a long-term emotional relationship with (someone). 
+• (be committed to) be dedicated to (something): we must be committed to peace.
+3 send, entrust, or consign, in particular: 
+• consign (someone) officially to prison, especially on remand: he was committed to prison for contempt of court. 
+• send (a person or case) for trial. 
+• send (someone) to be confined in a psychiatric hospital: he had been committed for treatment. 
+• (commit something to) transfer something to (a state or place): he composed a letter but didn't commit it to paper 
+she committed each tiny feature to memory 
+committed to the flames. 
+• refer (a legislative bill) to a committee. DERIVATIVES committable adjective. committer nounORIGIN late Middle English: from Latin committere ‘join, entrust’ (in medieval Latin ‘put into custody’), from com- ‘with’ + mittere ‘put or send.’

@@ -1,11 +1,27 @@
 ring
 1 
+riNG
+
 ▶noun
-1 the rings around Saturn: circle, band, loop, hoop, halo, disk.
-2 she wore a ring: wedding ring, wedding band, band.
-3 a circus ring: arena, enclosure, field, ground; amphitheater, stadium.
-4 a ring of onlookers: circle, group, cluster, bunch, band, throng, crowd, flock, pack.
-5 a spy ring: gang, syndicate, cartel, mob, band, circle, organization, association, society, alliance, league, coterie, cabal, cell.
-▶verb police ringed the building: surround, circle, encircle, encompass, girdle, enclose, hem in, confine, seal off.
-WORD LINKS
-ring annular ring-shapedWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 a small circular band, typically of precious metal and often set with one or more gemstones, worn on a finger as an ornament or a token of marriage, engagement, or authority. 
+• a circular band of any material: fried onion rings. 
+• Astronomy a thin band or disk of rock and ice particles around a planet. 
+• a circular marking or pattern: black rings around her eyes. 
+• short for tree ring. 
+• [usually as modifier] Archaeology a circular prehistoric earthwork, typically consisting of a bank and ditch: a ring ditch.
+2 an enclosed space, typically surrounded by seating for spectators, in which a sport, performance, or show takes place: a circus ring. 
+• a roped enclosure for boxing or wrestling. 
+• (the ring) the profession, sport, or institution of boxing.
+3 a group of people or things arranged in a circle: he pointed to the ring of trees. 
+• (in a ring) arranged or grouped in a circle: everyone sat in a ring, holding hands. 
+• [usually with modifier] a group of people drawn together due to a shared interest or goal, especially one involving illegal or unscrupulous activity: the police had been investigating the drug ring. 
+• Chemistry another term for closed chain.
+4 a circular or spiral course: they were dancing energetically in a ring.
+5 Mathematics a set of elements with two binary operations, addition and multiplication, the second being distributive over the first and associative. 
+▶verb [with object]
+1 surround (someone or something), especially for protection or containment: the courthouse was ringed with police. 
+• form a line around the edge of (something circular): dark shadows ringed his eyes. 
+• draw a circle around (something), especially to focus attention on it: an area of Tribeca had been ringed in red.
+2 put a circular band through the nose of (a bull, pig, or other farm animal) to lead or otherwise control it. 
+PHRASES
+run rings around someone informal outclass or outwit someone very easily. throw one's hat in the ring see hat. DERIVATIVES ringless adjectiveORIGIN Old English hring, of Germanic origin; related to Dutch ring,German Ring, also to the noun rank1 .

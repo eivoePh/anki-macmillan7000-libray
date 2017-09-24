@@ -1,5 +1,12 @@
 probe 
-▶noun a probe into the air crash: investigation, inquiry, examination, inquest, exploration, study, analysis.
-▶verb
-1 alien hands probed his body: examine, feel, feel around, explore, prod, poke, check.
-2 police probed the tragedy: investigate, inquire into, look into, study, examine, scrutinize, go into, carry out an inquest into.
+prōb
+
+▶noun a blunt-ended surgical instrument used for exploring a wound or part of the body. 
+• a small device, especially an electrode, used for measuring, testing, or obtaining information. 
+• a projecting device for engaging in a drogue, either on an aircraft for use in inflight refueling or on a spacecraft for use in docking with another craft. 
+• (also space probe) an unmanned exploratory spacecraft designed to transmit information about its environment. 
+• an investigation into a crime or other matter: a probe into the maritime industry by the FB
+I.  
+▶verb [with object] physically explore or examine (something) with the hands or an instrument: researchers probing the digestive glands of mollusks. 
+• [no object] seek to uncover information about someone or something: he began to probe into Donald's whereabouts 
+[with object] : police are probing another murder. DERIVATIVES prober noun. probingly adverbORIGIN late Middle English (as a noun): from late Latin proba ‘proof’ (in medieval Latin ‘examination’), from Latin probare ‘to test.’ The verb dates from the mid 17th century.

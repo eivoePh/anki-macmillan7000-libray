@@ -1,7 +1,12 @@
 express
 1 
-▶verb
-1 community leaders expressed their anger: communicate, convey, indicate, show, demonstrate, reveal, make manifest, put across/over, get across/over; articulate, put into words, utter, voice, give voice to; state, assert, proclaim, profess, air, make public, give vent to; formal evince.
-2 all the juice is expressed: squeeze out, press out, extract.
-PHRASES
-express oneself he had difficulty expressing himself: communicate one's thoughts/opinions/views, put thoughts into words, speak one's mind, say what's on one's mind.
+ikˈspres
+
+▶verb [with object]
+1 convey (a thought or feeling) in words or by gestures and conduct: he expressed complete satisfaction. 
+• (express oneself) say what one thinks or means: with a diplomatic smile, she expressed herself more subtly. 
+• chiefly Mathematics represent (a number, relation, or property) by a figure, symbol, or formula: constants can be expressed in terms of the Fourier transform. 
+• (usually be expressed) Genetics cause (an inherited characteristic or gene) to appear in a phenotype.
+2 squeeze out (liquid or air). DERIVATIVES expresser noun. expressible 
+ikˈspresəb(ə)l 
+adjectiveORIGIN late Middle English (also in the sense ‘press out, obtain by squeezing or wringing,’ used figuratively to mean ‘extort’): from Old French expresser, based on Latin ex- ‘out’ + pressare ‘to press.’

@@ -1,5 +1,14 @@
 delegate 
-▶noun union delegates: representative, envoy, emissary, commissioner, agent, deputy, commissary; spokesperson, spokesman, spokeswoman; ambassador, plenipotentiary.
-▶verb
-1 she must delegate routine tasks: assign, entrust, pass on, hand on/over, turn over, devolve, depute, transfer.
-2 I don't recall which personnel were delegated to carry out the inspections: authorize, commission, depute, appoint, nominate, mandate, empower, charge, choose, designate, elect.
+▶noun 
+ˈdeləɡət 
+a person sent or authorized to represent others, in particular an elected representative sent to a conference. 
+• a member of a committee. 
+▶verb 
+ˈdeləˌɡāt 
+[with object] entrust (a task or responsibility) to another person, typically one who is less senior than oneself: he delegates routine tasks 
+the power delegated to him must never be misused. 
+• [with object and infinitive] send or authorize (someone) to do something as a representative: Edward was delegated to meet new arrivals. DERIVATIVES delegable 
+-ɡəbəl 
+adjective. delegator 
+-ˌɡātər 
+nounORIGIN late Middle English: from Latin delegatus ‘sent on a commission,’ from the verb delegare, from de- ‘down’ + legare ‘depute.’

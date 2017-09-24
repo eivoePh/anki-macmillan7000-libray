@@ -7,4 +7,9 @@ noun
 ④ Uncountable(in language) 冗长 rǒngcháng 
 ⑤ UncountableEngin, Technology 冗余 rǒngyú 
 redundancy 
-▶noun redundancy in language: superfluity, unnecessariness, excess.
+rəˈdəndənsē
+
+▶noun (plural redundancies) the state of being not or no longer needed or useful: the redundancy of 19th-century heavy plant machinery. 
+• the use of words or data that could be omitted without loss of meaning or function; repetition or superfluity of information. 
+• Engineering the inclusion of extra components that are not strictly necessary to functioning, in case of failure in other components: a high degree of redundancy is built into the machinery installation. 
+• chiefly British the state of being no longer employed because there is no more work available: the factory's workers face redundancy.

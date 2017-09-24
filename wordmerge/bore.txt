@@ -9,8 +9,19 @@ B.  intransitive verb «drill» 钻孔 zuān kǒng ; «machine» 镗孔 táng k�
 C.  noun 
 ① (diameter of gun barrel, pipe) 口径 kǒujìng 
 ② = borehole 
-bore 
+bore
+1 
+bôr
+
 ▶verb
-1 the movie bored us: stultify, pall on, stupefy, weary, tire, fatigue, send to sleep, leave cold; bore to death, bore to tears; informal turn off.
-2 bore a hole in the ceiling: drill, pierce, perforate, puncture, punch, cut; tunnel, burrow, mine, dig, gouge, sink.
-▶noun you can be such a bore: tedious person/thing, tiresome person/thing, dull person/thing, yawn, bother, nuisance, wet blanket; informal drag, buzzkill.QUOTE The secret of being a bore … is to tell everything.Voltaire, French philosopher
+1 [with object] make (a hole) in something, especially with a revolving tool: they bored holes in the sides 
+[no object] : the drill can bore through rock 
+figurative : his eyes bored into hers. 
+• [with object] hollow out (a tube or tunnel): try to bore the tunnel at the correct angle. 
+• hollow out (a gun barrel).
+2 [no object] make one's way through (a crowd). 
+▶noun
+1 the hollow part inside a gun barrel or other tube. 
+• [often in combination] the diameter of this; the caliber: a small-bore rifle. 
+• [in combination] a gun of a specified bore: he shot a guard in the leg with a twelve-bore.
+2 short for borehole. ORIGIN Old English borian (verb), of Germanic origin; related to German bohren .

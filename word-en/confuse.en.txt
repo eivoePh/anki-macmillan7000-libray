@@ -1,5 +1,7 @@
 confuse 
-▶verb
-1 don't confuse students with too much detail: bewilder, baffle, mystify, bemuse, perplex, puzzle, confound; informal flummox, faze, stump, fox, discombobulate, bedazzle. ANTONYMS enlighten.
-2 the authors have confused the issue: complicate, muddle, jumble, overcomplicate, garble, blur, obscure, cloud. ANTONYMS simplify.
-3 some people confuse strokes with heart attacks: mistake for, take for, misinterpret as; mix up with, muddle up with, confound with.
+kənˈfyo͞oz
+
+▶verb [with object] cause (someone) to become bewildered or perplexed: past and present blurred together, confusing her still further. 
+• make (something) more complex or less easy to understand: the points made by the authors confuse rather than clarify the issue. 
+• identify wrongly; mistake: a lot of people confuse a stroke with a heart attack 
+purchasers might confuse the two products. ORIGIN Middle English (in the sense ‘rout, bring to ruin’): from Old French confus, from Latin confusus, past participle of confundere ‘mingle together’ (see confound). Originally all senses of the verb were passive, and therefore appeared only as the past participle confused; the active voice occurred rarely until the 19th century when it began to replace confound.

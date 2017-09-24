@@ -1,31 +1,75 @@
 fall 
-▶verb
-1 bombs began to fall: drop, descend, come down, go down; plummet, plunge, sink, dive, tumble; cascade. ANTONYMS rise.
-2 he tripped and fell: topple over, tumble over, keel over, fall down/over, go head over heels, go headlong, collapse, take a spill, pitch forward; trip, stumble, slip; informal come a cropper. ANTONYMS get up.
-3 the river began to fall: subside, recede, ebb, flow back, fall away, go down, sink. ANTONYMS rise, flood.
-4 inflation will fall: decrease, decline, diminish, fall off, drop off, lessen, dwindle; plummet, plunge, slump, sink; depreciate, cheapen, devalue; informal go through the floor, nosedive, take a header, crash. ANTONYMS rise, increase.
-5 the Mogul empire fell: decline, deteriorate, degenerate, go downhill, go to rack and ruin; decay, wither, fade, fail; informal go to the dogs, go to pot, go down the toilet. ANTONYMS rise, flood, increase, flourish.
-6 those who fell in the war: die, perish, lose one's life, be killed, be slain, be lost, meet one's death; informal bite the dust, croak, buy it, buy the farm. ANTONYMS flourish.
-7 the town fell to the barbarians: surrender to, yield to, submit to, give in to, capitulate to, succumb to; be taken by, be defeated by, be conquered by, be overwhelmed by. ANTONYMS resist.
-8 Easter fell on April 11th: occur, take place, happen, come about; arise; literary come to pass.
-9 night fell: come, arrive, appear, arise, materialize.
-10 she fell ill: become, grow, get, turn.
-11 more tasks may fall to him: be the responsibility of, be the duty of, be borne by, be one's job; come someone's way.
+fôl
+
+▶verb (past fell 
+fel
+; past participle fallen 
+ˈfôlən
+) [no object]
+1 move downward, typically rapidly and freely without control, from a higher to a lower level: bombs could be seen falling from the planes 
+(as adjective falling) : the power lines had been brought down by falling trees. 
+• (fall off) become detached accidentally and drop to the ground: my sunglasses fell off and broke on the pavement. 
+• hang down: hair that was allowed to fall to the shoulders. 
+• (of land) slope downward; drop away: the land fell away in a steep bank. 
+• (fall into) (of a river) flow or discharge itself into. 
+• (of someone's eyes or glance) be directed downward. 
+• (of someone's face) show dismay or disappointment by appearing to sag or droop: her face fell as she thought about her life with George. 
+• occur, arrive, or become apparent as if by dropping suddenly: when night fell we managed to crawl back to our lines 
+the information might fall into the wrong hands.
+2 (of a person) lose one's balance and collapse: she fell down at school today. 
+• throw oneself down, typically in order to worship or implore someone: they fell on their knees, rendering thanks to God. 
+• (of a tree, building, or other structure) collapse to the ground: the house looked as if it were going to fall down at any moment. 
+• (of a building or place) be captured or defeated: their mountain strongholds fell to enemy attack. 
+• die in battle: an English leader who had fallen at the hands of the Danes. 
+• archaic commit sin; yield to temptation: it is their husband's fault if wives do fall. 
+• (of a government or leader) lose office. 
+• (in sports) lose or be eliminated from play.
+3 decrease in number, amount, intensity, or quality: in 1987 imports into Britain fell by
+12 percent 
+we're worried that standards are falling. 
+• find a lower level; subside or abate: the water table in the Rift Valley fell. 
+• (of a measuring instrument) show a lower reading: the barometer had fallen a further ten points.
+4 pass into a specified state: many of the buildings fell into disrepair 
+she fell pregnant. 
+• (fall to doing something) begin to do something: he fell to musing about how it had happened. 
+• be drawn accidentally into: you must not fall into this common error. 
+• occur at a specified time: Mother's birthday fell on Flag Day. 
+• be classified or ordered in the way specified: canals fall within the Minister's brief. 
 ▶noun
-1 an accidental fall: tumble, trip, spill, topple, slip; collapse; informal nosedive, header, cropper.
-2 a fall in sales: decline, falloff, drop, decrease, cut, dip, reduction, downswing; plummet, plunge, slump; informal nosedive, crash. ANTONYMS increase.
-3 the fall of the Roman Empire: downfall, collapse, ruin, ruination, failure, decline, deterioration, degeneration; destruction, overthrow, demise. ANTONYMS increase, rise, ascent.
-4 the fall of the city: surrender, capitulation, yielding, submission; defeat. ANTONYMS rise.
-5 a steep fall down to the ocean: descent, declivity, slope, slant, incline, downgrade. ANTONYMS ascent.
-6 the fall of man: sin, wrongdoing, transgression, error, offense, lapse, fall from grace, original sin.
-7 (falls) rafting trips below the falls: waterfall, cascade, cataract; rapids, white water.
+1 [usually in singular] an act of falling or collapsing; a sudden uncontrollable descent: his mother had a fall, hurting her leg as she alighted from a train. 
+• a controlled act of falling, especially as a stunt or in martial arts. 
+• Wrestling a move which pins the opponent's shoulders on the ground for a count of three. 
+• a state of hanging or drooping downward: the fall of her hair. 
+• a downward difference in height between parts of a surface: at the corner of the massif this fall is interrupted by other heights of considerable stature. 
+• a sudden onset or arrival as if by dropping: the fall of darkness.
+2 a thing that falls or has fallen: in October came the first thin fall of snow 
+a rock fall. 
+• (usually falls) a waterfall or cascade. 
+• chiefly literary a downward turn in a melody: that strain again, it had a dying fall. 
+• (falls) the parts or petals of a flower that bend downward, especially the outer perianth segments of an iris.
+3 a decrease in size, number, rate, or level; a decline: a big fall in unemployment.
+4 a loss of office: the fall of the government. 
+• the loss of a city or fortified place during battle: the fall of Jerusalem. 
+• a person's moral descent, typically through succumbing to temptation. 
+• (the Fall or the Fall of Man) the lapse of humankind into a state of sin, ascribed in traditional Jewish and Christian theology to the disobedience of Adam and Eve as described in Genesis.
+5 (also Fall) North American autumn. 
 PHRASES
-fall apart the old teacup fell apart in my hands: fall to pieces, fall to bits, come apart (at the seams); disintegrate, fragment, break up, break apart, crumble, decay, perish; informal bust. fall asleep I almost fell asleep at work: doze off, drop off, go to sleep; informal nod off, go off, drift off, crash, conk out, go out like a light, sack out. fall away the ground here falls away abruptly: slope down, slope, slant down, go down, drop, drop away, descend, dip, sink, plunge. fall back the troops were ordered to fall back: retreat, withdraw, back off, draw back, pull back, pull away, move away. fall back on I can always fall back on my career in landscaping: resort to, turn to, look to, call on, have recourse to; rely on, depend on, lean on. fall behind
-1 the other walkers fell behind: lag, lag behind, trail, trail behind, be left behind, drop back, bring up the rear; straggle, dally, dawdle, hang back.
-2 they fell behind on their payments: get into debt, get into arrears, default, be in the red. fall for
-1 she fell for John: fall in love with, become infatuated with, lose one's heart to, take a fancy to, be smitten with/by, be attracted to; informal have the hots for.
-2 she won't fall for that trick: be deceived by, be duped by, be fooled by, be taken in by, believe, trust, be convinced by; informal go for, buy, 'swallow (hook, line, and sinker)'. fall in
-1 the roof fell in: collapse, cave in, crash in, fall down; give way, crumble, disintegrate.
-2 the soldiers fell in: get in formation, get in line, line up, take one's position.
-3 he fell in with a bad crowd: get involved, take up, join up, go around, make friends; informal hang, hang out. fall off See fall (sense
-4 of the verb). fall on the army fell on the rebels: attack, assail, assault, fly at, set about, set upon; pounce upon, ambush, surprise, rush, storm, charge; informal jump, lay into, have a go at. fall out let's not fall out over something so silly: quarrel, argue, row, fight, squabble, bicker, have words, disagree, be at odds, clash, wrangle, cross swords, lock horns, be at loggerheads, be at each other's throats; informal scrap. fall short we sincerely hope that our fundraising efforts will not fall short: be deficient, be inadequate, be insufficient, be wanting, be lacking, disappoint; informal not come up to scratch, not come up to snuff. fall short of the results fell short of what was expected: fail to meet, fail to reach, fail to live up to. fall through the deal fell through: fail, be unsuccessful, come to nothing, miscarry, abort, go awry, collapse, founder, come to grief; informal fizzle out, flop, fold, come a cropper, go over like a lead balloon.
+be riding (or heading) for a fall informal be acting in a reckless way that is likely to end in trouble or disaster: with your present attitude, you're riding for a fall. fall foul (or afoul) of come into conflict with and be undermined by: any commitment of resources is likely to fall foul of government cash limitations. fall in (or into) line conform with others or with accepted behavior. [with reference to military formation.] fall into place (of a series of events or facts) begin to make sense or cohere: once he knew what to look for, the theory fell quickly into place. fall on stony ground see stony. fall over oneself to do something informal be excessively eager to do something: critics and audiences fell over themselves to compliment him. fall prey to see prey. fall short (of) (of a missile) fail to reach its target. 
+• figurative be deficient or inadequate; fail to reach a required goal: the total vote fell short of the required two-thirds majority.fall to pieces see fall apart . fall victim to see victim. take the fall North American informal receive blame or punishment, typically in the place of another person.PHRASAL VERBS fall apart (or to pieces) break up, come apart, or disintegrate: their marriage is likely to fall apart. 
+• (of a person) lose one's capacity to cope: Angie fell to pieces because she had lost everything.fall back move or turn back; retreat. fall back on have recourse to when in difficulty: they normally fell back on one of three arguments. fall behind fail to keep up with one's competitors. 
+• fail to meet a commitment to make a regular payment: borrowers falling behind with their mortgage payments. fall down be shown to be inadequate or false; fail: the deal fell down partly because there were a lot of unanswered questions. fall for informal
+1 be captivated by; fall in love with.
+2 be deceived by (something): he should have known better than to expect Duncan to fall for a cheap trick like that. fall in
+1 take one's place in a military formation: the soldiers fell in by the side of the road.
+2 (of a structure) collapse inward. fall in with
+1 meet by chance and become involved with: he fell in with thieves.
+2 act in accordance with (someone's ideas or suggestions); agree to: falling in with other people's views. fall on (or upon)
+1 attack fiercely or unexpectedly: the army fell on the besiegers. 
+• seize enthusiastically: she fell on the sandwiches as though she had not eaten in weeks.
+2 (of someone's eyes or gaze) be directed toward: her gaze fell on the mud-stained coverlet.
+3 (of a burden or duty) be borne or incurred by: the cost of tuition should not fall on the student.fall out
+1 (of the hair, teeth, etc.) become detached and drop out.
+2 have an argument: he had fallen out with his family.
+3 leave one's place in a military formation, or on parade: the two policemen at the rear fell out of the formation.
+4 happen; turn out: matters fell out as Stephen arranged. fall through come to nothing; fail: the project fell through due to lack of money. fall to (of a task) become the duty or responsibility of: it fell to me to write to Shephard. 
+• (of property) revert to the ownership of.ORIGIN Old Englishfallan, feallan, of Germanic origin; the noun is partly from the verb, partly from Old Norse fall ‘downfall, sin.’

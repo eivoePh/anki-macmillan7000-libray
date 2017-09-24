@@ -5,8 +5,12 @@ noun
 ② (on shop) 卷帘门 juǎnliánmén to put up the shutters literal 拉上卷帘门 figurative 停止营业 tíngzhǐ yíngyè 
 ③ (on camera) 快门 kuàimén 
 shutter 
-BrE ˈʃʌtə, AmE ˈʃədər 
-noun 
-① (on window) 百叶窗 bǎiyèchuāng 
-② (on shop) 卷帘门 juǎnliánmén to put up the shutters literal 拉上卷帘门 figurative 停止营业 tíngzhǐ yíngyè 
-③ (on camera) 快门 kuàimén 
+ˈSHədər
+
+▶noun
+1 each of a pair of hinged panels, often louvered, fixed inside or outside a window that can be closed for security or privacy or to keep out light.
+2 Photography a device that opens and closes to expose the film in a camera.
+3 Music the blind enclosing the swell box in an organ, used for controlling the volume of sound. 
+▶verb [with object] close the shutters of (a window or building): the windows were shuttered against the afternoon heat 
+(as adjective shuttered) : barred and shuttered stores. 
+• chiefly North American close (a business): the city was gripped by economic forces that were squeezing its tax base and shuttering its factories. DERIVATIVES shutterless adjective

@@ -12,11 +12,14 @@ C.  noun
 ② (rumour) 谣传 yáochuán there is a whisper (going round) that … 人们纷纷传言说… 
 ③ figurative (rustling) (of leaves, trees, grass) 沙沙声 shāshā shēng (of wind) 飒飒声 sàsà shēng 
 whisper 
-▶verb
-1 Alison whispered in his ear: murmur, mutter, mumble, speak softly, breathe; hiss; literary susurrate. ANTONYMS shout.
-2 literary the wind whispered in the grass: rustle, murmur, sigh, moan, whoosh, whir, swish, blow, breathe. ANTONYMS roar.
-▶noun
-1 she spoke in a whisper: murmur, mutter, mumble, low voice, undertone; rare sibilation; literary susurration.
-2 literary the wind died to a whisper: rustle, murmur, sigh, whoosh, swish.
-3 I heard the whisper that he's left town: rumor, story, report, speculation, insinuation, suggestion, hint; informal buzz.
-4 not a whisper of interest. See whit. 
+ˈ(h)wispər
+
+▶verb [no object] speak very softly using one's breath without one's vocal cords, especially for the sake of privacy: Alison was whispering in his ear 
+[with object] : he managed to whisper a faint goodbye 
+[with direct speech] : “Are you all right?” he whispered. 
+• literary (of leaves, wind, or water) rustle or murmur softly. 
+• (be whispered) be rumored: it was whispered that he would soon die. 
+▶noun a soft or confidential tone of voice; a whispered word or phrase: she spoke in a whisper. 
+• literary a soft rustling or murmuring sound: the thunder of the surf became a muted whisper. 
+• a rumor or piece of gossip: whispers of a blossoming romance. 
+• [usually in singular] a slight trace; a hint: he didn't show even a whisper of interest. DERIVATIVES whispery adjectiveORIGIN Old English hwisprian, of Germanic origin; related to German wispeln, from the imitative base of whistle .

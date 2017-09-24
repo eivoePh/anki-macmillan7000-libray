@@ -8,7 +8,13 @@ transitive verb
 ⑤ Law «judge» 驳回 bóhuí ‹case, appeal, charges›
 ⑥ Sport (in cricket) 迫使…退场 pòshǐ… tuìchǎng 
 dismiss 
-▶verb
-1 the president dismissed five aides: give someone their notice, get rid of, discharge, terminate; lay off; informal sack, give someone the sack, fire, boot out, give someone the boot, give someone their marching orders, show someone the door, can, pink-slip; Military cashier. ANTONYMS engage.
-2 the guards were dismissed: send away, let go; disband, dissolve, discharge. ANTONYMS assemble.
-3 he dismissed all morbid thoughts: banish, set aside, disregard, shrug off, put out of one's mind; reject, deny, repudiate, spurn. ANTONYMS entertain.CHOOSE THE RIGHT WORD See eject .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+disˈmis
+
+▶verb [with object] order or allow to leave; send away: she dismissed the taxi at the corner of the road. 
+• discharge from employment or office: CBS Records dismissed another 120 people. 
+• treat as unworthy of serious consideration: it would be easy to dismiss him as all brawn and no brain. 
+• deliberately cease to think about: he suspected a double meaning in her words, but dismissed the thought. 
+• [no object] (of a group assembled under someone's authority) disperse: he told his company to dismiss. 
+• Law refuse further hearing to (a case): the judge dismissed the case for lack of evidence. DERIVATIVES dismissible 
+disˈmisəb(ə)l 
+adjectiveORIGIN late Middle English: from medieval Latin dismiss-, variant of Latin dimiss- ‘sent away,’ from the verb dimittere .

@@ -1,5 +1,10 @@
-earthquake noun 地震 dìzhèn 
+earthquake
+ˈərTHˌkwāk
+noun
+地震 dìzhèn 
 earthquake 
-▶noun assessing the damage from the earthquake: earth tremor, tremor, shock, foreshock, aftershock, convulsion, seismic activity; informal quake.
-WORD LINKS
-earthquake seismic relating to earthquakes seismology the branch of science concerned with earthquakesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+ˈərTHˌkwāk
+
+▶noun a sudden and violent shaking of the ground, sometimes causing great destruction, as a result of movements within the earth's crust or volcanic action. 
+• a great upheaval: a political earthquake. Major earthquakes are confined to particular active regions of the earth's crust corresponding to the edges of the crustal plates, and most earthquakes are due to the release of strain energy associated with the relative motions of the plates. The intensity of earthquakes is expressed by the Richter scale, destructive earthquakes generally measuring between about
+7 and 9.

@@ -1,12 +1,58 @@
 front 
+frənt
+
 ▶noun
-1 the front of the boat: fore, foremost part, forepart, anterior, forefront, nose, head; bow, prow; foreground. ANTONYMS rear, back.
-2 the store's front: frontage, face, facing, facade; window.
-3 the battlefield surgeons who work at the front: front line, firing line, vanguard, van; trenches.
-4 the front of the line: head, beginning, start, top, lead. ANTONYMS back.
-5 she kept up a brave front: appearance, air, face, manner, demeanor, bearing, pose, exterior, veneer, (outward) show, act, pretense, affectation.
-6 the shop was a front for his real business: cover, cover-up, false front, blind, disguise, facade, mask, cloak, screen, smokescreen, camouflage.
-▶adjective the front runners: leading, lead, first, foremost; in first place. ANTONYMS last.
-▶verb the houses fronted on a reservoir: overlook, look out on/over, face (toward), lie opposite (to); have a view of, command a view of.
+1 the side or part of an object that presents itself to view or that is normally seen or used first; the most forward part of something: a page at the front of the book had been torn out 
+he sealed the envelope and wrote on the front. 
+• [in singular] the position directly ahead of someone or something; the most forward position or place: she quickly turned her head to face the front. 
+• the forward-facing part of a person's body, on the opposite side to their back. 
+• the part of a garment covering this: oatmeal slopped from the tray onto his shirt front. 
+• informal a woman's bust or cleavage. 
+• any face of a building, especially that of the main entrance: the west front of the cathedral. 
+• chiefly British short for seafront or waterfront.
+2 the foremost line or part of an armed force; the furthest position that an army has reached and where the enemy is or may be engaged: his regiment was immediately sent to the front. 
+• the direction toward which a line of troops faces when formed. 
+• a particular formation of troops for battle. 
+• a particular situation or sphere of operation: there was some good news on the jobs front. 
+• [often in names] an organized political group: the Palestinian Liberation Front. 
+• Meteorology the forward edge of an advancing mass of air. See cold front, occluded front, warm front.
+3 [in singular] an appearance or form of behavior assumed by a person to conceal their genuine feelings: she put on a brave front. 
+• a person or organization serving as a cover for subversive or illegal activities: the CIA identified the company as a front for a terrorist group. 
+• a well-known or prestigious person who acts as a representative, rather than an active member, of an organization. See also frontman.
+4 boldness and confidence of manner: he's got a bit of talent and a lot of front.
+5 archaic a person's face or forehead. 
+▶adjective [attributive]
+1 of or at the front: the front cover of the magazine 
+she was in the front yard.
+2 Phonetics (of a vowel sound) formed by raising the body of the tongue, excluding the blade and tip, toward the hard palate. 
+▶verb [with object]
+1 (of a building or piece of land) have the front facing or directed toward: the houses that front Beacon Street 
+[no object] : we sold the uphill land that fronted on the road. 
+• be or stand in front of: they reached the hedge fronting the garden. 
+• archaic stand face to face with; confront: Tom fronted him with unwavering eyes.
+2 (usually be fronted) provide (something) with a front or facing of a particular type or material: a metal box fronted by an alloy panel 
+[as adjective, in combination] (-fronted) : a glass-fronted bookcase.
+3 lead or be the most prominent member in (an organization, activity, or group of musicians): the group is fronted by two girl singers. 
+• present or host (a television or radio program). 
+• [no object] act as a front or cover for someone or something acting illegally or wishing to conceal something: he fronted for them in illegal property deals.
+4 Phonetics articulate (a vowel sound) with the tongue further forward: (as adjective fronted) : all speakers use raised and fronted variants more in spontaneous speech.
+5 Linguistics place (a sentence element) at the beginning of a sentence instead of in its usual position, typically for emphasis or as feature of some dialects, as in horrible it was. 
+▶exclam. used to summon someone to the front or to command them to assume a forward-facing position, as in calling a bellhop to the front desk or giving orders to troops on parade: scouts, front and center! 
 PHRASES
-in front it looks as if Carson is now in front: ahead, to/at the fore, at the head, up ahead, in the vanguard, in the van, in the lead, leading, coming first; informal up front.
+in front
+1 in a position just ahead of or further forward than someone or something else: the car in front stopped suddenly. 
+• in the lead in a game or contest: the Reds were in front until the eighth inning.
+2 on the part or side that normally first presents itself to view: a house with a wide porch in front. in front of
+1 in a position just ahead or at the front part of someone or something else: the lawn in front of the house. 
+• in a position facing someone or something: she sat in front of the mirror.
+2 in the presence of: the teacher didn't want his authority challenged in front of the class. out front at or to the front; in front: two station wagons stopped out front. 
+• in the auditorium of a theater. up front
+1 at or near the front: the floor plan has an open living area up front.
+2 in advance: every fee must be paid up front.
+3 open and direct; frank: I vowed to be up front with her.DERIVATIVES fronting 
+ˈfrəntiNG 
+noun. frontless adjective. frontward 
+-wərd 
+adjective & adverb. frontwards 
+-wərdz 
+adverbORIGIN Middle English (denoting the forehead): from Old French front (noun), fronter (verb), from Latin frons, front- ‘forehead, front.’

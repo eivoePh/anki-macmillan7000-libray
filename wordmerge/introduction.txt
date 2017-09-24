@@ -14,9 +14,15 @@ noun
 ⑪ UncountablePolitics 提交讨论 tíjiāo tǎolùn the introduction of the bill 议案的提交 
 ⑫ Countable(thing newly brought in) 新推行的事物 xīn tuīxíng de shìwù the procedure is a new introduction 该程序是新推出的 these exotic vegetables are recent introductions to our supermarkets 这些进口蔬菜是我们超市新进的 
 introduction 
+ˌintrəˈdəkSH(ə)n
+
 ▶noun
-1 the introduction of democratic reforms: institution, establishment, initiation, launch, inauguration, foundation; start, commencement, debut, inception, origination. ANTONYMS abolition.
-2 an introduction to the king: (formal) presentation to; meeting with, audience with.
-3 the book's introduction: foreword, preface, preamble, prologue, prelude; opening (statement), beginning; informal intro, lead-in, prelims; formal proem, prolegomenon. ANTONYMS afterword.
-4 an introduction to hothouse gardening: a primer of, a basic explanation of, a brief account of; the basics of, the rudiments of, the fundamentals of.
-5 freshmen would soon experience the traditional introduction to school life: initiation into, induction into, inauguration into, baptism into.
+1 the action of introducing something: issues arising from the introduction of new technology 
+the introduction of muskrats into central Europe. 
+• a thing newly brought into use or introduced to a place for the first time: these grains are valuable introductions from Sweden.
+2 (often introductions) a formal presentation of one person to another, in which each is told the other's name: he returned to his desk, leaving Michael to make the introductions 
+a letter of introduction.
+3 a thing preliminary to something else, especially an explanatory section at the beginning of a book, report, or speech: your talk will need an introduction that states clearly what you are talking about and why. 
+• a preliminary section in a piece of music, often thematically different from the main section. 
+• a book or course of study intended to introduce a subject to a person: it is a simple introduction to Euclidean geometry. 
+• [in singular] a person's first experience of a subject or thing: my introduction to drama was through an amateur dramatic society. ORIGIN late Middle English: from Latin introductio(n-), from the verb introducere (see introduce) .

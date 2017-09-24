@@ -1,40 +1,91 @@
 make 
-▶verb
-1 he makes models: construct, build, assemble, put together, manufacture, produce, fabricate, create, form, fashion, model. ANTONYMS destroy.
-2 I didn't want to go but she made me: force, compel, coerce, press, drive, pressure, oblige, require; have someone do something, prevail on, dragoon, bludgeon, strong-arm, impel, constrain; informal railroad.
-3 don't make such a noise: cause, create, give rise to, produce, bring about, generate, engender, occasion, effect, set up, establish, institute, found, develop, originate; literary beget.
-4 she made a little bow: perform, execute, give, do, accomplish, achieve, bring off, carry out, effect.
-5 they made him chairman: appoint, designate, name, nominate, select, elect, vote in, install; induct, institute, invest, ordain.
-6 he had made a will: formulate, frame, draw up, devise, make out, prepare, compile, compose, put together; draft, write, pen.
-7 I've made a mistake: perpetrate, commit, be responsible for, be guilty of, be to blame for.
-8 he's made a lot of money: acquire, obtain, gain, get, realize, secure, win, earn; gross, net, clear; bring in, take (in), rake in. ANTONYMS lose.
-9 he made dinner: prepare, get ready, put together, concoct, cook, dish up, throw together, whip up, brew; informal fix.
-10 we've got to make a decision: reach, come to, settle on, determine on, conclude.
-11 she made a short announcement: utter, give, deliver, give voice to, enunciate, recite, pronounce.
-12 the sofa makes a good bed: be, act as, serve as, function as, constitute, do duty for.
-13 he'll make the team: gain a place in, get into, gain access to, enter; achieve, attain.
-14 he just made his train: catch, get, arrive/be in time for, arrive at, reach; get to. ANTONYMS miss.
+māk
+
+▶verb (past and past participle made 
+mād
+) [with object]
+1 form (something) by putting parts together or combining substances; construct; create: my grandmother made a dress for me 
+the body is made from four pieces of maple 
+baseball bats are made of ash. 
+• (make something into) alter something so that it forms or constitutes (something else): buffalo's milk can be made into cheese. 
+• compose, prepare, or draw up (something written or abstract): she made her will. 
+• prepare (a dish, drink, or meal) for consumption: she was making lunch for Lucy and Francis 
+[with two objects] : I'll make us both a cup of tea. 
+• arrange bedclothes tidily on (a bed) ready for use. 
+• arrange and light materials for (a fire). 
+• Electronics complete or close (a circuit).
+2 cause (something) to exist or come about; bring about: the drips had made a pool on the floor. 
+• [with object and complement or infinitive] cause to become or seem: decorative features make brickwork more interesting 
+the best way to disarm your critics is to make them laugh. 
+• carry out, perform, or produce (a specified action, movement, or sound): Unger made a speech of forty minutes 
+anyone can make a mistake 
+we made a deal. 
+• communicate or express (an idea, request, or requirement): I tend to make heavy demands on people 
+[with two objects] : make him an offer he can't refuse. 
+• chiefly archaic enter into a contract of (marriage): a marriage made in heaven. 
+• [with object and complement] appoint or designate (someone) to a position: he was made a colonel in the Mexican army. 
+• [with object and complement] represent or cause to appear in a specified way: the sale price and extended warranty make it an excellent value. 
+• cause or ensure the success or advancement of: the work which really made Wordsworth's reputation.
+3 [with object and infinitive] compel (someone) to do something: she bought me a brandy and made me drink it.
+4 constitute; amount to: they made an unusual duo. 
+• serve as or become through development or adaptation: this fern makes a good houseplant. 
+• consider to be; estimate as: How many are there? I make it sixteen. 
+• agree or decide on (a specified arrangement), typically one concerning a time or place: let's make it 7:30.
+5 gain or earn (money or profit): he'd made a lot of money out of hardware.
+6 arrive at (a place) within a specified time or in time for (a train or other transport): we've got a lot to do if you're going to make the shuttle 
+they didn't always make it on time. 
+• (make it) succeed in something; become successful: he waited confidently for his band to make it. 
+• achieve a place in: these dogs seldom make the news 
+they made it to the semifinals. 
+• achieve the rank of: he wasn't going to make captain.
+7 [no object] go or prepare to go in a particular direction: he struggled to his feet and made toward the car. 
+• [with infinitive] act as if one is about to perform an action: she made as if to leave the room.
+8 North American informal induce (someone) to have sexual intercourse with one: he had been trying to make Cynthia for two years now 
+his alleged quest to make it with the world's most attractive women.
+9 (in bridge, whist, and similar games) win (a trick). 
+• win a trick with (a card). 
+• win the number of tricks that fulfills (a contract). 
+• shuffle (a pack of cards) for dealing.
+10 [no object] (of the tide) begin to flow or ebb. 
 ▶noun
-1 what make is the car? brand, marque, label.
-2 a man of a different make from his brother: character, nature, temperament, temper, disposition, kidney, mold, stamp.
+1 the manufacturer or trade name of a particular product: the make, model, and year of his car. 
+• the structure or composition of something.
+2 the making of electrical contact. 
 PHRASES
-make as if/though he made as if to run away: feign, pretend, make a show/pretense of, affect, feint, make out. make believe we encourage the children to make believe: pretend, fantasize, daydream, build castles in the air, dream, imagine, play-act, play. make do we have precious little but we make do 
-we'll have to make do with just one income: scrape by, get by, manage, cope, survive, muddle through, improvise, make ends meet, keep the wolf from the door, keep one's head above water; informal make out; (make do with) make the best of, get by on, put up with. make for
-1 she made for the door: go for/toward, head for/toward, aim for, make one's way toward, move toward, direct one's steps toward, steer a course toward, be bound for, make a beeline for.
-2 constant arguing doesn't make for a happy marriage: contribute to, be conducive to, produce, promote, facilitate, foster. make it
-1 he'll never make it as a singer: succeed, be a success, distinguish oneself, get ahead, make good; informal make the grade, arrive.
-2 she's very ill—is she going to make it? survive, come through, pull through, get better, recover. make love See have sex with, at sex. make off with they made off with all the wedding gifts: take, steal, purloin, pilfer, abscond with, run away/off with, carry off, snatch; kidnap, abduct; informal walk away/off with, swipe, filch, nab, lift, “liberate”, “borrow”, snitch, pinch; heist. make out informal
-1 how did you make out? get on/along, fare, do, proceed, go, progress, manage, survive, cope, get by.
-2 I could just make out a figure in the distance: see, discern, distinguish, perceive, pick out, detect, observe, recognize; literary descry, espy.
-3 he couldn't make out what she was saying: understand, comprehend, follow, grasp, fathom, work out, make sense of, interpret, decipher, make head(s) or tail(s) of, get, get the drift of, catch.
-4 she made out that he was violent: allege, claim, assert, declare, maintain, affirm, suggest, imply, hint, insinuate, indicate, intimate, impute; formal aver.
-5 he made out a receipt for $20: write out, fill out, fill in, complete, draw up.
-6 they made out in the back seat: kiss, neck, caress, pet; informal smooch, canoodle, fool around. make over Grandpa made over the deed to Uncle Marc: transfer, sign over, turn over, hand over/on/down, give, leave, bequeath, bestow, pass on, assign, consign, entrust; Law devolve. make up
-1 let's kiss and make up: be friends again, bury the hatchet, declare a truce, make peace, forgive and forget, shake hands, become reconciled, settle one's differences, mend fences, call it quits.
-2 exports make up 42% of earnings: constitute, form, compose, account for.
-3 Gina brought a friend to make up a foursome: complete, round off/out, finish.
-4 the pharmacist made up the prescription: prepare, mix, concoct, put together.
-5 he made up an excuse: invent, fabricate, concoct, dream up, think up, hatch, trump up; devise, manufacture, formulate, coin; informal cook up.
-6 she made up her face: apply makeup/cosmetics to, powder; (make oneself up) informal put on one's face, do/paint one's face, apply one's war paint, doll oneself up. make up for
-1 she tried to make up for what she'd said: atone for, make amends for, compensate for, make recompense for, make reparation for, make redress for, make restitution for, expiate.
-2 job satisfaction can make up for low pay: offset, counterbalance, counteract, compensate for; balance, neutralize, cancel out, even up, redeem. make up one's mind you need to make up your mind about the job offer: decide, come to a decision, make/reach a decision; settle on a plan of action, come to a conclusion, reach a conclusion; determine, resolve. make way make way for the paramedics: move aside, clear the way, make a space, make room, stand back.
+be made of money [often with negative] informal be very rich. have (got) it made informal be in a position where success is certain: because your dad's a manager, he's got it made. make a day (or night) of it devote a whole day (or night) to an activity, especially an enjoyable one. make someone's day make an otherwise ordinary or dull day pleasingly memorable for someone. make do manage with the limited or inadequate means available: Dad would have to make do with an old car. make like North American informal pretend to be; imitate: tell the whole group to make like a bird by putting their arms out. make or break be the factor that decides whether (something) will succeed or fail. make sail Sailing spread a sail or sails. 
+• start a voyage. make time
+1 find an occasion when time is available to do something: the nurse should make time to talk to the patient.
+2 North American informal make sexual advances to someone: I couldn't make time with Marilyn because she was already a senior. make up one's mind make a decision; decide: he made up his mind to attend the meeting. make way
+1 allow room for someone or something else: the land is due to be bulldozed to make way for a parking garage.
+2 chiefly Nautical make progress; travel. on the make informal intent on gain, typically in an unscrupulous way. 
+• looking for a sexual partner. put the make on North American informal make sexual advances to (someone).PHRASAL VERBS make after archaic pursue (someone). make away with 
+• kill (someone) furtively and illicitly: for all we know she could have been made away with. make for
+1 move or head toward (a place): I made for the life raft and hung on for dear life. 
+• approach (someone) to attack them.
+2 tend to result in or be received as (a particular thing): job descriptions never make for exciting reading.
+3 (be made for) be eminently suited for (a particular function): a man made for action. 
+• form an ideal partnership; be ideally suited: you two were just made for each other. make something of give or ascribe a specified amount of attention or importance to: oddly, he makes little of America's low investment rates. 
+• understand or derive advantage from: they stared at the stone but could make nothing of it. 
+• [with negative or in questions] conclude to be the meaning or character of: he wasn't sure what to make of Russell. make off leave hurriedly, especially in order to avoid duty or punishment: they made off without paying. make off with carry (something) away illicitly: burglars made off with all their wedding presents. make out informal
+1 make progress; fare: how are you making out, now that the summer's over?
+2 North American informal engage in sexual activity: Ernie was making out with Bernice. make someone/something out
+1 manage with some difficulty to see or hear something: in the dim light it was difficult to make out the illustration. 
+• understand the character or motivation of someone: I can't make her out—she's so inconsistent.
+2 [with infinitive or clause] assert; represent: I'm not as bad as I'm made out to be. 
+• try to give a specified impression; pretend: he made out he was leaving.
+3 draw up or write out a list or document, especially an official one: advice about making out a will 
+send a check made out to Trinity College. make something over
+1 transfer the possession of something to someone: if he dies childless he is to make over his share of the estate to his brother.
+2 completely transform or remodel something, especially a person's hairstyle, makeup, or clothes. make up be reconciled after a quarrel: let's kiss and make up. make someone up apply cosmetics to oneself or another. make something up
+1 (also make up for) serve or act to compensate for something lost, missed, or deficient: I'll make up the time tomorrow. 
+• (make it up to) compensate someone for negligent or unfair treatment: I'll try to make it up to you in the future.
+2 (make up) (of parts) compose or constitute (a whole): women make up 56 percent of the student body 
+the team is made up of three women and two men. 
+• complete an amount or group: he brought along a girl to make up a foursome.
+3 put together or prepare something from parts or ingredients: make up the mortar to a consistency that can be molded in the hands. 
+• get an amount or group together: he was trying to make up a party to go dancing. 
+• prepare a bed for use with fresh bedclothes. 
+• Printing arrange type and illustrations into pages or arrange the type and illustrations on a page.
+4 concoct or invent a story, lie, or plan: she enjoyed making up tall tales. make up to informal attempt to win the favor of (someone) by being pleasant: you can't go on about morals when you're making up to Adam like that. make with US informal proceed to use or supply: make with the feet, honey—we're late.DERIVATIVES makeable 
+-əbəl 
+(also makable) adjectiveORIGIN Old English macian, from a base meaning ‘fitting’; related to match1 .

@@ -1,8 +1,13 @@
-peel 
+peel
+1 
+pēl
+
 ▶verb
-1 peel and core the fruit: pare, skin, take the skin/rind off; hull, shell, husk, shuck; technical decorticate.
-2 use a long knife to peel the veneer: trim (off), peel off, pare, strip (off), shave (off), remove.
-3 the wallpaper was peeling: flake (off), peel off, come off in layers/strips.
-▶noun orange peel: rind, skin, covering, zest; hull, pod, integument, shuck.
-PHRASES
-keep one's eyes peeled keep your eyes peeled for a light blue Pontiac: keep a (sharp) lookout, look out, keep one's eyes open, keep watch, be watchful, be alert, be on the alert, be on the qui vive, be on guard.
+1 [with object] remove the outer covering or skin from (a fruit, vegetable, or shrimp): she watched him peel an apple with deliberate care. 
+• remove (the outer covering or skin) from a fruit or vegetable: peel off the skins and thickly slice the potatoes. 
+• [no object] (of a fruit or vegetable) have a skin that can be removed: oranges that peel easily. 
+• (peel something away/off) remove or separate a thin covering or part from the outside or surface of something: carefully peel away the wax paper. 
+• remove (an article of clothing): Suzy peeled off her white pullover.
+2 [no object] (of a surface or object) lose parts of its outer layer or covering in small strips or pieces: the walls are peeling. 
+• [with adverbial] (of an outer layer or covering) come off, especially in strips or small pieces. 
+▶noun the outer covering or rind of a fruit or vegetable. PHRASAL VERBS peel off (of a member of a formation, especially a flying formation) leave the formation by veering away to one side: the pace was much too hot for Beris, and he peeled off after five laps. peel out North American informal leave quickly: he peeled out down the street.ORIGIN Middle English (in the sense ‘to plunder’): variant of dialect pill, from Latin pilare ‘to strip hair from,’ from pilus ‘hair.’ The differentiation of peel and pill may have been by association with the French verbs peler ‘to peel’ and piller ‘to pillage.’

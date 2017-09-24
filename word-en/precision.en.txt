@@ -1,2 +1,7 @@
 precision 
-▶noun tools crafted with precision: exactness, exactitude, accuracy, correctness, preciseness; care, carefulness, meticulousness, scrupulousness, punctiliousness, methodicalness, rigor, rigorousness.
+prəˈsiZHən
+
+▶noun the quality, condition, or fact of being exact and accurate: the deal was planned and executed with military precision. 
+• [as modifier] marked by or adapted for accuracy and exactness: a precision instrument. 
+• technical refinement in a measurement, calculation, or specification, especially as represented by the number of digits given: this has brought an unprecedented degree of precision to the business of dating rocks 
+a precision of six decimal figures. Compare with accuracy. ORIGIN mid 18th century: from French précision or Latin praecisio(n-), from praecidere ‘cut off’ (see precise) .

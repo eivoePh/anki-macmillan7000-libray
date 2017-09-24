@@ -2,8 +2,18 @@ scattered
 BrE ˈskatəd, AmE ˈskædərd 
 adjective 分散的 fēnsàn de ‹villages, population›; 稀疏的 xīshū de ‹houses, audience›scattered showers 短时阵雨 
 scatter 
-▶verb
-1 the papers were scattered by the sudden breeze 
-scatter the seeds as evenly as possible: throw, strew, toss, fling; sprinkle, spread, distribute, sow, broadcast, disseminate; literary bestrew. ANTONYMS gather.
-2 the crowd scattered 
-onlookers were scattered in all directions: disperse, break up, disband, separate, move/go in different directions, go separate ways; dissipate, dissolve; drive, send, put to flight, chase. ANTONYMS assemble.CHOOSE THE RIGHT WORD scatter, broadcast, diffuse, dispel, disperse, disseminate, dissipate If you scatter something, you throw it about in different directions, often using force (the wind scattered leaves around the yard). Disperse implies a scattering that completely breaks up a mass or assemblage and spreads the units far and wide (the crowd dispersed as soon as the storm arrived; the ships were so widely dispersed that they couldn't see each other). To dispel is to scatter or to drive away something that obscures, confuses, or bothers (to dispel her fears), while to diffuse is to lessen the intensity of something by spreading it out over a broader area (the curtains diffused the bright sunlight pouring in the window). Dissipate suggests that something has completely dissolved, disintegrated, or vanished (early-morning mist dissipated by the sun). Broadcast originally meant to scatter seed, but it is also used figuratively to mean make public (the news of the president's defeat was broadcast the next morning). Disseminate also means to publish or make public, but it implies a wider audience and usually a longer duration. You can spend a lifetime disseminating knowledge, in other words, but you would broadcast the news of the birth of your first grandchild.These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+ˈskadər
+
+▶verb [with object] throw in various random directions: scatter the coconut over the icing 
+his family is hoping to scatter his ashes at sea. 
+• (be scattered) [usually with adverbial] occur or be found at intervals rather than all together: there are many mills scattered throughout the marshlands 
+(as adjective scattered) : a scattered mountain community. 
+• (of a group of people or animals) separate and move off quickly in different directions: the roar made the dogs scatter. 
+• cause (a group of people or animals) to separate and move off quickly in different directions: he charged across the foyer, scattering people. 
+• (usually be scattered with) cover (a surface) with objects thrown or spread randomly over it: sandy beaches scattered with driftwood. 
+• Physics deflect or diffuse (electromagnetic radiation or particles). 
+▶noun a small, dispersed amount of something: a scatter of houses on the north shore. 
+• Statistics the degree to which repeated measurements or observations of a quantity differ. 
+• Physics the scattering of light, other electromagnetic radiation, or particles. DERIVATIVES scatterable adjective. scatteration 
+ˌskatəˈrāSHən 
+noun. scatterer nounORIGIN Middle English (as a verb): probably a variant of shatter .

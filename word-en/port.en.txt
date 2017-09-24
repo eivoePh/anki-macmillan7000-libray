@@ -1,5 +1,10 @@
 port
 1 
-▶noun
-1 the German port of Kiel: seaport.
-2 shells exploded down by the port: harbor, dock(s), haven, marina, harborside; anchorage, moorage, harborage, roads.
+pôrt
+
+▶noun a town or city with a harbor where ships load or unload, especially one where customs officers are stationed. 
+• a harbor: the port has miles of docks 
+[as modifier] : an abundant water supply and port facilities. 
+• (also inland port) an inland town or city whose connection to the coast by a river or other body of water enables it to act as a port. 
+PHRASES
+any port in a storm proverb in adverse circumstances one welcomes any source of relief or escape. port of entry a harbor, border town, or airport by which people and goods may enter a country.ORIGIN Old English, from Latin portus ‘haven, harbor,’ reinforced in Middle English by Old French.

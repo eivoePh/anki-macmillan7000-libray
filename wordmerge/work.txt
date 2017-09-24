@@ -75,35 +75,73 @@ B.  transitive verb
 ③ [work somebody up] (excite) 使激动 shǐ jīdòng to work [somebody] up into a frenzy/rage 使某人变得疯狂/暴怒 
 C.  reflexive verb to work oneself up into a state/frenzy 使自己大动肝火/疯狂起来 shǐ zìjǐ dà dòng gānhuǒ/fēngkuáng qilai to get (oneself) all worked up (over or about [something]) （因某事物）激动起来 (yīn mǒu shìwù)jīdòng qilai 
 work 
+wərk
+
 ▶noun
-1 a day's work in the fields: labor, toil, slog, drudgery, exertion, effort, industry, service; informal grind, sweat, elbow grease; literary travail. ANTONYMS leisure, rest.
-2 I'm looking for work: employment, a job, a position, a situation, a post; an occupation, a profession, a career, a vocation, a calling; wage labor; tasks, jobs, duties, assignments, projects; chores. ANTONYMS unemployment, retirement.
-3 works of literature: composition, piece, creation; opus, oeuvre.
-4 (works) the complete works of Shakespeare: writings, oeuvre, canon, output.
-5 this is the work of a radical faction: handiwork, doing, act, deed.
-6 (works) a lifetime spent doing good works: deeds, acts, actions.
-7 informal (the works) for only $60 you can get the works: everything, the full treatment; informal the lot, the whole shebang, the full nine yards, the whole kit and kaboodle, the whole ball of wax.
-▶verb
-1 staff worked late into the night: toil, labor, exert oneself, slave (away); keep at it, put one's nose to the grindstone; informal slog (away), plug away, put one's back into it, knock oneself out, sweat blood; literary travail. ANTONYMS rest, play.
-2 he worked in education for years: be employed, have a job, earn one's living, do business.
-3 farmers worked the land: cultivate, farm, till, plow.
-4 his car was working perfectly: function, go, run, operate; informal behave.
-5 how do I work this machine? operate, use, handle, control, manipulate, run.
-6 their ploy worked: succeed, work out, turn out well, go as planned, get results, be effective; informal come off, pay off, do/turn the trick. ANTONYMS fail.
-7 makeup can work miracles: bring about, accomplish, achieve, produce, perform, create, engender, contrive, effect.
-8 informal can you work it so I can get in for free? arrange it/things, manipulate it/things, contrive it; pull strings, fix it, swing it, wangle it.
-9 he worked the crowd into a frenzy: stir (up), excite, drive, move, rouse, fire, galvanize; whip up, agitate.
-10 work the mixture into a paste: knead, squeeze, form; mix, stir, blend.
-11 he worked the blade into the padlock: maneuver, manipulate, guide, edge.
-12 her mouth worked furiously: twitch, quiver, convulse.
-13 he worked his way through the crowd: maneuver, make, thread, wind, weave, wend.
+1 activity involving mental or physical effort done in order to achieve a purpose or result: he was tired after a day's work in the fields. 
+• (works) [in combination] a place or premises for industrial activity, typically manufacturing: he found a job in the ironworks.
+2 mental or physical activity as a means of earning income; employment: I'm still looking for work. 
+• the place where one works: I was returning home from work on a packed subway. 
+• the period of time spent during the day engaged in such activity: he was going to the theater after work.
+3 a task or tasks to be undertaken; something a person or thing has to do: they made sure the work was progressing smoothly. 
+• the materials for this: she frequently took work home with her. 
+• informal cosmetic plastic surgery: between you and me, I think he's had some work done. 
+• (works) Theology good or moral deeds: the Clapham sect was concerned with works rather than with faith.
+4 something done or made: her work hangs in all the main American collections. 
+• the result of the action of a specified person or thing: the bombing had been the work of a German-based cell. 
+• a literary or musical composition or other piece of fine art: a work of fiction. 
+• (works) all literary or musical pieces by a particular author, composer, or artist, regarded collectively: the works of Schubert fill several feet of shelf space. 
+• a piece of embroidery, sewing, or knitting, typically made using a specified stitch or method. 
+• (usually works) Military a defensive structure. 
+• (works) an architectural or engineering structure such as a bridge or dam. 
+• the record of the successive calculations made in solving a mathematical problem: show your work on a separate sheet of paper.
+5 (works) the operative part of a clock or other machine: she could almost hear the tick of its works.
+6 Physics the exertion of force overcoming resistance or producing molecular change.
+7 (the works) informal everything needed, desired, or expected: the heavens put on a show: sheet lightning, hailstones—the works. 
+▶verb (past and past participle worked or archaic wrought 
+rôt
+) [no object]
+1 be engaged in physical or mental activity in order to achieve a purpose or result, especially in one's job; do work: an engineer who had been working on a design for a more efficient wing 
+new contracts forcing employees to work longer hours. 
+• be employed, typically in a specified occupation or field: Taylor has worked in education for
+17 years. 
+• (work in) (of an artist) produce articles or pictures using (a particular material or medium): he works in clay over a very strong frame. 
+• [with object] produce (an article or design) using a specified material or sewing stitch: the castle itself is worked in tent stitch. 
+• [with object] set to or keep at work: Jane is working you too hard. 
+• [with object] cultivate (land) or extract materials from (a mine or quarry): contracts and leases to work the mines. 
+• [with object] solve (a puzzle or mathematical problem): she spent her days working crosswords. 
+• [with object] practice one's occupation or operate in or at (a particular place): I worked a few clubs and so forth. 
+• make efforts to achieve something; campaign: we spend a great deal of our time working for the lacto-vegetarian cause.
+2 (of a machine or system) operate or function, especially properly or effectively: his cell phone doesn't work unless he goes to a high point. 
+• (of a machine or a part of it) run; go through regular motions: it's designed to go into a special “rest” state when it's not working. 
+• (especially of a person's features) move violently or convulsively: hair wild, mouth working furiously. 
+• [with object] cause (a device or machine) to operate: teaching customers how to work a P
+C.  
+• (of a plan or method) have the desired result or effect: the desperate ploy had worked. 
+• [with object] bring about; produce as a result: with a dash of blusher here and there, you can work miracles. 
+• [with object] informal arrange or contrive: the chairman was prepared to work it for Phillip if he was interested. 
+• (work on/upon) exert influence or use one's persuasive power on (someone or their feelings): she worked upon the sympathy of her associates. 
+• [with object] use one's persuasive power to stir the emotions of (a person or group of people): the born politician's art of working a crowd.
+3 [with object or complement] bring (a material or mixture) to a desired shape or consistency by hammering, kneading, or some other method: work the mixture into a paste with your hands. 
+• bring into a specified state, especially an emotional state: Harold had worked himself into a minor rage.
+4 [with adverbial or complement] move or cause to move gradually or with difficulty into another position, typically by means of constant movement or pressure: [with object] : comb from tip to root, working out the knots at the end 
+[no object] : its bases were already working loose. 
+• (of joints, such as those in a wooden ship) loosen and flex under repeated stress. 
+• [with adverbial] Sailing make progress to windward, with repeated tacking: trying to work to windward in light airs. 
 PHRASES
-work on leave Hank to me—I'll work on him: persuade, manipulate, influence; coax, cajole, wheedle, soften up, sweet-talk; informal twist someone's arm, lean on. work out
-1 the bill works out to $50: amount to, add up to, come to, total.
-2 my idea worked out. See work (sense
-6 of the verb).
-3 things didn't work out the way she planned: end up, turn out, go, come out, develop; happen, occur; informal pan out.
-4 he works out at the local gym: exercise, train.
-5 work out what you can afford: calculate, compute, determine, reckon (up).
-6 I'm trying to work out what she meant: understand, comprehend, sort out, make sense of, get to the bottom of, make head(s) or tail(s) of, unravel, decipher, decode, puzzle out; informal figure out.
-7 they worked out a plan: devise, formulate, draw up, put together, develop, construct, arrange, organize, contrive, concoct; hammer out, negotiate. work up he couldn't work up any enthusiasm: stimulate, rouse, raise, arouse, awaken, excite. CHOOSE THE RIGHT WORD See labor .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+at work engaged in work. 
+• in action: researchers were convinced that one infectious agent was at work. give someone the works informal treat someone harshly. 
+• kill someone. have one's work cut out be faced with a hard or lengthy task. in the works being planned, worked on, or produced. out of work unemployed. set to work (or set someone to work) begin or cause to begin work.the work of —— a task occupying a specified amount of time: it was the work of a moment to discover the tiny stab wound. work one's ass (or butt) off vulgar slang work extremely hard. work one's fingers to the bone see bone. work one's passage pay for one's journey on a ship with work instead of money. work one's way through college (or school, etc.) obtain the money for educational fees or one's maintenance as a student by working.work one's will on/upon accomplish one's purpose on: she set a coiffeur to work his will on her hair. work the streets (of a prostitute) seek clients in the street, rather than work in a brothel: she now works the streets in Sheffield's red light district to pay for her addiction. work wonders see wonder. PHRASAL VERBS work something in include or incorporate something, typically in something spoken or written. work something off
+1 discharge a debt by working.
+2 reduce or get rid of something by work or activity: one of those gimmicks for working off aggression. work out
+1 (of an equation) be capable of being solved. 
+• (work out at) be calculated at: the losses work out at $2.94 a share.
+2 have a good or specified result: things don't always work out that way.
+3 engage in vigorous physical exercise or training, typically at a gym. work someone out understand someone's character. work something out
+1 solve a sum or determine an amount by calculation. 
+• solve or find the answer to something: I couldn't work out whether it was a band playing or a record.
+2 plan or devise something in detail: work out a seating plan.
+3 literary accomplish or attain something with difficulty: malicious fates are bent on working out an ill intent.
+4 (usually be worked out) work a mine until it is exhausted of minerals. work someone over informal treat someone with violence; beat someone severely: the cops had worked him over a little just for the fun of it. work through go through a process of understanding and accepting (a painful or difficult situation): they should be allowed to feel the pain and work through their emotions. work to follow or operate within the constraints of (a plan or system): working to tight deadlines. work up to proceed gradually toward (something more advanced or intense): the course starts with landing technique, working up to jumps from an enclosed platform. work someone up (often get worked up) gradually bring someone, especially oneself, to a state of intense excitement, anger, or anxiety: he got all worked up and started shouting and swearing. work something up
+1 bring something gradually to a more complete or satisfactory state: painters were accustomed to working up compositions from drawings.
+2 develop or produce by activity or effort: despite the cold, George had already worked up a fair sweat.DERIVATIVES workless adjective. worklessness nounORIGIN Old English weorc (noun), wyrcan (verb), of Germanic origin; related to Dutch werk and German Werk, from an Indo-European root shared by Greek ergon .

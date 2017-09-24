@@ -5,7 +5,11 @@ adjective
 ② (involving competition) 取决于竞争的 qǔjué yú jìngzhēng de ‹entry›; 竞技性的 jìngjìxìng de ‹sport›; 竞争的 jìngzhēng de ‹market, environment, advantage›competitive bidding 竞争性投标 by competitive examination 按以考试成绩择优录取的方式 
 ③ Busn 有竞争力的 yǒu jìngzhēnglì de ‹goods, prices, performance›a competitive edge 竞争优势 to be competitive with [something]; 相对某物有竞争力 
 competitive 
+kəmˈpedədiv
+
 ▶adjective
-1 a competitive player: ambitious, zealous, keen, pushy, combative, aggressive. ANTONYMS apathetic.
-2 a highly competitive industry: ruthless, aggressive, fierce; Darwinian; informal dog-eat-dog, cutthroat.
-3 competitive prices: reasonable, moderate; low, inexpensive, cheap, budget, bargain, reduced, discount; rock-bottom, bargain-basement, downmarket. ANTONYMS exorbitant.REFLECTIONS Francine ProseDarwinian Given the range of Charles Darwin's accomplishments, the word Darwinian could, in theory, mean all sorts of things: a Darwinian voyage of scientific discovery. But in fact it's come to signify, more narrowly, the struggle for survival and dominance that furthers evolution and enables a particular species to prevail over its competitors. What I like about the word is how it can also be used to describe certain unattractive sorts of human social behavior, also marked by fierce competition and by the ruthless desire for dominance: The atmosphere in the classroom—or at the dinner party—was remarkably Darwinian.Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+1 relating to or characterized by competition: a competitive sport 
+the intensely competitive newspaper industry. 
+• having or displaying a strong desire to be more successful than others: she had a competitive streak.
+2 as good as or better than others of a comparable nature: a car industry competitive with any in the world. 
+• (of prices) low enough to compare well with those of rival merchants: we offer prompt service at competitive rates. ORIGIN early 19th century: from Latin competit- ‘striven for,’ from the verb competere (see compete), + -ive .

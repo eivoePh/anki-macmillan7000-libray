@@ -1,4 +1,7 @@
 context 
-▶noun
-1 the wider historical context: circumstances, conditions, factors, state of affairs, situation, background, scene, setting.
-2 a quote taken out of context: frame of reference, contextual relationship; text, subject, theme, topic.
+ˈkäntekst
+
+▶noun the circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood and assessed: the decision was taken within the context of planned cuts in spending. 
+• the parts of something written or spoken that immediately precede and follow a word or passage and clarify its meaning: word processing is affected by the context in which words appear. 
+PHRASES
+in context considered together with the surrounding words or circumstances: it is difficult now to view these masterpieces in context. out of context without the surrounding words or circumstances and so not fully understandable: comments that aides have long insisted were taken out of context.DERIVATIVES contextless adjectiveORIGIN late Middle English (denoting the construction of a text): from Latin contextus, from con- ‘together’ + texere ‘to weave.’

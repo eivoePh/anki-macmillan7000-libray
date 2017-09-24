@@ -1,5 +1,8 @@
 environment 
+inˈvīrənmənt
+
 ▶noun
-1 birds from many environments: habitat, territory, domain; surroundings, environs, conditions.
-2 the hospital environment: situation, setting, milieu, background, backdrop, scene, location; context, framework; sphere, world, realm; ambience, atmosphere.
-3 (the environment) the impact of pesticides on the environment: the natural world, nature, the earth, the planet, the ecosystem, the biosphere, Mother Nature; wildlife, flora and fauna, the countryside.
+1 the surroundings or conditions in which a person, animal, or plant lives or operates. 
+• [usually with modifier] the setting or conditions in which a particular activity is carried on: a good learning environment. 
+• [with modifier] Computing the overall structure within which a user, computer, or program operates: a desktop development environment.
+2 (the environment) the natural world, as a whole or in a particular geographical area, especially as affected by human activity.

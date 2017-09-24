@@ -22,14 +22,39 @@ C.  intransitive verb
 ③ Audio equipment «stylus» [在唱片纹道上] 移动 yídòng to track well/badly 运转流畅/不畅 PHRASAL VERB track down transitive verb[track somebody/something down], [track down somebody/something] 
 ① (hunt down) 追踪到 zhuīzōng dào ‹criminal, animal›
 ② (find) 搜寻到 sōuxún dào ‹old friend, object, reference›
-track 
+track
+1 
+trak
+
 ▶noun
-1 a gravel track: path, pathway, footpath, lane, trail, route, way, course.
-2 the final lap of the track: course, racetrack, raceway; velodrome.
-3 (tracks) he found the tracks of a wolverine: traces, marks, prints, footprints, trail, spoor.
-4 we followed the track of the hurricane: course, path, line, route, way, trajectory, wake.
-5 railroad tracks: rail, line.
-6 the album's title track: song, recording, number, piece.
-▶verb he tracked a bear for 40 miles: follow, trail, trace, pursue, shadow, stalk, keep an eye on, keep in sight; informal tail.
+1 a rough path or minor road, typically one beaten by use rather than constructed: follow the track to the farm 
+a forest track. 
+• a prepared course or circuit for athletes, horses, motor vehicles, bicycles, or dogs to race on: a Formula One Grand Prix track. 
+• the sport of running on a track. 
+• (usually tracks) a mark or line of marks left by a person, animal, or vehicle in passing: he followed the tracks made by the police cars in the snow. 
+• the course or route followed by someone or something (used especially in talking about their pursuit by others): I didn't want the Russians on my track. 
+• a course of action; a way of proceeding: defense budgeting and procurement do not move along different tracks from defense policy as a whole.
+2 a continuous line of rails on a railroad. 
+• a metal or plastic strip or rail from which a curtain or spotlight may be hung or fitted. 
+• a continuous articulated metal band around the wheels of a heavy vehicle such as a tank or bulldozer, intended to facilitate movement over rough or soft ground. 
+• Electronics a continuous line of copper or other conductive material on a printed circuit board, used to connect parts of a circuit. 
+• Sailing a strip on the mast, boom, or deck of a yacht along which a slide attached to a sail can be moved, used to adjust the position of the sail.
+3 a recording of one song or piece of music: the CD contains early Elvis Presley tracks. 
+• a lengthwise strip of magnetic tape containing one sequence of signals. 
+• the soundtrack of a film or video.
+4 the transverse distance between a vehicle's wheels.
+5 US a group in which schoolchildren of the same age and ability are taught. 
+▶verb [with object]
+1 follow the course or trail of (someone or something), typically in order to find them or note their location at various points: secondary radars that track the aircraft in flight 
+he tracked Anna to her room. 
+• follow and note the course or progress of: they are tracking the girth and evolution of stars. 
+• [no object] follow a particular course: the storm was tracking across the ground at 30 mph. 
+• (of a stylus) follow (a groove in a record). 
+• [no object] (of a film or television camera) move in relation to the subject being filmed: the camera eventually tracked away. [with reference to early filming when a camera was mobile by means of a track.] 
+• (track something up) North American leave a trail of dirty footprints on a surface. 
+• (track something in) leave a trail of dirt, debris, or snow from one's feet: the road salt I'd tracked in from the street.
+2 [no object] (of wheels) run so that the back ones are exactly in the track of the front ones.
+3 [no object] Electronics (of a tunable circuit or component) vary in frequency in the same way as another circuit or component, so that the frequency difference between them remains constant.
+4 US assign (a student) to a course of study according to ability. 
 PHRASES
-keep track of the electronic log keeps track of your blood-glucose readings: monitor, follow, keep up with, keep an eye on; keep in touch with, keep up to date with; informal keep tabs on. track down Captain Pearce vowed that they would track down the killer: discover, find, detect, hunt down/out, unearth, uncover, turn up, dig up, ferret out, bring to light. on track the fundraising is on track: on course, on an even keel, on schedule. CHOOSE THE RIGHT WORD See trace .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+in one's tracks informal where one or something is at that moment; suddenly: Turner immediately stopped dead in his tracks. keep (or lose) track of keep (or fail to keep) fully aware of or informed about: she had lost all track of time and had fallen asleep. make tracks (for) informal leave hurriedly (for a place).off the beaten track see beaten. on the right (or wrong) track acting or thinking in a way that is likely to result in success (or failure): we are on the right track for continued growth. on track acting or thinking in a way that is likely to achieve what is required: formulas for keeping the economy on track. the wrong (or right) side of the tracks informal a poor, less prestigious (or wealthy, prestigious) part of town.PHRASAL VERBS track someone/something down find someone or something after a thorough or difficult search. track up US (of a horse at the trot) create sufficient impulsion in its hindquarters to cause the hind feet to step onto or slightly ahead of the former position of the forefeet.ORIGIN late 15th century (in the sense ‘trail, marks left behind’): the noun from Old French trac, perhaps from Low German or Dutch trek ‘drawing, pull’; the verb (current senses dating from the mid 16th century) from French traquer or directly from the noun.

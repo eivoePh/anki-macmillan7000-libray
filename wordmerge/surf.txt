@@ -7,9 +7,14 @@ A.  noun
 B.  intransitive verb 冲浪 chōnglàng 
 C.  transitive verb Computing 浏览 liúlǎn to surf the Net or Internet or Web 上网浏览 
 surf 
-BrE səːf, AmE sərf 
-A. noun 
-① Uncountable(waves) 拍岸浪花 pāi àn lànghuā how is the surf? 冲浪浪头怎么样？ 
-② CountableSport 冲浪 chōnglàng to go for a surf 去冲浪 
-B.  intransitive verb 冲浪 chōnglàng 
-C.  transitive verb Computing 浏览 liúlǎn to surf the Net or Internet or Web 上网浏览 
+sərf
+
+▶noun the mass or line of foam formed by waves breaking on a seashore or reef: the roar of the surf. 
+• [in singular] a spell of surfing: he went for an early surf. 
+▶verb [no object] stand or lie on a surfboard and ride on a wave toward the shore: learning to surf. 
+• [with object] ride (a wave) toward the shore on a surfboard: he has built a career out of surfing big waves. 
+• informal ride on the roof or outside of a fast-moving vehicle, typically a train, for excitement: he fell to his death while surfing on a 70 mph train. 
+• short for channel-surf. 
+• [with object] move from site to site on (the Internet). DERIVATIVES surfy 
+ˈsərfē 
+adjectiveORIGIN late 17th century: apparently from obsolete suff, of unknown origin, perhaps influenced by the spelling of surge.

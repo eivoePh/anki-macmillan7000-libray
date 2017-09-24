@@ -1,7 +1,22 @@
 graduate 
-▶verb
-1 he wants to teach when he graduates: get one's diploma, get one's degree, pass one's exams, complete/finish one's studies.
-2 she wants to graduate to serious drama: progress, advance, move up.
-3 a thermometer graduated in Fahrenheit: calibrate, mark off, measure out, grade.
-USAGE
-graduate The traditional use is 'be graduated from': she will be graduated from medical school in June. However, it is now more common to say 'graduate from': she will graduate from medical school in June. The use of graduate as a transitive verb, as in he graduated high school last week, is increasingly common, especially in speech, but is considered incorrect by most traditionalists.Usage notes show additional guidance on finer points of English usage.
+▶noun 
+ˈɡraj(ə)wət 
+
+1 a person who has successfully completed a course of study or training, especially a person who has been awarded an undergraduate academic degree. 
+• North American a person who has received a high school diploma: she is 19, a graduate of Lincoln High.
+2 a graduated cup, tube, flask, or measuring glass, used especially by chemists and pharmacists. 
+▶verb 
+ˈɡrajəˌwāt 
+
+1 [no object] successfully complete an academic degree, course of training, or high school: I graduated from West Point in 1965. 
+• [with object] US informal receive an academic degree from: she graduated college in 1970. 
+• [with object] North American confer a degree or other academic qualification on: the school graduated more than one hundred arts majors in its first year. 
+• (graduate to) move up to (a more advanced level or position): he started with motorbikes but now he's graduated to his first car.
+2 [with object] arrange in a series or according to a scale: (as adjective graduated) : a graduated tax. 
+• mark out (an instrument or container) in degrees or other proportionate divisions: the stem was graduated with marks for each hour 
+[as adjective] : graduated cylinders.
+3 [with object] change (something, typically color or shade) gradually or step by step: the color is graduated from the middle of the frame to the top. 
+▶adjective 
+ˈɡraj(ə)wət 
+[attributive] relating to graduate school education: the graduate faculty. 
+• having graduated from a school or academic program: a graduate electrical engineer. ORIGIN late Middle English: from medieval Latin graduat- ‘graduated,’ from graduare ‘take a degree,’ from Latin gradus ‘degree, step.’ usage: The traditional use is “be graduated from”: she will be graduated from medical school in June. However, it is now more common to say “graduate from”: she will graduate from medical school in June. The use of graduate as a transitive verb, as in he graduated high school last week, is increasingly common, especially in speech, but is considered incorrect by most traditionalists.

@@ -6,8 +6,14 @@ noun
 ③ Uncountable and countableEconomics 萧条 xiāotiáo the (Great) Depression ［二战前的] 大萧条 
 ④ Countable(hollow) 坑 kēng 
 depression 
+dəˈpreSH(ə)n
+
 ▶noun
-1 she seems to be suffering from depression: unhappiness, sadness, melancholy, melancholia, misery, sorrow, woe, gloom, despondency, low spirits, a heavy heart, despair, desolation, hopelessness; upset, tearfulness; informal the dumps, the doldrums, the blues, a funk, a blue funk; Psychiatry dysthymia, seasonal affective disorder, SA
-D. 
-2 an economic depression: recession, slump, decline, downturn, standstill; stagnation; the Great Depression; Economics stagflation.
-3 a depression in the ground: hollow, indentation, dent, cavity, concavity, dip, pit, hole, sinkhole, trough, crater; basin, bowl.
+1 feelings of severe despondency and dejection: self-doubt creeps in and that swiftly turns to depression. 
+• Psychiatry a mental condition characterized by feelings of severe despondency and dejection, typically also with feelings of inadequacy and guilt, often accompanied by lack of energy and disturbance of appetite and sleep: she was referred by a psychiatrist treating her for depression.
+2 a long and severe recession in an economy or market: the depression in the housing market. 
+• (the Depression or the Great Depression) the financial and industrial slump of 1929 and subsequent years.
+3 the action of lowering something or pressing something down: depression of the plunger delivers two units of insulin. 
+• a sunken place or hollow on a surface: the original shallow depressions were slowly converted to creeks.
+4 Meteorology a region of lower atmospheric pressure, especially a cyclonic weather system: hurricanes start off as loose regions of bad weather known as tropical depressions.
+5 Astronomy & Geography the angular distance of an object below the horizon or a horizontal plane. ORIGIN late Middle English: from Latin depressio(n-), from deprimere ‘press down’ (see depress) .

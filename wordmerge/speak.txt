@@ -17,14 +17,35 @@ C.  -speak combining form colloquial 行话 hánghuà computer/management/lawyer
 ① (talk louder) 大声说话 dàshēng shuōhuà please speak up! 请大点声讲！ 
 ② (dare to talk) 大胆讲话 dàdǎn jiǎnghuà nobody spoke up 没人敢说话 to speak up for [somebody]/[something]; 为某人/某事物仗义执言 
 speak 
-▶verb
-1 she refused to speak about it: talk, say anything/something; utter, state, declare, tell, voice, express, pronounce, articulate, enunciate, vocalize, verbalize.
-2 we spoke the other day: converse, have a conversation, talk, communicate, chat, pass the time of day, have a word, gossip; informal have a confab, chew the fat; natter, shoot the breeze; formal confabulate.
-3 the minister spoke for two hours: give a speech, talk, lecture, hold forth, discourse, expound, expatiate, orate, sermonize, pontificate, declaim; informal spout, spiel, speechify, jaw, sound off.
-4 he was spoken of as a promising student: mention, talk about, discuss, refer to, remark on, allude to, describe.
-5 her expression spoke disbelief: indicate, show, display, register, reveal, betray, exhibit, manifest, express, convey, impart, bespeak, communicate, evidence; suggest, denote, reflect; formal evince.
-6 you must speak to him about his rudeness: reprimand, rebuke, admonish, chastise, chide, upbraid, reprove, reproach, scold, remonstrate with, take to task; informal tell off, dress down, rap over the knuckles, come down on, give someone what for; formal castigate.
+spēk
+
+▶verb (past spoke 
+spōk
+; past participle spoken 
+ˈspōkən
+) [no object]
+1 say something in order to convey information, an opinion, or a feeling: in his agitation he was unable to speak 
+she refused to speak about the incident. 
+• have a conversation: I wish to speak privately with you 
+I'll speak to him if he calls. 
+• [with object] utter (a word, message, speech, etc.): patients copy words spoken by the therapist. 
+• [with object] communicate in or be able to communicate in (a specified language): my mother spoke Russian. 
+• make a speech before an audience, or make a contribution to a debate: twenty thousand people attended to hear him speak. 
+• (speak for) express the views or position of (another person or group): he claimed to speak for the majority of local people. 
+• convey one's views or position indirectly: speaking through his attorney, he refused to join the debate. 
+• (speak of) mention or discuss in speech or writing: the books speak of betrayal. 
+• (of behavior, a quality, an event, etc.) serve as evidence for something: her harping on him spoke strongly of a crush 
+[with object] : his frame spoke tiredness. 
+• (of an object that typically makes a sound when it functions) make a characteristic sound: the gun spoke again. 
+• [with object or adverbial] archaic show or manifest (someone or something) to be in a particular state or to possess a certain quality: she had seen nothing that spoke him of immoral habits. 
+• (of an organ pipe or other musical instrument) make a sound: insufficient air circulates for the pipes to speak. 
+• (of a dog) bark. 
+• [with object] Nautical, archaic hail and hold communication with (a ship) at sea.
+2 (speak to) talk to in order to reprove or advise: she tried to speak to Seth about his drinking. 
+• talk to in order to give or extract information: he had spoken to the police. 
+• discuss or comment on formally: the Church wants to speak to real issues. 
+• appeal or relate to: the story spoke to him directly. 
 PHRASES
-speak for
-1 she speaks for the Arts Council: represent, act for, appear for, express the views of, be spokesperson for.
-2 I spoke for the motion: advocate, champion, uphold, defend, support, promote, recommend, back, endorse, sponsor, espouse. speak out if you've got a grievance, then speak out: speak publicly, speak openly, speak frankly, speak one's mind, sound off, stand up and be counted. speak up speak up so we can hear you: speak loudly, speak clearly, raise one's voice; shout, yell, bellow; informal holler. QUOTE If I am to speak for ten minutes, I need a week for preparation; if fifteen minutes, three days; if half an hour, two days; if an hour, I am ready now.Woodrow Wilson, 28th US president
+not to speak of used in introducing a further factor to be considered: the rent had to be paid, not to speak of school tuition. nothing (or no —— or none) to speak of used to indicate that there is some but very little of something: I've no capital—well, none to speak of. so to speak see so1. something speaks for itself something's implications are so clear that it needs no supporting evidence or comments: the figures speak for themselves. speak for oneself give one's own opinions. 
+• [in imperative] used to tell someone that what they have said may apply to them but does not apply to others: “This is such a boring place.” “Speak for yourself—I like it.” speak in tongues see tongue. speak one's mind express one's feelings or opinions frankly. speak volumes (of a gesture, circumstance, or object) convey a great deal: a look that spoke volumes. 
+• be good evidence for: his record speaks volumes for his determination. speak well (or ill) of praise (or criticize).PHRASAL VERBS speak out (or up) express one's feelings or opinions frankly and publicly: the administration will be forthright in speaking out against human rights abuses.speak up speak more loudly: We can't hear you. Speak up! speak up for speak in defense or support of: there was no independent body to speak up for press freedoms.DERIVATIVES speakable adjectiveORIGIN Old English sprecan, later specan; related to Dutch spreken and German sprechen .

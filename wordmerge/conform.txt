@@ -6,7 +6,9 @@ intransitive verb
 ③ (obey) 遵守 zūnshǒu to conform to [something]; «person, product, practice» 遵照 ‹regulation, specification›
 ④ formal (fit) 相一致 xiāng yīzhì to conform to [something]; 与某事物相一致 a shoe that conforms to the foot 一只合脚的鞋子 
 conform 
-▶verb
-1 visitors have to conform to our rules: comply with, abide by, obey, observe, follow, keep to, stick to, adhere to, uphold, heed, accept, go along with, fall in with, respect, defer to; satisfy, meet, fulfill. ANTONYMS flout.
-2 they refuse to conform: follow convention, be conventional, fit in, adapt, adjust, follow the crowd; comply, acquiesce, toe the line, follow the rules; submit, yield; informal play it by the book, play by the rules. ANTONYMS rebel.
-3 goods must conform to their description: match, fit, suit, answer, agree with, be like, correspond to, be consistent with, measure up to, tally with, square with. ANTONYMS differ.QUOTE Unless we each conform, unless we obey orders, unless we follow our leaders blindly, there is no possible way we can remain free.Larry Linville as Major Frank Burns on the TV series M*A*S*H (1972–83)
+kənˈfôrm
+
+▶verb [no object] comply with rules, standards, or laws: the kitchen does not conform to hygiene regulations 
+the changes were introduced to conform with international classifications. 
+• (of a person) behave according to socially acceptable conventions or standards: the pressure to conform. 
+• be similar in form or type; agree: the countryside should conform to a certain idea of the picturesque. ORIGIN Middle English (in the sense ‘make (something) like another thing’): from Old French conformer, from Latin conformare, from con- ‘together’ + formare ‘to form.’

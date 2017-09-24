@@ -5,6 +5,11 @@ nounUncountable
 ② (of offence, situation) 严重性 yánzhòngxìng 
 ③ (solemnity) 严肃 yánsù to behave with due gravity 表现出应有的庄重态度 
 gravity 
+ˈɡravədē
+
 ▶noun
-1 the gravity of the situation: seriousness, importance, significance, weight, consequence, magnitude; acuteness, urgency, exigence; awfulness, dreadfulness; formal moment.
-2 the gravity of his demeanor: solemnity, seriousness, somberness, sobriety, soberness, severity, grimness, humorlessness, dourness; gloominess.
+1 Physics the force that attracts a body toward the center of the earth, or toward any other physical body having mass. For most purposes Newton's laws of gravity apply, with minor modifications to take the general theory of relativity into account. 
+• the degree of intensity of this, measured by acceleration.
+2 extreme or alarming importance; seriousness: crimes of the utmost gravity. 
+• seriousness or solemnity of manner: has the poet ever spoken with greater eloquence or gravity? ORIGIN late 15th century ( sense 2): from Old French, or from Latin gravitas ‘weight, seriousness,’ from gravis ‘heavy.’ Sense
+1 dates from the 17th century.

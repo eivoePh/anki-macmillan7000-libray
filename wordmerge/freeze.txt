@@ -25,11 +25,34 @@ C.  noun
 A.  intransitive verb «pipe, car, mechanism, lock» 冻住 dòngzhù 
 B.  transitive verb[freeze something up, freeze up something] «cold» 使…冻住 shǐ… dòngzhù ‹pipe, car, mechanism, lock›we were frozen up for several days last winter figurative 去年冬天，因为冰冻，我们有好几天不能外出 
 freeze 
-▶verb
-1 the stream had frozen: ice over, ice up, solidify. ANTONYMS thaw, melt.
-2 my fingers froze: become frozen, become frostbitten. ANTONYMS thaw, warm up.
-3 the campers stifled in summer and froze in winter: be very cold, be numb with cold, turn blue with cold, shiver, be chilled to the bone/marrow. ANTONYMS overheat.
-4 she froze in horror: stop dead, stop in one's tracks, stop, stand (stock) still, go rigid, become motionless, become paralyzed. ANTONYMS run away.
-5 the price of gasoline was frozen: fix, hold, peg, set; limit, restrict, cap, confine, regulate; hold/keep down. ANTONYMS change.
+frēz
+
+▶verb (past froze 
+frōz
+; past participle frozen 
+ˈfrōzən
+)
+1 [no object] (of a liquid) be turned into ice or another solid as a result of extreme cold: in the winter the milk froze. 
+• [with object] turn (a liquid) into ice or another solid. 
+• (of something wet or containing liquid) become blocked, covered, or rigid with ice: the pipes had frozen. 
+• [with object] cause (something wet or containing liquid) to become blocked, covered, or rigid with ice: [with complement] : the ground was frozen hard. 
+• be or feel so cold that one is near death (often used hyperbolically): you'll freeze to death standing there. 
+• (of the weather) be at or below freezing: at night it froze again. 
+• [with object] deprive (a part of the body) of feeling, especially by the application of a chilled anesthetic substance. 
+• [with object] treat (someone) with a cold manner; stare coldly at (someone): she would freeze him with a look when he tried to talk to her.
+2 [with object] store (something) at a very low temperature in order to preserve it: the cake can be frozen. 
+• [no object] (of food) be able to be preserved by freezing: this soup freezes well.
+3 [no object] become suddenly motionless or paralyzed with fear or shock: Mathewson froze on the spot, unable to take the next step. 
+• stop moving when ordered or directed.
+4 [with object] hold (something) at a fixed level or in a fixed state for a period of time: new spending on defense was to be frozen. 
+• prevent (assets) from being used for a period of time: the charity's bank account has been frozen. 
+• stop (a moving image) at a particular frame when filming or viewing: the camera will set fast shutter speeds to freeze the action. 
+• [no object] (of a computer screen) become temporarily locked because of system problems. 
+▶noun
+1 an act of holding or being held at a fixed level or in a fixed state: workers faced a pay freeze. 
+• short for freeze-frame.
+2 a period of frost or very cold weather: the big freeze surprised the weathermen. 
 PHRASES
-freeze out informal she was frozen out by her husband's relatives: exclude, leave out, shut out, cut out, ignore, ostracize, spurn, snub, shun, turn one's back on, cold-shoulder, give someone the cold shoulder, leave out in the cold.
+freeze one's blood (or one's blood freezes) fill (or be filled) with a sudden feeling of great fear or horror.PHRASAL VERBS freeze someone out informal behave in a hostile or obstructive way so as to exclude someone from something.DERIVATIVES freezable 
+-zəbəl 
+adjectiveORIGIN Old English frēosan (in the phrase hit frēoseth ‘it is freezing, it is so cold that water turns to ice’), of Germanic origin; related to Dutch vriezen and German frieren, from an Indo-European root shared by Latin pruina ‘hoarfrost’ and frost .

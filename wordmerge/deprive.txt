@@ -2,4 +2,9 @@ deprive
 BrE dɪˈprʌɪv, AmE dəˈpraɪv 
 transitive verb 剥夺 bōduó to deprive [somebody] of [something]; 剥夺某人的某物 he was deprived of his rights 他被剥夺了权利 
 deprive 
-▶verb Adams was deprived of her civil rights: dispossess of, strip of, divest of, relieve of, deny, rob of; cheat out of; informal do out of.
+dəˈprīv
+
+▶verb [with object] deny (a person or place) the possession or use of something: the city was deprived of its water supplies. 
+• archaic depose (someone, especially a member of the clergy) from office: Archbishop Bancroft deprived a considerable number of puritan clergymen. DERIVATIVES deprival 
+dəˈprīv(ə)l 
+nounORIGIN Middle English (in the sense ‘depose from office’): from Old French depriver, from medieval Latin deprivare, from de- ‘away, completely’ + privare (see private) .

@@ -2,8 +2,16 @@ increased
 BrE ɪnˈkriːst, AmE ɪŋˈkrist 
 adjective (in size, amount, weight, etc.) 增加的 zēngjiā de (in intensity) 增强的 zēngqiáng de an increased risk of cancer/injury 患癌症/受伤的更大风险 the bomb attacks led to increased security 炸弹袭击使安全措施变得更加严密 
 increase 
-▶verb
-1 demand is likely to increase: grow, get bigger, get larger, enlarge, expand, swell; rise, climb, escalate, soar, surge, rocket, shoot up, spiral; intensify, strengthen, extend, heighten, stretch, spread, widen; multiply, snowball, mushroom, proliferate, balloon, build up, mount up, pile up, accrue, accumulate; literary wax. ANTONYMS decrease.
-2 higher expectations will increase user demand: add to, make larger, make bigger, augment, supplement, top up, build up, extend, raise, swell, inflate; magnify, maximize, intensify, strengthen, heighten, amplify; informal up, jack up, hike up, bump up, torque up, crank up. ANTONYMS reduce.
-▶noun the increase in size 
-an increase in demand: growth, rise, enlargement, expansion, extension, multiplication, elevation, inflation; increment, addition, augmentation; magnification, intensification, amplification, climb, escalation, surge, upsurge, upswing, spiral, spurt; informal hike. ANTONYMS decrease, reduction.
+▶verb 
+inˈkrēs 
+become or make greater in size, amount, intensity, or degree: [no object] : car use is increasing at an alarming rate 
+[with object] : we are aiming to increase awareness of social issues 
+(as adjective increasing) : the increasing numbers of students. 
+▶noun 
+ˈinkrēs 
+an instance of growing or making greater: an increase from sixteen to eighteen clubs 
+some increase in inflation. 
+PHRASES
+on the increase becoming greater, more common, or more frequent.DERIVATIVES increasable 
+inˈkrēsəb(ə)l 
+adjectiveORIGIN Middle English (formerly also as encrease): from Old French encreistre, from Latin increscere, from in- ‘into’ + crescere ‘grow.’

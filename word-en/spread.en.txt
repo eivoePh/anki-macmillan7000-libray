@@ -1,14 +1,34 @@
 spread 
-▶verb
-1 he spread the map out: lay out, open out, unfurl, unroll, roll out; straighten out, fan out; stretch out, extend; literary outspread. ANTONYMS fold up.
-2 the landscape spread out below: extend, stretch (out), open out, be displayed, be exhibited, be on show; sprawl (out).
-3 papers were spread all over his desk: scatter, strew, disperse, distribute.
-4 he's been spreading rumors: disseminate, circulate, pass on, put about, communicate, diffuse, make public, make known, purvey, broadcast, publicize, propagate, promulgate; repeat; literary bruit about/abroad. ANTONYMS suppress.
-5 she spread cold cream on her face: smear, daub, plaster, slather, lather, apply, put; smooth, rub.
-6 he spread the toast with butter: cover, coat, layer, daub; smother.
+spred
+
+▶verb (past and past participle spread)
+1 [with object] open out (something) so as to extend its surface area, width, or length: I spread a towel on the sand and sat down 
+she helped Chris to spread out the map. 
+• stretch out (arms, legs, hands, fingers, or wings) so that they are far apart: the swan spread its wings.
+2 [no object, with adverbial] extend over a large or increasing area: she stood at the window looking at the town spread out below. 
+• (spread out) (of a group of people) move apart so as to cover a wider area: the Marines spread out across the docks. 
+• [with object and adverbial] distribute or disperse (something) over a certain area: volcanic eruptions spread dust high into the stratosphere. 
+• gradually reach or cause to reach a larger and larger area or more and more people: [no object] : the violence spread from the city to the suburbs 
+[with object] : she's always spreading rumors about other people. 
+• (of people, animals, or plants) become distributed over a large or larger area: the owls have spread as far north as Yellowknife. 
+• [with object and adverbial] distribute (something) in a specified way: you can spread the payments over as long a period as you like.
+3 [with object and adverbial] apply (a substance) to an object or surface in an even layer: he sighed, spreading jam on a croissant. 
+• cover (a surface) with a substance in an even layer: spread each slice thinly with mayonnaise. 
+• [no object, with adverbial] be able to be applied in an even layer: the whipped butter spreads easily.
+4 [with object] archaic lay (a table) for a meal. 
 ▶noun
-1 the spread of learning: expansion, proliferation, extension, growth; dissemination, diffusion, transmission, propagation.
-2 a spread of six feet: span, width, extent, stretch, reach.
-3 the immense spread of the heavens: expanse, area, sweep, stretch.
-4 a wide spread of subjects: range, span, spectrum, sweep; variety.
-5 informal the caterers laid on a huge spread: large/elaborate meal, feast, banquet; informal blowout, nosh.
+1 the fact or process of spreading over an area: the spread of AIDS 
+the spread of the urban population into rural areas.
+2 the extent, width, or area covered by something: the male's antlers can attain a spread of six feet. 
+• the wingspan of a bird. 
+• an expanse or amount of something: the green spread of the park. 
+• North American a large farm or ranch.
+3 the range or variety of something: a wide spread of ages. 
+• the difference between two rates or prices: the very narrow spread between borrowing and deposit rates. 
+• short for point spread.
+4 a soft paste that can be applied in a layer to bread or other food.
+5 an article or advertisement covering several columns or pages of a newspaper or magazine, especially one on two facing pages: a double-page spread. 
+• North American a bedspread.
+6 informal a large and impressively elaborate meal. 
+PHRASES
+spread like wildfire see wildfire. spread oneself too thin be involved in so many different activities or projects that one's time and energy are not used to good effect. spread one's wings see wing. DERIVATIVES spreadable adjectiveORIGIN Old English -sprǣdan (used in combinations); related to Dutch spreiden and German spreiten .

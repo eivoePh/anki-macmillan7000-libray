@@ -4,7 +4,8 @@ adjective
 ① (requiring or having much energy) 运动量大的 yùndòngliàng dà de ‹activity, sport›; 精力充沛的 jīnglì chōngpèi de ‹child, animal, politician›
 ② (vigorous) 断然的 duànrán de ‹denial›; 有力的 yǒulì de ‹measures›
 energetic 
-▶adjective
-1 an energetic teacher: active, lively, dynamic, zestful, spirited, animated, vital, vibrant, bouncy, bubbly, exuberant, ebullient, perky, frisky, sprightly, tireless, indefatigable, enthusiastic; informal peppy, feisty, full of beans, bright-eyed and bushy-tailed. ANTONYMS lethargic, inactive.
-2 energetic exercises: vigorous, strenuous, brisk; hard, arduous, demanding, taxing, tough, rigorous. ANTONYMS gentle.
-3 an energetic advertising campaign: forceful, vigorous, high-powered, all-out, determined, bold, powerful, potent; intensive, hard-hitting, pulling no punches, aggressive, high-octane; informal punchy, in-your-face; vulgar slang ass-kicking. ANTONYMS halfhearted.
+ˌenərˈjedik
+
+▶adjective showing or involving great activity or vitality: energetic exercise. 
+• Physics characterized by a high level of energy (in the technical sense): energetic X-rays. 
+• relating to energy (in the technical sense). ORIGIN mid 17th century (in the sense ‘powerfully effective’): from Greek energētikos, from energein ‘operate, work in or upon’ (based on ergon ‘work’).

@@ -7,6 +7,9 @@ A.  noun
 ③ Printing paragraph (mark) 段落号 duànluòhào 
 B.  transitive verb 将…分成段落 jiāng… fēnchéng duànluò ‹page, essay›
 paragraph 
-▶noun
-1 the concluding paragraph: section, subdivision, part, subsection, division, portion, segment, passage.
-2 a paragraph in the newspaper: report, article, item, sidebar, piece, write-up, mention.
+ˈperəˌɡraf
+
+▶noun a distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering. 
+▶verb [with object] arrange (a piece of writing) in paragraphs. DERIVATIVES paragraphic 
+ˌparəˈɡrafik 
+adjectiveORIGIN late 15th century: from French paragraphe, via medieval Latin from Greek paragraphos ‘short stroke marking a break in sense,’ from para- ‘beside’ + graphein ‘write.’

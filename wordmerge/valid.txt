@@ -6,7 +6,9 @@ adjective
 ③ (well-founded, reasonable) 有根据的 yǒu gēnjù de ‹complaint, criticism, objection›; 合理的 hélǐ de ‹argument, reason, excuse, method›; 符合逻辑的 fúhé luóji de ‹theory, comparison, point›
 ④ Computing 有效的 yǒuxiào de ‹password, address›
 valid 
-▶adjective
-1 a valid criticism: well founded, sound, reasonable, rational, logical, justifiable, defensible, viable, bona fide; cogent, effective, powerful, potent, convincing, credible, forceful, strong, solid, weighty.
-2 a valid contract: legally binding, lawful, legal, legitimate, official, signed and sealed, contractual; in force, current, in effect, effective; informal legit.
-3 valid information: legitimate, authentic, authoritative, reliable, bona fide.
+ˈvaləd
+
+▶adjective (of an argument or point) having a sound basis in logic or fact; reasonable or cogent: a valid criticism. 
+• legally binding due to having been executed in compliance with the law: a valid contract. 
+• legally or officially acceptable: the visas are valid for thirty days 
+a valid password. ORIGIN late 16th century: from French valide or Latin validus ‘strong,’ from valere ‘be strong.’

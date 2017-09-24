@@ -1,19 +1,43 @@
 sharp 
+SHärp
+
 ▶adjective
-1 a sharp knife: keen, razor-edged; sharpened, honed. ANTONYMS blunt.
-2 a sharp pain: excruciating, agonizing, intense, stabbing, shooting, severe, acute, keen, fierce, searing; exquisite.
-3 a sharp taste: tangy, piquant, strong; acidic, acid, sour, tart, pungent, acrid, bitter, acidulous. ANTONYMS mild, mellow, bland.
-4 a sharp cry of pain: loud, piercing, shrill, high-pitched, penetrating, harsh, strident, ear-splitting, deafening. ANTONYMS soft, quiet.
-5 a sharp wind: cold, chilly, chill, brisk, keen, penetrating, biting, icy, bitter, freezing, raw; informal nippy, wicked. ANTONYMS warm, balmy.
-6 sharp words: harsh, bitter, cutting, scathing, caustic, barbed, trenchant, acrimonious, acerbic, sarcastic, sardonic, spiteful, venomous, malicious, vitriolic, vicious, hurtful, nasty, cruel, abrasive; informal bitchy, catty. ANTONYMS amicable, kind.
-7 a sharp sense of loss: intense, acute, keen, strong, bitter, fierce, heartfelt, overwhelming.
-8 the lens brings it into sharp focus: distinct, clear, crisp; stark, obvious, marked, definite, pronounced. ANTONYMS blurred, indistinct.
-9 a sharp increase: sudden, abrupt, rapid; steep, precipitous. ANTONYMS gradual.
-10 a sharp corner: hairpin, tight.
-11 a sharp drop: steep, sheer, abrupt, precipitous, vertical. ANTONYMS gentle, gradual.
-12 sharp eyes: keen, perceptive, observant, acute, beady, hawklike. ANTONYMS weak.
-13 she was sharp and witty: perceptive, percipient, perspicacious, incisive, sensitive, keen, acute, quick-witted, clever, shrewd, canny, astute, intelligent, intuitive, bright, alert, smart, quick off the mark, insightful, knowing; informal on the ball, quick on the uptake, savvy, heads-up. ANTONYMS slow, dull, stupid.
-14 informal a sharp suit: smart, stylish, fashionable, chic, modish, elegant; informal trendy, cool, hip, snazzy, classy, snappy, styling/stylin', natty, nifty, fly, spiffy. ANTONYMS shabby.
+1 (of an object) having an edge or point that is able to cut or pierce something: cut the cake with a very sharp knife 
+keep tools sharp. 
+• producing a sudden, piercing physical sensation or effect: I suddenly felt a sharp pain in my back. 
+• (of a food, taste, or smell) acidic and intense: sharp goats' milk cheese. 
+• (of a sound) sudden and penetrating: there was a sharp crack of thunder. 
+• (of words or a speaker) intended or intending to criticize or hurt: she feared his sharp tongue. 
+• (of an emotion or experience) felt acutely or intensely; painful: her sharp disappointment was tinged with embarrassment.
+2 tapering to a point or edge: a sharp pencil 
+her face was thin and her nose sharp. 
+• distinct in outline or detail; clearly defined: the job was a sharp contrast from her past life 
+the scene was as sharp and clear in his mind as a film. 
+• informal (of clothes or their wearer) neat and stylish: they were greeted by a young man in a sharp suit.
+3 (of an action or change) sudden and marked: there was a sharp increase in interest rates 
+he heard her sharp intake of breath. 
+• (of a bend, angle, or turn) making a sudden change of direction: a sharp turn in the river. 
+• having or showing speed of perception, comprehension, or response: her sharp eyes missed nothing 
+his old mind was not so sharp as it once was 
+he had a sharp sense of humor. 
+• quick to take advantage, especially in an unscrupulous or dishonest way: Paul's a sharp operator.
+4 (of musical sound) above true or normal pitch. 
+• [postpositive, in combination] (of a note) a semitone higher than a specified note: the song sits on E and F-sharp 
+the quartet in C-sharp minor. 
+• (of a key) having a sharp or sharps in the key signature: recorder players are most comfortable in sharp keys. 
 ▶adverb
-1 nine o'clock sharp: precisely, exactly, on the dot; promptly, prompt, punctually, dead on; informal on the nose, on the button. ANTONYMS roughly.
-2 the recession pulled people up sharp: abruptly, suddenly, sharply, unexpectedly.CHOOSE THE RIGHT WORD See keen .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 precisely (used after an expression of time): the meeting starts at 7:30 sharp.
+2 in a sudden or abrupt way: the creek bent sharp left 
+he was brought up sharp by Helen's voice.
+3 above the true or normal pitch of musical sound: he heard him playing a little sharp on the high notes. 
+▶noun
+1 a musical note raised a semitone above natural pitch. 
+• the sign ♯, indicating a sharp.
+2 a long, sharply pointed needle used for general sewing. 
+• (usually sharps) a thing with a sharp edge or point, such as a hypodermic needle, a blade, or a fragment of glass: the safe disposal of sharps and clinical waste.
+3 informal a swindler or cheat. See also card sharp. 
+▶verb [with object]
+1 (usually as adjective sharped) Music, US raise the pitch of (a note).
+2 archaic cheat or swindle (someone), especially at cards: the fellow is drunk, let's sharp him. [late 17th century: from sharper; compare with shark2 .] 
+PHRASES
+sharp as a tack North American extremely clever or astute. not the sharpest knife in the drawer (or not the sharpest tool in the shed, etc.) informal lacking intelligence; stupid: she's not the sharpest knife in the drawer, but she isn't dishonest.ORIGIN Old English sc(e)arp, of Germanic origin; related to Dutch scherp and German scharf .

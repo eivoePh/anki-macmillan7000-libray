@@ -1,4 +1,6 @@
 constraint 
-▶noun
-1 financial constraints: restriction, limitation, curb, check, restraint, control, damper, rein; hindrance, impediment, obstruction, handicap.
-2 they were able to talk without constraint: inhibition, uneasiness, embarrassment; restraint, reticence, guardedness, formality; self-consciousness, awkwardness, stiltedness.
+kənˈstrānt
+
+▶noun a limitation or restriction: the availability of water is the main constraint on food production 
+time constraints make it impossible to do everything. 
+• stiffness of manner and inhibition in relations between people: they would be able to talk without constraint. ORIGIN late Middle English (in the sense ‘coercion’): from Old French constreinte, feminine past participle of constraindre (see constrain) .

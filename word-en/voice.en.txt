@@ -1,10 +1,26 @@
 voice 
+vois
+
 ▶noun
-1 she lost her voice: power of speech.
-2 he gave voice to his anger: expression, utterance, verbalization, vocalization.
-3 we speak with one voice: opinion, view, feeling, wish, desire, will; (voice of the people) vox populi; informal vox pop.
-4 citizens must have a voice in this: say, influence, vote, input, role, representation, seat at the table.
-5 a powerful voice for conservation: spokesperson, speaker, champion, representative, mouthpiece, intermediary; forum, vehicle, instrument, channel, organ, agent.
-▶verb they voiced their opposition: express, vocalize, communicate, articulate, declare, state, assert, reveal, proclaim, announce, publish, publicize, make public, make known, table, air, vent; utter, say, speak; informal come out with.
-WORD LINKS
-voice vocal relating to the voiceWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 the sound produced in a person's larynx and uttered through the mouth, as speech or song: Meg raised her voice 
+a worried tone of voice. 
+• an agency by which a particular point of view is expressed or represented: once the proud voice of middle-class conservatism, the paper had fallen on hard times. 
+• [in singular] the right to express an opinion: the new electoral system gives minority parties a voice. 
+• a particular opinion or attitude expressed: a dissenting voice. 
+• the ability to speak or sing: she'd lost her voice. 
+• (usually voices) the supposed utterance of a guiding spirit, typically giving instructions or advice. 
+• the distinctive tone or style of a literary work or author: she had strained and falsified her literary voice.
+2 Music the range of pitch or type of tone with which a person sings, such as soprano or tenor. 
+• a vocal part in a composition. 
+• a constituent part in a fugue. 
+• each of the notes or sounds able to be produced simultaneously by a musical instrument (especially an electronic one) or a computer. 
+• (in an electronic musical instrument) each of a number of preset or programmable tones.
+3 Phonetics sound uttered with resonance of the vocal cords (used in the pronunciation of vowels and certain consonants).
+4 Grammar a form or set of forms of a verb showing the relation of the subject to the action: the passive voice. 
+▶verb [with object]
+1 express (something) in words: get teachers to voice their opinions on important subjects.
+2 (usually as adjective voiced) Phonetics utter (a speech sound) with resonance of the vocal cords (e.g., b, d, g, v, z).
+3 Music regulate the tone quality of (organ pipes). 
+PHRASES
+give voice to allow (a particular emotion, opinion, or point of view) to be expressed. 
+• allow (a person or group) to express their emotions, opinion, or point of view. in voice in proper vocal condition for singing or speaking: the soprano is in marvelous voice. with one voice in complete agreement; unanimously.DERIVATIVES voicer nounORIGIN Middle English: from Old French vois, from Latin vox, voc- .

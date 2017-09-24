@@ -4,10 +4,9 @@ noun
 ① Uncountable(action, process) 拼写 pīnxiě spelling mistake/test 拼写错误/测验 
 ② Countable(way spelled) 拼法 pīnfǎ 
 ③ Uncountable(ability) 拼写能力 pīnxiě nénglì 
-spell
-1 
-▶verb the drought spelled disaster for them: signal, signify, mean, amount to, add up to, constitute; portend, augur, herald, bode, promise; involve; literary betoken, foretoken, forebode.
-PHRASES
-spell out allow us to spell out the plan in detail: explain, make clear, make plain, elucidate, clarify; specify, itemize, detail, enumerate, list, expound, particularize, catalog. 
-WORD LINKS
-spell orthography the conventional spelling system of a languageWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+spelling 
+ˈspeliNG
+
+▶noun the process or activity of writing or naming the letters of a word. 
+• the way a word is spelled: the spelling of his name was influenced by French. 
+• a person's ability to spell words: her spelling was deplorable.

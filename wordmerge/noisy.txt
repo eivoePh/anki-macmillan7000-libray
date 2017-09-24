@@ -4,6 +4,14 @@ adjective
 ① (making, full of noise) 喧闹的 xuānnào de ‹person, machinery, place›it's too noisy 太吵了 a noisy welcome 热闹的欢迎 
 ② (vociferous) 吵吵嚷嚷的 chǎochǎorǎngrǎng de ‹opponent, protest›
 noisy 
-▶adjective
-1 a noisy crowd: rowdy, clamorous, boisterous, turbulent, uproarious, riotous, rambunctious, rackety; chattering, talkative, vociferous, shouting, screaming. ANTONYMS quiet.
-2 noisy music: loud, fortissimo, blaring, booming, overloud, deafening, thunderous, tumultuous, clamorous, ear-splitting, piercing, strident, cacophonous, raucous. ANTONYMS soft.
+ˈnoizē
+
+▶adjective (noisier, noisiest)
+1 making or given to making a lot of noise: a noisy, giggling group of children 
+diesel cars can be very noisy. 
+• full of or characterized by noise: noisy scenes outside the court building 
+the bar was crowded and noisy. 
+• (of a person or group of people) stridently seeking to attract attention to their views.
+2 technical accompanied by or introducing random fluctuations that obscure the real signal or data. DERIVATIVES noisiness 
+ˈnoizēnəs 
+noun

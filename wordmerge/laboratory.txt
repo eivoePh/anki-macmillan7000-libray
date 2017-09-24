@@ -2,5 +2,9 @@ laboratory
 BrE ləˈbɒrəˌt(ə)ri, ˈlab(ə)rəˌt(ə)ri, AmE ˈlæbrəˌtɔri 
 noun 实验室 shíyànshì a chemistry/physics laboratory 化学/物理实验室 
 laboratory 
-BrE ləˈbɒrəˌt(ə)ri, ˈlab(ə)rəˌt(ə)ri, AmE ˈlæbrəˌtɔri 
-noun 实验室 shíyànshì a chemistry/physics laboratory 化学/物理实验室 
+ˈlabrəˌtôrē
+
+▶noun (plural laboratories) a room or building equipped for scientific experiments, research, or teaching, or for the manufacture of drugs or chemicals: pepsin can be extracted in the laboratory 
+a film processing laboratory 
+[as modifier] : a laboratory technician. 
+• [as modifier] (of an animal) bred for or used in experiments in laboratories: studies on laboratory rats. ORIGIN early 17th century: from medieval Latin laboratorium, from Latin laborare ‘to labor.’

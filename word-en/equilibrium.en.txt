@@ -1,4 +1,12 @@
 equilibrium 
-▶noun
-1 the equilibrium of the economy: balance, symmetry, equipoise, parity, equality; stability. ANTONYMS imbalance.
-2 his equilibrium was never shaken: composure, calm, equanimity, sangfroid; level-headedness, coolheadedness, imperturbability, poise, presence of mind; self-possession, self-command; impassivity, placidity, tranquility, serenity; informal cool. ANTONYMS nervousness, agitation.
+ˌēkwəˈlibrēəm ˌekwəˈlibrēəm
+
+▶noun (plural equilibria 
+-ˈlibrēə
+) a state in which opposing forces or influences are balanced: the maintenance of social equilibrium. 
+• a state of physical balance: I stumbled over a rock and recovered my equilibrium. 
+• a calm state of mind: his intensity could unsettle his equilibrium. 
+• Chemistry a state in which a process and its reverse are occurring at equal rates so that no overall change is taking place: ice is in equilibrium with water. 
+• Economics a situation in which supply and demand are matched and prices stable. DERIVATIVES equilibrial 
+-ˈlibrēəl 
+adjectiveORIGIN early 17th century (in the sense ‘well-balanced state of mind’): from Latin aequilibrium, from aequi- ‘equal’ + libra ‘balance.’

@@ -9,7 +9,15 @@ B.  adjective
 ① formal to be incident on [something] (result from) 由某事物导致 yóu mǒu shìwù dǎozhì the pains incident to growing up 成长的烦恼 chéngzhǎng de fánnǎo 
 ② Physics 入射的 rùshè de ‹light, ray, beam›
 incident 
-▶noun
-1 incidents in his youth: event, occurrence, episode, experience, happening, occasion, proceeding, eventuality, affair, business; adventure, exploit, escapade; matter, circumstance, fact, development.
-2 police were investigating the incident: disturbance, fracas, melee, commotion, rumpus, scene; fight, skirmish, clash, brawl, free-for-all, encounter, conflict, ruckus, confrontation, altercation, contretemps; informal ruction.
-3 the journey was not without incident: excitement, adventure, drama; danger, peril.
+ˈinsəd(ə)nt
+
+▶noun an event or occurrence: several amusing incidents. 
+• a violent event, such as a fracas or assault: one person was stabbed in the incident. 
+• a hostile clash between forces of rival countries. 
+• (incident of) a case or instance of something happening: a single incident of rudeness does not support a finding of contemptuous conduct. 
+• the occurrence of dangerous or exciting things: the winter passed without incident. 
+▶adjective
+1 [predicative] (incident to) likely to happen because of; resulting from: the changes incident to economic development. 
+• Law attaching to: the costs properly incident to a suit for foreclosure or redemption.
+2 (especially of light or other radiation) falling on or striking something: when an ion beam is incident on a surface. 
+• relating to incidence: the incident angle. ORIGIN late Middle English: via Old French from Latin incident- ‘falling upon, happening to,’ from the verb incidere, from in- ‘upon’ + cadere ‘to fall.’ usage: On the difference between incidents and incidence, see usage at incidence .

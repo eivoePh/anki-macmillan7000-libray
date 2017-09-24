@@ -1,10 +1,17 @@
 switch 
+swiCH
+
 ▶noun
-1 the switch on top of the telephone: button, lever, control, dial, rocker.
-2 a switch from direct to indirect taxation: change, move, shift, transition, transformation; reversal, turnaround, U-turn, changeover, transfer, conversion; substitution, exchange.
-3 a switch of willow: branch, twig, stick, rod.
-▶verb
-1 he switched sides: change, shift; reverse; informal chop and change.
-2 he managed to switch envelopes: exchange, swap, interchange, trade, substitute, replace, rotate.
-PHRASES
-switch on switch on the air conditioning: turn on, put on, flick on, activate, start, power up, set going, set in motion, operate, initiate, actuate, initialize, energize; toggle, flip, throw. switch off who switched off the fan? turn off, shut off, flick off, power down, stop, cut, halt, deactivate; toggle, flip.
+1 a device for making and breaking the connection in an electric circuit: the guard hit a switch and the gate swung open. 
+• Computing a program variable that activates or deactivates a certain function of a program.
+2 an act of adopting one policy or way of life, or choosing one type of item, in place of another; a change, especially a radical one: his friends were surprised at his switch from newspaper owner to farmer.
+3 a slender flexible shoot cut from a tree.
+4 North American a junction of two railroad tracks, with a pair of linked tapering rails that can be moved laterally to allow a train to pass from one line to the other.
+5 a tress of false or detached hair tied at one end, used in hairdressing to supplement natural hair. 
+▶verb [with object]
+1 change the position, direction, or focus of: the company switched the boats to other routes. 
+• adopt (something different) in place of something else; change: [with object] : she's managed to switch careers 
+[no object] : she worked as a librarian and then switched to journalism. 
+• substitute (two items) for each other; exchange: after ten minutes, listener and speaker switch roles.
+2 archaic beat or flick with or as if with a switch. PHRASAL VERBS switch something off turn off an electrical device. 
+• (switch off) informal cease to pay attention: as he waffles on, I switch off. switch something on turn on an electrical device.DERIVATIVES switchable adjectiveORIGIN late 16th century (denoting a thin tapering riding whip): probably from Low German.

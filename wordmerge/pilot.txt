@@ -12,11 +12,22 @@ B.  transitive verb
 ④ (test) 试用 shìyòng ‹new system, device›
 ⑤ (guide) 引导 yǐndǎo ‹country, person, economy›to pilot the Party through its most difficult years/to an election victory 领导该党度过最艰难的岁月/取得选举胜利 
 pilot 
+ˈpīlət
+
 ▶noun
-1 a fighter pilot: airman/airwoman, flyer; captain, commander, co-pilot, wingman, first officer, bush pilot; informal skipper; dated aviator, aviatrix, aeronaut.
-2 a harbor pilot: navigator, helmsman, steersman, coxswain.
-3 a pilot for his new TV series: trial episode; sample, experiment, trial run.
-▶adjective a pilot project: experimental, exploratory, trial, test, sample, speculative; preliminary.
-▶verb
-1 he piloted the jet to safety: navigate, guide, maneuver, steer, control, direct, captain, shepherd; fly, drive; sail; informal skipper.
-2 the questionnaire has been piloted: test, trial, try out; assess, investigate, examine, appraise, evaluate.QUOTE We often want, at the sudden occurrence of a grave tempest, to change the helmsman—to replace the pilot of the calm by the pilot of the storm.Walter Bagehot The English Constitution (1867)
+1 a person who operates the flying controls of an aircraft. 
+• a person with expert local knowledge qualified to take charge of a ship entering or leaving confined waters; a helmsman. 
+• archaic a guide or leader. 
+• [often as modifier] Telecommunications an unmodulated reference signal transmitted with another signal for the purposes of control or synchronization.
+2 a television program made to test audience reaction with a view to the production of a series.
+3 another term for cowcatcher.
+4 short for pilot light ( sense 1). 
+▶adjective [attributive] done as an experiment or test before introducing something more widely: a two-year pilot study. 
+▶verb (pilots, piloting, piloted) [with object]
+1 act as a pilot of (an aircraft or ship). 
+• guide; steer: the task of piloting the economy out of recession.
+2 test (a plan, project, etc.) before introducing it more widely: other schools were piloting such courses. DERIVATIVES pilotage 
+ˈpīlədij 
+noun. pilotless 
+ˈpīlətləs 
+adjectiveORIGIN early 16th century (denoting a person who steers a ship): from French pilote, from medieval Latin pilotus, an alteration of pedota, based on Greek pēdon ‘oar,’ (plural) ‘rudder.’

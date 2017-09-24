@@ -13,8 +13,27 @@ B.  noun
 ④ Music 大调 dàdiào 
 C.  intransitive verb AmE 主修 zhǔxiū to major in Chemistry 主修化学 
 major 
+ˈmājər
+
 ▶adjective
-1 the major North American writers: greatest, best, finest, most important, chief, main, prime, principal, capital, cardinal, leading, star, foremost, outstanding, first-rate, preeminent, arch-; informal major league, big league. ANTONYMS minor.
-2 an issue of major importance: crucial, vital, great, considerable, paramount, utmost, prime; informal serious. ANTONYMS little.
-3 a major factor: important, big, significant, weighty, crucial, key, sweeping, substantial. ANTONYMS trivial.
-4 major surgery: serious, radical, complicated, difficult. ANTONYMS minor.
+1 [attributive] important, serious, or significant: the use of drugs is a major problem. 
+• greater or more important; main: he got the major share of the spoils. 
+• (of a surgical operation) serious or life-threatening: he had to undergo major surgery.
+2 Music (of a scale) having an interval of a semitone between the third and fourth degrees and the seventh and eighth degrees. Contrasted with minor. 
+• (of an interval) equivalent to that between the tonic and another note of a major scale, and greater by a semitone than the corresponding minor interval. 
+• [postpositive] (of a key) based on a major scale, tending to produce a bright or joyful effect: Prelude in G Major.
+3 Logic (of a term) occurring as the predicate in the conclusion of a categorical syllogism. 
+• (of a premise) containing the major term in a categorical syllogism.
+4 British dated (appended to a surname in some schools) indicating the elder of two brothers. 
+▶noun
+1 an army officer of high rank, in particular (in the US Army, Air Force, and Marine Corps) an officer ranking above captain and below lieutenant colonel. [Shortening of sergeant major, formerly a high rank.]
+2 Music a major key, interval, or scale. 
+• (Major) Bell-ringing a system of change-ringing using eight bells.
+3 North American a student's principal subject or course of study. 
+• [often with modifier] a student specializing in a specified subject: a math major.
+4 a major world organization, company, or competition: it's not unreasonable to believe someone can win all four majors. 
+• (the majors) the major leagues.
+5 a person of full legal age.
+6 Logic a major term or premise.
+7 Bridge short for major suit. 
+▶verb [no object] (major in) North American & Australian/NZ specialize in (a particular subject) at a college or university: I was trying to decide if I should major in drama or English. ORIGIN Middle English: from Latin, comparative of magnus ‘great’; perhaps influenced by French majeur .

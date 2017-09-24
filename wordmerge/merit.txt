@@ -8,7 +8,13 @@ A.  noun
 B.  merits noun plural (good points) 长处 chángchu to judge [somebody]/[something] on their's own merits; 根据某人/某事本身的情况进行评判 
 C.  transitive verb 值得 zhídé ‹mention, investigation, consideration›; 应得到 yīng dédào ‹reward, promotion›
 merit 
-▶noun
-1 composers of outstanding merit: excellence, quality, caliber, worth, worthiness, credit, value, distinction, eminence. ANTONYMS inferiority.
-2 the merits of the scheme: good point, strong point, advantage, benefit, value, asset, plus. ANTONYMS fault, disadvantage.
-▶verb the accusation did not merit a response: deserve, earn, be deserving of, warrant, rate, justify, be worthy of, be worth, be entitled to, have a right to, have a claim to/on.
+ˈmerət
+
+▶noun the quality of being particularly good or worthy, especially so as to deserve praise or reward: composers of outstanding merit. 
+• a feature or fact that deserves praise or reward: the relative merits of both approaches have to be considered. 
+• British a pass grade in an examination denoting above-average performance: if you expect to pass, why not go for a merit or a distinction? Compare with distinction. 
+• (merits) chiefly Law the intrinsic rights and wrongs of a case, outside of any other considerations: a plaintiff who has a good arguable case on the merits. 
+• (merits) Theology good deeds regarded as entitling someone to a future reward from God. 
+▶verb (merits, meriting, merited) [with object] deserve or be worthy of (something, especially reward, punishment, or attention): the results have been encouraging enough to merit further investigation. 
+PHRASES
+judge (or consider) something on its merits assess something solely with regard to its intrinsic quality rather than other external factors.ORIGIN Middle English (originally in the sense ‘deserved reward or punishment’): via Old French from Latin meritum ‘due reward,’ from mereri ‘earn, deserve.’

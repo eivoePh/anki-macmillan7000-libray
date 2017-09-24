@@ -11,9 +11,16 @@ A.  transitive verb
 B.  intransitive verb Music 创作 chuàngzuò 
 C.  reflexive verb to compose oneself; 平静下来 píngjìng xialai 
 compose 
-▶verb
-1 a poem composed by Shelley: write, formulate, devise, make up, think up, produce, invent, concoct; pen, author, draft; score, orchestrate, choreograph.
-2 compose a still life: organize, arrange, set out.
-3 the subcommittee is composed of ten senators: make up, constitute, form.
-PHRASES
-compose oneself you have to compose yourself before you take the stand: calm down, control oneself, regain one's composure, pull oneself together, collect oneself, steady oneself, keep one's head, relax; informal get a grip, take a chill pill, chillax, keep one's cool, cool one's jets, decompress.
+kəmˈpōz
+
+▶verb [with object]
+1 write or create (a work of art, especially music or poetry): he composed the First Violin Sonata four years earlier. 
+• write or phrase (a letter or piece of writing) with care and thought: the first sentence is so hard to compose. 
+• form (a whole) by ordering or arranging the parts, especially in an artistic way: compose and draw a still life. 
+• order or arrange (parts) to form a whole, especially in an artistic way: make an attempt to compose your images.
+2 (of elements) constitute or make up (a whole): the system is composed of a group of machines. 
+• be (a specified number or amount) of a whole: women compose 49 percent of that group.
+3 calm or settle (oneself or one's features or thoughts): she tried to compose herself. 
+• archaic settle (a dispute): the king, with some difficulty, composed this difference.
+4 prepare (a text) for printing by manually, mechanically, or electronically setting up the letters and other characters in the order to be printed. 
+• set up (letters and characters) of a text in preparation for printing. ORIGIN late Middle English (in the general sense ‘put together, construct’): from Old French composer, from Latin componere (see component), but influenced by Latin compositus ‘composed’ and Old French poser ‘to place.’

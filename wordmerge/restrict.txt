@@ -4,7 +4,10 @@ BrE rɪˈstrɪkt, AmE rəˈstrɪkt
 A.  transitive verb 限制 xiànzhì ‹speed, freedom, rights›a law restricting access to the area 限制进入该地区的法令 
 B.  reflexive verb to restrict oneself 约束自己 yuēshù zìjǐ they restrict themselves to one foreign holiday a year 他们限自己每年只能到国外度一次假 
 restrict 
-▶verb
-1 a busy working life restricted his leisure activities: limit, keep within bounds, regulate, control, moderate, cut down.
-2 the cuff supports the ankle without restricting movement: hinder, interfere with, impede, hamper, obstruct, block, check, curb, shackle.
-3 he restricted himself to a 15-minute speech: confine, limit.
+rəˈstrikt
+
+▶verb [with object] put a limit on; keep under control: some roads may have to be closed at peak times to restrict the number of visitors. 
+• deprive (someone or something) of freedom of movement or action: cities can restrict groups of protesters from gathering on a residential street. 
+• (restrict someone to) limit someone to only doing or having (a particular thing) or staying in (a particular place): I shall restrict myself to a single example. 
+• (restrict something to) limit something, especially an activity, to (a particular place, time, or category of people): the zoological gardens were at first restricted to members and their guests. 
+• withhold (information) from general circulation or disclosure: at first the government tried to restrict news of our involvement in Vietnam. ORIGIN mid 16th century: from Latin restrict- ‘confined, bound fast,’ from the verb restringere (see restrain).

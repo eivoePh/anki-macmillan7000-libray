@@ -1,5 +1,7 @@
 distributor 
-BrE dɪˈstrɪbjʊtə, AmE dəˈstrɪbjədər 
-noun 
-① Busn 分销商 fēnxiāoshāng 
-② Auto 配电器 pèidiànqì 
+dəˈstribyədər 
+(abbreviation distr.) 
+▶noun
+1 an agent who supplies goods to stores and other businesses that sell to consumers: a wholesale liquor distributor 
+the movie's distributor booked the film into theaters.
+2 a device in a gasoline engine for passing electric current to each spark plug in turn.

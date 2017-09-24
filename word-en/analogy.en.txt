@@ -1,2 +1,12 @@
 analogy 
-▶noun there's a thinly veiled analogy between his fiction and his real life: similarity, parallel, correspondence, likeness, resemblance, correlation, relation, kinship, equivalence, similitude, metaphor, simile. ANTONYMS dissimilarity.CHOOSE THE RIGHT WORD See likeness .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+əˈnaləjē
+
+▶noun (plural analogies) a comparison between two things, typically for the purpose of explanation or clarification: an analogy between the workings of nature and those of human societies 
+he interprets logical functions by analogy with machines. 
+• a correspondence or partial similarity: the syndrome is called deep dysgraphia because of its analogy to deep dyslexia. 
+• a thing that is comparable to something else in significant respects: works of art were seen as an analogy for works of nature. 
+• Logic a process of arguing from similarity in known respects to similarity in other respects. 
+• Linguistics a process by which new words and inflections are created on the basis of regularities in the form of existing ones. 
+• Biology the resemblance of function between organs that have a different evolutionary origin. DERIVATIVES analogical 
+ˌanəˈläjək(ə)l 
+adjective. analogically adverbORIGIN late Middle English (in the sense ‘appropriateness, correspondence’): from French analogie,Latin analogia ‘proportion,’ from Greek, from analogos ‘proportionate.’

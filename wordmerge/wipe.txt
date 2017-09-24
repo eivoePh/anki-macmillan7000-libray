@@ -23,12 +23,23 @@ A.  transitive verb[wipe something up], [wipe up something]
 ② (dry) 把…擦干 bǎ… cāgān ‹dishes, cutlery›
 B.  intransitive verb 擦干餐具 cāgān cānjù 
 wipe 
-▶verb
-1 Beth wiped the table: rub, mop, sponge, swab; clean, dry, polish, towel.
-2 he wiped the marks off the window: rub off, clean off, remove from, get rid of from, take off from, erase from, efface from.
-3 she wiped the memory from her mind: obliterate, expunge, erase, blot out.
-▶noun he gave the table a wipe: rub, mop, sponge, swab; clean, polish.
+wīp
+
+▶verb [with object]
+1 clean or dry (something) by rubbing its surface with a cloth, a piece of paper, or one's hand: Paul wiped his face with a handkerchief 
+he wiped down the kitchen wall. 
+• remove (dirt or moisture) from something by rubbing its surface with a cloth, a piece of paper, or one's hand: she wiped away a tear. 
+• clean (something) by rubbing it against a surface: the man wiped his hands on his hips. 
+• spread (a liquid) over a surface by rubbing: gently wipe the lotion over the eyelids.
+2 remove or eliminate (something) completely: things have happened to wipe the smile off Kate's face. 
+• erase (data) from a magnetic medium. 
+▶noun
+1 an act of wiping.
+2 a disposable cloth treated with a cleansing agent, for wiping things clean.
+3 a cinematographic effect in which an existing picture seems to be wiped out by a new one as the boundary between them moves across the screen. 
 PHRASES
-wipe out
-1 the influenza of 1918 wiped out entire families: destroy, annihilate, eradicate, eliminate; slaughter, massacre, kill, exterminate; demolish, raze to the ground; informal take out, zap, waste; literary slay.
-2 I wiped out the file accidentally: erase, delete, trash, zap, kill, nuke.
+wipe the floor with informal inflict a humiliating defeat on: they wiped the floor with us in a 36-6 win. wipe the slate clean forgive or forget past faults or offenses; make a fresh start.PHRASAL VERBS wipe something off subtract an amount from a value or debt: the crash wiped 24 percent off stock prices. wipe out North American fall over or off a vehicle. 
+• be capsized by a wave while surfing. wipe someone out
+1 kill a large number of people: the plague had wiped out whole villages.
+2 (usually be wiped out) ruin someone financially.
+3 informal exhaust or intoxicate someone. wipe something out eliminate something completely: their life savings were wiped out.DERIVATIVES wipeable adjectiveORIGIN Old English wīpian, of Germanic origin; related to whip .

@@ -1,9 +1,25 @@
 paint 
-▶noun a gallon of white paint: coloring, colorant, tint, dye, stain, pigment, color.
-▶verb
-1 paint the ceiling: color, apply paint to, decorate, whitewash, emulsion, gloss, spray-paint, airbrush.
-2 painting slogans on a wall: daub, smear, spray-paint, airbrush.
-3 Rembrandt painted his mother: portray, picture, paint a picture of, depict, represent.
-4 you paint a very stark picture of the suffering: tell, recount, outline, sketch, describe, depict, evoke, conjure up.
+pānt
+
+▶noun
+1 a colored substance that is spread over a surface and dries to leave a thin decorative or protective coating: a can of paint 
+the paint has been applied to the surface with a palette knife. 
+• an act of covering something with paint: it looked in need of a good paint. 
+• informal cosmetic makeup: one has false curls, another too much paint. 
+• Basketball the rectangular area marked near the basket at each end of the court; the foul lane: the two players jostled in the paint. 
+• Computing the function or capability of producing graphics, especially those that mimic the effect of real paint: [as modifier] : a paint program.
+2 North American a piebald horse: [as modifier] : a paint mare. 
+▶verb [with object]
+1 cover the surface of (something) with paint, as decoration or protection: the walls hadn't been painted for years 
+[with object and complement] : the ceiling was painted dark gray 
+(as adjective with submodifier painted) : a brightly painted trailer. 
+• apply cosmetics to (the face or skin): she couldn't have been more than fourteen but her face was thickly painted. 
+• apply (a liquid) to a surface with a brush. 
+• (paint something out) efface something with paint: the markings on the plane were hurriedly painted out. 
+• Computing create (a graphic or screen display) using a paint program. 
+• display a mark representing (an aircraft or vehicle) on a radar screen.
+2 depict (someone or something) or produce (a picture) with paint: I painted a woman sitting next to a table lamp 
+Marr is a self-taught artist who paints portraits. 
+• give a description of (someone or something): I'm painted as some nut case living in the woods. 
 PHRASES
-paint the town red informal we're taking the train into Albany, and we're gonna paint the town red: celebrate, carouse, enjoy oneself, have a good/wild time, have a party; informal go out on the town, whoop it up, make whoopee, live it up, party, have a ball.
+like watching paint dry (of an activity or experience) extremely boring. paint a picture of describe (someone or something) in a particular way: the president painted a grim picture of life in the next century. paint oneself into a corner leave oneself no means of escape or room to maneuver. paint the town (red) informal go out and enjoy oneself flamboyantly.DERIVATIVES paintable adjective. painty adjective (paintier, paintiest) ORIGIN Middle English: from peint ‘painted,’ past participle of Old French peindre, from Latin pingere ‘to paint.’

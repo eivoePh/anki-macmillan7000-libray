@@ -1,11 +1,20 @@
 parallel 
-▶adjective
-1 parallel lines: side by side, aligned, collateral, equidistant.
-2 parallel careers: similar, analogous, comparable, corresponding, like, of a kind, akin, related, equivalent, matching, homologous.
-3 a parallel universe: coexisting, coexistent, concurrent; contemporaneous, simultaneous, synchronous. ANTONYMS divergent.
+ˈperəˌlel
+
+▶adjective (of lines, planes, surfaces, or objects) side by side and having the same distance continuously between them: parallel lines never meet 
+the road runs parallel to the Ottawa River. 
+• occurring or existing at the same time or in a similar way; corresponding: a parallel universe 
+they shared an apartment in Dallas while establishing parallel careers. 
+• Computing involving the simultaneous performance of operations. 
+• of or denoting electrical components or circuits connected to common points at each end, rather than one to another in sequence. The opposite of series. 
 ▶noun
-1 an exact parallel: counterpart, analog, equivalent, likeness, match, twin, duplicate, mirror.
-2 there is an interesting parallel between these figures: similarity, likeness, resemblance, analogy, correspondence, equivalence, correlation, relation, symmetry, parity.
-▶verb
-1 his experiences parallel mine: resemble, be similar to, be like, bear a resemblance to; correspond to, be analogous to, be comparable/equivalent to, equate with/to, correlate with, imitate, echo, remind one of, duplicate, mirror, follow, match.
-2 her performance has never been paralleled: equal, match, rival, emulate.
+1 a person or thing that is similar or analogous to another: a challenge that has no parallel in peacetime this century. 
+• a similarity or comparison: he points to a parallel between biological evolution and cognitive development 
+he draws a parallel between personal destiny and social forces.
+2 (also parallel of latitude) each of the imaginary parallel circles of constant latitude on the earth's surface.
+3 Printing two parallel lines (‖) as a reference mark. 
+▶verb (parallels, paralleling, paralleled) [with object] (of something extending in a line) be side by side with (something extending in a line), always keeping the same distance: a big concrete gutter that paralleled the road. 
+• be similar or corresponding to (something): the lawlessness throughout officialdom was paralleled by an increase in lawlessness on the streets. 
+PHRASES
+in parallel occurring at the same time and having some connection. 
+• (of electrical components or circuits) connected to common points at each end; not in series.ORIGIN mid 16th century: from French parallèle, via Latin from Greek parallēlos, from para- ‘alongside’ + allēlos ‘one another.’

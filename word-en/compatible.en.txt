@@ -1,4 +1,10 @@
 compatible 
-▶adjective
-1 they were never compatible: well suited, suited, well matched, like-minded, in tune, in harmony; reconcilable.
-2 her bruising is compatible with a fall: consistent, congruous, congruent; in keeping.
+kəmˈpadəb(ə)l
+
+▶adjective (of two things) able to exist or occur together without conflict: the fruitiness of Beaujolais is compatible with a number of meat dishes. 
+• (of two people) able to have a harmonious relationship: well-suited: it's a pity we're not compatible. 
+• (of one thing) consistent with another: the symptoms were compatible with gastritis or a peptic ulcer. 
+• (of a computer, a piece of software, or other device) able to be used with a specified piece of equipment or software without special adaptation or modification: the printer is fully compatible with all leading software. 
+▶noun a computer that can use software designed for another make or type. DERIVATIVES compatibly 
+-blē 
+adverbORIGIN late Middle English: from French, from medieval Latin compatibilis, from compati ‘suffer with.’

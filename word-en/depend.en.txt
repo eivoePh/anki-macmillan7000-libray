@@ -1,4 +1,12 @@
 depend 
-▶verb
-1 her career depends on a good reference: be contingent on, be conditional on, be dependent on, hinge on, hang on, rest on, rely on; be decided by.
-2 my family depends on me: rely on, lean on; count on, bank on, trust (in), have faith in, believe in; pin one's hopes on.
+dəˈpend
+
+▶verb [no object]
+1 (depend on/upon) be controlled or determined by: differences in earnings depended on a wide variety of factors.
+2 (depend on/upon) rely on: the kind of person you could depend on. 
+• need or require for financial or other support: a town that had depended heavily upon the wool industry. 
+• be grammatically dependent on.
+3 archaic or literary hang down: his tongue depended from open jaws. 
+PHRASES
+depending on being conditioned by; contingent on: makes 8–10 burgers (depending on size) 
+[with clause] : the article sneered or just condescended, depending on how you read it. it (or that) (all) depends used to express uncertainty or qualification in answering a question: How many people use each screen? It all depends.ORIGIN late Middle English ( sense 3; also in the sense ‘wait or be in suspense’): from Old French dependre, from Latin dependere, from de- ‘down’ + pendere ‘hang.’ usage: In informal use, it is quite common for the on to be dropped in sentences such as it all depends how you look at it (rather than it all depends on how you look at it), but in well-formed written English, the on should be retained. In more formal writing, and sometimes for sound, rhythm, or other rhetorical effect, upon is the preferred preposition: You may depend upon it.

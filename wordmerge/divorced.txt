@@ -4,9 +4,18 @@ adjective
 ① Law 离婚的 líhūn de he's divorced 他已经离婚 
 ② figurative (unconnected) 分离的 fēnlí de his plans are divorced from reality 他的计划脱离实际 
 divorce 
-▶noun
-1 she wants a divorce: dissolution, annulment, (official) separation. ANTONYMS marriage.
-2 a growing divorce between the church and people: separation, division, split, disunity, estrangement, alienation; schism, gulf, chasm. ANTONYMS unity.
-▶verb
-1 her parents have divorced: dissolve one's marriage, annul one's marriage, end one's marriage, get a divorce.
-2 action should never be divorced from consequence: separate, disconnect, divide, dissociate, disassociate, detach, isolate, alienate, set apart, cut off.
+dəˈvôrs
+
+▶noun the legal dissolution of a marriage by a court or other competent body: her divorce from her first husband 
+one in three marriages ends in divorce 
+[as modifier] : divorce proceedings. 
+• a legal decree dissolving a marriage. 
+• [in singular] a separation between things that were or ought to be connected: the bitter divorce between the company and its largest shareholder. 
+▶verb [with object] legally dissolve one's marriage with (someone): he divorced his first wife after
+10 months 
+(as adjective divorced) : a divorced couple 
+[no object] : they divorced eight years later. 
+• separate or dissociate (something) from something else: we knew how to divorce an issue from an individual. 
+• (divorce oneself from) distance or dissociate oneself from (something): he wanted to divorce himself from all contact with the syndicate. DERIVATIVES divorcement 
+dəˈvôrsmənt 
+nounORIGIN late Middle English: the noun from Old French divorce, from Latin divortium, based on divertere (see divert); the verb from Old French divorcer, from late Latin divortiare, from divortium .

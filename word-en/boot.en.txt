@@ -1,7 +1,25 @@
 boot
 1 
-▶verb
-1 his shot was booted away by the goalkeeper: kick, punt; propel, drive.
-2 boot up your computer: start up, fire up, reboot.
+bo͞ot
+
+▶noun
+1 a sturdy item of footwear covering the foot, the ankle, and sometimes the leg below the knee: walking boots. 
+• a covering or sheath to protect a mechanical connection, as on a gearshift. 
+• (also Denver boot) US a clamp placed by the police on the wheel of an illegally parked vehicle to make it immobile. 
+• a covering to protect the lower part of a horse's leg. 
+• historical an instrument of torture encasing and crushing the foot.
+2 informal a hard kick: I got a boot in the stomach.
+3 British the trunk of a car.
+4 (also boot up) [usually as modifier] the process of starting a computer and putting it into a state of readiness for operation: a boot disk.
+5 US Military informal a navy or marine recruit. 
+▶verb [with object]
+1 (usually as adjective booted) place boots on (oneself, another person, or an animal): thin, booted legs.
+2 kick (something) hard in a specified direction: he ended up booting the ball into the stands. 
+• (boot someone off) force someone to leave a vehicle unceremoniously: the driver booted two teenagers off the bus. 
+• (boot someone out) informal force someone to leave a place, institution, or job unceremoniously: she had been booted out of school.
+3 start (a computer) and put it into a state of readiness for operation: the menu will be ready as soon as you boot up your computer 
+[no object] : the system won't boot from the original drive. [from bootstrap .]
+4 US place a Denver boot on (an illegally parked car). 
 PHRASES
-give someone the boot informal See dismiss (sense 1). 
+boots on the ground informal ground troops who are on active service in a military operation: they could have gone to their allies and got more boots on the ground 
+while he backs high-tech warfare, he also sees boots on the ground as essential. die with one's boots on die in battle or while otherwise actively occupied. get the boot informal be dismissed from one's job. give someone the boot informal dismiss someone from their job. one's heart sank (or fell) into one's boots used to refer to a sudden onset of depression or dismay: the way your heart drops to your boots if your foal has terribly crooked legs. with one's heart in one's boots in a state of great depression or trepidation: I had to follow her with my heart in my boots. you (can) bet your boots informal used to express certainty about a situation or statement: you can bet your boots that patrol has raised the alarm.ORIGIN Middle English: from Old Norse bóti or its source, Old French bote, of unknown ultimate origin.

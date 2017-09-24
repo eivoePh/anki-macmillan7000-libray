@@ -163,45 +163,96 @@ C.  intransitive verb
 ② (be candidate) 自荐 zìjiàn to put up for the post of …/for the election 自荐出任…之职/参加选举 zìjiàn chūrèn… zhī zhí/cānjiā xuǎnjǔ to put up or shut up colloquial 要么澄清自己，要么闭嘴 they called for the minister to either put up or shut up 他们要求那位部长要么澄清自己，要么就闭嘴 
 D.  reflexive verb to put oneself up; 自荐 zìjiàn to put oneself up for the post of …/for election 自荐出任…之职/参加选举 zìjiàn chūrèn… zhī zhí/cānjiā xuǎnjǔ put up with transitive verb[put up with somebody/something] 容忍 róngrěn how can you put up with that noise? 你怎么能忍受那种噪声？ 
 put 
-▶verb
-1 she put the parcel on a chair: place, set (down), lay (down), deposit, position, settle; leave, plant; informal stick, dump, park, plonk, plunk, pop.
-2 he didn't want to be put in a category: assign to, consign to, allocate to, place in.
-3 don't put the blame on me: lay on, pin on, place on, fix on; attribute to, impute to, assign to, allocate to, ascribe to.
-4 the proposals put to the committee: submit, present, tender, offer, proffer, advance, suggest, propose, put forward.
-5 she put it bluntly: express, word, phrase, frame, formulate, render, convey, couch; state, say, utter.
-6 he put the cost at $8,000: estimate, calculate, reckon, gauge, assess, evaluate, value, judge, measure, compute, fix, set, peg; informal guesstimate.
+po͝ot
+
+▶verb (puts, putting; past and past participle put) [with object]
+1 move to or place in a particular position: Harry put down his cup 
+I put my hand out toward her 
+watch where you're putting your feet! 
+• cause (someone or something) to go to a particular place and remain there for a time: India has put three experimental satellites into space. 
+• [no object] (of a ship or the people on it) proceed in a particular direction: she stepped into the boat and put out to sea. 
+• write or print (something) in a particular place: they put my name on the cover page. 
+• [no object] US archaic (of a river) flow in a particular direction.
+2 bring into a particular state or condition: they tried to put me at ease 
+a large aid program was put into effect 
+he is putting himself at risk. 
+• (put oneself in) imagine oneself in (a particular situation): it was no use trying to put herself in his place. 
+• express (a thought or comment) in a particular way, form, or language: to put it bluntly, he was not really divorced.
+3 (put something on/onto) cause (someone or something) to carry or be subject to something: commentators put some of the blame on Congress. 
+• assign a particular value, figure, or limit to: it is very difficult to put a figure on the size of the budget. 
+• (put something at) estimate something to be (a particular amount): estimates put the war's cost at $1,000,000 a day.
+4 throw (a shot or weight) as an athletic sport: she set a women's record by putting the shot 56ʹ 7ʺ. 
+▶noun
+1 a throw of the shot or weight.
+2 Stock Market short for put option. 
 PHRASES
-put about the ship put about: turn around, tack, come about, change course. put across/over we need to put our message across more clearly: communicate, convey, get across/over, explain, make clear, spell out, clarify; get through to someone. put aside
-1 we've got a bit put aside in the bank: save, put by, set aside, deposit, reserve, store, stockpile, hoard, stow, cache; informal salt away, squirrel away, stash away.
-2 they put aside their differences: disregard, set aside, ignore, forget, discount, bury. put away informal
-1 they put him away for life: jail, imprison, put in prison, put behind bars, lock up, incarcerate.
-2 you should be put away! certify, commit, institutionalize, hospitalize, consign to a psychiatric/mental hospital.
-3 I put away some money: save, put aside, set aside, deposit, reserve, store, stockpile, hoard, stow, cache; informal salt away, squirrel away, stash away.
-4 she never puts her toys away: replace, put back, tidy up, clean up, clear away.
-5 informal he can put away a lot of pies. See eat (sense 1). put back
-1 he put the books back: replace, return, restore, put away.
-2 they put back the film's release date: postpone, defer, delay, put off, adjourn, hold over, reschedule, shelve, table; informal put on ice, put on the back burner. put down
-1 informal she often puts me down: criticize, belittle, disparage, deprecate, denigrate, slight, humiliate, shame, crush, squash, deflate; informal show up, cut down to size.
-2 I put him down as shy: consider to be, judge to be, reckon to be, take to be; regard as, have down as, take for.
-3 she put her ideas down on paper: write down, note down, jot down, take down, set down; list, record, register, log.
-4 they put down the rebellion: suppress, check, crush, quash, squash, quell, overthrow, stamp out, repress, subdue.
-5 the horse had to be put down: destroy, put to sleep, put out of its misery, put to death, kill, euthanize.
-6 put it down to inexperience: attribute, ascribe, chalk up, impute; blame on. put forward See put (sense 4). put in for I've put in for the promotion: apply for, put in an application for, try for; request, seek, ask for. put off
-1 you shouldn't let his bad attitude put you off: deter, discourage, dissuade, daunt, unnerve, intimidate, scare off, repel, repulse; distract, disturb, divert, sidetrack; informal turn off.
-2 don't put off such important decisions: postpone, defer, delay, put back, adjourn, hold over, reschedule, shelve, table; informal put on ice, put on the back burner. put it on she may be really crying, but I think she's putting it on: pretend, play-act, make believe, fake it, fool, go through the motions. put on
-1 she put on jeans: dress in, don, pull on, throw on, slip into, change into; informal doll oneself up in.
-2 I put the light on: switch on, turn on, activate.
-3 they put on an extra train: provide, lay on, supply, make available.
-4 the museum put on an exhibition: organize, stage, mount, present, produce.
-5 she put on a funny English accent: feign, fake, simulate, mimic, affect, assume.
-6 she put ten dollars on Blue Bonnet to win: bet, gamble, stake, wager; place, lay; risk, chance, hazard. put one over on informal See hoodwink. put out
-1 Maria was put out by the slur: annoy, anger, irritate, offend, affront, displease, irk, vex, pique, nettle, gall, upset; informal rile, miff, peeve.
-2 I don't want to put you out: inconvenience, trouble, bother, impose on, disoblige; informal put on the spot; formal discommode.
-3 firefighters put out the blaze: extinguish, quench, douse, smother; blow out, snuff out.
-4 he put out a press release: issue, publish, release, bring out, circulate, publicize, post. put up
-1 we can put him up for a few days: accommodate, house, take in, lodge, quarter, billet; give a roof over someone's head.
-2 they put up a candidate: nominate, propose, put forward, recommend.
-3 the building was put up 100 years ago: build, construct, erect, raise.
-4 she put up a poster: display, pin up, stick up, hang up, post.
-5 we put up alternative schemes: propose, put forward, present, submit, suggest, tender.
-6 he put up most of the funding: provide, supply, furnish, give, contribute, donate, pledge, pay; informal fork out, cough up, shell out, ante up, pony up. put upon informal you allow yourself to be put upon: take advantage of, impose on, exploit, use, misuse; informal walk all over. put up to informal was drag racing your idea, or did someone put you up to it? persuade to (do), encourage to (do), urge to (do), egg on to (do), incite to (do), goad into. put up with she put up with his nonsense for two years, and then she kicked him out: tolerate, take, stand (for), accept, stomach, swallow, endure, bear, support, take something lying down; informal abide, lump it; formal brook.
+put something behind one get over a bad experience by distancing oneself from it: they have tried to put their grief behind them and rebuild their lives. put the clocks back (or forward) adjust clocks or watches backward (or forward) to take account of official changes in time.put someone's eyes out blind someone, typically in a violent way. put one's hands together applaud; clap: I want you all to put your hands together for Barry. put one's hands up raise one's hands in surrender. put it there [in imperative] informal used to indicate that the speaker wishes to shake hands with someone in agreement or congratulation: put it there, Steven, we beat them. put it to [with clause] make a statement or allegation to (someone) and challenge them to deny it: I put it to him that he was just a political groupie. put one over on informal deceive (someone) into accepting something false. put up or shut up informal justify oneself or remain silent: they called for the alderman to either put up or shut up.PHRASAL VERBS put about Nautical (of a ship) turn on the opposite tack. put something about (often be put about) spread information or rumors. put something across (or over) communicate something effectively. put something aside
+1 save money for future use.
+2 forget or disregard something, typically a feeling or a past difference. put someone away (often be put away) informal confine someone in a prison or psychiatric hospital: he deserves to be put away forever. put something away
+1 save money for future use.
+2 informal consume food or drink in large quantities.
+3 informal (in sports) dispatch or deal with a goal or shot. put something back reschedule a planned event to a later time or date. 
+• delay something: greater public control may put back the modernization of the industry. put something by chiefly British save money for future use. put someone down
+1 informal lower someone's self-esteem by criticizing them in front of others.
+2 lay a baby down to sleep. put something down
+1 record something in writing: he's putting a few thoughts down on paper.
+2 suppress a rebellion, riot, or other disturbance by force.
+3 (usually be put down) kill an animal because it is sick, injured, or old.
+4 pay a specified sum as a deposit: he put a thousand down and paid the rest over six months.
+5 preserve or store food or wine for future use.
+6 (also put down) land an aircraft. put someone down as consider or judge someone or something to be: I'd have put you down as a Vivaldi man. put something down to attribute something to: if I forget anything, put it down to old age. put someone forward recommend someone as a suitable candidate for a job or position: he put me forward as head of publicity. put something forward submit a plan, proposal, or theory for consideration. put in [with direct speech] interrupt a conversation or discussion: “But you're a sybarite, Roger,” put in Isobel. put in at/into (of a ship) enter (a port or harbor). put someone in appoint someone to fulfill a particular role or job: he was put in to rescue the company by the stockbrokers. 
+• (in team sports) send a player out to participate into a game. put something in/into
+1 present or submit something formally: the airport had put in a claim for damages. 
+• (put in for) apply formally for: Adam put in for six months' leave.
+2 devote time or effort to something: employed mothers put in the longest hours of all women.
+3 invest money or resources in. put someone off
+1 cancel or postpone an appointment with someone: he'd put off Martin until nine o'clock.
+2 cause someone to lose interest or enthusiasm: she wanted to be a nurse, but the thought of night shifts put her off. 
+• cause someone to feel dislike or distrust: she had a coldness that just put me off.
+3 distract someone: you're just trying to put me off my game. put something off postpone something: they can't put off a decision much longer. put someone on informal deceive or hoax someone. put something on
+1 place a garment, glasses, or jewelry on part of one's body: Julie had put on a cotton dress. 
+• attach or apply something: she put on fresh makeup.
+2 cause a device to operate: shall I put the light on? 
+• start cooking something: she was moaning that he hadn't put the dinner on. 
+• play recorded music or a video.
+3 organize or present a play, exhibition, or event. 
+• provide a public transportation service: so many people wanted to visit this spot that an extra flight had to be put on.
+4 add a specified amount to (the cost of something): the news put
+12 cents on the share price. 
+• increase in body weight; become heavier by a specified amount: she's given up her diet and put on
+20 lbs.
+5 assume a particular expression, accent, etc.: he put on a lugubrious look. 
+• behave deceptively: she doesn't feel she has to put on an act.
+6 bet a specified amount of money on: he put $1,000 on the horse to win. put someone on to draw someone's attention to (someone or something useful, notable, or interesting): Pike put me on to the department's legal section. put out North American vulgar slang be willing to have sexual intercourse. put someone out
+1 cause someone trouble or inconvenience: would it put you out too much to let her visit you for a couple of hours? 
+• (often be put out) upset or annoy someone: he was not put out by the rebuff.
+2 (in sports) defeat a player or team and so cause them to be out of a competition.
+3 make someone unconscious, typically by means of drugs or an anesthetic. put something out
+1 extinguish something that is burning: firefighters from Georgetown put out the blaze. 
+• turn off a light.
+2 lay something out ready for use: she put out glasses and paper napkins.
+3 issue or broadcast something: a limited-edition single was put out to promote the album.
+4 dislocate a joint: she fell off her horse and put her shoulder out.
+5 (of a company) allocate work to a contractor or freelancer to be done off the premises.
+6 (of an engine or motor) produce a particular amount of power: the new motor is expected to put out about 250 h.p. put something over
+1 another way of saying put something across .
+2 North American postpone something: let's put the case over for a few weeks. put someone through
+1 connect someone by telephone to another person or place: put me through to the mayor, please.
+2 subject someone to an unpleasant or demanding experience: I hate Brian for what he put me through.
+3 pay for someone to attend school or college. put something through initiate something and see it through to a successful conclusion: he put through a reform program to try to save the regime. put someone to cause inconvenience or difficulty to someone: I don't want to put you to any trouble. put something to
+1 submit something to (someone) for consideration or attention: we are making a takeover bid and putting an offer to the shareholders.
+2 devote something to (a particular use or purpose): they put the land to productive use. put something together make something by assembling different parts or people: he can take a clock apart and put it back together again 
+they decided to put a new band together. 
+• assemble things or people to make something: a carpenter puts together shaped pieces of wood to make a table. put someone under another way of saying put someone out. put up
+1 offer or show (a particular degree of resistance, effort, or skill) in a fight or competitive situation: he put up a brave fight.
+2 stay temporarily in lodgings other than one's own home: we put up at a hotel in the city center. put someone up
+1 accommodate someone temporarily.
+2 propose someone for election or adoption: they should have put themselves up for election. put something up
+1 construct or erect something: I put up the tent and cooked a meal.
+2 raise one's hand to signal that one wishes to answer or ask a question.
+3 display a notice, sign, or poster. 
+• present a proposal, theory, or argument for discussion or consideration.
+4 chiefly British increase the cost of something: I'm afraid I've got to put your rent up.
+5 provide money as backing for an enterprise: the sponsors are putting up $5,000 for the event.
+6 (often be put up for) offer something for sale or auction.
+7 archaic return a sword to its sheath. put upon (often as adjective put-upon) informal take advantage of (someone) by exploiting their good nature: a put-upon drudge who slaved for her employer. put someone up to informal encourage someone to do (something wrong or unwise): Who else would play a trick like that on me? I expect Rose put him up to it. put up with tolerate; endure: I'm too tired to put up with any nonsense.ORIGIN Old English (recorded only in the verbal noun putung), of unknown origin; compare with dialect pote ‘to push, thrust’ (an early sense of the verb put).

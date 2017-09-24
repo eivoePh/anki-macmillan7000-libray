@@ -4,4 +4,9 @@ noun(plural hypotheses /haɪˈpɒθəsiːz/)
 ① (supposition) 假设 jiǎshè 
 ② Philosophy 假说 jiǎshuō 
 hypothesis 
-▶noun his “steady state” hypothesis of the origin of the universe: theory, theorem, thesis, conjecture, supposition, postulation, postulate, proposition, premise, assumption; notion, concept, idea, possibility.
+hīˈpäTHəsəs
+
+▶noun (plural hypotheses 
+-ˌsēz
+) a supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation: professional astronomers attacked him for popularizing an unconfirmed hypothesis. 
+• Philosophy a proposition made as a basis for reasoning, without any assumption of its truth. ORIGIN late 16th century: via late Latin from Greek hupothesis ‘foundation,’ from hupo ‘under’ + thesis ‘placing.’

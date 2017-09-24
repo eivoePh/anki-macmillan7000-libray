@@ -11,10 +11,20 @@ C.  transitive verb
 ① (prize) 重视 zhòngshì I value my privacy 我看重自己的隐私 I value him as a good friend 我把他视为好朋友 
 ② (assess worth of) 给…估价 gěi… gūjià the property has been valued at over $200,000 这处房产估价为20多万美元 
 value 
+ˈvalyo͞o
+
 ▶noun
-1 houses exceeding $250,000 in value: price, cost, worth; market price, monetary value, face value.
-2 the value of adequate preparation cannot be understated: worth, usefulness, advantage, benefit, gain, profit, good, help, merit, helpfulness, avail; importance, significance.
-3 society's values are passed on to us as children: principles, ethics, moral code, morals, standards, code of behavior.
-▶verb
-1 his estate was valued at $345,000: evaluate, assess, estimate, appraise, price, put/set a price on.
-2 she valued his opinion: think highly of, have a high opinion of, hold in high regard, rate highly, esteem, set (great) store by, put stock in, appreciate, respect; prize, cherish, treasure.
+1 the regard that something is held to deserve; the importance, worth, or usefulness of something: your support is of great value. 
+• the material or monetary worth of something: prints seldom rise in value 
+equipment is included up to a total value of $500. 
+• the worth of something compared to the price paid or asked for it: at $12.50 the book is a good value.
+2 (values) a person's principles or standards of behavior; one's judgment of what is important in life: they internalize their parents' rules and values.
+3 the numerical amount denoted by an algebraic term; a magnitude, quantity, or number: the mean value of x 
+an accurate value for the mass of Venus.
+4 Music the relative duration of the sound signified by a note.
+5 Linguistics the meaning of a word or other linguistic unit. 
+• the quality or tone of a spoken sound; the sound represented by a letter.
+6 Art the relative degree of lightness or darkness of a particular color: the artist has used adjacent color values as the landscape recedes. 
+▶verb (values, valuing, valued) [with object]
+1 estimate the monetary worth of (something): his estate was valued at $45,000.
+2 consider (someone or something) to be important or beneficial; have a high opinion of: she had come to value her privacy and independence. ORIGIN Middle English: from Old French, feminine past participle of valoir ‘be worth,’ from Latin valere .

@@ -19,13 +19,28 @@ D.  transitive verb
 ② BrE Culinary 焖 mèn ‹vegetables›
 ③ AmE colloquial (worry about) 为…担忧 wèi… dānyōu don’t sweat the small stuff 别为细枝末节担忧 PHRASAL VERBS sweat off transitive verb[sweat something off, sweat off something] 通过排汗消耗 tōngguò páihàn xiāohào ‹calories, food›; 通过排汗减轻 tōngguò páihàn jiǎnqīng ‹weight›sweat out transitive verb[sweat something out, sweat out something] 通过发汗治好 tōngguò fāhàn zhìhǎo ‹cold, chill, fever›to sweat it out colloquial (endure heat or exertion) 熬过 (wait anxiously) 焦急地等待 
 sweat 
+swet
+
 ▶noun
-1 he was drenched with sweat: perspiration, moisture, dampness, wetness; Medicine diaphoresis.
-2 informal he got into such a sweat about that girl: fluster, panic, frenzy, fever, pother; informal state, flap, tizzy, dither, stew, lather.
-3 informal the sweat of the working classes: labor, hard work, toil(s), effort(s), exertion(s), industry, drudgery, slog; informal grind, elbow grease.
-▶verb
-1 she was sweating heavily: perspire, swelter, glow; be damp, be wet; secrete.
-2 I've sweated over this for six months: work (hard), work like a Trojan, labor, toil, slog, slave, work one's fingers to the bone; informal plug away; archaic drudge.
-3 he sweated over his mistakes: worry, agonize, fuss, panic, fret, lose sleep; informal be on pins and needles, be in a state, be in a flap, be in a stew, torture oneself, torment oneself.
-WORD LINKS
-sweat sudorific relating to or causing sweatingWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 moisture exuded through the pores of the skin, typically in profuse quantities as a reaction to heat, physical exertion, fever, or fear. 
+• an instance of exuding moisture through the pores of the skin: even thinking about him made me break out in a sweat 
+we'd all worked up a sweat in spite of the cold. 
+• informal a state of flustered anxiety or distress: I don't believe he'd get into such a sweat about a girl. 
+• informal hard work; effort: computer graphics take a lot of the sweat out of animation.
+2 (sweats) chiefly North American informal term for sweatsuit or sweatpants. 
+• [as modifier] denoting loose casual garments made of thick, fleecy cotton: sweat tops and bottoms. 
+▶verb (sweats, sweating; past sweated or sweat)
+1 [no object] exude sweat: he was sweating profusely. 
+• [with object] (sweat something out/off) get rid of (something) from the body by exuding sweat: a well-hydrated body sweats out waste products more efficiently. 
+• [with object] cause (a person or animal) to exude sweat by exercise or exertion: cold as it was, the climb had sweated him. 
+• (of food or an object) ooze or exude beads of moisture onto its surface: cheese stored at room temperature will quickly begin to sweat. 
+• (of a person) exert a great deal of strenuous effort: I've sweated over this for six months. 
+• (of a person) be or remain in a state of extreme anxiety, typically for a prolonged period: I let her sweat for a while, then I asked her out again. 
+• [with object] North American informal worry about (something): he's not going to have a lot of time to sweat the details.
+2 [with object] heat (chopped vegetables) slowly in a pan with a small amount of fat, so that they cook in their own juices: sweat the celery and onions with olive oil and seasoning. 
+• [no object] (of chopped vegetables) be cooked by sweating: let the chopped onion sweat gently for five minutes.
+3 [with object] subject (metal) to surface melting, especially to fasten or join by solder without a soldering iron: the tire is sweated onto the wooden parts. 
+PHRASES
+break a sweat informal exert oneself physically.by the sweat of one's brow by one's own hard work, typically manual labor. don't sweat it used to urge someone not to worry. no sweat informal used to convey that one perceives no difficulty or problem with something: “We haven't any decaf, I'm afraid.” “No sweat.” sweat blood informal make an extraordinarily strenuous effort to do something: she's sweated blood to support her family. 
+• be extremely anxious: we've been sweating blood over the question of what is right. sweat buckets informal sweat profusely. sweat bullets North American informal be extremely anxious or nervous. sweat it out informal endure an unpleasant experience, typically one involving physical exertion in great heat: about 1,500 runners are expected to sweat it out in this year's run. 
+• wait in a state of extreme anxiety for something to happen or be resolved: he sweated it out until the lab report was back. sweat the small stuff US informal worry about trivial things.ORIGIN Old English swāt (noun), swǣtan (verb), of Germanic origin; related to Dutch zweet and German Schweiss, from an Indo-European root shared by Latin sudor .

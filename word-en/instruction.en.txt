@@ -1,5 +1,10 @@
 instruction 
+inˈstrəkSH(ə)n
+
 ▶noun
-1 my instructions are to be obeyed at all times: order, command, directive, direction, decree, edict, injunction, mandate, dictate, commandment, bidding; requirement, stipulation; informal marching orders; literary behest.
-2 (instructions) read the instructions: directions, key, rubric, specification, how-tos; handbook, manual, guide, tutorial.
-3 most of the instruction we received was combat-related: teaching, coaching, schooling, education, tutelage, tuition; lessons, classes, lectures; training, preparation, grounding, guidance.
+1 (often instructions) a direction or order: he issued instructions to the sheriff 
+he was acting on my instructions. 
+• (instructions) Law directions to a lawyer or to a jury. 
+• Computing a code or sequence in a computer program that defines an operation and puts it into effect.
+2 (instructions) detailed information telling how something should be done, operated, or assembled: always study the instructions supplied.
+3 teaching; education: the school offers personalized instruction in a variety of skills. ORIGIN late Middle English: via Old French from late Latin instructio(n-), from the verb instruere (see instruct) .

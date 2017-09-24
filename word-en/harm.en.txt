@@ -1,7 +1,12 @@
 harm 
-▶noun
-1 the voltage is not sufficient to cause harm: injury, hurt, pain, trauma; damage, impairment, mischief. ANTONYMS benefit.
-2 I can't see any harm in it: evil, wrong, ill, wickedness, iniquity, sin. ANTONYMS good.
-▶verb
-1 he's never harmed anybody in his life: injure, hurt, wound, lay a finger on, maltreat, mistreat, misuse, ill-treat, ill-use, abuse, molest.
-2 this could harm her Olympic prospects: damage, hurt, spoil, mar, do mischief to, impair.
+härm
+
+▶noun physical injury, especially that which is deliberately inflicted: it's fine as long as no one is inflicting harm on anyone else. 
+• material damage: it's unlikely to do much harm to the engine. 
+• actual or potential ill effect or danger: I can't see any harm in it. 
+▶verb [with object] physically injure: the villains didn't harm him. 
+• damage the health of: smoking when pregnant can harm your baby. 
+• have an adverse effect on: this could harm his Olympic prospects. 
+PHRASES
+come to no harm be unhurt or undamaged. do more harm than good inadvertently make a situation worse rather than better. do (someone) no harm used to indicate that a situation or action will not hurt someone, whether or not it will provide any benefit: the diet of milk and zwieback certainly did him no harm. mean no harm not intend to cause damage or insult: this was cruel, but they meant no harm by it. no harm done used to reassure someone that what they have done has caused no real damage. no harm, no foul chiefly US used to indicate that a mistake or instance of misconduct should be excused because it has not caused damage: strictly speaking it was petty trespassing, but no harm, no foul. [originally in the context of sports: compare foul ( sense
+1 of the noun) .] out of harm's way in a safe place.ORIGIN Old English hearm (noun), hearmian (verb), of Germanic origin; related to German Harm and Old Norse harmr ‘grief, sorrow.’

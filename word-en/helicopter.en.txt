@@ -1,2 +1,6 @@
 helicopter 
-▶noun informal chopper, copter, eggbeater, whirlybird.
+ˈheləˌkäptər
+
+▶noun a type of aircraft that derives both lift and propulsion from one or more sets of horizontally revolving overhead rotors. It is capable of moving vertically and horizontally, the direction of motion being controlled by the pitch of the rotor blades. helicopter Compare with autogiro. 
+▶verb [with object] transport by helicopter: the Coast Guard helicoptered a compressor to one ship. 
+• [no object] fly somewhere in a helicopter: the inspection team helicoptered ashore. ORIGIN late 19th century: from French hélicoptère, from Greek helix ‘spiral’ + pteron ‘wing.’

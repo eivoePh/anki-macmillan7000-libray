@@ -7,8 +7,15 @@ transitive verb
 ④ (confirm receipt of) 告知收悉 gàozhī shōuxī we will of course acknowledge all letters 来信必复 
 ⑤ (show recognition of) 向…致意 xiàng… zhìyì he acknowledged them with a wave 他挥手向他们致意 
 acknowledge 
+əkˈnäləj
+
 ▶verb
-1 the government acknowledged the need to begin talks: admit, accept, grant, allow, concede, accede to, confess, own, recognize. ANTONYMS reject, deny.
-2 he did not acknowledge Colin, but hurried past: greet, salute, address; nod to, wave to, raise one's hat to, say hello to. ANTONYMS ignore.
-3 Douglas was glad to acknowledge her help: express gratitude for, show appreciation for, thank someone for.
-4 nobody acknowledged my letters: answer, reply to, respond to. ANTONYMS overlook.
+1 [reporting verb] accept or admit the existence or truth of: [with object] : the plight of the refugees was acknowledged by the authorities 
+[with clause] : the government acknowledged that the tax was unfair 
+[with direct speech] : “That's true,” she acknowledged.
+2 [with object] (of a body of opinion) recognize the fact or importance or quality of: the art world has begun to acknowledge his genius 
+he's generally acknowledged to be the game's finest coach. 
+• express or display gratitude for or appreciation of: he received a letter acknowledging his services. 
+• accept the validity or legitimacy of: Henry acknowledged Richard as his heir.
+3 [with object] show that one has noticed or recognized (someone) by making a gesture or greeting: she refused to acknowledge my presence. 
+• confirm (receipt of something). ORIGIN late 15th century: from the obsolete Middle English verb knowledge, influenced by obsolete acknow ‘acknowledge, confess.’

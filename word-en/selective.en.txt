@@ -1,2 +1,7 @@
 selective 
-▶adjective he's very selective about his coffee: discerning, discriminating, discriminatory, critical, exacting, demanding, particular; fussy, fastidious; informal choosy, persnickety, picky, finicky.
+səˈlektiv
+
+▶adjective relating to or involving the selection of the most suitable or best qualified: the mini-cow is the result of generations of selective breeding. 
+• (of a person) tending to choose carefully: he is very selective in his reading. 
+• (of a process or agent) affecting some things and not others: modern pesticides are more selective in effect. 
+• chiefly Electronics operating at or responding to a particular frequency.

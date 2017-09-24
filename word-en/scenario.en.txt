@@ -1,5 +1,7 @@
 scenario 
-▶noun
-1 Walt wrote scenarios for a major Hollywood studio: plot, outline, synopsis, storyline, framework; screenplay, script, libretto; formal diegesis.
-2 every possible scenario must be explored: sequence of events, course of events, chain of events, series of developments, situation.
-3 this film has a more contemporary scenario: setting, background, context, scene, milieu.
+səˈnerēˌō
+
+▶noun (plural scenarios) a written outline of a movie, novel, or stage work giving details of the plot and individual scenes: imagine the scenarios for four short stories. 
+• a postulated sequence or development of events: a possible scenario is that he was attacked after opening the front door. 
+• a setting, in particular for a work of art or literature: the scenario is World War I
+I.  ORIGIN late 19th century: from Italian, from Latin scena ‘scene.’ usage: Strictly, a scenario is ‘an outline of a plot’ or ‘a postulated sequence of events’: the worst-case scenario. It is often used loosely to mean ‘situation,’ as in a nightmare scenario, but this should be avoided in careful writing.

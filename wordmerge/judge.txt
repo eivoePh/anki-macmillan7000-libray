@@ -18,12 +18,17 @@ C.  intransitive verb
 ③ (in competition, sporting event, show) 担任裁判 dānrèn cáipàn 
 ④ Law 判案 pàn'àn to judge leniently/harshly 判案宽松/苛刻 
 judge 
-▶noun
-1 the judge sentenced him to five years: justice, magistrate, sheriff, jurist.
-2 a panel of judges will select the winner: adjudicator, arbiter, arbitrator, assessor, evaluator, referee, ombudsman, ombudsperson, appraiser, examiner, moderator, mediator.
-▶verb
-1 we judged that it was too late to proceed: form the opinion, conclude, decide; consider, believe, think, deem, view; deduce, gather, infer, gauge, estimate, guess, surmise, conjecture; regard as, look on as, take to be, rate as, class as; informal reckon, figure.
-2 the case was judged by a tribunal: try, hear; adjudicate, decide, give a ruling on, give a verdict on.
-3 she was judged innocent of murder: adjudge, pronounce, decree, rule, find.
-4 the competition will be judged by last year's winner: adjudicate, arbitrate, mediate, moderate.
-5 entries were judged by a panel of experts: assess, appraise, evaluate; examine, review.
+jəj
+
+▶noun a public official appointed to decide cases in a court of law. 
+• a person who decides the results of a competition or watches for infractions of the rules. 
+• a person able or qualified to give an opinion on something: she was a good judge of character. 
+• a leader having temporary authority in ancient Israel in the period between Joshua and the kings. See also Judges. 
+▶verb [with object] form an opinion or conclusion about: scientists were judged according to competence 
+[with clause] : it is hard to judge whether such opposition is justified 
+[no object] : judging from his letters home, Monty was in good spirits. 
+• decide (a case) in court: other cases were judged by tribunal. 
+• [with object and complement] give a verdict on (someone) in court: she was judged innocent of murder. 
+• decide the results of (a competition). DERIVATIVES judgeship 
+ˈjəjˌSHip 
+nounORIGIN Middle English: from Old French juge (noun), juger (verb), from Latin judex, judic-, from jus ‘law’ + dicere ‘to say.’

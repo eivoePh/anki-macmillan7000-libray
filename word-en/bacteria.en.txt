@@ -1,4 +1,6 @@
-bacteria 
-▶plural noun a different strain of bacteria: microorganisms, microbes, germs, bacilli, pathogens, prokaryotes; informal bugs.
-WORD LINKS
-bacteria bacteriology the study of bacteriaWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+bacterium 
+ˌbakˈtirēəm
+
+▶noun (plural bacteria 
+ˌbakˈtirēə
+) a member of a large group of unicellular microorganisms that have cell walls but lack organelles and an organized nucleus, including some that can cause disease. Bacteria are widely distributed in soil, water, and air, and on or in the tissues of plants and animals. Formerly included in the plant kingdom, they are now classified separately (as prokaryotes). They play a vital role in global ecology, as the chemical changes they bring about include those of organic decay and nitrogen fixation. Much modern biochemical knowledge has been gained from the study of bacteria because they grow easily and reproduce rapidly in laboratory cultures. ORIGIN mid 19th century: modern Latin, from Greek baktērion, diminutive of baktēria ‘staff, cane’ (because the first ones to be discovered were rod-shaped). Compare with bacillus . usage: Bacteria is the plural form (derived from Latin) of bacterium. Like any other plural it should be used with the plural form of the verb: the bacteria causing salmonella are killed by thorough cooking, not the bacteria causing salmonella is killed by thorough cooking. However, the unfamiliarity of the form means that bacteria is sometimes mistakenly treated as a singular form, as in the example above.

@@ -7,8 +7,15 @@ transitive verb
 ④ Military (commend) 嘉奖 jiājiǎng ‹member of the armed forces›to cite [somebody] for [something]; 因某事物嘉奖某人 
 ⑤ Law 传唤 chuánhuàn ‹witness›to be cited in divorce proceedings 在离婚诉讼中受到传唤 
 cite 
-▶verb
-1 cite the passage in full: quote, reproduce.
-2 the Plaintiffs have properly cited the case law in response to this motion: refer to, make reference to, mention, allude to, adduce, instance; specify, name.
-3 he has been cited many times: commend, pay tribute to, praise.
-4 Law the writ cited four of the signatories: summon, summons, serve with a summons, serve with a writ, subpoena.
+sīt
+
+▶verb [with object]
+1 quote (a passage, book, or author) as evidence for or justification of an argument or statement, especially in a scholarly work. 
+• mention as an example: medics have been cited as a key example of a modern breed of technical expert. 
+• praise (someone, typically a member of the armed forces) for a courageous act in an official dispatch. 
+• Law adduce a former tried case as a guide to deciding a comparable case or in support of an argument.
+2 Law summon (someone) to appear in a court of law: the summons cited four of the defendants. 
+▶noun US a citation. DERIVATIVES citable 
+ˈsīdəb(ə)l 
+adjectiveORIGIN late Middle English ( sense
+2 of the verb): from Old French citer, from Latin citare, from ciere, cire ‘to call.’

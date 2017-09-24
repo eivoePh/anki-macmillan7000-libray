@@ -1,5 +1,19 @@
 progressive 
+prəˈɡresiv
+
 ▶adjective
-1 progressive deterioration: continuing, continuous, increasing, growing, developing, ongoing, accelerating, escalating; gradual, step-by-step, cumulative.
-2 progressive views: modern, liberal, advanced, forward-thinking, enlightened, enterprising, innovative, pioneering, dynamic, bold, avant-garde, reforming, reformist, radical; informal go-ahead. ANTONYMS conservative, reactionary.
-▶noun he is very much a progressive: innovator, reformer, reformist, liberal, libertarian.
+1 happening or developing gradually or in stages; proceeding step by step: a progressive decline in popularity. 
+• (of a disease or ailment) increasing in severity or extent: progressive liver failure. 
+• (of taxation or a tax) increasing as a proportion of the sum taxed as that sum increases: steeply progressive income taxes. 
+• (of a card game or dance) involving a series of sections for which participants successively change place or relative position. 
+• archaic engaging in or constituting forward motion.
+2 (of a group, person, or idea) favoring or implementing social reform or new, liberal ideas: a relatively progressive governor. 
+• favoring or promoting change or innovation: a progressive art school. 
+• relating to or denoting a style of rock music popular especially in the 1980s and characterized by classical influences, the use of keyboard instruments, and lengthy compositions.
+3 Grammar denoting an aspect or tense of a verb that expresses an action in progress, e.g., am writing, was writing. Also called continuous. 
+▶noun
+1 a person advocating or implementing social reform or new, liberal ideas.
+2 Grammar a progressive tense or aspect: the present progressive.
+3 (also progressive proof) Printing each of a set of proofs of color work, showing all the colors separately and the cumulative effect of overprinting them. DERIVATIVES progressiveness 
+prəˈɡresivnəs 
+nounORIGIN early 17th century: from French progressif, -ive or medieval Latin progressivus, from progress- ‘gone forward,’ from the verb progredi (see progress) .

@@ -2,5 +2,6 @@ molecule
 BrE ˈmɒlɪkjuːl, AmE ˈmɑləˌkjul 
 noun 分子 fēnzǐ 
 molecule 
-BrE ˈmɒlɪkjuːl, AmE ˈmɑləˌkjul 
-noun 分子 fēnzǐ 
+ˈmäləˌkyo͞ol
+
+▶noun Chemistry a group of atoms bonded together, representing the smallest fundamental unit of a chemical compound that can take part in a chemical reaction. ORIGIN late 18th century: from French molécule, from modern Latin molecula, diminutive of Latin moles ‘mass.’

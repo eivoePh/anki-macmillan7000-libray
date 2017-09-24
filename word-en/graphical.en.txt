@@ -1,5 +1,6 @@
 graphical 
-BrE ˈɡrafɪk(ə)l, AmE ˈɡræfək(ə)l 
-adjective 
-① (relating to visual art) 平面艺术的 píngmiàn yìshù de 
-② (relating to computer graphics) 图形的 túxíng de graphical representation 图示 
+ˈɡrafək(ə)l
+
+▶adjective
+1 relating to or in the form of a graph: flowcharts are graphical presentations.
+2 relating to visual art or computer graphics: a high-resolution graphical display.

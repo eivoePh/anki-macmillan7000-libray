@@ -1,8 +1,17 @@
 correct 
-▶adjective
-1 the correct answer: right, accurate, true, exact, precise, unerring, faithful, strict, faultless, flawless, error-free, perfect, letter-perfect, word-perfect; informal on the mark, on the nail, bang on, (right) on the money, on the button. ANTONYMS wrong, inaccurate.
-2 correct behavior: proper, seemly, decorous, decent, respectable, right, suitable, fit, fitting, befitting, appropriate, apt; approved, accepted, conventional, customary, traditional, orthodox, comme il faut. ANTONYMS improper.
-▶verb
-1 proofread your work and correct any mistakes: rectify, put right, set right, right, amend, emend, remedy, repair.
-2 an attempt to correct the trade imbalance: counteract, offset, counterbalance, compensate for, make up for, neutralize.
-3 the thermostat needs correcting: adjust, regulate, fix, set, standardize, normalize, calibrate, fine-tune.
+kəˈrekt
+
+▶adjective free from error; in accordance with fact or truth: make sure you have been given the correct information. 
+• not mistaken in one's opinion or judgment; right: the government was correct to follow a course of defeating inflation. 
+• (of a thing or course of action) meeting the requirements of or most appropriate for a particular situation or activity: cut the top and bottom tracks to the correct length with a hacksaw. 
+• (of a person or their appearance or behavior) conforming to accepted social standards; proper: he was a polite man, invariably correct and pleasant with Mrs. Collins. 
+• chiefly North American conforming to a particular political or ideological orthodoxy. See also politically correct. 
+▶verb [with object] put right (an error or fault): the council issued a statement correcting some points in the press reports. 
+• mark the errors in (a written or printed text): he corrected Dixon's writing for publication. 
+• tell (someone) that they are mistaken: he had assumed she was married and she had not corrected him 
+(as adjective corrected) : sorry, I stand corrected. 
+• counteract or rectify: the problem of diminished sight can be reduced or corrected by wearing eyeglasses. 
+• adjust (an instrument) to function accurately or in accord with a standard: motorists can have their headlights tested and corrected at a reduced price on Saturday. 
+• adjust (a numerical result or reading) to allow for departure from standard conditions: data were corrected for radionuclide decay. DERIVATIVES correctable 
+kəˈrektəb(ə)l 
+adjectiveORIGIN Middle English (as a verb): from Latin correct- ‘made straight, amended,’ from the verb corrigere, from cor- ‘together’ + regere ‘guide.’ The adjective is via French.

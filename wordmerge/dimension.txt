@@ -8,7 +8,23 @@ B.  dimensions noun plural
 ① (size) 面积 miànjī 
 ② figurative (scope) 范围 fànwéi 
 dimension 
+dəˈmen(t)SH(ə)n dīˈmen(t)SH(ə)n
+
 ▶noun
-1 the dimensions of the room: size, measurements, proportions, extent; length, width, breadth, depth, area, volume, capacity; footage, acreage.
-2 the dimension of the problem: size, scale, extent, scope, magnitude; importance, significance.
-3 the cultural dimensions of the problem: aspect, feature, element, facet, side.
+1 (usually dimensions) a measurable extent of some kind, such as length, breadth, depth, or height: the final dimensions of the pond were
+14 ft. x
+8 ft 
+the drawing must be precise in dimension. 
+• a mode of linear extension of which there are three in space and two on a flat surface, which corresponds to one of a set of coordinates specifying the position of a point. 
+• Physics an expression for a derived physical quantity in terms of fundamental quantities such as mass, length, or time, raised to the appropriate power (acceleration, for example, having the dimension of length × time −2).
+2 an aspect or feature of a situation, problem, or thing: sun-dried tomatoes add a new dimension to this sauce. 
+▶verb [with object] cut or shape (something) to particular measurements. 
+• mark (a diagram) with measurements: (as adjective dimensioned) : draw a dimensioned front elevation. DERIVATIVES dimensionality 
+diˌmenCHəˈnalətē 
+noun. dimensionally 
+-CHənl-ē 
+adjective. dimensionless 
+dəˈmen(t)SH(ə)nləs 
+adjectiveORIGIN late Middle English ( sense
+1 of the noun): via Old French from Latin dimensio(n-), from dimetiri ‘measure out.’ Sense
+2 of the noun dates from the 1920s.

@@ -1,2 +1,10 @@
 protect 
-▶verb they fought to protect their homes and families: keep safe, keep from harm, save, safeguard, preserve, defend, shield, cushion, insulate, hedge, shelter, screen, secure, fortify, guard, watch over, look after, take care of, keep; inoculate. ANTONYMS expose, neglect, attack, harm.
+prəˈtekt
+
+▶verb [with object] keep safe from harm or injury: he tried to protect Kelly from the attack 
+[no object] : certain vitamins may protect against heart disease. 
+• (often as adjective protected) aim to preserve (a threatened plant or animal species) by legislating against collecting or hunting. 
+• (often as adjective protected) restrict by law access to or development of (land) so as to preserve its natural state: logging is continuing in protected areas in violation of an international agreement. 
+• (of an insurance policy) promise to pay (someone) an agreed amount in the event of loss, injury, fire, theft, or other misfortune: in the event of your death, your family will be protected against any financial problems that may arise. 
+• Economics shield (a domestic industry) from competition by imposing import duties on foreign goods. 
+• Computing restrict access to or use of (data or a memory location): security products are designed to protect information from unauthorized access. DERIVATIVES protectable adjectiveORIGIN late Middle English: from Latin protect- ‘covered in front,’ from the verb protegere, from pro- ‘in front’ + tegere ‘to cover.’

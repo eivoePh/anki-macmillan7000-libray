@@ -8,7 +8,20 @@ A.  adjective
 ④ Mathematics 整数的 zhěngshù de an integral number 整数 
 B.  noun 积分 jīfēn a definite/an indefinite integral 定积分/不定积分 
 integral 
+ˈin(t)əɡrəl inˈteɡrəl
+
 ▶adjective
-1 an integral part of human behavior: essential, fundamental, basic, intrinsic, inherent, constitutive, innate, structural; vital, necessary, requisite. ANTONYMS peripheral, incidental.
-2 the dryer has integral cord storage: built-in, integrated, incorporated, included. ANTONYMS peripheral.
-3 an integral approach to learning: unified, integrated, comprehensive, composite, combined, aggregate; complete, whole. ANTONYMS partial, fragmented.
+1 necessary to make a whole complete; essential or fundamental: games are an integral part of the school's curriculum 
+systematic training should be integral to library management. 
+• [attributive] included as part of the whole rather than supplied separately: the unit comes complete with integral pump and heater. 
+• [attributive] having or containing all parts that are necessary to be complete: the first integral recording of the ten Mahler symphonies.
+2 Mathematics of or denoted by an integer. 
+• involving only integers, especially as coefficients of a function. 
+▶noun 
+ˈin(t)əɡrəl 
+Mathematics a function of which a given function is the derivative, i.e., which yields that function when differentiated, and which may express the area under the curve of a graph of the function. See also definite integral, indefinite integral. 
+• a function satisfying a given differential equation. DERIVATIVES integrality 
+ˌin(t)əˈɡralədē 
+noun. integrally 
+ˈin(t)əɡrəlē 
+adverbORIGIN mid 16th century: from late Latin integralis, from integer ‘whole’ (see integer). Compare with integrate and integrity .

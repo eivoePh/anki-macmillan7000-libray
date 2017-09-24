@@ -7,7 +7,15 @@ B.  noun
 ② Linguistics 助动词 zhùdòngcí 
 ③ History (soldier) 外国援军 wàiguó yuánjūn 
 auxiliary 
-▶adjective
-1 an auxiliary power source: additional, supplementary, supplemental, extra, spare, reserve, backup, emergency, fallback, other.
-2 auxiliary staff: ancillary, assistant, support.
-▶noun a nursing auxiliary: assistant, helper, ancillary.
+ôɡˈzilyərē ôɡˈzil(ə)rē
+
+▶adjective providing supplementary or additional help and support: auxiliary airport staff 
+the ship has an auxiliary power source. 
+• (of troops) engaged in the service of a nation at war but not part of the regular army, and often of foreign origin. 
+• (of a sailing vessel) equipped with a supplementary engine. 
+▶noun (plural auxiliaries) a person or thing providing supplementary or additional help and support: a nursing auxiliary 
+there are two main fuel tanks and two auxiliaries. 
+• North American a group of volunteers giving supplementary support to an organization or institution: members of the Volunteer Fire Department's women's auxiliary. 
+• (auxiliaries) troops engaged in the service of a nation at war but not part of the regular army, and often of foreign origin. 
+• Grammar an auxiliary verb. 
+• a naval vessel with a supporting role, not armed for combat. ORIGIN late Middle English: from Latin auxiliarius, from auxilium ‘help.’

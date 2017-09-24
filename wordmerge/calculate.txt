@@ -5,7 +5,15 @@ transitive verb
 ② (estimate) 估计 gūjì ‹probability, risk, consequence›
 ③ (intend) 计划 jìhuà to be calculated to do [something] 计划做某事 the government's measures were calculated to raise more revenue 政府采取这些措施是为了增加财政收入 PHRASAL VERB calculate on transitive verb[calculate on something] 指望 zhǐwang ‹event, weather, result›to calculate on doing [something]; 指望做某事 to calculate on [somebody]/[something] doing [something]; 指望某人/某物做某事 
 calculate 
-▶verb
-1 the interest is calculated on a daily basis: compute, work out, reckon, figure; add up/together, count up, tally, total, tote, tot up.
-2 his words were calculated to wound her: intend, mean, aim, design.
-3 we had calculated on a quiet Sunday: expect, count on, anticipate, reckon on, bargain on, figure on.
+ˈkalkyəˌlāt
+
+▶verb [with object]
+1 determine (the amount or number of something) mathematically: Japanese land value was calculated at 2.5 times that of the 
+U. S 
+[with clause] : he calculated that Texas would gain four new seats in the House of Representatives. 
+• determine by reasoning, experience, or common sense; reckon or judge: I was bright enough to calculate that she had been on vacation. 
+• [no object] (calculate on) include as an essential element in one's plans: he may have calculated on maximizing pressure for policy revision.
+2 (usually be calculated to do something) intend (an action) to have a particular effect: his last words were calculated to wound her.
+3 [with clause] US dialect suppose; believe. DERIVATIVES calculative 
+-ˌlātiv 
+adjectiveORIGIN late Middle English: from late Latin calculat- ‘counted,’ from the verb calculare, from calculus ‘a small pebble (as used on an abacus).’

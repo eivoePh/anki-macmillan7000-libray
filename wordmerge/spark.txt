@@ -10,8 +10,21 @@ B.  intransitive verb «fire» 飞火星 fēi huǒxīng ; «firework, electrical
 C.  transitive verb «event, electrical failure» 引发 yǐnfā the explosion sparked a fire 爆炸引起了火灾 PHRASAL VERB spark off transitive verb 
 ① [spark off something], [spark something off] (provide stimulus for) 引起 yǐnqǐ ‹conflict, riot, controversy›
 ② [spark off somebody] (stimulate mentally) 启发 qǐfā 
-spark 
+spark
+1 
+spärk
+
 ▶noun
-1 a spark of light: flash, glint, twinkle, flicker, flare, pinprick.
-2 not a spark of truth in the story: particle, iota, jot, whit, glimmer, atom, bit, trace, vestige, ounce, shred, crumb, grain, mite, hint, touch, suggestion, whisper, scintilla; informal smidgen, tad.
-▶verb the trial sparked a furious debate: cause, give rise to, lead to, occasion, bring about, start, initiate, precipitate, prompt, trigger (off), provoke, stimulate, stir up.
+1 a small fiery particle thrown off from a fire, alight in ashes, or produced by striking together two hard surfaces such as stone or metal. 
+• a light produced by a sudden disruptive electrical discharge through the air. 
+• an electrical discharge serving to ignite the explosive mixture in an internal combustion engine. 
+• a small bright object or point: there was a spark of light.
+2 a trace of a specified quality or intense feeling: a tiny spark of anger flared within her. 
+• a sense of liveliness and excitement: there was a spark between them at their first meeting. 
+▶verb
+1 [no object] emit sparks of fire or electricity: the ignition sparks as soon as the gas is turned on. 
+• produce sparks at the point where an electric circuit is interrupted.
+2 [with object] ignite: the explosion sparked a fire. 
+• provide the stimulus for (a dramatic event or process): the severity of the plan sparked off street protests. 
+PHRASES
+spark out British informal completely unconscious: I think he would knock Bowe spark out. sparks fly an encounter becomes heated or lively: sparks always fly when you two get together.DERIVATIVES sparker noun. sparkless adjectiveORIGIN Old English spærca, spearca, of unknown origin.

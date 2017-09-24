@@ -1,2 +1,8 @@
 deficit 
-▶noun a large deficit in the federal budget: shortfall, deficiency, shortage, debt, arrears; negative amount, loss. ANTONYMS surplus.
+ˈdefəsət
+
+▶noun the amount by which something, especially a sum of money, is too small. 
+• an excess of expenditure or liabilities over income or assets in a given period: an annual operating deficit 
+the budget will remain in deficit. 
+• (in sports) the amount or score by which a team or individual is losing: came back from a 3–0 deficit. 
+• technical a deficiency or failing, especially in a neurological or psychological function: deficits in speech comprehension. ORIGIN late 18th century: via French from Latin deficit ‘it is lacking,’ from the verb deficere (see defect1) .

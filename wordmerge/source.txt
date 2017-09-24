@@ -8,7 +8,16 @@ A.  noun
 ④ (of trouble, problem) 根源 gēnyuán a or the source of … …的缘由 you're a constant source of disappointment to your parents 你总是让父母失望 
 B.  transitive verb 获得 huòdé the coffee is sourced from overseas 这咖啡是进口的 to source a supply of [something] 得到某物的供给 
 source 
-▶noun
-1 the source of the river: spring, origin, headspring, headwater(s); literary wellspring.
-2 the source of the rumor: origin, birthplace, spring, fountainhead, fount, starting point, ground zero; history, provenance, derivation, root, beginning, genesis, start, rise; author, originator, initiator, inventor.
-3 a historian uses primary and secondary sources: reference, authority, material, document, informant.
+sôrs
+
+▶noun a place, person, or thing from which something comes or can be obtained: mackerel is a good source of fish oil. 
+• a spring or fountainhead from which a river or stream issues: the source of the Nile. 
+• a person who provides information: military sources announced a reduction in strategic nuclear weapons. 
+• a book or document used to provide evidence in research. 
+• technical a body or process by which energy or a particular component enters a system. The opposite of sink2. 
+• Electronics a part of a field-effect transistor from which carriers flow into the inter-electrode channel. 
+▶verb [with object] obtain from a particular source: each type of coffee is sourced from one country. 
+• find out where (something) can be obtained: she was called upon to source a supply of carpet. 
+PHRASES
+at source chiefly British at the point of origin or issue: reduction of pollution at source. 
+• used to show that an amount is deducted from earnings or other payments before they are made: your pension contribution will be deducted at source.DERIVATIVES sourceless adjectiveORIGIN late Middle English: from Old French sours(e), past participle of sourdre ‘to rise,’ from Latin surgere .

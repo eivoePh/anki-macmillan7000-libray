@@ -6,9 +6,15 @@ adjective
 ③ attributive (near) 紧邻的 jǐnlín de ‹area›; 最近的 zuì jìn de ‹objective›an immediate neighbour 近邻 one's immediate successor/predecessor 前/后一任 his immediate family 他的直系亲属 in the immediate vicinity 近在咫尺 on my immediate left/right 就在我的左边/右边 in the immediate future 短期内 
 ④ attributive (direct) 直接的 zhíjiē de ‹knowledge, connection, effect, influence›the immediate cause of death 直接死因 
 immediate 
+iˈmēdēət
+
 ▶adjective
-1 the UN called for immediate action: instant, instantaneous, swift, prompt, fast, speedy, rapid, brisk, quick, expeditious; sudden, hurried, hasty, precipitate; informal snappy. ANTONYMS delayed, gradual.
-2 their immediate concerns: current, present, existing, actual; urgent, pressing, exigent. ANTONYMS past, future.
-3 the immediate past: recent, not long past, just gone, latest. ANTONYMS remote.
-4 our immediate neighbors: nearest, near, close, closest, next-door; adjacent, adjoining, contiguous. ANTONYMS distant.
-5 the immediate cause of death: direct, primary. ANTONYMS indirect.
+1 occurring or done at once; instant: the authorities took no immediate action 
+the book's success was immediate. 
+• relating to or existing at the present time: the immediate concern was how to avoid taxes.
+2 nearest in time, relationship, or rank: a funeral with only the immediate family in attendance. 
+• nearest or next to in space: roads in the immediate vicinity of the port. 
+• (of a relation or action) without an intervening medium or agency; direct: coronary thrombosis was the immediate cause of death.
+3 Philosophy (of knowledge or reaction) gained or shown without reasoning; intuitive. DERIVATIVES immediateness 
+iˈmēdēətnəs 
+nounORIGIN late Middle English (in the sense ‘nearest in space or order’): from Old French immediat, or from late Latin immediatus, from in- ‘not’ + mediatus ‘intervening,’ past participle of mediare (see mediate) .

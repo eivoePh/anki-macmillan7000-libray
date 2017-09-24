@@ -2,5 +2,8 @@ semantic
 BrE sɪˈmantɪk, AmE səˈmæn(t)ɪk 
 adjective 语义的 yǔyì de ‹analysis, difference›; 语义学的 yǔyìxué de ‹evaluation›
 semantic 
-BrE sɪˈmantɪk, AmE səˈmæn(t)ɪk 
-adjective 语义的 yǔyì de ‹analysis, difference›; 语义学的 yǔyìxué de ‹evaluation›
+səˈman(t)ik
+
+▶adjective relating to meaning in language or logic. DERIVATIVES semantically 
+səˈman(t)ək(ə)lē 
+adverbORIGIN mid 17th century: from French sémantique, from Greek sēmantikos ‘significant,’ from sēmainein ‘signify,’ from sēma ‘sign.’

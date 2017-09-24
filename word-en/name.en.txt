@@ -1,11 +1,27 @@
 name 
+nām
+
 ▶noun
-1 her name's Emma: designation, honorific, title, tag, epithet, label; informal moniker, handle; formal denomination, appellation.
-2 the top names in the fashion industry: celebrity, star, superstar, VIP, leading light, big name, luminary; expert, authority; informal celeb, somebody, megastar, big shot, bigwig, big gun, great, giant.
-3 the good name of the firm: reputation, character, repute, standing, stature, esteem, prestige, cachet, kudos; renown, popularity, notability, distinction.
-▶verb
-1 they named the baby Phoebe: call, give a name to, dub; label, style, term, title, entitle; baptize, christen; formal denominate.
-2 he named the woman in the photograph: identify, specify.
-3 he has named his successor: choose, select, pick, decide on, nominate, designate.
-WORD LINKS
-name onomastic relating to namesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 a word or set of words by which a person, animal, place, or thing is known, addressed, or referred to: my name is Parsons, John Parsons 
+Köln is the German name for Cologne.
+2 a famous person: as usual, the big race will lure the top names. 
+• [in singular] a reputation, especially a good one: he set up a school that gained a name for excellence. 
+▶verb [with object]
+1 give a name to: hundreds of diseases had not yet been isolated or named 
+[with object and complement] : she named the child Edward. 
+• identify by name; give the correct name for: the dead man has been named as John Mackintosh. 
+• give a particular title or epithet to: she was named “Artist of the Decade.” 
+• mention or cite by name: the sea is as crystal clear as any spot in the Caribbean you might care to name. 
+• appoint (someone) to a particular position or task: he was named to head a joint UN–OAS diplomatic effort.
+2 specify (an amount, time, or place) as something desired, suggested, or decided on: he showed them the picture and named a price. 
+▶adjective [attributive] (of a person or commercial product) having a name that is widely known: countless specialized name brands geared to niche markets. 
+PHRASES
+by name using the name of someone or something: ask for the street by name. by the name of called: a woman by the name of Smith. call someone names insult someone verbally. give one's name to invent, discover, found, or be closely associated with something that then becomes known by one's name: Lou Gehrig gave his name to the disease that claimed his life. something has someone's name on it a person is destined or particularly suited to receive or experience a specified thing: he feared the next bullet would have his name on it. have to one's name [often with negative] have in one's possession: I had a child on the way and hardly a penny to my name. in all but name existing in a particular state but not formally recognized as such: these new punks are hippies in all but name. in someone's name
+1 formally registered as belonging to or reserved for someone: the house was in her name.
+2 on behalf of someone: he began to question what had been done in his name. in the name of bearing or using the name of a specified person or organization: a driver's license in the name of William Sanders. 
+• for the sake of: he withdrew his candidacy in the name of party unity. 
+• by the authority of: crimes committed in the name of religion. 
+• (in the name of Christ/God/heaven, etc.) used for emphasis: what in the name of God do you think you're doing? in name only by description but not in reality: a college in name only. make a name for oneself become well known: by the time he was thirty-five, he had made a name for himself as a contractor. name the day arrange a date for a specific occasion, especially a wedding. one's name is mud see mud. name names mention specific names, especially of people involved in something wrong or illegal: if you're convinced my staff is part of this operation, then name names. the name of the game informal the main purpose or most important aspect of a situation: the name of the game is short-term gain. put down (or enter) one's (or someone's) name apply to enter an educational institution, course, competition, etc.: I put my name down for the course. put a name to remember or report what someone or something is called: viewers were asked if they could put a name to the voice of the kidnapper. take someone's name in vain see vain. to name (but) a few giving only these as examples, even though more could be cited: the ingredients used are drawn from nature—avocado, lemongrass, and chamomile to name a few. what's in a name? names are arbitrary labels: What's in a name? If you know her by Elizabeth or Lizzie, she's still the same person. you name it informal whatever you can think of (used to express the extent or variety of something): easy-to-assemble kits of trains, cars, trucks, ships … you name it.PHRASAL VERBS name someone/something after (also for) call someone or something by the same name as: Nathaniel was named after his maternal grandfather 
+Ricksburg, Idaho, named for one Thomas Ricks.DERIVATIVES nameable 
+ˈnāməb(ə)l 
+adjective. namer nounORIGIN Old Englishnama, noma (noun), (ge)namian (verb), of Germanic origin; related to Dutch naam and German Name, from a root shared by Latin nomen and Greek onoma .

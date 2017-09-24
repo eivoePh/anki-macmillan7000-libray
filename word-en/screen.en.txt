@@ -1,15 +1,35 @@
 screen 
+skrēn
+
 ▶noun
-1 he dressed hurriedly behind the screen: partition, (room) divider.
-2 a computer with a 15-inch screen: display, monitor, flat screen, video display terminal, VDT, cathode ray tube, CR
-T. 
-3 the screen keeps out mosquitoes: mesh, net, netting.
-4 the hedge acts as a screen against the wind: buffer, protection, shield, shelter, guard, windbreak.
-5 sift the dirt through a screen: sieve, riddle, strainer, colander, filter.
-▶verb
-1 the end of the hall had been screened off: partition, divide, separate, curtain.
-2 the cottage was screened by the trees: conceal, hide, veil; shield, shelter, shade, protect, guard, safeguard.
-3 the prospective candidates will have to be screened: vet, check, check up on, investigate; informal check out.
-4 all donated blood is screened for the virus: check, test, examine, investigate.
-5 coal used to be screened by hand: sieve, riddle, sift, strain, filter, winnow.
-6 the program is screened on Thursday evenings: show, broadcast, transmit, air, televise, telecast, put on the air.
+1 a fixed or movable upright partition used to divide a room, to give shelter from drafts, heat, or light, or to provide concealment or privacy. 
+• a thing providing concealment or protection: his jeep was discreetly parked behind a screen of trees 
+figurative : the article is using science as a screen for unexamined prejudice. 
+• Military a detachment of troops or ships detailed to cover the movements of the main body. 
+• [often with modifier] Architecture a partition of carved wood or stone separating the nave of a church from the chancel, choir, or sanctuary. See also rood screen. 
+• a frame with fine wire netting used in a window or doorway to keep out mosquitoes and other flying insects: [as modifier] : a screen door. 
+• a part of an electrical or other instrument that protects it or prevents it from causing electromagnetic interference. 
+• Electronics (also screen grid) a grid placed between the control grid and the anode of a valve to reduce the capacitance between these electrodes.
+2 a flat panel or area on an electronic device such as a television, computer, or smartphone, on which images and data are displayed: a television screen. 
+• a blank surface on which a movie or photographic image is projected: the world's largest movie screen. 
+• movies or television as a medium, genre, or industry: she's a star of the stage as well as the screen 
+he is interviewed on screen. 
+• the data or images displayed on a computer screen: pressing the F1 key at any time will display a help screen. 
+• Photography a flat piece of ground glass on which the image formed by a camera lens is focused.
+3 Printing a transparent, finely ruled plate or film used in halftone reproduction.
+4 a large sieve or riddle, especially one for sorting substances such as grain or coal into different sizes. 
+▶verb [with object]
+1 conceal, protect, or shelter (someone or something) with a screen or something forming a screen: her hair swung across to screen her face 
+a high hedge screened all of the front from passersby. 
+• (screen something off) separate something from something else with or as if with a screen: an area had been screened off as a waiting room. 
+• protect (someone) from something dangerous or unpleasant: in my country, a man of my rank would be screened completely from any risk of attack. 
+• prevent from causing or protect from electromagnetic interference: ensure that your microphone leads are properly screened from hum pickup.
+2 show (a movie or video) or broadcast (a television program): the show is to be screened by HBO later this year.
+3 test (a person or substance) for the presence or absence of a disease or contaminant: outpatients were screened for cervical cancer. 
+• check on or investigate (someone), typically to ascertain whether they are suitable for or can be trusted in a particular situation or job: all prospective presidential candidates would have to be screened by the committee. 
+• evaluate or analyze (something) for its suitability for a particular purpose or application: only one percent of rainforest plants have been screened for medical use. 
+• (screen someone/something out) exclude someone or something after evaluation or investigation: anti-spam software can screen out large amounts of unwanted email.
+4 pass (a substance such as grain or coal) through a large sieve or screen, especially so as to sort it into different sizes.
+5 Printing project (a photograph or other image) through a transparent ruled plate so as to be able to reproduce it as a halftone. DERIVATIVES screenable adjective. screener noun. screenful 
+-ˌfo͝ol 
+nounORIGIN Middle English: shortening of Old Northern French escren, of Germanic origin.

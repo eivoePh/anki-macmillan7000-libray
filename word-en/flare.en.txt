@@ -1,13 +1,25 @@
 flare 
+fler
+
 ▶noun
-1 the flare of the match: blaze, flash, dazzle, burst, flicker.
-2 a flare set off by the crew: distress signal, rocket, beacon, light, signal.
-3 a flare of anger: burst, rush, eruption, explosion, spasm, access.
-▶verb
-1 the wick flared: blaze, flash, flare up, flame, burn; glow, flicker.
-2 her nostrils flared: spread, broaden, widen; dilate.
-PHRASES
-flare up
-1 the wooden houses flared up like matchsticks: burn, blaze, go up in flames.
-2 his injury has flared up again: recur, reoccur, reappear; break out, start suddenly, erupt.
-3 I flared up at him: lose one's temper, become enraged, fly into a temper, go berserk; informal blow one's top, fly off the handle, go mad, go bananas, hit the roof, go off the deep end, flip out, explode, have a fit, go crackers, flip one's wig, blow one's stack, go ballistic, go postal, have a conniption fit.
+1 a sudden brief burst of bright flame or light: the flare of the match lit up his face. 
+• a device producing a bright flame, used especially as a signal or marker: a helicopter spotted a flare set off by the crew 
+[as modifier] : a flare gun. 
+• [in singular] a sudden burst of intense emotion: she felt a flare of anger within her. 
+• Astronomy a sudden explosion in the chromosphere and corona of the sun or another star, resulting in an intense burst of radiation. See also solar flare. 
+• Photography extraneous illumination on film caused by internal reflection in the camera.
+2 [in singular] a gradual widening, especially of a skirt or pants: as you knit, add a flare or curve a hem. 
+• an upward and outward curve of a vessel's bow, designed to throw the water outward when under way. 
+▶verb [no object]
+1 burn with a sudden intensity: the blaze across the water flared 
+the bonfire crackled and flared up. 
+• (of a light or a person's eyes) glow with a sudden intensity: her eyes flared at the stinging insult. 
+• (of an emotion) suddenly become manifest in a person or their expression: alarm flared in her eyes 
+tempers flared. 
+• (flare up) (of an illness or chronic medical complaint) recur unexpectedly and cause further discomfort: Tracy's pain has flared up again, this time almost beyond enduring. 
+• (especially of an argument, conflict, or trouble) suddenly become more violent or intense: a recurrent border dispute flared up again. 
+• (flare up) (of a person) suddenly become angry: she flared up, shouting at Jeff.
+2 (often as adjective flared) gradually become wider at one end: a flared skirt 
+the dress flared out into a huge train. 
+• (of a person's nostrils) dilate: his head lifted, his nostrils flaring. 
+• [with object] (of a person) cause (the nostrils) to dilate. ORIGIN mid 16th century (in the sense ‘spread out (one's hair)’): of unknown origin. Current senses date from the 17th cent.

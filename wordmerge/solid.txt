@@ -29,13 +29,30 @@ C.  solids noun plural
 ① (foodstuffs) 固体食物 gùtǐ shíwù to start on/take solids 开始吃/吃固体食物 
 ② (particles) [液体中的] 固形物 gùxíngwù blood/non-fat solids 血液中的/非脂乳固形物 
 solid 
-▶adjective
-1 the ice cream was solid: hard, rock-hard, rigid, firm, solidified, set, frozen, concrete. ANTONYMS liquid, gaseous.
-2 solid gold: pure, 24-carat, unalloyed, unadulterated, genuine. ANTONYMS alloyed, plated, hollow.
-3 a solid line: continuous, uninterrupted, unbroken, nonstop, undivided. ANTONYMS broken.
-4 solid houses: well built, sound, substantial, strong, sturdy, durable. ANTONYMS flimsy.
-5 a solid argument: well founded, valid, sound, reasonable, logical, authoritative, convincing, cogent, plausible, credible, reliable. ANTONYMS untenable, incoherent.
-6 a solid friendship: dependable, reliable, firm, unshakable, trustworthy, stable, steadfast, staunch, constant, rock-steady. ANTONYMS unreliable.
-7 solid citizens: sensible, dependable, trustworthy, decent, law-abiding, upright, upstanding, worthy.
-8 the company is very solid: financially sound, secure, creditworthy, profit-making, solvent, in credit, in the black.
-9 solid support from their colleagues: unanimous, united, consistent, undivided, wholehearted. ANTONYMS divided.
+ˈsäləd
+
+▶adjective (solider, solidest)
+1 firm and stable in shape; not liquid or fluid: the stream was frozen solid 
+solid fuels. 
+• strongly built or made of strong materials; not flimsy or slender: a solid door with good, secure locks. 
+• having three dimensions: a solid figure with six plane faces. 
+• [attributive] concerned with objects having three dimensions: solid geometry.
+2 not hollow or containing spaces or gaps: a sculpture made out of solid rock 
+a solid mass of flowers 
+the stores were packed solid. 
+• consisting of the same substance throughout: solid silver cutlery. 
+• (of typesetting) without extra space between the lines of characters. 
+• (of a line or surface) without spaces; unbroken: the solid outline encloses the area within which we measured. 
+• (of time) uninterrupted; continuous: a solid day of meetings 
+[postpositive] : it poured for two hours solid.
+3 dependable; reliable: the defense is solid 
+there is solid evidence of lower inflation. 
+• sound but without any special qualities or flair: the rest of the acting is solid. 
+• unanimous or undivided: they received solid support from their teammates. 
+• US financially sound: the company is very solid and will come through the current recession. 
+• [predicative] (solid with) US informal on good terms with: he thought he could put himself in solid with you by criticizing her. 
+▶noun a substance or object that is solid rather than liquid or fluid. 
+• (solids) food that is not liquid: she drinks only milk and rarely eats solids. 
+• Geometry a body or geometric figure having three dimensions. 
+PHRASES
+do someone a solid US informal do something for someone as an act of kindness; do someone a favor: they're a business, not a family friend or a buddy who will do you a solid for being a good customer.DERIVATIVES solidness nounORIGIN late Middle English: from Latin solidus; related to salvus ‘safe’ and sollus ‘entire.’

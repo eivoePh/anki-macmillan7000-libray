@@ -1,5 +1,9 @@
 collector 
-BrE kəˈlɛktə, AmE kəˈlɛktər 
-noun 
-① (hobbyist) 收藏者 shōucángzhě a stamp collector 集邮者 
-② (of taxes, rates) 征收者 zhēngshōuzhě ; (of rent, debts, funds) 收款者 shōukuǎnzhě a tax/ticket/rent collector 收税员/查票员/收租人 
+kəˈlektər
+
+▶noun
+1 a person who collects things of a specified type, professionally or as a hobby: an art collector.
+2 an official who is responsible for collecting money: a tax collector. 
+• an official who collects tickets from bus or train passengers.
+3 (in some South Asian countries) the chief administrative official of a district.
+4 Electronics the region in a bipolar transistor that absorbs charge carriers.

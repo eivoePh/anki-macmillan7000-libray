@@ -1,12 +1,19 @@
 effect 
+əˈfekt
+
 ▶noun
-1 the effect of these changes: result, consequence, upshot, outcome, repercussions, ramifications; end result, conclusion, culmination, corollary, concomitant, aftermath; fruit(s), product, by-product, payoff; Medicine sequela. ANTONYMS cause.
-2 the effect of the drug: impact, action, effectiveness, influence; power, potency, strength; success; formal efficacy.
-3 the new rules come into effect tomorrow: force, operation, enforcement, implementation, effectiveness; validity, lawfulness, legality, legitimacy.
-4 some words to that effect: sense, meaning, theme, drift, import, intent, intention, tenor, significance, message; gist, essence, spirit.
-5 (effects) the dead man's effects: belongings, possessions, goods, worldly goods, chattels, goods and chattels; property, paraphernalia; informal gear, tackle, things, stuff.
-▶verb they effected many changes: achieve, accomplish, carry out, realize, manage, bring off, execute, conduct, engineer, perform, do, perpetrate, discharge, complete, consummate; cause, bring about, create, produce, make; provoke, occasion, generate, engender, actuate, initiate; formal effectuate.
+1 a change that is a result or consequence of an action or other cause: the lethal effects of hard drugs 
+politicians really do have some effect on the lives of ordinary people. 
+• the state of being or becoming operative. 
+• the extent to which something succeeds or is operative: wind power can be used to great effect. 
+• [with modifier] Physics a physical phenomenon, typically named after its discoverer: the Doppler effect. 
+• an impression produced in the mind of a person: gentle music can have a soothing effect.
+2 (effects) the lighting, sound, or scenery used in a play, movie, or broadcast: the production relied too much on spectacular effects.
+3 (effects) personal belongings: the insurance covers personal effects. 
+▶verb [with object] cause (something) to happen; bring about: nature always effected a cure 
+budget cuts that were quietly effected over four years. 
 PHRASES
-in effect the battle had, in effect, already been won: really, in reality, in truth, in fact, in actual fact, effectively, essentially, in essence, practically, to all intents and purposes, all but, as good as, more or less, almost, nearly, just about; informal pretty much; literary well-nigh, nigh on. take effect
-1 these measures will take effect in May: come into force, come into operation, become operative, begin, become valid, become law, apply, be applied.
-2 the drug started to take effect: work, act, be effective, produce results. CHOOSE THE RIGHT WORD See affect1 .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+come into effect become operative; start to apply: similar legislation came into effect in Wales on the same date 
+the Kyoto Protocol officially came into effect last week. for effect in order to impress people: I suspect he's controversial for effect. in effect in operation; in force: a moratorium in effect since 1985 has been lifted. 
+• used to convey that something is the case in practice even if it is not formally acknowledged to be so: additional payments that are in effect an entrance tax. put (or bring or carry) something into effect cause something to apply or become operative: they succeeded in putting their strategies into effect. take effect become operative; start to apply: the ban is to take effect in six months. to the effect that used to refer to the general sense of something written or spoken: some comments to the effect that my essay was a little light on analysis. to that effect having that result, purpose, or meaning: she thought it a foolish rule and put a notice to that effect in a newspaper.ORIGIN late Middle English: from Old French, or from Latin effectus, from efficere ‘accomplish,’ from ex- ‘out, thoroughly’ + facere ‘do, make.’ Sense
+3 of the noun,‘personal belongings,’ arose from the obsolete sense ‘something acquired on completion of an action.’ usage: For the differences in use between effect and affect, see usage at affect1 .

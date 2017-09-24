@@ -1,5 +1,10 @@
 merge 
-▶verb
-1 the company merged with a firm based in Peoria: join (together), join forces, amalgamate, unite, affiliate, team up, link (up). ANTONYMS separate.
-2 the two organizations were merged: amalgamate, bring together, join, consolidate, conflate, unite, unify, combine, incorporate, integrate, link (up), knit, yoke. ANTONYMS separate.
-3 the two colors merged: mingle, blend, fuse, mix, intermix, intermingle, coalesce; literary commingle.
+mərj
+
+▶verb combine or cause to combine to form a single entity: [no object] : the utility companies are cutting costs and merging with other companies 
+[with object] : the company plans to merge its 
+U. 
+S.  oil production operations with those of a London-based organization 
+the files were merged using the patient identification code as the common variable. 
+• [no object] blend or cause to blend gradually into something else so as to become indistinguishable from it: he crouched low and endeavored to merge into the darkness of the forest 
+[with object] : he placed a sheet of paper over the fresh paint to merge the colors. ORIGIN mid 17th century (in the sense ‘immerse (oneself)’): from Latin mergere ‘to dip, plunge.’ The use in legal contexts is from Anglo-Norman French merger .

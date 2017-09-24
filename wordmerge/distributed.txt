@@ -6,7 +6,13 @@ transitive verb
 ③ (spread out) 分散 fēnsàn ‹load, weight›the cargo should be evenly distributed 货物应该均匀放置 
 ④ (disperse) to be distributed; «flora, fauna, mineral deposits» 分布 fēnbù fossil remains are distributed throughout the upper strata 化石遍布上部地层 
 distribute 
-▶verb
-1 the proceeds were distributed among his creditors: give out, deal out, dole out, dish out, hand out/around; allocate, allot, apportion, share out, divide out/up, parcel out. ANTONYMS collect.
-2 the newsletter is distributed free: circulate, issue, hand out, deliver.
-3 more than 130 different species are distributed worldwide: disperse, scatter, spread.
+dəˈstribyo͞ot
+
+▶verb [with object]
+1 give shares of (something); deal out: information leaflets are being distributed to hotels and guest houses. 
+• supply (goods) to stores and other businesses that sell to consumers: the journal is distributed worldwide. 
+• (be distributed) occur throughout an area: the birds are mainly distributed in marshes and river valleys. 
+• Printing separate (metal type that has been set up) and return the characters to their separate compartments in a type case.
+2 Logic use (a term) to include every individual of the class to which it refers: the middle term must be distributed, at least once, in the premises. DERIVATIVES distributable 
+dəˈstribyədəb(ə)l 
+adjectiveORIGIN late Middle English: from Latin distribut- ‘divided up,’ from the verb distribuere, from dis- ‘apart’ + tribuere ‘assign.’

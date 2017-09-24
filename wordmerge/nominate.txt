@@ -5,6 +5,14 @@ transitive verb
 ② (appoint) 任命 rènmìng ‹person›to nominate [somebody] as [something]; 任命某人就任某职位 to nominate [somebody] (as) chairman/to a position 任命某人为主席/就任某职位 to nominate [somebody] to do [something]; 指派某人做某事 
 ③ (specify) 指定 zhǐdìng to nominate [something] as 指定…为 ‹place, time›
 nominate 
-▶verb
-1 you may nominate a candidate: propose, recommend, suggest, name, put forward, present, submit.
-2 he nominated his assistant: appoint, select, choose, elect, commission, designate, name, delegate.
+▶verb 
+ˈnäməˌnāt 
+[with object]
+1 propose or formally enter as a candidate for election or for an honor or award: the film was nominated for several Oscars. 
+• appoint to a job or position: the company nominated her as a delegate to the convention.
+2 specify (something) formally, typically the date or place for an event: a day was nominated for the exchange of contracts. 
+▶adjective 
+ˈnämənət 
+Zoology & Botany denoting a race or subspecies that is given the same epithet as the species to which it belongs, for example, Homo sapiens sapiens. DERIVATIVES nominator 
+ˈnäməˌnādər 
+nounORIGIN late Middle English (as an adjective in the sense ‘named’): from Latin nominat- ‘named,’ from the verb nominare, from nomen, nomin- ‘a name.’ The verb senses are first found in English in the 16th century.

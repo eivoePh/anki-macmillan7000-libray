@@ -1,9 +1,27 @@
-angle 
+angle
+1 
+ˈaNGɡəl
+
 ▶noun
-1 the wall is sloping at an angle of 33°: gradient, slant, inclination.
-2 the angle of the roof: corner, intersection, point, apex.
-3 consider the problem from a different angle: perspective, point of view, viewpoint, standpoint, position, aspect, slant, direction.
-▶verb
-1 Anna angled her camera toward the tree: tilt, slant, direct, turn.
-2 angle your answer so that it is relevant: present, slant, orient, twist, bias.
-3 he was angling for an invitation: try to get, seek to obtain, fish for, hope for, be after.
+1 the space (usually measured in degrees) between two intersecting lines or surfaces at or close to the point where they meet. 
+• a corner, especially an external projection or an internal recess of a part of a building or other structure: a skylight in the angle of the roof. 
+• slope; a measure of the inclination of two lines or surfaces with respect to each other, equal to the amount that one would have to be turned in order to point in the same direction as the other: sloping at an angle of 33° to the horizontal 
+he trudged back, the angle of his shoulders spelling dejection. 
+• a position from which something is viewed or along which it travels or acts, often as measured by its inclination from an implicit horizontal or vertical baseline: from this angle, Maggie could not see Naomi's face 
+camera angles.
+2 a particular way of approaching or considering an issue or problem: discussing the problems from every conceivable angle 
+he always had a fresh angle on life. 
+• one part of a larger subject, event, or problem: a black prosecutor who downplayed the racial angle 
+his chosen angle was the language of the Old Testament. 
+• a bias or point of view: Zimmer saw the world from an angle that few could understand.
+3 [often with modifier] Astrology each of the four mundane houses (the first, fourth, seventh, and tenth of the twelve divisions of the heavens) that extend counterclockwise from the cardinal points of the compass.
+4 angle iron or a similar construction material made of another metal. 
+▶verb [with object] direct or incline at an angle: Anna angled her camera toward the tree 
+he angled his chair so that he could watch her. 
+• [no object] move or be inclined at an angle: the cab angled across two lanes and skidded to a stop 
+the sun angled into the dining room. 
+• present (information) to reflect a particular view or have a particular focus. 
+PHRASES
+at an angle in a direction or at an inclination markedly different from parallel, vertical, or horizontal with respect to an implicit baseline: she wore her beret at an angle 
+an armchair was drawn up at an angle to his desk. from all angles from every direction or point of view: they come shooting at us from all angles 
+looking at the problem from all angles.ORIGIN late Middle English: from Old French, from Latin angulus ‘corner.’

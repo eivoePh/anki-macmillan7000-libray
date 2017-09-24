@@ -1,13 +1,22 @@
 pile
 1 
-▶noun
-1 a pile of stones: heap, stack, mound, pyramid, mass, quantity; collection, accumulation, assemblage, store, stockpile, hoard.
-2 informal I've got a pile of work to do: great deal, lot, large quantity/amount, mountain; abundance, cornucopia; informal load, heap, buttload, mass, slew, ocean, stack, ton.
-3 informal he'd made his pile in the fur trade: fortune, millions, billions; informal small fortune, bundle, wad.
+pīl
+
+▶noun a heap of things laid or lying one on top of another: he placed the books in a neat pile. 
+• informal a large amount of something: the growing pile of work. 
+• informal a lot of money: he is admired for having made a pile for himself. 
+• a large imposing building or group of buildings: a Victorian Gothic pile. 
+• a series of plates of dissimilar metals laid one on another alternately to produce an electric current. 
+• dated term for nuclear reactor. 
+• archaic a funeral pyre. 
 ▶verb
-1 she piled up the plates: heap (up), stack (up).
-2 he piled his plate with fried eggs: load, heap, fill (up), lade, stack, charge, stock.
-3 our debts were piling up: increase, grow, mount up, escalate, soar, spiral, leap up, shoot up, rocket, climb, accumulate, accrue, build up, multiply.
-4 we piled into the car: crowd, climb, pack, squeeze, push, shove.
+1 [with object] place (things) one on top of another: she piled all the groceries on the counter. 
+• (be piled with) be stacked or loaded with: his in-box was piled high with papers. 
+• (pile up) [no object] increase in quantity: the work has piled up. 
+• (pile something up) cause to increase in quantity: the debts he piled up. 
+• (pile something on) informal intensify or exaggerate something for effect: you can pile on the guilt, but my heart has turned to stone.
+2 [no object] (pile in/out) (of a group of people) get into or out of a vehicle in a disorganized manner: we all piled in and headed off to our mysterious destination 
+my students piled out of three cars. 
+• (pile into) (of a vehicle) crash into: 60 cars piled into each other on I-95. 
 PHRASES
-pile it on informal if you pile it on like that, no one will believe you: exaggerate, overstate the case, make a mountain out of a molehill, overdo it, overplay it, overdramatize; informal lay it on thick.
+make one's pile informal make a lot of money. pile arms see stack arms at stack. pile it on informal exaggerate the seriousness of a situation or of someone's behavior to increase guilt or distress.ORIGIN late Middle English: from Old French, from Latin pila ‘pillar, pier.’

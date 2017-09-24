@@ -1,43 +1,78 @@
-hold 
-▶verb
-1 she held a suitcase: clasp, clutch, grasp, grip, clench, cling to, hold on to; carry, bear. ANTONYMS release, let go of.
-2 I wanted to hold her: embrace, hug, clasp, cradle, enfold, squeeze, fold in one's arms, cling to.
-3 do you hold a degree? possess, have, own, bear, carry, have to one's name.
-4 the branch held my weight: support, bear, carry, take, keep up, sustain, prop up, shore up.
-5 the police were holding him: detain, hold in custody, imprison, lock up, put behind bars, put in prison, put in jail, incarcerate, keep under lock and key, confine, constrain, intern, impound; informal put away. ANTONYMS release, let go.
-6 try to hold the audience's attention: maintain, keep, occupy, engross, absorb, interest, captivate, fascinate, enthrall, rivet, mesmerize, transfix; engage, catch, capture, arrest. ANTONYMS lose.
-7 he held a senior post: occupy, have, fill; informal hold down.
-8 the tank holds 250 gallons: take, contain, accommodate, fit; have a capacity of, have room for.
-9 the court held that there was no evidence: maintain, consider, take the view, believe, think, feel, deem, be of the opinion; judge, rule, decide; informal reckon; formal opine, esteem.
-10 let's hope the good weather holds: persist, continue, carry on, go on, hold out, keep up, last, endure, stay, remain. ANTONYMS end.
-11 the offer still holds: be available, be valid, hold good, stand, apply, remain, exist, be the case, be in force, be in effect.
-12 they held a meeting: convene, call, summon; conduct, have, organize, run; formal convoke. ANTONYMS disband.
-13 hold your fire: stop, halt, restrain, check, cease, discontinue; informal break off, give up; hold back, suppress, repress, refrain from using, stifle, withhold. ANTONYMS resume.
+hold
+1 
+hōld
+
+▶verb (past and past participle held 
+held
+)
+1 [with object] grasp, carry, or support with one's arms or hands: she was holding a brown leather suitcase 
+[no object] : he held onto the back of a chair. 
+• keep or sustain in a specified position: I held the door open for him. 
+• embrace (someone): Mark pulled her into his arms and held her close. 
+• be able to bear (the weight of a person or thing): I reached up to the nearest branch that seemed likely to hold my weight. 
+• (of a vehicle) maintain close contact with (the road), especially when driven at speed: the car holds the corners very well. 
+• (of a ship or an aircraft) continue to follow (a particular course): the ship is holding a southeasterly course. 
+• [no object] archaic keep going in a particular direction: he held on his way, close behind his friend.
+2 [with object] keep or detain (someone): the police were holding him on a murder charge 
+[with object and complement] : she was held prisoner for two days. 
+• keep possession of (something), typically in the face of a challenge or attack: the rebels held the town for many weeks 
+[no object] : White managed to hold onto his lead. 
+• keep (someone's interest or attention). 
+• (of a singer or musician) sustain (a note). 
+• stay or cause to stay at a certain value or level: [no object] : the savings rate held at 5% 
+[with object] : he is determined to hold down inflation.
+3 [no object] remain secure, intact, or in position without breaking or giving way: the boat's anchor would not hold. 
+• (of a favorable condition or situation) continue without changing: let's hope her luck holds. 
+• be or remain valid or available: I'll have that coffee now, if the offer still holds. 
+• (of an argument or theory) be logical, consistent, or convincing: their views still seem to hold up extremely well. 
+• (hold to) refuse to abandon or change (a principle or opinion). 
+• [with object] (hold someone to) cause someone to adhere to (a commitment).
+4 [with object] contain or be capable of containing (a specified amount): the tank held twenty-four gallons. 
+• be able to drink (a reasonable amount of alcohol) without becoming drunk or suffering any ill effects: I can hold my liquor as well as anyone. 
+• have or be characterized by: I don't know what the future holds.
+5 [with object] have in one's possession: the managing director still holds fifty shares in the company. 
+• [no object] North American informal be in possession of illegal drugs: he was holding, and the police hauled him off to jail. 
+• have or occupy (a job or position). 
+• have or adhere to (a belief or opinion): I feel nothing but pity for someone who holds such chauvinistic views 
+[with clause] : they hold that all literature is empty of meaning. 
+• [with object and complement] consider (someone) to be responsible or liable for a particular situation: you can't hold yourself responsible for what happened. 
+• (hold someone/something in) regard someone or something with (a specified feeling): the speed limit is held in contempt by many drivers. 
+• [with clause] (of a judge or court) rule; decide: the Court of Appeals held that there was no evidence to support the judge's assessment.
+6 [with object] keep or reserve for someone: a reservation can be held for twenty-four hours. 
+• prevent from going ahead or occurring: hold your fire! 
+• maintain (a telephone connection) until the person one has telephoned is free to speak: please hold, and I'll see if he's available 
+[no object] : will you hold? 
+• North American informal refrain from adding or using (something, typically an item of food or drink): a strawberry margarita, but hold the tequila. 
+• (hold it) informal used as a way of exhorting someone to wait or to stop doing something: hold it right there, pal! 
+• [no object] archaic restrain oneself.
+7 [with object] arrange and take part in (a meeting or conversation): a meeting was held at the church. 
 ▶noun
-1 she kept a hold on my hand: grip, grasp, clasp, clutch.
-2 Tom had a hold over his father: influence, power, control, dominance, authority, command, leverage, sway, mastery, dominion.
-3 the military tightened their hold on the capital: control, grip, power, stranglehold, chokehold, dominion, authority.
+1 an act or manner of grasping something; a grip: he caught hold of her arm 
+he lost his hold and fell. 
+• a particular way of grasping or restraining someone, especially an opponent in wrestling or judo. 
+• a place where one can grip with one's hands or feet while climbing: he felt carefully with his feet for a hold and swung himself up. 
+• a way of influencing someone: he discovered that Tom had some kind of hold over his father. 
+• a degree of power or control: military forces tightened their hold on the capital.
+2 archaic a fortress. 
 PHRASES
-get hold of informal I'll try to get hold of Stevenson this evening: contact, get in touch with, communicate with, make contact with, reach, notify; phone, call, speak to, talk to. hold back
-1 if you feel like singing, don't hold back: hesitate, pause, stop oneself, restrain oneself, desist, forbear.
-2 Jane held back her tears: suppress, fight back, choke back, stifle, smother, subdue, rein in, repress, curb, control, keep a tight rein on; informal keep a lid on.
-3 don't hold anything back from me: withhold, hide, conceal, keep secret, keep hidden, keep quiet about, keep to oneself, hush up; informal sit on, keep under one's hat.
-4 you'll never make it in music if you keep letting your parents hold you back: hinder, hamper, impede, obstruct, inhibit, hobble, check, curb, block, thwart, balk, hamstring, restrain, frustrate, stand in someone's way. hold dear she holds this house dear: cherish, treasure, prize, appreciate, adore, value highly, care for/about; informal put on a pedestal. hold down
-1 they will hold down inflation: keep down, keep low, freeze, fix.
-2 informal she held down two jobs: occupy, have, do, fill.
-3 the people can be held down only so long: oppress, repress, suppress, subdue, subjugate, keep down, keep under, tyrannize, dominate. hold forth he was holding forth on the qualities of good wine: speak at length, talk at length, go on, sound off; declaim, spout, pontificate, orate, preach, sermonize; informal speechify, drone on, bloviate. hold off
-1 the rain held off: stay away, keep off, not come, delay.
-2 we held off the swarms of ants as long as we could: resist, repel, repulse, rebuff, parry, deflect, fend off, stave off, ward off, keep at bay. hold on
-1 hold on, I'll be right there: wait, wait a minute, just a moment, just a second; stay here, stay put; hold the line; informal just a sec, hang on, sit tight, hold your horses.
-2 if only they could hold on just a little longer: keep going, persevere, survive, last, continue, struggle on, carry on, go on, hold out, see it through, stay the course; informal soldier on, stick it out, hang in there. hold on to
-1 he held on to the chair: clutch, hang on to, clasp, grasp, grip, cling to.
-2 they can't hold on to their staff: retain, keep, hang on to. hold one's own See own. hold out
-1 the small band of weary soldiers held out until reinforcements arrived: persist, last, remain; persevere, continue.
-2 Celia held out her hands: extend, proffer, offer, present; outstretch, reach out, stretch out, put out. hold over the family gathering was held over until late January: postpone, put off, put back, delay, defer, suspend, shelve, put over, table, take a rain check on; informal put on ice, put on the back burner, put in cold storage, mothball. hold up
-1 the argument doesn't hold up: be convincing, be logical, hold water, bear examination, be sound.
-2 they held up the trophy: display, hold aloft, exhibit, show (off), flourish, brandish; informal flash.
-3 concrete pillars hold up the bridge: support, bear, carry, take, keep up, prop up, shore up, buttress.
-4 our flight was held up for hours: delay, detain, make late, set back, keep back, retard, slow up.
-5 a lack of cash has held up progress: obstruct, impede, hinder, hamper, inhibit, arrest, balk, thwart, curb, hamstring, frustrate, foil, interfere with, stop; informal stymie, hog-tie.
-6 two gunmen held up the bank: rob; informal stick up. hold water See water. with no holds barred you can tell us everything that happened, with no holds barred: candidly, honestly, frankly, directly, openly, bluntly; informal point-blank, without mincing one's words. QUOTE You can’t hold a man down without staying down with him.Booker 
-T.  Washington, American educator
+be left holding the bag (or baby) informal be left with an unwelcome responsibility, typically without warning.don't hold your breath see breath. get hold of grasp (someone or something) physically. 
+• grasp (something) intellectually; understand. 
+• informal obtain: if you can't get hold of ripe tomatoes, add some tomato puree. 
+• informal find or manage to contact (someone): I'll try and get hold of Mark. hold someone/something at bay see bay5. hold one's breath see breath. hold someone/something cheap archaic have a low opinion of someone or something. hold court be the center of attention amid a crowd of one's admirers. hold someone/something dear care for or value someone or something greatly: fidelity is something most of us hold dear. hold fast remain tightly secured: the door held fast, obviously locked. 
+• continue to believe in or adhere to an idea or principle: it is important that we hold fast to the policies. hold the fort take responsibility for a situation while another person is temporarily absent. hold one's ground see ground1. hold someone's hand give a person comfort, guidance, or moral support in a difficult situation. hold hands (of two or more people) clasp each other by the hand, typically as a sign of affection. hold someone/something harmless Law indemnify someone or something. hold one's horses [usually as imperative] informal wait a moment. hold the line not yield to the pressure of a difficult situation: France's central bank would hold the line. hold one's nose squeeze one's nostrils with one's fingers in order to avoid inhaling an unpleasant smell. hold one's own see own. hold one's peace see peace. hold (one's) serve (or service) (in tennis and other racket sports) win a game in which one is serving.hold the stage see stage. hold sway see sway. hold someone to bail Law bind by bail. hold one's tongue [often in imperative] informal remain silent. hold someone/something to ransom see ransom. hold true (or good) remain true or valid: his views still hold true today.hold up one's head (or hold one's head high) see head. hold water [often with negative] (of a statement, theory, or line of reasoning) appear to be valid, sound, or reasonable: this argument just does not hold water. no holds barred (in wrestling) with no restrictions on the kinds of holds that are used. 
+• used to convey that no rules or restrictions apply in a conflict or dispute: no-holds-barred military action. on hold waiting to be connected while making a telephone call. 
+• temporarily not being dealt with or pursued: he put his career on hold. take hold start to have an effect: the reforms of the late nineteenth century had taken hold. there is no holding someone back used to convey that someone is particularly determined or cannot be prevented from doing something: there's no holding you back these days.PHRASAL VERBS hold something against allow past actions or circumstances to have a negative influence on one's present attitude toward (someone): he knew that if he failed her, she would hold it against him forever. hold back hesitate to act or speak: he held back, remembering the mistake he had made before. hold someone/something back prevent or restrict the advance, progress, or development of someone or something: Jane struggled to hold back her laughter. 
+• (hold something back) refuse or be unwilling to make something known: you're not holding anything back from me, are you? hold someone down keep someone under strict control or severely restrict their freedom: the people are held down by a repressive military regime. hold something down informal succeed in keeping a job or position for a period of time. hold forth talk lengthily, assertively, or tediously about a subject: he was holding forth on the merits of the band's debut album. hold off (of bad weather) fail to occur. 
+• delay or postpone an action or decision. hold someone/something off resist an attacker or challenge: he held off a late challenge by Vose to win by thirteen seconds. hold on
+1 [often in imperative] wait; stop: hold on a minute, I'll be right back!
+2 endure or keep going in difficult circumstances: if only they could hold on a little longer. hold on to keep: the industry is trying to hold on to experienced staff. hold out resist or survive in dangerous or difficult circumstances: Russian troops held out against constant attacks. 
+• continue to be sufficient: we can stay here for as long as our supplies hold out. hold out for continue to demand (a particular thing), refusing to accept what has been offered: he is holding out for a guaranteed
+7 percent raise. hold out on informal refuse to give something, typically information, to (someone). hold something out offer a chance or hope: a new drug may hold out hope for patients with lung cancer. hold something over
+1 postpone something.
+2 use a fact or piece of information to threaten or intimidate (someone). hold together (or hold something together) remain or cause to remain united: if your party holds together, you will probably win.hold up remain strong or vigorous: the dollar held up well against the yen. hold someone/something up
+1 support and prevent something from falling: concrete pillars hold up the elevated section of the railroad.
+2 display something by holding it above one's waist or head: he held up the book so she could see the cover. 
+• present or expose someone or something as an example or for particular treatment: they were held up to public ridicule.
+3 delay or block the movement or progress of someone or something: our return flight was held up for seven hours.
+4 rob someone or something using the threat of force or violence: a masked gunman held up the post office.
+5 Bridge refrain from playing a winning card for tactical reasons. hold with [with negative] informal approve of: I don't hold with fighting or violence.DERIVATIVES holdable adjectiveORIGIN Old English haldan, healdan, of Germanic origin; related to Dutch houden and German halten; the noun is partly from Old Norse hald ‘hold, support, custody.’

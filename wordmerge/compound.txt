@@ -15,13 +15,27 @@ transitive verb
 ① figurative (exacerbate) 使…加剧 shǐ…jiājù ‹difficulty, anxiety›to compound misfortune with error 出错而使不幸加剧 
 ② to be compounded of or from [something] formal (be formed) «whole, policy, theory, language» 由某物构成 yóu mǒu wù gòuchéng his character was compounded of wisdom and generosity 他的性格兼具智慧和大度 
 ③ Chemistry, Pharmacology (mix) 混合 hùnhé ‹ingredient(s), chemicals›to compound [something] with [something]; 将某物与某物混合 
-compound 
-▶noun
-1 a compound of two elements: amalgam, amalgamation, combination, composite, blend, mixture, mix, fusion, synthesis; alloy.
-2 they were contained in the compound: enclosure, pound, coop; estate, cloister.
-▶adjective a compound substance: composite, complex; blended, fused, combined. ANTONYMS simple.
-▶verb
-1 soap compounded with disinfectant: mix, combine, blend, amalgamate, fuse, synthesize.
-2 his illness compounds their problems: aggravate, exacerbate, worsen, add to, augment, intensify, heighten, increase, magnify; complicate. ANTONYMS alleviate.
-PHRASES
-compounded of a smell compounded of dust and mold: composed of, made up of, formed from.
+compound
+1 
+▶noun 
+ˈkämˌpound 
+a thing that is composed of two or more separate elements; a mixture: the air smelled like a compound of diesel and gasoline fumes. 
+• (also chemical compound) a substance formed from two or more elements chemically united in fixed proportions: a compound of hydrogen and oxygen. 
+• a word made up of two or more existing words, such as steamship. 
+▶adjective 
+ˈkämˌpound kəmˈpound 
+made up or consisting of several parts or elements, in particular: 
+• (of a word) made up of two or more existing words or elements: a compound noun. 
+• (of interest) payable on both capital and the accumulated interest: compound interest. Compare with simple. 
+• Biology (especially of a leaf, flower, or eye) consisting of two or more simple parts or individuals in combination. 
+▶verb 
+kəmˈpound ˈkämˌpound 
+[with object]
+1 make up (a composite whole); constitute: a dialect compounded of Spanish and Dutch. 
+• mix or combine (ingredients or constituents): yellow pastas compounded with lemon zest or saffron. 
+• calculate (interest) on previously accumulated interest: the yield at which the interest is compounded.
+2 make (something bad) worse; intensify the negative aspects of: I compounded the problem by trying to make wrong things right.
+3 Law dated forbear from prosecuting (a felony) in exchange for money or other consideration. 
+• settle (a debt or other matter) in exchange for money or other consideration: he compounded the case with the defendant for a cash payment. DERIVATIVES compoundable 
+kəmˈpoundəb(ə)l 
+adjectiveORIGIN late Middle English compoune (verb), from Old French compoun-, present tense stem of compondre, from Latin componere ‘put together.’ The final -d was added in the 16th century on the pattern of expound and propound . usage: The sense of the verb compound that means ‘worsen,’ as in this compounds their problems, has an interesting history. It arose through a misinterpretation of the phrase compound a felony, which, strictly speaking, means ‘forbear from prosecuting a felony in exchange for money or other consideration.’ The ‘incorrect’ sense has become the usual one in legal uses and, by extension, in general senses too, and is now accepted as part of standard English.

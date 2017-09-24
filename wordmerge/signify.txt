@@ -6,8 +6,11 @@ A.  transitive verb
 ② (denote) «sign, dress» 表明 biǎomíng ‹position, loss›; «cloud» 预示 yùshì ‹rain, weather›the symbol signifies a registered trademark 这个符号是注册商标的标志 
 B.  intransitive verb «fact» 要紧 yàojǐn it doesn't signify 那无关紧要 
 signify 
-▶verb
-1 this signified a fundamental change: be evidence of, be a sign of, mark, signal, mean, spell, be symptomatic of, herald, indicate; literary betoken.
-2 the egg signifies life: mean, denote, designate, represent, symbolize, stand for; literary betoken.
-3 signify your agreement by signing below: express, indicate, show, proclaim, declare.
-4 the locked door doesn't signify: mean anything, be of importance, be important, be significant, be of significance, be of account, count, matter, be relevant.
+ˈsiɡnəˌfī
+
+▶verb (signifies, signifying, signified)
+1 [with object] be an indication of: this decision signified a fundamental change in their priorities. 
+• be a symbol of; have as meaning: the church used this image to signify the Holy Trinity. 
+• (of a person) indicate or declare (a feeling or intention): signify your agreement by signing the letter below. 
+• [no object with negative] be of importance: the locked door doesn't necessarily signify.
+2 [no object] US informal (among black Americans) exchange boasts or insults as a game or ritual. ORIGIN Middle English: from Old French signifier, from Latin significare ‘indicate, portend,’ from signum ‘token.’

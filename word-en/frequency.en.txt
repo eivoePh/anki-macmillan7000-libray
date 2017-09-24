@@ -1,2 +1,10 @@
 frequency 
-▶noun the frequency of errors: rate of occurrence, incidence, amount, commonness, prevalence; Statistics distribution.
+ˈfrēkwənsē
+
+▶noun (plural frequencies)
+1 the rate at which something occurs or is repeated over a particular period of time or in a given sample: shops have closed with increasing frequency during the period. 
+• the fact of being frequent or happening often. 
+• Statistics the ratio of the number of actual to possible occurrences of an event. 
+• Statistics the (relative) number of times something occurs in a given sample.
+2 the rate at which a vibration occurs that constitutes a wave, either in a material (as in sound waves), or in an electromagnetic field (as in radio waves and light), usually measured per second. (Symbol: f or ν) 
+• the particular waveband at which a radio station or other system broadcasts or transmits signals. ORIGIN mid 16th century (gradually superseding late Middle English frequence; originally denoting a gathering of people): from Latin frequentia, from frequens, frequent- ‘crowded, frequent.’

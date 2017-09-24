@@ -12,10 +12,19 @@ A.  noun
 B.  titles noun plural 片尾字幕 piànwěi zìmù 
 C.  transitive verb 给…加标题 gěi… jiā biāotí they titled their first album Ocean Drive 他们把第一张专辑取名为《海洋之旅》 
 title 
+ˈtīdl
+
 ▶noun
-1 the title of the work: name, heading, legend, label, caption, inscription.
-2 the company publishes 400 titles a year: publication, work, book, newspaper, paper, magazine, periodical.
-3 the title of governor general: designation, name, form of address, honorific; epithet, rank, office, position, job title; informal moniker, handle, tag; formal appellation, denomination; sobriquet.
-4 an Olympic title: championship, crown, first place; laurels, palm.
-5 the landlord is obliged to prove his title to the land: ownership of, proprietorship of, possession of, holding of, freehold of, entitlement to, right to, claim to.
-▶verb a paper titled "Immigration Today": call, entitle, name, dub, designate, style, term; formal denominate.
+1 the name of a book, composition, or other artistic work: the author and title of the book. 
+• (usually as titles) a caption or credit in a movie or broadcast. 
+• a book, magazine, or newspaper considered as a publication: the company publishes 400 titles a year.
+2 a name that describes someone's position or job: Leese assumed the title of director general. 
+• a word such as Senator or Dame that is used before someone's name, or a form that is used instead of someone's name, to indicate high social or official rank: he will inherit the title of Duke of Marlborough. 
+• a word such as Mrs. or Dr. that is used before someone's name to indicate their profession or marital status. 
+• a descriptive or distinctive name that is earned or chosen: Nata's deserved the title of Best Restaurant of the Year.
+3 the position of being the champion of a major sports competition: Davis won the world title for the first time in 1981.
+4 Law a right or claim to the ownership of property or to a rank or throne: a local family had title to the property 
+the buyer acquires a good title to the merchandise.
+5 (in church use) a fixed sphere of work and source of income as a condition for ordination. 
+• a parish church in Rome under a cardinal. 
+▶verb [with object and complement] (usually be titled) give a name to (a book, composition, or other work): a song titled “You Rascal, You.” ORIGIN Old English titul, reinforced by Old French title, both from Latin titulus ‘inscription, title.’ The word originally denoted a placard or inscription placed on an object, giving information about it, hence a descriptive heading in a book or other composition.

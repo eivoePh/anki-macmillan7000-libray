@@ -13,13 +13,22 @@ C.  noun
 ③ (feeling, pain) 突发的一阵 tūfā de yīzhèn a stab of pain/jealousy/fear 一阵剧痛/嫉妒/害怕 
 ④ colloquial (attempt) 尝试 chángshì to make or have a stab at [something]/at doing [something] 尝试某事物/做某事 
 stab 
-▶verb
-1 a soldier stabbed the civilian: knife, run through, skewer, spear, bayonet, gore, spike, stick, impale, transfix, pierce, prick, puncture; literary transpierce.
-2 she stabbed at the earth with a fork: lunge, thrust, jab, poke, prod, dig.
+stab
+
+▶verb (stabs, stabbing, stabbed) [with object] (of a person) thrust a knife or other pointed weapon into (someone) so as to wound or kill: he stabbed him in the stomach 
+(as noun stabbing) : the fatal stabbings of four rival gang members. 
+• [no object] make a thrusting gesture or movement at something with a pointed object: she stabbed at the earth with the fork 
+[with object] : she stabbed the air with her forefinger. 
+• [no object] (stab into/through) (of a sharp or pointed object) violently pierce: a sharp end of wicker stabbed into his sole. 
+• [no object] (stab at) (of a pain or painful thing) cause a sudden sharp sensation: (as adjective stabbing) : I felt a stabbing pain in my chest. 
 ▶noun
-1 a stab in the leg: knife wound, puncture, incision, prick, cut, perforation.
-2 they made stabs into the air: lunge, thrust, jab, poke, prod, dig, punch.
-3 a stab of pain: twinge, pang, throb, spasm, cramp, dart, prick, flash, thrill.
-4 informal he took a stab at writing: attempt, try, effort, endeavor; guess; informal go, shot, crack, bash, whack; formal essay.
+1 a thrust with a knife or other pointed weapon: [as modifier] : multiple stab wounds. 
+• a wound made by the thrust of a knife or other pointed weapon: she had a deep stab in the back. 
+• a thrusting movement with a finger or other pointed object: impatient stabs of his finger. 
+• a sudden sharp feeling or pain: she felt a stab of jealousy. 
+• (in popular music) a staccato interjected phrase, typically by horns or a keyboard: the fuzz guitar riff is replaced by some slinky brass stabs.
+2 (stab at) informal an attempt to do (something): Meredith made a feeble stab at joining in. 
 PHRASES
-stab in the back just two months after I got her hired, she stabbed me in the back: betray, be disloyal to, be unfaithful to, desert, break one's promise to, double-cross, break faith with, sell out, play false, inform on/against; informal tell on, sell down the river, squeal on, rat out, finger.
+a stab in the back a treacherous act or statement. stab someone in the back betray someone. a stab in the dark see dark. DERIVATIVES stabber 
+ˈstabər 
+nounORIGIN late Middle English: of unknown origin.

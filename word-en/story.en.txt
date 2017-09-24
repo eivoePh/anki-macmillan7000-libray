@@ -1,9 +1,18 @@
 story
 1 
-▶noun
-1 a story about his summer in Hawaii: tale, narrative, account, anecdote; informal yarn, spiel.
-2 the novel has a good story: plot, storyline, scenario, libretto.
-3 the story appeared in the papers: news item, news report, article, feature, piece.
-4 there have been a lot of stories going around: rumor, piece of gossip, whisper; speculation.
-5 Harper changed his story: testimony, statement, report, account, version.
-6 Ellie never told stories. See falsehood (sense 1). REFLECTIONS David Crystalstory People tell stories about their stories at literature festivals. It's interesting how the meaning of this word has come full circle. Originally, in the 13th century, stories had to be true: the word was a synonym for 'history'—indeed, it came from Latin historia. But very soon it was applied to stories alleged to be true, and then (by the 16th century) to stories that were definitely not true. Today, the original meaning seems to be reasserting itself: I've lost track of the number of historical television programmes called "The story of something-or-other." Maybe it's time to resuscitate the verb use too: in the 16th century, there was a splendid usage: to story forth, meaning 'to proclaim the story of.' It's what happens in dictionaries and thesauruses, after all. Which reminds me of the story that Eric Partridge tells, in The Gentle Art of Lexicography, of the old lady who borrowed a dictionary from the town library. She returned it with the comment: "A very unusual book indeed—but the stories are extremely short, aren't they?"Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+ˈstôrē
+
+▶noun (plural stories)
+1 an account of imaginary or real people and events told for entertainment: an adventure story 
+I'm going to tell you a story. 
+• a plot or story line: the novel has a good story. 
+• a report of an item of news in a newspaper, magazine, or news broadcast: stories in the local papers. 
+• a piece of gossip; a rumor: there have been lots of stories going around, as you can imagine. 
+• informal a false statement or explanation; a lie: Ellie never told stories—she had always believed in the truth.
+2 an account of past events in someone's life or in the evolution of something: the story of modern farming 
+the film is based on a true story. 
+• a particular person's representation of the facts of a matter, especially as given in self-defense: during police interviews, Harper changed his story. 
+• [in singular] a situation viewed in terms of the information known about it or its similarity to another: having such information is useful, but it is not the whole story 
+many children with leukemia now survive—twenty years ago it was a very different story. 
+PHRASES
+but that's another story informal used after raising a matter to indicate that one does not want to expand on it for now. it's a long story informal used to indicate that, for now, one does not want to talk about something that is too involved or painful. it's (or that's) the story of one's life informal used to lament the fact that a particular misfortune has happened too often in one's experience: “It's the story of my life,” my mother would say when she returned home from a sale empty-handed. the same old story used to indicate that a particular bad situation is tediously familiar: are we not faced with the same old story of a badly managed project? the story goes it is said or rumored: the story goes that he's fallen out with his friends. to make (or British cut) a long story short used to end an account of events quickly: to make a long story short, I married Stephen.ORIGIN Middle English (denoting a historical account or representation): shortening of Anglo-Norman French estorie, from Latin historia (see history) .

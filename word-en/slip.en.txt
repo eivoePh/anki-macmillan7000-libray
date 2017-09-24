@@ -1,21 +1,46 @@
 slip
 1 
-▶verb
-1 she slipped on the ice: slide, skid, glide; fall (over), lose one's balance, tumble.
-2 the envelope slipped through Luke's fingers: fall, drop, slide.
-3 we slipped out by a back door: creep, steal, sneak, slide, sidle, slope, slink, tiptoe.
-4 standards have slipped: decline, deteriorate, degenerate, worsen, get worse, fall (off), drop; informal go downhill, go to the dogs, go to pot.
-5 the stock index slipped 30 points: drop, go down, sink, slump, decrease, depreciate.
-6 the hours slipped by : pass, elapse, go by/past, roll by/past, fly by/past, tick by/past.
-7 she slipped the map into her pocket: put, tuck, shove; informal pop, stick, stuff.
-8 Sarah slipped into a black skirt: put on, pull on, don, dress/clothe oneself in; change into.
-9 she slipped out of her clothes: take off, remove, pull off, doff, peel off.
-10 he slipped the knot of his tie: untie, unfasten, undo.
+slip
+
+▶verb (slips, slipping, slipped)
+1 [no object] (of a person or animal) slide unintentionally for a short distance, typically losing one's balance or footing: I slipped on the ice 
+he kept slipping in the mud. 
+• [with adverbial of direction] (of a thing) accidentally slide or move out of position or from someone's grasp: the envelope slipped through Luke's fingers 
+a wisp of hair had slipped down over her face. 
+• fail to grip or make proper contact with a surface: the front wheels began to slip 
+(as adjective slipping) : a badly slipping clutch. 
+• [with adverbial of direction] go or move quietly or quickly, without attracting notice: we slipped out by a back door. 
+• pass or change to a lower, worse, or different condition, typically in a gradual or imperceptible way: many people feel standards have slipped 
+[with complement] : profits slipped 31 percent. 
+• (be slipping) informal be behaving in a way that is not up to one's usual level of performance: you're slipping, Joe—you need a vacation. 
+• (slip away/by) (of time) elapse: the night was slipping away. 
+• [with object] put (something) in a particular place or position quietly, quickly, or stealthily: she slipped the map into her pocket 
+[with two objects] : I slipped him a ten-spot to keep quiet. 
+• (slip into/out of) put on or take off (a garment) quickly and easily. 
+• (slip something in) insert a remark smoothly or adroitly into a conversation.
+2 [with object] escape or get loose from (a means of restraint): the giant balloon slipped its moorings. 
+• [no object] (slip out) (of a remark) be uttered inadvertently. 
+• (of a thought or fact) fail to be remembered by (one's mind or memory); elude (one's notice): a beautiful woman's address was never likely to slip his mind. 
+• release (an animal, typically a hunting dog) from restraint. 
+• Knitting move (a stitch) to the other needle without knitting it. 
+• release (the clutch of a motor vehicle) slightly or for a moment. 
+• (of an animal) produce (dead young) prematurely; abort. 
 ▶noun
-1 a single slip could send them plummeting downward: false step, misstep, slide, skid, fall, tumble.
-2 a careless slip: mistake, error, blunder, gaffe; oversight, omission, lapse, inaccuracy; slip of the tongue/pen, eggcorn; informal slip-up, boo-boo, howler, goof, blooper.
-3 a silk slip: underskirt, petticoat.
+1 an act of sliding unintentionally for a short distance: a single slip could send them plummeting down the mountainside. 
+• a fall to a lower level or standard: a continued slip in house prices. 
+• relative movement of an object or surface and a solid surface in contact with it. 
+• a reduction in the movement of a pulley or other mechanism due to slipping of the belt, rope, etc. 
+• a sideways movement of an aircraft in flight, typically downward toward the center of curvature of a turn. 
+• Geology the extent of relative horizontal displacement of corresponding points on either side of a fault plane.
+2 a minor or careless mistake: the judge made a slip in his summing up.
+3 a woman's loose-fitting, dress- or skirt-length undergarment, suspended by shoulder straps (full slip) or by an elasticized waistband (half slip): a silk slip.
+4 a slope built leading into water, used for launching and landing boats and ships or for building and repairing them. 
+• a space in which to dock a boat or ship, especially between two wharves or piers.
+5 (also slip leash) a leash that enables a dog to be released quickly.
+6 Knitting short for slip stitch: one color at a time should be knitted in striped slip. 
 PHRASES
-give someone the slip informal we gave Murphy the slip and headed for the docks: escape from, get away from, evade, dodge, elude, lose, shake off, throw off (the scent), get clear of. let something slip who let it slip that we were hiding here? reveal, disclose, divulge, let out, give away, blurt out; give the game away; informal let on, blab, let the cat out of the bag, spill the beans. slip away
-1 they managed to slip away: escape, get away, break free; informal fly the coop, take a powder.
-2 she slipped away in her sleep. See die (sense 1). slip up informal Hennie slipped up and left the corral open: make a mistake, (make a) blunder, get something wrong, make an error, err; informal make a boo-boo, goof up. CHOOSE THE RIGHT WORD See mistake .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+give someone the slip informal evade or escape from someone. let something slip
+1 reveal something inadvertently in the course of a conversation: [with clause] : Alex had let slip he was married.
+2 archaic release a hound from the leash so as to begin the chase: let slip the dogs of war. let something slip through one's fingers (or grasp) lose hold or possession of something.slip of the pen (or the tongue) a minor mistake in writing (or speech).there's many a slip 'twixt cup and lip proverb many things can go wrong between the start of a project and its completion; nothing is certain until it has happened.PHRASAL VERBS slip away depart without saying goodbye; leave quietly or surreptitiously. 
+• slowly disappear; recede or dwindle: his ability to concentrate is slipping away. 
+• die peacefully (used euphemistically): he lay there and quietly slipped away. slip something over on informal take advantage of (someone) by trickery. slip up informal make a careless error: they often slipped up when it came to spelling.ORIGIN Middle English (in the sense ‘move quickly and softly’): probably from Middle Low German slippen (verb); compare with slippery .

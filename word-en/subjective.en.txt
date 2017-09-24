@@ -1,2 +1,11 @@
 subjective 
-▶adjective a subjective analysis: personal, individual, emotional, instinctive, intuitive. ANTONYMS objective.
+səbˈjektiv
+
+▶adjective
+1 based on or influenced by personal feelings, tastes, or opinions: his views are highly subjective 
+there is always the danger of making a subjective judgment. Contrasted with objective. 
+• dependent on the mind or on an individual's perception for its existence.
+2 Grammar relating to or denoting a case of nouns and pronouns used for the subject of a sentence. 
+▶noun (the subjective) Grammar the subjective case. DERIVATIVES subjectiveness 
+səbˈjektivnəs 
+nounORIGIN late Middle English (originally in the sense ‘characteristic of a political subject, submissive’): from Latin subjectivus, from subject- ‘brought under’ (see subject) .

@@ -8,11 +8,23 @@ noun
 ⑤ (in envelope) 透明纸窗 tòumíng zhǐchuāng 
 ⑥ figurative (opportunity) 短暂时机 duǎnzàn shíjī a window in my diary (for a meeting with Mr Jones) 我的日程安排中的一个（可与琼斯先生会晤的）空当 we've missed our window 我们错过了时机 a launch window 发射窗 a window of opportunity 一丝机会 
 window 
-BrE ˈwɪndəʊ, AmE ˈwɪndoʊ 
-noun 
-① (opening in wall, vehicle etc.) 窗 chuāng (glass in opening) 窗玻璃 chuāngbōli (area behind opening) 窗口 chuāngkǒu (in roof) 天窗 tiānchuāng to look through a window 透过窗户看 to lean out of a window 探出窗外 to throw [something] out of the window 把某物扔出窗外 the explosion shattered windows all along the street 爆炸把沿街所有的窗户都震碎了 he sat at or by the window 他坐在窗边 I'd like a seat by the window (on aeroplane) 我想要个靠窗的座位 the window looks out on or over [something] 窗子面对某物 to go or fly out (of) the window colloquial (disappear) 化为乌有 (be rejected) 被抛弃 
-② (in shop, commercial building) (exterior glass) 橱窗玻璃 chúchuāng bōli (area behind) 橱窗 chúchuāng a shop/restaurant window 商店/饭店橱窗 to put [something] in the window 把某物放到橱窗里 to get [something] out of the window 把某物从橱窗里拿出来 at the back/front of the window 在橱窗后部/前部 
-③ (for serving customers) 服务窗口 fúwù chuāngkǒu a post office/ticket window 邮局/售票窗口 
-④ Computing 视窗 shìchuāng to open/close a window 打开/关闭窗口 
-⑤ (in envelope) 透明纸窗 tòumíng zhǐchuāng 
-⑥ figurative (opportunity) 短暂时机 duǎnzàn shíjī a window in my diary (for a meeting with Mr Jones) 我的日程安排中的一个（可与琼斯先生会晤的）空当 we've missed our window 我们错过了时机 a launch window 发射窗 a window of opportunity 一丝机会 
+ˈwindō
+
+▶noun
+1 an opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material in a frame to admit light or air and allow people to see out. 
+• a pane of glass filling a window: thieves smashed a window and took $600. 
+• an opening in a wall or screen through which customers are served in a bank, ticket office, or similar building. 
+• a space on the inside of a store's window where goods are displayed for sale: I prefer the red dress that's in the window 
+[as modifier] : beautiful window displays.
+2 a thing resembling a window in form or function, in particular: 
+• a transparent panel on an envelope to show an address. 
+• Computing a framed area on a display screen for viewing information. 
+• (window on/into/to) a means of observing and learning about: television is a window on the world. 
+• Physics a range of electromagnetic wavelengths for which a medium (especially the atmosphere) is transparent.
+3 an interval or opportunity for action: February
+15 to March
+15 should be the final window for new offers. 
+• an interval during which atmospheric and astronomical circumstances are suitable for the launch of a spacecraft.
+4 strips of metal foil or metal filings dispersed in the air to obstruct radar detection. [military code word.] 
+PHRASES
+go out the window informal (of a plan or pattern or behavior) no longer exist; disappear. window of opportunity a favorable opportunity for doing something that must be seized immediately if it is not to be missed. window of vulnerability an opportunity to attack something that is at risk (especially as a Cold War claim that America's land-based missiles were easy targets for a Soviet first strike). windows of the soul organs of sense, especially the eyes.ORIGIN Middle English: from Old Norse vindauga, from vindr ‘wind’ + auga ‘eye.’

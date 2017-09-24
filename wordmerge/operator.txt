@@ -7,7 +7,11 @@ noun
 ④ (person) 善于钻营的人 shànyú zuānyíng de rén he's a smooth/shrewd operator 他这人很圆滑/工于心计 
 ⑤ Mathematics 算子 suànzǐ a positive integral operator 正积分算子 
 operator 
+ˈäpəˌrādər
+
 ▶noun
-1 a machine operator: machinist, mechanic, operative, engineer, driver, worker.
-2 a tour operator: contractor, entrepreneur, promoter, arranger, fixer, dealer, outfitter, expediter.
-3 informal a ruthless operator: manipulator, maneuverer, mover and shaker, dealmaker, wheeler-dealer, hustler, wirepuller.
+1 [often with modifier] a person who operates equipment or a machine: a radio operator. 
+• (usually the operator) a person who works for a telephone company assisting users, or who works at a telephone switchboard.
+2 [usually with modifier] a person or company that engages in or runs a business or enterprise: a tour operator.
+3 [with adjective] informal a person who acts in a specified, especially a manipulative, way: her reputation as a cool, clever operator.
+4 Mathematics a symbol or function denoting an operation (e.g., ×, +).

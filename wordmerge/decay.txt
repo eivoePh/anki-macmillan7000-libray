@@ -16,10 +16,19 @@ C.  nounUncountable
 ④ figurative (of society, culture, nation, civilization) 衰落 shuāiluò (of economy, institution, industry, health, strength) 衰退 shuāituì political/moral/physical decay 政治衰败/道德败坏/健康衰退 
 ⑤ Physics 衰减 shuāijiǎn 
 decay 
-▶verb
-1 the corpses had decayed: decompose, rot, putrefy, go bad, go off, spoil, fester, perish, deteriorate; degrade, break down, molder, shrivel, wither; photodegrade.
-2 the cities continue to decay: deteriorate, degenerate, decline, go downhill, slump, slide, go to rack and ruin, go to seed; disintegrate, fall to pieces, fall into disrepair; fail, collapse; informal go to pot, go to the dogs, go into/down the toilet.
-▶noun
-1 signs of decay: decomposition, putrefaction, festering; photodegradation; rot, mold, mildew, fungus.
-2 tooth decay: rot, corrosion, decomposition; caries, cavities, holes.
-3 the decay of contemporary culture: deterioration, degeneration, debasement, degradation, decline, weakening, atrophy; crumbling, disintegration, collapse.
+dəˈkā
+
+▶verb [no object] (of organic matter) rot or decompose through the action of bacteria and fungi: (as adjective decayed) : a decayed cabbage leaf 
+(as adjective decaying) : the odor of decaying fish. 
+• [with object] cause to rot or decompose: the fungus will decay soft timber. 
+• (of a building or area) fall into disrepair; deteriorate: urban neighborhoods decay when elevated freeways replace surface roads. 
+• decline in quality, power, or vigor: the moral authority of the party was decaying. 
+• Physics (of a radioactive substance, particle, etc.) undergo change to a different form by emitting radiation: the trapped radiocarbon begins to decay at a known rate. 
+• technical (of a physical quantity) undergo a gradual decrease: the time taken for the current to decay to zero. 
+▶noun the state or process of rotting or decomposition: hardwood is more resistant to decay than softwood 
+bacterial decay. 
+• structural or physical deterioration: the old barn rapidly fell into decay. 
+• rotten matter or tissue: fluoride heals small spots of decay. 
+• the process of declining in quality, power, or vigor: preachers warning of moral decay. 
+• Physics the change of a radioactive substance, particle, etc., into another by the emission of radiation: the gas radon is produced by the decay of uranium in rocks and soil. 
+• technical gradual decrease in the magnitude of a physical quantity: the decay of electrical fields in the electromagnets. ORIGIN late Middle English: from Old French decair, based on Latin decidere ‘fall down or off,’ from de- ‘from’ + cadere ‘fall.’

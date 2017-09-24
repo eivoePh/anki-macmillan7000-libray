@@ -5,6 +5,11 @@ adjective
 ② (banal) 无聊的 wúliáo de ‹conversation, argument, remark›
 ③ pejorative (frivolous) 狭隘的 xiá'ài de ‹person›
 trivial 
-▶adjective
-1 trivial problems: unimportant, banal, trite, commonplace, insignificant, inconsequential, minor, of no account, of no consequence, of no importance; incidental, inessential, nonessential, petty, trifling, trumpery, pettifogging, footling, small, slight, little, inconsiderable, negligible, paltry, nugatory; informal piddling, picayune, nickel-and-dime, penny-ante; Law de minimis; trademark Mickey Mouse. ANTONYMS important, significant, life-and-death.
-2 I used to be quite a trivial person: frivolous, superficial, shallow, unthinking, airheaded, featherbrained, lightweight, foolish, silly, trite. ANTONYMS profound, serious.
+ˈtrivēəl
+
+▶adjective of little value or importance: huge fines were imposed for trivial offenses 
+trivial details. 
+• (of a person) concerned only with trifling or unimportant things. 
+• Mathematics denoting a subgroup that either contains only the identity element or is identical with the given group. DERIVATIVES trivially 
+ˈtrivēəlē 
+adverbORIGIN late Middle English (in the sense ‘belonging to the trivium’): from medieval Latin trivialis, from Latin trivium (see trivium) .

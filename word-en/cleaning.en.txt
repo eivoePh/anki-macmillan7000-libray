@@ -1,19 +1,50 @@
 clean 
+klēn
+
 ▶adjective
-1 keep the wound clean: washed, scrubbed, cleansed, cleaned; spotless, unsoiled, unstained, unsullied, unblemished, immaculate, pristine, dirt-free; hygienic, sanitary, disinfected, sterilized, sterile, aseptic, decontaminated; laundered; informal squeaky clean, as clean as a whistle. ANTONYMS dirty.
-2 a clean sheet of paper: blank, empty, clear, plain; unused, new, pristine, fresh, unmarked. ANTONYMS used.
-3 clean air: pure, clear, fresh, crisp, refreshing; unpolluted, uncontaminated. ANTONYMS polluted.
-4 a clean life: virtuous, good, upright, upstanding; honorable, respectable, reputable, decent, righteous, moral, exemplary; innocent, pure, chaste; informal squeaky clean. ANTONYMS guilty.
-5 the firm is clean: innocent, guiltless, blameless, guilt-free, crime-free, above suspicion; informal squeaky clean. ANTONYMS dirty, polluted.
-6 a good clean fight: fair, honest, sporting, sportsmanlike, honorable, according to the rules; informal on the level. ANTONYMS dirty, unfair.
-7 informal they are trying to stay clean: sober, teetotal, dry, nondrinking; drug-free, off drugs; informal on the wagon.
-8 a clean cut: neat, smooth, crisp, straight, precise. ANTONYMS ragged.
-9 a clean break: complete, thorough, total, absolute, conclusive, decisive, final, irrevocable. ANTONYMS partial.
-10 clean lines: simple, elegant, graceful, streamlined, smooth. ANTONYMS complex, elaborate.
-▶adverb informal I clean forgot: completely, entirely, totally, fully, quite, utterly, absolutely.
-▶verb
-1 Dad cleaned the windows: wash, cleanse, wipe, sponge, scrub, mop, rinse, scour, swab, hose down, sluice (down), disinfect; shampoo; literary lave. ANTONYMS dirty, soil.
-2 I got my clothes cleaned: launder, dry-clean.
-3 she cleaned the fish: gut, draw, dress; formal eviscerate.
+1 free from dirt, marks, or stains: the room was spotlessly clean 
+keep the wound clean. 
+• having been washed since last worn or used: a clean blouse. 
+• [attributive] (of paper) not yet marked by writing or drawing: he copied the directions onto a clean sheet of paper. 
+• (of a person) attentive to personal hygiene: by nature he was clean and neat. 
+• free from pollutants or unpleasant substances: we will create a cleaner, safer environment. 
+• relating to a diet consisting of unprocessed, unrefined, and nutrient-rich food, typically eaten as small meals throughout the day: I'm amazed at how much energy clean eating gives me 
+you have to eat clean foods to change your physique. 
+• free from or producing relatively little radioactive contamination.
+2 morally uncontaminated; pure; innocent: clean living. 
+• not sexually offensive or obscene: it's all good clean fun 
+even when clean, his verses are very funny. 
+• showing or having no record of offenses or crimes: a clean driving license is essential for the job. 
+• played or done according to the rules: it was a good clean fight. 
+• [predicative] informal not possessing or containing anything illegal, especially drugs or stolen goods: I searched him and his luggage, and he was clean. 
+• [predicative] informal (of a person) not taking or having taken drugs or alcohol. 
+• free from ceremonial defilement, according to Mosaic Law and similar religious codes.
+3 free from irregularities; having a smooth edge or surface: a clean fracture of the leg. 
+• having a simple, well-defined, and pleasing shape: the clean lines and pared-down planes of modernism. 
+• (of an action) smoothly and skillfully done: I still hadn't made a clean takeoff. 
+• (of a taste, sound, or smell) giving a clear and distinctive impression to the senses; sharp and fresh: clean, fresh, natural flavors. 
+• (of timber) free from knots. 
+▶adverb
+1 so as to be free from dirt, marks, or unwanted matter: the room had been washed clean. 
+• in a way that involves the consumption of unprocessed, unrefined, and nutrient-rich food: plain oatmeal is a staple for anyone who's eating clean.
+2 informal used to emphasize the completeness of a reported action, condition, or experience: he was knocked clean off his feet 
+I clean forgot her birthday. 
+▶verb [with object] make (something or someone) free of dirt, marks, or mess, especially by washing, wiping, or brushing: clean your teeth properly after meals 
+chair covers should be easy to clean 
+we cleaned Uncle Jim up and made him presentable 
+[no object] : he always expected other people to clean up after him 
+(as noun cleaning) : Anne will help with the cleaning. 
+• remove the innards of (fish or poultry) prior to cooking. 
 PHRASES
-clean out informal those grifters cleaned him out: bankrupt, ruin, make insolvent, make penniless, wipe out. come clean informal if you don't come clean, they're going to pin all of this on Kerry: tell the truth, tell all, make a clean breast of it; confess, own up, admit guilt, admit to one's crimes/sins; informal fess up.
+(as) clean as a whistle see whistle. clean bill of health see bill of health. clean someone's clock informal give someone a beating: he went wild and cleaned everybody's clock down there in the dugout. 
+• defeat or surpass someone decisively. clean house do housework. 
+• eliminate corruption or inefficiency: unless our organization cleans house, it will be difficult to raise funds. clean one's plate eat up all the food put on one's plate. a clean sweep
+1 the removal of all unwanted people or things in order to start afresh: the new leaders wanted to make a clean sweep of the discredited old order.
+2 the winning of all of a group of similar or related competitions, events, or matches: he was in reach of the nomination after a clean sweep of Tuesday's primaries. clean up one's act informal begin to behave in a better way, especially by giving up alcohol, drugs, or illegal activities: the casino industry is bent on cleaning up its act. come clean informal be completely honest; keep nothing hidden: the company has refused to come clean about its pollution record. have clean hands be uninvolved and blameless with regard to an immoral act: no one involved in the conflict has clean hands. keep one's hands clean not involve oneself in an immoral act. keep one's nose clean see nose. make a clean breast of something (or make a clean breast of it) confess fully one's mistakes or wrongdoings. make a clean job of something informal do something thoroughly. wipe the slate clean see wipe. PHRASAL VERBS clean someone out informal use up or take all someone's money: they were cleaned out by the Englishman at the baccarat table. clean up 
+• make things or an area clean or neat: he was in the kitchen, cleaning up. 
+• informal make a substantial gain or profit. 
+• win all the prizes available in a sporting competition or series of events: the Germans cleaned up at Wimbledon. clean something up restore order or morality to: the police chief was given the job of cleaning up a notorious district.DERIVATIVES cleanable 
+ˈklēnəb(ə)l 
+adjective. cleanish adjective. cleanness 
+ˈklēnnəs 
+nounORIGIN Old English clǣne; related to Dutch and German klein ‘small.’

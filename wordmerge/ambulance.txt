@@ -2,5 +2,6 @@ ambulance
 BrE ˈambjʊl(ə)ns, AmE ˈæmbjələns 
 noun 救护车 jiùhùchē 
 ambulance 
-BrE ˈambjʊl(ə)ns, AmE ˈæmbjələns 
-noun 救护车 jiùhùchē 
+ˈambyələns
+
+▶noun a vehicle specially equipped for taking sick or injured people to and from the hospital, especially in emergencies. ORIGIN early 19th century: French, from hôpital ambulant ‘mobile (horse-drawn) field hospital,’ from Latin ambulant- ‘walking’ (see ambulant) .

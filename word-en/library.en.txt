@@ -1,7 +1,10 @@
 library 
-BrE ˈlʌɪbrəri, ˈlʌɪbri, AmE ˈlaɪˌbrəri, ˈlaɪb(ə)ri 
-noun 
-① (institution) 图书馆 túshūguǎn ; before noun 图书馆的 túshūguǎn de ‹book, staff›a library card or ticket 借书证 
-② (collection) 馆藏品 guǎncángpǐn a newspaper/record library 馆藏报纸/唱片 
-③ (in private house) 私人收藏室 sīrén shōucángshì the men retired to the library for a drink 男人们回到书房小酌一杯 
-④ Computing (software) library 软件库 ruǎnjiànkù before noun 软件库的 ruǎnjiànkù de ‹disk, program›
+ˈlīˌbrerē ˈlīb(ə)rē
+
+▶noun (plural libraries) a building or room containing collections of books, periodicals, and sometimes films and recorded music for people to read, borrow, or refer to: a school library 
+[as modifier] : a library book. 
+• a collection of books and periodicals held in a library: the Institute houses an outstanding library of 35,000 volumes on the fine arts. 
+• a collection of films, recorded music, genetic material, etc., organized systematically and kept for research or borrowing: a record library. 
+• a series of books, recordings, etc., issued by the same company and similar in appearance. 
+• a room in a private house where books are kept. 
+• (also software library) Computing a collection of programs and software packages made generally available, often loaded and stored on disk for immediate use. ORIGIN late Middle English: via Old French from Latin libraria ‘bookshop,’ feminine (used as a noun) of librarius ‘relating to books,’ from liber, libr- ‘book.’

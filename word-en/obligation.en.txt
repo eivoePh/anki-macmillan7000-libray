@@ -1,7 +1,10 @@
 obligation 
-▶noun
-1 no obligation may be placed upon you without your consent: duty, commitment, responsibility, moral imperative; function, task, job, assignment, commission, burden, charge, onus, liability, accountability, requirement, debt; literary trust.
-2 he felt an obligation to tip well: compulsion, duty, indebtedness; duress, necessity, pressure, constraint.
-PHRASES
-under (an) obligation the district attorney is under obligation to investigate 
-they don't understand that they are under obligation to intervene: beholden, obliged, in someone's debt, indebted, obligated, compelled, duty-bound, honor-bound.
+ˌäbləˈɡāSH(ə)n
+
+▶noun an act or course of action to which a person is morally or legally bound; a duty or commitment: he has enough cash to meet his present obligations 
+[with infinitive] : I have an obligation to look after her. 
+• the condition of being morally or legally bound to do something: they are under no obligation to stick to the scheme. 
+• a debt of gratitude for a service or favor: she didn't want to be under an obligation to him. 
+• Law a binding agreement committing a person to a payment or other action. DERIVATIVES obligational 
+-SHənl, -SHnəl 
+adjectiveORIGIN Middle English (in the sense ‘formal promise’): via Old French from Latin obligatio(n-), from the verb obligare (see oblige) .

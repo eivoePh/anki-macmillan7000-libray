@@ -1,9 +1,35 @@
-lock 
-▶noun the lock on the door: bolt, catch, fastener, clasp, bar, hasp, latch.
+lock
+1 
+läk
+
+▶noun
+1 a mechanism for keeping a door, lid, etc., fastened, typically operated only by a key of a particular form: the key turned firmly in the lock. 
+• a device used to prevent the operation or movement of a vehicle or other machine: a bicycle lock. 
+• a facility on a computer or mobile phone that requires a user to verify their identity with a passcode or other form of authentication in order to access the full functionality of the device: there's a security lock on the phone and he doesn't know the code. 
+• (in wrestling and martial arts) a hold that prevents an opponent from moving a limb. 
+• [in singular] archaic a number of interlocked or jammed items: a street closed by a lock of carriages.
+2 a short confined section of a canal or other waterway in which the water level can be changed by the use of gates and sluices, used for raising and lowering vessels between two gates. 
+• an airlock.
+3 (a lock) North American informal a person or thing that is certain to succeed; a certainty.
+4 historical a mechanism for exploding the charge of a gun. 
 ▶verb
-1 he locked the door: bolt, fasten, bar, secure, seal; padlock, latch, chain. ANTONYMS unlock, open.
-2 they locked arms: join, interlock, intertwine, link, mesh, engage, unite, connect, yoke, mate; couple. ANTONYMS separate, divide.
-3 the wheels locked: become stuck, stick, jam, become/make immovable, become/make rigid.
-4 he locked her in an embrace: clasp, grasp, embrace, hug, squeeze, clench.
+1 [with object] fasten or secure (something) with a lock: she closed and locked her desk. 
+• enclose or shut in by locking or fastening a door, lid, etc.: the prisoners are locked in overnight 
+Phil locked away the takings every night. 
+• [no object] (of a door, window, box, etc.) become or be able to be secured through activation of a lock: the door will automatically lock behind you.
+2 restrict access to the full functionality or data of (a computer, mobile phone, file, etc.), especially by requiring a user to verify their identity with a passcode or other form of authentication: my computer is locked and I've forgotten my login info 
+I don't want people to read my emails—that's why I lock my phone. 
+• (be locked) (of a mobile phone) operate only on the network of a particular carrier: the phone is locked to T-mobile.
+3 make or become rigidly fixed or immovable: [with object] : he locked his hands behind her neck 
+the vessel was locked in ice 
+[no object] : their gaze locked for several long moments.
+4 [no object] go through a lock on a canal: we locked through at Moore Haven. 
 PHRASES
-lock horns he's locked horns with every boss he's ever had: argue, quarrel, fight, disagree, squabble, bicker. lock lips informal I saw you locking lips with Quinn: kiss; informal smooch, peck, neck, canoodle, make out. lock someone out of we were locked out of the conference: keep out of, shut out of/from, refuse entrance to, deny admittance to; exclude from, bar from, debar from, ban from. lock someone up take him away and lock him up: imprison, jail, incarcerate, send to prison, put behind bars, put under lock and key, put in chains, clap in irons, cage, pen, coop up; informal put away, put inside.
+have a lock on North American informal have an unbreakable hold on or total control over. lock horns engage in conflict. lock, stock, and barrel including everything; completely: the place is owned lock, stock, and barrel by an oil company. [referring to the complete mechanism of a firearm.] under lock and key securely locked up.PHRASAL VERBS lock someone down North American confine a prisoner to their cell, especially so as to gain control. lock someone/something in (or into) involve or entangle someone or something in (an embrace or struggle): they were locked in a legal battle. 
+• oblige a person or company to abide by the terms of a contract for a specific period.lock onto locate (a target) by radar or similar means and then track. lock someone out
+1 keep someone out of a room or building by locking the door.
+2 (of an employer) subject employees to a lockout. lock someone out of exclude someone from: those now locked out of the job market. lock someone up (or away) imprison someone.lock something up (also lock up) shut and secure something, especially a building, by fastening its doors with locks: the diplomatic personnel locked up their building and walked off 
+you could lock up for me when you leave. 
+• (also lock something away) invest money in something so that it is not easily accessible: vast sums of money locked up in pension funds.DERIVATIVES lockable 
+ˈläkəb(ə)l 
+adjective. lockless adjectiveORIGIN Old English loc, of Germanic origin; related to German Loch ‘hole.’

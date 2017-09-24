@@ -1,7 +1,6 @@
 module 
-BrE ˈmɒdjuːl, AmE ˈmɑdʒul 
-noun 
-① Construction, Electronics 标准部件 biāozhǔn bùjiàn 
-② Computing 模块 mókuài 
-③ Aerospace 独立舱 dúlìcāng 
-④ School, University 单元 dānyuán 
+ˈmäjo͞ol
+
+▶noun each of a set of standardized parts or independent units that can be used to construct a more complex structure, such as an item of furniture or a building. 
+• [usually with adjective] an independent self-contained unit of a spacecraft. 
+• Computing any of a number of distinct but interrelated units from which a program may be built up or into which a complex activity may be analyzed. ORIGIN late 16th century (in the senses ‘allotted scale’ and ‘plan, model’): from French, or from Latin modulus (see modulus). Current senses date from the 1950s.

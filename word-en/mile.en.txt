@@ -1,7 +1,10 @@
 mile 
-BrE mʌɪl, AmE maɪl 
-A. noun 
-① (unit of measurement) 英里 yīnglǐ a 10-mile journey 10英里的旅程 a miss is as good as a mile 毫末之错仍为错 give [somebody] an inch and they will take a mile 某人得寸进尺 
-② (considerable distance) 很长距离 hěn cháng jùlí miles from anywhere 处于偏僻之地 not a million miles from here/the truth 离这儿/真相不远 to see/recognize [something] a mile off; 一眼就能看见/认出某物 to stick or stand out a mile 显而易见 to go the extra mile 加倍努力 to be miles away 出神 sorry, I was miles away 抱歉，我刚才走神了 to talk a mile a minute colloquial 滔滔不绝地说话 
-③ (race) the mile 一英里赛跑 yī yīnglǐ sàipǎo 
-B.  miles noun plural colloquial 在很大程度上 zài hěn dà chéngdù shang miles better 好得多 to be miles out 相去甚远 
+mīl
+
+▶noun (also statute mile) a unit of linear measure equal to 5,280 feet, or 1,760 yards (approximately 1.609 kilometers). 
+• historical (also Roman mile) a Roman measure of 1,000 paces (approximately 1,620 yards). 
+• (usually miles) informal a very long way or a very great amount: vistas that stretch for miles. 
+• a race extending over a mile. 
+▶adverb (as submodifier miles) informal by a great amount or a long way: the second tape is miles better. 
+PHRASES
+be miles away informal be lost in thought and consequently unaware of what is happening around one. go the extra mile be especially assiduous in one's attempt to achieve something. a mile a minute informal very quickly: he talks a mile a minute. miles from anywhere informal in a very isolated place. see (or tell or spot) something a mile off informal recognize something very easily: the first-year campers can be spotted a mile off. stand (or stick) out a mile informal be very obvious or incongruous.ORIGIN Old English mīl, based on Latin mil(l)ia, plural of mille ‘thousand’ (the original Roman unit of distance was mille passus ‘a thousand paces’).

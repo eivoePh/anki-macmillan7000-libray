@@ -2,5 +2,6 @@ chess
 BrE tʃɛs, AmE tʃɛs 
 nounUncountable国际象棋 guójì xiàngqí a game of chess 一盘国际象棋 
 chess 
-BrE tʃɛs, AmE tʃɛs 
-nounUncountable国际象棋 guójì xiàngqí a game of chess 一盘国际象棋 
+CHes
+
+▶noun a board game of strategic skill for two players, played on a checkered board. Each player begins the game with sixteen pieces that are moved and used to capture opposing pieces according to precise rules. The object is to put the opponent's king under a direct attack from which escape is impossible (checkmate). ORIGIN Middle English: from Old French esches, plural of eschec ‘a check’ (see check1) .

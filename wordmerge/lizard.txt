@@ -2,5 +2,6 @@ lizard
 BrE ˈlɪzəd, AmE ˈlɪzərd 
 noun 蜥蜴 xīyì 
 lizard 
-BrE ˈlɪzəd, AmE ˈlɪzərd 
-noun 蜥蜴 xīyì 
+ˈlizərd
+
+▶noun a reptile that typically has a long body and tail, four legs, movable eyelids, and a rough, scaly, or spiny skin. [Suborder Lacertilia (or Sauria), order Squamata: many families.] ORIGIN late Middle English: from Old French lesard(e), from Latin lacertus ‘lizard, sea fish,’ also ‘muscle.’

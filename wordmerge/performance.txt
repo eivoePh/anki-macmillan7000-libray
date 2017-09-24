@@ -9,9 +9,15 @@ noun
 ⑥ Uncountablecolloquial (exaggerated behaviour) 夸张的行为 kuāzhāng de xíngwéi (disgraceful behaviour) 丢脸的行为 diūliǎn de xíngwéi what on earth did she mean by that performance in the cafe? 她在咖啡馆里那么丢人现眼到底是什么意思？ 
 ⑦ Uncountablecolloquial (fuss) 忙乱 mángluàn what a performance! 真够忙乱的！ starting up this old car is a bit of a performance 发动这辆旧车真是有些麻烦 
 performance 
+pərˈfôrməns
+
 ▶noun
-1 the evening performance: show, production, showing, presentation, staging; concert, recital; informal gig.
-2 their performance of Mozart's concerto in E flat: rendition, rendering, interpretation, reading, playing, acting, representation.
-3 the continual performance of a single task: carrying out, execution, discharge, accomplishment, completion, fulfillment, dispatch, implementation; formal effectuation.
-4 the performance of the processor: functioning, working, operation, running, behavior, capabilities, capability, capacity, power, potential.
-5 informal he made a great performance of telling her about it: fuss, production, palaver, scene, business, pantomime; informal song and dance, big deal, to-do, hoo-ha.
+1 an act of staging or presenting a play, concert, or other form of entertainment: Don Giovanni had its first performance in 1787. 
+• a person's rendering of a dramatic role, song, or piece of music: Bailey gives a sound performance as the doctor. 
+• [in singular] informal a display of exaggerated behavior or a process involving a great deal of unnecessary time and effort; a fuss: he stopped to tie his shoe and seemed to be making quite a performance of it.
+2 the action or process of carrying out or accomplishing an action, task, or function: the continual performance of a single task reduces a man to the level of a machine. 
+• an action, task, or operation, seen in terms of how successfully it was performed: pay increases are now being linked more closely to performance 
+a dynamic performance by Davis. 
+• the capabilities of a machine, vehicle, or product, especially when observed under particular conditions: the hardware is put through tests that assess the performance of the processor. 
+• the extent to which an investment is profitable, especially in relation to other investments: unit-trust performance. 
+• (also linguistic performance) Linguistics an individual's use of a language, i.e., what a speaker actually says, including hesitations, false starts, and errors. Often contrasted with competence. 

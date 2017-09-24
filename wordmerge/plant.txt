@@ -19,14 +19,28 @@ B.  transitive verb
 ⑨ (found, establish) 建立 jiànlì ‹colony, settlement›
 C.  reflexive verb colloquial to plant oneself 占据位置 zhànjù wèizhi she planted herself at the front of the queue/in an armchair 她排到队列的前面/坐在扶手椅上 PHRASAL VERB plant out transitive verb[plant something out, plant out something] 均匀栽种 jūnyún zāizhòng ‹young plant, seedling›
 plant 
+plant
+
 ▶noun
-1 garden plants: flower, vegetable, herb, shrub, weed; (plants) vegetation, greenery, flora, herbage, verdure.
-2 the plant commenced production: factory, works, foundry, mill, workshop, shop; informal salt mine(s).
-3 a CIA plant: spy, informant, informer, agent, secret agent, mole, infiltrator, operative; informal spook.
-▶verb
-1 plant the seeds this autumn: sow, scatter, seed; bed out, transplant.
-2 he planted his feet on the ground: place, put, set, position, situate, settle; informal plonk.
-3 she planted the idea in his mind: instill, implant, impress, imprint, put, place, introduce, fix, establish, lodge.
-4 letters were planted to embarrass them: hide, conceal, secrete.
-WORD LINKS
-plant botany the scientific study of plants herbivorous plant-eating herbicide a substance used to kill plantsWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 a living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site, absorbing water and inorganic substances through its roots, and synthesizing nutrients in its leaves by photosynthesis using the green pigment chlorophyll. 
+• a small plant, as distinct from a shrub or tree: garden plants. Plants differ from animals in lacking specialized sense organs, having no capacity for voluntary movement, having cell walls, and growing to suit their surroundings rather than having a fixed body plan.
+2 a place where an industrial or manufacturing process takes place: the company has 30 plants in Mexico. 
+• machinery used in an industrial or manufacturing process: inadequate investment in new plant.
+3 a person placed in a group as a spy or informer: we thought he was a CIA plant spreading disinformation. 
+• a thing put among someone's belongings to incriminate or compromise them: he insisted that the cocaine in the glove compartment was a plant. 
+▶verb [with object]
+1 place (a seed, bulb, or plant) in the ground so that it can grow. 
+• place a seed, bulb, or plant in (a place) to grow: the garden is planted with herbs. 
+• informal bury (someone).
+2 place or fix in a specified position: she planted a kiss on his cheek. 
+• (plant oneself) position oneself: she planted herself on the arm of his chair. 
+• establish (an idea) in someone's mind: the seed of doubt is planted in his mind. 
+• secretly place (a bomb that is set to go off at a later time). 
+• put or hide (something) among someone's belongings to compromise or incriminate the owner: he planted drugs on him to extort a bribe. 
+• send (someone) to join a group or organization to act as a spy or informer. 
+• found or establish (a colony, city, or community). 
+• deposit (young fish, spawn, oysters, etc.) in a river or lake. DERIVATIVES plantable adjective. plantlet 
+-lit 
+noun. plantlike 
+ˈplantˌlīk 
+adjectiveORIGIN Old English plante ‘seedling,’ plantian (verb), from Latin planta ‘sprout, cutting’ (later influenced by French plante) and plantare ‘plant, fix in a place.’

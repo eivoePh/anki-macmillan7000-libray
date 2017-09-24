@@ -1,2 +1,9 @@
 solve 
-▶verb has anyone ever solved this riddle? resolve, answer, work out, find a solution to, find the key to, puzzle out, fathom, decipher, decode, clear up, straighten out, get to the bottom of, unravel, piece together, explain; informal figure out, crack.
+sälv
+
+▶verb [with object] find an answer to, explanation for, or means of effectively dealing with (a problem or mystery): the policy could solve the town's housing crisis 
+a murder investigation that has never been solved. DERIVATIVES solvable 
+ˈsälvəb(ə)l 
+adjective. solver 
+ˈsälvər 
+nounORIGIN late Middle English (in the sense ‘loosen, dissolve, untie’): from Latin solvere ‘loosen, unfasten.’

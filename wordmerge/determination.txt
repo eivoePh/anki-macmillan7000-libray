@@ -2,7 +2,13 @@ determination
 BrE dɪˌtəːmɪˈneɪʃ(ə)n, AmE dəˌtərməˈneɪʃ(ə)n 
 noun Uncountable决心 juéxīn determination to do [something]; 做某事的决心 
 determination 
+dəˌtərməˈnāSH(ə)n
+
 ▶noun
-1 it took great determination to win: resolution, resolve, willpower, strength of character, single-mindedness, purposefulness, intentness; staunchness, perseverance, persistence, tenacity, staying power; strong-mindedness, backbone; stubbornness, doggedness, obstinacy; spirit, courage, pluck, grit, stout-heartedness; informal guts, spunk, balls, moxie; formal pertinacity.
-2 the determination of the rent: setting, specification, settlement, designation, arrangement, establishment, prescription.
-3 the determination of the speed of light: calculation, discovery, ascertainment, establishment, deduction, divination, diagnosis, discernment, verification, confirmation.
+1 firmness of purpose; resoluteness: he advanced with an unflinching determination.
+2 the process of establishing something exactly, typically by calculation or research: determination of molecular structures. 
+• Law the settlement of a dispute by the authoritative decision of a judge or arbitrator. 
+• Law a judicial decision or sentence.
+3 the controlling or deciding of something's nature or outcome: genetic sex determination.
+4 Law the cessation of an estate or interest.
+5 archaic a tendency to move in a fixed direction. ORIGIN late Middle English (in the senses ‘settlement of a controversy by a judge or by reasoning’ and ‘authoritative opinion’): via Old French from Latin determinatio(n-), from the verb determinare (see determine) .

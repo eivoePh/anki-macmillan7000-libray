@@ -9,9 +9,20 @@ BrE noun
 ⑥ CountableSport (team members) 防守队员 fángshǒu duìyuán to play in or for the defence 打防守 
 ⑦ UncountableSport (protection of title) 卫冕 wèimiǎn Barcelona's defence of the European Cup 巴塞罗那队对欧洲冠军杯的成功卫冕 
 defense 
+dəˈfens ˈdēˌfens 
+(British defence) 
 ▶noun
-1 the defense of the fortress: protection, guarding, security, fortification; resistance, deterrent.
-2 the enemy's defenses: barricade, fortification; fortress, keep, rampart, bulwark, bastion.
-3 he spoke in defense of his boss: vindication, justification, support, advocacy, endorsement; apology, explanation, exoneration.
-4 more spending on defense: armaments, weapons, weaponry, arms; the military, the armed forces.
-5 the prisoner's defense: vindication, explanation, mitigation, justification, rationalization, excuse, alibi, reason; plea, pleading; testimony, declaration, case.
+1 the action of defending from or resisting attack: they relied on missiles for the country's defense 
+she came to the defense of the eccentric professor 
+he spoke in defense of a disciplined approach. 
+• an instance of defending a title or seat in a contest or election: his first title defense against Jones. 
+• military measures or resources for protecting a country: the minister of defense 
+[as modifier] : defense policy. 
+• a means of protecting something from attack: education is the best defense against tyranny. 
+• (defenses) fortifications or barriers against attack: coastal defenses. 
+• (in sports) the action or role of defending one's goal against the opposition: we played solid defense. 
+• (the defense) the players in a team who defend the goal.
+2 the case presented by or on behalf of the party being accused or sued in a lawsuit.
+3 (usually the defense) [treated as singular or plural] one or more defendants and the counsel in a trial: the defense requested more time to prepare their case. 
+PHRASES
+defense in depth the practice of arranging defensive lines or fortifications so that they can defend each other, especially in case of an enemy incursion.ORIGIN Middle English: from Old French defens, from late Latin defensum (neuter), defensa (feminine), past participles of defendere ‘defend.’

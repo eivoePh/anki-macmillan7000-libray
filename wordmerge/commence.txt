@@ -4,4 +4,7 @@ formal
 A.  intransitive verb 开始 kāishǐ to commence with a song 以一首歌开始 
 B.  transitive verb 开始 kāishǐ to commence doing [something] 开始做某事 to commence proceedings (against [somebody]) （对某人）提起诉讼 
 commence 
-▶verb the meeting will commence at noon: begin, start; get the ball rolling, get going, get underway, get off the ground, set about, embark on, launch into, lead off; open, initiate, inaugurate; informal kick off, get the show on the road. ANTONYMS conclude.
+kəˈmens
+
+▶verb begin; start: [with object] : his design team commenced work 
+[no object] : a public inquiry is due to commence on the 16th. ORIGIN Middle English: from Old French commencier, comencier, based on Latin com- (expressing intensive force) + initiare ‘begin.’

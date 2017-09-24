@@ -1,3 +1,9 @@
-waterfall noun 瀑布 pùbù 
+waterfall
+ˈwôdərˌfôlˈwädərˌfôl
+noun
+瀑布 pùbù 
 waterfall 
-▶noun a family of otters was frolicking in the waterfall: cascade, cataract, falls, chute.
+ˈwôdərˌfôl ˈwädərˌfôl
+
+▶noun a cascade of water falling from a height, formed when a river or stream flows over a precipice or steep incline. 
+▶adjective relating to or denoting a method of project management that is characterized by sequential stages and a fixed plan of work: each phase of a waterfall project must be complete prior to moving to the next phase. Contrasted with agile ( sense 2). 

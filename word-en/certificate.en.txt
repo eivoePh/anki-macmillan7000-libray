@@ -1,2 +1,10 @@
 certificate 
-▶noun do you have any type of certificate that proves your ownership? guarantee, certification, document, authorization, registration, authentication, credentials, accreditation, license, diploma.
+▶noun 
+sərˈtifəkət 
+an official document attesting a certain fact, in particular: 
+• a document recording a person's birth, marriage, or death. 
+• a document attesting a level of achievement in a course of study or training: graduate certificate in information technology. 
+• a document attesting ownership of a certain item: a stock certificate. 
+▶verb 
+ˌsərˈtifəkāt 
+[with object] British provide with or attest in an official document. ORIGIN late Middle English (in the sense ‘certification, attestation’): from French certificat or medieval Latin certificatum, from certificare (see certify) .

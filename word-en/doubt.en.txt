@@ -1,13 +1,20 @@
 doubt 
-▶noun
-1 there was some doubt as to the caller's identity: uncertainty, unsureness, indecision, hesitation, dubiousness, suspicion, confusion; queries, questions; formal dubiety. ANTONYMS certainty.
-2 a weak leader racked by doubt: indecision, hesitation, uncertainty, insecurity, unease, uneasiness, apprehension; hesitancy, vacillation, irresolution. ANTONYMS confidence, conviction.
-3 there is doubt about their motives: skepticism, distrust, mistrust, doubtfulness, suspicion, cynicism, uneasiness, apprehension, wariness, chariness, leeriness; reservations, misgivings, suspicions; formal dubiety. ANTONYMS trust.
+dout
+
+▶noun a feeling of uncertainty or lack of conviction: some doubt has been cast upon the authenticity of this account 
+they had doubts that they would ever win. 
 ▶verb
-1 they doubted my story: disbelieve, distrust, mistrust, suspect, have doubts about, be suspicious of, have misgivings about, have qualms about, feel uneasy about, feel apprehensive about, query, question, challenge. ANTONYMS trust.
-2 I doubt whether he will come: think something unlikely, have (one's) doubts about, question, query, be dubious. ANTONYMS be confident.
-3 stop doubting and believe! be undecided, have doubts, be irresolute, be ambivalent, be doubtful, be unsure, be uncertain, be of two minds, hesitate, shilly-shally, waver, vacillate. ANTONYMS believe.
+1 [with object] feel uncertain about: I doubt my ability to do the job. 
+• question the truth or fact of (something): who can doubt the value of these services? 
+[with clause] : I doubt if anyone slept that night. 
+• disbelieve (a person or their word): I have no reason to doubt him. 
+• [no object] feel uncertain, especially about one's religious beliefs.
+2 [with clause] archaic fear; be afraid of: I doubt not your contradictions. 
 PHRASES
-in doubt
-1 the issue was in doubt: doubtful, uncertain, open to question, unconfirmed, unknown, undecided, unresolved, in the balance, up in the air; informal iffy.
-2 if you are in doubt, ask for advice: irresolute, hesitant, vacillating, dithering, wavering, ambivalent; doubtful, unsure, uncertain, of two minds, shilly-shallying, undecided, in a quandary, in a dilemma; informal sitting on the fence. no doubt he's no doubt read the note by now: doubtless, undoubtedly, indubitably, doubtlessly, without (a) doubt; unquestionably, undeniably, incontrovertibly, irrefutably; unequivocally, clearly, plainly, obviously, patently. CHOOSE THE RIGHT WORD See uncertainty .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.QUOTE I respect faith, but doubt is what gets you an education.Wilson Mizner, American playwright
+beyond (a or a shadow of a) doubt allowing no uncertainty: you've proved it beyond doubt 
+they knew beyond a shadow of a doubt what made them happy. in doubt open to question: the outcome is no longer in doubt. 
+• feeling uncertain about something: by the age of
+14 he was in no doubt about his career aims. no doubt used to indicate the speaker's firm belief that something is true even if evidence is not given or available: those who left were attracted, no doubt, by higher pay. 
+• used to introduce a concession that is subsequently dismissed as unimportant or irrelevant: they no doubt did what they could to help her, but their best proved insufficient. without (a) doubt indisputably: he was without doubt the very worst kind of reporter.DERIVATIVES doubtable 
+ˈdoudəb(ə)l 
+adjectiveORIGIN Middle English: from Old French doute (noun), douter (verb), from Latin dubitare ‘hesitate,’ from dubius ‘doubtful’ (see dubious) .

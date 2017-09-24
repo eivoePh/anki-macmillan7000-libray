@@ -1,4 +1,8 @@
 virus 
+ˈvīrəs
+
 ▶noun
-1 the child caught a virus: disease, bug, infection; dated contagion.
-2 a computer virus: worm, Trojan Horse.
+1 an infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host: [as modifier] : a virus infection. 
+• an infection or disease caused by a virus. 
+• a harmful or corrupting influence: the virus of cruelty that is latent in all human beings.
+2 (also computer virus) a piece of code that is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data. ORIGIN late Middle English (denoting the venom of a snake): from Latin, literally ‘slimy liquid, poison.’ The earlier medical sense, superseded by the current use as a result of improved scientific understanding, was ‘a substance produced in the body as the result of disease, especially one that is capable of infecting others with the same disease.’

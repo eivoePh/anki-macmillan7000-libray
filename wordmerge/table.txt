@@ -11,8 +11,34 @@ B.  transitive verb
 ① BrE Politics (submit for discussion) 把…提交讨论 bǎ… tíjiāo tǎolùn ‹motion, report, amendment, proposal›to be tabled for discussion 被提交讨论 
 ② AmE (postpone) 搁置 gēzhì ‹motion, report, amendment, proposal›
 table 
+ˈtābəl
+
 ▶noun
-1 put the plates on the table: stand, dining table, kitchen table, coffee table; counter, work surface, worktable, workbench; bar, buffet; desk; nightstand.
-2 he provides an excellent table: meal, food, fare, menu, nourishment; eatables, provisions; informal spread, grub, chow, eats, nosh; literary viands; dated victuals.
-3 the report has numerous tables: chart, diagram, figure, graph, plan; list, tabulation, index.
-▶verb the council tabled the rezoning issue until April: postpone, delay, defer, sideline, put on the back burner.
+1 a piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed, and that can be used for such purposes as eating, writing, working, or playing games. 
+• [in singular] food provided in a restaurant or household: he was reputed to have the finest French table of the time. 
+• a group seated at a table for a meal: the whole table was in gales of laughter. 
+• (the table) a meeting place or forum for formal discussions held to settle an issue or dispute: the negotiating table. 
+• [in singular] Bridge the dummy hand (which is exposed on the table): they made the hand easily with the aid of a club ruff on the table.
+2 a set of facts or figures systematically displayed, especially in columns: the population has grown, as shown in table
+1 
+a table of contents. 
+• Computing a collection of data stored in memory as a series of records, each defined by a unique key stored with it.
+3 a flat surface, in particular: 
+• Architecture a flat, typically rectangular, vertical surface. 
+• a horizontal molding, especially a cornice. 
+• a slab of wood or stone bearing an inscription. 
+• a flat surface of a gem. 
+• a cut gem with two flat faces. 
+• each half or quarter of a folding board for backgammon. 
+▶verb [with object]
+1 chiefly US postpone consideration of: I'd like the issue to be tabled for the next few months.
+2 British present formally for discussion or consideration at a meeting: an MP tabled an amendment to the bill. 
+PHRASES
+at table seated at a table eating a meal. lay something on the table
+1 make something known so that it can be freely and sensibly discussed.
+2 chiefly US postpone something indefinitely. on the table offered for discussion: our offer remains on the table. turn the tables reverse one's position relative to someone else, especially by turning a position of disadvantage into one of advantage: police invited householders to a seminar on how to turn the tables on burglars. under the table
+1 informal very drunk: by 3:30 everybody was under the table.
+2 (especially of making a payment) secretly or covertly: he accepted a slew of payoffs under the table. 
+• another term for under the counter (see counter1). DERIVATIVES tableful 
+ˈtāb(ə)lˌfo͝ol 
+noun (plural tablefuls) ORIGIN Old English tabule ‘flat slab, inscribed tablet,’ from Latin tabula ‘plank, tablet, list,’ reinforced in Middle English by Old French table .

@@ -1,10 +1,14 @@
 awake 
-▶verb
-1 she awoke the following morning: wake (up), awaken, stir, come to, come around; literary waken.
-2 the alarm awoke her at 7:30: wake (up), awaken, rouse, arouse.
-3 it awoke our interest. See awaken (sense 2).
-4 they finally awoke to the extent of the problem: realize, become aware of, become conscious of; informal clue in to, get wise to.
-▶adjective
-1 she was still awake at 2:00: wakeful, sleepless, restless, restive; archaic watchful. ANTONYMS asleep.
-2 stay awake at all times: vigilant, alert, watchful, attentive, on guard. ANTONYMS inattentive.
-3 too few are awake to the dangers: aware of, conscious of, mindful of, alert to; formal cognizant of; informal clued in to; archaic ware of. ANTONYMS unaware, oblivious.
+əˈwāk
+
+▶verb (past awoke 
+əˈwōk
+; past participle awoken 
+əˈwōkən
+) [no object] stop sleeping; wake from sleep: she awoke to find the streets covered in snow. 
+• [with object] cause (someone) to wake from sleep: my screams awoke my parents. 
+• regain consciousness: I awoke six hours after the operation. 
+• (awake to) become aware of; come to a realization of: the authorities finally awoke to the extent of the problem. 
+• make or become active again: there were echoes and scents that awoke some memory in me. 
+▶adjective [predicative] not asleep: the noise might keep you awake at night. 
+• (awake to) aware of: too few are awake to the dangers. ORIGIN Old English āwæcnan, āwacian, both used in the sense ‘come out of sleep’ (see a-2, wake1) .

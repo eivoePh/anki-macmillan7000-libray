@@ -6,8 +6,10 @@ transitive verb
 ③ (compose) 构成 gòuchéng ‹part, whole›oxygen constitutes one of the elements of water 氧是构成水的元素之一 
 ④ formal (set up) 成立 chénglì ‹organization, body›
 constitute 
-▶verb
-1 farmers constituted
-10 percent of the population: amount to, add up to, account for, form, make up, compose.
-2 this constitutes a breach of copyright: be equivalent to, be, embody, be tantamount to, be regarded as.
-3 the courts were constituted in 1875: inaugurate, establish, initiate, found, create, set up, start, form, organize, develop; commission, charter, invest, appoint, install, empower.
+ˈkänstəˌt(y)o͞ot
+
+▶verb [with object]
+1 be (a part) of a whole: single parents constitute a great proportion of the poor. 
+• (of people or things) combine to form (a whole): there were enough members present to constitute a quorum. 
+• be or be equivalent to (something): his failure to act constituted a breach of duty.
+2 (usually be constituted) give legal or constitutional form to (an institution); establish by law. ORIGIN late Middle English: from Latin constitut- ‘established, appointed,’ from the verb constituere, from con- ‘together’ + statuere ‘set up.’

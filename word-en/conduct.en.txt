@@ -1,10 +1,22 @@
 conduct 
-▶noun
-1 they complained about her conduct: behavior, performance, demeanor; actions, activities, deeds, doings, exploits; habits, manners; formal comportment.
-2 the conduct of the elections: management, running, direction, control, supervision, regulation, administration, organization, coordination, orchestration, handling.
-▶verb
-1 the election was conducted lawfully: manage, direct, run, administer, organize, coordinate, orchestrate, handle, control, oversee, supervise, regulate, carry out/on.
-2 he was conducted through the corridors: escort, guide, lead, usher, show; shepherd, see, bring, take, help.
-3 aluminum conducts heat: transmit, convey, carry, transfer, impart, channel, relay; disseminate, diffuse, radiate.
-PHRASES
-conduct oneself I am proud of the way they conducted themselves: behave, act, acquit oneself, bear oneself; formal comport oneself.
+▶noun 
+ˈkänˌdəkt 
+
+1 the manner in which a person behaves, especially on a particular occasion or in a particular context: the conduct of the police during the riot 
+members are bound by a code of conduct.
+2 the action or manner of managing an activity or organization: his conduct of the campaign. 
+• archaic the action of leading; guidance: traveling through the world under the conduct of chance. 
+▶verb 
+kənˈdəkt 
+[with object]
+1 organize and carry out: in the second trial he conducted his own defense 
+surveys conducted among students. 
+• direct the performance of (a piece of music or a musical ensemble): my first attempt to conduct a great work 
+[no object] : Toscanini is coming to conduct. 
+• lead or guide (someone) to or around a particular place: he conducted us through his personal gallery of the Civil War. 
+• Physics transmit (a form of energy such as heat or electricity) by conduction: heat is conducted to the surface.
+2 (conduct oneself) behave in a specified way: he conducted himself with the utmost propriety. DERIVATIVES conductible 
+kənˈdəktəbəl 
+adjective. conductibility 
+kənˌdəktəˈbilədē 
+nounORIGIN Middle English: from Old French, from Latin conduct- ‘brought together,’ from the verb conducere. The term originally denoted some provision for safe passage, such as an escort or pass, surviving in safe conduct; later the verb sense ‘lead, guide’ arose, hence ‘manage’ and ‘management’ (late Middle English), later ‘management of oneself, behavior’ (mid 16th century). The original form of the word was conduit, which was preserved only in the sense ‘channel’ (see conduit); in all other uses the spelling was influenced by Latin.

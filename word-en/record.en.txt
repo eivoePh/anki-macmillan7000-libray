@@ -1,18 +1,33 @@
 record 
-▶noun
-1 written records of the past: account(s), document(s), documentation, data, file(s), dossier(s), evidence, report(s); annals, archive(s), chronicle(s); minutes, transactions, proceedings, transcript(s); certificate(s), instrument(s), deed(s); register, log, logbook; trademark daytimer; Law muniment(s).
-2 we just lounged about, listening to records and chatting and laughing: album, vinyl; dated phonograph record, LP, single, forty-five, seventy-eight.
-3 the judge weighed the factor of his good record: previous conduct/performance, track record, history, life history, reputation.
-4 she's got armed robbery on her record: criminal record, police record; informal rap sheet.
-5 she won the race and set a new record: best performance, highest achievement; best time, fastest time; world record.
-6 a lasting record of what they have achieved: reminder, memorial, souvenir, memento, remembrance, testament.
-▶adjective record profits: record-breaking, best ever, unsurpassed, unparalleled, unequaled, second to none.
-▶verb
-1 the doctor recorded her blood pressure: write down, put in writing, take down, note, make a note of, jot down, put down on paper; document, put on record, enter, register, log; list, catalog.
-2 the thermometer recorded a high temperature: indicate, register, show, display.
-3 the team recorded their fourth win: achieve, accomplish, chalk up, notch up.
-4 the recital was recorded live: make a record/recording of, tape, tape-record; video-record, videotape, video.
+▶noun 
+ˈrekərd 
+
+1 a thing constituting a piece of evidence about the past, especially an account of an act or occurrence kept in writing or some other permanent form: identification was made through dental records 
+a record of meter readings. 
+• (also court record) Law an official report of the proceedings and judgment in a court. 
+• Computing a number of related items of information that are handled as a unit.
+2 the sum of the past achievements or actions of a person or organization; a person or thing's previous conduct or performance: the safety record at the airport 
+the team preserved its unbeaten home record. 
+• short for criminal record.
+3 (especially in sports) the best performance or most remarkable event of its kind that has been officially measured and noted: he held the world record for over a decade 
+he managed to beat the record 
+[as modifier] : record profits.
+4 a thin plastic disk carrying recorded sound, especially music, in grooves on each surface, for reproduction by a record player. 
+• a piece or collection of music reproduced on a phonographic record or on another medium, such as compact disc: my favorite record 
+[as modifier] : a record company. 
+▶verb 
+rəˈkôrd 
+[with object]
+1 set down in writing or some other permanent form for later reference, especially officially: they were asked to keep a diary and record everything they ate or drank 
+(as adjective recorded) : levels of recorded crime. 
+• state or express publicly or officially; make an official record of: the coroner recorded a verdict of accidental death. 
+• (of an instrument or observer) show or register (a measurement or result): the temperature was the lowest recorded since 1926. 
+• achieve (a certain score or result): they recorded their first win of the season.
+2 convert (sound or a performance) into permanent form for later reproduction: they were recording a guitar recital. 
+• produce (a piece or collection of music or a program) by recording a live performance: they go into the studio next week to record their debut album. 
 PHRASES
-off the record
-1 his comments were off the record: unofficial, confidential, in (strict) confidence, not to be made public.
-2 they admitted, off the record, that they had made a mistake: unofficially, privately, in (strict) confidence, confidentially, between ourselves.
+for the record so that the true facts are recorded or known: for the record, I have never been to the apartment. a matter of record a thing that is established as a fact through being officially recorded. off the record not made as an official or attributable statement. on record
+1 (also on the record) used in reference to the making of an official or public statement: he seems shadowy because he rarely speaks on the record.
+2 officially measured and noted: it proved to be one of the warmest Decembers on record. set (or put) the record straight give the true version of events that have been reported incorrectly; correct a misapprehension.DERIVATIVES recordable 
+rēˈkôrdəb(ə)l 
+adjectiveORIGIN Middle English: from Old French record ‘remembrance,’ from recorder ‘bring to remembrance,’ from Latin recordari ‘remember,’ based on cor, cord- ‘heart.’ The noun was earliest used in law to denote the fact of being written down as evidence. The verb originally meant ‘narrate orally or in writing,’ also ‘repeat so as to commit to memory.’

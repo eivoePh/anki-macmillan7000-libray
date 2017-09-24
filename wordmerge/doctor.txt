@@ -10,8 +10,22 @@ B.  transitive verb
 ③ BrE Veterinary medicine (neuter) 阉割 yāngē ‹animal›
 ④ (add poison to) 将有害物掺入 jiāng yǒuhàiwù chānrù ‹drink, food, medicine›to doctor [something] with [something]; 用某有害物掺入某物 
 doctor 
-▶noun Claudio went to see a doctor: physician, MD, medical practitioner, clinician; general practitioner, GP; medic, intern; informal doc, medico, quack, sawbones.
-▶verb
-1 informal he doctored their wounds: treat, medicate, cure, heal; tend, attend to, minister to, care for, nurse.
-2 he doctored Stephen's drink: adulterate, contaminate, tamper with, lace; informal spike, dope.
-3 the reports have been doctored: falsify, tamper with, interfere with, alter, change; forge, fake; informal cook, fiddle with.
+ˈdäktər
+
+▶noun
+1 a qualified practitioner of medicine; a physician. 
+• North American a qualified dentist or veterinary surgeon. 
+• [with modifier] informal a person who gives advice or makes improvements: the script doctor rewrote the original.
+2 (Doctor) a person who holds a doctorate: he was made a Doctor of Divinity. 
+• short for Doctor of the Church. 
+• archaic a teacher or learned person: the wisest doctor is graveled by the inquisitiveness of a child.
+3 an artificial fishing fly. 
+▶verb [with object]
+1 change the content or appearance of (a document or picture) in order to deceive; falsify: the reports could have been doctored. 
+• alter the content of (a drink, food, or substance) by adding strong or harmful ingredients: he denied doctoring Stephen's drinks. 
+• Baseball tamper with (a ball) so as to affect its movement when pitched.
+2 (usually as noun doctoring) informal treat (someone) medically: he contemplated giving up doctoring. 
+• British remove the sexual organs of (an animal) so that it cannot reproduce. 
+• repair (a machine). 
+PHRASES
+be (just) what the doctor ordered informal be very beneficial or desirable under the circumstances: a 2-0 victory is just what the doctor ordered.DERIVATIVES doctorly adjectiveORIGIN Middle English (in the senses ‘learned person’ and ‘Doctor of the Church’): via Old French from Latin doctor ‘teacher’ (from docere ‘teach’).

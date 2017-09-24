@@ -1,15 +1,28 @@
-kill 
-▶verb
-1 gangs killed twenty-seven people: murder, take/end the life of, assassinate, eliminate, terminate, dispatch, finish off, put to death, execute; slaughter, butcher, massacre, wipe out, annihilate, exterminate, mow down, shoot down, cut down, cut to pieces; informal bump off, polish off, do away with, do in, knock off, take out, croak, stiff, blow away, liquidate, dispose of, ice, snuff, rub out, waste, whack, smoke; euphemistic neutralize; literary slay.
-2 this would kill all hopes of progress: destroy, put an end to, end, extinguish, dash, quash, ruin, wreck, shatter, smash, crush, scotch, thwart; informal put the kibosh on, stymie, scuttle.
-3 we had to kill several hours at the airport: while away, fill (up), occupy, pass, spend, waste.
-4 informal you must rest or you'll kill yourself: exhaust, wear out, tire out, overtax, overtire, fatigue, weary, sap, drain, enervate, knock out.
-5 informal my feet were killing me: hurt, cause pain to, torture, torment, cause discomfort to; be painful, be sore, be uncomfortable.
-6 a shot to kill the pain: alleviate, assuage, soothe, allay, dull, blunt, deaden, stifle, suppress, subdue.
-7 informal an opposition attempt to kill the bill: veto, defeat, vote down, rule against, reject, throw out, overrule, overturn, put a stop to, quash, squash.
-8 informal Noel killed the engine: turn off, switch off, stop, shut off/down, cut.
-▶noun
-1 the hunter's kill: prey, quarry, victim, bag.
-2 the wolf was moving in for the kill: death blow, killing, dispatch, finish, end, coup de grâce.
-WORD LINKS
-kill -cide forming words that refer to a person or substance that kills, such as insecticide (‘a substance used for killing insects’), or to the killing of a person, such as infanticide (‘the killing of a baby or very young child’)Word Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+kill
+1 
+kil
+
+▶verb [with object]
+1 cause the death of (a person, animal, or other living thing): her father was killed in a car crash 
+[no object] : a robber armed with a shotgun who kills in cold blood. 
+• (kill someone/something off) get rid of or destroy completely, especially in large numbers: there is every possibility all river life would be killed off for generations. 
+• (kill someone off) (of a writer) bring about the “death” of a fictional character.
+2 put an end to or cause the failure or defeat of (something): the committee voted to kill the project. 
+• stop (a computer program or process). 
+• informal switch off (a light or engine). 
+• informal delete (a line, paragraph, or file) from a document or computer. 
+• informal consume the entire contents of (a bottle containing an alcoholic drink). 
+• (in tennis and similar games) hit (the ball) so forcefully that it cannot be returned. 
+• (in soccer or other ball games) make (the ball) stop. 
+• neutralize or subdue (an effect or quality): the sauce would kill the taste of the herbs.
+3 informal overwhelm (someone) with an emotion: the suspense is killing me. 
+• (kill oneself) overexert oneself: I killed myself carrying those things home. 
+• used hyperbolically to indicate that someone will be extremely angry with (another person): my parents will kill me if they catch me out here. 
+• cause pain or anguish to: my feet are killing me.
+4 pass (time, or a specified amount of it), typically while waiting for a particular event: when he reached the station, he found he actually had an hour to kill. 
+▶noun [usually in singular] an act of killing, especially of one animal by another: a lion has made a kill. 
+• an animal or animals killed, either by a hunter or by another animal: the vulture is able to survey the land and locate a fresh kill. 
+• informal an act of destroying or disabling an enemy aircraft, submarine, tank, etc. 
+• (in tennis and similar games) a very forceful shot that cannot be returned. 
+PHRASES
+be in at the kill be present at or benefit from the successful conclusion of an enterprise. go (or move in or close in) for the kill take decisive action, often ruthlessly, to turn a situation to one's advantage. if it kills one informal whatever the problems or difficulties involved: we are going to smile and be pleasant if it kills us. kill oneself laughing informal be overcome with laughter. kill two birds with one stone proverb achieve two aims at once. kill with (or by) kindness spoil with overindulgence.ORIGIN Middle English (in the sense ‘strike, beat,’ also ‘put to death’): probably of Germanic origin and related to quell. The noun originally denoted a stroke or blow.

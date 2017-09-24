@@ -1,3 +1,5 @@
 detector 
-BrE dɪˈtɛktə, AmE dəˈtɛktər 
-noun 探测器 tàncèqì 
+dəˈtektər
+
+▶noun [often with modifier] a device or instrument designed to detect the presence of a particular object or substance and to emit a signal in response: methane detectors. 
+• another term for demodulator (see demodulate). 

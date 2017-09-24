@@ -13,10 +13,17 @@ transitive verb
 ⑧ Politics 将…提交讨论 jiāng… tíjiāo tǎolùn to introduce a bill 提交议案 
 ⑨ (insert) 插入 chārù ‹needle, tube›; 添入 tiānrù ‹substance›
 introduce 
-▶verb
-1 she has introduced a new system: institute, initiate, launch, inaugurate, establish, found; bring in, usher in, set in motion, start, begin, commence, get going, get underway, originate, pioneer, kick off.
-2 she introduced new legislation: propose, put forward, suggest, bring to the table, submit; set forth, raise, broach, bring up, mention, air, float; informal run something up the flagpole.
-3 she introduced Lindsey to the young man: present (formally), make known, acquaint with.
-4 brewers are introducing nitrogen into canned beer: insert, inject, put, force, shoot, feed.
-5 she introduced a note of severity into her voice: instill, infuse, inject, add, insert.
-6 Clayton introduces the program each week: announce, present, give an introduction to; start off, begin, open.
+ˌintrəˈd(y)o͞os
+
+▶verb [with object]
+1 bring (something, especially a product, measure, or concept) into use or operation for the first time: various new taxes were introduced 
+measures were introduced to help families with children. 
+• (introduce something to) bring a subject to the attention of (someone) for the first time: the program is a bid to introduce opera to the masses. 
+• present (a new piece of legislation) for debate in a legislative assembly. 
+• bring (a new plant, animal, or disease) to a place and establish it there: a cold-resistant strain of sugar cane was introduced to Louisiana.
+2 make (someone) known by name to another in person, especially formally: I hope to introduce Jenny to them very soon.
+3 insert or bring into something: a device that introduces chlorine into the pool automatically.
+4 occur at the start of; open: a longer, more lyrical opening that introduces her first solo. 
+• (of a person) provide an opening explanation or announcement for (a television or radio program, book, etc.). DERIVATIVES introducer 
+ˌintrəˈd(y)o͞osər 
+nounORIGIN late Middle English (in the sense ‘bring (a person) into a place or group’): from Latin introducere, from intro- ‘to the inside’ + ducere ‘to lead.’

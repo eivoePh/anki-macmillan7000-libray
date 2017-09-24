@@ -18,16 +18,34 @@ C.  transitive verb
 ③ (blend) 揉合 róuhé ‹colour, tone›I'll shade the orange into the brown 我要把橙色调成褐色 
 D.  intransitive verb «colour, tone» 渐变 jiàn biàn to shade to or into … 渐变为… right shades into wrong 正确与错误之间没有明显的界限 
 shade 
+SHād
+
 ▶noun
-1 they sat in the shade: shadow(s), shadiness, shelter, cover; cool. ANTONYMS light, glare.
-2 shades of blue: color, hue, tone, tint, tinge.
-3 shades of meaning: nuance, gradation, degree, difference, variation, variety; nicety, subtlety; undertone, overtone.
-4 her skirt was a shade too short: a little, a bit, a trace, a touch, a modicum, a tinge; slightly, rather, somewhat; informal a tad, a smidgen, a titch, a tinch, a hair.
-5 the window shade: blind, curtain, screen, cover, covering, brise-soleil; awning, canopy.
-6 informal (shades) he was wearing shades: sunglasses, dark glasses; proprietary Polaroids, Raybans.
-▶verb
-1 vines shaded the garden: cast a shadow over, shadow, shelter, cover, screen; darken.
-2 she shaded in the picture: darken, color in, pencil in, block in, fill in; cross-hatch.
-3 the sky shaded from turquoise to blue: change, transmute, turn, go; merge, blend, graduate.
+1 comparative darkness and coolness caused by shelter from direct sunlight: sitting in the shade 
+this area will be in shade for much of the day. 
+• the darker part of a picture. 
+• a position of relative inferiority or obscurity: her elegant pink and black ensemble would put most outfits in the shade. 
+• (usually shades) literary a shadow or area of darkness: the shades of evening drew on. 
+• historical a portrait in silhouette.
+2 a color, especially with regard to how light or dark it is or as distinguished from one nearly like it: various shades of blue 
+Maria's eyes darkened in shade. 
+• Art a slight degree of difference between colors. 
+• a slightly differing variety of something: politicians of all shades of opinion. 
+• [in singular] a slight amount of something: there is a shade of wistfulness in his rejection.
+3 a lampshade. 
+• (often shades) North American a screen or blind on a window. 
+• an eyeshade. 
+• (shades) informal sunglasses.
+4 literary a ghost. 
+• (the Shades) the underworld; Hades. 
+▶verb [with object]
+1 screen from direct light: she shaded her eyes against the sun. 
+• cover, moderate, or exclude the light of: he shaded the flashlight with his hand.
+2 darken or color (an illustration or diagram) with parallel pencil lines or a block of color: she shaded in the outline of a chimney. 
+• [no object] (of a color or something colored) gradually change into another color: the sky shaded from turquoise to night blue.
+3 make a slight reduction in the amount, rate, or price of: banks may shade the margin over base rate they charge customers. 
 PHRASES
-put in the shade Candi's clarinet solo puts mine in the shade: surpass, outshine, outclass, overshadow, eclipse, transcend, cap, top, outstrip, outdo, put to shame, beat, outperform, upstage; informal run rings around, be a cut above. shades of this weekend has been perfectly romantic—you know, shades of our honeymoon: echoes of, a reminder of, memories of, suggestions of, hints of.
+a shade —— a little ——: he was a shade hung over. shades of —— used to suggest reminiscence of or comparison with someone or something specified: a long, drawn-out orchestral climax (shades of Wagner or Strauss). throw shade US informal publicly criticize or express contempt for someone: if she was really so above it all, she wouldn't have to throw shade 
+they weren't the only people who threw shade at her performance.DERIVATIVES shadeless 
+ˈSHādlis 
+adjective. shader nounORIGIN Old English sc(e)adu, of Germanic origin. Compare with shadow .

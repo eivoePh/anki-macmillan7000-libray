@@ -5,6 +5,14 @@ transitive verb
 ② (explain) «person» 为…辩解 wèi… biànjiě ‹actions, remark›to justify oneself; 为自己辩解 to justify doing [something]; 证明做某事是有道理的 
 ③ Printing 使…齐行 shǐ… qíháng ‹margin, text›
 justify 
-▶verb
-1 directors must justify the expenditure: give grounds for, give reasons for, give a justification for, explain, give an explanation for, account for; defend, answer for, vindicate.
-2 the situation justified further investigation: warrant, be good reason for, be a justification for.
+ˈjəstəˌfī
+
+▶verb (justifies, justifying, justified) [with object]
+1 show or prove to be right or reasonable: the person appointed has fully justified our confidence. 
+• be a good reason for: the situation was grave enough to justify further investigation.
+2 Theology declare or make righteous in the sight of God.
+3 Printing adjust (a line of type or piece of text) so that the print fills a space evenly or forms a straight edge at one or both margins. DERIVATIVES justificatory 
+jəˈstifəkəˌtôrē ˌjəstəˈfikəˌtôrē 
+adjective. justifier 
+ˈjəstəˌfīr 
+nounORIGIN Middle English (in the senses ‘administer justice to’ and ‘inflict a judicial penalty on’): from Old French justifier, from Christian Latin justificare ‘do justice to,’ from Latin justus (see just) .

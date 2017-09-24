@@ -5,10 +5,15 @@ noun
 ② Countable(essential need, item) 必需品 bìxūpǐn the necessities of life 生活必需品 to be a necessity 是必不可少的东西 the bare necessities 基本的必需品 necessity is the mother of invention proverb 需要是发明之母 
 ③ Countable(required action) 必要的措施 bìyào de cuòshī a political necessity 政治需要 to be an absolute necessity 是绝对必须做的事 
 necessity 
-▶noun
-1 the microwave is now regarded as a necessity: essential, indispensable item, requisite, prerequisite, necessary, basic, sine qua non, desideratum; informal must-have.
-2 political necessity forced him to resign: force of circumstance, obligation, need, call, exigency; force majeure.
-3 the necessity of growing old: inevitability, certainty, inescapability, inexorability, ineluctability.
-4 necessity made them steal: poverty, need, neediness, want, deprivation, privation, penury, destitution, indigence.
+nəˈsesədē
+
+▶noun (plural necessities)
+1 the fact of being required or indispensable: the necessity of providing parental guidance should be apparent 
+the necessity for law and order. 
+• unavoidability: the necessity of growing old. 
+• a state of things or circumstances enforcing a certain course: created more by necessity than design.
+2 an indispensable thing: a good book is a necessity when traveling.
+3 Philosophy the principle according to which something must be so, by virtue either of logic or of natural law. 
+• a condition that cannot be otherwise, or a statement asserting this. 
 PHRASES
-of necessity the renovations will, of necessity, require a more aggressive fundraising campaign: necessarily, inevitably, unavoidably, inescapably, ineluctably; as a matter of course, naturally, automatically, certainly, surely, definitely, incontrovertibly, undoubtedly; formal perforce.
+necessity is the mother of invention proverb when the need for something becomes imperative, you are forced to find ways of getting or achieving it. of necessity unavoidably: to alleviate labor shortages employers will, of necessity, offer better deals for part-timers.ORIGIN late Middle English: from Old French necessite, from Latin necessitas, from necesse ‘needful.’

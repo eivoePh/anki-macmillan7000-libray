@@ -1,3 +1,6 @@
 defect
 1 
-▶noun he spotted a defect in my work: fault, flaw, imperfection, deficiency, weakness, weak spot, inadequacy, shortcoming, limitation, failing; kink, deformity, blemish; mistake, error; informal glitch; Computing bug.
+ˈdēfekt
+
+▶noun a shortcoming, imperfection, or lack: genetic defects 
+the property is free from defect. ORIGIN late Middle English (as a noun, influenced by Old French defect ‘deficiency’): from Latin defectus, past participle of deficere ‘desert or fail,’ from de- (expressing reversal) + facere ‘do.’

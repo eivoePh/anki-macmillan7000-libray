@@ -1,8 +1,15 @@
 function 
+ˈfəNG(k)SH(ə)n
+
 ▶noun
-1 the main function of the machine: purpose, task, use, role.
-2 my function was to select and train the recruits: responsibility, duty, role, concern, province, activity, assignment, obligation, charge; task, job, mission, undertaking, commission; capacity, post, situation, office, occupation, employment, business.
-3 a function attended by local dignitaries: social event, party, social occasion, affair, gathering, reception, soirée, after-party, jamboree, gala, meet-and-greet; informal do, bash, shindig.
-▶verb
-1 the electrical system had ceased to function: work, go, run, be in working/running order, operate, be operative.
-2 the museum functions as an educational center: act as, serve as, operate as; perform as, work as, play the role of, do duty as.
+1 an activity or purpose natural to or intended for a person or thing: bridges perform the function of providing access across water 
+Vitamin A is required for good eye function. 
+• practical use or purpose in design: building designs that prioritize style over function. 
+• a basic task of a computer, especially one that corresponds to a single instruction from the user.
+2 Mathematics a relationship or expression involving one or more variables: the function (bx + c). 
+• a variable quantity regarded in relation to one or more other variables in terms of which it may be expressed or on which its value depends. 
+• Chemistry a functional group.
+3 a thing dependent on another factor or factors: class shame is a function of social power.
+4 a large or formal social event or ceremony: he was obliged to attend party functions. 
+▶verb [no object] work or operate in a proper or particular way: her liver is functioning normally. 
+• (function as) fulfill the purpose or task of (a specified thing): the museum intends to function as an educational and study center. DERIVATIVES functionless adjectiveORIGIN mid 16th century: from French fonction, from Latin functio(n-), from fungi ‘perform.’

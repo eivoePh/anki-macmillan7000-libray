@@ -8,6 +8,14 @@ noun
 ⑤ Mathematics (instrument) 函数尺 hánshùchǐ 
 ⑥ Computing 扇区 shànqū 
 sector 
-▶adjective
-1 every sector of the industry is affected: part, branch, arm, division, area, department, field, sphere.
-2 the northeastern sector of the town: district, quarter, part, section, zone, region, area, belt.
+ˈsektər
+
+▶noun
+1 an area or portion that is distinct from others. 
+• a distinct part or branch of a nation's economy or society or of a sphere of activity such as education: the industrial and commercial sector 
+the business sector of the city. 
+• Military a subdivision of an area for military operations. 
+• Computing a subdivision of a track on a magnetic disk.
+2 the plane figure enclosed by two radii of a circle or ellipse and the arc between them.
+3 a mathematical instrument consisting of two arms hinged at one end and marked with sines, tangents, etc., for making diagrams. ORIGIN late 16th century (in sense
+2 and sense 3): from late Latin, a technical use of Latin sector ‘cutter,’ from sect- ‘cut off,’ from the verb secare .

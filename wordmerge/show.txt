@@ -34,27 +34,54 @@ C.  [to show somebody up] transitive verb
 ① colloquial (make feel embarrassed) 使难堪 shǐ nánkān he got drunk at the party and showed me up 他在聚会上喝醉了，真让我难堪 to show [somebody] up in front of [somebody] 让某人在某人面前难堪 he showed me up in front of all my friends 他在我所有朋友面前让我难堪 
 ② to show [somebody] up as or for [something]/to be [something] (show to be) 表明某人是… biǎomíng mǒu rén shì… research has shown him up as or for a fraud 调查表明他是个骗子 his autobiography shows him up to be immensely ambitious 他的自传表明他雄心勃勃 
 show 
-▶verb
-1 the stitches do not show: be visible, be seen, be in view, be obvious. ANTONYMS be invisible.
-2 he wouldn't show the picture: display, exhibit, put on show/display, put on view, parade, uncover, reveal. ANTONYMS conceal.
-3 Frank showed his frustration: manifest, exhibit, reveal, convey, communicate, make known; express, proclaim, make plain, make obvious, disclose, betray; formal evince. ANTONYMS suppress.
-4 I'll show you how to make a daisy chain: demonstrate to, explain to, describe to, illustrate to; teach, instruct, give instructions to.
-5 recent events show this to be true: prove, demonstrate, confirm, show beyond doubt; substantiate, corroborate, verify, establish, attest, certify, testify, bear out; formal evince.
-6 a young woman showed them to their seats: escort, accompany, take, conduct, lead, usher, guide, direct, steer, shepherd.
-7 informal they never showed: appear, arrive, come, get here/there, put in an appearance, materialize, turn up; informal show up.
+SHō
+
+▶verb (past participle shown 
+SHōn
+or showed)
+1 be or allow or cause to be visible: [no object] : wrinkles were starting to show on her face 
+[no object, with complement] : the muscles of her jaws showed white through the skin 
+[with object] : a white blouse will show the blood. 
+• [with object] offer, exhibit, or produce (something) for scrutiny or inspection: an alarm salesperson should show an ID card 
+[with two objects] : he wants to show you all his woodwork stuff. 
+• [with object] put on display in an exhibition or competition: he ceased early in his career to show his work 
+[no object] : other artists who showed there included Robert Motherwell. 
+• [with object] present (a movie or television program) on a screen for public viewing. 
+• [no object] (of a movie) be presented on a screen for public viewing: a movie showing at the Venice Film Festival. 
+• [with object] indicate (a particular time, measurement, etc.): a travel clock showing the time in different cities. 
+• [with object] represent or depict in art: a postcard showing the Wicklow Mountains. 
+• (show oneself) allow oneself to be seen; appear in public: he was amazed that she would have the gall to show herself. 
+• [no object] informal arrive or turn up for an appointment or at a gathering: her date failed to show. 
+• [no object] North American finish third or in the first three in a race. 
+• [no object] informal (of a woman) be visibly pregnant: Shirley was four months pregnant and just starting to show.
+2 [with object] display or allow to be perceived (a quality, emotion, or characteristic): it was Frank's turn to show his frustration 
+his sangfroid showed signs of cracking. 
+• accord or treat someone with (a specified quality): he urged his soldiers to fight them and show no mercy 
+[with two objects] : he has learned to show women some respect. 
+• [no object] (of an emotion) be noticeable: he tried not to let his relief show.
+3 [with object] demonstrate or prove: experts say this shows the benefit of regular inspections 
+[with clause] : the figures show that the underlying rate of inflation continues to fall. 
+• (show oneself) prove or demonstrate oneself to be: [with infinitive] : she showed herself to be a harsh critic 
+[with complement] : he showed himself to be an old-fashioned Baptist separatist. 
+• cause to understand or be capable of doing something by explanation or demonstration: he showed the boy how to operate the machine. 
+• [with object] conduct or lead: show them in, please. 
 ▶noun
-1 a spectacular show of fireworks: display, array, exhibition, presentation, exposition, spectacle.
-2 the boat show: exhibition, exposition, fair, extravaganza, spectacle, exhibit.
-3 they took in a show: (theatrical) performance, musical, play, opera, ballet.
-4 she's only doing it for show: appearance, display, impression, ostentation, image.
-5 Drew made a show of looking busy: pretense, outward appearance, (false) front, guise, semblance, pose, parade.
-6 informal I don't run the show: undertaking, affair, operation, proceedings, enterprise, business, venture.
+1 a spectacle or display of something, typically an impressive one: spectacular shows of bluebells.
+2 a public entertainment, in particular: 
+• a play or other stage performance, especially a musical. 
+• a program on television or radio. 
+• [usually with adjective or noun modifier] an event or competition involving the public display or exhibition of animals, plants, or products: the annual agricultural show. 
+• informal an undertaking, project, or organization: I man a desk in a little office. I don't run the show. 
+• US & Australian/NZ informal an opportunity for doing something; a chance: I didn't have a show.
+3 an outward appearance or display of a quality or feeling: Joanie was frightened of any show of affection. 
+• an outward display intended to give a particular, false impression: Drew made a show of looking around for firewood 
+they are all show and no go.
+4 Medicine a discharge of blood and mucus from the vagina at the onset of labor or menstruation. 
 PHRASES
-show off informal
-1 he likes to show off when we have company: behave affectedly, put on airs, put on an act, swagger around, swank, strut, strike an attitude, posture; draw attention to oneself; informal cop an attitude.
-2 that dress really shows off your green eyes: display, show to advantage, exhibit, demonstrate, parade, draw attention to, flaunt. show up
-1 cancers show up on X-rays: be visible, be obvious, be seen, be revealed.
-2 informal only two waitresses showed up. See show (sense
-7 of the verb).
-3 the sun showed up the shabbiness of the room: expose, reveal, make visible, make obvious, highlight.
-4 informal they showed him up in front of his friends. See humiliate. 
+for show for the sake of appearance rather than for use. get (or keep) the show on the road informal begin (or succeed in continuing with) an undertaking or enterprise: “Let's get this show on the road—we're late already.” good (or bad or poor) show! British informal, dated used to express approval (or disapproval or dissatisfaction). have something (or nothing) to show for have a (or no) visible result of (one's work or experience): a year later, he had nothing to show for his efforts. on show being exhibited. show one's cards another way of saying show one's hand. show cause Law produce satisfactory grounds for application of (or exemption from) a procedure or penalty. show someone the door dismiss or eject someone from a place. show one's face appear in public: she had been up in court and was so ashamed she could hardly show her face. show the flag see flag1. show one's hand (in a card game) reveal one's cards. 
+• disclose one's plans: he needed hard evidence, and to get it he would have to show his hand. show of force a demonstration of the forces at one's command and of one's readiness to use them. show of hands the raising of hands among a group of people to indicate a vote for or against something, with numbers typically being estimated rather than counted. show the way indicate the direction to be followed to a particular place. 
+• indicate what can or should be done by doing it first: Morgan showed the way by becoming Deputy Governor of Jamaica.PHRASAL VERBS show something forth archaic exhibit: the heavens show forth the glory of God. show off informal make a deliberate or pretentious display of one's abilities or accomplishments. show someone/something off display or cause others to take notice of someone or something that is a source of pride: his jeans were tight-fitting, showing off his compact figure. show out Bridge reveal that one has no cards of a particular suit. show someone around act as a guide for someone to points of interest in a place or building.show through (of one's real feelings) be revealed inadvertently. show up
+1 be conspicuous or clearly visible.
+2 informal arrive or turn up for an appointment or gathering. show someone/something up make someone or something conspicuous or clearly visible: a rising moon showed up the wild seascape. 
+• expose someone or something as being bad or faulty in some way: it's a pity they haven't showed up the authorities for what they are. 
+• (show someone up) informal embarrass or humiliate someone: she says I showed her up in front of her friends.ORIGIN Old English scēawian ‘look at, inspect,’ from a West Germanic base meaning ‘look’; related to Dutch schouwen and German schauen .

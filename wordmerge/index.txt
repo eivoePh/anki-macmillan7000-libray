@@ -11,7 +11,26 @@ B.  transitive verb
 ② (record in an index) 将…编入索引 jiāng… biānrù suǒyǐn ‹terms, data›to be indexed under [something]; 在索引中被编入某条目下 
 ③ Economics «government» 使…与指数挂钩 shǐ… yǔ zhǐshù guàgōu ‹salaries, interest rates›to index [something] to [something]; 使某物与某物挂钩 
 index 
-▶noun
-1 the library's subject index: list, listing, inventory, catalog, register, directory; blogroll.
-2 literature is an index to its time: guide, sign, indication, indicator, gauge, measure, signal, mark, evidence, symptom, token; clue, hint.
-▶verb he indexed his sources: list, catalog, make an inventory of, itemize, inventory, record.
+ˈinˌdeks
+
+▶noun (plural indexes or especially in technical use indices 
+-dəˌsēz
+)
+1 an alphabetical list of names, subjects, etc., with references to the places where they occur, typically found at the end of a book. 
+• an alphabetical list by title, subject, author, or other category of a collection of books or documents, e.g., in a library. 
+• Computing a set of items each of which specifies one of the records of a file and contains information about its address.
+2 an indicator, sign, or measure of something: exam results may serve as an index of the teacher's effectiveness. 
+• a figure in a system or scale representing the average value of specified prices, shares, or other items as compared with some reference figure: the hundred-shares index closed down 9.3. 
+• a pointer on an instrument, showing a quantity, a position on a scale, etc. 
+• [with modifier] a number giving the magnitude of a physical property or another measured phenomenon in terms of a standard: the oral hygiene index was calculated as the sum of the debris and calculus indices.
+3 Mathematics an exponent or other superscript or subscript number appended to a quantity.
+4 Printing a symbol shaped like a pointing hand, typically used to draw attention to a note. 
+▶verb [with object]
+1 record (names, subjects, etc.) in an index: the list indexes theses under regional headings. 
+• provide an index to.
+2 link the value of (prices, wages, or other payments) automatically to the value of a price index: legislation indexing wages to prices.
+3 [no object] (often as noun indexing) (of a machine or part of one) rotate or otherwise move from one predetermined position to another in order to carry out a sequence of operations. DERIVATIVES indexable adjective. indexation 
+ˌinˌdekˈsāSH(ə)n 
+noun. indexer 
+ˈinˌdeksər 
+noun. indexible adjectiveORIGIN late Middle English: from Latin index, indic- ‘forefinger, informer, sign,’ from in- ‘toward’ + a second element related to dicere ‘say’ or dicare ‘make known’; compare with indicate. The original sense ‘index finger’ (with which one points) came to mean ‘pointer’ (late 16th century), and figuratively something that serves to point to a fact or conclusion; hence a list of topics in a book (“pointing” to their location).

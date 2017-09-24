@@ -7,7 +7,19 @@ A.  noun
 B.  transitive verb 绕…运行 rào… yùnxíng 
 C.  intransitive verb 绕轨道运行 rào guǐdào yùnxíng to orbit around [something]; 绕某物运行 
 orbit 
+ˈôrbət
+
 ▶noun
-1 the monthly orbit of the Moon: course, path, circuit, track, trajectory, rotation, revolution, circle; rare circumgyration.
-2 the problem comes outside our orbit: sphere, sphere of influence, area of activity, range, scope, ambit, compass, jurisdiction, authority, domain, realm, province, territory, turf; informal bailiwick.
-▶verb Mercury orbits the Sun: revolve around, circle around, go around, travel around.
+1 the curved path of a celestial object or spacecraft around a star, planet, or moon, especially a periodic elliptical revolution. 
+• one complete circuit around an orbited body. 
+• the state of being on or moving in an orbit: planets in orbit around the sun. 
+• the path of an electron around an atomic nucleus.
+2 a sphere of activity, interest, or application: a radical filmmaker outside the Hollywood orbit.
+3 Anatomy the cavity in the skull of a vertebrate that contains the eye; the eye socket. 
+• the area around the eye of a bird or other animal. 
+▶verb (orbits, orbiting, orbited) [with object] (of a celestial object or spacecraft) move in orbit around (a star, planet, or moon): Mercury orbits the Sun. 
+• [no object] fly or move around in a circle: the mobile's disks spun and orbited slowly. 
+• put (a satellite) into orbit. 
+PHRASES
+into orbit informal into a state of heightened performance, activity, anger, or excitement: his goal sent the fans into orbit.ORIGIN mid 16th century ( sense
+3 of the noun): from Latin orbita ‘course, track’ (in medieval Latin ‘eye socket’), feminine of orbitus ‘circular,’ from orbis ‘ring.’

@@ -2,6 +2,9 @@ depict
 BrE dɪˈpɪkt, AmE dəˈpɪkt 
 transitive verb 描画 miáohuà 
 depict 
-▶verb
-1 the painting depicts the Last Supper: portray, represent, picture, illustrate, delineate, reproduce, render; draw, paint; literary limn.
-2 this official approach is depicted by many commentators as patronizing: describe, detail, relate; present, set forth, set out, outline, delineate; represent, portray, characterize.
+dəˈpikt
+
+▶verb [with object] show or represent by a drawing, painting, or other art form. 
+• portray in words; describe: youth is depicted as a time of vitality and good health. DERIVATIVES depicter 
+dəˈpiktər 
+nounORIGIN late Middle English: from Latin depict- ‘portrayed,’ from the verb depingere, from de- ‘completely’ + pingere ‘to paint.’

@@ -4,11 +4,10 @@ nounUncountable BrE
 ① Computing 编程 biānchéng a programming error or fault 程序错误 
 ② Television, Radio (scheduling) 节目编排 jiémù biānpái 
 ③ Television, Radio (programmes) 节目 jiémù 
-program 
+programming 
+ˈprōˌɡramiNG
+
 ▶noun
-1 our program for the day: schedule, agenda, calendar, timetable; order of events, lineup.
-2 the government's reform program: plan of action, series of measures, strategy, scheme.
-3 a television program: broadcast, production, show, presentation, transmission, performance, telecast.
-4 a program of study: course, syllabus, curriculum.
-5 a theater program: guide, list of performers, cast list, playbill.
-▶verb they programmed the day well: arrange, organize, schedule, plan, map out, timetable, line up, slate.
+1 the action or process of writing computer programs.
+2 the action or process of scheduling something, especially radio or television programs: the programming of shows. 
+• radio or television programs that are scheduled or broadcast: the station is to expand its late-night programming.

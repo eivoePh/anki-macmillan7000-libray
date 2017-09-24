@@ -21,12 +21,30 @@ A.  adjective
 ⑰ Linguistics 弱变化的 ruò biànhuà de ‹verb, form›; 非重读的 fēizhòngdú de ‹form, syllable›
 B.  noun plural the weak 弱者 ruòzhě 
 weak 
+wēk
+
 ▶adjective
-1 they are too weak to move: frail, feeble, delicate, fragile; infirm, sick, sickly, debilitated, incapacitated, ailing, indisposed, decrepit; tired, fatigued, exhausted, anemic; informal weedy. ANTONYMS strong.
-2 weak eyesight: inadequate, poor, feeble; defective, faulty, deficient, imperfect, substandard. ANTONYMS strong, powerful, keen.
-3 a weak excuse: unconvincing, untenable, tenuous, implausible, unsatisfactory, poor, inadequate, feeble, flimsy, lame, hollow; informal pathetic. ANTONYMS strong, convincing.
-4 I was too weak to be a rebel: spineless, craven, cowardly, pusillanimous, timid; irresolute, indecisive, ineffectual, inept, effete, meek, tame, ineffective, impotent, soft, faint-hearted; informal yellow, weak-kneed, gutless, chicken. ANTONYMS strong, resolute.
-5 a weak light: dim, pale, wan, faint, feeble, muted. ANTONYMS strong, bright.
-6 a weak voice: indistinct, muffled, muted, hushed, low, faint, thready, thin. ANTONYMS strong, loud.
-7 weak coffee: watery, diluted, dilute, watered down, thin, tasteless, flavorless, bland, insipid, wishy-washy. ANTONYMS strong, powerful.
-8 a weak smile: unenthusiastic, feeble, halfhearted, lame.WORD TOOLKITweakfeeblefraillinkattemptbodysignalexcusepatientsupporteffortvoicedollarresponseframeeconomyprotestcreaturemarketapologychildteaexplanationgrandparentsWord Toolkits illustrate the difference between close synonyms by means of words typically used with them.
+1 lacking the power to perform physically demanding tasks; lacking physical strength and energy: she was recovering from the flu and was very weak. 
+• lacking political or social power or influence: the central government had grown too weak to impose order 
+(as plural noun the weak) : the new king used his powers to protect the weak. 
+• (of a crew, team, or army) containing too few members or members of insufficient quality. 
+• (of a faculty or part of the body) not able to fulfill its functions properly: he had a weak stomach. 
+• of a low standard; performing or performed badly: the choruses on this recording are weak. 
+• not convincing or logically forceful: the argument is an extremely weak one 
+a weak plot. 
+• exerting only a small force: a weak magnetic field.
+2 liable to break or give way under pressure; easily damaged: the salamander's tail may be broken off at a weak spot near the base. 
+• lacking the force of character to hold to one's own decisions, beliefs, or principles; irresolute. 
+• (of a belief, emotion, or attitude) not held or felt with such conviction or intensity as to prevent its being abandoned or dispelled: their commitment to the project is weak. 
+• not in a secure financial position: people have no faith in weak banks. 
+• (of prices or a market) having a downward tendency.
+3 lacking intensity or brightness: a weak light from a single street lamp. 
+• (of a liquid or solution) heavily diluted: a cup of weak coffee. 
+• (of an acid) only slightly ionized. 
+• displaying or characterized by a lack of enthusiasm or energy: she managed a weak, nervous smile. 
+• (of features) not striking or strongly marked: his beard covered a weak chin. 
+• (of a syllable) unstressed.
+4 Grammar denoting a class of verbs in Germanic languages that form the past tense and past participle by addition of a suffix (in English, typically -ed); contrasted with strong .
+5 Physics relating to or denoting the weakest of the known kinds of force between particles, which acts only at distances less than about 10−15 cm, is very much weaker than the electromagnetic and the strong interactions, and conserves neither strangeness, parity, nor isospin. 
+PHRASES
+the weaker sex [treated as singular or plural] dated, derogatory women regarded collectively. weak in the knees see knee. the weak link the point at which a system, sequence, or organization is most vulnerable; the least dependable element or member.DERIVATIVES weakish adjectiveORIGIN Old English wāc ‘pliant,’ ‘of little worth,’ ‘not steadfast,’ reinforced in Middle English by Old Norse veikr, from a Germanic base meaning ‘yield, give way.’

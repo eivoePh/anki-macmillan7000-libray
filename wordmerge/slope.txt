@@ -9,8 +9,17 @@ A.  noun
 B.  intransitive verb «ground, roof, handwriting» 倾斜 qīngxié to slope down or away (to …) （向…）倾斜 to slope to the left/right 向左/向右倾斜 
 C.  transitive verb Military 扛 káng ‹firearm›the sergeant gave the command: slope arms! 中士命令道：枪上肩！ PHRASAL VERB slope off intransitive verb colloquial 溜走 liūzǒu I called for volunteers, but everyone had sloped off! 我招呼志愿帮忙的人，但大伙都开溜了！ 
 slope 
+slōp
+
 ▶noun
-1 the slope of the roof: gradient, incline, angle, slant, inclination, pitch, decline, ascent, declivity, rise, fall, tilt, tip, downslope, upslope, grade, downgrade, upgrade.
-2 a grassy slope: hill, hillside, hillock, bank, sidehill, escarpment, scarp; literary steep.
-3 the ski slopes: piste, run, trail.
-▶verb the garden sloped down to a stream: slant, incline, tilt; drop away, fall away, decline, descend, shelve, lean; rise, ascend, climb.
+1 a surface of which one end or side is at a higher level than another; a rising or falling surface: he slithered helplessly down the slope. 
+• a difference in level or sideways position between the two ends or sides of a thing: the roof should have a slope sufficient for proper drainage 
+the backward slope of the chair. 
+• (often slopes) a part of the side of a hill or mountain, especially as a place for skiing: a ten-minute cable-car ride delivers you to the slopes. 
+• the gradient of a graph at any point. 
+• Electronics the transconductance of a valve, numerically equal to the gradient of one of the characteristic curves of the valve.
+2 US informal, offensive a person from Asia, especially Vietnam or elsewhere in Southeast Asia. 
+▶verb [no object] (of a surface or line) be inclined from a horizontal or vertical line; slant up or down: the garden sloped down to a stream 
+the ceiling sloped. 
+• [with object] place or arrange in a sloping position: Poole sloped his shoulders 
+(as adjective sloped) : a sloped leather writing surface. ORIGIN late 16th century (as a verb): from the obsolete adverb slope, a shortening of aslope .

@@ -1,10 +1,12 @@
 feature 
+ˈfēCHər
+
 ▶noun
-1 a typical feature of French music: characteristic, attribute, quality, property, trait, hallmark, trademark; aspect, facet, factor, ingredient, component, element, theme; peculiarity, idiosyncrasy, quirk; informal X factor, wow factor.
-2 her delicate features: face, countenance, physiognomy; informal mug, kisser; puss, pan; literary visage, lineaments.
-3 she made a feature of her garden sculptures: centerpiece, (special) attraction, highlight, focal point, focus (of attention).
-4 she writes features at the newspaper: article, piece, item, report, story, column, review, commentary, write-up.
-5 tonight's feature stars Clint Eastwood: movie, film; director's cut; main show, main event; informal flick, pic.
-▶verb
-1 the station is featuring a week of live concerts: present, promote, make a feature of, give prominence to, focus attention on, spotlight, highlight.
-2 she is to feature in a major advertising campaign: star, appear, participate, play a part.
+1 a distinctive attribute or aspect of something: safety features like dual air bags. 
+• (usually features) a part of the face, such as the mouth or eyes, making a significant contribution to its overall appearance. 
+• Linguistics a distinctive characteristic of a linguistic unit, especially a speech sound or vocabulary item, that serves to distinguish it from others of the same type.
+2 a newspaper or magazine article or a broadcast program devoted to the treatment of a particular topic, typically at length: a feature on Detroit's downtown fishery. 
+• (also feature film) a full-length film intended as the main item in a movie theater program. 
+▶verb [with object] have as a prominent attribute or aspect: the hotel features a large lounge, a sauna, and a coin-operated solarium. 
+• have as an important actor or participant: the film featured Glenn Miller and his Orchestra. 
+• [no object] (feature in) be a significant characteristic of or take an important part in: his later paintings feature prominently in the exhibition. ORIGIN late Middle English (originally denoting the form or proportions of the body, or a physical feature): from Old French faiture ‘form,’ from Latin factura (see facture) .

@@ -1,8 +1,23 @@
 farm 
-▶noun a farm of 100 acres: ranch, farmstead, plantation, estate, family farm, dairy farm, hobby farm; farmland, market garden.
+färm
+
+▶noun an area of land and its buildings used for growing crops and rearing animals, typically under the control of one owner or manager. 
+• the main dwelling place on a farm; a farmhouse: a half-timbered farm. 
+• [with modifier] a place for breeding a particular type of animal or producing a specified crop: a fish farm. 
+• [with modifier] an establishment at which something is produced or processed: an energy farm. 
 ▶verb
-1 he farmed locally: work the land, be a farmer, cultivate the land; rear livestock.
-2 they farm the land: cultivate, till, work, plow, dig, plant.
-3 the family farms sheep: breed, rear, keep, raise, tend.
+1 [no object] make one's living by growing crops or keeping livestock: he has farmed organically for five years. 
+• [with object] use (land) for growing crops and rearing animals, especially commercially. 
+• [with object] breed or grow commercially (a type of livestock or crop, especially one not normally domesticated or cultivated).
+2 [with object] (farm someone/something out) send out or subcontract work to others: it saves time and money to farm out some writing work to specialized companies. 
+• arrange for a child or other dependent person to be looked after by someone, usually for payment. 
+• send a sports player to a farm team.
+3 [with object] historical allow someone to collect and keep the revenues from (a tax) on payment of a fee: the customs had been farmed to the collector for a fixed sum. 
 PHRASES
-farm something out we farmed out the warehouse construction to another firm: contract out, outsource, subcontract, delegate.
+bet the farm North American informal risk everything that one owns on a bet, investment, or enterprise: they're betting the farm on this merger bid. buy the farm North American informal die. from farm to fork (or table) used to refer to the various processes in the food chain from agricultural production to consumption: a catering industry initiative that allows certified traceability of fresh meat and eggs from farm to fork 
+[as modifier] : each of these countries has farm-to-fork legislation. 
+• chiefly US used to refer to locally grown or produced food: [as modifier] : in San Francisco, farm-to-fork eating is a year-round affair.DERIVATIVES farmable 
+ˈfärməb(ə)l 
+adjectiveORIGIN Middle English: from Old French ferme, from medieval Latin firma ‘fixed payment,’ from Latin firmare ‘fix, settle’ (in medieval Latin ‘contract for’), from firmus ‘constant, firm’; compare with firm2. The noun originally denoted a fixed annual amount payable as rent or tax; this is reflected in sense
+3 of the verb, which later gave rise to ‘to subcontract’ ( sense
+2 of the verb). The noun came to denote a lease, and, in the early 16th century, land leased specifically for farming. The verb sense ‘grow crops or keep livestock’ dates from the early 19th century.

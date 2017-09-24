@@ -16,7 +16,7 @@ var wordDir = "word"
 var wordDirMerge = "wordmerge"
 
 Source.fromFile(args(0)).getLines().toList.par.foreach(word => {
-  ("cat " + wordDir + "/" + word + ".zh.txt") #> new File(wordDirMerge + "/" + word + ".txt") !
+  ("cat " + wordDir + "-zh/" + word + ".zh.txt") #> new File(wordDirMerge + "/" + word + ".txt") !
 
-  ("cat " + wordDir + "/" + word + ".en.txt") #>> new File(wordDirMerge + "/" + word + ".txt") !
+  ("cat " + wordDir + "-en/" + word + ".en.txt") #>> new File(wordDirMerge + "/" + word + ".txt") !
 })

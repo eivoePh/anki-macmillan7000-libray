@@ -5,8 +5,10 @@ noun
 ② (space) 贮存空间 zhùcún kōngjiān 
 ③ Computing 存储 cúnchǔ storage on disk 磁盘存储 storage space/problems/disc 存储空间/问题/盘 
 storage 
-BrE ˈstɔːrɪdʒ, AmE ˈstɔrɪdʒ 
-noun 
-① (of food, fuel, goods) 贮藏 zhùcáng (of furniture, document, file) 存放 cúnfàng (of heat, energy, electricity) 存储 cúnchǔ storage costs 存储费用 to be in storage 在贮存中 to put [something] in(to) storage; 把某物储藏起来 
-② (space) 贮存空间 zhùcún kōngjiān 
-③ Computing 存储 cúnchǔ storage on disk 磁盘存储 storage space/problems/disc 存储空间/问题/盘 
+ˈstôrij
+
+▶noun the action or method of storing something for future use: the chair can be folded flat for easy storage 
+[as modifier] : the room lacked storage space. 
+• the retention of retrievable data on a computer or other electronic system; memory. 
+• space available for storing something, especially allocated space in a warehouse: Cooper had put much of the furniture into storage. 
+• the cost of storing something in a warehouse.

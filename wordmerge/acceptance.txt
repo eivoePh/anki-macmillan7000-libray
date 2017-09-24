@@ -6,11 +6,13 @@ noun
 ③ Uncountable(resignation) 忍受 rěnshòu the numb acceptance of one's fate 对命运的麻木忍受 
 ④ Uncountable and countableFinance (of bill, insurance policy) 承兑 chéngduì ; Busn (of goods) 验收 yànshōu to present a bill for acceptance 递交承兑汇票 acceptance of goods/delivery 收货/交货验收 
 acceptance 
+əkˈseptəns
+
 ▶noun
-1 the acceptance of an award: receipt, receiving, taking, obtaining.
-2 the acceptance of responsibility: undertaking, assumption.
-3 acceptances to an invitation: yes, affirmative reply, confirmation.
-4 her acceptance into the group: welcome, favorable reception, adoption.
-5 his acceptance of Thom's promise: belief in, trust in, faith in, confidence in, credence in, giving of credence to.
-6 their acceptance of the ruling: compliance with, acquiescence in, agreement with, consent to, concurrence with, assent to, acknowledgment of, adherence to, deference to, surrender to, submission to, respect for, adoption of, buy-in to.
-7 the acceptance of pain: toleration, endurance, forbearance, sufferance.
+1 the action of consenting to receive or undertake something offered: charges involving the acceptance of bribes 
+[as modifier] : an acceptance speech 
+he had an acceptance from the magazine. 
+• a draft or bill that is accepted by being signed.
+2 the action or process of being received as adequate or suitable, typically to be admitted into a group: you must wait for acceptance into the club.
+3 agreement with or belief in an idea, opinion, or explanation: acceptance of the teaching of the church. 
+• willingness to tolerate a difficult or unpleasant situation: a mood of resigned acceptance. ORIGIN mid 16th century: from Old French, from accepter (see accept) .

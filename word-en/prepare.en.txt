@@ -1,9 +1,13 @@
 prepare 
-▶verb
-1 I want you to prepare a report: make/get ready, put together, draw up, produce, arrange, assemble, construct, compose, formulate.
-2 the meal was easy to prepare: cook, make, get, put together, concoct; informal fix, rustle up.
-3 preparing for war: get ready, make preparations, arrange things, make provision, get everything set.
-4 athletes preparing for the Olympics: train, get into shape, practice, get ready.
-5 I must prepare for my exams: study, review.
-6 this course prepares students for their exams: instruct, coach, train, tutor, drill, prime.
-7 prepare yourself for a shock: brace, make ready, tense, steel, steady.
+prəˈper
+
+▶verb [with object]
+1 make (something) ready for use or consideration: prepare a brief summary of the article. 
+• (as adjective prepared) created in advance; preplanned: the spokesman was reading a prepared statement. 
+• make (food or a meal) ready for cooking or eating: she was busy preparing lunch. 
+• make (someone) ready or able to do or deal with something: schools should prepare children for life 
+by this time I was prepared for anything 
+[no object] : she took time off to prepare for her exams. 
+• (be prepared to do something) be willing to do something: I wasn't prepared to go along with that. 
+• make (a chemical product) by a reaction or series of reactions.
+2 Music (in conventional harmony) lead up to (a discord) by means of preparation. DERIVATIVES preparer nounORIGIN late Middle English: from French préparer or Latin praeparare, from prae ‘before’ + parare ‘make ready.’

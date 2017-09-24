@@ -22,15 +22,43 @@ A.  transitive verb[foul something up, foul up something]
 ② (block, entangle) «rubbish, soot» 使…壅塞 shǐ… yōngsè ‹chimney, pipe›; «weed» 缠住 chánzhù ‹engine, propeller›
 B.  intransitive verb colloquial «person, organization» 搞砸 gǎozá 
 foul 
+foul
+
 ▶adjective
-1 a foul stench: disgusting, revolting, repulsive, repugnant, abhorrent, loathsome, offensive, sickening, nauseating, nauseous, stomach-churning, stomach-turning, distasteful, obnoxious, objectionable, odious, noxious, vomitous; informal ghastly, gruesome, gross, putrid, yucky, skanky, beastly; literary miasmic, noisome, mephitic. ANTONYMS fragrant.
-2 a pile of foul laundry: dirty, filthy, mucky, grimy, grubby, muddy, muddied, unclean, unwashed; squalid, sordid, soiled, sullied, scummy; rotten, defiled, decaying, putrid, putrefied, smelly, fetid; informal cruddy, yucky, icky, skeevy; rare feculent. ANTONYMS clean.
-3 he had been foul to her: unkind, malicious, mean, nasty, unpleasant, unfriendly, spiteful, cruel, vicious, base, malevolent, despicable, contemptible; informal horrible, horrid, rotten; beastly. ANTONYMS pleasant, kind.
-4 foul weather: inclement, unpleasant, disagreeable, bad; rough, stormy, squally, gusty, windy, blustery, wild, blowy, rainy, wet. ANTONYMS fair.
-5 foul drinking water: contaminated, polluted, infected, tainted, impure, filthy, dirty, unclean; rare feculent. ANTONYMS clean.
-6 a foul deed: evil, wicked, bad, wrong, immoral, sinful, vile, dishonorable, corrupt, iniquitous, depraved, villainous, nefarious, vicious, malicious; malevolent, sinister, demonic, devilish, diabolical, fiendish, dark; monstrous, shocking, despicable, atrocious, heinous, odious, contemptible, horrible, execrable; informal lowdown, dirty. ANTONYMS righteous.
-7 foul language: vulgar, crude, coarse, filthy, dirty, obscene, indecent, indelicate, naughty, lewd, smutty, ribald, salacious, scatological, offensive, abusive. ANTONYMS mild.
-8 a foul tackle: illegal; unfair, unsporting, unsportsmanlike, below the belt, dirty. ANTONYMS fair.
-▶verb
-1 the river had been fouled with waste: dirty, infect, pollute, contaminate, poison, taint, sully, soil, stain, blacken, muddy, splash, spatter, smear, blight, defile, make filthy. ANTONYMS clean up.
-2 the vessel had fouled her nets: tangle up, entangle, snarl, catch, entwine, enmesh, twist. ANTONYMS disentangle.WORD TOOLKIT See dirty .Word Toolkits illustrate the difference between close synonyms by means of words typically used with them.
+1 offensive to the senses, especially through having a disgusting smell or taste or being unpleasantly soiled: a foul odor 
+his foul breath. 
+• informal very disagreeable or unpleasant: the news had put Michelle in a foul mood. 
+• (of the weather) wet and stormy. 
+• Sailing (of wind or tide) opposed to one's desired course.
+2 wicked or immoral: murder most foul. 
+• (of language) obscene or profane. 
+• done contrary to the rules of a sport: a foul tackle.
+3 containing or charged with noxious matter; polluted: foul, swampy water. 
+• [predicative] (foul with) clogged or choked with: the land was foul with weeds. 
+• Nautical (of a rope or anchor) entangled. 
+• (of a ship's bottom) encrusted with algae, barnacles, or other marine growth. 
+• Printing (of a first copy or proof) defaced by corrections. 
+▶noun
+1 (in sports) an unfair or invalid stroke or piece of play, especially one involving interference with an opponent. 
+• a collision or entanglement in riding, rowing, or running. 
+• short for foul ball.
+2 informal, dated a disease in the feet of cattle: he was indeed suffering from foul of the foot. 
+▶adverb unfairly; contrary to the rules. 
+• (in sports) in foul territory: if a batter hits a bunt foul with two strikes, he is out. 
+▶verb [with object]
+1 make foul or dirty; pollute: factories that fouled the atmosphere. 
+• disgrace or dishonor. 
+• (of an animal) make (something) dirty with excrement: make sure that your pet never fouls the sidewalk. 
+• (foul oneself) (of a person) defecate involuntarily.
+2 (in sports) commit a foul against (an opponent). 
+• Baseball hit a foul ball: Carter fouled into the glove of Boggs.
+3 (of a ship) collide with or interfere with the passage of (another). 
+• cause (a cable, anchor, or other object) to become entangled or jammed: watch out for driftwood which might foul up the engine 
+[no object] : we feared the anchor would foul in the heavy grasses. 
+PHRASES
+fall foul of see fall. foul one's (own) nest do something damaging or harmful to oneself or one's own interests.PHRASAL VERBS foul out Basketball be put out of the game for exceeding the permitted number of fouls. 
+• Baseball (of a batter) be made out by hitting a foul ball that is caught by an opposing player:: Wilson has never fouled out against this young pitcher. foul something up (or foul up) make a mistake with or spoil something: leaders should admit when they completely foul things up.DERIVATIVES foully 
+ˈfou(l)lē 
+adverb. foulness 
+ˈfoulnəs 
+nounORIGIN Old English fūl, of Germanic origin; related to Old Norse fúll ‘foul,’ Dutch vuil ‘dirty,’ and German faul ‘rotten, lazy,’ from an Indo-European root shared by Latin pus,Greek puos ‘pus,’ and Latin putere ‘to stink.’

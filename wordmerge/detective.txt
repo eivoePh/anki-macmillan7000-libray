@@ -2,4 +2,8 @@ detective
 BrE dɪˈtɛktɪv, AmE dəˈtɛktɪv 
 noun 侦探 zhēntàn a private/an amateur detective 私人/业余侦探 
 detective 
-▶noun they hired a detective to track down Polk's former partner: investigator, private investigator, private detective, police detective, operative; informal private eye, PI, sleuth, snoop, shamus, gumshoe, Sherlock; informal, dated dick, private dick.
+dəˈtektiv
+
+▶noun a person, especially a police officer, whose occupation is to investigate and solve crimes. 
+• [as modifier] denoting a particular rank of police officer: Detective Sergeant Fox. 
+• [as modifier] concerning crime and its investigation: detective work. ORIGIN mid 19th century: from detect, on the pattern of pairs such as elect, elective. The noun was originally short for detective policeman, from an adjectival use of the word in the sense ‘serving to detect.’

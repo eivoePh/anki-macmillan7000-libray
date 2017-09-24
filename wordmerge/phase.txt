@@ -7,10 +7,23 @@ A.  noun
 ③ (harmony) to be in phase/out of phase; 协调/不协调 xiétiáo/bù xiétiáo her ideas and mine were just not in phase 她的观念同我的格格不入 
 B.  transitive verb 分阶段进行 fēn jiēduàn jìnxíng a phased withdrawal of troops 分阶段的撤军 they phased their acquisition of the company's shares 他们逐步取得了该公司的股份 PHRASAL VERBS phase in transitive verb [phase in something, phase something in] 逐步引入 zhúbù yǐnrù we will phase in the new system over four years 我们将在四年内逐步实行新制度 phase out transitive verb [phase out something, phase something out] 逐步废除 zhúbù fèichú the old coinage was gradually phased out 旧币制逐步废除了 
 phase 
+fāz
+
 ▶noun
-1 the final phase of the campaign: stage, period, chapter, episode, part, step, point, time, juncture.
-2 he's going through a difficult phase: period, stage, time, spell, patch.
-3 the phases of the moon: aspect, shape, form, appearance, state, condition.
-▶verb 
+1 a distinct period or stage in a process of change or forming part of something's development: the final phases of the war 
+[as modifier] : phase two of the development is in progress. 
+• a stage in a person's psychological development, especially a period of temporary unhappiness or difficulty during adolescence or a particular stage during childhood: you are not obsessed, but you are going through a phase. 
+• each of the aspects of the moon or a planet, according to the amount of its illumination, especially the new moon, the first quarter, the full moon, and the last quarter. 
+• Riding each of the separate events in an eventing competition.
+2 Zoology a genetic or seasonal variety of an animal's coloration. 
+• a stage in the life cycle or annual cycle of an animal.
+3 Chemistry a distinct and homogeneous form of matter (i.e., a particular solid, liquid, or gas) separated by its surface from other forms.
+4 Physics the relationship in time between the successive states or cycles of an oscillating or repeating system (such as an alternating electric current or a light or sound wave) and either a fixed reference point or the states or cycles of another system with which it may or may not be in synchrony. 
+▶verb [with object]
+1 carry out (something) in gradual stages: the work is being phased over a number of years 
+(as adjective phased) : a phased withdrawal of troops. 
+• (phase something in/out) introduce into (or withdraw from) use in gradual stages: our armed forces policy was to be phased in over
+10 years.
+2 Physics adjust the phase of (something), especially so as to synchronize it with something else. 
 PHRASES
-phase in compliance with the new regulations will be phased in over a six-month period: introduce gradually, begin to use, ease in. phase out we're going to phase out the cash-rebate program: withdraw gradually, discontinue, stop using, run down, wind down. CHOOSE THE RIGHT WORD See faze .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+in (or out of) phase being or happening in (or out of) synchrony or harmony: the cabling work should be carried out in phase with the building work.ORIGIN early 19th century (denoting each aspect of the moon): from French phase, based on Greek phasis ‘appearance,’ from the base of phainein ‘to show.’ usage: See usage at faze .

@@ -1,14 +1,36 @@
 separate 
-▶adjective
-1 his personal life was separate from his job: unconnected, unrelated, different, distinct, discrete; detached, divorced, disconnected, independent, autonomous. ANTONYMS linked, interdependent.
-2 the infirmary was separate from the school: set apart, detached, fenced off, cut off, segregated, isolated; free-standing, self-contained. ANTONYMS attached.
-▶verb
-1 they separated two rioting mobs: split (up), break up, part, pull apart, divide; literary sunder. ANTONYMS unite, bring together.
-2 the connectors can be separated: disconnect, detach, disengage, uncouple, unyoke, disunite, disjoin; split, divide, sever; disentangle. ANTONYMS join, connect, combine.
-3 the wall that separates the two properties: partition, divide, come between, keep apart; bisect, intersect. ANTONYMS link, bridge.
-4 the south aisle was separated off : isolate, partition off, section off; close off, shut off, cordon off, fence off, screen off.
-5 they separated at the airport: part (company), go their separate ways, split up; say goodbye; disperse, disband, scatter. ANTONYMS meet.
-6 the road separated: fork, divide, branch, bifurcate, diverge. ANTONYMS merge, converge.
-7 her parents separated: split up, break up, part, be estranged, divorce. ANTONYMS get together, marry.
-8 separate fact from fiction: isolate, set apart, segregate; distinguish, differentiate, dissociate; sort out, sift out, filter out, remove, weed out.
-9 those who separate themselves from society: break away from, break with, secede from, withdraw from, leave, quit, dissociate oneself from, resign from, drop out of, repudiate, reject. ANTONYMS join.
+▶adjective 
+ˈsep(ə)rət 
+forming or viewed as a unit apart or by itself: this raises two separate issues 
+he regards the study of literature as quite separate from life. 
+• not joined or touching physically: hostels with separate quarters for men and women. 
+• different; distinct: melt the white and dark chocolate in separate bowls. 
+▶verb 
+ˈsepəˌrāt 
+
+1 [with object] cause to move or be apart: police were trying to separate two rioting mobs 
+they were separated by the war. 
+• form a distinction or boundary between (people, places, or things): only a footpath separated their garden from the shore 
+six years separated the two brothers. 
+• [no object] become detached or disconnected: the second stage of the rocket failed to separate. 
+• [no object] leave another person's company: they separated at the corner, agreeing to meet within two hours. 
+• [no object] stop living together as a couple: after her parents separated, she was brought up by her mother. 
+• (as adjective separated) no longer living together as a couple: the children of separated parents 
+her mother and father are separated. 
+• US discharge or dismiss (someone) from service or employment: this year one million veterans will be separated from the service.
+2 divide or cause to divide into constituent or distinct elements: [no object] : the milk had separated into curds and whey 
+[with object] : separate the eggs and beat the yolks. 
+• [with object] extract or remove for use or rejection: the skins are separated from the juice before fermentation 
+figurative : we need to separate fact from speculation. 
+• [with object] distinguish between; consider individually: we cannot separate his thinking from his activity. 
+• (of a factor or quality) distinguish (someone or something) from others: his position separates him from those who might share his interests. 
+• [with object] (separate something off) make something form, or view something as, a unit apart or by itself: the organ loft separating off the choir. 
+▶noun 
+ˈsep(ə)rət 
+(separates) things forming units by themselves, in particular: 
+• individual items of clothing, such as skirts, jackets, or pants, suitable for wearing in different combinations. 
+• the self-contained, freestanding components of a sound-reproduction system. 
+• portions into which a soil, sediment, etc., can be sorted according to particle size, mineral composition, or other criteria. 
+PHRASES
+go one's separate ways leave in a different direction from someone with whom one has just traveled or spent time. 
+• end a romantic, professional, or other relationship. separate but equal US historical racially segregated but ostensibly ensuring equal opportunities to all races. separate the men from the boys see man. separate the sheep from the goats divide people or things into superior and inferior groups. [with biblical allusion to Matt. 25:33.] separate the wheat from the chaff see chaff1. DERIVATIVES separateness nounORIGIN late Middle English: from Latin separat- ‘disjoined, divided,’ from the verb separare, from se- ‘apart’ + parare ‘prepare.’

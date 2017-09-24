@@ -1,20 +1,43 @@
 return 
+rəˈtərn
+
 ▶verb
-1 he returned to Halifax: go back, come back, come home. ANTONYMS depart.
-2 the symptoms returned: recur, reoccur, occur again, repeat (itself); reappear, appear again. ANTONYMS disappear.
-3 he returned the money: give back, hand back; pay back, repay. ANTONYMS keep.
-4 Peter returned the book to the shelf: restore, put back, replace, reinstall.
-5 he returned the volley: hit back, throw back. ANTONYMS miss.
-6 she returned his kiss: reciprocate, requite, give in return, respond to, repay, give back. ANTONYMS ignore.
-7 “Later,” returned Isabel: answer, reply, respond, counter, rejoin, retort, come back.
-8 the jury returned a unanimous verdict: deliver, bring in, hand down.
-9 the club returned a profit: yield, earn, realize, net, gross, clear.
-10 the swing might result in a leftist party being returned in the next election: elect, vote in, choose, select.
+1 [no object] come or go back to a place or person: he returned to Canada in the fall. 
+• (return to) go back to (a particular state or activity): Ollie had returned to full health. 
+• (return to) turn one's attention back to (something): he returned to his newspaper. 
+• (especially of a feeling) come back or recur after a period of absence: her appetite had returned.
+2 [with object] give, put, or send (something) back to a place or person: complete the application form and return it to this address. 
+• feel, say, or do (the same feeling, action, etc.) in response: she returned his kiss. 
+• (in tennis and other sports) hit or send (the ball) back to an opponent. 
+• American Football run upfield with the ball after fielding (a kick), intercepting (a pass), or recovering (a fumble). 
+• (of a judge or jury) state or present (a verdict) in response to a formal request. 
+• Bridge lead (a card of a suit led earlier by one's partner). 
+• Architecture continue (a wall) in a changed direction, especially at right angles.
+3 [with object] yield or make (a profit): the company returned a profit of 4.3 million dollars.
+4 [with object] (of an electorate) elect (a person or party) to office: the Democrat was returned in the third district. 
 ▶noun
-1 his return to Oregon: homecoming. ANTONYMS departure.
-2 the return of hard times: recurrence, reoccurrence, repeat, repetition, reappearance, revival, resurrection, reemergence, resurgence, renaissance. ANTONYMS disappearance.
-3 I requested the return of my books: giving back, handing back, replacement, restoration, reinstatement, restitution.
-4 a quick return on investments: yield, profit, gain, revenue, interest, dividend.
-5 a census return: statement, report, submission, record, dossier; document, form.
+1 an act of coming or going back to a place or activity: he celebrated his safe return from the war 
+[as modifier] : a return flight. 
+• [in singular] an act of going back to an earlier state or condition: the designer advocated a return to elegance. 
+• the action of giving, sending, or putting something back: we demand the return of our books and papers. 
+• American Football a play in which the ball is caught after a kick or pass interception and is advanced by running; an advance of this kind. 
+• (in tennis and other sports) a stroke played in response to a serve or other stroke by one's opponent. 
+• a thing that has been given or sent back, especially an unwanted ticket for a sports event or play. 
+• (also return ticket) chiefly British a ticket that allows someone to travel to a place and back again; a round trip ticket. 
+• an electrical conductor bringing a current back to its source. 
+• (also return game) a second contest between the same opponents.
+2 (often returns) a profit from an investment: product areas are being developed to produce maximum returns. 
+• a good rate of return.
+3 an official report or statement submitted in response to a formal demand: census returns. 
+• Law an endorsement or report by a court officer or sheriff on a writ.
+4 election to office: we campaigned for the return of Young and Elkins. 
+• an official report of the results of an election: falsification of the election return.
+5 (also carriage return) a key pressed to move the carriage of an electric typewriter back to a fixed position. 
+• (also return key) a key pressed on a computer keyboard to simulate a carriage return in a word-processing program, or to indicate the end of a command or data string.
+6 Architecture a part receding from the line of the front, for example the side of a house or of a window opening. 
 PHRASES
-in return for I'm authorized to show you some leniency in return for information about Sawyer: in exchange for, as a reward for, as compensation for.
+in return as a response, exchange, or reward for something: he leaves the house to his sister in return for her kindness. many happy returns (of the day) used as a greeting to someone on their birthday.return thanks express thanks, especially in a grace at a meal or in response to a toast or condolence.DERIVATIVES returnable 
+rəˈtərnəb(ə)l rēˈtərnəbəl 
+adjective. returner 
+rəˈtərnər rēˈtərnər 
+nounORIGIN Middle English: the verb from Old French returner, from Latin re- ‘back’ + tornare ‘to turn’; the noun via Anglo-Norman French.

@@ -1,2 +1,6 @@
 prison 
-▶noun the prisons upstate are just as crowded: jail, lockup, penal institution, detention center, jailhouse, penitentiary, correctional facility; supermax; informal clink, slammer, hoosegow, big house, stir, jug, brig, can, pen, cooler, skookum house, pokey, slam; (be in prison) informal be inside, be behind bars, do time.
+ˈprizən
+
+▶noun a building in which people are legally held as a punishment for a crime they have committed or while awaiting trial: he died in prison 
+both men were sent to prison. 
+▶verb (prisons, prisoning, prisoned) [with object] literary imprison: the young man prisoned behind the doors. ORIGIN late Old English, from Old French prisun, from Latin prensio(n-), variant of prehensio(n-) ‘laying hold of,’ from the verb prehendere . usage: In North America, prison specifically denotes a facility run by the state (in Canada provincial) or federal government for those who have been convicted of serious crimes, whereas jail denotes a locally run facility for those awaiting trial or convicted of minor offenses.

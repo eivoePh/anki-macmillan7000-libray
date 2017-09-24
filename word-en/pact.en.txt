@@ -1,2 +1,4 @@
 pact 
-▶noun the pact was signed at the site of the surrender: agreement, treaty, entente, protocol, deal, settlement, concordat, accord; armistice, truce; formal concord.
+pakt
+
+▶noun a formal agreement between individuals or parties. ORIGIN late Middle English: from Old French, from Latin pactum ‘something agreed upon,’ neuter past participle (used as a noun) of paciscere ‘agree.’

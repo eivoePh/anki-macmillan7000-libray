@@ -1,10 +1,26 @@
 stress 
+stres
+
 ▶noun
-1 he's under a lot of stress: strain, pressure, (nervous) tension, worry, anxiety, trouble, difficulty; informal hassle.
-2 laying greater stress on education: emphasis, importance, weight.
-3 the stress falls on the first syllable: emphasis, accent, accentuation; beat; Prosody ictus.
-4 the stress is uniform across the bar: pressure, tension, strain.
+1 pressure or tension exerted on a material object: the distribution of stress is uniform across the bar. 
+• the degree of pressure exerted on a material object measured in units of force per unit area.
+2 a state of mental or emotional strain or tension resulting from adverse or very demanding circumstances: he's obviously under a lot of stress 
+[in combination] : stress-related illnesses. 
+• something that causes mental strain: the stresses and strains of public life.
+3 particular emphasis or importance: he has started to lay greater stress on the government's role in industry. 
+• emphasis given to a particular syllable or word in speech, typically through a combination of relatively greater loudness, higher pitch, and longer duration: normally, the stress falls on the first syllable. 
 ▶verb
-1 they stressed the need for reform: emphasize, draw attention to, underline, underscore, point up, place emphasis on, lay stress on, highlight, accentuate, press home. ANTONYMS play down.
-2 the last syllable is stressed: place the emphasis on, emphasize, place the accent on.
-3 all the staff were stressed: overstretch, overtax, push to the limit, pressure, make tense, worry, harass; informal hassle.
+1 [reporting verb] give particular emphasis or importance to (a point, statement, or idea) made in speech or writing: [with object] : they stressed the need for reform 
+[with clause] : she was anxious to stress that her daughter's safety was her only concern 
+[with direct speech] : “I want it done very, very neatly,” she stressed. 
+• [with object] give emphasis to (a syllable or word) when pronouncing it.
+2 [with object] subject to pressure or tension: this type of workout does stress the shoulder and knee joints.
+3 [with object] cause mental or emotional strain or tension in: I avoid many of the things that used to stress me before 
+(as adjective stressed) : she should see a doctor if she is feeling particularly stressed out. 
+• [no object] informal become tense or anxious; worry: don't stress—there's plenty of time to get a grip on the situation. DERIVATIVES stressless 
+ˈstresləs 
+adjective. stressor 
+-ər 
+noun stress ( sense
+2 of the verb, sense
+3 of the verb) ORIGIN Middle English (denoting hardship or force exerted on a person for the purpose of compulsion): shortening of distress, or partly from Old French estresse ‘narrowness, oppression,’ based on Latin strictus ‘drawn tight’ (see strict) .

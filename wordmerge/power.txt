@@ -20,17 +20,43 @@ B.  transitive verb
 ① «generator, battery, engine» 驱动 qūdòng ‹vehicle, aircraft, boat›; 为…供电 wèi… gōngdiàn ‹factory›
 ② (send powerfully) 使迅猛移动 shǐ xùnměng yídòng ‹ball, shot›she powered her way into the lead 她迅速发力冲到最前面 PHRASAL VERBS power down transitive verb[power something down, power down something] 关掉 guāndiào ‹device, computer, machine›power up transitive verb[power something up, power up something] 启动 qǐdòng ‹device, computer, machine›
 power 
+ˈpou(ə)r
+
 ▶noun
-1 the power of speech: ability, capacity, capability, potential, faculty, competence. ANTONYMS inability.
-2 the unions wield enormous power: control, authority, influence, dominance, mastery, domination, dominion, sway, weight, leverage; informal clout, teeth, drag; literary puissance.
-3 police have the power to stop and search: authority, right, authorization, warrant, license.
-4 a major international power: state, country, nation.
-5 he hit the ball with as much power as he could: strength, powerfulness, might, force, forcefulness, vigor, energy; brawn, muscle; informal punch; literary thew.
-6 the power of his arguments: forcefulness, powerfulness, potency, strength, force, cogency, persuasiveness. ANTONYMS impotence, weakness.
-7 the new engine has more power: driving force, horsepower, h.p., acceleration; informal oomph.
-8 generating power from waste: energy, electrical power, nuclear power, wave power, wind power, micropower.
-9 informal the time off did him a power of good: a great deal of, a lot of, much; informal lots of, loads of.
+1 the ability to do something or act in a particular way, especially as a faculty or quality: the power of speech 
+[with infinitive] : the power to raise the dead 
+(powers) : his powers of concentration.
+2 the capacity or ability to direct or influence the behavior of others or the course of events: the idea that men should have power over women 
+she had me under her power. 
+• political or social authority or control, especially that exercised by a government: the party had been in power for eight years 
+[as modifier] : a power struggle. 
+• a right or authority that is given or delegated to a person or body: police do not have the power to stop and search 
+emergency powers. 
+• the military strength of a state: the sea power of Venice. 
+• a state or country, especially one viewed in terms of its international influence and military strength: a great colonial power. 
+• a person or organization that is strong or influential within a particular context: he was a power in the university. 
+• a supernatural being, deity, or force: the powers of darkness. 
+• (powers) (in traditional Christian angelology) the sixth highest order of the ninefold celestial hierarchy. 
+• [as modifier] informal denoting something associated with people who hold authority and influence, especially in the context of business or politics: a red power tie. 
+• [with modifier] used in the names of movements aiming to enhance the status of a specified group: gay power.
+3 physical strength and force exerted by something or someone: the power of the storm. 
+• capacity or performance of an engine or other device: he applied full power. 
+• the capacity of something to affect the emotions or intellect strongly: the lyrical power of his prose. 
+• [as modifier] denoting a sports player, team, or style of play that makes use of power rather than finesse: a power pitcher. 
+• the magnifying capacity of a lens.
+4 energy that is produced by mechanical, electrical, or other means and used to operate a device: generating power from waste 
+[as modifier] : power cables. 
+• electrical energy supplied to an area, building, etc.: the power went off. 
+• [as modifier] driven by electrical energy: a power drill. 
+• Physics the time-rate of doing work, measured in watts or less frequently horsepower.
+5 Mathematics the number of times a certain number is to be multiplied by itself:
+2 to the power of
+4 equals 16. 
+▶verb
+1 [with object] supply (a device) with mechanical or electrical energy: the car is powered by a fuel-injected 3.0-liter engine 
+[as adjective in combination] (-powered) : a nuclear-powered submarine. 
+• (power something up/down) switch a device on or off: the officer powered up the fighter's radar.
+2 [no object] move or travel with great speed or force: they powered past the dock toward the mouth of the creek. 
+• [with object] direct (something, especially a ball) with great force: Nicholas powered a header into the net. 
 PHRASES
-have someone in/under one's power I doubt that Roger will ever have Etta under his power: have control over, have influence over, have under one's thumb, have at one's mercy, have in one's clutches, have in the palm of one's hand, have someone wrapped around one's little finger, have in one's hip pocket; informal have over a barrel. the powers that be the powers that be did nothing to defuse the situation: the authorities, the people in charge, the government. 
-WORD LINKS
-power megalomania an obsession with powerWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.CHOOSE THE RIGHT WORD See jurisdiction .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+do someone/something a power of good informal be very beneficial to someone or something. in the power of under the control of: a church ministering in the power of the Holy Spirit. power behind the throne a person or organization that exerts authority or influence without having formal status. the powers that be the authorities. [with biblical allusion to Rom. 13:1.]ORIGIN Middle English: from Anglo-Norman French poeir, from an alteration of Latin posse ‘be able.’

@@ -9,9 +9,25 @@ C.  intransitive verb(present participle etc. -ll- BrE, -l- AmE )
 ① (move upward) 螺旋式上升 luóxuánshì shàngshēng (move downward) 螺旋式下降 luóxuánshì xiàjiàng to spiral up or upwards/down or downwards 螺旋式上升/下降 to spiral to [something]; (moving upward) 盘旋上升到某物上 (moving downward) 盘旋下降到某物上 the leaf spiralled to the ground 叶子旋转着飘落到地上 
 ② Economics (increase continuously) 持续上升 chíxù shàngshēng (decrease continuously) 持续下降 chíxù xiàjiàng 
 spiral 
-▶adjective a spiral column of smoke: coiled, helical, corkscrew, curling, winding, twisting, whorled; technical voluted, helicoid, helicoidal.
-▶noun a spiral of smoke: coil, helix, corkscrew, curl, twist, gyre, whorl, scroll; technical volute, volution.
-▶verb
-1 smoke spiraled up: coil, wind, swirl, twist, wreathe, snake, gyrate; literary gyre.
-2 prices spiraled: soar, shoot up, rocket, increase rapidly, rise rapidly, escalate, climb; informal skyrocket, go through the roof. ANTONYMS fall.
-3 the economy is spiraling downward : deteriorate, decline, degenerate, worsen, get worse; informal go downhill, take a nosedive, go to pot, go to the dogs, hit the skids, go down the tubes. ANTONYMS improve.
+ˈspīrəl
+
+▶adjective winding in a continuous and gradually widening (or tightening) curve, either around a central point on a flat plane or about an axis so as to form a cone: a spiral pattern. 
+• winding in a continuous curve of constant diameter about a central axis, as though along a cylinder; helical. 
+• (of a staircase) constantly turning in one direction as it rises, around a solid or open center. 
+• Medicine (of a fracture) curving around a long bone lengthwise. 
+• short for spiral-bound: a spiral notebook. 
+▶noun
+1 a spiral curve, shape, or pattern: he spotted a spiral of smoke. 
+• a spiral spring. 
+• Astronomy short for spiral galaxy.
+2 a progressive rise or fall of prices, wages, etc., each responding to an upward or downward stimulus provided by a previous one: an inflationary spiral. 
+• a process of deterioration through the continuous increase or decrease of a specified feature: a downward spiral of sex and drink.
+3 American Football a pass or kick that moves smoothly through the air while spinning on its long axis. 
+▶verb (spirals, spiraling, spiraled American Football spirals, spiralling, spiralled)
+1 [no object] move in a spiral course: a wisp of smoke spiraled up from the trees. 
+• [with object] cause to have a spiral shape or follow a spiral course: spiral the bandage around the injured limb.
+2 [no object] show a continuous and dramatic increase: inflation continued to spiral 
+(as adjective spiraling) : he needed to relax after the spiraling tensions of the day. 
+• (spiral down/downward) decrease or deteriorate continuously: he expects the figures to spiral down further. DERIVATIVES spirally 
+ˈspīrəlē 
+adverbORIGIN mid 16th century (as an adjective): from medieval Latin spiralis, from Latin spira ‘coil’ (see spire2) .

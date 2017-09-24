@@ -6,7 +6,19 @@ transitive verb
 ③ (justify) 巩固 gǒnggù ‹authority, position›; 加强 jiāqiáng ‹opinion, resolve, emotion, doubt›her letter confirmed my resolve to go to Africa 她的信更坚定了我去非洲的决心 to confirm [somebody] in their dislike of …/reluctance to …; 使某些人更确信自己不喜欢/不愿意… 
 ④ Religion 给…施坚信礼 gěi… shī jiānxìnlǐ ‹person›
 confirm 
-▶verb
-1 records confirm the latest evidence: corroborate, verify, prove, validate, authenticate, substantiate, justify, vindicate; support, uphold, back up. ANTONYMS contradict, repudiate.
-2 he confirmed that help was on the way: affirm, reaffirm, assert, assure someone, repeat; promise, guarantee. ANTONYMS deny.
-3 his appointment was confirmed by the president: ratify, validate, sanction, endorse, formalize, authorize, warrant, accredit, approve, accept. ANTONYMS revoke.
+kənˈfərm
+
+▶verb [with object]
+1 establish the truth or correctness of (something previously believed, suspected, or feared to be the case): if these fears are confirmed, the outlook for the economy will be dire 
+the report confirms that a diet rich in vitamin C can help to prevent cataracts. 
+• state with assurance that a report or fact is true: he confirmed that the general was in the hands of the rebels 
+“It is indeed real coffee,” I confirmed. 
+• (confirm someone in) reinforce someone in (an opinion, belief, or feeling): he fueled his misogyny by cultivating women who confirmed him in this view. 
+• make (a provisional arrangement or appointment) definite: Mr. Baker's assistant telephoned to confirm his appointment with the chairman. 
+• make (something, especially a person's appointment to a position or an agreement) formally valid; ratify: the organization has confirmed the appointment of Mr. Collins as managing director. 
+• formally declare (someone) to be appointed to a particular position: he was confirmed as the new peace envoy.
+2 administer the religious rite of confirmation to: he had been baptized and confirmed. DERIVATIVES confirmative 
+kənˈfərmədiv 
+adjective. confirmatory 
+kənˈfərməˌtôrē 
+adjectiveORIGIN Middle English: from Old French confermer, from Latin confirmare, from con- ‘together’ + firmare ‘strengthen’ (from firmus ‘firm’).

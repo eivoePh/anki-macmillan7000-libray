@@ -1,8 +1,21 @@
 protest 
-▶noun
-1 he resigned as a protest: objection, complaint, exception, disapproval, challenge, dissent, demurral, remonstration, fuss, outcry. ANTONYMS support, approval.
-2 women staged a protest: demonstration, (protest) march, rally, counterdemonstration; sit-in, occupation; work-to-rule, industrial action, (work) stoppage, strike, walkout, mutiny, picket, boycott.
-▶verb
-1 I opened my mouth to protest: express opposition, object, dissent, take issue, make/take a stand, put up a fight, kick, take exception, complain, express disapproval, disagree, demur, remonstrate, make a fuss; cry out, speak out, rail, inveigh, fulminate; informal kick up a fuss/stink.
-2 people protested outside the cathedral: demonstrate, march, hold a rally, sit in, occupy somewhere; work to rule, take industrial action, stop work, strike, go on strike, walk out, mutiny, picket; boycott something.
-3 he protested his innocence: insist on, maintain, assert, affirm, announce, proclaim, declare, profess, contend, argue, claim, vow, swear (to), stress; formal aver.
+▶noun 
+ˈprōˌtest 
+
+1 a statement or action expressing disapproval of or objection to something: the Hungarian team lodged an official protest 
+two senior scientists resigned in protest. 
+• an organized public demonstration expressing strong objection to a policy or course of action adopted by those in authority: [as modifier] : a protest march.
+2 Law a written declaration, typically by a notary public, that a bill has been presented and payment or acceptance refused. 
+▶verb 
+prəˈtest prōˈtest 
+
+1 [no object] express an objection to what someone has said or done: she wouldn't let him pay, and he didn't protest. 
+• publicly demonstrate strong objection to a policy or course of action adopted by those in authority: doctors and patients protested against plans to cut services at the hospital. 
+• [with object] North American publicly demonstrate an objection to (a policy or course of action): the workers were protesting economic measures enacted a week earlier.
+2 [reporting verb] declare (something) firmly and emphatically in the face of stated or implied doubt or in response to an accusation: [with direct speech] : “I'm not being coy!” Lucy protested 
+[with object] : she has always protested her innocence.
+3 [with object] Law write or obtain a protest in regard to (a bill). 
+PHRASES
+under protest after expressing one's objection or reluctance; unwillingly: “I'm only here under protest,” Jenna said shortly.DERIVATIVES protestingly 
+prəˈtestiNGlē prōˈtestiNGlē 
+adverbORIGIN late Middle English (as a verb in the sense ‘make a solemn declaration’): from Old French protester, from Latin protestari, from pro- ‘forth, publicly’ + testari ‘assert’ (from testis ‘witness’).

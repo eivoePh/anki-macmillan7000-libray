@@ -1,3 +1,5 @@
-apostrophe 
-BrE əˈpɒstrəfi, AmE əˈpɑstrəfi 
-noun 撇号 piěhào 
+apostrophe
+1 
+əˈpästrəfē
+
+▶noun a punctuation mark ( ’ ) used to indicate either possession (e.g., Harry's book; boys' coats) or the omission of letters or numbers (e.g., can't; he's; class of ’99). ORIGIN mid 16th century (denoting the omission of one or more letters): via late Latin, from Greek apostrophos ‘accent of elision,’ from apostrephein ‘turn away,’ from apo ‘from’ + strephein ‘to turn.’ usage: The apostrophe is used to indicate missing letters or numbers ( bo'sun; the summer of ’63), to form some possessives (see usage at possessive), and to form some plurals (see usage at plural) .

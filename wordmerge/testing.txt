@@ -3,10 +3,7 @@ BrE ˈtɛstɪŋ, AmE ˈtɛstɪŋ
 
 A.  adjective 棘手的 jíshǒu de ‹situation, work›; 费劲的 fèijìn de ‹climb›
 B.  nounUncountable检测 jiǎncè 
-test 
-▶noun
-1 a series of scientific tests: trial, experiment, test case, case study, pilot study, trial run, tryout, dry run; check, examination, assessment, evaluation, appraisal, investigation, inspection, analysis, scrutiny, study, probe, exploration; screening, workup; technical assay.
-2 candidates may be required to take a test: exam, examination, quiz.
-▶verb
-1 a small-scale prototype was tested: try out, put to the test, put through its paces, experiment with, pilot; check, examine, assess, evaluate, appraise, investigate, analyze, scrutinize, study, probe, explore, trial; sample; screen; technical assay.
-2 such behavior would test any marriage: put a strain on, strain, tax, try; make demands on, stretch, challenge.
+testing 
+ˈtɛstɪŋ
+
+▶adjective revealing a person's capabilities by putting them under strain; challenging: it's been quite a testing time for all of us.

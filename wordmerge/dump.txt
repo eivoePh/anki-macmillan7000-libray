@@ -15,10 +15,25 @@ B.  transitive verb
 ⑤ Computing (copy) 转存 zhuǎncún ‹data›(print out) 转存打印 zhuǎncún dǎyìn ‹document›
 C.  intransitive verb AmE colloquial to dump on [somebody]; 诘难某人 jiénàn mǒu rén 
 dump 
+dəmp
+
 ▶noun
-1 take the garbage to the dump: transfer station, garbage dump, landfill (site), rubbish heap, dumping ground; dustheap, slag heap.
-2 informal the house is a dump: hovel, shack, slum; mess; hole, pigsty.
-▶verb
-1 he dumped his bag on the table: put down, set down, deposit, place, unload; drop, throw down; informal park, plonk (down), plunk (down).
-2 they will dump asbestos at the site: dispose of, get rid of, throw away/out, discard, jettison; informal ditch, junk, deep-six.
-3 informal he dumped her: abandon, desert, leave, jilt, break up with, finish with, throw over; informal walk out on, rat on, drop, ditch, unfriend, defriend.
+1 a site for depositing garbage. 
+• [usually with modifier] a place where a particular kind of waste, especially dangerous waste, is left: a nuclear waste dump. 
+• a place where weapons and other military equipment is stored: an ammunitions dump. 
+• a heap of garbage left at a dump. 
+• informal an unpleasant or dreary place: she says the town has become a dump. 
+• informal an act of defecation.
+2 Computing a copying of stored data to a different location, performed typically as a protection against loss. 
+• a printout or list of the contents of a computer's memory, occurring typically after a system failure. 
+▶verb [with object]
+1 deposit or dispose of (garbage, waste, or unwanted material), typically in a careless or hurried way: trucks dumped 1,900 tons of refuse here 
+[no object] : an attempt to prevent people from dumping on vacant lots. 
+• put down or abandon (something) hurriedly in order to make an escape: the couple dumped the car and fled. 
+• put (something) down firmly or heavily and carelessly: she dumped her knapsack on the floor. 
+• informal abandon or desert (someone): his girlfriend dumped him for being fat. 
+• send (goods unsalable in the home market) to a foreign market for sale at a low price: other countries dump steel in the US at below-market prices. 
+• informal sell off (assets) rapidly: investors dumped shares in scores of other consumer-goods firms.
+2 Computing copy (stored data) to a different location, especially so as to protect against loss. 
+• print out or list the contents of (a store), especially after a system failure.
+3 American Football tackle (a quarterback) before he can throw a pass. PHRASAL VERBS dump on North American informal criticize or abuse (someone); treat badly: you get dumped on just because of your name.ORIGIN Middle English: perhaps from Old Norse; related to Danish dumpe and Norwegian dumpa ‘fall suddenly’ (the original sense in English); in later use partly imitative; compare with thump .

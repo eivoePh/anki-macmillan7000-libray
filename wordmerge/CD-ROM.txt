@@ -2,5 +2,6 @@ CD-ROM
 BrE siːdiːˈrɒm, AmE ˌsidiˈrɑm 
 noun = compact disc read-only memory 只读光盘存储器 zhǐdú guāngpán cúnchǔqì 
 CD-ROM 
-BrE siːdiːˈrɒm, AmE ˌsidiˈrɑm 
-noun = compact disc read-only memory 只读光盘存储器 zhǐdú guāngpán cúnchǔqì 
+ˌsēdēˈräm
+
+▶noun a compact disc used as a read-only optical memory device for a computer system. ORIGIN 1980s: acronym from compact disc read-only memory.

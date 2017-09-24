@@ -1,4 +1,6 @@
 apparent 
-▶adjective
-1 their relief was all too apparent: evident, plain, obvious, clear, manifest, visible, discernible, perceptible; unmistakable, crystal clear, palpable, patent, blatant, writ large; informal as plain as the nose on one's face, written all over one's face. ANTONYMS unclear, obscure.
-2 his apparent lack of concern: seeming, ostensible, outward, superficial; supposed, alleged, professed. ANTONYMS genuine.
+əˈperənt
+
+▶adjective clearly visible or understood; obvious: [with clause] : it became apparent that he was talented 
+for no apparent reason she laughed. 
+• seeming real or true, but not necessarily so: his apparent lack of concern. ORIGIN late Middle English: from Old French aparant, from Latin apparent- ‘appearing,’ from the verb apparere (see appear) .

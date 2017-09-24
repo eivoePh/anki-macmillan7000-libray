@@ -28,21 +28,29 @@ G.  adjectiveattributive
 ① (given or done beforehand) 预先的 yùxiān de ‹payment, deposit›an advance warning system 预警系统 
 ② Military (sent on ahead) 先遣的 xiānqiǎn de 
 advance 
+ədˈvans
+
 ▶verb
-1 the battalion advanced rapidly: move forward, proceed, press on, push on, push forward, make progress, make headway, gain ground, approach, come closer, draw nearer, near. ANTONYMS retreat.
-2 the court may advance the date of the hearing: bring forward, put forward, move forward. ANTONYMS postpone.
-3 the move advanced his career: promote, further, help, aid, assist, boost, strengthen, improve, benefit, foster. ANTONYMS impede, hinder.
-4 our technology has advanced in the last few years: progress, make progress, make headway, develop, evolve, make strides, move forward (in leaps and bounds), move ahead; improve, thrive, flourish, prosper. ANTONYMS stagnate.
-5 the hypothesis I wish to advance in this article: put forward, present, submit, suggest, propose, introduce, offer, adduce, moot. ANTONYMS retract.
-6 a relative advanced him some money: lend, loan, put up, come up with. ANTONYMS borrow.
+1 [no object] move forward, typically in a purposeful way: the troops advanced on the capital 
+she stood up and advanced toward him. 
+• make or cause to make progress: our knowledge is advancing all the time 
+[with object] : it was a chance to advance his own interests. 
+• [with object] cause (an event) to occur at an earlier date than planned: I advanced the date of the meeting by several weeks. 
+• [with object] put forward (a theory or suggestion): the hypothesis I wish to advance in this article. 
+• (especially of shares of stock) increase in price: two stocks advanced for every one that fell.
+2 [with two objects] lend (money) to (someone): the bank advanced them a loan. 
+• pay (money) to (someone) before it is due: he advanced me a month's salary. 
 ▶noun
-1 the advance of the aggressors: progress, forward movement; approach.
-2 a significant medical advance: breakthrough, development, step forward, step in the right direction, (quantum) leap; find, finding, discovery, invention.
-3 share prices showed significant advances: increase, rise, upturn, upsurge, upswing, growth; informal hike.
-4 the writer is going to be given a huge advance: down payment, retainer, prepayment, deposit, front money, money up front.
-5 unwelcome sexual advances: pass, proposition.
-▶adjective
-1 an advance party of settlers: preliminary, sent (on) ahead, first, exploratory; pilot, test, trial.
-2 advance warning: early, prior, beforehand.
+1 a forward movement: the rebels' advance on Madrid was well under way 
+figurative : the advance of civilization. 
+• a development or improvement: genuine advances in engineering techniques 
+decades of great scientific advance. 
+• an increase or rise in amount, value, or price: bond prices posted vigorous advances.
+2 an amount of money paid before it is due or for work only partly completed: the author was paid a $250,000 advance 
+I asked for an advance on next month's salary. 
+• a loan: an advance from the bank.
+3 (usually advances) an approach made to someone, typically with the aim of initiating a sexual encounter: women accused him of making improper advances. 
+▶adjective done, sent, or supplied beforehand: advance notice 
+advance payment. 
 PHRASES
-in advance rental skis and boots can be reserved in advance: beforehand, before, ahead of time, earlier, previously; in readiness.
+in advance ahead in time: you need to book weeks in advance. in advance of ahead of in time or space; before: we went on ahead in advance of the main group.DERIVATIVES advancer nounORIGIN Middle English: from Old French avance (noun), avancer (verb), from late Latin abante ‘in front,’ from ab ‘from’ + ante ‘before.’ The initial a- was erroneously assimilated to ad- in the 16th century.

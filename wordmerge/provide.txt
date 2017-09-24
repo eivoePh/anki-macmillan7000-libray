@@ -8,11 +8,14 @@ B.  intransitive verb archaic «God, the state» 提供生活必需品 tígōng 
 ① [provide for somebody/something] (finance, maintain) 供养 gōngyǎng ‹person, family›I have to provide for my old age 我必须为年老时作准备 
 ② [provide for something] (allow for) 把…考虑在内 bǎ… kǎolǜ zàinèi ‹risk, eventuality›; 规定 guīdìng ‹action, compensation›expenses provided for in the budget 纳入预算中的开支 the law provides for [something] to be done 法律规定要做某事 
 provide 
+prəˈvīd
+
 ▶verb
-1 the foundation will provide funds: supply, give, issue, furnish, come up with, dispense, bestow, impart, produce, yield, bring forth, bear, deliver, donate, contribute, pledge, advance, spare, part with, allocate, distribute, allot, put up; informal fork out, lay out, ante up, pony up. ANTONYMS refuse, withhold.
-2 she was provided with enough tools: equip, furnish, issue, supply, outfit; fit out, rig out, arm, provision; informal fix up. ANTONYMS deprive.
-3 he had to provide for his family: feed, nurture, nourish; support, maintain, keep, sustain, provide sustenance for, fend for, finance, endow. ANTONYMS neglect.
-4 the test may provide the answer: make available, present, offer, afford, give, add, bring, yield, impart.
-5 we have provided for further restructuring: prepare, allow, make provision, be prepared, arrange, get ready, plan, cater.
-6 the banks have to provide against bad debts: take precautions, take steps/measures, guard, forearm oneself.
-7 the legislation provides that factories must be kept clean: stipulate, lay down, make it a condition, require, order, ordain, demand, prescribe, state, specify.
+1 [with object] make available for use; supply: these clubs provide a much appreciated service for this area. 
+• (provide someone with) equip or supply someone with (something useful or necessary): we were provided with a map of the area. 
+• present or yield (something useful): neither will provide answers to these problems.
+2 [no object] (provide for) make adequate preparation for (a possible event): new qualifications must provide for changes in technology. 
+• supply sufficient money to ensure the maintenance of (someone): Emma was handsomely provided for in Frank's will. 
+• (of a law) enable or allow (something to be done).
+3 [with clause] stipulate in a will or other legal document: the order should be varied to provide that there would be no contact with the father.
+4 (provide someone to) Christian Church, historical appoint an incumbent to (a benefice). ORIGIN late Middle English (also in the sense ‘prepare to do, get ready’): from Latin providere ‘foresee, attend to,’ from pro- ‘before’ + videre ‘to see.’

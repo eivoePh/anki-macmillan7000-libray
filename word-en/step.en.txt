@@ -1,20 +1,43 @@
 step 
+step
+
 ▶noun
-1 Frank took a step forward: pace, stride.
-2 she heard a step on the stairs: footstep, footfall, tread.
-3 she left the room with a springy step: gait, walk, tread.
-4 it is only a step to the river: short distance, stone's throw, spitting distance; informal 'a hop, skip, and jump'.
-5 the top step: stair, tread; (steps) stairs, staircase, stairway.
-6 each step of the ladder: rung, tread.
-7 resigning is a very serious step: course of action, measure, move, act, action, initiative, maneuver, operation, tactic.
-8 a significant step toward a ceasefire: advance, development, move, movement; breakthrough.
-9 the first step on the managerial ladder: stage, level, grade, rank, degree; notch, rung.
-▶verb
-1 she stepped gingerly through the snow: walk, move, tread, pace, stride.
-2 the bull stepped on the farmer's foot: tread on, stamp on, trample (on); squash, crush, flatten.
+1 an act or movement of putting one leg in front of the other in walking or running: Ron took a step back 
+she turned and retraced her steps. 
+• the distance covered by a step: Richard came a couple of steps nearer. 
+• [usually in singular] a person's particular way of walking: she left the room with a springy step. 
+• one of the sequences of movement of the feet that make up a dance. 
+• a short or easily walked distance: the market is only a short step from the end of the lake.
+2 a flat surface, especially one in a series, on which to place one's foot when moving from one level to another: the bottom step of the staircase 
+a flight of marble steps. 
+• a doorstep: there was a pint of milk on the step. 
+• a rung of a ladder. 
+• (steps or a pair of steps) British a stepladder. 
+• Climbing a foothold cut in a slope of ice. 
+• a block, typically fixed to the vessel's keel, on which the base of a mast is seated. 
+• Physics an abrupt change in the value of a quantity, especially voltage.
+3 a measure or action, especially one of a series taken in order to deal with or achieve a particular thing: the government must take steps to discourage age discrimination 
+a major step forward in the fight for justice. 
+• a stage in a gradual process: sales are up, which is a step in the right direction. 
+• a particular position or grade on an ascending or hierarchical scale: the first step on the managerial ladder.
+4 Music, North American an interval in a scale; a tone (whole step) or semitone (half step).
+5 step aerobics: [as modifier] : a step class. 
+▶verb (steps, stepping, stepped)
+1 [no object] lift and set down one's foot or one foot after the other in order to walk somewhere or move to a new position: Claudia tried to step back 
+I accidentally stepped on his foot. 
+• [as imperative] used as a polite or deferential way of asking someone to walk a short distance for a particular purpose: please step this way. 
+• (step it) dated perform a dance: they stepped it down the room between the lines of dancers. 
+• take a particular course of action: young men have temporarily stepped out of the labor market.
+2 [with object] Nautical set up (a mast) in its step. 
 PHRASES
-in step he is in step with mainstream thinking: in accord, in accordance, in harmony, in agreement, in tune, in line, in keeping, in conformity, compatible. mind/watch one's step just watch your step when Mrs. Kline gets here: be careful, take care, step/tread carefully, exercise care/caution, mind how one goes, look out, watch out, be wary, be on one's guard, be on the qui vive. out of step the paper was often out of step with public opinion: at odds, at variance, in disagreement, out of tune, out of line, not in keeping, out of harmony. step by step I followed the directions step by step: one step at a time, bit by bit, gradually, in stages, by degrees, slowly, steadily. step down it's time for Rowland to step down: resign, quit, stand down, give up one's post/job, bow out, abdicate; pack it in, call it quits. step in
-1 nobody stepped in to save the bank: intervene, intercede, involve oneself, become/get involved, take a hand.
-2 I stepped in for a sick colleague: stand in, sit in, fill in, cover, substitute, take over; replace, take someone's place; informal sub. step on it informal if we don't step on it we'll miss the boat: hurry up, get a move on, speed up, go faster, be quick; informal get cracking, get moving, step on the gas; dated make haste. step up
-1 the army stepped up its offensive: increase, intensify, strengthen, augment, escalate; informal up, crank up.
-2 I stepped up my pace: speed up, increase, accelerate, quicken, hasten.
+break step stop walking or marching in step with others. fall into step change the way one is walking so that one is walking in step with another person. in (or out of) step putting (or not putting) one's feet forward alternately in the same rhythm as the people one is walking, marching, or dancing with. 
+• conforming (or not conforming) to what others are doing or thinking: the party is clearly out of step with voters. 
+• Physics (of two or more oscillations or other cyclic phenomena) having (or not having) the same frequency and always in the same phase. keep step remain walking, marching, or dancing in step. one step ahead managing to avoid competition or danger from someone or something: I try to keep one step ahead of the rest of the staff. step by step so as to progress gradually and carefully from one stage to the next: I'll explain it to you step by step 
+[as adjective] : a step-by-step guide. step into the breach see breach. step into someone's shoes take control of a task or job from another person. step on it (or step on the gas) informal go faster, typically in a motor vehicle.step out of line behave inappropriately or disobediently. step up to the plate North American take action in response to an opportunity or crisis.PHRASAL VERBS step aside another way of saying step down below. step back mentally withdraw from a situation in order to consider it objectively. step down withdraw or resign from an important position or office: Mr. Krenz stepped down as party leader a week ago. step something down decrease voltage by using a transformer. step forward offer one's help or services: a company has stepped forward to sponsor the team. step in become involved in a difficult or problematic situation, especially in order to help or prevent something from happening. 
+• act as a substitute for someone: Lucy stepped in at very short notice to take Joan's place. step out
+1 leave a room or building, typically for a short time.
+2 North American informal go out to have a good time: he was stepping out with a redheaded waitress.
+3 walk with long or vigorous steps: she enjoyed the outing, stepping out manfully. step something up increase the amount, speed, or intensity of something: police decided to step up security plans for the game. 
+• increase voltage using a transformer.DERIVATIVES steplike 
+-ˌlīk 
+adjectiveORIGIN Old English stæpe, stepe (noun), stæppan, steppan (verb), of Germanic origin; related to Dutch steppen and German stapfen .

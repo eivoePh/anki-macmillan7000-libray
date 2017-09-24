@@ -8,9 +8,16 @@ A.  transitive verb
 ④ (think) 认真思考 rènzhēn sīkǎo to reflect that …; 琢磨着… 
 B.  intransitive verb (think) 深思 shēnsī to reflect on or upon [something]; 思考某事 PHRASAL VERB reflect on, reflect upon transitive verb «behaviour, courage, betrayal» 导致 dǎozhì ; «scandal, accusation, incident» 给…带来影响 gěi… dàilái yǐngxiǎng a success that reflects great credit on all concerned 给所有相关人员带来荣誉的成功 how is this going to reflect on the school? 这对学校的声誉会有什么影响？ to reflect badly/well on [somebody]/[something] 给某人/某事物造成坏的/好的影响 
 reflect 
+rəˈflekt
+
 ▶verb
-1 the snow reflects light: send back, throw back, cast back.
-2 their expressions reflected their feelings: indicate, show, display, demonstrate, be evidence of, register, reveal, betray, disclose; express, communicate; formal evince.
-3 he reflected on his responsibilities: think about, give thought to, consider, give consideration to, review, mull over, contemplate, cogitate about/on, meditate on, muse on, brood on/over, turn over in one's mind; archaic pore on.
-PHRASES
-reflect badly on stunts like these reflect badly on our school: discredit, disgrace, dishonor, shame, put in a bad light, damage, tarnish the reputation of, give a bad name to, bring into disrepute.
+1 [with object] (of a surface or body) throw back (heat, light, or sound) without absorbing it: when the sun's rays hit the earth a lot of the heat is reflected back into space 
+(as adjective reflected) : his eyes gleamed in the reflected light. 
+• (of a mirror or shiny surface) show an image of: he could see himself reflected in Keith's mirrored glasses. 
+• embody or represent (something) in a faithful or appropriate way: stocks are priced at a level that reflects a company's prospects 
+schools should reflect cultural differences. 
+• (of an action or situation) bring (credit or discredit) to the relevant parties: the main contract is progressing well, which reflects great credit on those involved. 
+• [no object] (reflect well/badly on) bring about a good or bad impression of: the incident reflects badly on the operating practices of the airlines.
+2 [no object] (reflect on/upon) think deeply or carefully about: he reflected with sadness on the unhappiness of his marriage 
+[with clause] : Charles reflected that maybe there was hope for the family after all. 
+• archaic make disparaging remarks about. ORIGIN late Middle English: from Old French reflecter or Latin reflectere, from re- ‘back’ + flectere ‘to bend.’

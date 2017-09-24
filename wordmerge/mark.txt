@@ -40,25 +40,54 @@ A.  [mark somebody/something up, mark up somebody/something] transitive verb esp
 B.  [mark something up, mark up something] transitive verb 
 ① Busn (increase price of) 给…加价 gěi… jiā jià ‹item›
 ② (for keying or typesetting) 为…标注排版说明 wèi… biāozhù páibǎn shuōmíng ; (correct text of) 审校 shěnjiào 
-mark 
+mark
+1 
+märk
+
 ▶noun
-1 a dirty mark: blemish, streak, spot, fleck, dot, blot, stain, smear, speck, speckle, blotch, smudge, smut, fingermark, fingerprint; bruise, discoloration; birthmark; informal splotch; technical stigma.
-2 a punctuation mark: symbol, sign, character; diacritic.
-3 books bearing the mark of a well-known bookseller: logo, seal, stamp, imprint, symbol, emblem, device, insignia, badge, brand, trademark, monogram, hallmark, logotype, watermark.
-4 unemployment passed the three million mark: point, level, stage, degree.
-5 a mark of respect: sign, token, symbol, indication, badge, emblem; symptom, evidence, proof.
-6 the war left its mark on him: impression, imprint, traces; effect, impact, influence.
-7 the mark of a civilized society: characteristic, feature, trait, attribute, quality, hallmark, calling card, badge, stamp, property, indicator.
-8 he got good marks for math: grade, grading, rating, score, percentage.
-9 the bullet missed its mark: target, goal, aim, bullseye; objective, object, end.
-▶verb
-1 be careful not to mark the paintwork: discolor, stain, smear, smudge, streak, blotch, blemish; dirty, pockmark, bruise; informal splotch; literary smirch.
-2 her possessions were clearly marked: put one's name on, name, initial, label, identify; hallmark, watermark, brand.
-3 I've marked the relevant passages: indicate, label, flag, tick, check off, highlight; show, identify, designate, delineate, denote, specify.
-4 a festival to mark the town's 200th anniversary: celebrate, observe, recognize, acknowledge, keep, honor, solemnize, pay tribute to, salute, commemorate, remember, memorialize.
-5 the incidents marked a new phase in their campaign: represent, signify, be a sign of, indicate, herald.
-6 his style is marked by simplicity and concision: characterize, distinguish, identify, typify, brand, signalize, stamp.
-7 I have a pile of essays to mark: assess, evaluate, grade, appraise, correct.
-8 it'll cause trouble, you mark my words! take heed of, heed, listen to, take note of, pay attention to, attend to, note, mind, bear in mind, take into consideration.
+1 a small area on a surface having a different color from its surroundings, typically one caused by accident or damage: the blow left a red mark down one side of her face. 
+• a spot, area, or feature on a person's or animal's body by which they may be identified or recognized: he was five feet nine, with no distinguishing marks.
+2 a line, figure, or symbol made as an indication or record of something. 
+• a written symbol made on a document in place of a signature by someone who cannot write. 
+• a level or stage that is considered significant: unemployment had passed the two million mark. 
+• a sign or indication of a quality or feeling: the flag was at half-mast as a mark of respect. 
+• a characteristic property or feature: it is the mark of a civilized society to treat its elderly members well. 
+• a competitor's starting point in a race. 
+• Nautical a piece of material or a knot used to indicate a depth on a sounding line. 
+• Telecommunications one of two possible states of a signal in certain systems. The opposite of space.
+3 a point awarded for a correct answer or for proficiency in an examination or competition: many candidates lose marks because they don't read the questions carefully 
+figurative : full marks to them for highlighting the threat to the rainforest. 
+• a figure or letter representing the total correct answers in an examination and signifying a person's score: the highest mark was 98 percent. 
+• (especially in track and field) a time or distance achieved by a competitor, especially one which represents a record or personal best.
+4 (followed by a numeral) a particular model or type of a vehicle, machine, or device: a Mark
+10 Jaguar.
+5 a target: few bullets could have missed their mark. 
+• informal, chiefly US a person who is easily deceived or taken advantage of: they figure I'm an easy mark. 
+▶verb [with object]
+1 make (a visible impression or stain) on: he fingered the photograph gently, careful not to mark it. 
+• [no object] become stained: it is made from a sort of woven surface which doesn't mark or tear.
+2 write a word or symbol on (an object), typically for identification: she marked all her possessions with her name 
+[with object and complement] : an envelope marked “private and confidential.” 
+• write (a word or figure) on an object: she marked the date down on a card. 
+• (mark something off) put a line by or through something written or printed on paper to indicate that it has passed or been dealt with: he marked off their names in a ledger.
+3 show the position of: the top of the pass marks the border between Alaska and the Yukon. 
+• separate or delineate (a particular section or area of something): you need to mark out the part of the garden where the sun lingers longest. 
+• (of a particular quality or feature) separate or distinguish (someone or something) from other people or things: his sword marked him out as an officer. 
+• (mark someone out for) select or destine someone for (a particular role or condition): the solicitor general marked him out for government office. 
+• (mark someone down as) judge someone to be (a particular type or class of person): she had marked him down as a liberal. 
+• acknowledge, honor, or celebrate (an important event or occasion) with a particular action: to mark its fiftieth anniversary, the group held a fashion show. 
+• be an indication of (a significant occasion, stage, or development): the move to the new Globe theatre marked a new phase in Shakespeare’s writing career. 
+• (usually be marked) characterize as having a particular quality or feature: the reaction to these developments has been marked by a note of hysteria. 
+• chiefly British (of a clock or watch) show (a certain time): his watch marked five past eight.
+4 (of a teacher or examiner) assess the standard of (a piece of written work) by assigning points for proficiency or correct answers: the teachers are given adequate time to mark term papers. 
+• (mark someone/something down) reduce the number of marks awarded to a student, candidate, or their work: I was marked down for having skipped the last essay question.
+5 notice or pay careful attention to: he'll leave you, you mark my words!
+6 (of a player in a team game) stay close to (a particular opponent) in order to prevent them getting or passing the ball. 
 PHRASES
-make one's mark she intends to make her mark in Hollywood: be successful, distinguish oneself, succeed, be a success, prosper, get ahead, make good; informal make it, make the grade. mark down the prices will be marked down after Christmas: reduce, decrease, lower, cut, put down, discount; informal slash. mark up they were accused of marking up the cost before offering a discount: increase, raise, up, put up, hike (up), escalate; informal jack up. quick off the mark an elite force that was more quick off the mark than any fighting element in the sector: alert, quick, quick-witted, bright, clever, perceptive, sharp, sharp-witted, observant, wide awake, on one's toes; informal on the ball, quick on the uptake. wide of the mark his answer was wide of the mark: inaccurate, incorrect, wrong, erroneous, off target, out, mistaken, misguided, misinformed.
+be quick (or slow) off the mark be fast (or slow) in responding to a situation or understanding something. get off the mark get started. leave (or make) its (or one's or a) mark have a lasting or significant effect: she left her mark on the world of foreign policy. make one's mark attain recognition or distinction. mark time (of troops) march on the spot without moving forward. 
+• pass one's time in routine activities until a more favorable or interesting opportunity presents itself. mark you chiefly British used to emphasize or draw attention to a statement: I was persuaded, against my better judgment, mark you, to vote for him. near (or close) to the mark almost accurate: to say he was their legal adviser would be nearer the mark. off (or wide of) the mark
+1 a long way from an intended target: his shot never is off the mark for long.
+2 incorrect or inaccurate: the accusation was a little wide of the mark. of mark dated having importance or distinction: he had been a man of mark. on the mark correct; accurate. on your marks used to instruct competitors in a race to prepare themselves in the correct starting position: on your marks, get set, go! up to the mark of the required standard. 
+• [usually with negative] (of a person) as healthy or in as good spirits as usual: Johnny's not feeling up to the mark at the moment.PHRASAL VERBS mark something down (of a retailer) reduce the indicated price of an item. mark something up
+1 (of a retailer) add a certain amount to the cost of goods to cover overhead and profit: they mark up the price of imported wines by 66 percent.
+2 annotate or correct text for printing, keying, or typesetting.ORIGIN Old English mearc, gemerce (noun), mearcian (verb), of Germanic origin; from an Indo-European root shared by Latin margo ‘margin.’

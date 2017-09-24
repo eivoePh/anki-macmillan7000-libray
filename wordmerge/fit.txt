@@ -39,18 +39,37 @@ B.  intransitive verb 组合在一起 zǔhé zài yīqǐ fit up transitive verb
 ② [fit somebody up] BrE colloquial (incriminate) 诬陷 wūxiàn 
 fit
 1 
-▶adjective
-1 fit for human habitation 
-he is a fit subject for such a book: suitable, good enough; relevant, pertinent, apt, appropriate, suited, apposite, fitting; archaic meet. ANTONYMS unsuitable.
-2 is he fit to look after a child? competent, able, capable; ready, prepared, qualified, trained, equipped. ANTONYMS incapable.
-3 informal you look fit to commit murder! ready, prepared, all set, in a fit state, likely, about; informal psyched up.
-4 he looked tanned and fit: healthy, well, in good health, in (good) shape, in (good) trim, in good condition, fighting fit, as fit as a fiddle; athletic, muscular, well built, strong, robust, hale and hearty, in the pink. ANTONYMS unwell.
-▶verb
-1 have your carpets fitted professionally: lay, position, place, put in place/position, fix.
-2 cameras fitted with a backlight button: equip, provide, supply, fit out, furnish.
-3 concrete slabs were fitted together : join, connect, put together, piece together, attach, unite, link (together), slot together.
-4 a sentence that fits her crimes: match, suit, be appropriate to, correspond to, tally with, go with, accord with, correlate to, be congruous with, be congruent with, be consonant with.
-5 an MA fits you for a professional career: qualify, prepare, make ready, train, groom.
-▶noun the degree of fit between a school's philosophy and practice: correlation, correspondence, agreement, consistency, equivalence, match, similarity, compatibility, concurrence.
+fit
+
+▶adjective (fitter, fittest)
+1 [predicative] (of a thing) of a suitable quality, standard, or type to meet the required purpose: the meat is fit for human consumption 
+[with infinitive] : is the water clean and fit to drink? 
+• (of a person) having the requisite qualities or skills to undertake something competently: he felt himself quite fit for battle 
+[with infinitive] : Ted was ghastly pale and fit to do no more than switch channels. 
+• suitable and correct according to accepted social standards: a fit subject on which to correspond. 
+• [with infinitive] informal (of a person or thing) having reached such an extreme condition as to be on the point of doing the thing specified: he baited even his close companions until they were fit to kill him. 
+• informal ready: well, are you fit?
+2 in good health, especially because of regular physical exercise: I swim regularly to keep fit 
+figurative : the measures would ensure a leaner, fitter company. 
+• British informal sexually attractive; good-looking. 
+▶verb (fits, fitting, fitted or fit) [with object]
+1 be of the right shape and size for: those jeans still fit me 
+[no object] : the shoes fit better after being stretched. 
+• (usually be fitted for) try clothing on (someone) in order to make or alter it to the correct size: she was about to be fitted for her costume. 
+• [no object] be of the right size, shape, or number to occupy a particular position or place: Angela says we can all fit in her car.
+2 fix or put (something) into place: they fitted smoke alarms to their home. 
+• (often be fitted with) provide (something) with a particular component or article: most tools can be fitted with a new handle. 
+• join or cause to join together to form a whole: [no object] : it took a while to figure out how the confounded things fit together 
+[with object] : many physicists tried to fit together the various pieces of the puzzle.
+3 be in agreement or harmony with; match: the punishment should fit the crime. 
+• (of an attribute, qualification, or skill) make (someone) suitable to fulfill a particular role or undertake a particular task: an MS fits the student for a professional career. 
+▶noun the particular way in which something, especially a garment or component, fits around or into something: the dress was a perfect fit. 
+• the particular way in which a thing matches something else: a close fit between teachers' qualifications and their teaching responsibilities. 
+• Statistics the correspondence between observed data and the values expected by theory. 
 PHRASES
-fit in he never fit in with the academic crowd: conform, be in harmony, blend in, be in line, be assimilated into.
+(as) fit as a fiddle see fiddle. fit the bill see bill1. fit like a glove see glove. fit to be tied informal very angry: Daddy was fit to be tied when I separated from Hugh. fit to bust informal with great energy: they laughed fit to bust. see (or think) fit consider it correct or acceptable to do something: why did the company see fit to give you the job?PHRASAL VERBS fit in (of a person) be socially compatible with other members of a group: he feels he should become tough to fit in with his friends. 
+• (of a thing) be in harmony with other things within a larger structure: produce ideas that fit in with an established approach. 
+• (also fit into) (of a person or thing) constitute part of a particular situation or larger structure: where do your sisters fit in? fit someone/something in (or into) find room or have sufficient space for someone or something: can you fit any more books into the box? 
+• succeed in finding time in a busy schedule to see someone or do something: you're never too busy to fit exercise into your life.fit someone/something out (or up) provide with the necessary equipment, supplies, clothes, or other items for a particular situation: the cabin had been fitted out to a high standard.fit someone up British informal incriminate someone by falsifying evidence against them. fit something on British try on (a garment).DERIVATIVES fitly 
+ˈfitlē 
+adverbORIGIN late Middle English: of unknown origin.

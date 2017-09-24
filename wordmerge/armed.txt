@@ -4,9 +4,15 @@ adjective
 ① (carrying arms) 武装的 wǔzhuāng de armed police 武警 to be armed to the teeth 全副武装 
 ② (ready to explode) [炮弹等] 解除保险的 jiěchú bǎoxiǎn de 
 ③ figurative (equipped) 准备充分的 zhǔnbèi chōngfèn de armed with [something]; 准备好某物的 
-arm 
-▶noun
-1 an arm of the sea: inlet, creek, cove, fjord, bay; estuary, strait(s), sound, channel.
-2 the political arm of the group: branch, section, department, division, wing, sector, detachment, offshoot, extension.
-3 the long arm of the law: reach, power, authority, influence.
-▶verb he armed himself with a revolver: equip, provide, supply, furnish, issue, outfit, fit out.
+armed 
+ärmd
+
+▶adjective
+1 equipped with or carrying a weapon or weapons: the security forces are armed with automatic rifles 
+heavily armed troops. 
+• involving the use of firearms: armed robbery. 
+• (of a bomb, alarm, or other device) prepared to activate or explode. 
+• supplied with equipment, tools, or other items in preparation or readiness for something: he is armed with a list of questions.
+2 Heraldry having claws, a beak, etc., of a specified tincture. 
+PHRASES
+armed to the teeth formidably armed.

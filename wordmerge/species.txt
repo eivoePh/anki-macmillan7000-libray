@@ -2,4 +2,12 @@ species
 BrE ˈspiːʃiːz, ˈspiːʃɪz, ˈspiːsiːz, AmE ˈspisiz, ˈspiʃiz 
 noun(plural species) 种 zhǒng the human species 人种 an endangered species 濒危物种 
 species 
-▶noun there are several species of spadefoot toad: type, kind, sort; genus, family, order, breed, strain, variety, class, classification, category, set, bracket; style, manner, form, genre; generation, vintage.
+ˈspēsēz ˈspēSHēz
+
+▶noun (plural same)
+1 (abbreviation sp., spp.) Biology a group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding. The species is the principal natural taxonomic unit, ranking below a genus and denoted by a Latin binomial, e.g., Homo sapiens. 
+• Logic a group subordinate to a genus and containing individuals agreeing in some common attributes and called by a common name. 
+• a kind or sort: a species of invective at once tough and suave. 
+• used humorously to refer to people who share a characteristic or occupation: a political species that is becoming more common, the environmental statesman. 
+• Chemistry & Physics a particular kind of atom, molecule, ion, or particle: a new molecular species.
+2 Christian Church the visible form of each of the elements of consecrated bread and wine in the Eucharist. ORIGIN late Middle English: from Latin, literally ‘appearance, form, beauty,’ from specere ‘to look.’

@@ -1,7 +1,11 @@
 unknown 
-▶adjective
-1 the future is unknown: uncertain, undisclosed, unrevealed, secret; undetermined, undecided, unresolved, unsettled, unsure, unascertained. ANTONYMS decided.
-2 unknown country: unexplored, uncharted, unmapped, untraveled, undiscovered, unfamiliar, unheard of, new, novel, strange. ANTONYMS familiar.
-3 persons unknown: unidentified, anonymous, unnamed, nameless, unsourced; faceless, hidden. ANTONYMS identified, named.
-4 unknown artists: obscure, unrecognized, unheard of, unsung, overlooked, unheralded, minor, insignificant, unimportant. ANTONYMS familiar.
-▶noun the overseas ballots are a big unknown: mystery, unknown quantity, uncertainty, ambiguity, variable, anyone's guess; informal crapshoot.
+ˌənˈnōn
+
+▶adjective not known or familiar: exploration into unknown territory 
+his whereabouts are unknown to his family. 
+• (of a performer or artist) not well known or famous. 
+▶noun an unknown person or thing: she is a relative unknown. 
+• Mathematics an unknown quantity or variable: find the unknown in the following equations. 
+• (the unknown) that which is unknown: our fear of the unknown. 
+PHRASES
+unknown to without the knowledge of: unknown to Miller, the police had taped their telephone conversation.DERIVATIVES unknownness noun

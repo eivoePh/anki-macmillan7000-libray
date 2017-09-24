@@ -5,16 +5,9 @@ noun(plural curricula vitae)
 CV
 abbreviation
 = curriculum vitae
-CV 1 |ˌsēˈvē|
-noun
-a brief account of a person's education, qualifications, and previous occupations, typically sent with a job application: if you feel that you have these skills then please send us your CV.
-ORIGIN
-1970s: abbreviation of curriculum vitae.
-CV 2 |ˌsēˈvē|
-abbreviation
-cardiovascular.
-curriculum vitae |kəˌrik(y)ələm ˈvēˌtī|
-noun (plural curricula vitae |kəˈrik(y)ələ| )
-a brief account of a person's education, qualifications, and previous experience, typically sent with a job application.
-ORIGIN
-early 20th century: Latin, literally ‘course of life.’
+CV
+1 
+ˌsēˈvē
+
+▶noun a brief account of a person's education, qualifications, and previous occupations, typically sent with a job application: if you feel that you have these skills then please send us your C
+V.  ORIGIN 1970s: abbreviation of curriculum vitae .

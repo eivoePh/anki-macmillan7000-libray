@@ -15,7 +15,31 @@ C.  transitive verb
 ① (make waterproof, soundproof) 使…防水 shǐ… fángshuǐ ‹fabric, tent›; 使…隔音 shǐ… géyīn ‹room›
 ② Printing 校对 jiàoduì ‹text, copy›
 proof 
+pro͞of
+
 ▶noun
-1 proof of ownership: evidence, verification, corroboration, authentication, confirmation, certification, documentation, validation, attestation, substantiation.
-2 the proofs of a book: page proof, galley proof, galley.
-▶adjective no system is proof against theft: resistant to, immune from, unaffected by, invulnerable to, impenetrable by, impervious to, repellent to.
+1 evidence or argument establishing or helping to establish a fact or the truth of a statement: you will be asked to give proof of your identity 
+this is not a proof for the existence of God. 
+• Law the spoken or written evidence in a trial. 
+• the action or process of establishing the truth of a statement: it shifts the onus of proof in convictions from the police to the public. 
+• archaic a test or trial. 
+• a series of stages in the resolution of a mathematical or philosophical problem.
+2 a trial print of something, in particular: 
+• Printing a trial impression of a page, taken from type or film and used for making corrections before final printing. 
+• a trial photographic print made for initial selection. 
+• each of a number of impressions from an engraved plate, especially (in commercial printing) of a limited number before the ordinary issue is printed and before an inscription or signature is added. 
+• any of various preliminary impressions of coins struck as specimens.
+3 the strength of distilled alcoholic liquor, relative to proof spirit taken as a standard of 100: [in combination] : powerful 132-proof rum. 
+▶adjective
+1 able to withstand something damaging; resistant: the marine battle armor was proof against most weapons 
+[in combination] : the system comes with idiot-proof instructions.
+2 [attributive] denoting a trial impression of a page or printed work: a proof copy is sent up for checking. 
+▶verb [with object]
+1 make (fabric) waterproof: (as adjective proofed) : the tent is made from proofed nylon.
+2 make a proof of (a printed work, engraving, etc.): (as noun proofing) : proofing could be done on a low-cost printer. 
+• proofread (a text): a book about dinosaurs was being proofed by the publisher.
+3 North American activate (yeast) by the addition of liquid. 
+• knead (dough) until light and smooth. 
+• [no object] (of dough) prove: shape into a baguette and let proof for a few minutes. 
+PHRASES
+the proof of the pudding is in the eating proverb the real value of something can be judged only from practical experience or results and not from appearance or theory.ORIGIN Middle English preve, from Old French proeve, from late Latin proba, from Latin probare ‘to test, prove.’ The change of vowel in late Middle English was due to the influence of prove. Current senses of the verb date from the late 19th century.

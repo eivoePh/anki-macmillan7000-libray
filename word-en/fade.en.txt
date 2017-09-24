@@ -1,7 +1,31 @@
 fade 
-▶verb
-1 the paintwork has faded: become pale, become bleached, become washed out, lose color, discolor; grow dull, grow dim, lose luster. ANTONYMS brighten.
-2 sunlight had faded the picture: bleach, wash out, make pale, blanch, whiten. ANTONYMS brighten, enhance.
-3 remove the flower heads as they fade: wither, wilt, droop, shrivel, die.
-4 the afternoon light began to fade: dim, grow dim, grow faint, fail, dwindle, die away, wane, disappear, vanish, decline, melt away; literary evanesce. ANTONYMS increase.
-5 the linen industry was fading away : decline, die out, diminish, deteriorate, decay, crumble, collapse, fail, fall, sink, slump, go downhill; informal go to pot, go to the dogs; archaic retrograde. ANTONYMS thrive.
+fād
+
+▶verb [no object]
+1 gradually grow faint and disappear: the noise faded away 
+figurative : hopes of peace had faded. 
+• lose or cause to lose color or brightness: [no object] : the fair hair had faded to a dusty gray 
+[with object] (usually as adjective faded) : faded jeans. 
+• (of a flower) lose freshness and wither. 
+• gradually become thin and weak, especially to the point of death. 
+• (of a racehorse, runner, etc.) lose strength or drop back, especially after a promising start: she faded near the finish. 
+• (of a radio signal) gradually lose intensity: the signal faded away. 
+• (of a vehicle brake) become temporarily less efficient as a result of frictional heating.
+2 [with adverbial] (with reference to film and television images) come or cause to come gradually into or out of view, or to merge into another shot: [no object] : fade into scenes of rooms strewn with festive remains 
+[with object] : some shots have to be faded in. 
+• (with reference to recorded sound) increase or decrease in volume or merge into another recording: [no object] : they let you edit the digital data, making it fade in and out 
+[with object] : fade up natural sound.
+3 Golf (of the ball) deviate to the right (or, for a left-handed golfer, the left), typically as a result of spin given to the ball. 
+• [with object] (of a golfer) cause (the ball) to deviate: he had to fade the ball around a light pole. Compare with draw ( sense
+5 of the verb).
+4 [with object] North American informal (in craps) match the bet of (another player): Lovejoy faded him for twenty-five cents. 
+▶noun
+1 the process of becoming less bright: the sun can cause color-fade. 
+• an act of causing a film or television picture to darken and disappear gradually: a fade to black would bring the sequence to a close. Compare with fade-out.
+2 Golf a shot causing the ball to deviate to the right (or, for a left-handed golfer, the left), usually purposely. 
+• American Football a pass thrown so that the ball descends directly over the receiver's shoulder, especially as they veer toward the sideline: shortly after receiving the snap, he threw a fade to Crabtree 
+[as modifier] : he scores on a beautiful fade pass to the back of the end zone. 
+PHRASES
+do a fade informal run away: he would have done a fade if he had seen somebody.PHRASAL VERBS fade back American Football move back from the scrimmage line.DERIVATIVES fadeless 
+ˈfādləs 
+adjectiveORIGIN Middle English (in the sense ‘grow weak, waste away’; compare with fade away): from Old French fader, from fade ‘dull, insipid,’ probably based on a blend of Latin fatuus ‘silly, insipid’ and vapidus ‘vapid.’

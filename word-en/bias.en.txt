@@ -1,5 +1,18 @@
 bias 
+ˈbīəs
+
 ▶noun
-1 he accused the media of bias: prejudice, partiality, partisanship, favoritism, unfairness, one-sidedness; bigotry, intolerance, discrimination, leaning, tendency, inclination, predilection, casteism. ANTONYMS impartiality.
-2 a dress cut on the bias: diagonal, cross, slant, angle.
-▶verb this may have biased the result: prejudice, influence, color, sway, weight, predispose; distort, skew, slant.
+1 prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair: there was evidence of bias against foreign applicants 
+the bias toward younger people in recruitment 
+[in singular] : a systematic bias in favor of the powerful. 
+• [in singular] a concentration on or interest in one particular area or subject: he worked on a variety of Greek topics, with a discernible bias toward philosophy. 
+• Statistics a systematic distortion of a statistical result due to a factor not allowed for in its derivation.
+2 in some sports, such as lawn bowling, the irregular shape given to a ball. 
+• the oblique course taken by a ball as a result of its irregular shape.
+3 Electronics a steady voltage, magnetic field, or other factor applied to an electronic system or device to cause it to operate over a predetermined range. 
+▶verb (biases, biasing, biased) [with object]
+1 (usually be biased) cause to feel or show inclination or prejudice for or against someone or something: readers said the paper was biased toward the conservatives 
+the tests were biased against women and minorities.
+2 give a bias to: bias the ball. 
+PHRASES
+cut on the bias (of a fabric or garment) cut obliquely or diagonally across the grain.ORIGIN mid 16th century (in the sense ‘oblique line’; also as an adjective meaning ‘oblique’): from French biais, from Provençal, perhaps based on Greek epikarsios ‘oblique.’

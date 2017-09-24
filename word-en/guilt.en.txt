@@ -1,4 +1,8 @@
 guilt 
-▶noun
-1 the proof of his guilt: culpability, guiltiness, blameworthiness; wrongdoing, wrong, criminality, misconduct, sin. ANTONYMS innocence.
-2 a terrible feeling of guilt: self-reproach, self-condemnation, shame, a guilty conscience, pangs of conscience; remorse, remorsefulness, regret, contrition, contriteness, compunction; guilt complex. ANTONYMS innocence.
+ɡilt
+
+▶noun the fact of having committed a specified or implied offense or crime: it is the duty of the prosecution to prove the prisoner's guilt. 
+• a feeling of having done wrong or failed in an obligation: he remembered with sudden guilt the letter from his mother that he had not yet read. 
+▶verb [with object] informal make (someone) feel guilty, especially in order to induce them to do something: Celeste had been guilted into going by her parents. 
+PHRASES
+guilt by association guilt ascribed to someone not because of any evidence but because of their association with an offender.ORIGIN Old English gylt, of unknown origin.

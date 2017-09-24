@@ -1,10 +1,11 @@
 silk 
-BrE sɪlk, AmE sɪlk 
-noun 
-① Uncountable(fibre) 丝 sī 
-② Uncountable(fabric) 丝绸 sīchóu a silk shirt/tie/flower 真丝衬衫/真丝领带/绢花 silk production/industry 丝织品生产/丝织业 as smooth as silk 如丝绸般光滑的 
-③ Uncountable(thread) 丝线 sīxiàn 
-④ Countable(clothing) 丝绸服装 sīchóu fúzhuāng 
-⑤ Uncountable(of spider) 蛛丝 zhūsī 
-⑥ Uncountable(of sweetcorn) 须 xū 
-⑦ Uncountable BrE Law colloquial 王室律师 wángshì lǜshī to take silk; 担任王室律师 
+silk
+
+▶noun a fine, strong, soft, lustrous fiber produced by silkworms in making cocoons and collected to make thread and fabric. 
+• [often as modifier] thread or fabric made from the fiber produced by the silkworm: a silk shirt. 
+• (silks) garments made from silk, especially as worn by a jockey in the colors of a particular horse owner. 
+• Riding a cover worn over a riding hat made from a silklike fabric. 
+• British informal a Queen's (or King's) Counsel. [so named because of the right accorded to wear a gown made of this cloth.] 
+• any silklike threads that grow in plants, such as at the end of an ear of corn or in a milkweed pod. DERIVATIVES silklike 
+ˈsilkˌlīk 
+adjectiveORIGIN Old English sioloc, seolec, from late Latin sericum, neuter of Latin sericus, based on Greek Sēres, the name given to the inhabitants of the Far Eastern countries from which silk first came overland to Europe.

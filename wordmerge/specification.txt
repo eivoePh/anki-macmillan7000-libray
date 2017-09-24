@@ -5,6 +5,10 @@ noun
 ② Countable(detailed description) 规格 guīgé a standard specification 标准规格 built to [somebody's] specifications 按照某人的设计建造的 to comply with specifications 遵照规格 a job specification 工作规范 technical specifications 技术规格 
 ③ Countable(requirement) 要求 yāoqiú the only specification is that previous experience is necessary 唯一的要求是必须有过工作经历 
 specification 
-▶noun
-1 the clear specification of objectives: statement, identification, definition, description, setting out, framing, designation, detailing, enumeration; stipulation, prescription.
-2 (specifications) a shelter built to their specifications: instructions, guidelines, parameters, stipulations, requirements, conditions, provisions, restrictions, order; description, details; informal specs.
+ˌspesəfəˈkāSH(ə)n
+
+▶noun an act of describing or identifying something precisely or of stating a precise requirement: give a full specification of the job advertised 
+there was no clear specification of objectives. 
+• (usually specifications) a detailed description of the design and materials used to make something. 
+• a standard of workmanship, materials, etc., required to be met in a piece of work: everything was built to a higher specification. 
+• a description of an invention accompanying an application for a patent. ORIGIN late 16th century: from medieval Latin specificatio(n-), from late Latin specificare (see specify) .

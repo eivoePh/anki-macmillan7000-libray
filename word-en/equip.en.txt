@@ -1,4 +1,6 @@
 equip 
-▶verb
-1 the boat was equipped with a flare gun: provide, furnish, supply, issue, stock, provision, arm, endow, rig.
-2 the course will equip them for the workplace: prepare, qualify, suit, train, ready.
+əˈkwip
+
+▶verb (equips, equipping, equipped) [with object] supply with the necessary items for a particular purpose: all bedrooms are equipped with a color TV 
+they equipped themselves for the campaign. 
+• prepare (someone) mentally for a particular situation or task: I don't think he's equipped for the modern age. DERIVATIVES equipper nounORIGIN early 16th century: from French équiper, probably from Old Norse skipa ‘to man (a ship),’ from skip ‘ship.’

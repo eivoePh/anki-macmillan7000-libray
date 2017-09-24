@@ -5,8 +5,10 @@ noun
 ② Countable(engine) 柴油机 cháiyóujī 
 ③ Countable(car) diesel (car) 柴油车 cháiyóuchē 
 diesel 
-BrE ˈdiːz(ə)l, AmE ˈdizəl, ˈdisəl 
-noun 
-① Uncountable(fuel) 柴油 cháiyóu 
-② Countable(engine) 柴油机 cháiyóujī 
-③ Countable(car) diesel (car) 柴油车 cháiyóuchē 
+ˈdēzəl ˈdēsəl
+
+▶noun (also diesel engine) an internal combustion engine in which heat produced by the compression of air in the cylinder is used to ignite the fuel: [as modifier] : a diesel locomotive. 
+• a heavy petroleum fraction used as fuel in diesel engines: eleven gallons of diesel. DERIVATIVES dieselize 
+-ˌlīz 
+verbORIGIN late 19th century: named after 
+R.  Diesel (see Diesel, Rudolf) .

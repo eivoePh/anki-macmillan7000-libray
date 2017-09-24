@@ -1,5 +1,13 @@
 suppress 
-▶verb
-1 they could suppress the rebellion: subdue, repress, crush, quell, quash, squash, stamp out; defeat, conquer, overpower, put down, crack down on; end, stop, terminate, halt. ANTONYMS incite, encourage.
-2 she suppressed her irritation: conceal, restrain, stifle, smother, bottle up, hold back, control, check, curb, contain, bridle, inhibit, keep a rein on, put a lid on. ANTONYMS express.
-3 the report was suppressed: censor, keep secret, conceal, hide, hush up, gag, withhold, cover up, stifle; ban, proscribe, outlaw; sweep under the carpet. ANTONYMS disclose, publicize.
+səˈpres
+
+▶verb [with object] forcibly put an end to: the uprising was savagely suppressed. 
+• prevent the development, action, or expression of (a feeling, impulse, idea, etc.); restrain: she could not suppress a rising panic. 
+• prevent the dissemination of (information): the report had been suppressed. 
+• prevent or inhibit (a process or reaction): use of the drug suppressed the immune response. 
+• partly or wholly eliminate (electrical interference). 
+• Psychoanalysis consciously inhibit (an unpleasant idea or memory) to avoid considering it. DERIVATIVES suppressible 
+səˈpresəb(ə)l 
+adjective. suppressive 
+səˈpresiv 
+adjectiveORIGIN late Middle English: from Latin suppress- ‘pressed down,’ from the verb supprimere, from sub- ‘down’ + premere ‘to press.’

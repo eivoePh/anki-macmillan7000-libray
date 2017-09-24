@@ -9,7 +9,20 @@ A.  noun
 ⑤ Uncountable(voltage) 电压 diànyā 
 B.  transitive verb 绷紧 bēngjǐn ‹cable, sail, spring›
 tension 
+ˈtenSHən
+
 ▶noun
-1 the tension of the rope: tightness, tautness, rigidity; pull, traction.
-2 the tension was unbearable: strain, stress, anxiety, pressure; worry, apprehensiveness, apprehension, agitation, nerves, nervousness, jumpiness, edginess, restlessness; suspense, uncertainty, anticipation, excitement; informal heebie-jeebies, butterflies (in one's stomach), collywobbles.
-3 months of tension between the military and the government: strained relations, strain; ill feeling, friction, antagonism, antipathy, hostility, enmity.
+1 the state of being stretched tight: the parachute keeps the cable under tension as it drops. 
+• the state of having the muscles stretched tight, especially as causing strain or discomfort: the elimination of neck tension can relieve headaches. 
+• a strained state or condition resulting from forces acting in opposition to each other. 
+• the degree of tightness of stitches in knitting and machine sewing. 
+• electromotive force.
+2 mental or emotional strain: a mind that is affected by stress or tension cannot think as clearly. 
+• a strained political or social state or relationship: the coup followed months of tension between the military and the government 
+racial tensions. 
+• a relationship between ideas or qualities with conflicting demands or implications: the basic tension between freedom and control. 
+▶verb [with object] apply a force to (something) that tends to stretch it. DERIVATIVES tensional 
+-SHənl 
+adjective. tensionally 
+-SHənl-ē 
+adverb. tensioner noun. tensionless adjectiveORIGIN mid 16th century (as a medical term denoting a condition or feeling of being physically stretched or strained): from French, or from Latin tensio(n-), from tendere ‘stretch.’

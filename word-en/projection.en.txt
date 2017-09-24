@@ -1,4 +1,18 @@
 projection 
+prəˈjekSH(ə)n
+
 ▶noun
-1 a sales projection: forecast, prediction, prognosis, outlook, expectation, estimate.
-2 tiny projections on the cliff face: protuberance, protrusion, prominence, eminence, outcrop, outgrowth, jut, jag, snag; overhang, ledge, shelf.
+1 an estimate or forecast of a future situation or trend based on a study of present ones: plans based on projections of slow but positive growth 
+population projection is essential for planning.
+2 the presentation of an image on a surface, especially a movie screen: quality illustrations for overhead projection. 
+• an image projected on a surface: the background projections featured humpback whales. 
+• the ability to make a sound, especially the voice, heard at a distance: I taught him voice projection.
+3 the presentation or promotion of someone or something in a particular way: the legal profession's projection of an image of altruism. 
+• a mental image viewed as reality: monsters can be understood as mental projections of mankind's fears. 
+• the unconscious transfer of one's own desires or emotions to another person: we protect the self by a number of defense mechanisms, including repression and projection.
+4 a thing that extends outward from something else: the particle board covered all the sharp projections.
+5 Geometry the action of projecting a figure.
+6 the representation on a plane surface of any part of the surface of the earth or a celestial sphere. 
+• (also map projection) a method for representing part of the surface of the earth or a celestial sphere on a plane surface. DERIVATIVES projectionist 
+prəˈjekSH(ə)nəst 
+noun projection ( sense 2) ORIGIN mid 16th century ( sense 6): from Latin projectio(n-), from proicere ‘throw forth’ (see project) .

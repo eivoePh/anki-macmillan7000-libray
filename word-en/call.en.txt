@@ -1,27 +1,94 @@
 call 
+kôl
+
 ▶verb
-1 “Wait for me!” she called: cry out, cry, shout, yell, hail, bellow, roar, bawl, vociferate; informal holler.
-2 I'll call you tomorrow: phone, telephone, get someone on the phone, give someone a call, give someone a ring, give someone a buzz.
-3 dinner's ready—call the kids: summon, send for, assemble, muster, invite, order.
-4 the vice president called a meeting: convene, summon, assemble; formal convoke.
-5 they called their son Liam: name, christen, baptize; designate, style, term, dub; formal denominate.
-6 yes, I would call him a friend: describe as, regard as, look on as, consider to be.
+1 [with object and complement] give (an infant or animal) a specified name: they called their daughter Hannah. 
+• (be called) have a specified name: she is called Eva 
+a 1942 mystery called Time To Kill. 
+• address or refer to (someone) by a specified name, title, endearment, or term of abuse: please call me Lucy 
+if he remains quiet she calls him a wimp. 
+• refer to, consider, or describe (someone or something) as being: he's the only person I would call a friend.
+2 [with object] cry out (a word or words): he heard an insistent voice calling his name 
+Meredith was already calling out a greeting. 
+• cry out to (someone) in order to summon them or attract their attention: she heard Terry calling her 
+[no object] : I distinctly heard you call. 
+• [no object] (of an animal, especially a bird) make its characteristic cry: overhead, a skylark called. 
+• shout out or chant (the steps and figures) to people performing a square dance or country dance. 
+• Bridge make (a particular bid) during the auction: her partner called 6♠. 
+• North American informal claim (a privilege) for oneself, typically by shouting out a particular word or set phrase: I call first dibs on the bathroom.
+3 [with object] contact or attempt to contact (a person or number) by phone: could I call you back? 
+at the first sign of heart-attack symptoms call 911 immediately. 
+• summon (something, especially an emergency service or a taxi) by telephone: her husband called an ambulance.
+4 [with object] order or request the attendance of: representatives of all three teams have been called to appear before the stewards 
+I got a letter calling me for an interview. 
+• bring (a witness) into court to give evidence: four expert witnesses were called. 
+• cause (someone) to have a strong urge to choose a particular career or way of life: he was called to the priesthood 
+I think teachers, really good teachers, are called to teach.
+5 [with object] announce or decide that (an event, especially a meeting, strike, or election) is to happen: there appeared to be no alternative but to call a general election 
+she intends to call a meeting of the committee early next week 
+the Allied forces called a ceasefire.
+6 [no object] chiefly British (of a person) pay a brief visit: he called around last night looking for you 
+he had promised Celia he would call in at the clinic.
+7 [with object and complement] (of an umpire or other official in a game) pronounce (a ball, stroke, or other action) to be the thing specified: the linesman called the ball wide. 
+• [with object] predict the result of (a future event, especially an election or a vote): in the Northeast, the race remains too close to call 
+few pundits risked calling the election for either Bush or Kerry. 
+• [with object] guess (the outcome) of tossing a coin: Burnley called heads and won the toss 
+[no object] : “You call,” he said. “Heads or tails?”
+8 [with object] Computing cause (a subroutine) to be executed: one subroutine may call another subroutine (or itself). 
 ▶noun
-1 I heard calls from the auditorium: cry, shout, yell, roar, scream, exclamation, vociferation; informal holler.
-2 the call of the loon: cry, song, sound.
-3 I'll give you a call tomorrow: phone call, telephone call, ring; informal buzz.
-4 he paid a call on Harold: visit, social call.
-5 a call for party unity: appeal, request, plea, entreaty.
-6 the last call for passengers on flight 701: summons, request.
-7 there's no call for expensive wine here: demand, desire, market.
-8 the call of the sea: attraction, appeal, lure, allure, spell, pull, draw.
-9 it's your call: decision, ruling, judgment, verdict.
+1 a cry made as a summons or to attract someone's attention: a nearby fisherman heard their calls for help 
+in response to the call, a figure appeared. 
+• [with modifier] a series of notes sounded on a brass instrument as a signal to do something: a bugle call to rise at 5:30. 
+• a direction in a square dance given by the caller. 
+• Bridge a bid, response, or double: the alternative call of 2♠ would be quite unsound.
+2 the characteristic cry of a bird or other animal: it is best distinguished by its call, a loud “pwit” 
+• a device used to imitate the cry of a particular bird or other animal: turkeys in the wild don't sound like most turkey calls 
+he bought a duck call at the store 
+most hunters I know have at least one call tucked away in a pocket.
+3 an instance of speaking to someone on the phone or attempting to contact someone by phone: I'll give you a call at around five 
+he stopped returning her calls 
+a ten-minute call to the emergency services.
+4 a brief social visit: we paid a call on Howard. 
+• a visit or journey made by a doctor or other professional in response to a request for help, especially in an emergency situation: the ambulance is out on a call 
+the district nurse used to make her calls on a bicycle.
+5 an appeal or demand for something to happen or be done: the call for action was welcomed 
+a call to all sides to remain calm and refrain from violence 
+there are more and more calls on his time. 
+• [usually with negative] (call for) demand or need for (goods or services): there was little call for work as sophisticated as his.
+6 [in singular] an order or request for someone to be present: he was delighted that so many former players had heeded the call to attend the conference. 
+• a vocation: feeling the call to ministry, I started looking for a Bible college. 
+• a powerful force of attraction: hikers can't resist the call of the Sierras.
+7 (in sports) a decision or ruling made by an umpire or other official, traditionally conveyed by a shout, that the ball has gone out of play or that a rule has been breached: he was visibly irritated with the umpire's calls. 
+• a decision, judgement, or prediction: personally, I'm all in favor, but it's your call 
+that entrepreneurial instinct may account for his ability to make tough calls when profits are at stake 
+the two old foes are so evenly matched that it's anyone's call.
+8 Computing a command to execute a subroutine: parameter values may be changed by calls to a special purpose input specification subroutine.
+9 Finance a demand for payment of lent or unpaid capital. 
+• Stock Market short for call option.
+10 [as modifier] US (in a bar, club, etc.) denoting or made with relatively expensive brands of liquor which customers request by name. Compare with well2 ( sense
+4 of the noun): $6 call liquor drinks. 
 PHRASES
-call for desperate times call for desperate measures: require, need, necessitate; justify, warrant. call off we had to call off the trip to Maryland: cancel, abandon, scrap, drop, ax, scrub, nix; end, terminate. call on
-1 I might call on her later: visit, pay a visit to, go and see, drop in on, pop in on, visit with.
-2 he called on the government to hold a plebiscite: appeal to, ask, request, petition, urge, exhort.
-3 we are able to call on qualified staff: have recourse to, avail oneself of, draw on, make use of. call the shots if she's gonna call the shots from now on, I'm not gonna stick around: be in charge, be in control, be the boss, be at the helm/wheel, be in the driver's seat, pull the strings, run the show, rule the roost. call to mind this calls to mind the last constitutional debate: evoke, bring to mind, call up, conjure up. call up
-1 Roland called me up to ask me out. See call (sense
-2 of the verb).
-2 they called up the reservists: enlist, recruit, conscript; draft.
-3 he was called up from the minors: select, pick, choose. on call Dr. Merton is on call this evening: on duty, on standby, available.
+call attention to cause people to notice: he is seeking to call attention to himself by his crimes. call someone's bluff see bluff1. call collect North American make a telephone call reversing the charges. call something into play cause or require something to start working so that one can make use of it: our active participation as spectators is called into play. call something into (or in) question cast doubt on something: these findings call into question the legitimacy of the proceedings. call it a day see day. call someone names see name. call of nature see nature. call the shots (or tune) take the initiative in deciding how something should be done: we believe in parents and teachers calling the shots.call a spade a spade see spade1. call someone to account see account. call someone/something to mind cause one to think of someone or something, especially through similarity: the still lifes call to mind certain of Cézanne's works. 
+• [with negative] remember someone or something: [with clause] : I cannot call to mind where I have seen you. call someone/something to order ask those present at a meeting to be silent so that business may proceed. don't call us, we'll call you informal used as a dismissive way of saying that someone has not been successful in an audition or a job application. good call (or bad call) informal used to express approval (or criticism) of a person's decision or suggestion. [with reference to decisions made by referees or umpires.]on call
+1 (of a person) able to be contacted in order to provide a professional service if necessary, but not formally on duty: our technicians are on call around the clock.
+2 (of money lent) repayable on demand. to call one's own used to describe something that one can genuinely feel belongs to one: I had not an item to call my own. within call near enough to be summoned by calling: she moved into the guest room, within call of her father's room.PHRASAL VERBS call for
+1 make necessary: desperate times call for desperate measures.
+2 publicly ask for or demand: the report calls for an audit of endangered species.
+3 North American predict or describe (the likely weather conditions) for a period of time in the future: the forecast is calling for more rain 
+they're calling for temperatures in the 80s for the rest of the week.
+4 chiefly British stop to pick up (someone) at the place where they are living or working: I'll call for you around seven. call something forth elicit a response: few things call forth more compassion. call someone/something down
+1 cause or provoke someone or something to appear or occur: nothing called down the wrath of Nemesis quicker.
+2 dated reprimand someone: he called down Clarence Drum about being so high and mighty. call someone in enlist someone's aid or services: you can either do the work yourself or call in a local builder to help you. call something in require payment of a loan or promise of money: the bank would call in loans and foreign donations. call someone/something off order a person or dog to stop attacking someone: Gunda pleaded with him to call the dog off. call something off cancel an event or agreement: they held a ballot on whether to call off industrial action. call on
+1 pay a visit to (someone): he's planning to call on Katherine today.
+2 (also call upon) have recourse to: we are able to call on academic staff with a wide variety of expertise. 
+• [with infinitive] demand that (someone) do something: he called on the government to hold a plebiscite. call someone out
+1 summon someone, especially to deal with an emergency or to do repairs: patients are to be told to stop calling doctors out unnecessarily at night.
+2 (also call someone out on something, call someone on something) North American draw critical attention to someone’s unacceptable actions or behavior: people were calling him out for his negative comments 
+Dan had called her out on a couple of contradictions in her story 
+she called him on his claim that the media were doing a bad job of covering the economy.
+3 order or advise workers to strike.
+4 archaic challenge someone to a duel. call something over dated read out a list of names to determine those present: a gentleman proceeded to call over the names of the jury. call someone up
+1 informal, chiefly North American phone someone: I have a list of people to call up in the morning.
+2 summon someone to serve in the army: they have called up more than 20,000 reservists. 
+• select someone to play on a team, especially at a higher level of competition: he was called up from Columbus to finish the season with the Yankees. call something up summon for use something that is stored or kept available: icons that allow you to call up a graphic. 
+• evoke something: the special effects that called up the Mars landscape were impressive.ORIGIN late Old English ceallian, from Old Norse kalla ‘summon loudly.’

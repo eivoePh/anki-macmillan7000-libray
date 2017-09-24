@@ -4,7 +4,10 @@ transitive verb
 ① (go before) 先于 xiān yú her death was preceded by a long illness 她死前病了很长一段时间 to precede [somebody] as president; 在某人之前担任总裁 the great man was preceded by his little dog 那位伟人的小狗走在他前面 to precede a speech with a few words of thanks 在演讲之前先说几句感谢的话 
 ② (in rank) «king» 地位高于 dìwèi gāo yú ‹aristocrat›
 precede 
-▶verb
-1 commercials preceded the movie: go/come before, lead (up) to, pave/prepare the way for, herald, introduce, usher in. ANTONYMS follow.
-2 Catherine preceded him into the studio: go ahead of, go in front of, go before, go first, lead the way.
-3 he preceded the book with a poem: preface, introduce, begin, open.
+prəˈsēd
+
+▶verb [with object] come before (something) in time: a gun battle had preceded the explosions. 
+• come before in order or position: take time to read the chapters that precede the recipes 
+(as adjective preceding) : the preceding pages. 
+• go in front or ahead of: he let her precede him through the gate. 
+• (precede something with) preface or introduce something with: he preceded the book with a collection of poems. ORIGIN late Middle English: from Old French preceder, from Latin praecedere, from prae ‘before’ + cedere ‘go.’

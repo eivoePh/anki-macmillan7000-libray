@@ -1,5 +1,8 @@
 expire 
+ˌikˈspī(ə)r
+
 ▶verb
-1 my contract has expired: run out, become invalid, become void, lapse; end, finish, stop, come to an end, terminate.
-2 the spot where he expired: die, pass away/on, breathe one's last; informal kick the bucket, bite the dust, croak, buy it, buy the farm; dated depart this life.
-3 technical the breath is then expired: breathe out, exhale, blow out, expel.
+1 [no object] (of a document, authorization, or agreement) cease to be valid, typically after a fixed period of time: the old contract had expired. 
+• (of a period of time) come to an end: the three-year period has expired. 
+• (of a person) die.
+2 [with object] technical exhale (air) from the lung. ORIGIN late Middle English: from Old French expirer, from Latin exspirare ‘breathe out,’ from ex- ‘out’ + spirare ‘breathe.’

@@ -9,7 +9,10 @@ B.  transitive verb
 ① (to take lease on) 租用 zūyòng 
 ② (let) 出租 chūzū to lease (out) an apartment 出租公寓房 
 lease 
-▶noun a 15-year lease: rental agreement, leasehold, charter; rental, tenancy, tenure, period of occupancy.
-▶verb
-1 the film crew leased a large hangar: rent, charter.
-2 they leased the mill to a reputable family: rent, rent out, let, let out; sublet, sublease.
+lēs
+
+▶noun a contract by which one party conveys land, property, services, etc., to another for a specified time, usually in return for a periodic payment. 
+▶verb [with object] grant (property) on lease; let: she leased the site to a local company. 
+• take (property) on lease; rent: land was leased from the city. 
+PHRASES
+a new lease on life a substantially improved chance to lead a happy or successful life.DERIVATIVES leasable adjectiveORIGIN late Middle English: from Old French lais, leis, from lesser, laissier ‘let, leave,’ from Latin laxare ‘make loose,’ from laxus ‘loose, lax.’

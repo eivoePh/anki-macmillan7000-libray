@@ -1,6 +1,12 @@
 suggest 
-▶verb
-1 Ruth suggested a vacation: propose, put forward, recommend, advocate; advise, urge, encourage, counsel.
-2 evidence suggests that teenagers are responsive to price increases: indicate, lead to the belief, argue, demonstrate, show; formal evince.
-3 sources suggest that the prime minister will change his cabinet: hint, insinuate, imply, intimate, indicate; informal put ideas into one's head.
-4 the seduction scenes suggest his guilt and her loneliness: convey, express, communicate, impart, imply, intimate, smack of, evoke, conjure up; formal evince.
+sə(ɡ)ˈjest
+
+▶verb [reporting verb] put forward for consideration: [with clause] : I suggest that we wait a day or two 
+[with direct speech] : “Maybe you ought to get an expert,” she suggested 
+[with object] : Ruth suggested a vacation. 
+• [with object] cause one to think that (something) exists or is the case: finds of lead coffins suggested a cemetery north of the river 
+[with clause] : the temperature wasn't as tropical as the bright sunlight may have suggested. 
+• state or express indirectly: [with clause] : are you suggesting that I should ignore her? 
+[with object] : the seduction scenes suggest his guilt and her loneliness. 
+• [with object] evoke: the theatrical interpretation of weather and water almost suggests El Greco. 
+• (suggest itself) (of an idea) come into one's mind. DERIVATIVES suggester nounORIGIN early 16th century: from Latin suggest- ‘suggested, prompted,’ from the verb suggerere, from sub- ‘from below’ + gerere ‘bring.’

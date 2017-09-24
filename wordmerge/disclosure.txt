@@ -4,6 +4,7 @@ noun
 ① Uncountable(act) 揭露 jiēlù disclosure of [something]; 某事的披露 
 ② Countable(revelation) 揭露的事实 jiēlù de shìshí 
 disclosure 
-▶noun
-1 she was embarrassed by this unexpected disclosure: revelation, declaration, announcement, news, report; leak.
-2 the disclosure of official information: publishing, broadcasting; revelation, communication, release, uncovering, unveiling, exposure, exposé; leakage.
+disˈklōZHər
+
+▶noun the action of making new or secret information known: a judge ordered the disclosure of the government documents. 
+• a fact, especially a secret, that is made known: the government's disclosures about missile programs. ORIGIN late 16th century: from disclose, on the pattern of closure.

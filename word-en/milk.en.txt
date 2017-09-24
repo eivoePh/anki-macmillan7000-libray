@@ -1,7 +1,16 @@
 milk 
-▶verb
-1 Pam was milking the cows: draw milk from, express milk from.
-2 milk a little of the liquid: draw off, siphon (off), pump off, tap, drain, extract.
-3 milking rich clients: exploit, take advantage of, cash in on, suck dry; informal bleed, squeeze, fleece.
-WORD LINKS
-milk lactic relating to or obtained from milkWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+milk
+
+▶noun an opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young: a healthy mother will produce enough milk for her baby. 
+• the milk from cows (or goats or sheep) as consumed by humans: a glass of milk. 
+• the white juice of certain plants: coconut milk. 
+• a creamy-textured liquid with a particular ingredient or use: cleansing milk. 
+▶verb [with object]
+1 draw milk from (a cow or other animal), either by hand or mechanically. 
+• [no object] (of an animal, especially a cow) produce or yield milk: the breed does seem to milk better in harder conditions. 
+• extract sap, venom, or other substances from.
+2 exploit or defraud (someone), typically by taking regular small amounts of money over a period of time: [with complement] : he had milked his grandmother dry of all her money. 
+• get all possible advantage from (a situation): the newspapers were milking the story for every possible drop of drama. 
+• elicit a favorable reaction from (an audience) and prolong it for as long as possible: he milked the crowd for every last drop of applause. 
+PHRASES
+in milk (of an animal, especially a cow) producing milk. it's no use crying over spilt (or spilled) milk proverb there is no point in regretting something that has already happened and cannot be changed or reversed. milk and honey prosperity and abundance. [with biblical allusion to the prosperity of the Promised Land (Exod. 3:8).] milk of human kindness care and compassion for others. [with allusion to Shakespeare's Macbeth.]ORIGIN Old English milc, milcian, of Germanic origin; related to Dutch melk and German Milch, from an Indo-European root shared by Latin mulgere and Greek amelgein ‘to milk.’

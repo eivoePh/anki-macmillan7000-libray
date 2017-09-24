@@ -9,12 +9,16 @@ B.  noun
 ① (detail) 细节 xìjié (to be accurate/exact/correct) in every particular 在每个细节上（都准确/精确/正确） I don't think we need to go into particulars at this stage 我认为这个阶段我们没有必要谈论细节 
 ② particulars plural (personal information) 详细资料 xiángxì zīliào get her particulars down in your notebook 在你的笔记本上记下她的详细信息 
 particular 
+pə(r)ˈtikyələr
+
 ▶adjective
-1 a particular group of companies: specific, certain, distinct, separate, discrete, definite, precise; single, individual. ANTONYMS general.
-2 an issue of particular importance: (extra) special, especial, exceptional, unusual, singular, uncommon, notable, noteworthy, remarkable, unique; formal peculiar. ANTONYMS ordinary.
-3 he was particular about what he ate: fussy, fastidious, finicky, meticulous, punctilious, discriminating, selective, painstaking, exacting, demanding; informal persnickety, choosy, picky. ANTONYMS careless.
-▶noun the same in every particular: detail, item, point, specific, element, aspect, respect, regard, particularity, fact, feature.
+1 [attributive] used to single out an individual member of a specified group or class: the action seems to discriminate against a particular group of companies. 
+• Logic denoting a proposition in which something is asserted of some but not all of a class. Contrasted with universal.
+2 [attributive] especially great or intense: when handling or checking cash the cashier should exercise particular care.
+3 insisting that something should be correct or suitable in every detail; fastidious: she is very particular about cleanliness. 
+▶noun
+1 Philosophy an individual item, as contrasted with a universal quality.
+2 a detail: he is wrong in every particular. 
+• (particulars) detailed information about someone or something: a clerk took the woman's particulars. 
 PHRASES
-in particular
-1 nothing in particular: specific, special.
-2 the poor, in particular, were hit by rising prices: particularly, specifically, especially, specially.
+in particular especially (used to show that a statement applies to one person or thing more than any other): he socialized with the other young people, one boy in particular.ORIGIN late Middle English: from Old French particuler, from Latin particularis ‘concerning a small part,’ from particula ‘small part.’

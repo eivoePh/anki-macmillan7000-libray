@@ -4,7 +4,9 @@ noun
 ① BrE (pharmacist) 药剂师 yàojìshī (seller) 药商 yàoshāng chemist's (shop) 药店 
 ② (scientist) 化学家 huàxuéjiā 
 chemist 
-BrE ˈkɛmɪst, AmE ˈkɛməst 
-noun 
-① BrE (pharmacist) 药剂师 yàojìshī (seller) 药商 yàoshāng chemist's (shop) 药店 
-② (scientist) 化学家 huàxuéjiā 
+ˈkeməst 
+(abbreviation chem.) 
+▶noun
+1 an expert in chemistry; a person engaged in chemical research or experiments.
+2 British a drugstore. 
+• a pharmacist. ORIGIN late Middle English (denoting an alchemist): from French chimiste, from modern Latin chimista, from alchimista ‘alchemist,’ from alchimia (see alchemy) .

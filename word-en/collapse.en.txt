@@ -1,11 +1,21 @@
 collapse 
-▶verb
-1 the roof collapsed: cave in, fall in, subside, fall down, give (way), crumple, buckle, sag, slump.
-2 he collapsed last night: faint, pass out, black out, lose consciousness, keel over, swoon; informal conk out.
-3 he collapsed in tears: break down, go to pieces, lose control, be overcome, crumble; informal crack up.
-4 peace talks collapsed: break down, fail, fall through, fold, founder, miscarry, come to grief, be unsuccessful; end; informal flop, fizzle out.
-▶noun
-1 the collapse of the roof: cave-in, subsidence.
-2 her collapse on stage: fainting fit, faint, blackout, loss of consciousness, swoon; Medicine syncope.
-3 the collapse of the talks: breakdown, failure, disintegration; end.
-4 he suffered a collapse: breakdown, nervous breakdown, personal crisis, psychological trauma; informal crack-up.
+kəˈlaps
+
+▶verb [no object]
+1 (of a structure) fall down or in; give way: the roof collapsed on top of me. 
+• [with object] cause (something) to fall in or give way: it feels as if the slightest pressure would collapse it 
+figurative : many people tend to collapse the distinction between the two concepts. 
+• (of a lung or blood vessel) fall inward and become flat and empty: (as adjective collapsed) : a collapsed lung. 
+• [with object] cause (a lung or blood vessel) to do this.
+2 (of a person) fall down and become unconscious, typically through illness or injury: he collapsed from loss of blood. 
+• sit or lie down as a result of tiredness or amusement: exhausted, he collapsed on the bed 
+the three of them collapsed with laughter.
+3 (of an institution or undertaking) fail suddenly and completely: in the face of such resolve his opposition finally collapsed. 
+• (of a price or currency) drop suddenly in value.
+4 fold or be folded to fit into a small space: [no object] : some cots collapse down to fit into a bag. 
+• [with object] compress a displayed part of (a spreadsheet or other electronic document): tabulation programs can be used to collapse this list in various ways. 
+▶noun an instance of a structure falling down or in: the collapse of a railroad bridge 
+the church roof is in danger of collapse. 
+• a sudden failure of an institution or undertaking: the collapse of the Ottoman Empire. 
+• a physical or mental breakdown: he suffered a collapse from overwork 
+she's lying there in a state of collapse. ORIGIN early 17th century (as collapsed): from medical Latin collapsus, past participle of collabi, from col- ‘together’ + labi ‘to slip.’

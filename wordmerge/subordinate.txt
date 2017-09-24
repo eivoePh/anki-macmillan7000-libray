@@ -8,7 +8,18 @@ noun 下属 xiàshǔ
 C.  /BrE səˈbɔːdɪneɪt, AmE səˈbɔrdəneɪt
 transitive verb 使…服从 shǐ… fúcóng ‹person, need›to subordinate [somebody]/[something] to [somebody]/[something]; 使…服从于… environmental considerations were subordinated to commercial interests 环境因素让位给了商业利益 a subordinating conjunction 从属连词 
 subordinate 
-▶adjective
-1 subordinate staff: lower-ranking, junior, lower, supporting. ANTONYMS senior.
-2 a subordinate rule: secondary, lesser, minor, subsidiary, subservient, ancillary, auxiliary, peripheral, marginal; supplementary, accessory. ANTONYMS central.
-▶noun the manager and his subordinates: junior, assistant, second (in command), number two, right-hand man/woman, deputy, aide, underling, minion; informal sidekick, second banana. ANTONYMS superior.
+▶adjective 
+səˈbôrd(ə)nət 
+lower in rank or position: his subordinate officers. 
+• of less or secondary importance: in adventure stories, character must be subordinate to action. 
+▶noun 
+səˈbôrd(ə)nət 
+a person under the authority or control of another within an organization. 
+▶verb 
+səˈbôrdənāt 
+[with object] treat or regard as of lesser importance than something else: practical considerations were subordinated to political expediency. 
+• make subservient to or dependent on something else. DERIVATIVES subordinately 
+səˈbôrd(ə)nətlē 
+adverb. subordinative 
+-ətiv 
+adjectiveORIGIN late Middle English: from medieval Latin subordinatus ‘placed in an inferior rank,’ from Latin sub- ‘below’ + ordinare ‘ordain.’

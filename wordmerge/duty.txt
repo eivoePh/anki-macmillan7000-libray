@@ -5,9 +5,23 @@ noun(plural duties)
 ② Uncountable(work) 值班 zhíbān the duty doctor 值班医生 to be on/off (day/night) duty 上/下（白/夜）班 to go/come on/off duty 上班/下班 to report for duty 上班签到 to do duty for [something] 充当某物 
 ③ Uncountable and countable(tax) 税 shuì customs/import duties 关税/进口税 to impose a duty on [something] 对某物征税 to pay duty on [something] 为某物纳税 to exempt [something] from duty 对某物免税 
 duty 
-▶noun
-1 she was free of any duty: responsibility, obligation, commitment; allegiance, loyalty, faithfulness, fidelity, homage.
-2 it was his duty to attend the king: job, task, assignment, mission, function, charge, place, role, responsibility, obligation; dated office.
-3 the duty was raised on alcohol: tax, levy, tariff, excise, toll, fee, payment, rate, countervail; dues.
+ˈd(y)o͞odē
+
+▶noun (plural duties)
+1 a moral or legal obligation; a responsibility: it's my duty to uphold the law 
+she was determined to do her duty as a citizen 
+a strong sense of duty. 
+• [as modifier] (of a visit or other undertaking) done from a sense of moral obligation rather than for pleasure: a fifteen-minute duty visit.
+2 (often duties) a task or action that someone is required to perform: the queen's official duties 
+your duties will include sweeping the switchboard 
+Juliet reported for duty. 
+• [as modifier] (of a person) engaged in their regular work: a duty nurse. 
+• military service: combat duty in the army. 
+• (also duties) performance of prescribed church services by a priest or minister: he was willing to take Sunday duties.
+3 a payment due and enforced by law or custom, in particular: 
+• a payment levied on the import, export, manufacture, or sale of goods: a
+6 percent duty on imports 
+goods subject to excise duty.
+4 technical the measure of an engine's effectiveness in units of work done per unit of fuel. 
 PHRASES
-off duty I'll be off duty at midnight: not working, at leisure, on leave, off (work), free. on duty there is always a supervisor on duty: working, at work, busy, occupied, engaged; informal on the job.
+do duty as (or for) serve or act as a substitute for something else: her mug was doing duty as a wine glass.on (or off) duty engaged (or not engaged) in one's regular work: the doorman had gone off duty and the lobby was unattended.ORIGIN late Middle English: from Anglo-Norman French duete, from Old French deu (see due) .

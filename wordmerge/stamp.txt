@@ -29,14 +29,33 @@ A.  transitive verb[stamp something out, stamp out something]
 ③ Technology 冲压 chòngyā to be stamped out from a strip of steel 用钢条冲压而成 
 B.  intransitive verb 重步走出 zhòngbù zǒuchū to stamp out in a huff 气冲冲地走出去 
 stamp 
-▶verb
-1 he stamped on my toe: trample (on), step on, tread on, tramp on, stomp on; crush, squash, flatten.
-2 John stamped off, muttering: stomp, stump, clomp, clump.
-3 the name is stamped on the cover: imprint, print, impress, punch, inscribe, emboss, brand, frank.
-4 his face was stamped on Martha's memory: fix, inscribe, etch, carve, imprint, impress.
-5 his style stamps him as a player to watch: identify, characterize, brand, distinguish, classify, mark out, set apart, single out.
+stamp
+
+▶verb [with object]
+1 bring down (one's foot) heavily on the ground or on something on the ground: he stamped his foot in frustration 
+[no object] : he threw his cigarette down and stamped on it 
+figurative : Robertson stamped on all these suggestions. 
+• crush, flatten, or remove with a heavy blow from one's feet: she stamped the snow from her boots. 
+• [no object] walk with heavy, forceful steps: John stamped off, muttering.
+2 impress a pattern or mark, especially an official one, on (a surface, object, or document) using an engraved or inked block or die or other instrument: the woman stamped my passport. 
+• impress (a pattern or mark) on something by engraving or inking: a key with a number stamped on the shaft 
+figurative : it's one of those records that has ‘classic’ stamped all over it. 
+• make (something) by cutting it out with a die or mold: the knives are stamped out from a flat strip of steel. 
+• reveal or mark out as having a particular character, quality, or ability: his style stamps him as a player to watch.
+3 affix a postage stamp or stamps onto (a letter or package): Annie stamped the envelope for her.
+4 crush or pulverize (ore). 
 ▶noun
-1 the stamp of authority: mark, hallmark, indication, sign, seal, sure sign, telltale sign, quality, smack, smell, savor, air.
-2 he was of a very different stamp: type, kind, sort, variety, class, category, classification, style, description, condition, caliber, status, quality, nature, ilk, kidney, cast, grain, mold, stripe.
+1 an instrument for stamping a pattern or mark, in particular an engraved or inked block or die. 
+• a mark or pattern made by a stamping instrument, especially one indicating official validation or certification: passports with visa stamps 
+figurative : the emperor gave them his stamp of approval. 
+• a characteristic or distinctive impression or quality: the whole project has the stamp of authority. 
+• a particular class or type or person or thing: empiricism of this stamp has been especially influential in British philosophy.
+2 a small adhesive piece of paper stuck to something to show that an amount of money has been paid, in particular a postage stamp: a first-class stamp.
+3 an act or sound of stamping with the foot: the stamp of boots on the bare floor.
+4 a block for crushing ore in a stamp mill. 
 PHRASES
-stamp out the mayor's promise to stamp out crime on these streets is, at best, a naive fantasy: put an end/stop to, end, stop, crush, put down, crack down on, curb, nip in the bud, scotch, squash, quash, quell, subdue, suppress, extinguish, stifle, abolish, get rid of, eliminate, eradicate, beat, overcome, defeat, destroy, wipe out; informal put the kibosh on, clean house.
+stamp one's authority (or personality or style etc.) on have a strong or permanent influence on: he must be able to stamp his authority on the team.PHRASAL VERBS stamp something out
+1 extinguish a fire by stamping on it: he stamped out the flames before they could grow.
+2 suppress or put an end to something by taking decisive action: urgent action is required to stamp out corruption.DERIVATIVES stamper 
+ˈstampər 
+nounORIGIN Middle English (in the sense ‘crush to a powder’): of Germanic origin; related to German stampfen ‘stamp with the foot’; reinforced by Old French estamper ‘to stamp.’ Compare with stomp .

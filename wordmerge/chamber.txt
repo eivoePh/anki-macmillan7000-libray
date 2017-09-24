@@ -12,7 +12,17 @@ B.  chambers noun plural
 ① Law 法官室 fǎguānshì 
 ② (set of rooms) 事务所 shìwùsuǒ 
 chamber 
+ˈCHāmbər
+
 ▶noun
-1 a debating chamber: room, hall, assembly room, auditorium.
-2 archaic we slept safely in our chamber: bedroom, room; literary bower; historical boudoir; archaic bedchamber.
-3 the left chamber of the heart: compartment, cavity; Anatomy auricle, ventricle.
+1 a large room used for formal or public events. 
+• any of the houses of a legislature: the Senate chamber.
+2 literary or archaic a private room, typically a bedroom: he had his meals brought to his chamber. 
+• (chambers) Law a judge's room used for official proceedings not required to be held in open court. 
+• (chambers) British Law rooms used by a lawyer or lawyers.
+3 an enclosed space or cavity: an echo chamber. 
+• a large underground cavern. 
+• the part of a gun bore that contains the charge or bullet. 
+• Biology a cavity in a plant, animal body, or organ: the four chambers of the heart.
+4 [as modifier] Music of or for a small group of instruments: a chamber concert. 
+▶verb [with object] place (a bullet) into the chamber of a gun. ORIGIN Middle English (in the sense ‘private room’): from Old French chambre, from Latin camera ‘vault, arched chamber,’ from Greek kamara ‘object with an arched cover.’

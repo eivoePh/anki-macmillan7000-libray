@@ -1,4 +1,11 @@
 X-ray 
-▶noun the X-ray shows a clean break: radiograph, radiogram, X-ray image/picture/photograph, roentgenogram.
-WORD LINKS
-X-ray radiography the medical process of taking X-rays radiology the science of X-rays and similar radiationWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+ˈeksˌrā 
+(also x-ray or X ray) 
+▶noun
+1 an electromagnetic wave of high energy and very short wavelength, which is able to pass through many materials opaque to light. [X-rays were formerly defined in terms of their wavelength, radiation of shorter wavelength than theirs being classed as gamma rays. They are now usually defined in terms of the mode of production: X-rays are produced by the deceleration of charged particles, especially electrons, or by electron transitions in atoms, while gamma rays arise from the radioactive decay of atomic nuclei.] 
+• [as modifier] informal denoting an apparent or supposed faculty for seeing beyond an outward form: you didn't need X-ray eyes to know what was going on.
+2 a photographic or digital image of the internal composition of something, especially a part of the body, produced by X-rays being passed through it and being absorbed to different degrees by different materials. 
+• an act of photographing someone with an X-ray: he will have an X-ray today 
+would you send her for X-ray?
+3 a code word representing the letter X, used in radio communication. 
+▶verb [with object] photograph or examine with X-rays: luggage bound for the hold is X-rayed. ORIGIN translation of German X-Strahlen (plural), from X- (because, when discovered in 1895, the nature of the rays was unknown) + Strahl ‘ray.’

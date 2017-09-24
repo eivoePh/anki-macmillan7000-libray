@@ -1,12 +1,31 @@
 spin 
-▶verb
-1 the bike wheels are spinning: revolve, rotate, turn, go round, whirl, gyrate, circle.
-2 she spun around to face him: whirl, wheel, twirl, turn, swing, twist, swivel, pirouette, pivot.
-3 her head was spinning: reel, whirl, go around, swim.
-4 she spun an amusing yarn: tell, recount, relate, narrate; weave, concoct, invent, fabricate, make up.
+spin
+
+▶verb (spins, spinning, spun 
+spən
+)
+1 turn or cause to turn or whirl around quickly: [no object] : the girl spun around in alarm 
+the rear wheels spun violently 
+[with object] : he fiddled with the radio, spinning the dial. 
+• [no object] (of a person's head) give a sensation of dizziness: the figures were enough to make her head spin. 
+• [with object] chiefly Cricket impart a revolving motion to (a ball) when bowling. 
+• [no object] (of a ball) move through the air with a revolving motion. 
+• [with object] give (a news story or other information) a particular interpretation, especially a favorable one. 
+• [with object] shape (sheet metal) by pressure applied during rotation on a lathe: (as adjective spun) : spun metal components.
+2 [with object] draw out (wool, cotton, or other material) and convert it into threads, either by hand or with machinery: they spin wool into the yarn for weaving 
+(as adjective spun) : spun glass. 
+• make (threads) by drawing out and twisting fibers: this method is used to spin filaments from syrups. 
+• (of a spider or a silkworm or other insect) produce (gossamer or silk) or construct (a web or cocoon) by extruding a fine viscous thread from a special gland.
+3 [no object] fish with a spinner: they were spinning for salmon in the lake. 
 ▶noun
-1 a spin of the wheel: rotation, revolution, turn, whirl, twirl, gyration.
-2 a positive spin on the campaign: slant, angle, twist, bias.
-3 a quick spin to the grocery store: trip, jaunt, outing, excursion, journey; drive, ride, run, turn, airing, joyride.
+1 a rapid turning or whirling motion: he concluded the dance with a double spin. 
+• revolving motion imparted to a ball in a game such as baseball, cricket, tennis, or billiards: this racket enables the player to impart more spin to the ball. 
+• [in singular] a particular bias, interpretation, or point of view, intended to create a favorable (or sometimes, unfavorable) impression when presented to the public: he tried to put a positive spin on the president's campaign. 
+• [usually in singular] an uncontrolled fast revolving descent of an aircraft, resulting from a stall: he tried to stop the plane from going into a spin. 
+• [usually as modifier] trademark short for spinning2: an hour-long spin class 
+spin can be tough but it's the best cardio/muscle workout. 
+• Physics the intrinsic angular momentum of a subatomic particle.
+2 [in singular] informal a brief trip in a vehicle for pleasure: a spin around town. 
 PHRASES
-spin out the longer you can spin out the negotiations the better: prolong, protract, draw out, drag out, string out, extend, carry on, continue; fill out, pad out.
+spin one's wheels North American informal waste one's time or efforts. spin a yarn tell a long, far-fetched story.PHRASAL VERBS spin something off (of a parent company) turn a subsidiary into a new and separate company. spin out North American (of a driver or car) lose control, especially in a skid. spin something out make something last as long as possible: they seem keen to spin out the debate through their speeches and interventions. 
+• spend or occupy time aimlessly or without profit: Shane and Mary played games to spin out the afternoon.ORIGIN Old English spinnan ‘draw out and twist (fiber)’; related to German spinnen. The noun dates from the mid 19th century.

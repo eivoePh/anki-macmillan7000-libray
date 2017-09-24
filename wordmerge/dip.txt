@@ -22,15 +22,38 @@ C.  noun
 ⑤ Culinary 蘸酱 zhàn jiàng 
 ⑥ Physics 倾角 qīngjiǎo 
 dip 
-▶verb
-1 he dipped a rag in the water: immerse, submerge, plunge, duck, dunk, lower, sink.
-2 the sun dipped below the horizon: sink, set, drop, go/drop down, fall, descend; disappear, vanish. ANTONYMS rise.
-3 the president's popularity has dipped: decrease, fall, drop, fall off, decline, diminish, dwindle, slump, plummet, plunge. ANTONYMS rise, increase.
-4 the road dipped: slope down, descend, go down; drop away, fall, sink. ANTONYMS rise.
-5 you might have to dip into your savings: draw on, use, make use of, have recourse to, spend.
+dip
+
+▶verb (dips, dipping, dipped)
+1 [with object] (dip something in/into) put or let something down quickly or briefly in or into (liquid): he dipped a brush in the paint. 
+• [no object] (dip into) put a hand or tool into (a bag or container) in order to take something out: Ian dipped into his briefcase and pulled out a photograph. 
+• [no object] (dip into) spend from or make use of (one's financial resources): you won't have to dip into your savings. 
+• [no object] (dip into) read only parts of (a publication) or explore (a subject) in a desultory manner. 
+• take (tobacco) orally. 
+• immerse (sheep) in a chemical solution that kills parasites. 
+• make (a candle) by immersing a wick repeatedly in hot wax: (as adjective dipped) : dipped candles are made using simple equipment. 
+• informal, dated baptize (someone) by immersion in water.
+2 [no object] sink, drop, or slope downward: swallows dipped and soared 
+the sun had dipped below the horizon. 
+• (of a level or amount) become lower or smaller, typically temporarily: the president's popularity has dipped 
+audiences dipped below 600,000 for the series. 
+• [with object] lower or move (something) downward: the plane dipped its wings. 
 ▶noun
-1 a relaxing dip in the pool: swim, bathe; splash, paddle.
-2 give the fish a ten-minute dip in a salt bath: immersion, plunge, ducking, dunking.
-3 chicken satay with peanut dip: sauce, dressing.
-4 the hedge at the bottom of the dip: slope, incline, decline, descent; hollow, concavity, depression, basin, indentation.
-5 we have suffered a dip in sales: decrease, fall, drop, downturn, decline, falling-off, slump, reduction, diminution, ebb.
+1 a brief swim: she went for a dip in a pool. 
+• a brief immersion in liquid: a dip in hot water is prescribed to destroy fruit flies. 
+• short for sheep dip. 
+• a cursory read of a publication or a superficial exploration of a subject: a quick dip into this document.
+2 a thick sauce in which pieces of food are dunked before eating: tasty garlic dip.
+3 a brief downward slope followed by an upward one: the road's precipitous dips and turns. 
+• an act of sinking or dropping briefly before rising again: a dip in the share price.
+4 technical the extent to which something is angled downward from the horizontal, in particular: 
+• (also magnetic dip) the angle made with the horizontal at any point by the earth's magnetic field, or by a magnetic needle in response to this. 
+• Geology the angle a stratum makes with the horizontal: the cliff profile tends to be dominated by the dip of the beds. 
+• Astronomy & Surveying the apparent depression of the horizon from the line of observation, due to the curvature of the earth.
+5 US informal powdered or finely cut tobacco that is held in the mouth, typically between the gums and lip, rather than smoked: he threw out all of his cans of dip and swore off tobacco.
+6 North American informal a stupid or foolish person.
+7 informal, dated a pickpocket.
+8 archaic a candle made by immersing a wick repeatedly in hot wax. 
+PHRASES
+dip one's toe into (or in) put one's toe briefly in (water), typically to check the temperature. 
+• begin to do or test (something) cautiously: the company has already dipped its toe into the market.ORIGIN Old English dyppan, of Germanic origin; related to deep .

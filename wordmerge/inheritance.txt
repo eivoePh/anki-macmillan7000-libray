@@ -5,8 +5,7 @@ noun
 ② Uncountable(succession) 继承 jìchéng by or through inheritance 通过继承 
 ③ UncountableBiology 遗传 yíchuán 
 inheritance 
-▶noun
-1 a comfortable inheritance: legacy, bequest, endowment, bestowal, provision; birthright, heritage, patrimony; Law devise.
-2 his inheritance of the title: succession to, accession to, assumption of, elevation to.
-WORD LINKS
-inheritance hereditary relating to inheritanceWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+inˈherədəns
+
+▶noun a thing that is inherited: he came into a comfortable inheritance. 
+• the action of inheriting: the inheritance of traits. ORIGIN late Middle English (formerly also as enheritance): from Anglo-Norman French enheritaunce ‘being admitted as heir,’ from Old French enheriter (see inherit) .

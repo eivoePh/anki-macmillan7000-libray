@@ -1,7 +1,16 @@
 exact 
-▶adjective
-1 an exact description: precise, accurate, correct, faithful, close, true; literal, strict, faultless, perfect, impeccable; explicit, detailed, minute, meticulous, thorough; informal on the nail, on the mark, bang on, on the money, on the button. ANTONYMS inaccurate.
-2 an exact manager: careful, meticulous, painstaking, punctilious, conscientious, scrupulous, exacting; methodical, organized, orderly. ANTONYMS careless.
-▶verb
-1 she exacted high standards from them: demand, require, insist on, request, impose, expect; extract, compel, force, squeeze.
-2 they exacted a terrible vengeance on him: inflict, impose, administer, apply.
+iɡˈzakt
+
+▶adjective not approximated in any way; precise: the exact details were still being worked out. 
+• accurate or correct in all details: an exact replica, two feet tall, was constructed. 
+• (of a person) tending to be accurate and careful about minor details: she was an exact, clever manager. 
+• (of a subject of study) permitting precise or absolute measurements as a basis for rigorously testable theories: psychomedicine isn't an exact science yet. 
+▶verb [with object] demand and obtain (something, especially a payment) from someone: tributes exacted from the Slavic peoples 
+William's advisers exacted an oath of obedience from the clergy. 
+• inflict (revenge) on someone: a frustrated woman bent on exacting a cruel revenge for his rejection. DERIVATIVES exactable 
+iɡˈzaktəb(ə)l 
+adjective. exactitude 
+iɡˈzaktəˌt(y)o͞od 
+noun. exactor 
+iɡˈzaktər 
+nounORIGIN late Middle English (as a verb): from Latin exact- ‘completed, ascertained, enforced,’ from the verb exigere, from ex- ‘thoroughly’ + agere ‘perform.’ The adjective dates from the mid 16th century and reflects the Latin exactus ‘precise.’

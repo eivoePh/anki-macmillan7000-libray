@@ -2,5 +2,6 @@ tennis
 BrE ˈtɛnɪs, AmE ˈtɛnəs 
 nounUncountable网球 wǎngqiú 
 tennis 
-BrE ˈtɛnɪs, AmE ˈtɛnəs 
-nounUncountable网球 wǎngqiú 
+ˈtenəs
+
+▶noun a game in which two or four players strike a ball with rackets over a net stretched across a court. The usual form (originally called lawn tennis) is played with a felt-covered hollow rubber ball on a grass, clay, or artificial surface. See also court tennis. ORIGIN late Middle English tenetz, tenes ‘court tennis,’ apparently from Old French tenez ‘take, receive’ (called by the server to an opponent), imperative of tenir .

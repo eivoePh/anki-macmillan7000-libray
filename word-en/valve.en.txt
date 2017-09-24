@@ -1,2 +1,13 @@
 valve 
-▶noun the valve on the tank needs to be replaced: flap, gate, inlet, tap, faucet, stopcock.
+valv
+
+▶noun a device for controlling the passage of fluid or air through a pipe, duct, etc., especially an automatic device allowing movement in one direction only: valve a valve shuts off the flow from the boiler when the water is hot enough. 
+• (in full thermionic valve) Electronics British term for thermionic tube. 
+• Music a cylindrical mechanism in a brass instrument that, when depressed or turned, admits air into different sections of tubing and so extends the range of available notes. 
+• Anatomy & Zoology a membranous fold in a hollow organ or tubular structure, such as a blood vessel or the digestive tract, that maintains the flow of the contents in one direction by closing in response to any pressure from reverse flow. 
+• Zoology each of the halves of the hinged shell of a bivalve mollusk or brachiopod, or of the parts of the compound shell of a barnacle. 
+• Botany each of the halves or sections into which a dry fruit (especially a pod or capsule) dehisces. DERIVATIVES valved 
+valvd 
+adjective [in combination] : a branchiopod has a two-valved outer covering. valveless 
+ˈvalvləs 
+adjectiveORIGIN late Middle English (denoting a leaf of a folding or double door): from Latin valva .

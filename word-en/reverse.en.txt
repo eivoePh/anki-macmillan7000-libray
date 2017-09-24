@@ -1,14 +1,29 @@
 reverse 
-▶verb
-1 the car reversed into a lamppost: back, back up, drive back/backward, move back/backward.
-2 reverse the bottle in the ice bucket: turn upside down, turn over, upend, upturn, invert.
-3 I reversed my jacket: turn inside out, turn outside in.
-4 reverse your roles: swap, change, change around, exchange, interchange, switch, switch around.
-5 the umpire reversed the decision: alter, change; overturn, overthrow, disallow, override, overrule, veto, revoke, repeal, rescind, annul, nullify, void, invalidate; formal abrogate.
-▶adjective
-1 in reverse order: backward, reversed, inverted, transposed.
-2 reverse racism: inverse, reversed, opposite, converse, contrary, counter, antithetical.
+rəˈvərs
+
+▶verb [no object] move backward: the truck reversed into the back of a bus. 
+• [with object] cause (a vehicle) to move backward: I got in the car, reversed it and drove it up the driveway. 
+• [with object] turn (something) the other way around or up or inside out: (as adjective reversed) : a reversed S-shape. 
+• [with object] make (something) the opposite of what it was: the damage done to the ozone layer may be reversed. 
+• [with object] exchange (the position or function) of two people or things: the experimenter and the subject reversed roles and the experiment was repeated. 
+• [with object] Law revoke or annul (a judgment, sentence, or decree made by a lower court or authority): the court reversed his conviction. 
+• (of an engine) work in a contrary direction: the ship's engines reversed and cut out altogether. 
+• [with object] Printing make (type or a design) print as white in a block of solid color or a halftone: their press ads had a headline reversed out of the illustration. 
+▶adjective [attributive] going in or turned toward the direction opposite to that previously stated: the trend appears to be going in the reverse direction. 
+• operating, behaving, or ordered in a way contrary or opposite to that which is usual or expected: here are the results in reverse order. 
+• Electronics (of a voltage applied to a semiconductor junction) in the direction that does not allow significant current to flow. 
+• Geology denoting a fault or faulting in which a relative downward movement occurred in the strata situated on the underside of the fault plane. 
 ▶noun
-1 the reverse is the case: opposite, contrary, converse, inverse, obverse, antithesis.
-2 successes and reverses. See reversal (sense 4).
-3 the reverse of the page: other side, reverse side, back, underside, wrong side, verso.CHOOSE THE RIGHT WORD See opposite .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 a complete change of direction or action: the growth actuates a reverse of photosynthesis. 
+• reverse gear on a motor vehicle; the position of a gear lever or selector corresponding to this. See also in reverse below. 
+• (the reverse) the opposite or contrary to that previously stated: he didn't feel homesick—quite the reverse. 
+• an adverse change of fortune; a setback or defeat: the team suffered its heaviest reverse of the season. 
+• American Football a play in which the ballcarrier reverses the direction of attack by lateraling or handling the ball to a teammate moving in the opposite direction.
+2 the opposite side or face to the observer: the address is given on the reverse of this leaflet. 
+• a left-hand page of an open book, or the back of a loose document. 
+• the side of a coin or medal bearing the value or secondary design. 
+• the design or inscription on the reverse side of a coin or medal. See also obverse ( sense
+1 of the noun). 
+PHRASES
+in (or into) reverse (of a motor vehicle) in reverse gear so as to travel backward: he put the Cadillac into reverse. 
+• in the opposite direction or manner from usual: a similar ride next year will do the route in reverse. reverse the charges make the recipient of a telephone call responsible for payment.DERIVATIVES reversely adverb. reverser nounORIGIN Middle English: from Old French revers, reverse (nouns), reverser (verb), from Latin reversus ‘turned back,’ past participle of revertere, from re- ‘back’ + vertere ‘to turn.’

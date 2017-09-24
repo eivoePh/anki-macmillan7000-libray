@@ -1,16 +1,16 @@
 bull
 1 
-BrE bʊl, AmE bʊl 
-A. noun 
-① Countable(male bovine animal) 公牛 gōngniú to take or grab or seize the bull by the horns figurative 不畏艰险 
-② Countable(large man) 彪形大汉 biāoxíng dàhàn 
-③ UncountableAstrology the Bull 金牛座 Jīnniúzuò 
-④ CountableFinance 多头户 duōtóuhù ; before noun 行情看涨的 hángqíng kànzhǎng de a bull market 牛市 
-⑤ Uncountablecolloquial (nonsense) 胡扯 húchě 
-⑥ Countable BrE = bullseye 
-① 
-⑦ Countable(male elephant) 雄象 xióng xiàng ; (male whale) 雄鲸 xióng jīng 
-B.  transitive verb slang = bullshit 
-B.  
-C.  intransitive verb slang = bullshit 
-C.  
+bo͝ol
+
+▶noun
+1 an uncastrated male bovine animal: [as modifier] : bull calves. 
+• a large male animal, especially a whale or elephant. 
+• (the Bull) the zodiacal sign or constellation Taurus.
+2 Stock Market a person who buys shares hoping to sell them at a higher price later. Often contrasted with bear2. 
+▶adjective [attributive] (of a part of the body, especially the neck) resembling the corresponding part of a male bovine animal in build and strength: his bull neck and broad shoulders. 
+▶verb
+1 [with object] push or drive powerfully or violently: he bulled the motorcycle clear of the tunnel 
+[no object] : he was bulling his way through a mob of admirers.
+2 [no object] (be bulling) (of a cow) behave in a manner characteristic of being in heat. 
+PHRASES
+like a bull in a china shop behaving recklessly and clumsily in a place or situation where one is likely to cause damage or injury. (like) a red rag to a bull see red. take the bull by the horns deal bravely and decisively with a difficult, dangerous, or unpleasant situation.ORIGIN late Old English bula (recorded in place names), from Old Norse boli. Compare with bullock .

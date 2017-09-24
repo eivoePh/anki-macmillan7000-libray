@@ -8,12 +8,19 @@ A.  noun
 B.  nerves noun plural 神经质 shénjīngzhì to suffer from nerves 神经紧张 (to have) an attack or a fit of nerves 神经紧张 to be a bag or bundle of nerves 十分紧张 it's only nerves! 只是过于紧张！ my nerves are on edge 我神经紧张 to calm [somebody's] nerves 使某人镇定 to get on [somebody's] nerves 惹某人心烦 that noise is getting on my nerves colloquial 那噪音使我心绪烦躁 a war or battle of nerves 神经战 nerves of steel 钢铁般的意志 
 C.  transitive verb 激励 jīlì to nerve oneself to do [something]/for [something]; 鼓起勇气做某事 
 nerve 
+nərv
+
 ▶noun
-1 the nerves that transmit pain: nerve fiber, neuron, axon, dendrite.
-2 the match will be a test of nerve: confidence, assurance, coolheadedness, self-possession; courage, bravery, pluck, boldness, intrepidity, fearlessness, daring; determination, willpower, spirit, backbone, fortitude, intestinal fortitude, mettle, grit, true grit, stout-heartedness; informal guts, spunk, moxie.
-3 he had the nerve to ask her out again: audacity, cheek, effrontery, gall, temerity, presumption, boldness, brazenness, impudence, impertinence, arrogance, cockiness; informal face, front, chutzpah.
-4 pre-wedding nerves: anxiety, tension, nervousness, stress, worry, cold feet, apprehension; informal butterflies (in one's stomach), the jitters, the shakes, the heebie-jeebies.
+1 (in the body) a whitish fiber or bundle of fibers that transmits impulses of sensation to the brain or spinal cord, and impulses from these to the muscles and organs: the optic nerve.
+2 (nerves) a person's mental state, in particular the extent to which they are agitated or worried: an amazing journey that tested her nerves to the full. 
+• nervousness or anxiety: his first-night nerves soon disappeared.
+3 (often one's nerve) a person's steadiness, courage, and sense of purpose when facing a demanding situation: the army's commanders were beginning to lose their nerve 
+I got up the nerve to ask Miss Kinnian to have dinner with me. 
+• informal impudence or audacity: he had the nerve to insult my cooking 
+she's got nerve wearing that short skirt with those legs.
+4 Botany a prominent unbranched rib in a leaf, especially in the midrib of the leaf of a moss. 
+▶verb (nerve oneself) brace oneself mentally to face a demanding situation: she nerved herself to enter the room. 
 PHRASES
-get on someone's nerves her squeaky voice gets on my nerves: irritate, annoy, irk, anger, bother, vex, provoke, displease, exasperate, infuriate, gall, pique, needle, ruffle someone's feathers, try someone's patience; jar on, grate on, rankle; rub the wrong way; informal aggravate, get to, bug, miff, peeve, rile, nettle, get someone's goat, tick off. 
-WORD LINKS
-nerve neural relating to nerves in the body neuralgia pain along a nerve in the body neurosurgery surgery performed on the nervous systemWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+a bundle of nerves see bundle. get on someone's nerves informal irritate or annoy someone. have nerves of steel not be easily upset or frightened. strain every nerve make every possible effort. [from the earlier sense of nerve as ‘tendon, sinew.’] touch (or hit or strike) a nerve (or a raw nerve) provoke a reaction by referring to a sensitive topic: there are signs that some comments strike a raw nerve.war of nerves a struggle in which opponents try to wear each other down by psychological means.DERIVATIVES nerved 
+nərvd 
+adjective [usually in combination] : she was still raw-nerved from reliving the pastORIGIN late Middle English (also in the sense ‘tendon, sinew’): from Latin nervus; related to Greek neuron ‘nerve’ (see neuron) .

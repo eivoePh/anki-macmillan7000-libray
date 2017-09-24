@@ -11,9 +11,16 @@ B.  transitive verb
 ② (plot) «navigator, analyst» 标示 biāoshì ‹route, sales›
 C.  intransitive verb 进入每周排行榜 jìnrù měi zhōu páihángbǎng the record will chart at about no. 34 这张唱片将在每周排行榜上排名第34位左右 
 chart 
-▶noun
-1 check your ideal weight on the chart: graph, table, diagram, histogram; bar chart, pie chart, flow chart; Computing graphic.
-2 (charts) the song hit the charts at number twelve: top twenty, top ten, list, listing; dated hit parade.
+CHärt
+
+▶noun a sheet of information in the form of a table, graph, or diagram: a chart showing how much do-it-yourself costs compared with retail. 
+• (usually the charts) a weekly listing of the current best-selling pop records: she topped the charts for eight weeks. 
+• a geographical map or plan, especially one used for navigation by sea or air. 
+• Medicine a written record of information about a patient: scribbled on a patient's chart. 
+• (also birth chart or natal chart) Astrology a map showing the positions of the planets at the time of someone's birth, from which astrologers are said to be able to deduce character or potential. 
 ▶verb
-1 the changes were charted accurately: tabulate, plot, graph, record, register, represent; make a chart/diagram of.
-2 the book charted his progress: follow, trace, outline, describe, detail, record, document, chronicle, log.
+1 [with object] make a map of (an area). 
+• plot (a course) on a chart: the pilot found his craft taking a route he had not charted. 
+• record the progress or development of: the poems chart his descent into madness 
+a major series charting the history of country music.
+2 [no object] (of a record) enter the weekly music charts at a particular position: the record will probably chart at about No. 74. ORIGIN late 16th century: from French charte, from Latin charta ‘paper, papyrus leaf’ (see card1) .

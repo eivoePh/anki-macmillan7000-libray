@@ -8,4 +8,12 @@ A.  noun
 ④ Uncountable(of composer, writer) 作品 zuòpǐn 
 B.  transitive verb (present participle -tt-; past tense, past participle output) Computing 输出 shūchū ‹data, results›
 output 
-▶noun our output always increases at the end of summer: production, amount/quantity produced, yield, gross domestic product, works, writings.
+ˈoutˌpo͝ot
+
+▶noun
+1 the amount of something produced by a person, machine, or industry: the diverse range of Liszt's output 
+efficiency can lead to higher outputs. 
+• the action or process of producing something: the output of epinephrine. 
+• the power, energy, or other results supplied by a device or system: the quality of the output from the printer is very good.
+2 Electronics a place where power or information leaves a system. 
+▶verb (outputs, outputting; past and past participle output or outputted) [with object] produce, deliver, or supply (data) using a computer or other device: you can output the image directly to a video recording system.

@@ -21,12 +21,24 @@ C.  noun
 ④ CountableAdministration 政府救济申请 zhèngfǔ jiùjì shēnqǐng a claim for [something]; 对…的申请 ‹allowance, benefit›to make or put in a claim 提出救济申请 
 ⑤ Countable(in industrial relations) [对资方提出的] 要求 yāoqiú to make a wage claim 提出加薪的要求 the workers have put in a claim for union recognition 工人们要求资方承认工会 PHRASAL VERB claim back transitive verb [claim something back, claim back something] 要求退还 yāoqiú tuìhuán ‹expenses, tax›you can claim your money back if the goods are damaged 如货物受损，可要求退款 to claim [something] back on the insurance 根据保险合同要求赔偿某物 
 claim 
-▶verb
-1 Davies claimed that she was lying: assert, declare, profess, maintain, state, hold, affirm, avow; argue, contend, allege; formal aver.
-2 no one claimed the items: lay claim to, assert ownership of, formally request.
-3 you can claim compensation: request, ask for, apply for; demand, exact.
-4 the fire claimed four lives: take, result in the loss of, cause the loss of.
+klām
+
+▶verb [reporting verb] state or assert that something is the case, typically without providing evidence or proof: [with clause] : he claimed that he came from a wealthy, educated family 
+[with direct speech] : “I'm entitled to be conceited,” he claimed 
+[with object] : these sunblocks claim protection factors as high as 34. 
+• [with object] assert that one has gained or achieved (something): his supporters claimed victory in the presidential elections. 
+• [with object] formally request or demand; say that one owns or has earned (something): if no one claims the items, they will become government property. 
+• [with object] make a demand for (money) under the terms of an insurance policy: she could have claimed the cost through her insurance. 
+• call for (someone's notice and thought): a most unwelcome event claimed his attention. 
+• cause the loss of (someone's life). 
 ▶noun
-1 her claim that she was unaware of the problem: assertion, declaration, profession, affirmation, avowal, protestation; contention, allegation.
-2 a claim for damages: request, application; demand, petition.
-3 we have first claim on their assets: entitlement to, title to, right to.
+1 an assertion of the truth of something, typically one that is disputed or in doubt: [with clause] : he was dogged by the claim that he had CIA links 
+history belies statesmen's claims to be in charge of events.
+2 a demand or request for something considered one's due: the court had denied their claims to asylum. 
+• an application for compensation under the terms of an insurance policy. 
+• a right or title to something: they have first claim on the assets of the trust. 
+• (also mining claim) a piece of land allotted to or taken by someone in order to be mined. 
+PHRASES
+claim to fame a reason for being regarded as unusual or noteworthy: his claim to fame was bringing Garbo to Hollywood.DERIVATIVES claimable 
+ˈklāməb(ə)l 
+adjectiveORIGIN Middle English: from Old French claime (noun), clamer (verb), from Latin clamare ‘call out.’

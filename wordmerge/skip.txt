@@ -15,10 +15,23 @@ B.  transitive verb(present participle etc. -pp-)
 C.  noun 
 ① (jump) 蹦跳 bèngtiào 
 ② BrE (for rubbish) 废料桶 fèiliàotǒng PHRASAL VERB skip off intransitive verb colloquial 溜走 liūzǒu I'm not giving them a chance to skip off again 我不会再让他们有机会开溜的 
-skip 
-▶verb
-1 she skipped down the path: caper, prance, trip, dance, bound, bounce, gambol, frisk, romp, cavort.
-2 we skipped the boring stuff: omit, leave out, miss out, dispense with, pass over, skim over, disregard; informal give something a miss.
-3 I skipped school: play truant from, miss, cut; informal play hooky from, ditch.
-4 informal they skipped off again 
-first chance I get, I'm skipping out : run off/away, take off; informal beat it, clear off, cut and run, light out, cut out.
+skip
+1 
+skip
+
+▶verb (skips, skipping, skipped) [no object] move along lightly, stepping from one foot to the other with a hop or bounce: she began to skip down the path. 
+• jump over a rope that is held at both ends by oneself or two other people and turned repeatedly over the head and under the feet, as a game or for exercise. 
+• [with object] North American jump over (a rope) as a game or for exercise: the girls had been skipping rope. 
+• [with object] jump lightly over: the children used to skip the puddles. 
+• [with object] omit (part of a book that one is reading, or a stage in a sequence that one is following): the video manual allows the viewer to skip sections he's not interested in 
+[no object] : she disliked him so much that she skipped over any articles that mentioned him. 
+• [with object] fail to attend or deal with as appropriate; miss: I wanted to skip my English lesson to visit my mother 
+try not to skip breakfast. 
+• move quickly and in an unmethodical way from one point or subject to another: Marian skipped halfheartedly through the book. 
+• [with object] informal depart quickly and secretly from: she skipped her home amid rumors of a romance. 
+• informal run away; disappear: I'm not giving them a chance to skip off again. 
+• (skip it) informal abandon an undertaking, conversation, or activity: after several wrong turns in our journey, we almost decided to skip it. 
+• [with object] throw (a stone) so that it ricochets off the surface of water. 
+▶noun a light, bouncing step; a skipping movement: he moved with a strange, dancing skip. 
+• Computing an act of passing over part of a sequence of data or instructions. 
+• North American informal a person who is missing, especially one who has defaulted on a debt . ORIGIN Middle English: probably of Scandinavian origin.

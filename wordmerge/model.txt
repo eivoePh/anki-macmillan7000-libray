@@ -18,14 +18,28 @@ D.  intransitive verb(present participle etc. -ll- BrE, -l- AmE )
 ① (pose) 当模特儿 dāng mótèr to model for [somebody]/[something]; 为某人/某物当模特儿 
 ② (make model) to model in clay; 用陶土做模型 yòng táotǔ zuò móxíng 
 model 
+ˈmädl
+
 ▶noun
-1 a working model: replica, copy, representation, mock-up, dummy, imitation, duplicate, reproduction, facsimile.
-2 the Canadian model of health care: prototype, stereotype, archetype, type, version; mold, template, framework, pattern, design, blueprint.
-3 she was a model of patience: ideal, paragon, perfect example/specimen; perfection, acme, epitome, nonpareil, crème de la crème.
-4 a runway model: fashion model, supermodel, mannequin.
-5 an artist's model: subject, poser, sitter.
-6 the latest model of car: version, type, design, variety, kind, sort.
-▶adjective
-1 model trains: replica, toy, miniature, dummy, imitation, duplicate, reproduction, facsimile.
-2 model farms: prototypical, prototypal, archetypal.
-3 a model teacher: ideal, perfect, exemplary, classic, flawless, faultless.
+1 a three-dimensional representation of a person or thing or of a proposed structure, typically on a smaller scale than the original: a model of St. Paul's Cathedral 
+[as modifier] : a model airplane. 
+• (in sculpture) a figure or object made in clay or wax, to be reproduced in another more durable material.
+2 a system or thing used as an example to follow or imitate: the law became a model for dozens of laws banning nondegradable plastic products 
+[as modifier] : a model farm. 
+• a simplified description, especially a mathematical one, of a system or process, to assist calculations and predictions: a statistical model used for predicting the survival rates of endangered species. 
+• (model of) a person or thing regarded as an excellent example of a specified quality: as she grew older, she became a model of self-control 
+[as modifier] : he was a model husband and father. 
+• (model for) an actual person or place on which a specified fictional character or location is based: the author denied that Marilyn was the model for his tragic heroine.
+3 a person, typically a woman, employed to display clothes by wearing them: a fashion model. 
+• a person employed to pose for an artist, photographer, or sculptor.
+4 a particular design or version of a product: trading your car in for a newer model. 
+▶verb (models, modeling, modeled; British models, modelling, modelled) [with object]
+1 fashion or shape (a three-dimensional figure or object) in a malleable material such as clay or wax: use the icing to model a house. 
+• (in drawing or painting) represent so as to appear three-dimensional: the body of the woman to the right is modeled in softer, riper forms. 
+• (model something on/after) use (especially a system or procedure) as an example to follow or imitate: the research method will be modeled on previous work. 
+• (model oneself on) take (someone admired or respected) as an example to copy: he models himself on rock legend Elvis Presley. 
+• devise a representation, especially a mathematical one, of (a phenomenon or system): a computer program that can model how smoke behaves.
+2 display (clothes) by wearing them. 
+• [no object] work as a model by displaying clothes or posing for an artist, photographer, or sculptor. DERIVATIVES modeler 
+ˈmäd(ə)lər 
+nounORIGIN late 16th century (denoting a set of plans of a building): from French modelle, from Italian modello, from an alteration of Latin modulus (see modulus).

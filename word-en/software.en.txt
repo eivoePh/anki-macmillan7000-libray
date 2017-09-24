@@ -1,3 +1,4 @@
 software 
-BrE ˈsɒf(t)wɛː, AmE ˈsɔf(t)wɛr 
-nounUncountable软件 ruǎnjiàn 
+ˈsôf(t)wer
+
+▶noun the programs and other operating information used by a computer. Compare with hardware. 

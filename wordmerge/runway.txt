@@ -2,8 +2,10 @@ runway
 ˈrənˌwā
 noun
 飞机跑道 fēijī pǎodào runway lighting 跑道照明 
-runway |ˈrənˌwā|
-noun
+runway 
+ˈrənˌwā
+
+▶noun
 1 a leveled strip of smooth ground along which aircraft take off and land.
 2 North American a raised aisle extending into the audience from a stage, especially as used for fashion shows.
 3 an animal run, especially one made by small mammals in grass, under snow, etc.

@@ -1,5 +1,9 @@
 tend
 1 
-▶verb
-1 I tend to get very involved in my work: be inclined, be apt, be disposed, be prone, be liable, have a tendency, have a propensity.
-2 some of the younger voters tended toward the tabloid press: incline, lean, gravitate, move; prefer, favor, trend.
+tend
+
+▶verb [no object] regularly or frequently behave in a particular way or have a certain characteristic: [no object, with infinitive] : written language tends to be formal 
+her hair tended to come loose. 
+• (tend to/toward) be liable to possess or display (a particular characteristic): Walter tended toward corpulence. 
+• go or move in a particular direction: the road tends west around small mountains. 
+• (tend to) Mathematics approach (a quantity or limit): the Fourier coefficients tend to zero. ORIGIN Middle English (in the sense ‘move or be inclined to move in a certain direction’): from Old French tendre ‘stretch, tend,’ from Latin tendere .

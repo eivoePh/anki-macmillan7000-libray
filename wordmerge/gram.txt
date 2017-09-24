@@ -1,6 +1,8 @@
 gram 
 BrE ɡram, AmE ɡræm 
 noun 克 kè [重量单位]
-gram 
-BrE ɡram, AmE ɡræm 
-noun 克 kè [重量单位]
+gram
+1 
+ɡram 
+(British also gramme) (abbreviation g) 
+▶noun a metric unit of mass equal to one thousandth of a kilogram. ORIGIN late 18th century: from French gramme, from late Latin gramma ‘a small weight,’ from Greek.

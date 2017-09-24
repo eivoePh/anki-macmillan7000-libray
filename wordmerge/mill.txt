@@ -11,10 +11,27 @@ B.  transitive verb
 ② (process, produce) 制造 zhìzào ‹steel, textiles›
 ③ (in coin manufacturing) 将…轧出凸缘 jiāng… yàchū tū yuán ‹coin›a milled edge 轧出的凸缘 
 ④ (cut, shape) 铣削 xǐxiāo ‹screw, nut, wheel›PHRASAL VERB mill around, mill about intransitive verb «animals, flock» 兜圈子 dōu quānzi ; «people, crowd» 不耐烦地走动 bù nàifán de zǒudòng 
-mill 
+mill
+1 
+mil
+
 ▶noun
-1 a steel mill: factory, (processing) plant, works, workshop, shop, foundry; informal salt mine(s).
-2 a pepper mill: grinder, crusher, quern.
-▶verb the wheat is milled into flour: grind, pulverize, powder, granulate, pound, crush, press; technical comminute, triturate.
+1 a building equipped with machinery for grinding grain into flour. 
+• a piece of machinery that grinds grain into flour. 
+• a domestic device for grinding a solid substance to powder or pulp: a coffee mill. 
+• a building fitted with machinery for a manufacturing process: a steel mill 
+[as modifier] : a mill town. 
+• a piece of manufacturing machinery. 
+• US a place that processes things or people in a mechanical way: a correspondence school that was just a diploma mill.
+2 informal an engine.
+3 informal, dated a boxing match or a fistfight. 
+▶verb
+1 [with object] grind or crush (something) in a mill: hard wheats are easily milled into white flour 
+(as adjective, with submodifier milled) : freshly milled black pepper. 
+• cut or shape (metal) with a rotating tool: (as adjective milling) : lathes and milling machines. 
+• (usually as adjective milled) produce regular ribbed markings on the edge of (a coin) as a protection against illegal clipping.
+2 [no object] (mill about/around) (of people or animals) move around in a confused mass: people milled about the room, shaking hands 
+(as adjective milling) : the milling crowds of guests.
+3 [with object] thicken (wool or another animal fiber) by fulling it. 
 PHRASES
-mill around/about people were milling about in the streets: throng, swarm, crowd.
+go (or put someone) through the mill undergo (or cause someone to undergo) an unpleasant experience.DERIVATIVES millable adjectiveORIGIN Old English mylen, based on late Latin molinum, from Latin mola ‘grindstone, mill,’ from molere ‘to grind.’

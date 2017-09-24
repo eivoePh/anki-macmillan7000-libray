@@ -8,7 +8,17 @@ A.  adjective
 ④ Linguistics 被动的 bèidòng de ‹tense, voice›
 B.  noun the passive 被动语态 bèidòng yǔtài 
 passive 
+ˈpasiv
+
 ▶adjective
-1 a passive role: inactive, nonactive, nonparticipative, uninvolved.
-2 passive victims: submissive, acquiescent, unresisting, unassertive, compliant, pliant, obedient, docile, tractable, malleable, pliable. ANTONYMS active, assertive.
-3 the woman's face was passive: emotionless, impassive, unemotional, unmoved, dispassionate, passionless, detached, unresponsive, undemonstrative, apathetic, phlegmatic.
+1 accepting or allowing what happens or what others do, without active response or resistance: the women were portrayed as passive victims. 
+• Chemistry (of a metal) made unreactive by a thin inert surface layer of oxide. 
+• (of a circuit or device) containing no source of electromotive force. 
+• (of radar or a satellite) receiving or reflecting radiation from a transmitter or target rather than generating its own signal. 
+• relating to or denoting heating systems that make use of incident sunlight as an energy source.
+2 Grammar denoting or relating to a voice of verbs in which the subject undergoes the action of the verb (e.g., they were killed as opposed to he killed them). The opposite of active. 
+▶noun Grammar a passive form of a verb. 
+• (the passive) the passive voice. DERIVATIVES passiveness 
+ˈpasivnəs 
+nounORIGIN late Middle English (in sense
+2 of the adjective, also in the sense ‘(exposed to) suffering, acted on by an external agency’): from Latin passivus, from pass- ‘suffered,’ from the verb pati .

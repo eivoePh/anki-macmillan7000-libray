@@ -1,18 +1,6 @@
-record 
-▶noun
-1 written records of the past: account(s), document(s), documentation, data, file(s), dossier(s), evidence, report(s); annals, archive(s), chronicle(s); minutes, transactions, proceedings, transcript(s); certificate(s), instrument(s), deed(s); register, log, logbook; trademark daytimer; Law muniment(s).
-2 we just lounged about, listening to records and chatting and laughing: album, vinyl; dated phonograph record, LP, single, forty-five, seventy-eight.
-3 the judge weighed the factor of his good record: previous conduct/performance, track record, history, life history, reputation.
-4 she's got armed robbery on her record: criminal record, police record; informal rap sheet.
-5 she won the race and set a new record: best performance, highest achievement; best time, fastest time; world record.
-6 a lasting record of what they have achieved: reminder, memorial, souvenir, memento, remembrance, testament.
-▶adjective record profits: record-breaking, best ever, unsurpassed, unparalleled, unequaled, second to none.
-▶verb
-1 the doctor recorded her blood pressure: write down, put in writing, take down, note, make a note of, jot down, put down on paper; document, put on record, enter, register, log; list, catalog.
-2 the thermometer recorded a high temperature: indicate, register, show, display.
-3 the team recorded their fourth win: achieve, accomplish, chalk up, notch up.
-4 the recital was recorded live: make a record/recording of, tape, tape-record; video-record, videotape, video.
-PHRASES
-off the record
-1 his comments were off the record: unofficial, confidential, in (strict) confidence, not to be made public.
-2 they admitted, off the record, that they had made a mistake: unofficially, privately, in (strict) confidence, confidentially, between ourselves.
+recording 
+rəˈkôrdiNG
+
+▶noun the action or process of recording sound or a performance for subsequent reproduction or broadcast: [as modifier] : a recording studio. 
+• a recorded broadcast or performance. 
+• a disc or tape on which sounds or visual images have been recorded.

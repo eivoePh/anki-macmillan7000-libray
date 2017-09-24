@@ -8,6 +8,15 @@ B.  noun
 ① Uncountable(tense) 条件时 tiáojiànshí in the conditional 用条件式 
 ② Countable(clause, conjunction, statement) 条件式 tiáojiànshì 
 conditional 
+kənˈdiSH(ə)n(ə)l
+
 ▶adjective
-1 their approval is conditional on success: subject to, dependent on, contingent on, based on, determined by, controlled by, tied to.
-2 a conditional offer: contingent, dependent, qualified, with reservations, limited, provisional, provisory.
+1 subject to one or more conditions or requirements being met; made or granted on certain terms: Western aid was only granted conditional on further reform 
+the consortium has made a conditional offer.
+2 Grammar (of a clause, phrase, conjunction, or verb form) expressing a condition. 
+▶noun
+1 Grammar & Philosophy a conditional clause or conjunction. 
+• a statement or sentence containing a conditional clause.
+2 Grammar the conditional mood of a verb, for example should die in if I should die. DERIVATIVES conditionality 
+kənˌdiSHəˈnalədē 
+nounORIGIN late Middle English: from Old French condicionel or late Latin condicionalis, from condicio(n-) ‘agreement’ (see condition) .

@@ -11,8 +11,9 @@ B.  adjective
 ③ (enclosed in cover) 有封皮的 yǒu fēngpí de ‹book, volume›
 bound
 1 
-▶adjective
-1 his bound ankles: tied, chained, fettered, shackled, secured, tied up.
-2 she seemed bound to win: certain, sure, very likely, destined, fated, doomed.
-3 you're bound by the law to keep quiet: obligated, obliged, compelled, required, constrained, forced.
-4 the unrest was bound up with the region's economic stagnation: connected, linked, tied, united, allied.
+bound
+
+▶verb [no object] walk or run with leaping strides: Louis came bounding down the stairs 
+the dog bounded up to him. 
+• (of an object, typically a round one) rebound from a surface: bullets bounded off the veranda. 
+▶noun a leaping movement upward: I went up the steps in two effortless bounds. ORIGIN early 16th century (as a noun): from French bond (noun), bondir (verb) ‘resound,’ later ‘rebound,’ from late Latin bombitare, from Latin bombus ‘humming.’

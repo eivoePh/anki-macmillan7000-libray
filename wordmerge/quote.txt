@@ -18,9 +18,24 @@ C.  noun
 ④ Finance (for sale or purchase of stock) 牌价 páijià 
 D.  quotes noun plural = quotation marks
 quote 
-▶verb
-1 he quoted a sentence from the book: recite, repeat, reproduce, retell, echo, parrot, iterate; take, extract.
-2 she quoted one case in which a girl died: cite, mention, refer to, name, instance, specify, identify; relate, recount; allude to, point out, present, offer, advance.
+kwōt
+
+▶verb [with object]
+1 repeat or copy out (a group of words from a text or speech), typically with an indication that one is not the original author or speaker: he quoted a passage from the Psalms 
+[with direct speech] : “The stream mysterious glides beneath,” Melinda quoted 
+[no object] : when we told her this she said, and I quote, “Phooey!” 
+• repeat a passage from (a work or author) or statement by (someone): the prime minister was quoted as saying that he would resist all attempts to “sabotage” his government 
+he quoted Shakespeare, Goethe, and other poets. 
+• mention or refer to (someone or something) to provide evidence or authority for a statement, argument, or opinion: they won't be here at all in three years time—you can quote me on that. 
+• (quote someone/something as) put forward or describe someone or something as being: heavy teaching loads are often quoted as a bad influence on research.
+2 give someone (the estimated price of a job or service): [with two objects] : the agent quoted a fare of $180. 
+• Stock Market give (a company) a quotation or listing on a stock exchange: an organization that is quoted on the Stock Exchange. 
 ▶noun
-1 a Shakespearean quote. See quotation.
-2 a quote from the contractor: estimate, price, bid, costing, charge, figure, tender.
+1 a quotation from a text or speech: a quote from Wordsworth.
+2 a quotation giving the estimated cost for a particular job or service: quotes from different insurance companies. 
+• Stock Market a price offered by a broker for the sale or purchase of a stock or other security. 
+• Stock Market a quotation or listing of a company on a stock exchange.
+3 (quotes) quotation marks: use double quotes around precise phrases you wish to search for. 
+PHRASES
+quote —— unquote (also quote, unquote) informal used parenthetically when speaking to suggest quotation marks, to indicate the beginning and end of a statement or passage that one is reciting or repeating: the brochure describes the view as, quote, unquote, unforgettably breathtaking 
+the second sentence says, quote, There has never been a better time to invest in the commodities market, unquote.ORIGIN late Middle English: from medieval Latin quotare, from quot ‘how many,’ or from medieval Latin quota (see quota). The original sense was ‘mark a book with numbers, or with marginal references,’ later ‘give a reference by page or chapter,’ hence ‘cite a text or person’ (late 16th century).

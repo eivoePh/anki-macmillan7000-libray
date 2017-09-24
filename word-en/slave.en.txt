@@ -1,8 +1,11 @@
 slave 
-▶noun
-1 the work was done by slaves: historical serf, vassal, thrall; archaic bondsman, bondswoman. ANTONYMS freeman, master.
-2 Anna was his willing slave: drudge, servant, lackey, minion; informal gofer.
-3 a fashion slave: devotee, worshiper, adherent; fan, lover, aficionado; informal fanatic, freak, nut, addict.
-▶verb slaving away for a pittance: toil, labor, grind away, sweat, work one's fingers to the bone, work like a Trojan/dog; informal kill oneself, sweat blood, slog away; literary travail; archaic drudge, moil.
-WORD LINKS
-slave servile relating to a slave or slavesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+slāv
+
+▶noun chiefly historical a person who is the legal property of another and is forced to obey them. 
+• a person who works very hard without proper remuneration or appreciation: by the time I was ten, I had become her slave, doing all the housework. 
+• a person who is excessively dependent upon or controlled by something: the poorest people of the world are slaves to the banks 
+she was no slave to fashion. 
+• a device, or part of one, directly controlled by another: [as modifier] : a slave cassette deck. Compare with master1. 
+• an ant captured in its pupal state by an ant of another species, for which it becomes a worker. 
+▶verb [no object] work excessively hard: after slaving away for fourteen years, all he gets is two thousand. 
+• [with object] subject (a device) to control by another: should the need arise, the two channels can be slaved together. ORIGIN Middle English: shortening of Old French esclave, equivalent of medieval Latin sclava (feminine) ‘Slavic (captive)’: some South Slavic peoples had been reduced to a servile state by conquest in the 9th century.

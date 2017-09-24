@@ -2,4 +2,10 @@ inequality
 BrE ɪnɪˈkwɒlɪti, AmE ˌɪnəˈkwɑlədi 
 nounUncountable and countable不平等 bùpíngděng 
 inequality 
-▶noun the opposition spoke out against the inequality in their country: imbalance, inequity, inconsistency, variation, variability; divergence, polarity, disparity, discrepancy, dissimilarity, difference; bias, prejudice, discrimination, unfairness.
+ˌinəˈkwälədē
+
+▶noun (plural inequalities) difference in size, degree, circumstances, etc.; lack of equality: social inequality 
+the widening inequalities in income. 
+• archaic lack of smoothness or regularity in a surface: the inequality of the ground hindered their footing. 
+• Mathematics the relation between two expressions that are not equal, employing a sign such as ≠ “not equal to,” > “greater than,” or < “less than.” 
+• Mathematics a symbolic expression of the fact that two quantities are not equal. ORIGIN late Middle English: from Old French inequalité, or from Latin inaequalitas, from in- ‘not’ + aequalis (see equal) .

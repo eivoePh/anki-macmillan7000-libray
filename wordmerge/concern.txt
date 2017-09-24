@@ -16,15 +16,25 @@ C.  reflexive verb
 ② (worry) to concern oneself about [something]; 担心某事物 dānxīn mǒu shìwù don't concern yourself, my lips are sealed 别担心，我的嘴很严 
 ③ (be about) to concern itself with [something]/[somebody]; «text, speech, radio/TV programme» 讲述某事物/某人 jiǎngshù mǒu shìwù/mǒu rén 
 concern 
-▶verb
-1 the report concerns the war: be about, deal with, have to do with, cover; discuss, go into, examine, study, review, analyze; relate to, pertain to.
-2 that doesn't concern you: affect, involve, be relevant to, apply to, have a bearing on, impact on; be important to, interest.
-3 I won't concern myself with your affairs: involve oneself in, take an interest in, busy oneself with, devote one's time to, bother oneself with.
-4 one thing still concerns me: worry, disturb, trouble, bother, perturb, unsettle, make anxious.
+kənˈsərn
+
+▶verb [with object]
+1 relate to; be about: the story concerns a friend of mine 
+(be concerned with) : this fable is concerned with forgiveness and redemption. 
+• be relevant or important to; affect or involve: they should not pry into what does not concern them 
+many thanks to all concerned. 
+• (be concerned with) regard it as important or interesting to do something: I was mainly concerned with making something that children could enjoy. 
+• (be concerned in) formal have a specific connection with or responsibility for: the organs concerned in digestion and in blood-making. 
+• (concern oneself with) interest or involve oneself in: we need not concern ourselves with the semantics of this language.
+2 worry (someone); make anxious: the roof of the barn concerns me because eventually it will fall in 
+you must not concern yourself about me. 
 ▶noun
-1 a voice full of concern: anxiety, worry, disquiet, apprehensiveness, unease, consternation. ANTONYMS peace of mind.
-2 his concern for others: solicitude, consideration, care, sympathy, regard. ANTONYMS indifference.
-3 housing is the concern of the council: responsibility, business, affair, charge, duty, job; province, preserve; problem, worry; informal bag, bailiwick.
-4 issues that are of concern to women: interest, importance, relevance, significance.
-5 Aboriginal concerns: affair, issue, matter, question, consideration.
-6 a publishing concern: company, business, firm, organization, operation, corporation, establishment, house, office, agency; informal outfit.
+1 anxiety; worry: such unsatisfactory work gives cause for concern. 
+• a cause of anxiety or worry: the new techniques raise some safety concerns.
+2 a matter of interest or importance to someone: oil reserves are the concern of the Energy Department 
+the survival of an endangered species is of concern to wildlife biologists. 
+• (concerns) affairs; issues: public awareness of Aboriginal concerns.
+3 a business; a firm: a small, debt-ridden concern.
+4 informal, dated a complicated or awkward object or structure. 
+PHRASES
+as (or so) far as —— is concerned as regards the interests or case of ——: the measures are irrelevant as far as inflation is concerned. have no concern with formal have nothing to do with: drama seemed to have no concern with “truth” at all. to whom it may concern a formula placed at the beginning of a letter or document when the identity of the reader or readers is unknown.ORIGIN late Middle English: from French concerner or late Latin concernere (in medieval Latin ‘be relevant to’), from con- (expressing intensive force) + cernere ‘sift, discern.’

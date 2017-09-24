@@ -1,11 +1,26 @@
 deliver 
-▶verb
-1 the parcel was delivered to his house: bring, take, convey, carry, transport, courier; send, dispatch, remit.
-2 the money was delivered up to the official: hand over, turn over, make over, sign over; surrender, give up, yield, cede; consign, commit, entrust, trust.
-3 he was delivered from his enemies: save, rescue, free, liberate, release, extricate, emancipate, redeem.
-4 the court delivered its verdict: utter, give, make, read, broadcast; pronounce, announce, declare, proclaim, hand down, return, set forth.
-5 she delivered a deadly blow to his head: administer, deal, inflict, give; informal land.
-6 he delivered the ball: throw, pitch, hurl, launch, cast, lob, aim.
-7 the trip delivered everything she wanted: provide, supply, furnish.
-8 we must deliver on our commitments: fulfill, live up to, carry out, carry through, make good on.
-9 she returned home to deliver her child: give birth to, bear, have, bring into the world, birth; informal drop; dated be delivered of.
+dəˈlivər
+
+▶verb [with object]
+1 bring and hand over (a letter, parcel, or ordered goods) to the proper recipient or address: the products should be delivered on time 
+[no object] : we'll deliver direct to your door. 
+• formally hand over (someone): they would have delivered him to the Germans for vengeance. 
+• 
+• launch or aim (a blow, a ball, or an attack): the pitcher winds up to deliver the ball. 
+• provide (something promised or expected): he had been able to deliver votes in huge numbers 
+she's waiting for him to deliver on his promise. 
+• (deliver someone/something from) save, rescue, or set free from: deliver us from misery. 
+• (deliver someone/something up) surrender someone or something: to deliver up to justice a member of his own family. 
+• Law acknowledge that one intends to be bound by (a deed), either explicitly by declaration or implicitly by formal handover.
+2 state in a formal manner: the President will deliver a speech 
+he delivered himself of a sermon. 
+• (of a judge or court) give (a judgment or verdict): the judge delivered his verdict.
+3 assist in the birth of: the village midwife delivered the baby. 
+• give birth to: the number of women delivering their babies in hospitals increased. 
+• archaic or formal assist (a woman) in giving birth: she was delivered of her second child. 
+PHRASES
+deliver the goods informal provide what is promised or expected.DERIVATIVES deliveree 
+dəˌlivərˈē 
+noun. deliverer 
+dəˈliv(ə)rər 
+nounORIGIN Middle English: from Old French delivrer, based on Latin de- ‘away’ + liberare ‘set free.’

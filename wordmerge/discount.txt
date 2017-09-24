@@ -9,9 +9,21 @@ transitive verb
 ② (reduce price of) 打折出售 dǎzhé chūshòu ‹goods›
 ③ Finance 把…贴现 bǎ… tiēxiàn 
 discount 
-▶noun students get a
-10 percent discount: reduction, deduction, markdown, price cut, cut, rebate.
-▶verb
-1 I'd heard rumors, but I discounted them: disregard, pay no attention to, take no notice of, take no account of, dismiss, ignore, overlook, disbelieve, reject; informal take with a pinch of salt, pooh-pooh. ANTONYMS believe.
-2 the actual price is discounted in many stores: reduce, mark down, cut, lower; informal knock down. ANTONYMS increase.
-3 show your card and they'll discount 40 percent: deduct, take off, rebate; informal knock off, slash off. ANTONYMS add.
+ˈdiskount
+
+▶noun a deduction from the usual cost of something, typically given for prompt or advance payment or to a special category of buyers: many stores will offer a discount on bulk purchases. 
+• Finance a percentage deducted from the face value of a bill of exchange or promissory note when it changes hands before the due date. 
+▶verb 
+ˌdisˈkount 
+[with object]
+1 deduct an amount from (the usual price of something): (as adjective discounted) : current users qualify for a discounted price. 
+• reduce (a product or service) in price: merchandise that was deeply discounted—up to 50 percent 
+(as adjective discounted) : discounted books. 
+• buy or sell (a bill of exchange) before its due date at less than its maturity value.
+2 regard (a possibility, fact, or person) as being unworthy of consideration because it lacks credibility: I'd heard rumors, but discounted them. 
+▶adjective (of a store or business) offering goods for sale at discounted prices: a discount drugstore chain. 
+• at a price lower than the usual one: a discount flight. 
+PHRASES
+at a discount below the nominal or usual price: a plan that allows tenants to buy their homes at a discount. Compare with at a premium (see premium). DERIVATIVES discountable 
+ˌdisˈkoun(t)əb(ə)l 
+adjectiveORIGIN early 17th century (denoting a reduction in the amount or value of something): from obsolete French descompte (noun), descompter (verb), or (in commercial contexts) from Italian (di)scontare, both from medieval Latin discomputare, from Latin dis- (expressing reversal) + computare (see compute) .

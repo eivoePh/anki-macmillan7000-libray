@@ -11,16 +11,25 @@ noun
 ⑧ Uncountable(transition) 过渡 guòdù the passage from childhood to adolescence 从童年到少年的过渡 
 ⑨ Countabledated (journey) 旅程 lǚchéng to book/work one's passage 订购船票/在船上打工以支付旅费 
 ⑩ UncountablePolitics [法案的] 通过 tōngguò 
-passage 
+passage
+1 
+ˈpasij
+
 ▶noun
-1 their passage through the country: transit, progress, passing, movement, motion, traveling.
-2 the passage of time: passing, advance, course, march.
-3 a passage from the embassy: safe conduct, warrant, visa; admission, access.
-4 the overnight passage: voyage, crossing, trip, journey.
-5 clearing a passage to the front door: way (through), route, path.
-6 a passage to the kitchen. See passageway (sense 1).
-7 a passage between the buildings. See passageway (sense 2).
-8 the nasal passages: duct, orifice, opening, channel; inlet, outlet.
-9 the passage to democracy: transition, development, progress, move, change, shift.
-10 the passage of the bill: enactment, passing, ratification, royal assent, approval, adoption, authorization, legalization.
-11 a passage from “Macbeth”: extract, excerpt, quotation, quote, citation, reading, piece, selection.
+1 the act or process of moving through, under, over, or past something on the way from one place to another: there were moorings for boats wanting passage through the lock. 
+• the act or process of moving forward: despite the passage of time she still loved him. 
+• the right to pass through somewhere: we obtained a permit for safe passage from the embassy. 
+• a journey or ticket for a journey by sea or air: he then booked passage home aboard a Spanish warship. 
+• Ornithology (of a migrating bird) the action of passing through a place en route to its final destination: the species occurs regularly on passage 
+[as modifier] : a passage migrant. 
+• Medicine & Biology the process of propagating microorganisms or cells in a series of host organisms or culture media, so as to maintain them or modify their virulence.
+2 a narrow way, typically having walls on either side, allowing access between buildings or to different rooms within a building; a passageway. 
+• a duct, vessel, or other channel in the body.
+3 the process of transition from one state to another: an allegory on the theme of the passage from ignorance to knowledge. 
+• the passing of a bill into law: a catalyst for the unrest was the passage of a privatization law.
+4 a short extract from a book or other printed material: he picked up the newspaper and read the passage again. 
+• a section of a piece of music: nothing obscures the outlines of an orchestral passage more than a drumroll on an unrelated note. 
+• an episode in a longer activity such as a sporting event: a neat passage of midfield play. 
+▶verb [with object] Medicine & Biology subject (a strain of microorganisms or cells) to a passage: each recombinant virus was passaged nine times successively. 
+PHRASES
+passage of (or at) arms a fight or dispute. work one's passage work in return for a free place on a voyage: he worked his passage home as a steward.ORIGIN Middle English: from Old French, based on Latin passus ‘pace.’

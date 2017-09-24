@@ -98,23 +98,52 @@ B.  [bring something up, bring up something] transitive verb
 ④ (mention) 提出 tíchū ‹question, subject›I'm sorry, I won't bring it up again 对不起，我不会再提这件事了 
 ⑤ Computing (cause to appear) 调出 diàochū ‹menu›
 bring 
-▶verb
-1 he brought a tray: carry, fetch, bear, take; convey, transport, tote; move, haul, shift, lug.
-2 Seth brought his bride to the club: escort, conduct, guide, lead, usher, show, shepherd.
-3 the wind changed and brought rain: cause, produce, create, generate, precipitate, lead to, give rise to, result in; stir up, whip up, promote; literary beget.
-4 the police contemplated bringing charges: put forward, prefer, lay, submit, present, initiate, institute.
-5 this job brings him a regular salary: earn, make, fetch, bring in, yield, net, gross, return, produce; command, attract.
+briNG
+
+▶verb (past brought 
+brôt
+) [with object] come to a place with (someone or something): she brought Luke home from the hospital 
+[with two objects] : Liz brought her a glass of water. 
+• cause (someone or something) to come to a place: what brings you here? 
+a felony case brought before a jury 
+figurative : his inner confidence has brought him through his ordeal. 
+• make (someone or something) move in a particular direction or way: he brought his hands out of his pockets 
+heavy rain brought down part of the ceiling. 
+• cause (something): the bad weather brought famine 
+her letter brought forth a torrent of criticism. 
+• cause (someone or something) to be in or change to a particular state or condition: I'll give you some aspirin to bring down his temperature 
+his approach brought him into conflict with government. 
+• (bring someone in) involve (someone) in a particular activity: he has brought in a consultant. 
+• initiate (legal action) against someone: riot and conspiracy charges should be brought against them. 
+• [usually with negative] (bring oneself to do something) force oneself to do something unpleasant or distressing: she could not bring herself to mention it. 
+• cause someone to receive (an amount of money) as income or profit: two important Chippendale lots brought $10,000 each 
+[with two objects] : five more novels brought him $150,000. 
 PHRASES
-bring about the events that brought about her death: cause, produce, give rise to, result in, lead to, occasion, bring to pass; provoke, generate, engender, precipitate, bring on; formal effectuate. bring around
-1 she administered CPR and brought him around: wake up, return to consciousness, rouse, bring to.
-2 we would have brought him around, given time: persuade, convince, win over, sway, influence. bring back
-1 the smell brought back memories: remind one of, put one in mind of, bring/call to mind, conjure up, evoke, summon up.
-2 bring back the rule of law: reintroduce, reinstate, reestablish, revive, resurrect. bring down
-1 he was brought down by his own teammate: trip, knock over, knock down; foul.
-2 I couldn't bear to bring her down: depress, sadden, upset, get down, dispirit, dishearten, discourage.
-3 we will bring down the price: decrease, reduce, lower, cut, drop; informal slash.
-4 the unrest brought down the government: unseat, overturn, topple, overthrow, depose, oust. bring forward why wasn't this brought forward at the last meeting? propose, suggest, advance, raise, present, move, submit, lodge. bring in the event brings in a million dollars each year. See bring (sense 5). bring on what could have brought on this fever? See bring about. bring out
-1 they were bringing out a new magazine: launch, establish, begin, start, found, set up, instigate, inaugurate, market; publish, print, issue, produce.
-2 the shawl brings out the color of your eyes: accentuate, highlight, emphasize, accent, set off. bring oneself to she could not bring herself to complain: force oneself to, make oneself, bear to. bring up
-1 she and Lenny brought up her brother's four children: rear, raise, care for, look after, nurture, provide for; hand-rear.
-2 I wonder if he'll bring up the matter of the grocery bill: mention, allude to, touch on, raise, broach, introduce; voice, air, suggest, propose, submit, put forward, bring forward.
+bring home the bacon see bacon. bring something home to someone see home. bring the house down make an audience respond with great enthusiasm, typically as shown by their laughter or applause. bring it (on) informal used to express confidence in meeting a challenge: if you want to fight me so bad, bring it on! bring something to bear
+1 exert influence or pressure so as to cause a particular result: he was released after pressure had been brought to bear by the aid agencies.
+2 aim a weapon: he brought his rifle to bear on a distant target. bring someone to book see book. bring something to light see light1. bring someone/something to mind cause one to remember or think of someone or something: all that marble brought to mind a mausoleum. bring something to pass chiefly literary cause something to happen.PHRASAL VERBS bring something about
+1 cause something to happen: she brought about a revolution.
+2 cause a ship to head in a different direction. bring something back cause something to return. 
+• reintroduce something: bringing back capital punishment would solve nothing. bring someone down cause someone to fall over, especially by tackling them during a football game or rugby match. 
+• cause someone to lose power: the vote will not bring down the government. 
+• make someone unhappy. bring someone/something down cause an animal or person to fall over by shooting them. 
+• cause an aircraft or bird to fall from the sky by shooting it. bring something forth archaic or literary give birth to: why does Elsbeth not bring forth a child? bring something forward
+1 move a meeting or event to an earlier date or time.
+2 (often as adjective brought forward) in bookkeeping, transfer a total sum from the bottom of one page to the top of the next: a profit and loss balance brought forward of $5,000,000.
+3 propose a plan, subject, or idea for consideration. bring something in
+1 introduce something, especially a new law or product: Congress brought in reforms to prevent abuse of presidential power.
+2 make or earn a particular amount of money: their fund-raising efforts have brought in more than $1 million.
+3 (of a jury) give a decision in court: the jury brought in a unanimous verdict. bring someone off
+1 be rescued from a ship in difficulties.
+2 vulgar slang give someone or oneself an orgasm. bring something off achieve something successfully: a good omelet is very hard to bring off. bring someone on encourage someone who is learning something to develop or improve at a faster rate. bring something on cause something, typically something unpleasant, to occur or develop: ulcers are not brought on by a rich diet. 
+• (bring something on/upon) be responsible for something, typically something unpleasant, that happens to oneself or someone else: the doom that he has brought upon himself. bring someone out
+1 encourage one to feel more confident or sociable: she needs friends to bring her out of herself.
+2 introduce (a young woman) formally into society.
+3 introduce (a homosexual) into the homosexual subculture. bring something out produce and launch a new product or publication: the band is bringing out a video. 
+• make something more evident; emphasize something: the shawl brings out the color of your eyes 
+he brought out the best in his team. bring someone around
+1 restore someone to consciousness.
+2 persuade someone to do something, especially to adopt one's own point of view: my wife has brought me around to eating broiled grouper.bring someone to restore someone to consciousness. bring something to cause a boat to stop, especially by turning into the wind. bring up (chiefly of a ship) come to a stop. bring someone up look after a child until it is an adult. 
+• (be brought up) be taught as a child to adopt particular behavior or attitudes: he had been brought up to believe that marriage was forever. bring something up
+1 vomit something.
+2 raise a matter for discussion or consideration: she tried repeatedly to bring up the subject of marriage.DERIVATIVES bringer nounORIGIN Old English bringan, of Germanic origin; related to Dutch brengen and German bringen .

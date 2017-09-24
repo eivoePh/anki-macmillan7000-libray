@@ -1,14 +1,41 @@
 field 
+fēld
+
 ▶noun
-1 a large plowed field: meadow, pasture, paddock, grassland, pastureland; literary lea, sward; archaic glebe.
-2 a soccer field: playing field, ground, sports field; British pitch.
-3 the field of biotechnology: area, sphere, discipline, province, department, domain, sector, branch, subject; informal bailiwick.
-4 your field of vision: scope, range, sweep, reach, extent.
-5 she is well ahead of the field: competitors, entrants, competition; applicants, candidates, possibles.
+1 an area of open land, especially one planted with crops or pasture, typically bounded by hedges or fences: a wheat field 
+a field of corn. 
+• a piece of land used for a particular purpose, especially an area marked out for a game or sport: a football field. 
+• Baseball defensive play or the defensive positions collectively: he is fast in the field and on the bases. 
+• a large area of land or water completely covered in a particular substance, especially snow or ice: an ice field. 
+• an area rich in a natural product, typically oil or gas: an oil field. 
+• an area on which a battle is fought: a field of battle. 
+• archaic a battle: many a bloody field was to be fought. 
+• a place where a subject of scientific study or artistic representation can be observed in its natural location or context.
+2 a particular branch of study or sphere of activity or interest: we talked to professionals in various fields. 
+• Computing a part of a record, representing an item of data. 
+• Linguistics & Psychology a general area of meaning within which individual words make particular distinctions. 
+• a space or range within which objects are visible from a particular viewpoint or through a piece of apparatus: the stars drift through this telescope's field of view. See also field of vision. 
+• an area on a flag with a single background color: fifty white stars on a blue field. 
+• Heraldry the surface of an escutcheon or of one of its divisions.
+3 (usually the field) all the participants in a contest or sport: he destroyed the rest of the field with a devastating injection of speed.
+4 Physics the region in which a particular condition prevails, especially one in which a force or influence is effective regardless of the presence or absence of a material medium. 
+• the force exerted or potentially exerted in a field: the variation in the strength of the field. 
+• Mathematics a system subject to two binary operations analogous to those for the multiplication and addition of real numbers, and having similar commutative and distributive laws. 
 ▶verb
-1 she fielded the ball: catch, stop, retrieve; return, throw back.
-2 they can field an army of about one million: deploy, position, range, dispose.
-3 he fielded some awkward questions: deal with, handle, cope with, answer, reply to, respond to.
-▶adjective
-1 field experience: practical, hands-on, applied, experiential, empirical. ANTONYMS theoretical.
-2 field artillery: mobile, portable, transportable, movable, maneuverable, light.
+1 [no object] Baseball play as a fielder. 
+• [with object] catch or stop (the ball): he fielded the ball cleanly, but threw it down the right-field line.
+2 [with object] send out (a team or individual) to play in a game: a high school that traditionally fielded mediocre teams. 
+• (of a political party) nominate (a candidate) to run in an election: a radical political party that is beginning to field candidates in local elections. 
+• deploy (an army): no one had the power to field an army of any consequence.
+3 [with object] deal with (a difficult question, telephone call, etc.): she has fielded five calls from salespeople. 
+▶adjective [attributive] carried out or working in the natural environment, rather than in a laboratory or office: field observations. 
+• (of military equipment) light and mobile for use on campaign: field artillery. 
+• used in names of animals or plants found in the open country, rather than among buildings or as cultivated varieties: field ant. 
+• denoting a game played outdoors on a marked field. 
+PHRASES
+in the field on campaign; (while) engaged in combat or maneuvers: troops in the field. 
+• away from the laboratory or studio; engaged in practical work in a natural environment. 
+• (of an employee) away from the home office; working while traveling: he was a salesman in the field. keep the field archaic continue a military campaign. lead the field be the leader in a race. 
+• be the best or most popular: in the executive car group, this model leads the field. play the field informal indulge in a series of sexual relationships without committing oneself to anyone. take the field (of a sports team) go onto a field to begin a game. 
+• Baseball begin one's turn on defense in an inning. 
+• start a military campaign.ORIGIN Old English feld (also denoting a large tract of open country; compare with veld), of West Germanic origin; related to Dutch veld and German Feld .

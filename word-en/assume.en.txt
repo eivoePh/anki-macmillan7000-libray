@@ -1,7 +1,15 @@
 assume 
-▶verb
-1 I assumed he wanted me to keep the book: presume, suppose, take it (as given), take for granted, take as read, conjecture, surmise, conclude, deduce, infer, reckon, reason, think, fancy, believe, understand, gather, figure.
-2 he assumed a Southern accent: affect, adopt, impersonate, put on, simulate, feign, fake.
-3 the disease may assume epidemic proportions: acquire, take on, come to have.
-4 they are to assume more responsibility: accept, shoulder, bear, undertake, take on/up, manage, handle, deal with.
-5 he assumed control of their finances: seize, take (over), appropriate, commandeer, expropriate, hijack, wrest, arrogate, usurp.
+əˈso͞om
+
+▶verb [with object]
+1 suppose to be the case, without proof: you're afraid of what people are going to assume about me 
+[with clause] : it is reasonable to assume that such changes have significant social effects 
+[with object and infinitive] : they were assumed to be foreign.
+2 take or begin to have (power or responsibility): he assumed full responsibility for all organizational work. 
+• seize (power or control): the rebels assumed control of the capital.
+3 take on (a specified quality, appearance, or extent): militant activity had assumed epidemic proportions. 
+• take on or adopt (a manner or identity), sometimes falsely: Oliver assumed an expression of penitence 
+she puts on a disguise, assumes a different persona, and cruises the squalid bars on the bad side of town 
+(as adjective assumed) : a man living under an assumed name. DERIVATIVES assumedly 
+-midlē 
+adverbORIGIN late Middle English: from Latin assumere, from ad- ‘toward’ + sumere ‘take.’

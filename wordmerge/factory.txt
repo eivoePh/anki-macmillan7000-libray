@@ -2,4 +2,10 @@ factory
 BrE ˈfakt(ə)ri, AmE ˈfækt(ə)ri 
 noun 工厂 gōngchǎng to open or set up a (new) factory; 开设一家（新）工厂 
 factory 
-▶noun jobs in the factories were getting harder to find: plant, works, yard, mill, workshop, shop; informal sweatshop, salt mine(s).
+ˈfakt(ə)rē
+
+▶noun (plural factories)
+1 a building or group of buildings where goods are manufactured or assembled chiefly by machine. 
+• [with modifier] a person, group, or institution that continually produces a great quantity of something specified: a huge factory of lying, slander, and bad English.
+2 historical an establishment for traders carrying on business in a foreign country. ORIGIN late 16th century (in sense 2): from medieval Latin factoria from Latin factor (see factor). Sense
+1 from late Latin factoria, literally ‘oil press.’

@@ -1,16 +1,41 @@
 jump 
+jəmp
+
 ▶verb
-1 the cat jumped off his lap 
-Flora began to jump around: leap, spring, bound, hop; skip, caper, dance, prance, frolic, cavort.
-2 he jumped the fence: vault (over), leap over, clear, sail over, hop over, hurdle.
-3 pretax profits jumped: rise, go up, shoot up, soar, surge, climb, increase; informal skyrocket.
-4 the noise made her jump: start, jerk, jolt, flinch, recoil; informal jump out of one's skin.
-5 Polly jumped at the chance: accept eagerly, leap at, welcome with open arms, seize on, snap up, grab, pounce on.
-6 the place was jumping: rock, hop, buzz, be lively, be wild.
-7 two guys jumped him in the alley: assault, assail, set upon, mug, attack, pounce on.
+1 [no object] push oneself off a surface and into the air by using the muscles in one's legs and feet: the cat jumped off his lap 
+he jumped twenty-five feet to the ground. 
+• [with object] pass over (an obstacle or barrier) by jumping. 
+• [with adverbial] (of an athlete or horse) perform in a competition that involves jumping over obstacles: his horse jumped well and won by five lengths. 
+• (especially of prices or figures) rise suddenly and by a large amount: exports jumped by 500 percent during the decade. 
+• informal (of a place) be full of lively activity: the bar is jumping on Fridays and Saturdays. 
+• [with object] informal (of driver or a vehicle) fail to stop at (a red traffic light). 
+• [with object] get on or off (a train or other vehicle) quickly, typically illegally or dangerously. 
+• [with object] North American take summary possession of (a mining concession or other piece of land) after alleged abandonment or forfeiture by the former occupant.
+2 [no object] (of a person) move suddenly and quickly in a specified way: Juliet jumped to her feet 
+they jumped back into the car and drove off. 
+• (of a person) make a sudden involuntary movement in reaction to something that causes surprise or shock: an owl hooted nearby, making her jump. 
+• pass quickly or abruptly from one idea, subject, or state to another: she jumped backward and forward in her narrative. 
+• [with object] omit or skip over (part of something) and pass on to a further point or stage. 
+• (of a machine or device) move or jerk suddenly and abruptly: the vibration can cause the needle to jump. 
+• (of a person) make a sudden, impulsive rush to do something: Gordon jumped to my defense. 
+• [with object] (in checkers) capture (an opponent's piece) by jumping over it. 
+• Bridge make a bid that is higher than necessary, in order to signal a strong hand: East jumped to four spades. 
+• [with object] informal attack (someone) suddenly and unexpectedly. 
+• [with object] vulgar slang,North American have sexual intercourse with (someone).
+3 [with object] North American informal start (a vehicle) using jumper cables: I jumped his Camry from my Civic. 
 ▶noun
-1 a short jump across the ditch: leap, spring, vault, bound, hop.
-2 a jump in profits: rise, leap, increase, upsurge, upswing, upturn; informal hike.
-3 I woke up with a jump: start, jerk, involuntary movement, spasm.
+1 an act of jumping from a surface by pushing upward with one's legs and feet: in making the short jump across the gully he lost his balance. 
+• an obstacle to be jumped, especially by a horse and rider in an equestrian competition. 
+• an act of descending from an aircraft by parachute. 
+• a sudden dramatic rise in amount, price, or value: a 51 percent jump in annual profits. 
+• a large or sudden transition or change: the jump from mass-market to luxury goods. 
+• (in checkers) the act of capturing an opponent's piece by jumping over it. 
+• Bridge a bid that is higher than necessary, signaling strength. 
+• North American vulgar slang, dated an act of sexual intercourse.
+2 a sudden involuntary movement caused by shock or surprise: I woke up with a jump. 
+• (the jumps) informal extreme nervousness or anxiety. 
 PHRASES
-jump the gun informal several radio stations have jumped the gun by announcing winners long before the polls have closed in certain districts: act prematurely, act too soon, be too/overly hasty, be precipitate, be rash; informal be ahead of oneself. jump to it informal this year, students will really have to jump to it if they hope to get a hot meal before the kitchen closes: hurry up, get a move on, be quick; informal get cracking, shake a leg, look lively, look sharp, get the lead out; dated make haste.
+be jumping up and down informal be very angry, upset, or excited. get (or have) the jump on someone North American informal get (or have) an advantage over someone as a result of one's prompt action. jump bail see bail1. jump someone's bones North American vulgar slang have sexual intercourse with someone. jump down someone's throat informal respond to what someone has said in a sudden and angrily critical way. jump for joy be ecstatically happy: I'm not exactly jumping for joy at the prospect. jump the gun see gun. jump into bed with informal engage readily in sexual intercourse with. jump in with both feet get started enthusiastically. jump on the bandwagon see bandwagon. jump out of one's skin informal be extremely startled. jump the queue British cut in line.jump the shark informal (of a television series or movie) reach a point at which far-fetched events are included merely for the sake of novelty, indicative of a decline in quality. [an allusion to the television series Happy Days, in which a central character (the Fonz) jumps over a shark in a waterskiing stunt.] jump ship (of a sailor) leave the ship on which one is serving without having obtained permission to do so: he jumped ship in Cape Town 
+figurative : three producers jumped ship two weeks after the show's debut. jump through hoops go through an elaborate or complicated procedure in order to achieve an objective. jump to conclusions see conclusion. jump to it! informal used to exhort someone to prompt or immediate action. jump the track (of a train) become derailed.one jump ahead one step or stage ahead of someone else and so having the advantage over them: the Americans were one jump ahead of the British in this.PHRASAL VERBS jump at accept (an opportunity or offer) eagerly: he jumped at the chance to start his own company. jump off (of a military campaign) begin: the air-attack phase will continue before the ground attack jumps off. jump on informal attack or take hold of (someone) suddenly. 
+• criticize (someone) suddenly and severely. 
+• seize on (something) eagerly; give sudden (typically critical) attention to: the paper jumped on the inconsistencies of his stories. jump out have a strong visual or mental impact; be very striking: advertising posters that really jump out at you.DERIVATIVES jumpable adjectiveORIGIN early 16th century (in the sense ‘be moved or thrown with a sudden jerk’): probably imitative of the sound of feet coming into contact with the ground.

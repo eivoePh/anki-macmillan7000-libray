@@ -1,7 +1,10 @@
 conservative 
-▶adjective
-1 the conservative wing of the party: right-wing, reactionary, traditionalist; Republican; British Tory; informal redneck. ANTONYMS socialist.
-2 our more conservative neighbors may object to the modern architecture being proposed: traditionalist, traditional, conventional, orthodox, old-fashioned, dyed-in-the-wool, hidebound, unadventurous, set in one's ways; moderate, middle-of-the-road, buttoned-down; informal stick-in-the-mud. ANTONYMS radical.
-3 he wore a conservative blue suit: conventional, sober, modest, plain, unobtrusive, restrained, subtle, low-key, demure, unshowy, unflashy; informal square, straight. ANTONYMS ostentatious.
-4 a conservative estimate: low, cautious, understated, moderate, reasonable.
-▶noun liberals and conservatives have found common ground: right-winger, reactionary, rightist, diehard; Republican; British Tory.QUOTE I never dared be radical when young for fear it would make me conservative when old.Robert Frost "Precaution" (1936)
+kənˈsərvədiv
+
+▶adjective holding to traditional attitudes and values and cautious about change or innovation, typically in relation to politics or religion. 
+• (of dress or taste) sober and conventional: a conservative suit. 
+• (of an estimate) purposely low for the sake of caution: the film was not cheap—$30,000 is a conservative estimate. 
+• (of surgery or medical treatment) intended to control rather than eliminate a condition, with existing tissue preserved as far as possible. 
+• (Conservative) relating to the Conservative Party of Great Britain or a similar party in another country. 
+▶noun a person who is averse to change and holds to traditional values and attitudes, typically in relation to politics. 
+• (Conservative) a supporter or member of the Conservative Party of Great Britain or a similar party in another country. DERIVATIVES conservativeness nounORIGIN late Middle English (in the sense ‘aiming to preserve’): from late Latin conservativus, from conservat- ‘conserved,’ from the verb conservare (see conserve). Current senses date from the mid 19th century onward.

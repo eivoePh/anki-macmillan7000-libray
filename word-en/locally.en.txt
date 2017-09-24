@@ -1,3 +1,9 @@
 locally 
-BrE ˈləʊk(ə)li, AmE ˈloʊkəli 
-adverb 在当地 zài dāngdì the magnificent mountain is known locally as 'The Rock' 这座巍峨高山被当地人称作“石头山” the products we sell are locally produced 我们销售的产品是本地生产的 
+ˈlōkəlē
+
+▶adverb
+1 with reference to a particular area or one's neighborhood: I shop locally wherever possible 
+locally produced goods 
+he served on several committees both nationally and locally.
+2 Computing in a way that applies or is only available for use in one part of a program: the service control function is installed locally. 
+• in a way that can be accessed without the use of a network: should the data be stored locally or remotely?

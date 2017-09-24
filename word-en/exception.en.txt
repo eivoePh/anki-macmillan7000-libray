@@ -1,4 +1,7 @@
 exception 
-▶noun this case is an exception: anomaly, irregularity, deviation, special case, isolated example, peculiarity, abnormality, oddity; misfit, aberration; informal freak; bad apple.
+ikˈsepSH(ə)n
+
+▶noun a person or thing that is excluded from a general statement or does not follow a rule: the drives between towns are a delight, and the journey to Graz is no exception 
+while he normally shies away from introducing resolutions, he made an exception in this case. 
 PHRASES
-take exception to Lydia took exception to their criticism of her husband: object to, take offense at, take umbrage at, demur at, disagree with; resent, argue against, protest against, oppose, complain about, shudder at; informal kick up a fuss about, raise a stink about. with the exception of all of the sopranos, with the exception of Dia, will wear black dresses with red sashes. See except (preposition). QUOTE I never forget a face, but in your case I'll be glad to make an exception.Groucho Marx, American comedian
+the exception proves the rule proverb the fact that some cases do not follow a rule proves that the rule applies in all other cases. [From Latin exceptio probat regulam in casibus non exceptis ‘The exception confirms the rule in the cases not excepted.’ The exception here is ‘the action of excepting’ not ‘that being excepted.’ By specifically excluding cases where the rule doesn't apply, you make the rule stronger for the cases still governed by it.] take exception to object strongly to; be offended by: they took exception to his bohemian demeanor. with the exception of except; not including. without exception with no one or nothing excluded.ORIGIN late Middle English: via Old French from Latin exceptio(n-), from excipere ‘take out’ (see except) .

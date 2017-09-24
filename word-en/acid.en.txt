@@ -1,4 +1,20 @@
 acid 
+ˈasəd
+
+▶noun
+1 a chemical substance that neutralizes alkalis, dissolves some metals, and turns litmus red; typically, a corrosive or sour-tasting liquid of this kind: rainwater is a very weak acid 
+traces of acid. Often contrasted with alkali or base1. 
+• bitter or cutting remarks or tone of voice: she was unable to quell the acid in her voice.
+2 Chemistry a molecule or other entity that can donate a proton or accept an electron pair in reactions.
+3 informal the drug LS
+D.  Acids are compounds that release hydrogen ions (H+) when dissolved in water. Any solution with a pH of less than
+7 is acidic, strong acids such as sulfuric or hydrochloric acid having a pH as low as
+1 or 2. Most organic acids (carboxylic or fatty acids) contain the carboxyl group −COO
+H.  
 ▶adjective
-1 a slightly acid flavor: acidic, sour, tart, bitter, sharp, acrid, pungent, acerbic, vinegary, acetic, acetous. ANTONYMS sweet.
-2 acid remarks: acerbic, sarcastic, sharp, sardonic, scathing, cutting, razor-edged, biting, stinging, caustic, trenchant, mordant, bitter, acrimonious, astringent, harsh, abrasive, wounding, hurtful, unkind, vitriolic, venomous, waspish, spiteful, malicious; informal bitchy, catty; snarky. ANTONYMS pleasant.
+1 containing acid or having the properties of an acid; in particular, having a pH of less than 7: poor, acid soils. Often contrasted with alkaline or basic. 
+• Geology (of rock, especially lava) containing a relatively high proportion of silica. 
+• Metallurgy relating to or denoting steelmaking processes involving silica-rich refractories and slags.
+2 sharp-tasting or sour: acid fruit. 
+• (of a person's remarks or tone) bitter or cutting. 
+• (of a color) intense or bright: an acid green. DERIVATIVES acidy adjectiveORIGIN early 17th century (in the sense ‘sour-tasting’): from Latin acidus, from acere ‘be sour.’

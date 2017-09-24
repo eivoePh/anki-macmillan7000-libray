@@ -1,13 +1,20 @@
 equal 
+ˈēkwəl
+
 ▶adjective
-1 lines of equal length: identical, uniform, alike, like, the same, equivalent; matching, even, comparable, similar, corresponding. ANTONYMS different.
-2 fares equal to a month's wages: equivalent to, identical to, amounting to; proportionate to; commensurate with, on a par with. ANTONYMS more than, less than.
-3 equal treatment before the law: unbiased, impartial, nonpartisan, fair, just, equitable; unprejudiced, nondiscriminatory, egalitarian; neutral, objective, disinterested. ANTONYMS discriminatory.
-4 an equal contest: evenly matched, even, balanced, level; on a par, on an equal footing; informal fifty-fifty, neck and neck. ANTONYMS uneven.
-▶noun they did not treat him as their equal: equivalent, peer, fellow, coequal, like; counterpart, match, parallel.
-▶verb
-1 two plus two equals four: be equal to, be equivalent to, be the same as; come to, amount to, make, total, add up to.
-2 he equaled the world record: match, reach, parallel, be level with, measure up to.
-3 the fable equals that of any other poet: be as good as, be a match for, measure up to, equate with; be in the same league as, rival, compete with.
+1 being the same in quantity, size, degree, or value: add equal amounts of water and flour 
+
+1 liter is roughly equal to
+1 quart. 
+• (of people) having the same status, rights, or opportunities. 
+• uniform in application or effect; without discrimination on any grounds: a dedicated campaigner for equal rights. 
+• evenly or fairly balanced: it was hardly an equal contest.
+2 [predicative] (equal to) having the ability or resources to meet (a challenge): the players proved equal to the task. 
+▶noun a person or thing considered to be the same as another in status or quality: we all treat each other as equals 
+it was a day without equal in market history. 
+▶verb (equals, equaling, equaled; also chiefly British equals, equalling, equalled) [with object] be the same as in number or amount: four plus six divided by two equals five 
+the total debits should equal the total credits. 
+• match or rival in performance or extent: he equaled the world record of 9.93 seconds. 
+• be equivalent to: his work is concerned with why private property equals exploitation. 
 PHRASES
-equal to trust me, I am equal to the task: capable of, fit for, up to, good enough for, strong enough for; suitable for, suited to, appropriate for.
+(the) first among equals the person or thing having the highest status in a group. other (or all) things being equal provided that other factors or circumstances remain the same: it follows that, other things being equal, the price level will rise.ORIGIN late Middle English: from Latin aequalis, from aequus ‘even, level, equal.’ usage: It is widely held that adjectives such as equal and unique have absolute meanings and therefore can have no degrees of comparison. Hence they should not be modified, and it is incorrect to say more equal or very unique on the grounds that these are adjectives that refer to a logical or mathematical absolute. For more discussion of this question, see usage at unique .

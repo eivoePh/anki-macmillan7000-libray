@@ -2,6 +2,7 @@ website
 ˈwebsīt
 noun
 网址 wǎngzhǐ 
-website |ˈwebsīt| (also Web site)
-nounComputing
-a location connected to the Internet that maintains one or more pages on the World Wide Web.
+website 
+ˈwebsīt 
+(also Web site) 
+▶noun Computing a location connected to the Internet that maintains one or more pages on the World Wide Web.

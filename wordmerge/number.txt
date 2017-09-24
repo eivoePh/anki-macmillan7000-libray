@@ -24,18 +24,28 @@ C.  intransitive verb
 ① (comprise in number) 计数 jìshù a crowd numbering in the thousands 数以千计的一群人 
 ② (be included) 归入 guīrù to number among [something]; 属于某类 
 number 
+ˈnəmbər
+
 ▶noun
-1 a whole number: numeral, integer, figure, digit; character, symbol; decimal, unit; cardinal number, ordinal number.
-2 a large number of complaints: amount, quantity; total, aggregate, tally; quota.
-3 the wedding of one of their number: group, company, crowd, circle, party, band, crew, set, gang.
-4 the band performed another number: song, piece (of music), tune, show tune, track; routine, sketch, dance, act.
-▶verb
-1 visitors numbered more than two million: add up to, amount to, total, come to.
-2 he numbers the fleet at a thousand: calculate, count, total, compute, reckon, tally; assess, tot up; formal enumerate.
-3 each paragraph is numbered: assign a number to, mark with a number; itemize, enumerate.
-4 he numbers her among his friends: include, count, reckon, deem.
-5 his days are numbered: limit, restrict, fix.
+1 an arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations and for showing order in a series or for identification: she dialed the number carefully 
+an even number. 
+• (numbers) dated arithmetic: the boy was adept at numbers.
+2 a quantity or amount: the company is seeking to increase the number of women on its staff 
+the exhibition attracted vast numbers of visitors. 
+• (a number of) several: we have discussed the matter on a number of occasions. 
+• a group or company of people: there were some distinguished names among our number. 
+• (numbers) a large quantity or amount, often in contrast to a smaller one; numerical preponderance: the weight of numbers turned the battle against them.
+3 a single issue of a magazine: the October number of “Travel.” 
+• a song, dance, piece of music, etc., especially one of several in a performance: they go from one melodious number to another. 
+• [usually with adjective] informal a thing, typically an item of clothing, of a particular type, regarded with approval or admiration: Yvonne was wearing a little black number.
+4 Grammar a distinction of word form denoting reference to one person or thing or to more than one. See also singular ( sense
+1 of the adjective), plural, count noun, and mass noun. 
+▶verb [with object]
+1 amount to (a specified figure or quantity); comprise: the demonstrators numbered more than 5,000. 
+• include or classify as a member of a group: the orchestra numbers Brahms among its past conductors.
+2 mark with a number or assign a number to, typically to indicate position in a series: each document was numbered consecutively. 
+• count: strategies like ours can be numbered on the fingers of one hand. 
 PHRASES
-a number of she's collected a number of ashtrays: several, various, quite a few, sundry. without number the nights I've worried about those kids is without number: countless, innumerable, unlimited, endless, limitless, untold, numberless, uncountable, uncounted; numerous, many, multiple, manifold, legion. 
-WORD LINKS
-number numerical relating to numbersWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+any number of any particular whole quantity of: the game can involve any number of players. 
+• a large and unlimited quantity or amount of: the results can be read any number of ways. by numbers following simple instructions identified or as if identified by numbers: painting by numbers. by the numbers US following standard operating procedure. 
+• all together with a shouted-out count. someone's/something's days are numbered someone or something will not survive or remain in a position of power or advantage for much longer: my days as director were numbered. do a number on North American informal treat someone badly, typically by deceiving, humiliating, or criticizing them in a calculated and thorough way. have someone's number informal understand a person's real motives or character and thereby gain some advantage. have someone's number on it informal (of a bomb, bullet, or other missile) destined to find a specified person as its target. someone's number is up informal the time has come when someone is doomed to die or suffer some other disaster or setback. [with reference to a lottery number or a number by which one may be identified.] without number too many to count: they forgot the message times without number.ORIGIN Middle English: from Old French nombre (noun), nombrer (verb), from Latin numerus . usage: The construction the number of + plural noun is used with a singular verb (as in the number of people affected remains small). Thus it is the noun number rather than the noun people that is taken to agree with the verb (and is therefore functioning as the head noun). By contrast, the apparently similar construction a number of + plural noun is used with a plural verb (as in a number of people remain to be contacted). In this case, it is the noun people that acts as the head noun and with which the verb agrees. In the latter case, a number of works as if it were a single word, such as some or several. See also usage at collective noun and lot .

@@ -1,5 +1,7 @@
 liability 
-▶noun
-1 journalists' liability for defamation: accountability, responsibility, legal responsibility, answerability; blame, culpability, guilt, fault. ANTONYMS immunity.
-2 they have big liabilities: financial obligations, debts, arrears, dues. ANTONYMS asset.
-3 she was proving to be a liability: hindrance, encumbrance, burden, handicap, nuisance, inconvenience; obstacle, impediment, disadvantage, weakness, weak link, shortcoming; millstone around one's neck, albatross, Achilles heel. ANTONYMS advantage, asset.
+ˌlīəˈbilədē
+
+▶noun (plural liabilities)
+1 the state of being responsible for something, especially by law: the partners accept unlimited liability for any risks they undertake. 
+• (usually liabilities) a thing for which someone is responsible, especially a debt or financial obligation: valuing the company's liabilities and assets.
+2 [usually in singular] a person or thing whose presence or behavior is likely to cause embarrassment or put one at a disadvantage: he has become a political liability.

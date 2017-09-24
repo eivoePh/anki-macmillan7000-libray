@@ -6,8 +6,11 @@ A.  transitive verb
 ② (situate) 把…设置在 bǎ… shèzhì zài the factory is located in an industrial park 工厂建于工业园内 the film is located in Italy 影片的外景地设在意大利 
 B.  intransitive verb «mechanical part, fitment» 安装到位 ānzhuāng dàowèi 
 locate 
-▶verb
-1 help me locate this photograph: find, discover, pinpoint, detect, track down, unearth, sniff out, smoke out, search out, ferret out, uncover.
-2 a company located near Pittsburgh: situate, site, position, place, base; put, build, establish, found, station, install, settle.
-USAGE
-locate In formal English, one should avoid using locate to mean ‘find (a missing object)’: he can't seem to locate his keys. In precise usage, locate means ‘discover the exact place or position of’ or ‘fix the position of, put in place’: the doctors hope to locate the source of the bleeding; the studio should be located on a north-facing slope.Usage notes show additional guidance on finer points of English usage.
+ˈlōˌkāt lōˈkāt
+
+▶verb [with object] discover the exact place or position of: engineers were working to locate the fault. 
+• (usually be located) situate in a particular place: these popular apartments are centrally located. 
+• place within a particular context: they locate their policies in terms of wealth creation. 
+• [no object] North American establish oneself or one's business in a specified place: his marketing strategy has been to locate in small towns. DERIVATIVES locatable 
+-ˌkātəbəl, lōˈkāt- 
+adjectiveORIGIN early 16th century: from Latin locat- ‘placed,’ from the verb locare, from locus ‘place.’ The original sense was as a legal term meaning ‘rent out,’ later (late 16th century) ‘assign to a particular place,’ then ‘establish in a place.’ The sense ‘discover the exact position of’ dates from the late 19th century. usage: In formal English, one should avoid using locate to mean ‘find (a missing object)’: he can't seem to locate his keys. In precise usage, locate means ‘discover the exact place or position of’ or ‘fix the position of, put in place’: the doctors hope to locate the source of the bleeding; the studio should be located on a north-facing slope.

@@ -7,7 +7,22 @@ transitive verb
 ④ (enable) 使成为可能 shǐ chéngwéi kěnéng increased funding would allow the company to be more adventurous in its productions 投资增加将使该公司能够大胆地扩大生产 the improved rail service allows easier connections to the main line to London 铁路服务得到了改进，经由干线往伦敦更方便了 
 ⑤ (allocate) 分配 fēnpèi (set aside) 留出 liúchū you ought to allow more material for long sleeves 长袖子得预备更多的布料 to allow [somebody] a discount of £50 给某人优惠50英镑 to allow a margin for error 留出误差余地 PHRASAL VERBS allow for transitive verb[allow for something] 将…考虑在内 jiāng… kǎolǜ zài nèi ‹delay, mistake, cost›have you allowed for shrinkage? 你考虑到缩水了吗？ allow of transitive verb[allow of something] formal 容许…的发生 róngxǔ… de fāshēng 
 allow 
-▶verb
-1 we don't allow open fires at this campground: permit, let, authorize, give permission for, give authorization for, sanction, license, enable, entitle; consent to, assent to, give one's consent to/for, give one's assent to/for, give one's blessing to/for, give the nod to, acquiesce to, agree to, approve; tolerate, brook; informal give the go-ahead to/for, give the thumbs up to/for, OK, give the OK to/for, give the green light to/for; formal accede to. ANTONYMS prevent, forbid.
-2 allow an hour or so for driving: set aside, allocate, allot, earmark, designate, assign, leave.
-3 she allowed that all people had their funny little ways: admit, acknowledge, recognize, agree, accept, concede, grant. ANTONYMS deny.
+əˈlou
+
+▶verb [with object]
+1 
+• [with object and infinitive] give (someone) permission to do something: the dissident was allowed to leave the country. 
+• [with two objects] permit (someone) to have (something): he was allowed his first sip of Scotch and soda. 
+• permit (someone) to enter a place or go in a particular direction: the river was patrolled and few people were allowed across. 
+• admit (an event or activity) as legal or acceptable: a plan to allow Sunday shopping 
+a reservoir with no hunting or overnight camping allowed.
+2 give the necessary time or opportunity for: they agreed to a ceasefire to allow talks with the government 
+[with object and infinitive] : he stopped for a moment to allow his eyes to adjust 
+[no object] dated : my household duties were too many to allow of a visit to the hospital. 
+• [no object] (allow for) make provision or provide scope for (something): the house was demolished to allow for road widening. 
+• [no object] (allow for) take (something) into consideration when making plans or calculations: income rose by
+11 percent allowing for inflation. 
+• provide or set aside (a specified amount of something) for a specific purpose: allow an hour or so for driving.
+3 [reporting verb] admit the truth of; concede: [with clause] : he allowed that the penalty appeared too harsh for the crime 
+[with direct speech] : “Could happen,” she allowed indifferently. 
+• [with clause] North American informal or dialect assert; be of the opinion: Lincoln allowed that he himself could never support the man. ORIGIN Middle English (originally in the senses ‘commend, sanction’ and ‘assign as a right’): from Old French alouer, from Latin allaudare ‘to praise,’ reinforced by medieval Latin allocare ‘to place’ (see allocate) .

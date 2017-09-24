@@ -1,21 +1,41 @@
 act 
-▶verb
-1 the government must act to remedy the situation: take action, take steps, take measures, move, react.
-2 he was acting on the orders of the party leader: follow, act in accordance with, obey, heed, comply with; fulfill, meet, discharge.
-3 a real estate agent acting for a prospective buyer: represent, act on behalf of; stand in for, fill in for, deputize for, take the place of.
-4 Alison began to act oddly: behave, conduct oneself, react; formal comport oneself.
-5 the scents act as a powerful aphrodisiac: operate, work, function, serve.
-6 the drug acted directly on the blood vessels: affect, have an effect on, work on; have an impact on, impact on, influence.
-7 he acted in a highly successful film: perform, play a part, play-act, take part, appear; informal tread the boards, ham it up.
-8 we laughed, but most of us were just acting: pretend, play-act, put it on, fake it, feign it, dissemble, dissimulate.
+akt
+
+▶verb [no object]
+1 take action; do something: they urged Washington to act 
+[with infinitive] : governments must act to reduce pollution. 
+• (act on) take action according to or in the light of: I shall certainly act on his suggestion. 
+• (act for) take action in order to bring about: one's ability to act for community change. 
+• (act for/on behalf of) represent (someone) on a contractual, legal, or paid basis: he chose an attorney to act for him. 
+• (act from/out of) be motivated by: you acted from greed.
+2 [with adverbial] behave in the way specified: they followed the man who was seen acting suspiciously 
+he acts as if he owned the place. 
+• (act as/like) behave in the manner of: try to act like civilized adults.
+3 (act as) fulfill the function or serve the purpose of: they need volunteers to act as foster parents. 
+• have the effect of: a five-year sentence will act as a deterrent.
+4 take effect; have a particular effect: bacteria act on proteins and sugar.
+5 perform a fictional role in a play, movie, or television production: she acted in her first professional role at the age of six. 
+• [with object] perform (a part or role): he acted the role of the dragon 
+he got the chance to act out other people's jobs. 
+• [with complement] behave so as to appear to be; pretend to be: I acted dumb at first. 
+• [with object] (act something out) perform a narrative as if it were a play: encouraging students to act out the stories. 
+• [with object] (act something out) Psychoanalysis express repressed or unconscious feelings in overt behavior: the impulses of hatred and killing which some human beings act out. 
 ▶noun
-1 acts of kindness 
-a criminal act: deed, action, feat, exploit, move, gesture, performance, undertaking, stunt, operation; achievement, accomplishment.
-2 the act raised the tax on tobacco: law, decree, statute, bill, act of Congress, enactment, resolution, edict, dictum, ruling, measure; ordinance.
-3 the first act of the play: division, section, subsection, part, segment.
-4 a music hall act: performance, routine, number, sketch, skit, shtick, turn.
-5 it was all just an act: pretense, show, front, facade, masquerade, charade, posture, pose, affectation, sham, fake; informal put-on.
+1 a thing done; a deed: a criminal act 
+the act of writing down one's thoughts 
+an act of heroism.
+2 [in singular] a pretense: she was putting on an act and laughing a lot. 
+• [with adjective or noun modifier] a particular type of behavior or routine: he did his Sir Galahad act.
+3 Law a written ordinance of Congress, or another legislative body; a statute: the act to abolish slavery. 
+• a document attesting a legal transaction. 
+• (often acts) dated the recorded decisions or proceedings of a committee or an academic body.
+4 a main division of a play, ballet, or opera. 
+• a set performance: her one-woman poetry act. 
+• a performing group: an act called the Apple Blossom Sisters. 
 PHRASES
-act up informal
-1 all children act up from time to time: misbehave, behave badly, be up to mischief, become unruly.
-2 the engine was acting up: malfunction, go wrong, be defective, be faulty; informal be on the blink, be on the fritz.
+act of God an instance of uncontrollable natural forces in operation (often used in insurance claims). act of grace a privilege or concession that cannot be claimed as a right. catch someone in the act (usually be caught in the act) surprise someone in the process of doing something wrong: the thieves were caught in the act. get one's act together informal organize oneself in the manner required in order to achieve something. get (or be) in on the act informal become or be involved in a particular activity, in order to gain profit or advantage. in the act of in the process of: they photographed him in the act of reading other people's mail. read someone the Riot Act see Riot Act. a tough (or hard) act to follow an achievement or performance that sets a standard regarded as being difficult for others to measure up to.PHRASAL VERBS act out misbehave, especially when unhappy or stressed: many children who act out while awaiting placement in a health care facility end up in juvenile detention. act up (of a thing) fail to function properly: the plane's engine was acting up. 
+• (of a person) misbehave.DERIVATIVES actability 
+ˌaktəˈbilitē 
+noun act ( sense
+5 of the verb) . actable adjective act ( sense
+5 of the verb) ORIGIN late Middle English: from Latin actus ‘event, thing done,’ act- ‘done,’ from the verb agere, reinforced by the French noun acte .

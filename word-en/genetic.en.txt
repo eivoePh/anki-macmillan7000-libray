@@ -1,5 +1,7 @@
 genetic 
-BrE dʒɪˈnɛtɪk, AmE dʒəˈnɛdɪk 
-adjective 
-① (relating to genes) 基因的 jīyīn de ‹defect, make-up›
-② (relating to genetics) 遗传学的 yíchuánxué de ‹research, techniques›
+jəˈnedik
+
+▶adjective
+1 relating to genes or heredity: all the cells in the body contain the same genetic information. 
+• relating to genetics: an attempt to control mosquitoes by genetic techniques.
+2 relating to origin; arising from a common origin: the genetic relations between languages. DERIVATIVES genetical adjectiveORIGIN mid 19th century ( sense 2): from genesis, on the pattern of pairs such as antithesis, antithetic.

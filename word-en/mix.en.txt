@@ -1,13 +1,29 @@
 mix 
-▶verb
-1 mix all the ingredients together: blend, mix up, mingle, combine, put together, jumble; fuse, unite, unify, join, amalgamate, incorporate, meld, marry, coalesce, homogenize, intermingle, intermix; technical admix; literary commingle. ANTONYMS separate.
-2 she mixes with all sorts: associate, socialize, fraternize, keep company, consort; mingle, circulate, rub elbows; informal hang out/around, hobnob, network.
-3 we just don't mix: be compatible, get along/on, be in harmony, see eye to eye, agree; informal hit it off, click, be on the same wavelength.
+miks
+
+▶verb [with object]
+1 combine or put together to form one substance or mass: peppercorns are sometimes mixed with other spices for a table condiment 
+these two chemicals, when mixed together, literally explode. 
+• [no object, often with negative] (of different substances) be able to be combined in this way: oil and water don't mix. 
+• make or prepare by combining various ingredients: mixing concrete is hard physical work. 
+• juxtapose or put together to form a whole whose constituent parts are still distinct: he continues to mix an offhand sense of humor with a sharp insight.
+2 [no object] (of a person) associate with others socially: the people he mixed with were nothing to do with show business.
+3 (especially in sound recording) combine (two or more signals or soundtracks) into one: up to eight tracks can be mixed simultaneously. 
+• produce (a sound signal or recording) by combining a number of separate signals or recorded soundtracks: it took two years to mix his album. 
+• produce (a piece of continuous music, typically dance music) by combining a number of separate recordings: Keith mixes great house music, featuring tunes with an African, Latin, and soulful flavor 
+[no object] : music was blaring and there was a DJ in the corner mixing and scratching.
+4 (mix it or mix it up) informal be belligerent physically or verbally. 
 ▶noun
-1 a mix of ancient and modern: mixture, blend, mingling, combination, compound, fusion, alloy, union, amalgamation; medley, mélange, collection, selection, assortment, variety, mixed bag, grab bag, miscellany, potpourri, jumble, ragbag, patchwork, bricolage, farrago, gallimaufry, salmagundi, hodgepodge.
-2 genetically, the animal is a mix: cross, cross-breed, mongrel, hybrid, half-breed, half-caste.
+1 [usually in singular] two or more different qualities, things, or people placed, combined, or considered together: the decor is a mix of antique and modern. 
+• a group of people of different types within a particular society or community: the school has a good social mix. 
+• the proportion of different people or other constituents that make up a mixture: arriving at the correct mix of full-time to part-time staff 
+pants made from a cotton and polyester mix. 
+• an animal, especially a dog, that is not purebred: we're guessing he's a Lab-shepherd mix.
+2 [often with modifier] a commercially prepared mixture of ingredients for making a particular type of food or a product such as concrete: cake mixes have made cooking easier.
+3 [often with modifier] a version of a recording in which the component tracks are mixed in a different way from the original: a dance mix version of “This Charming Man.” 
+• a continuous piece of music, typically dance music, produced by combining a number of separate recordings: a group of young women groove in a circle to a DJ mix of Missy Elliot, the Young Gunz, and Kelis. 
+• an image or sound produced by the combination of two separate images or sounds. 
 PHRASES
-mix up
-1 mix up the ingredients. See mix (sense
-1 of the verb).
-2 I mixed up the dates: confuse, get confused, muddle (up), get muddled up, mistake. mixed up in how did she get mixed up in a car-theft ring? involved in, embroiled in, caught up in.
+be (or get) mixed up in be (or become) involved in (something regarded as dubious or dishonest): Steve was mixed up in an insurance swindle. be (or get) mixed up with be (or become) associated with (someone unsuitable or unreliable). mix and match select and combine different but complementary items, such as clothing or pieces of equipment, to form a coordinated set: mix and match this season's colors for a combination that says winter 
+[as adjective] : a mix-and-match menu. mix one's drinks drink different kinds of alcohol in close succession.PHRASAL VERBS mix something up spoil the order or arrangement of a collection of things: disconnect all the cables, mix them up, then try to reconnect them. 
+• (mix someone/something up) confuse someone or something with another person or thing: I'd got her mixed up with her sister.DERIVATIVES mixable adjectiveORIGIN late Middle English: back-formation from mixed (taken as a past participle).

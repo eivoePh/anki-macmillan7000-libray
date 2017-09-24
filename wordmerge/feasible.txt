@@ -4,4 +4,9 @@ adjective
 ① (practicable) 可行的 kěxíng de ‹option, solution›
 ② colloquial (probable) 可能的 kěnéng de ‹explanation, excuse›
 feasible 
-▶adjective a feasible solution: practicable, practical, workable, achievable, attainable, realizable, viable, realistic, sensible, reasonable, within reason; suitable, possible, expedient; informal doable. ANTONYMS impractical.
+ˈfēzəb(ə)l
+
+▶adjective possible to do easily or conveniently: it is not feasible to put most finds from excavations on public display. 
+• informal likely; probable: the most feasible explanation. DERIVATIVES feasibly 
+ˈfēzəblē 
+adverbORIGIN late Middle English: from Old French faisible, from fais-, stem of faire ‘do, make,’ from Latin facere . usage: The primary meaning of feasible is 'capable of being done or effected.' There is rarely a need to use feasible to mean 'likely' or 'probable' when those words can do the job. There are cases, however, in which a careful writer finds that the sense of likelihood or probability (as with an explanation or theory) is more naturally or idiomatically expressed with feasible than with possible or probable.

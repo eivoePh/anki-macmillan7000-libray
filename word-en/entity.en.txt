@@ -1,4 +1,7 @@
 entity 
-▶noun
-1 a single entity: being, creature, individual, organism, life form; person; body, object, article, thing.
-2 the distinction between entity and nonentity: existence, being; life, living, animation; substance, essence, reality, actuality.
+ˈen(t)ədē
+
+▶noun (plural entities) a thing with distinct and independent existence: church and empire were fused in a single entity. 
+• existence; being: entity and nonentity. DERIVATIVES entitative 
+-ˌtātiv 
+adjective (chiefly Philosophy)ORIGIN late 15th century (denoting a thing's existence): from French entité or medieval Latin entitas, from late Latin ens, ent- ‘being’ (from esse ‘be’).

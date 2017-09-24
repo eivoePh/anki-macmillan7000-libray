@@ -8,9 +8,20 @@ transitive verb
 ④ (fix) 确定 quèdìng ‹date›the date assigned for the conference is
 13 March 会议定于3月13日召开 would you care to assign a date to this piece of pottery? 请您确定这件陶器的年代好吗？ 
 assign 
-▶verb
-1 a young doctor was assigned the task: allocate, allot, give, set to; charge with, entrust with.
-2 she was assigned to a new post: appoint to, promote to, delegate to, commission to, post to, co-opt to; select for, choose for, install in; Military detail to.
-3 we assign large sums of money to travel budgets: earmark for, designate for, set aside for, reserve for, appropriate for, allot to/for, allocate for, apportion for.
-4 he assigned the opinion to the prince: ascribe to, attribute to, put down to, accredit to, credit to, chalk up to, impute to; pin on, lay at the door of.
-5 he may assign the money to a third party: transfer, make over, give, pass, hand over, hand down, convey, consign.
+əˈsīn
+
+▶verb [with object]
+1 allocate (a job or duty): Congress assigned the task to the agency 
+[with two objects] : his leader assigned him this mission. 
+• appoint (someone) to a particular job, task, or organization: she has been assigned to a new job 
+[with object and infinitive] : he was assigned to prosecute the case.
+2 designate or set (something) aside for a specific purpose: managers happily assign large sums of money to travel budgets. 
+• (assign something to) attribute something as belonging to: it is difficult to decide whether to assign the victory to Goodwin.
+3 transfer (legal rights or liabilities): they will ask you to assign your rights against the airline. 
+▶noun Law another term for assignee ( sense 1). DERIVATIVES assignable 
+əˈsīnəb(ə)l 
+adjective assign ( sense
+3 of the verb) . assigner noun. assignor 
+əˈsīnər 
+noun assign ( sense
+3 of the verb) ORIGIN Middle English: from Old French asigner, assiner, from Latin assignare, from ad- ‘to’ + signare ‘to sign.’

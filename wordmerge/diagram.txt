@@ -4,4 +4,8 @@ noun
 ① (drawing) 示意图 shìyìtú 
 ② (chart) 图表 túbiǎo 
 diagram 
-▶noun Jackson's diagrams show the dramatic effects of erosion since 1948: drawing, line drawing, sketch, representation, draft, illustration, picture, plan, outline, delineation, figure; Computing graphic.
+ˈdīəˌɡram
+
+▶noun (abbreviation diag.) a simplified drawing showing the appearance, structure, or workings of something; a schematic representation: a diagram of the living room. 
+• Geometry a figure composed of lines that is used to illustrate a definition or statement or to aid in the proof of a proposition. 
+▶verb (diagrams, diagraming, diagramed; also diagramming, diagrammed) [with object] represent (something) in graphic form: the experiment is diagramed on page fourteen. ORIGIN early 17th century: from Latin diagramma, from Greek, from diagraphein ‘mark out by lines,’ from dia ‘through’ + graphein ‘write.’

@@ -1,5 +1,10 @@
 bankrupt 
+ˈbaNGkˌrəpt
+
 ▶adjective
-1 the company was declared bankrupt: insolvent, failed, ruined, in debt, owing money, in the red, in arrears, overleveraged, in receivership; informal bust, belly up, broke, cash-strapped, flat broke. ANTONYMS solvent, in the black.
-2 this government is bankrupt of ideas: bereft of, devoid of, empty of, destitute of; completely lacking in, without, in need of, wanting. ANTONYMS teeming with.
-▶verb the strike nearly bankrupted the union: ruin, impoverish, reduce to penury/destitution, bring to ruin, bring someone to their knees, wipe out, break; rare beggar, pauperize.
+1 (of a person or organization) declared in law unable to pay outstanding debts: the company was declared bankrupt 
+his father went bankrupt and the family had to sell their home. 
+• impoverished or depleted: a bankrupt country with no natural resources.
+2 completely lacking in a particular quality or value: their cause is morally bankrupt. 
+▶noun a person judged by a court to be insolvent, whose property is taken and disposed of for the benefit of creditors. 
+▶verb [with object] reduce (a person or organization) to bankruptcy: the strike nearly bankrupted the union. ORIGIN mid 16th century: from Italian banca rotta ‘broken bench,’ from banca (see bank2) and rompere ‘to break.’ The change in the ending was due to association with Latin rupt- ‘broken.’

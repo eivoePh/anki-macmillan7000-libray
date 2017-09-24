@@ -2,5 +2,6 @@ tonne
 BrE tʌn, AmE tən 
 noun = metric ton 
 tonne 
-BrE tʌn, AmE tən 
-noun = metric ton 
+tən
+
+▶noun another term for metric ton. ORIGIN late 19th century: from French; compare with ton1 .

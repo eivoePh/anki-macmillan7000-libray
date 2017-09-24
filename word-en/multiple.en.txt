@@ -1,2 +1,11 @@
 multiple 
-▶adjective words with multiple meanings: numerous, many, various, different, diverse, several, manifold, multifarious, multitudinous; literary myriad, divers. ANTONYMS single.
+ˈməltəpəl
+
+▶adjective having or involving several parts, elements, or members: multiple occupancy 
+a multiple birth. 
+• numerous and often varied: words with multiple meanings. 
+• (of a disease, injury, or disability) complex in its nature or effects, or affecting several parts of the body: a multiple fracture of the femur. 
+• of or designating an electrical circuit that has several points at which connection can occur. 
+▶noun
+1 a number that can be divided by another number without a remainder: 15, 20, or any other multiple of five.
+2 an arrangement of terminals that allows connection with an electrical circuit at any one of several points. ORIGIN mid 17th century: from French, from late Latin multiplus, alteration of Latin multiplex (see multiplex) .

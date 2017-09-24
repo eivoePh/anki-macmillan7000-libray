@@ -5,7 +5,11 @@ adjective
 ② (very sad) 悲伤的 bēishāng de ‹face, look›; 令人悲痛的 lìng rén bēitòng de ‹story, sight›
 ③ Theatre, Literature 悲剧性的 bēijùxìng de a tragic hero/scene/ending/irony/flaw 悲剧性的主人公/场景/结局/讽刺/缺点 tragic actor/actress 男/女悲剧演员 
 tragic 
+ˈtrajik
+
 ▶adjective
-1 a tragic accident: disastrous, calamitous, catastrophic, cataclysmic, devastating, terrible, dreadful, awful, appalling, dismal, horrendous; fatal, deadly, mortal, lethal. ANTONYMS fortunate, lucky.
-2 a tragic tale: sad, unhappy, pathetic, moving, distressing, depressing, painful, harrowing, heart-rending, piteous, wretched, sorry; melancholy, doleful, mournful, miserable, gut-wrenching. ANTONYMS joyful, happy.
-3 a tragic waste of talent: regrettable, shameful, terrible, horrible, awful, deplorable, lamentable, piteous, dreadful, grievous.
+1 causing or characterized by extreme distress or sorrow: the shooting was a tragic accident. 
+• suffering extreme distress or sorrow: the tragic parents reached the end of their tether. 
+• informal very bad or inadeqate: on the other hand, I like degenerate, tragic food 
+she wears tragic cardigans, usually done up the wrong way.
+2 relating to tragedy in a literary work. DERIVATIVES tragical adjectiveORIGIN mid 16th century: from French tragique, via Latin from Greek tragikos, from tragos ‘goat,’ but associated with tragōidia (see tragedy) .

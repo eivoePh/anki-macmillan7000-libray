@@ -1,5 +1,9 @@
 coincidence 
+kōˈinsədəns
+
 ▶noun
-1 too close to be mere coincidence: accident, chance, serendipity, fortuity, providence, happenstance, fate; a fluke.
-2 the coincidence of inflation and unemployment: co-occurrence, coexistence, conjunction, simultaneity, contemporaneity, concomitance.
-3 a coincidence of interests: correspondence, agreement, accord, concurrence, consistency, conformity, harmony, compatibility.
+1 a remarkable concurrence of events or circumstances without apparent causal connection: it's no coincidence that this new burst of innovation has occurred in the free nations 
+they met by coincidence.
+2 correspondence in nature or in time of occurrence: the coincidence of interest between the mining companies and certain politicians.
+3 Physics the presence of ionizing particles or other objects in two or more detectors simultaneously, or of two or more signals simultaneously in a circuit. ORIGIN early 17th century (in the sense ‘occupation of the same space’): from medieval Latin coincidentia, from coincidere ‘coincide, agree’ (see coincide). Sense
+3 dates from the 1930s.

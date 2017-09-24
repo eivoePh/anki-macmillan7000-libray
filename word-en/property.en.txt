@@ -1,5 +1,11 @@
 property 
-▶noun
-1 lost property: possessions, belongings, things, effects, stuff, gear, chattels, movables; resources, assets, valuables, fortune, capital, riches, wealth; Law personalty, goods and chattels.
-2 private property: building(s), premises, house(s), land, estates, realty, real estate.
-3 healing properties: quality, attribute, characteristic, feature, power, trait, mark, hallmark.
+ˈpräpərdē
+
+▶noun (plural properties)
+1 a thing or things belonging to someone; possessions collectively: she wanted Oliver and his property out of her house 
+the stolen property was not recovered. 
+• a building or buildings and the land belonging to it or them: he's expanding now, buying property 
+the renovation of commercial properties. 
+• Law the right to the possession, use, or disposal of something; ownership: rights of property. 
+• old-fashioned term for prop2.
+2 an attribute, quality, or characteristic of something: the property of heat to expand metal at uniform rates. ORIGIN Middle English: from an Anglo-Norman French variant of Old French propriete, from Latin proprietas, from proprius ‘one's own, particular’ (see proper) .

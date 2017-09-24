@@ -2,5 +2,10 @@ wasp
 BrE wɒsp, AmE wɑsp 
 noun 黄蜂 huángfēng 
 wasp 
-BrE wɒsp, AmE wɑsp 
-noun 黄蜂 huángfēng 
+wäsp
+
+▶noun
+1 a social winged insect that has a narrow waist and a sting. It constructs a paper nest from wood pulp and raises the larvae on a diet of insects. [Family Vespidae, superfamily Vespoidea, order Hymenoptera: several genera, in particular Vespula and Polistes.]
+2 a solitary winged insect with a narrow waist, mostly distantly related to the social wasps and including many parasitic kinds. [Several superfamilies in the sections Aculeata (digger, mason, and potter wasps) and Parasitica (parasitic wasps and gall wasps), order Hymenoptera.] DERIVATIVES wasplike 
+-ˌlīk 
+adjectiveORIGIN Old English wæfs, wæps, wæsp, from an Indo-European root shared by Latin vespa; perhaps related to weave1 (from the weblike form of its nest).

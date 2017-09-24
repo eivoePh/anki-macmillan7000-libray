@@ -2,4 +2,7 @@ income
 BrE ˈɪnkʌm, AmE ˈɪnˌkəm 
 nounCountable and uncountable收入 shōurù a (profitable) source of income （赚钱的）收入来源 to live within one's income 量入为出 to live beyond one's income 入不敷出 low-/high-/middle-income households 低/高/中等收入家庭 loss of income 收入损失 to be on an income of £20,000 per year 年薪2万英镑 
 income 
-▶noun annual income of $50,000: earnings, salary, pay, remuneration, wages, stipend; revenue, receipts, takings, profits, gains, proceeds, turnover, yield, dividend, means, take; formal emolument. ANTONYMS expenditure.
+ˈinˌkəm
+
+▶noun money received, especially on a regular basis, for work or through investments: he has a nice home and an adequate income 
+figures showed an overall increase in income this year. ORIGIN Middle English (in the sense ‘entrance, arrival,’ now only Scots): in early use from Old Norse innkoma, later from in + come. The current sense dates from the late 16th century.

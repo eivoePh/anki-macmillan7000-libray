@@ -4,7 +4,10 @@ nounUncountable
 ① (action) 协调 xiétiáo in coordination 协调地 
 ② (physical) 协调性 xiétiáoxìng 
 coordination 
-BrE kəʊˌɔːdɪˈneɪʃ(ə)n, AmE koʊˌɔrdnˈeɪʃ(ə)n 
-nounUncountable
-① (action) 协调 xiétiáo in coordination 协调地 
-② (physical) 协调性 xiétiáoxìng 
+kōˌôrdnˈāSH(ə)n
+
+▶noun
+1 the organization of the different elements of a complex body or activity so as to enable them to work together effectively: both countries agreed to intensify efforts at economic policy coordination. 
+• cooperative effort resulting in an effective relationship: action groups work in coordination with local groups to end rainforest destruction.
+2 the ability to use different parts of the body together smoothly and efficiently: changing from one foot position to another requires coordination and balance.
+3 Chemistry the linking of atoms by coordinate bonds. ORIGIN mid 17th century (in the sense ‘placing in the same rank’): from French or from late Latin coordinatio(n-), based on Latin ordo, ordin- ‘order.’

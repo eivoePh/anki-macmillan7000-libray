@@ -1,4 +1,5 @@
 authorize 
-▶verb
-1 they authorized further action: sanction, permit, allow, approve, consent to, assent to; ratify, endorse, validate; informal give the green light to, give the go-ahead to, OK, give the thumbs up to. ANTONYMS forbid.
-2 the troops were authorized to fire: empower, mandate, commission; entitle.
+ˈôTHəˌrīz
+
+▶verb [with object] give official permission for or approval to (an undertaking or agent): the government authorized further aircraft production 
+[with object and infinitive] : the troops were authorized to use force. ORIGIN late Middle English: from Old French autoriser, from medieval Latin auctorizare, from auctor ‘originator, promoter’ (see author) .

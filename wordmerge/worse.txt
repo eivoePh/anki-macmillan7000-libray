@@ -16,24 +16,22 @@ B.  adverb(comparative form of badly)
 C.  noun 
 ① Countablethe worse (less desirable one) 较差者 jiàochàzhě the worse of the two novels 两本小说中较差的一本 
 ② Uncountable and countable(less desirable state) 更糟的情况 gèng zāo de qíngkuàng there is worse to come 更糟的还在后头 prison or worse 牢狱或者更糟的地方 a change or turn for the worse 变为更差的情况 to change for the worse «situation» 恶化 «weather» 变更恶劣 biàn gēng èliè 
-bad 
+worse 
+wərs
+
 ▶adjective
-1 bad workmanship: substandard, poor, inferior, second-rate, second-class, unsatisfactory, inadequate, unacceptable, not up to scratch, not up to par, deficient, imperfect, defective, faulty, shoddy, amateurish, careless, negligent, miserable, sorry; incompetent, inept, inexpert, ineffectual; awful, atrocious, appalling, execrable, deplorable, terrible, abysmal; informal crummy, rotten, godawful, pathetic, useless, woeful, bum, lousy, not up to snuff. ANTONYMS good, excellent, skilled.
-2 the alcohol had a really bad effect on me: harmful, damaging, detrimental, injurious, hurtful, inimical, destructive, ruinous, deleterious; unhealthy, unwholesome. ANTONYMS good, beneficial.
-3 the bad guys: wicked, evil, sinful, immoral, morally wrong, corrupt, base, black-hearted, reprobate, amoral; criminal, villainous, nefarious, iniquitous, dishonest, dishonorable, unscrupulous, unprincipled; informal crooked, dirty; dated dastardly. ANTONYMS virtuous.
-4 you bad girl! badly behaved, naughty, ill-behaved, disobedient, wayward, willful, self-willed, defiant, unruly, insubordinate, undisciplined. ANTONYMS well behaved.
-5 bad news: unpleasant, disagreeable, unwelcome; unfortunate, unlucky, unfavorable; terrible, dreadful, awful, grim, distressing. ANTONYMS good.
-6 a bad time to arrive: inauspicious, unfavorable, inopportune, unpropitious, unfortunate, disadvantageous, adverse, inappropriate, unsuitable, untoward. ANTONYMS good, auspicious.
-7 a bad accident: severe, serious, grave, critical, acute; formal grievous. ANTONYMS minor, slight.
-8 the meat's bad: rotten, decayed, decomposed, decomposing, putrid, putrefied, off, moldy; sour, spoiled, rancid, rank, unfit for human consumption; (of an egg) addled; (of beer) skunky. ANTONYMS fresh.
-9 if you still feel bad, stay in bed. See ill (sense
-1 of the adjective).
-10 a bad knee: injured, wounded, diseased; dated game.
-11 I felt bad about leaving them: guilty, conscience-stricken, remorseful, guilt-ridden, ashamed, contrite, sorry, full of regret, regretful, shamefaced. ANTONYMS unrepentant.
-12 a bad check: invalid, worthless; counterfeit, fake, false, bogus, fraudulent; informal phony, dud. ANTONYMS valid.
-13 bad language: offensive, vulgar, crude, foul, obscene, rude, coarse, smutty, dirty, filthy, indecent, indecorous; blasphemous, profane.
+1 comparative of bad, ill.
+2 of poorer quality or a lower standard; less good or desirable: the accommodations were awful, and the food was worse. 
+• more serious or severe: the movement made the pain worse. 
+• more reprehensible or evil: it is worse to intend harm than to be indifferent. 
+• [predicative or as complement] in a less satisfactory or pleasant condition; more ill or unhappy: he felt worse, and groped his way back to bed. 
+▶adverb
+1 comparative of badly, ill.
+2 less well or skillfully: the more famous I became the worse I painted. 
+• more seriously or severely: the others had been drunk too, worse than herself. 
+▶noun a more serious or unpleasant event or circumstance: the small department was already stretched to the limit, but worse was to follow. 
+• (the worse) a less good, favorable, or pleasant condition: the weather changed for the worse. 
 PHRASES
-not bad hey, this curried octopus is not bad 
-the movie's not bad, but the book's much better: all right, adequate, good enough, pretty good, reasonable, fair, decent, average, tolerable, acceptable, passable, middling, moderate, fine; informal OK, so-so, 'comme ci, comme ça', fair-to-middling, satisfactory. 
-USAGE
-bad Confusion in the use of bad versus badly usually has to do with verbs called copulas, such as feel or seem. Thus, standard usage calls for I feel bad, not I feel badly. As a precise speaker or writer would explain, I feel badly means ‘I do not have a good sense of touch.’.Usage notes show additional guidance on finer points of English usage.
+none the worse for not adversely affected by: we were none the worse for our terrible experience. or worse used to suggest a possibility that is still more serious or unpleasant than one already considered, but that the speaker does not wish or need to specify: the child might be born blind or worse. so much the worse for —— used to suggest that a problem, failure, or other unfortunate event or situation is the fault of the person specified and that the speaker does not feel any great concern about it: if his subjects were unwilling to accept the progress her offered, so much the worse for them. the worse for wear informal
+1 damaged by use or weather over time; battered and shabby.
+2 (of a person) feeling rather unwell, especially as a result of drinking too much alcohol. worse luck see luck. worse off in a less advantageous position; less fortunate or prosperous.ORIGIN Old English wyrsa, wiersa (adjective), wiers (adverb), of Germanic origin; related to war .

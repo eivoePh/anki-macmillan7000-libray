@@ -1,17 +1,45 @@
 black 
+blak
+
 ▶adjective
-1 a black horse: dark, pitch-black, jet-black, coal-black, ebony, sable, inky. ANTONYMS white.
-2 a black night: unlit, dark, starless, moonless, wan; literary tenebrous, Stygian. ANTONYMS clear, bright.
-3 thirty-seven percent of the school's students are black
-4 the blackest day of the war: tragic, disastrous, calamitous, catastrophic, cataclysmic, fateful, wretched, woeful, awful, terrible; formal grievous. ANTONYMS joyful.
-5 Mary was in a black mood: miserable, unhappy, sad, wretched, broken-hearted, heartbroken, grief-stricken, grieving, sorrowful, sorrowing, anguished, desolate, despairing, disconsolate, downcast, dejected, sullen, cheerless, melancholy, morose, gloomy, glum, mournful, doleful, funereal, dismal, forlorn, woeful, abject; informal blue; literary dolorous. ANTONYMS cheerful.
-6 black humor: cynical, macabre, weird, unhealthy, ghoulish, morbid, perverted, gruesome; informal sick.
-7 a black look: angry, vexed, cross, irritated, incensed. See also angry (sense 1). ANTONYMS pleased.
-8 archaic a black deed: wicked, evil, heinous, villainous, bad. See also wicked (sense 1). ANTONYMS virtuous.
+1 of the very darkest color owing to the absence of or complete absorption of light; the opposite of white: black smoke 
+her hair was black. 
+• (of the sky or night) completely dark owing to nonvisibility of the sun, moon, or stars: the sky was moonless and black. 
+• deeply stained with dirt: his clothes were absolutely black. 
+• (of a plant or animal) dark in color as distinguished from a lighter variety: Japanese black pine. 
+• (of coffee or tea) served without milk or cream. 
+• of or denoting the suits spades and clubs in a deck of cards. 
+• (of a ski run) of the highest level of difficulty, as indicated by black markers positioned along it.
+2 (also Black) of any human group having dark-colored skin, especially of African or Australian Aboriginal ancestry: black adolescents of Jamaican descent. 
+• relating to black people: black culture.
+3 (of a period of time or situation) characterized by tragic or disastrous events; causing despair or pessimism: five thousand men were killed on the blackest day of the war 
+the future looks black for those of us interested in freedom. 
+• (of a person's state of mind) full of gloom or misery; very depressed: Jean had disappeared and Mary was in a black mood. 
+• (of humor) presenting tragic or harrowing situations in comic terms: “Good place to bury the bodies,” she joked with black humor. 
+• full of anger or hatred: Roger shot her a black look. 
+• archaic very evil or wicked: my soul is steeped in the blackest sin. 
+▶noun
+1 black color or pigment: a tray decorated in black and green 
+a series of paintings done only in grays and blacks. 
+• black clothes or material, often worn as a sign of mourning: dressed in the black of widowhood. 
+• darkness, especially of night or an overcast sky: the only thing visible in the black was the light of the lantern. 
+• (often Black) the player of the black pieces in chess or checkers. 
+• a black thing, especially a ball or piece in a game.
+2 (also Black) a member of a dark-skinned people, especially one of African or Australian Aboriginal ancestry: a coalition of blacks and whites against violence.
+3 (the black) the situation of not owing money to a bank or of making a profit in a business operation: the company just managed to stay in the black 
+I managed to break even in the first six months—quite a short time for a small business to get into the black. [from the conventional use of black ink to indicate credit items.] 
+▶verb [with object] make black, especially by the application of black polish: blacking the prize bull's hooves. 
+• make (one's face, hands, and other visible parts of one's body) black with polish or makeup, so as not to be seen at night or, especially formerly, to play the role of a black person in a musical show, play, or movie: white extras blacking up their faces to play Ethiopians. 
 PHRASES
-black out he blacked out from the pain: faint, lose consciousness, pass out, swoon; informal go out. black something out we blacked out our homes during the war: darken, shade, turn off the lights in; keep the light out of. in the black our business is finally in the black: solvent, debt-free, out of debt, in credit, financially sound, able to pay one's debts, creditworthy. black and white
-1 a black-and-white picture: monochrome, gray-scale.
-2 I wish to see the proposals in black and white: in print, printed, written down, set down, on paper, recorded, on record, documented.
-3 in black-and-white terms: categorical, unequivocal, absolute, uncompromising, unconditional, unqualified, unambiguous, clear, clear-cut. 
-USAGE
-black Black, designating Americans of African heritage, became the most widely used and accepted term in the 1960s and 1970s, replacing Negro. It is not usually capitalized: black Americans, or blacks in Congress, for example. Through the 1980s, the more formal African American replaced black in much usage, but both are now generally acceptable. Afro-American, first recorded in the 19th century and popular in the 1960s and 1970s, is now heard mostly in anthropological and cultural contexts. Colored people, common in the early part of the 20th century, is now usually regarded as offensive, although the phrase survives in the full name of the NAACP, the National Association for the Advancement of Colored People. An inversion, people of color, has gained some favor, but is also used in reference to other nonwhite ethnic groups: a gathering spot for African Americans and other people of color interested in reading about their cultures.Usage notes show additional guidance on finer points of English usage.
+black someone's eye hit someone in the eye so as to cause bruising. look on the black side informal view a situation pessimistically. men in black 
+ˌmen in ˈblak 
+informal anonymous dark-clothed men who supposedly visit people who have reported an encounter with a UFO or an alien in order to prevent their publicizing it. the new black a color that is currently so popular that it rivals the traditional status of black as the most reliably fashionable color: brown is the new black this season. 
+• something that is suddenly extremely popular or fashionable: retro sci-fi is the new black. not as black as one is painted informal not as bad as one is said to be.PHRASAL VERBS black out (of a person) undergo a sudden and temporary loss of consciousness: they knocked me around and I blacked out. black something out
+1 (usually be blacked out) extinguish all lights or completely cover windows, especially for protection against an air attack or in order to provide darkness in which to show a movie: the bombers began to come nightly and the city was blacked out. 
+• subject a place to an electricity failure: Chicago was blacked out yesterday after a freak flood.
+2 obscure something completely so that it cannot be read or seen: the license plate had been blacked out with masking tape. 
+• (of a television company) suppress the broadcast of a program: they blacked out the women's finals on local television.DERIVATIVES blackish 
+ˈblakiSH 
+adjective. blackly 
+ˈblaklē 
+adverbORIGIN Old English blæc, of Germanic origin. usage: Black, designating Americans of African heritage, became the most widely used and accepted term in the 1960s and 1970s, replacing Negro. It is not usually capitalized: black Americans. Through the 1980s, the more formal African American replaced black in much usage, but both are now generally acceptable. Afro-American, first recorded in the 19th century and popular in the 1960s and 1970s, is now heard mostly in anthropological and cultural contexts. Colored people, common in the early part of the 20th century, is now usually regarded as offensive, although the phrase survives in the full name of the NAACP, the National Association for the Advancement of Colored People. An inversion, people of color, has gained some favor, but is also used in reference to other nonwhite ethnic groups: a gathering spot for African Americans and other people of color interested in reading about their cultures. See also usage at colored and person of color .

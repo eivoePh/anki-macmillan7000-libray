@@ -1,7 +1,17 @@
 default 
+dəˈfôlt
+
 ▶noun
-1 the incidence of defaults on loans: nonpayment, failure to pay, bad debt.
-2 Browne lost the case by default: inaction, omission, lapse, neglect, negligence, disregard; failure to appear, absence, nonappearance.
-▶verb
-1 the customer defaulted: fail to pay, not pay, renege, back out; go back on one's word; informal welsh, bilk.
-2 the program will default to its own style: revert, select automatically.
+1 failure to fulfill an obligation, especially to repay a loan or appear in a court of law: it will have to restructure its debts to avoid default 
+the deteriorating economy pushed defaults to almost $20 billion.
+2 a preselected option adopted by a computer program or other mechanism when no alternative is specified by the user or programmer: the default is fifty lines 
+[as modifier] : default settings. 
+• [usually as modifier] something that is usual or standard: all my life, envy has been my default emotion 
+SSRIs have become the default for adults with depression. 
+▶verb [no object]
+1 fail to fulfill an obligation, especially to repay a loan or to appear in a court of law: some had defaulted on student loans. 
+• [with object] declare (a party) in default and give judgment against that party: the possibility that cases would be defaulted and defendants released.
+2 (default to) (of a computer program or other mechanism) revert automatically to (a preselected option): when you start a fresh letter, the system will default to its own style. 
+PHRASES
+by default because of a lack of opposition: they won the last election by default. 
+• through lack of positive action rather than conscious choice: legislation dies by default if the governor fails to act on it. in default guilty of failing to repay a loan or appear in a court of law: the company is already in default on its loans. in default of in the absence of: in default of agreement, the rent was to be determined by a surveyor.ORIGIN Middle English: from Old French defaut, from defaillir ‘to fail,’ based on Latin fallere ‘disappoint, deceive.’

@@ -1,10 +1,16 @@
 hedge 
-▶noun
-1 high hedges: hedgerow, bushes; windbreak.
-2 an excellent hedge against a fall in the dollar: safeguard, protection, shield, screen, guard, buffer, cushion; insurance, security.
-3 his analysis is full of hedges: equivocation, evasion, fudge, quibble, qualification; temporizing, uncertainty, prevarication, vagueness.
-▶verb
-1 fields hedged with forsythia: surround, enclose, encircle, ring, border, edge, bound.
-2 she was hedged in by her limited education: confine, restrict, limit, hinder, obstruct, impede, constrain, trap; hem in.
-3 he hedged at every new question: prevaricate, equivocate, vacillate, quibble, hesitate, stall, dodge the issue, be noncommittal, be evasive, be vague, beat around the bush, pussyfoot around, mince one's words; hem and haw; informal sit on the fence, duck the question.
-4 the company hedged its position on the market: safeguard, protect, shield, guard, cushion; cover, insure.
+hej
+
+▶noun a fence or boundary formed by closely growing bushes or shrubs: she was standing barefoot in a corner of the lawn, trimming the hedge. 
+• a contract entered into or asset held as a protection against possible financial loss: inflation hedges such as real estate and gold. 
+• a word or phrase used to allow for additional possibilities or to avoid commitment, for example, etc., often, usually, or sometimes. 
+▶verb [with object]
+1 surround or bound with a hedge: a garden hedged with yews. 
+• (hedge something in) enclose.
+2 limit or qualify (something) by conditions or exceptions: experts usually hedge their predictions, just in case. 
+• [no object] avoid making a definite decision, statement, or commitment: she hedged around the one question she wanted to ask.
+3 protect oneself against loss on (a bet or investment) by making balancing or compensating transactions: the company hedged its investment position on the futures market. 
+PHRASES
+hedge one's bets avoid committing oneself when faced with a difficult choice.DERIVATIVES hedger 
+ˈhejər 
+nounORIGIN Old English hegg, of Germanic origin; related to Dutch heg and German Hecke .

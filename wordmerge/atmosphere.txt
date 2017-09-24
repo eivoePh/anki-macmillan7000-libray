@@ -5,8 +5,12 @@ noun
 ② (air) 空气 kōngqì 
 ③ (mood) 气氛 qìfēn the film is full of atmosphere 这部电影很有感染力 there was a bit of an atmosphere colloquial 气氛有些紧张 
 atmosphere 
-▶noun
-1 the gases present in the atmosphere: air, aerospace; sky; literary heavens, firmament, blue, azure, ether.
-2 the hotel has a relaxed atmosphere: ambience, air, mood, feel, feeling, character, tone, tenor, aura, quality, undercurrent, flavor; informal vibe.
-WORD LINKS
-atmosphere meteorology the study of atmospheric processes and conditionsWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+ˈatməsˌfir
+
+▶noun [usually in singular]
+1 the envelope of gases surrounding the earth or another planet: part of the sun's energy is absorbed by the earth's atmosphere. 
+• the air in any particular place: we couldn't breathe in the dusty atmosphere of his apartment. 
+• (abbreviation atm) Physics a unit of pressure equal to mean atmospheric pressure at sea level, 101,325 pascals.
+2 the pervading tone or mood of a place, situation, or work of art: the hotel is famous for its friendly, welcoming atmosphere 
+this crisis further compounded the prevailing atmosphere of gloom. 
+• a pleasurable and interesting or exciting mood: a superb restaurant, full of atmosphere. ORIGIN mid 17th century: from modern Latin atmosphaera, from Greek atmos ‘vapor’ + sphaira ‘ball, globe.’

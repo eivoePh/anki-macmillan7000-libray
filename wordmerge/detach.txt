@@ -4,8 +4,12 @@ BrE dɪˈtatʃ, AmE dəˈtætʃ
 A.  transitive verb 使…分开 shǐ… fēnkāi ‹person, object›to detach [something] from [something]; 把某物从某物分开 to detach four soldiers for guard duty Military 派遣4个士兵去站岗 
 B.  reflexive verb to detach oneself 挣脱 zhèngtuō she detached herself from her friends 她抽身离开朋友 tā chōushēn líkāi péngyou 
 detach 
-▶verb he detached the lamp from its bracket: unfasten, disconnect, disengage, separate, uncouple, remove, loose, unhitch, unhook, free, pull off, cut off, break off. ANTONYMS attach. 
-PHRASES
-detach oneself from
-1 she detached herself from the crowd: free oneself from, separate oneself from, segregate oneself from; move away from, split off from; leave, abandon.
-2 he has detached himself from his family: dissociate oneself from, divorce oneself from, alienate oneself from, separate (oneself) from, segregate oneself from, isolate oneself from, cut oneself off from; break away from, disaffiliate oneself from, defect from; leave, quit, withdraw from, break with.
+dəˈtaCH
+
+▶verb [with object]
+1 disengage (something or part of something) and remove it: he detached the front lamp from its bracket 
+figurative : federal strings need to be detached to restore parental authority. 
+• [no object] be easily removable: the screen detaches from the keyboard. 
+• (detach oneself from) leave or separate oneself from (a group or place): a figure in brown detached itself from the shadows. 
+• (detach oneself from) avoid or put an end to any connection or association with: the newspaper detached itself from the political parties.
+2 (usually be detached) Military send (a group of soldiers or ships) on a separate mission: our crew was detached to Puerto Rico for the exercise. ORIGIN late 16th century (in the sense ‘discharge a gun’): from French détacher, earlier destacher, from des- (expressing reversal) + attacher ‘attach.’

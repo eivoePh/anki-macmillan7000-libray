@@ -1,9 +1,27 @@
-bridge 
+bridge
+1 
+brij
+
 ▶noun
-1 a bridge over the river: viaduct, overpass, fixed link, aqueduct.
-2 a bridge between rival groups: link, connection, bond, tie.
-▶verb
-1 a walkway bridged the highway: span, cross (over), extend across, traverse, arch over.
-2 an attempt to bridge the gap between cultures: join, link, connect, unite; straddle; overcome, reconcile.
-WORD LINKS
-bridge pontine relating to bridgesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 a structure carrying a road, path, railroad, or canal across a river, ravine, road, railroad, or other obstacle: bridge1 a bridge across the river 
+a railroad bridge. 
+• something that is intended to reconcile or form a connection between two things: a committee that was formed to create a bridge between rival parties. 
+• a partial denture supported by natural teeth on either side. See also bridgework. 
+• the support formed by the hand for the forward part of a billiard cue. 
+• a long stick with a frame at the end that is used to support a cue for a shot that is otherwise hard to reach. 
+• Music an upright piece of wood on a string instrument over which the strings are stretched. 
+• Music a bridge passage or middle eight. 
+• short for land bridge.
+2 the elevated, enclosed platform on a ship from which the captain and officers direct operations.
+3 the upper bony part of a person's nose: he pushed his spectacles further up the bridge of his nose. 
+• the central part of a pair of glasses, fitting over this: these sunglasses have a special nose bridge for comfort.
+4 an electric circuit with two branches across which a detector or load is connected. These circuits are used to measure resistance or other property by equalizing the potential across the two ends of a detector, or to rectify an alternating voltage or current. 
+▶verb [with object] be a bridge over (something): a covered walkway that bridged the gardens. 
+• build a bridge over (something): earlier attempts to bridge the channel had failed. 
+• make (a difference between two groups) smaller or less significant: bridging the gap between avant garde art and popular culture. 
+PHRASES
+a bridge too far a step or act that is regarded as being too drastic to take: having Botox would be a bridge too far. 
+• something that is very difficult to achieve: that second goal proved a bridge too far. burn one's bridges see burn1. cross that bridge when one comes to it deal with a problem when and if it arises. I have a bridge to sell you US used to indicate that a particular statement or claim could only be believed by someone who is very gullible: if you think that he will make things better, then I have a bridge to sell you. [1940s: with reference to the practices of con artists in the late 19th and early 20th centuries, especially George 
+C.  Parker (1870–1936), who pretended to own the Brooklyn Bridge in order to trick people into buying it.]DERIVATIVES bridgeable 
+ˈbrijəb(ə)l 
+adjectiveORIGIN Old English brycg (noun), of Germanic origin; related to Dutch brug and German Brücke .

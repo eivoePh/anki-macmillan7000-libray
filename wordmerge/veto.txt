@@ -6,5 +6,10 @@ A.  noun(plural vetoes)
 ② Countable(ban) 禁止 jìnzhǐ a veto on [something]; 对某事的禁止 
 B.  transitive verb(present tense vetoes; past tense, past participle vetoed) 否决 fǒujué ‹bill, idea›
 veto 
-▶noun the president's right of veto: rejection, dismissal; prohibition, proscription, embargo, ban, interdict, check; informal thumbs down, red light. ANTONYMS approval.
-▶verb other countries vetoed the proposal: reject, turn down, throw out, dismiss; prohibit, forbid, interdict, proscribe, disallow, embargo, ban, rule out, say no to; informal kill, put the kibosh on, give the thumbs down to, give the red light to. ANTONYMS approve.
+ˈvēdō
+
+▶noun (plural vetoes) a constitutional right to reject a decision or proposal made by a law-making body: the legislature would have a veto over appointments to key posts. 
+• a rejection of a law. 
+• a prohibition: his veto on our drinking after the meal was annoying. 
+▶verb (vetoes, vetoing, vetoed) [with object] exercise a veto against (a decision or proposal made by a law-making body): the president vetoed the bill. 
+• refuse to accept or allow: the film star often has a right to veto the pictures used for publicity. DERIVATIVES vetoer nounORIGIN early 17th century: from Latin, literally ‘I forbid,’ used by Roman tribunes of the people when opposing measures of the Senate.

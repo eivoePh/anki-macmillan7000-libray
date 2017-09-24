@@ -1,5 +1,8 @@
 colon
 1 
-, 
-AmE ˈkoʊlən 
-noun Anatomy 结肠 jiécháng 
+ˈkōlən
+
+▶noun a punctuation mark (:) used to precede a list of items, a quotation, or an expansion or explanation. 
+• a colon used in various technical and formulaic contexts, for example a statement of proportion between two numbers, or to separate hours from minutes (and minutes from seconds) in a numerical statement of time: 10:1 
+4:30 p.m. 
+• the number of the chapter and verse respectively in biblical references: Exodus 3:2. ORIGIN mid 16th century (as a term in rhetoric denoting a section of a complex sentence, or a pause before it): via Latin from Greek kōlon ‘limb, clause.’

@@ -2,4 +2,11 @@ concept
 BrE ˈkɒnsɛpt, AmE ˈkɑnˌsɛpt 
 noun 概念 gàiniàn a philosophical concept 哲学概念 
 concept 
-▶noun Freud's concept of the superego: idea, notion, conception, abstraction; theory, hypothesis; belief, conviction, opinion; image, impression, picture.
+ˈkänˌsept
+
+▶noun an abstract idea; a general notion: structuralism is a difficult concept 
+the concept of justice. 
+• a plan or intention; a conception: the center has kept firmly to its original concept. 
+• an idea or invention to help sell or publicize a commodity: a new concept in corporate hospitality. 
+• Philosophy an idea or mental picture of a group or class of objects formed by combining all their aspects. 
+• [as modifier] (of a car or other vehicle) produced as an experimental model to test the viability of new design features. ORIGIN mid 16th century (in the sense ‘thought, frame of mind, imagination’): from Latin conceptum ‘something conceived,’ from concept- ‘conceived,’ from concipere (see conceive) .

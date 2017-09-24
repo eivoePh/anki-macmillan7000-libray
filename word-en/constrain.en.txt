@@ -1,4 +1,11 @@
 constrain 
-▶verb
-1 he felt constrained to explain: compel, force, drive, impel, oblige, coerce, prevail on, require; press, push, pressure.
-2 prices were constrained by government controls: restrict, limit, curb, check, restrain, contain, rein in, hold back, keep down.CHOOSE THE RIGHT WORD See compel .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+kənˈstrān
+
+▶verb [with object] compel or force (someone) toward a particular course of action: children are constrained to work in the way the book dictates. 
+• (usually as adjective constrained) cause to appear unnaturally forced, typically because of embarrassment: he was acting in a constrained manner. 
+• severely restrict the scope, extent, or activity of: agricultural development is considerably constrained by climate 
+we can constrain data access. 
+• archaic bring about (something) by compulsion: Calypso in her caves constrained his stay. 
+• literary confine forcibly; imprison. DERIVATIVES constrainedly 
+kənˈstrānədlē 
+adverbORIGIN Middle English: from Old French constraindre, from Latin constringere ‘bind tightly together.’

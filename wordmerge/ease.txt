@@ -28,16 +28,24 @@ B.  transitive verb [ease something off, ease off something] (remove gently) 轻
 ② (lessen) «situation, tension» 缓和 huǎnhé ; «pressure» 减轻 jiǎnqīng 
 ③ (be more moderate with) to ease up on [somebody]/[something]; 对某人变宽容/使某事变宽松 duì mǒu rén biàn kuānróng/shǐ mǒu shì biàn kuānsōng 
 ease 
-▶noun
-1 he defeated them all with ease: effortlessness, no trouble, simplicity; deftness, adroitness, proficiency, mastery. ANTONYMS difficulty.
-2 his ease of manner: naturalness, casualness, informality, amiability, affability; unconcern, composure, nonchalance, insouciance. ANTONYMS stiffness, formality.
-3 he couldn't find any ease: peace, calm, tranquility, serenity; repose, restfulness, quiet, security, comfort. ANTONYMS trouble, disturbance.
-4 a life of ease: affluence, wealth, prosperity, luxury, plenty; comfort, contentment, enjoyment, well-being. ANTONYMS poverty, hardship.
+ēz
+
+▶noun absence of difficulty or effort: he gave up tobacco and alcohol with ease 
+the guitar's versatility and ease of handling. 
+• absence of rigidity or discomfort; poise: I was always vexed by her self-contained ease. 
+• freedom from worries or problems, especially about one's material situation: a life of wealth and ease. 
 ▶verb
-1 the alcohol eased his pain: relieve, alleviate, mitigate, soothe, palliate, moderate, dull, deaden, numb; reduce, lighten, diminish. ANTONYMS aggravate.
-2 the rain eased off : abate, subside, die down, let up, slack off, diminish, lessen, peter out, relent, come to an end. ANTONYMS worsen.
-3 work helped to ease her mind: calm, pacify, soothe, comfort, console, quieten; hearten, gladden, uplift, encourage.
-4 we want to ease their adjustment: facilitate, expedite, assist, help, aid, advance, further, forward, simplify. ANTONYMS hinder.
-5 he eased out the cork: guide, maneuver, inch, edge; slide, slip, squeeze.
+1 [with object] make (something unpleasant, painful, or intense) less serious or severe: a huge road-building program to ease congestion. 
+• [no object] become less serious or severe: the pain doesn't usually ease off for several hours. 
+• [no object] (ease up) relax one's efforts; do something with more moderation: I'd ease up on the hard stuff if I were you. 
+• (ease something away/down/off) Nautical slacken a rope. 
+• (ease something away/down/off) Nautical sail slowly or gently. 
+• make (something) happen more easily; facilitate: Tokyo's dominance of government was deemed to ease efficient contact-making. 
+• [no object] Finance (of share prices, interest rates, etc.) decrease in value or amount: these shares should be bought and tucked away for when interest rates ease 
+(as noun easing) : a slight easing of inflation.
+2 [no object] move carefully, gradually, or gently: I eased down the slope with care 
+[with object] : the pilot eased the throttle back. 
+• [with object] (ease someone out) gradually exclude someone from a post or place, especially by devious or subtle maneuvers: after the scandal he was eased out of his job. 
 PHRASES
-at ease/at one's ease she felt completely at ease in their mountain retreat: relaxed, calm, serene, tranquil, unworried, contented, content, happy; comfortable.
+at (one's) ease free from worry, awkwardness, or problems; relaxed: she was never quite at ease with Phil. 
+• (at ease) Military in a relaxed attitude with the feet apart and the hands behind the back (often as a command): all right, stand at ease! ease someone's mind alleviate someone's anxiety.DERIVATIVES easer nounORIGIN Middle English: from Old French aise, based on Latin adjacens ‘lying close by,’ present participle of adjacere. The verb is originally from Old French aisier, from the phrase a aise ‘at ease’; in later use from the noun.

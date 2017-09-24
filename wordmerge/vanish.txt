@@ -7,6 +7,9 @@ A.
 ② figurative (leave, be missing) 突然消失 tūrán xiāoshī to vanish without trace 消失得无影无踪 to vanish into thin air 蒸发 
 ③ (cease to exist) «pain» 不复存在 bù fù cúnzài ; «species, civilization» 绝迹 juéjì 
 vanish 
-▶verb
-1 he vanished without a trace: disappear, be lost to sight/view, become invisible, vanish into thin air, recede from view, dematerialize. ANTONYMS appear, materialize.
-2 all hope of freedom vanished: fade, fade away, evaporate, vaporize, melt away, come to an end, end, cease to exist, pass away, die out, be no more. ANTONYMS endure, materialize.
+ˈvaniSH
+
+▶verb [no object]
+1 disappear suddenly and completely: Mary vanished without a trace. 
+• gradually cease to exist: the days of the extended family are vanishing.
+2 Mathematics become zero. ORIGIN Middle English: shortening of Old French e(s)vaniss-, lengthened stem of e(s)vanir, from Latin evanescere ‘die away.’

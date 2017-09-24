@@ -34,19 +34,44 @@ D.  reflexive verbto force oneself
 ② (push in) 把…压进去 bǎ… yā jinqu ‹cork›force open transitive verb [force something open, force open something] 强行打开 qiángxíng dǎkāi ‹container, hand›; 强行撬开 qiángxíng qiàokāi ‹mouth›his head ached, but he forced his eyes open with an effort 他头疼，但还是使劲睁开了眼睛 force out transitive verb[force somebody/something out, force out somebody/something] 
 ① (eject) 将…挤出 jiāng… jǐchū ‹person, object›the compressed air forced the cork out 压缩空气将软木塞顶了出来 the minister has been forced out of office 这名部长已被迫离职 
 ② (utter) 勉强说出 miǎnqiǎng shuōchū ‹reply, apology, excuse›force through transitive verb[force something through, force through something] 强行通过 qiángxíng tōngguò ‹legislation›; 强制执行 qiángzhì zhíxíng ‹policy, decision›force up transitive verb[force something up, force up something] 迫使…上升 pòshǐ… shàngshēng ‹prices, demand, inflation›
-force 
+force
+1 
+fôrs
+
 ▶noun
-1 he pushed with all his force: strength, power, energy, might, effort, exertion; impact, pressure, weight, impetus. ANTONYMS weakness.
-2 they used force to achieve their aims: coercion, compulsion, constraint, duress, oppression, harassment, intimidation, threats; informal arm-twisting, bullying tactics.
-3 the force of the argument: cogency, potency, weight, effectiveness, soundness, validity, strength, power, significance, influence, authority; informal punch; formal efficacy. ANTONYMS weakness.
-4 a force for good: agency, power, influence, instrument, vehicle, means.
-5 a peace-keeping force: body, body of people, group, outfit, party, team; detachment, unit, squad; border patrol; informal bunch.
-▶verb
-1 he was forced to pay: compel, coerce, make, constrain, oblige, impel, drive, pressurize, pressure, press, push, press-gang, bully, dragoon, bludgeon; informal put the screws on, lean on, twist someone's arm.
-2 the door had to be forced: break open, burst open, knock down, smash down, kick in.
-3 water was forced through a hole: propel, push, thrust, shove, drive, press, pump.
-4 they forced a confession out of the kids: extract, elicit, exact, extort, wrest, wring, drag, screw, squeeze.
+1 strength or energy as an attribute of physical action or movement: he was thrown backward by the force of the explosion. 
+• Physics an influence tending to change the motion of a body or produce motion or stress in a stationary body. The magnitude of such an influence is often calculated by multiplying the mass of the body by its acceleration. 
+• a person or thing regarded as exerting power or influence: he might still be a force for peace and unity. 
+• [in combination] used with a number as a measure of wind strength on the Beaufort scale: a force-nine gale.
+2 coercion or compulsion, especially with the use or threat of violence: they ruled by law and not by force.
+3 mental or moral strength or power: the force of popular opinion. 
+• the state of being in effect or valid: the law came into force in January. 
+• the powerful effect of something: the force of her writing is undiminished.
+4 an organized body of military personnel or police: a soldier in a UN peacekeeping force. 
+• (forces) troops and weaponry: concealment from enemy forces 
+figurative : a battle between the forces of good and evil. 
+• a group of people brought together and organized for a particular activity: a sales force. 
+• (the force) informal a police department.
+5 Baseball a force-out. 
+• a situation in which a force-out is possible. 
+▶verb [with object]
+1 make a way through or into by physical strength; break open by force: they broke into Fred's house and forced every cupboard door with ax or crowbar. 
+• [with object] drive or push into a specified position or state using physical strength or against resistance: she forced her feet into flat leather sandals 
+figurative : Fields was forced out as director. 
+• achieve or bring about (something) by coercion or effort: Sabine forced a smile 
+she forced her way up the ladder. 
+• push or strain (something) to the utmost: she knew if she forced it she would rip it. 
+• artificially hasten the development or maturity of (a plant).
+2 (often be forced) make (someone) do something against their will: she was forced into early retirement 
+[with object] : the universities were forced to cut staff. 
+• rape (a woman). 
+• Baseball put out (a runner), or cause (a runner) to be put out, at the base to which they are advancing when they are forced to run on a batted ball: I was forced at second base as the first half of a double play. 
+• (in cards) make a play or bid that compels another player to make (a particular response); make a play or bid that compels (another player) to make such a response: East could force declarer to ruff another spade. 
 PHRASES
-in force
-1 the law is now in force: effective, in operation, operative, operational, in action, valid.
-2 her fans were out in force: in great numbers, in hordes, in full strength. CHOOSE THE RIGHT WORD See compel .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+by force of by means of: exercising authority by force of arms. force the bidding (at an auction) make bids to raise the price rapidly. force someone's hand make someone do something: the exchange markets may force the Fed's hand. force the issue compel the making of an immediate decision. force the pace adopt a fast pace in a race in order to tire out one's opponents quickly. in force
+1 in great strength or numbers: birdwatchers were out in force.
+2 in effect; valid: the US has over $8 trillion worth of life insurance in force.PHRASAL VERBS force something down
+1 manage to swallow food or drink when one does not want to: I forced down a slice of toast.
+2 compel an aircraft to land: the plane might have been forced down by fighters. force oneself on/upon rape (a woman). force something on/upon impose or press something on (a person or organization): economic cutbacks were forced on the government.DERIVATIVES forceable 
+ˈfôrsəb(ə)l 
+adjective. forcer nounORIGIN Middle English: from Old French force (noun), forcer (verb), based on Latin fortis ‘strong.’

@@ -2,5 +2,12 @@ atomic
 BrE əˈtɒmɪk, AmE əˈtɑmɪk 
 adjective 原子的 yuánzǐ de 
 atomic 
-BrE əˈtɒmɪk, AmE əˈtɑmɪk 
-adjective 原子的 yuánzǐ de 
+əˈtämik
+
+▶adjective relating to an atom or atoms: the atomic nucleus. 
+• Chemistry (of a substance) consisting of uncombined atoms rather than molecules: atomic hydrogen. 
+• of or forming a single irreducible unit or component in a larger system: a society made up of atomic individuals pursuing private interests. 
+• relating to, denoting, or using the energy released in nuclear fission or fusion: the atomic age required a new way of political thinking 
+atomic weapons. DERIVATIVES atomically 
+-ik(ə)lē 
+adverbORIGIN late 17th century: from modern Latin atomicus, from atomus ‘indivisible’ (see atom) .

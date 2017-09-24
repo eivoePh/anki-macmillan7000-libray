@@ -8,8 +8,9 @@ A.  transitive verb
 B.  intransitive verb «wound, cut» 愈合 yùhé ; «rash» 痊愈 quányù PHRASAL VERBS heal over intransitive verb 痊愈 quányù heal up intransitive verb = heal 
 B.  
 heal 
-▶verb
-1 he heals sick people: make better, make well, cure, treat, restore to health. ANTONYMS make worse.
-2 his knee had healed: get better, get well, be cured, recover, mend, improve. ANTONYMS get worse.
-3 time will heal the pain of grief: alleviate, ease, assuage, palliate, relieve, help, lessen, mitigate, attenuate, allay. ANTONYMS aggravate.
-4 we tried to heal the rift: put right, set right, repair, remedy, resolve, correct, settle; conciliate, reconcile, harmonize; informal patch up. ANTONYMS worsen.
+hēl
+
+▶verb [with object] (of a person or treatment) cause (a wound, injury, or person) to become sound or healthy again: his concern is to heal sick people. 
+• [no object] become sound or healthy again: he would have to wait until his knee had healed. 
+• alleviate (a person's distress or anguish): time can heal the pain of grief. 
+• correct or put right (an undesirable situation): the rift between them was never really healed. DERIVATIVES healable adjectiveORIGIN Old English hǣlan (in the sense ‘restore to sound health’), of Germanic origin; related to Dutch heelen and German heilen, also to whole .

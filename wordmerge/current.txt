@@ -8,12 +8,12 @@ B.  noun
 ① (flow) (of electricity) 电流 diànliú (of water) 水流 shuǐliú (of air) 气流 qìliú 
 ② figurative (tendency) 趋势 qūshì to go or drift with the current 随大溜 to go against the current 逆潮流而动 a current of opinion 意见倾向 
 current 
-▶adjective
-1 current events: contemporary, present-day, modern, present, contemporaneous; topical, in the news, live, burning; bloggable. ANTONYMS past.
-2 the idea is still current: prevalent, prevailing, common, accepted, in circulation, circulating, on everyone's lips, popular, widespread. ANTONYMS obsolete.
-3 a current driver's license: valid, usable, up-to-date. ANTONYMS expired.
-4 the current prime minister: incumbent, present, in office, in power; reigning. ANTONYMS past, former.
-▶noun
-1 a current of air: flow, stream, backdraft, slipstream; airstream, thermal, updraft, draft; undercurrent, undertow, tide.
-2 the current of human life: course, progress, progression, flow, tide, movement.
-3 the current of opinion: trend, drift, direction, tendency.
+ˈkərənt
+
+▶adjective belonging to the present time; happening or being used or done now: keep abreast of current events 
+I started my current job last year. 
+• in common or general use: the other meaning of the word is still current. 
+▶noun a body of water or air moving in a definite direction, especially through a surrounding body of water or air in which there is less movement: ocean currents. 
+• a flow of electricity which results from the ordered directional movement of electrically charged particles. 
+• a quantity representing the rate of flow of electric charge, usually measured in amperes. 
+• the general tendency or course of events or opinion: the student movement formed a distinct current of protest. ORIGIN Middle English (in the adjective sense ‘running, flowing’): from Old French corant ‘running,’ from courre ‘run,’ from Latin currere ‘run.’

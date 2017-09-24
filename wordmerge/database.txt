@@ -4,7 +4,7 @@ database,databank
 noun
 数据库 shùjùkù 
 
-database
-ˈdadəˌbāsˈdādəˌbās
-noun
-a structured set of data held in a computer, especially one that is accessible in various ways.
+database 
+ˈdadəˌbās ˈdādəˌbās
+
+▶noun a structured set of data held in a computer, especially one that is accessible in various ways.

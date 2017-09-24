@@ -5,6 +5,14 @@ transitive verb
 ① (term) 命名 mìngmíng (classify) 指定 zhǐdìng to designate [something] (as) [something]; 指定…为某物 ‹land›to designate the area (as) a nature reserve 把这个地区定为自然保护区 to designate [something] for [somebody]/[something] 为某人/某物指定某物 
 ② (appoint) 指派 zhǐpài to designate [somebody] as [something]/to do [something]; 委任某人某职务/做某事 
 designate 
-▶verb
-1 she designated her successor: appoint, nominate, depute, delegate; select, choose, pick, elect, name, identify, assign.
-2 the building was designated a historical site: classify, class, label, tag; name, call, entitle, term, dub; formal denominate.
+▶verb 
+ˈdeziɡˌnāt 
+[with object] appoint (someone) to a specified position: he was designated as prime minister. 
+• officially assign a specified status or ascribe a specified name or quality to: [with object and complement] : certain schools are designated “science schools” 
+a personality disorder that Adler designates the Ruling Type. 
+• signify; indicate: the term “brainstem” designates the medulla, pons, and mesencephalon. 
+▶adjective 
+ˈdeziɡnət ˈdeziɡˌnāt 
+[postpositive] appointed to an office or position but not yet installed: the Director designate. DERIVATIVES designator 
+-ˌnātər 
+nounORIGIN mid 17th century (as an adjective): from Latin designatus ‘designated,’ past participle of designare, based on signum ‘a mark.’ The verb dates from the late 18th century.

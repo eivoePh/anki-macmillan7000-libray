@@ -1,13 +1,22 @@
 image 
+ˈimij
+
 ▶noun
-1 an image of St. Bartholomew: likeness, resemblance; depiction, portrayal, representation; statue, statuette, sculpture, bust, effigy; painting, picture, portrait, drawing, sketch.
-2 images of the planet Neptune: picture, photograph, snapshot, photo.
-3 he contemplated his image in the mirror: reflection, mirror image, likeness.
-4 the image of this country as democratic: conception, impression, idea, perception, notion; mental picture, vision; character, reputation; appearance, semblance.
-5 biblical images: simile, metaphor, metonymy; figure of speech, trope, turn of phrase; imagery.
-6 his heartthrob image: public perception, persona, profile, reputation, stature, standing; face, front, facade, mask, guise.
-7 I'm the image of my grandfather: double, living image, look-alike, clone, copy, twin, duplicate, exact likeness, mirror image, doppelgänger; informal spitting image, dead ringer, carbon copy; archaic similitude.
-8 a graven image: idol, icon, fetish, totem.
-▶verb she imaged imposing castles: envisage, envision, imagine, picture, see in one's mind's eye.
-WORD LINKS
-ice iconography the study of imagesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.CHOOSE THE RIGHT WORD See emblem .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 a representation of the external form of a person or thing in art. 
+• a visible impression obtained by a camera, telescope, microscope, or other device, or displayed on a computer or video screen. 
+• an optical appearance or counterpart produced by light or other radiation from an object reflected in a mirror or refracted through a lens. 
+• Mathematics a point or set formed by mapping from another point or set. 
+• Computing an exact copy of a computer's hard disk, made for backing up data or setting up new machines. 
+• a mental representation or idea: he had an image of Uncle Walter throwing his crutches away. 
+• [in singular] a person or thing that closely resembles another: he's the image of his father.
+2 a simile or metaphor: he uses the image of a hole to describe emotional emptiness.
+3 the general impression that a person, organization, or product presents to the public: she strives to project an image of youth. 
+• [in singular] semblance or likeness: we are made in the image of God. 
+• (in biblical use) an idol. 
+▶verb [with object] make a representation of the external form of: artworks that imaged women's bodies. 
+• make a visual representation of (something) by scanning it with a detector or electromagnetic beam: every point on the Earth's surface was imaged by the satellite 
+(as noun imaging) : medical imaging. 
+• Computing make an exact copy of (a computer's hard disk): the hard disk drive should be imaged using a specialized bitstream backup product. 
+• form a mental picture or idea of: it is possible for us to image a society in which no one committed crime. DERIVATIVES imageless 
+ˈimijləs 
+adjectiveORIGIN Middle English: from Old French, from Latin imago; related to imitate .

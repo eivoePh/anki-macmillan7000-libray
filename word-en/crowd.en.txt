@@ -1,11 +1,20 @@
 crowd 
-▶noun
-1 a crowd of people: throng, horde, mass, multitude, host, army, battalion, herd, flock, drove, swarm, sea, troupe, pack, press, crush, mob, rabble; collection, company, gathering, assembly, audience, assemblage, congregation; informal gaggle, bunch, gang, posse.
-2 she wanted to stand out from the crowd: majority, multitude, common people, populace, general public, masses, rank and file; derogatory hoi polloi, herd; informal Joe Public, John 
-Q.  Public.
-3 he's been hanging round with a bad crowd: set, group, circle, clique, coterie; camp; informal gang, crew, lot.
-4 the spectacle attracted a capacity crowd: audience, spectators, listeners, viewers; house, turnout, attendance, gate; congregation.
-▶verb
-1 reporters crowded around her: cluster, flock, swarm, mill, throng, huddle, gather, assemble, congregate, converge.
-2 the guests all crowded into the dining room: surge, push one's way, jostle, elbow one's way; squeeze, pile, cram.
-3 stop crowding me: pressure; harass, hound, pester, harry, badger, nag; informal hassle, lean on.
+kroud
+
+▶noun a large number of people gathered together, typically in a disorganized or unruly way: a huge crowd gathered in the street outside. 
+• an audience: a crowd of 500 filled the synagogue. 
+• informal, often derogatory a group of people who are linked by a common interest or activity: I've broken away from that whole junkie crowd. 
+• (the crowd) the mass or multitude of people, especially those considered to be drearily ordinary or anonymous: you have to set yourself apart from the crowd 
+free-thinkers who don't follow the crowd 
+he'd become just another face in the crowd. 
+• a large number of things regarded collectively: the crowd of tall buildings. 
+▶verb [with object]
+1 (of a number of people) fill (a space) almost completely, leaving little or no room for movement: the dance floor was crowded with revelers. 
+• [no object] (crowd into) (of a number of people) move into (a space, especially one that seems too small): they crowded into the cockpit. 
+• [no object] (crowd around) (of a group of people) form a tightly packed mass around (someone or something): photographers crowded around him.
+2 move too close to (someone): don't crowd her, she needs air. 
+• Baseball (of a batter) stand very close to (the plate) when batting. 
+• [no object] (crowd in on) overwhelm and preoccupy (someone): as demands crowd in on you it becomes difficult to keep things in perspective.
+3 (crowd someone/something out) exclude someone or something by taking their place: grass invading the canyon has crowded out native plants. 
+PHRASES
+stand out from the crowd be clearly better than or noticeably different from ordinary people or things: to be successful we need to stand out from the crowd.ORIGIN Old English crūdan ‘press, hasten,’ of Germanic origin; related to Dutch kruien ‘push in a wheelbarrow.’ In Middle English the senses ‘move by pushing’ and ‘push one's way’ arose, leading to the sense ‘congregate,’ and hence (mid 16th century) to the noun.

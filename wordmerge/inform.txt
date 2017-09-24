@@ -6,7 +6,11 @@ A.  transitive verb
 ② (pervade, give essential features to) 赋特征于 fù tèzhēng yú the sense of justice which informs all her writings 充溢于她所有作品中的正义感 
 B.  intransitive verb (denounce) 告发 gàofā to inform against or on [somebody]; 告发 gàofā ‹gang, criminal›
 inform 
+inˈfôrm
+
 ▶verb
-1 she informed him that she was ill: tell, notify, apprise, advise, impart to, communicate to, let someone know; brief, prime, enlighten, send word to, give/supply information to; informal fill someone in, clue someone in.
-2 he informed on two of the suspects: denounce, give away, betray, incriminate, inculpate, report, finger; sell out, stab in the back; informal rat on/out, squeal on, tell on, blab on, tattle on, blow the whistle on, sell down the river, snitch on.
-3 the articles were informed by feminism: suffuse, pervade, permeate, infuse, imbue, inspire; characterize.
+1 [reporting verb] give (someone) facts or information; tell: [with object] : he wrote to her, informing her of the situation 
+[with object and clause] : they were informed that no risk was involved 
+[no object] : the role of television is to inform and entertain. 
+• [no object] give incriminating information about someone to the police or other authority: people called a confidential hotline to inform on friends, neighbors, and family members.
+2 [with object] give an essential or formative principle or quality to: the relationship of the citizen to the state is informed by the democratic ideal. ORIGIN Middle English enforme, informe ‘give form or shape to,’ also ‘form the mind of, teach,’ from Old French enfourmer, from Latin informare ‘shape, fashion, describe,’ from in- ‘into’ + forma ‘a form.’

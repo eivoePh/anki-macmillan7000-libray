@@ -4,19 +4,37 @@ adjective
 ① (holding sth. up) 支承的 zhīchéng de ‹structure›a supporting wall 承重墙 
 ② Theatre, Cinema 配角的 pèijué de ‹part, role›the award for best supporting actor 最佳男配角奖 
 support 
-▶verb
-1 a roof supported by pillars: hold up, bear, carry, prop up, keep up, brace, shore up, underpin, buttress, reinforce, undergird.
-2 he struggled to support his family: provide for, maintain, sustain, keep, take care of, look after.
-3 she supported him to the end: comfort, encourage, sustain, buoy up, hearten, fortify, console, solace, reassure; informal buck up. ANTONYMS neglect, abandon.
-4 evidence to support the argument: substantiate, back up, bear out, corroborate, confirm, attest to, verify, prove, validate, authenticate, endorse, ratify, undergird. ANTONYMS contradict, undermine.
-5 the money supports charitable projects: help, aid, assist; contribute to, back, subsidize, fund, finance; informal bankroll.
-6 an independent candidate supported by locals: back, champion, help, assist, aid, abet, favor, encourage; vote for, stand behind, defend; sponsor, second, promote, endorse, sanction; informal throw one's weight behind. ANTONYMS oppose.
-7 they support human rights: advocate, promote, champion, back, espouse, be in favor of, recommend, defend, subscribe to.
+səˈpôrt
+
+▶verb [with object]
+1 bear all or part of the weight of; hold up: the dome was supported by a hundred white columns. 
+• produce enough food and water for; be capable of sustaining: the land had lost its capacity to support life. 
+• be capable of fulfilling (a role) adequately: tutors gain practical experience that helps them support their tutoring role. 
+• endure; tolerate: at work during the day I could support the grief.
+2 give assistance to, especially financially; enable to function or act: the government gives $2.5 billion a year to support the activities of the voluntary sector. 
+• provide with a home and the necessities of life: my main concern was to support my family. 
+• give approval, comfort, or encouragement to: I like to visit her to support her 
+the proposal was supported by many delegates. 
+• suggest the truth of; corroborate: the studies support our findings. 
+• be actively interested in and concerned for the success of (a particular sports team). 
+• (as adjective supporting) (of an actor or a role) important in a play or film but subordinate to the leading parts. 
+• (of a pop or rock group or performer) function as a secondary act to (another) at a concert.
+3 Computing (of a computer or operating system) allow the use or operation of (a program, language, or device): the new versions do not support the graphical user interface standard. 
 ▶noun
-1 bridge supports: pillar, post, prop, upright, crutch, plinth, brace, buttress; base, substructure, foundation, underpinning.
-2 she pays support for her ex-husband: maintenance, keep, sustenance, subsistence; alimony.
-3 I was lucky to have their support: encouragement, friendship, strength, consolation, solace, succor, relief.
-4 he was a great support: comfort, help, assistance, tower of strength, prop, mainstay.
-5 support for community services: contributions, backing, donations, money, subsidy, funding, funds, finance, capital.
-6 they voiced their support for him: backing, help, assistance, aid, endorsement, approval; votes, patronage.
-7 a surge in support for decentralization: advocacy, backing, promotion, championship, espousal, defense, recommendation.
+1 a thing that bears the weight of something or keeps it upright: the best support for a camera is a tripod. 
+• the action or state of bearing the weight of something or someone or of being so supported: she clutched the sideboard for support.
+2 material assistance: he urged that military support be sent to protect humanitarian convoys 
+[as modifier] : support staff. 
+• approval, encouragement, or comfort: the paper printed many letters in support of the government 
+she's been through a bad time and needs our support. 
+• a source of comfort or encouragement: he was a great support when her father died. 
+• a secondary act at a pop or rock concert. 
+• technical help given to the user of a computer or other product. 
+PHRASES
+in support of giving assistance to: air operations in support of the land forces. 
+• showing approval of: the paper printed many letters in support of the government. 
+• attempting to promote or obtain: a strike in support of an 8.5% pay raise.DERIVATIVES supportability 
+səˌpôrtəˈbilitē 
+noun. supportable 
+səˈpôrdəb(ə)l 
+adjectiveORIGIN Middle English (originally in the sense ‘tolerate, put up with’): from Old French supporter, from Latin supportare, from sub- ‘from below’ + portare ‘carry.’

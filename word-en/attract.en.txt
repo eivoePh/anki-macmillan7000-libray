@@ -1,4 +1,12 @@
 attract 
-▶verb
-1 positive ions are attracted to the negatively charged terminal: draw, pull; magnetize. ANTONYMS repel.
-2 he was attracted by her smile: entice, allure, lure, tempt, charm, win over, woo, engage, enthrall, enchant, entrance, captivate, beguile, bewitch, seduce. ANTONYMS repel.
+əˈtrakt
+
+▶verb [with object] cause to come to a place or participate in a venture by offering something of interest, favorable conditions, or opportunities: a campaign to attract more visitors to West Virginia 
+he hoped this strategy would attract foreign investment by multinationals. 
+• evoke (a specified reaction): I did not want to attract attention 
+his criticism of the government attracted widespread support. 
+• cause (someone) to have a liking for or interest in something: I was attracted to the idea of working for a ballet company. 
+• cause (someone) to have a sexual or romantic interest in someone: it was her beauty that attracted him. 
+• exert a force on (an object) that is directed toward the source of the force: the negatively charged ions attract particles of dust. DERIVATIVES attractor 
+-tər 
+nounORIGIN late Middle English: from Latin attract- ‘drawn near,’ from the verb attrahere, from ad- ‘to’ + trahere ‘draw.’

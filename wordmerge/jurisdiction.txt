@@ -6,6 +6,10 @@ noun
 ③ CountableAdministration 权限 quánxiàn to come within or under/to fall outside [somebody's] jurisdiction; 在某人的权限之内/外 
 ④ Countable(territory) 管辖区域 guǎnxiá qūyù 
 jurisdiction 
-▶noun
-1 an area under French jurisdiction: authority, control, power, dominion, rule, administration, command, sway, leadership, sovereignty, hegemony.
-2 foreign jurisdictions: territory, region, province, district, area, domain, realm.CHOOSE THE RIGHT WORD jurisdiction, authority, command, dominion, power, sovereignty, sway The authority of our elected officials refers to their power (often conferred by rank or office) to give orders, require obedience, or make decisions. Their authority is normally limited by their jurisdiction, which is a legally predetermined division of a larger whole, within which someone has a right to rule or decide (the matter was beyond his jurisdiction). The president of the United States has more power than any other American official, which means that he has the ability to exert force or control over something. He does not, however, have the authority to make laws on his own. As commander in chief, he does have command over the nation's armed forces, implying that he has the kind of authority that can enforce obedience. Back in the days when Great Britain had dominion, or supreme authority, over the American colonies, it was the king of England who held sway over this country's economic and political life—an old-fashioned word that stresses the sweeping scope of one's power. But his sovereignty, which emphasizes absolute or autonomous rule over something considered as a whole, was eventually challenged. The rest, as they say, is history.These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+ˌjo͝orəsˈdikSH(ə)n
+
+▶noun the official power to make legal decisions and judgments: federal courts had no jurisdiction over the case 
+the District of Columbia was placed under the jurisdiction of Congress. 
+• the extent of the power to make legal decisions and judgments: the claim will be within the jurisdiction of the industrial tribunal. 
+• a system of law courts; a judicature: in some jurisdictions there is a mandatory death sentence for murder. 
+• the territory or sphere of activity over which the legal authority of a court or other institution extends: several different tax jurisdictions. ORIGIN Middle English: from Old French jurediction, from Latin jurisdictio(n-), from jus, jur- ‘law’ + dictio ‘saying’ (from dicere ‘say’).

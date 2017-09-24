@@ -1,7 +1,10 @@
 fact 
-▶noun
-1 it is a fact that the water is polluted: reality, actuality, certainty; truth, verity, gospel. ANTONYMS lie, fiction.
-2 every fact was double-checked: detail, piece of information, particular, item, specific, element, point, factor, feature, characteristic, ingredient, circumstance, aspect, facet; (facts) information.
-3 an accessory after the fact: event, happening, occurrence, incident, act, deed.
+fakt
+
+▶noun a thing that is indisputably the case: she lacks political experience—a fact that becomes clear when she appears in public 
+a body of fact. 
+• (the fact that) used in discussing the significance of something that is the case: the real problem facing them is the fact that their funds are being cut. 
+• (usually facts) a piece of information used as evidence or as part of a report or news article. 
+• chiefly Law the truth about events as opposed to interpretation: there was a question of fact as to whether they had received the letter. 
 PHRASES
-in fact Mr. Hartmann was in fact present at the time of the shooting: actually, in actuality, in actual fact, really, in reality, in point of fact, as a matter of fact, as it happens, in truth, to tell the truth; archaic in sooth, verily. QUOTE Get your facts first, and then you can distort them as much as you please.Mark Twain, American writer and humorist
+before (or after) the fact before (or after) the committing of a crime: an accessory before the fact. a fact of life something that must be accepted as true and unchanging, even if it is unpleasant: it is a fact of life that young girls write horrible things about people in their diaries. facts and figures precise details. the facts of life information about sexual functions and practices, especially as given to children. the fact of the matter the truth. in (point of) fact used to emphasize the truth of an assertion, especially one contrary to what might be expected or what has been asserted: Aunt Madeline isn't in fact an aunt but a more distant relative.ORIGIN late 15th century: from Latin factum, neuter past participle of facere ‘do.’ The original sense was ‘an act or feat,’ later ‘bad deed, a crime,’ surviving in the phrase before (or after) the fact. The earliest of the current senses (‘truth, reality’) dates from the late 16th century.

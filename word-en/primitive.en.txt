@@ -1,6 +1,29 @@
 primitive 
+ˈprimədiv
+
 ▶adjective
-1 primitive times: ancient, earliest, first, prehistoric, antediluvian, primordial, primeval, primal. ANTONYMS modern, recent.
-2 primitive peoples: uncivilized, barbarian, barbaric, barbarous, savage, ignorant, uncultivated. ANTONYMS civilized.
-3 primitive tools: crude, simple, rough, rough and ready, basic, rudimentary, unrefined, unsophisticated, rude, makeshift. ANTONYMS sophisticated, advanced.
-4 primitive art: simple, natural, unsophisticated, unaffected, undeveloped, unpretentious. ANTONYMS sophisticated, refined.
+1 relating to, denoting, or preserving the character of an early stage in the evolutionary or historical development of something: primitive mammals 
+a name corrupted from primitive German. 
+• relating to or denoting a preliterate, nonindustrial society or culture characterized by simple social and economic organization: primitive people. 
+• having a quality or style that offers an extremely basic level of comfort, convenience, or efficiency: the accommodations at the camp were a bit primitive. 
+• (of behavior, thought, or emotion) apparently originating in unconscious needs or desires and unaffected by objective reasoning: the primitive responses we share with many animals. 
+• of or denoting a simple, direct style of art that deliberately rejects sophisticated artistic techniques.
+2 not developed or derived from anything else: the primitive material of the universe. 
+• Linguistics denoting a word, base, or root from which another is historically derived. 
+• Mathematics (of an algebraic or geometric expression) from which another is derived, or which is not itself derived from another.
+3 Biology (of a part or structure) in the first or early stage of formation or growth; rudimentary. See also primitive streak. 
+▶noun
+1 a person belonging to a preliterate, nonindustrial society or culture.
+2 a pre-Renaissance painter. 
+• a modern painter who imitates the pre-Renaissance style. 
+• an artist employing a simple, naive style that deliberately rejects subtlety or conventional techniques. 
+• a painting by a primitive artist, or an object in a primitive style.
+3 Linguistics a word, base, or root from which another is historically derived. 
+• Mathematics an algebraic or geometric expression from which another is derived; a curve of which another is the polar or reciprocal. 
+• Computing a simple operation or procedure of a limited set from which complex operations or procedures may be constructed, especially a simple geometric shape that may be generated in computer graphics by such an operation or procedure. DERIVATIVES primitively 
+ˈprimədivlē 
+adverb. primitiveness 
+ˈprimədivnəs 
+noun. primitivity 
+ˌpriməˈtivətē 
+nounORIGIN late Middle English (in the sense ‘original, not derivative’): from Old French primitif, -ive, from Latin primitivus ‘first of its kind,’ from primus ‘first.’

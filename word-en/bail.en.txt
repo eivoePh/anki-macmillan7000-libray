@@ -1,4 +1,11 @@
-bail 
-▶noun he was released on bail: surety, security, assurance, indemnity, indemnification; bond, guarantee, pledge; archaic gage.
+bail
+1 
+bāl
+
+▶noun the temporary release of an accused person awaiting trial, sometimes on condition that a sum of money be lodged to guarantee their appearance in court: he has been released on bail. 
+• money paid for the release an accused person as security. 
+▶verb [with object] (usually be bailed) release or secure the release of (a prisoner) on payment of bail: his son called home to get bailed out of jail. See also bail out at bail3. 
 PHRASES
-bail out the pilot bailed out: eject, parachute to safety; desert, get out, escape. bail someone/something out the state was called in to bail out the foundering housing project: rescue, save, relieve; finance, help (out), assist, aid; informal save someone's bacon/neck/skin.
+jump bail informal fail to appear for trial after being released on bail: he jumped bail and was on the run until his arrest. go bail (or stand bail) act as surety for an accused person.post bail pay a sum of money as bail: I posted bail for him.DERIVATIVES bailable 
+ˈbāləb(ə)l 
+adjectiveORIGIN Middle English: from Old French, literally ‘custody, jurisdiction,’ from Old French bailler ‘take charge of,’ from Latin bajulare ‘bear a burden.’

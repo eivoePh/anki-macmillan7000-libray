@@ -1,8 +1,16 @@
 alert 
-▶adjective
-1 police have asked neighbors to stay alert: vigilant, watchful, attentive, observant, wide awake, circumspect; on the lookout, on one's guard, on one's toes, on the qui vive; informal heads-up, keeping one's eyes open/peeled, bright-eyed and bushy-tailed. ANTONYMS inattentive.
-2 mentally alert: quick-witted, sharp, bright, quick, keen, perceptive, wide awake, on one's toes; informal on the ball, quick on the uptake, all there, with it. ANTONYMS inattentive, slow-witted.
-▶noun
-1 a state of alert: vigilance, watchfulness, attentiveness, alertness, circumspection.
-2 a flood alert: warning, notification, notice; siren, alarm, signal, danger signal, distress signal.
-▶verb police were alerted by a phone call: warn, notify, apprise, forewarn, put on one's guard, put on the qui vive; informal tip off, clue in.
+əˈlərt
+
+▶adjective quick to notice any unusual and potentially dangerous or difficult circumstances; vigilant: an alert police officer discovered a truck full of explosives 
+schools need to be constantly alert to this problem. 
+• able to think clearly; intellectually active: she remained active and alert until well into her eighties. 
+▶noun the state of being watchful for possible danger: security forces were placed on alert. 
+• an announcement or signal warning of danger: a bomb alert 
+an alert sounded and all the fighters took off. 
+• a period of vigilance in response to a warning of danger: traffic was halted during the alert. 
+▶verb [with object] warn (someone) of a danger, threat, or problem, typically with the intention of having it avoided or dealt with: he alerted people to the dangers of smoking 
+police were alerted after three men drove away without paying. 
+PHRASES
+on the alert vigilant and prepared: the security forces must be on the alert for an upsurge in violence.DERIVATIVES alertly 
+əˈlərtlē 
+adverbORIGIN late 16th century (originally in military use): from French alerte, from Italian all' erta ‘to the watchtower.’

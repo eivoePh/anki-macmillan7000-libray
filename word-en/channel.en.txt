@@ -1,9 +1,20 @@
 channel 
+ˈCHanl
+
 ▶noun
-1 the channel to the north led us to the Black Sea: strait(s), sound, narrows, passage, sea passage.
-2 the water ran down a channel: duct, gutter, conduit, trough, culvert, sluice, spillway, race, drain.
-3 a channel for their extraordinary energy: use, medium, vehicle, way of harnessing; release (mechanism), safety valve, vent.
-4 a channel of communication: means, medium, instrument, mechanism, agency, vehicle, route, avenue.
-▶verb
-1 she channeled out a groove: hollow out, gouge (out), cut (out).
-2 many countries channel their aid through charities: convey, transmit, conduct, direct, guide, relay, pass on, transfer.
+1 a length of water wider than a strait, joining two larger areas of water, especially two seas. 
+• the navigable part of a waterway: buoys marked the safe limits of the channel. 
+• a hollow bed for a natural or artificial waterway. 
+• (the Channel) the English Channel. 
+• a tubular passage or duct for liquid. 
+• an electric circuit that acts as a path for a signal: an audio channel. 
+• Electronics the semiconductor region in a field-effect transistor that forms the main current path between the source and the drain.
+2 a band of frequencies used in radio and television transmission, especially as used by a particular station. 
+• a service or station using a particular frequency: a shopping channel.
+3 a medium for communication or the passage of information: they didn't apply through the proper channels. 
+▶verb (channels, channeling, channeled; British channels, channelling, channelled) [with object]
+1 direct toward a particular end or object: advertisers channel money into radio. 
+• guide along a particular route or through a specified medium: many countries channel their aid through charities. 
+• (of a person) serve as a medium for (a spirit). 
+• emulate or seem to be inspired by: Meg Ryan plays Avery as if she's channeling Nicole Kidman.
+2 (usually as adjective channeled) form channels or grooves in: the lower jawbone is deeply channeled. ORIGIN Middle English: from Old French chanel, from Latin canalis ‘pipe, groove, channel,’ from canna ‘reed’ (see cane). Compare with canal .

@@ -1,5 +1,7 @@
 waitress 
 BrE ˈweɪtrəs, AmE ˈweɪtrɪs 
 noun [餐馆的] 女服务员 nǚ fúwùyuán 
-waiter, waitress 
-▶noun ask the waiter for some butter: server, stewardess, steward, attendant, garçon, waitperson; busboy; hostess, host, maître d'; butler, servant, page; carhop; wait staff.
+waitress 
+ˈwātris
+
+▶noun a woman whose job is to serve customers at their tables in a restaurant.

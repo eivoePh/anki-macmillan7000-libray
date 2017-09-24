@@ -11,15 +11,15 @@ B.  transitive verb
 ② figurative (warm) 使受高温烤炙 shǐ shòu gāowēn kǎozhì to sit grilling oneself in front of a fire 坐着烤火 
 ③ figurative colloquial (interrogate) 盘问 pánwèn the police grilled him for three hours 警察盘问了他三个小时 
 C.  intransitive verb 烤炙 kǎozhì steaks grilling over a barbecue 在烤架上烤着的牛排 
-grill 
-BrE ɡrɪl, AmE ɡrɪl 
-A. noun 
-① BrE (on cooker) [烤炉内的] 烤架 kǎojià (on barbecue) [置于火上的] 烧烤架 shāokǎojià 
-② Culinary (dish) 一盘烤菜 yī pán kǎocài a mixed grill 什锦烤肉 
-③ grill-room (restaurant) 烧烤店 shāokǎodiàn 
-④ = grille 
-B.  transitive verb 
-① Culinary 烤炙 kǎozhì ‹meat, fish›
-② figurative (warm) 使受高温烤炙 shǐ shòu gāowēn kǎozhì to sit grilling oneself in front of a fire 坐着烤火 
-③ figurative colloquial (interrogate) 盘问 pánwèn the police grilled him for three hours 警察盘问了他三个小时 
-C.  intransitive verb 烤炙 kǎozhì steaks grilling over a barbecue 在烤架上烤着的牛排 
+grill
+1 
+ɡril
+
+▶noun a metal framework used for cooking food over an open fire; a gridiron. 
+• a portable device for cooking outdoors, consisting of a metal framework placed over charcoal or gas fuel. 
+• a dish of food, especially meat, cooked using a grill. 
+• (also grill room) a restaurant serving grilled food. 
+▶verb
+1 [with object] cook (something) using a grill: grill the trout for about five minutes.
+2 [with object] informal subject (someone) to intense questioning or interrogation: my father grilled us about what we had been doing 
+(as noun grilling) : they faced a grilling over the latest results. DERIVATIVES griller nounORIGIN mid 17th century: from French gril (noun), griller (verb), from Old French graille ‘grille.’

@@ -1,12 +1,27 @@
 account 
+əˈkount
+
 ▶noun
-1 an account of the extraordinary events: description, report, version, story, narration, narrative, statement, explanation, exposition, delineation, portrayal, tale; chronicle, history, record, log; view, impression.
-2 the firm's quarterly accounts: financial record, ledger, balance sheet, financial statement; (accounts) books.
-3 I pay the account off in full each month: bill, invoice, tally; debt, charges; informal tab.
-4 his background is of no account: importance, import, significance, consequence, substance, note; formal moment.
-5 efforts to keep our most important accounts happy: client, customer.
-▶verb her visit could not be accounted a success: consider, regard as, reckon, hold to be, think, look on as, view as, see as, judge, adjudge, count, deem, rate.
+1 a report or description of an event or experience: a detailed account of what has been achieved. 
+• an interpretation or rendering of a piece of music: a lively account of Offenbach's score.
+2 (abbreviation acct.) a record or statement of financial expenditure or receipts relating to a particular period or purpose: the ledger contains all the income and expense accounts 
+he submitted a quarterly account. 
+• (accounts) the department of a company that deals with financial accounts.
+3 (abbreviation acct.) an arrangement by which a body holds funds on behalf of a client or supplies goods or services to the client on credit: a bank account 
+charge it to my account 
+I wanted to get some money from the ATM and check my account 
+I began buying things on account. 
+• a client having an account with a supplier: selling bibles to established accounts in the North. 
+• a contract to do work periodically for a client: another agency was awarded the account.
+4 an arrangement by which a user is given personalized access to a computer, website, or application, typically by entering a username and password: we've reset your password to prevent others from accessing your account.
+5 importance: money was of no account to her. 
+▶verb [with object and complement] consider or regard in a specified way: her visit could not be accounted a success 
+he accounted himself the unluckiest man alive. 
 PHRASES
-account for
-1 they must account for the delay: explain, answer for, give reasons for, rationalize, justify.
-2 taxes account for much of the price of gasoline: constitute, make up, form, compose, represent. on account of I was invited on account of my friendship with her parents: because of, owing to, due to, as a consequence of, thanks to, by/in virtue of, in view of. on no account on no account sign a document without reading it: never, under no circumstances, not for any reason.
+by (or from) all accounts according to what one has heard or read: by all accounts he is a pretty nice guy. call (or bring) someone to account require someone to explain a mistake or poor performance. give a good (or bad) account of oneself make a favorable (or unfavorable) impression through one's performance. keep an account of keep a record of. leave something out of account fail or decline to consider a factor. on someone's account for a specified person's benefit: don't bother on my account. on account of because of. on no account under no circumstances: on no account let anyone know we're interested. on one's own account with one's own money or assets, rather than for an employer or client: he began trading on his own account. settle (or square) accounts with pay money owed to (someone). 
+• have revenge on: the potential danger of using the bill for settling accounts with political opponents. take something into account (or take account of) consider a specified thing along with other factors before reaching a decision or taking action.there's no accounting for tastes (or taste) proverb it is impossible to explain why different people like different things, especially those things that the speaker considers unappealing.turn something to (good) account turn something to one's advantage.PHRASAL VERBS account for
+1 give a satisfactory record of (something, typically money, that one is responsible for). 
+• provide or serve as a satisfactory explanation or reason for: he was brought before the Board to account for his behavior. 
+• know the fate or whereabouts of (someone or something), especially after an accident: everyone was accounted for after the floods. 
+• succeed in killing, destroying, or defeating: the fifth inning accounted for Lyons, who gave up three back-to-back home runs.
+2 supply or make up a specified amount or proportion of: social security accounts for about a third of total public spending.ORIGIN Middle English (in the sense ‘counting,’ ‘to count’): from Old French acont (noun), aconter (verb), based on conter ‘to count.’

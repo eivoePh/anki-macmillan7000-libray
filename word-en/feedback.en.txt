@@ -1,2 +1,7 @@
 feedback 
-▶noun we welcome feedback from the viewers: response, reaction, comments, criticism; reception, reviews.
+ˈfēdˌbak
+
+▶noun
+1 information about reactions to a product, a person's performance of a task, etc., used as a basis for improvement.
+2 the modification or control of a process or system by its results or effects, e.g., in a biochemical pathway or behavioral response. See also negative feedback, positive feedback. 
+• the return of a fraction of the output signal from an amplifier, microphone, or other device to the input of the same device; sound distortion produced by this.

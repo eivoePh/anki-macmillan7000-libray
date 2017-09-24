@@ -2,4 +2,11 @@ consequent
 BrE ˈkɒnsɪkw(ə)nt, AmE ˈkɑnsəkwənt 
 adjective (resulting) 作为结果的 zuòwéi jiéguǒ de (following) 随之发生的 suí zhī fāshēng de the strike, and the consequent disruption 罢工以及由此引发的混乱 consequent on or upon [something]; 作为某事结果的 the firm's closure was consequent on its heavy losses 公司的倒闭是由其严重亏损导致的 
 consequent 
-▶adjective heavy rains and consequent flash flooding are tonight's lead stories: resulting, resultant, ensuing, consequential; following, subsequent, successive; attendant, accompanying, concomitant; collateral, associated, related.
+ˈkänsəkwənt
+
+▶adjective following as a result or effect: labor shortages would be created with a consequent increase in wages. 
+• Geology (of a stream or valley) having a direction or character determined by the original slope of the land before erosion. 
+• archaic logically consistent. 
+▶noun a thing that follows another. 
+• Logic the second part of a conditional proposition, whose truth is stated to be conditional upon that of the antecedent. 
+• Mathematics the second term of a ratio. ORIGIN late Middle English: via Old French from Latin consequent- ‘overtaking, following closely,’ from the verb consequi .

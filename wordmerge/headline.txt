@@ -9,11 +9,16 @@ B.  transitive verb
 ② Music (lead) 担当…的主角 dāndāng… de zhǔjué ‹concert›
 C.  intransitive verb 担当主角 dāndāng zhǔjué 
 headline 
-BrE ˈhɛdlʌɪn, AmE ˈhɛdˌlaɪn 
-A. noun 
-① Journalism 大标题 dàbiāotí to hit the headlines colloquial 登上头条新闻 to make the headlines 成为重要新闻 headline news 头条新闻 
-② headlines Radio, Television (part of a news broadcast) 摘要新闻 zhāiyào xīnwén (replacing a full news programme) 新闻摘要 xīnwén zhāiyào 
-B.  transitive verb 
-① Journalism 给…加标题 gěi… jiā biāotí ‹article, feature›
-② Music (lead) 担当…的主角 dāndāng… de zhǔjué ‹concert›
-C.  intransitive verb 担当主角 dāndāng zhǔjué 
+ˈhedˌlīn
+
+▶noun
+1 a heading at the top of an article or page in a newspaper or magazine: a front-page headline. 
+• (the headlines) the most important items of news in a newspaper or in a broadcast news bulletin: issues that are never long out of the headlines. 
+• [as modifier] denoting a particularly notable or important piece of news: air accidents make headline news whereas car accidents are seldom publicized. 
+• [as modifier] denoting or relating to the star performer or group at a concert, typically appearing as the last act on the bill: they were one of the headline acts at the festival in Hyde Park.
+2 [as modifier] Economics denoting or relating to a figure for unemployment based on the unadjusted total number of people out of work, as a percentage of the population: the headline unemployment rate has surprised the markets by dropping slightly. 
+• denoting or relating to a rate of inflation based on the consumer price index and reflecting all changes to the cost of living that an economy may undergo: the country's headline inflation had slowed down to 6.87 percent. Compare with core ( sense
+4 of the noun). 
+▶verb
+1 [with object and complement] provide with a headline: a feature that was headlined “Invest in Your Future.”
+2 [with object] appear as the star performer at (a concert): an acoustic jam headlined by rappers LL Cool J and De La Soul.

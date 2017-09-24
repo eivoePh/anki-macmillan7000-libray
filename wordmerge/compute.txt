@@ -2,4 +2,17 @@ compute
 BrE kəmˈpjuːt, AmE kəmˈpjut 
 transitive verb 计算 jìsuàn the hire charge is computed on a daily basis 租费按日计算 to compute a solution 盘算解决方案 
 compute 
-▶verb we compute our expenses at the close of each day: calculate, work out, reckon, determine, evaluate, quantify; add up, count up, tally, total, totalize, tot up.
+kəmˈpyo͞ot
+
+▶verb [with object] calculate or reckon (a figure or amount): we can compute the exact increase 
+depreciation is computed by applying the straight-line method. 
+• [no object] make a calculation, especially using a computer: modern circuitry can compute faster than any chess player. 
+• [no object, with negative] informal seem reasonable; make sense: the idea just doesn't compute. [from the phrase does not compute, once used as an error message in computing.] DERIVATIVES computability 
+kəmˌpyo͞odəˈbilədē 
+noun. computable 
+kəmˈpyo͞odəb(ə)l 
+adjective. computably 
+-blē 
+adverb. computist 
+-ˈpyo͞otist 
+nounORIGIN early 17th century: from French computer or Latin computare, from com- ‘together’ + putare ‘to settle (an account).’

@@ -4,4 +4,8 @@ BrE ˈhɛlɪkɒptə, AmE ˈhɛləˌkɑptər
 A.  noun 直升机 zhíshēngjī to travel by helicopter 乘直升机旅行 
 B.  transitive verb 用直升机载运 yòng zhíshēngjī zàiyùn PHRASAL VERBS helicopter in transitive verb[helicopter something/somebody in], [helicopter in something/somebody] 用直升机将…运入 yòng zhíshēngjī jiāng… yùnrù helicopter out transitive verb[helicopter something/somebody out], [helicopter out something/somebody] 用直升机将…运出 yòng zhíshēngjī jiāng… yùnchū 
 helicopter 
-▶noun informal chopper, copter, eggbeater, whirlybird.
+ˈheləˌkäptər
+
+▶noun a type of aircraft that derives both lift and propulsion from one or more sets of horizontally revolving overhead rotors. It is capable of moving vertically and horizontally, the direction of motion being controlled by the pitch of the rotor blades. helicopter Compare with autogiro. 
+▶verb [with object] transport by helicopter: the Coast Guard helicoptered a compressor to one ship. 
+• [no object] fly somewhere in a helicopter: the inspection team helicoptered ashore. ORIGIN late 19th century: from French hélicoptère, from Greek helix ‘spiral’ + pteron ‘wing.’

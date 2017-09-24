@@ -1,5 +1,22 @@
 mask 
+mask
+
 ▶noun
-1 she wore a mask to conceal her face: disguise, false face; historical domino, visor.
-2 he dropped his mask of good humor: pretense, semblance, veil, screen, front, false front, facade, veneer, blind, disguise, guise, concealment, cover, cover-up, cloak, camouflage.
-▶verb poplar trees masked the factory: hide, conceal, disguise, cover up, obscure, screen, cloak, camouflage, veil.
+1 a covering for all or part of the face, worn as a disguise, or to amuse or terrify other people.
+2 a covering made of fiber or gauze and fitting over the nose and mouth to protect against dust or air pollutants, or made of sterile gauze and worn to prevent infection of the wearer or (in surgery) of the patient. 
+• a protective covering fitting over the whole face, worn in fencing, ice hockey, and other sports. 
+• a respirator used to filter inhaled air or to supply gas for inhalation. 
+• (also masque) a cosmetic preparation spread over the face and left for some time to cleanse and improve the skin.
+3 a likeness of a person's face in clay or wax, especially one made by taking a mold from the face. 
+• a person's face regarded as having set into a particular expression: his face was a mask of rage. 
+• a hollow model of a human head worn by ancient Greek and Roman actors. 
+• the face or head of an animal, especially of a fox, as a hunting trophy. 
+• archaic a masked person.
+4 a manner or expression that hides one's true character or feelings; a pretense: she let her mask of moderate respectability slip.
+5 Photography a piece of something, such as a card, used to cover a part of an image that is not required when exposing a print.
+6 Electronics a patterned metal film used in the manufacture of microcircuits to allow selective modification of the underlying material.
+7 Entomology the enlarged lower lip of a dragonfly larva, which can be extended to seize prey. 
+▶verb [with object] cover (the face) with a mask. 
+• conceal (something) from view: the poplars masked a factory. 
+• disguise or hide (a sensation or quality): brandy did not completely mask the bitter taste. 
+• cover (an object or surface) so as to protect it from a process, especially painting: mask off doors and cupboards with sheets of plastic. ORIGIN mid 16th century: from French masque, from Italian maschera, mascara, probably from medieval Latin masca ‘witch, specter,’ but influenced by Arabic masḵara ‘buffoon.’

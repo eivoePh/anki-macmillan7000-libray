@@ -13,7 +13,13 @@ C.  noun
 ④ (factory) 锻造工厂 duànzào gōngchǎng 
 forge
 1 
-▶verb
-1 smiths forged swords: hammer out, beat into shape, fashion.
-2 they forged a partnership: build, construct, form, create, establish, set up.
-3 he forged her signature: fake, falsify, counterfeit, copy, imitate, reproduce, replicate, simulate.
+fôrj
+
+▶verb [with object]
+1 make or shape (a metal object) by heating it in a fire or furnace and beating or hammering it. 
+• create (a relationship or new conditions): the two women forged a close bond 
+the country is forging a bright new future.
+2 produce a copy or imitation of (a document, signature, banknote, or work or art) for the purpose of deception. 
+▶noun a blacksmith's workshop; a smithy. 
+• a furnace or hearth for melting or refining metal. 
+• a workshop or factory containing a furnace for refining metal. DERIVATIVES forgeable adjectiveORIGIN Middle English (also in the general sense ‘make, construct’): from Old French forger, from Latin fabricare ‘fabricate,’ from fabrica ‘manufactured object, workshop.’ The noun is via Old French from Latin fabrica .

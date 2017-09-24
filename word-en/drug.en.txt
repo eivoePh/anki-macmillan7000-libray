@@ -1,9 +1,13 @@
 drug 
-▶noun
-1 drugs prescribed by doctors: medicine, medication, medicament, pharmaceutical; remedy, cure, antidote.
-2 she was under the influence of drugs: narcotic, stimulant, hallucinogen; informal dope.
-▶verb
-1 he was drugged: anesthetize, narcotize; poison; knock out, stupefy; informal dope.
-2 she drugged his coffee: add drugs to, tamper with, adulterate, contaminate, lace, poison; informal dope, spike, doctor.
-WORD LINKS
-drug pharmacology the branch of medicine concerned with drugs pharmaceutical relating to medicinal drugsWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+drəɡ
+
+▶noun a medicine or other substance which has a physiological effect when ingested or otherwise introduced into the body: a new drug aimed at sufferers from Parkinson's disease. 
+• a substance taken for its narcotic or stimulant effects, often illegally: [as modifier] : a drug addict 
+figurative : mass adoration is a highly addictive drug. 
+▶verb (drugs, drugging, drugged) [with object] administer a drug to (someone) in order to induce stupor or insensibility: they were drugged to keep them quiet. 
+• add a drug to (food or drink): he drugged their coffee. 
+• [no object] informal take illegally obtained drugs: fifteen years of drinking and drugging 
+she was convinced he was out drinking and drugging. 
+PHRASES
+do drugs informal take illegal drugs. on drugs taking medically prescribed drugs: on drugs for high blood pressure. 
+• under the influence of or habitually taking illegal drugs.ORIGIN Middle English: from Old French drogue, possibly from Middle Dutch droge vate, literally ‘dry vats,’ referring to the contents (i.e., dry goods).

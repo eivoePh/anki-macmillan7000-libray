@@ -11,8 +11,12 @@ B.  transitive verb
 ① (encourage) 鼓励 gǔlì to urge on the troops 鼓舞部队的士气 
 ② (make go faster) 使加速 shǐ jiāsù she urged on her horse 她策马前进 
 urge 
-▶verb
-1 she urged him to try again: encourage, exhort, enjoin, press, entreat, implore, call on, appeal to, beg, plead with, coax; egg on, prod, prompt, spur, goad, incite, push, pressure, pressurize; formal adjure; literary beseech.
-2 she urged her horse down the lane: spur (on), force, drive, impel, propel.
-3 I urge caution in interpreting these results: advise, counsel, advocate, recommend, suggest, advance.
-▶noun his urge to travel: desire, wish, need, compulsion, longing, yearning, hankering, craving, appetite, hunger, thirst; fancy, impulse, impetus; informal yen, itch.
+ərj
+
+▶verb [with object and usually infinitive] try earnestly or persistently to persuade (someone) to do something: he urged her to come and stay with us 
+[with direct speech] : “Try to relax,” she urged. 
+• recommend or advocate (something) strongly: I urge caution in interpreting these results 
+[with clause] : they are urging that more treatment facilities be provided. 
+• [with object] encourage (a person or animal) to move more quickly or in a particular direction: drawing up outside the house, he urged her inside. 
+• (urge someone on) encourage someone to continue or succeed in something: he could hear her voice urging him on. 
+▶noun a strong desire or impulse: the urge for revenge. ORIGIN mid 16th century: from Latin urgere ‘press, drive.’

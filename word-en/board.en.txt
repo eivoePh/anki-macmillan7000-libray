@@ -1,11 +1,35 @@
 board 
+bôrd
+
 ▶noun
-1 a wooden board: plank, beam, panel, slat, batten, timber, lath.
-2 the board of directors: committee, council, panel, directorate, commission, executive, group.
-3 your room and board will be free: food, meals, provisions, diet, table, bread, rations; keep, maintenance; informal grub, nosh, eats, chow.
+1 a long, thin, flat piece of wood or other hard material, used for floors or other building purposes: loose boards creaked as I walked on them 
+sections of board. 
+• (the boards) informal the stage of a theater.
+2 a thin, flat, rectangular piece of wood or other stiff material used for various purposes, in particular: 
+• a vertical surface on which to write or pin notices. 
+• a horizontal surface on which to cut things, play games, or perform other activities. 
+• a flat insulating sheet used as a mounting for an electronic circuit: a graphics board. 
+• the piece of equipment on which a person stands in surfing, skateboarding, snowboarding, and certain other sports. 
+• (boards) the wooden structure surrounding an ice-hockey rink. 
+• (usually boards) Basketball informal term for backboard, referring specifically to rebounding: the absence of center David Robinson to dominate on the boards. 
+• (boards) pieces of thick stiff cardboard or, originally, wood used for book covers.
+3 [treated as singular or plural] a group of people constituted as the decision-making body of an organization: he sits on the board of directors 
+[in names] : the Federal Reserve Board 
+[as modifier] : a board meeting.
+4 the provision of regular meals when one stays somewhere, in return for payment or services: your room and board will be free. 
+• archaic a table set for a meal.
+5 Sailing a distance covered by a vessel in a single tack. 
 ▶verb
-1 he boarded the aircraft: get on, go aboard, enter, mount, ascend; embark, emplane, entrain; catch; informal hop on.
-2 a number of students boarded with them: lodge, live, reside, be housed, room; informal be put up.
-3 they run a facility for boarding dogs: accommodate, lodge, take in, put up, house; keep, feed, cater to, billet.
+1 [with object] get on or into (a ship, aircraft, or other vehicle): we boarded the plane for Oslo 
+[no object] : they would not be able to board without a ticket. 
+• (be boarding) (of an aircraft) be ready for passengers to embark: flight 172 to Istanbul is now boarding at gate 37.
+2 [no object] live and receive regular meals in a house in return for payment or services: the cousins boarded for a while with Ruby. 
+• (of a student) live at school during the semester in return for payment. 
+• [with object] provide (a person or animal) with regular meals and somewhere to live in return for payment: dogs may have to be boarded at kennels.
+3 [with object] (board something up) cover or seal a window, storefront, or other structure with pieces of wood: the shop was still boarded up.
+4 [no object] ride on a snowboard. 
 PHRASES
-board something up/over shoreline residents are boarding up their windows: cover up/over, close up, shut up, seal.
+go by the board (of something planned or previously upheld) be abandoned, rejected, or ignored: my education just went by the board. [earlier in nautical use meaning ‘fall overboard,’ used of a mast falling past the board, i.e., the side of the ship.] on board on or in a ship, aircraft, or other vehicle. 
+• informal onto a team or group as a member: the need to bring on board a young manager. 
+• informal (of a jockey) riding. 
+• Baseball on base. take something on board informal fully consider or assimilate a new idea or situation: we've got to take accusations of sexism on board. tread the boards informal appear on stage as an actor.ORIGIN Old English bord, of Germanic origin; related to Dutch boord and German Bort; reinforced in Middle English by Old French bort ‘edge, ship's side’ and Old Norse borth ‘board, table.’

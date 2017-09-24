@@ -1,2 +1,8 @@
 donor 
-▶noun an anonymous donor: giver, contributor, benefactor, benefactress; supporter, backer, patron, sponsor, friend, member; informal angel.
+ˈdōnər
+
+▶noun a person who donates something, especially money to a fund or charity: an anonymous donor has given $25 
+[as modifier] : loans from rich donor countries. 
+• a person who provides blood for transfusion, semen for insemination, or an organ or tissue for transplantation. 
+• Chemistry an atom or molecule that provides electrons in forming a coordinate bond. 
+• Physics an impurity atom in a semiconductor that contributes a conducting electron to the material. ORIGIN Middle English: from Old French doneur, from Latin donator, from donare ‘give.’

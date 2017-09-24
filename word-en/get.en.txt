@@ -1,41 +1,95 @@
 get 
-▶verb
-1 where did you get that hat? acquire, obtain, come by, receive, gain, earn, win, come into, take possession of, be given; buy, purchase, procure, secure; gather, collect, pick up, hook, net, land; achieve, attain; informal get one's hands on, get one's mitts on, get hold of, grab, bag, score. ANTONYMS give.
-2 I got your letter: receive, be sent, be in receipt of, be given. ANTONYMS send.
-3 your tea's getting cold: become, grow, turn, go.
-4 get the children from school: fetch, collect, go for, call for, pick up, bring, deliver, convey, ferry, transport. ANTONYMS leave.
-5 the chairman gets $650,000 a year: earn, be paid, take home, bring in, make, receive, collect, gross; informal pocket, bank, rake in, net, bag.
-6 have the police got their man? apprehend, catch, arrest, capture, seize; take prisoner, take into custody, detain, put in jail, put behind bars, imprison, incarcerate; informal collar, grab, nab, nail, run in, pinch, bust, pick up, pull in.
-7 I got a taxi: travel by/on/in; take, catch, use.
-8 she got the flu: succumb to, develop, come/go down with, get sick with, fall victim to, be struck down with, be afflicted by/with; become infected with, catch, contract, fall ill with, be taken ill with.
-9 I got a pain in my arm: experience, suffer, be afflicted with, sustain, feel, have.
-10 I got him on the radio: contact, get in touch with, communicate with, make contact with, reach; phone, call, radio; speak to, talk to; informal get hold of.
-11 I didn't get what he said: hear, discern, distinguish, make out, perceive, follow, take in.
-12 I don't get the joke: understand, comprehend, grasp, see, fathom, follow, perceive, apprehend, unravel, decipher; informal get the drift of, catch on to, latch on to, figure out.
-13 we got there early: arrive, reach, come, make it, turn up, appear, come on the scene, approach, enter, present oneself, come along, materialize, show one's face; informal show (up), roll in/up, blow in.
-14 we got her to go: persuade, induce, prevail on/upon, influence.
-15 I'd like to get to meet him: contrive, arrange, find a way, manage; informal work it, fix it.
-16 I'll get supper: prepare, get ready, cook, make, assemble, muster, concoct; informal fix, rustle up.
-17 informal I'll get him for that: take revenge on, exact/wreak revenge on, get one's revenge on, avenge oneself on, take vengeance on, get even with, pay back, get back at, exact retribution on, give someone their just deserts.
-18 you really got me with that third question: baffle, perplex, puzzle, bewilder, mystify, bemuse, confuse, confound; informal flummox, faze, stump, beat, fox, discombobulate.
-19 what gets me is how neurotic she is: annoy, irritate, exasperate, anger, irk, vex, provoke, incense, infuriate, madden, try someone's patience, ruffle someone's feathers; informal aggravate, peeve, miff, rile, get to, needle, get someone's back up, get on someone's nerves, get someone's goat, drive mad, make someone see red, tee off, tick off.
+ɡet
+
+▶verb (gets, getting; past got 
+ɡät
+; past participle got or gotten 
+ˈɡätn
+)
+1 [with object] come to have or hold (something); receive: I got the impression that she wasn't happy. 
+• experience, suffer, or be afflicted with (something bad): I got a sudden pain in my left eye. 
+• receive as a punishment or penalty: I'll get the sack if things go wrong. 
+• contract (a disease or ailment): I might be getting the flu.
+2 [with object] succeed in attaining, achieving, or experiencing; obtain: I need all the sleep I can get. 
+• move in order to pick up or bring (something); fetch: get another chair 
+[with two objects] : I'll get you a drink. 
+• tend to meet with or find in a specified place or situation: it was nothing like the winters we get in Florida. 
+• travel by or catch (a bus, train, or other form of transport): I'll get a taxi and be home in an hour. 
+• obtain (a figure or answer) as a result of calculation. 
+• respond to a ring of (a telephone or doorbell) or the knock on (a door): I'll get it! 
+• [in imperative] informal said as an invitation to notice or look at someone, especially to criticize or ridicule them: get her!
+3 [no object] enter or reach a specified state or condition; become: he got very worried 
+it's getting late 
+[with past participle] : you'll get used to it. 
+• [as auxiliary verb] used with a past participle to form the passive mood: the cat got groomed. 
+• [with object] cause to be treated in a specified way: get the form signed by a doctor. 
+• [with object] induce or prevail upon (someone) to do something: Sophie got Beth to make a fire. 
+• [no object, with infinitive] have the opportunity to do: he got to try out a few of these new cars. 
+• [no object, with present participle or infinitive] begin to be or do something, especially gradually or by chance: we got talking one evening.
+4 [no object] come, go, or make progress eventually or with some difficulty: I got to the airport 
+they weren't going to get anywhere. 
+• move or come into a specified position, situation, or state: she got into the car. 
+• [with object] succeed in making (someone or something) come, go, or make progress: my honesty often gets me into trouble. 
+• informal, chiefly North American reach a specified point or stage: it's getting so I can't even think. 
+• [usually in imperative] informal US go away.
+5 (have got) see have.
+6 [with object] catch or apprehend (someone): the police have got him. 
+• strike or wound (someone) with a blow or missile: you got me in the eye! 
+• informal punish, injure, or kill (someone), especially as retribution: I'll get you for this! 
+• (get it) informal be punished, injured, or killed: wait until Dad comes home, then you'll get it! 
+• (get mine, his, etc.) informal be killed or appropriately punished or rewarded: I'll get mine, you get yours, we'll all get wealthy. 
+• informal annoy or amuse (someone) greatly: cleaning the same things all the time, that's what gets me. 
+• informal baffle (someone): “What's a ‘flowery boundary tree’?” “You got me.”
+7 [with object] informal understand (an argument or the person making it): What do you mean? I don't get it.
+8 [with object] archaic acquire (knowledge) by study; learn: knowledge which is gotten at school. 
+▶noun
+1 dated an animal's offspring: he passes this on to his get.
+2 British informal, dialect a person whom the speaker dislikes or despises. 
 PHRASES
-get about he uses a wheelchair to get about: move about, move around, travel. get across a photo will help you get the message across: communicate, impart, convey, transmit, make clear, express. get ahead the desire to get ahead: prosper, flourish, thrive, do well; succeed, make it, advance, get on in the world, go up in the world, make good, become rich; informal go places, get somewhere, make the big time. get along
-1 can't you try to get along with his family? be friendly, be compatible, get on; agree, see eye to eye, concur, be in accord; informal hit it off, be on the same wavelength.
-2 she was getting along well at school: fare, manage, progress, advance, get on, get by, do, cope; succeed. get around Toby really gets around: travel, circulate, socialize, do the rounds. get at
-1 it's difficult to get at the pipes: access, get to, reach, touch.
-2 she had been got at by enemy agents: corrupt, suborn, influence, bribe, buy off, pay off; informal fix, square.
-3 informal what are you getting at? imply, suggest, intimate, insinuate, hint, mean, drive at, allude to. get away the prisoners got away: escape, run away/off, break out, break free, break loose, bolt, flee, take flight, make off, take off, decamp, abscond, make a run for it; slip away, sneak away; informal cut and run, skedaddle, do a disappearing act. get away with he's been getting away with every kind of wrongdoing since he was three: escape blame for, escape punishment for. get back
-1 they should get back before dawn: return, come home, come back.
-2 she got her gloves back from the lost and found: retrieve, regain, win back, recover, recoup, reclaim, repossess, recapture, redeem; find (again), trace. get back at she wasted years of her life thinking about getting back at her ex-husband: take revenge on, exact/wreak revenge on, avenge oneself on, take vengeance on, get even with, pay back, retaliate on/against, exact retribution on, give someone their just deserts. get by he had just enough money to get by: manage, cope, survive, exist, subsist, muddle through/along, scrape by, make ends meet, make do, keep the wolf from the door; informal make out. get down her poetry always gets me down: depress, sadden, make unhappy, make gloomy, dispirit, dishearten, demoralize, discourage, crush, weigh down, oppress; upset, distress; informal give someone the blues, make someone fed up. get lost do us a favor and get lost! See scram. get off
-1 Sally got off the bus: step off, alight (from), dismount (from), descend (from), disembark (from), leave, exit.
-2 informal he was arrested but got off: escape punishment, be acquitted, be absolved, be cleared, be exonerated. get on
-1 we got on the train: board, enter, step aboard, climb on, mount, ascend, catch; informal hop on, jump on.
-2 how are you getting on? fare, manage, progress, get along, do, cope, get by, survive, muddle through/along; succeed, prosper; informal make out.
-3 we don't get on too well: be friendly, be compatible, get along; agree, see eye to eye, concur, be in accord; informal hit it off, be on the same wavelength. get on with she got on with her job: continue (with), proceed with, go ahead with, carry on with, go on with, press on with, persist with/in, persevere with; keep at; informal stick with/at. get out
-1 the prisoners got out: escape, run away/off, break out, break free, break loose, get away, bolt, flee, take flight, make off, take off, decamp, abscond, make a run for it; slip away, sneak away; informal cut and run, skedaddle, do a disappearing act.
-2 the news got out: become known, become common knowledge, come to light, emerge, transpire; come out, be uncovered, be revealed, be divulged, be disseminated, be disclosed, be reported, be released, leak out. get out of how do you plan to get out of this mess? evade, dodge, shirk, avoid, escape, sidestep; informal duck (out of), wriggle out of, cop out of. get over
-1 I just got over the flu: recover from, recuperate from, get better after, shrug off, survive.
-2 we tried to get over this problem: overcome, surmount, get the better of, master, find an/the answer to, get a grip on, deal with, cope with, sort out, take care of, crack, rise above; informal lick. get together
-1 get together the best writers: collect, gather, assemble, bring together, rally, muster, marshal, congregate, convene, amass; formal convoke.
-2 we must get together soon: meet, meet up, rendezvous, see each other, socialize. get up he seldom gets up before noon: get out of bed, rise, stir, rouse oneself; informal surface; formal arise. CHOOSE THE RIGHT WORD get, acquire, attain, gain, obtain, procure, secure Get is a very broad term meaning 'to come into possession of.' You can get something by fetching it (get some groceries), by receiving it (get a birthday gift), by earning it (get interest on a bank loan), or by any of a dozen other familiar means. It is such a common, overused word that many writers try to substitute obtain for it whenever possible, perhaps because it sounds less colloquial. But it can also sound pretentious (all employees were required to obtain an annual physical exam) and should be reserved for contexts where the emphasis is on seeking something out (to obtain blood samples). Acquire often suggests a continued, sustained, or cumulative acquisition (to acquire poise as one matures), but it can also hint at deviousness (to acquire the keys to the safe). Use procure if you want to emphasize the effort involved in bringing something to pass (procure a mediated divorce settlement) or if you want to imply maneuvering to possess something (procure a reserved parking space). But beware: Procure is so often used to describe the act of obtaining partners to gratify the lust of others (to procure a prostitute) that it has acquired somewhat unsavory overtones. Gain also implies effort, usually in getting something advantageous or profitable (gain entry; gain victory). In a similar vein, secure underscores the difficulty involved in bringing something to pass and the desire to place it beyond danger (secure a permanent peace; secure a lifeline). Attain should be reserved for achieving a high goal or desirable result (if she attains the summit of Mt. Everest, she will secure for herself a place in mountaineering history).These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+(as) —— as all get out North American informal to a great or extreme extent: he was stubborn as all get out. be out to get someone be determined to punish or harm someone, especially in retaliation: he thinks the media are out to get him. get in there informal take positive action to achieve one's aim (often said as an exhortation): you get in there, son, and you work. get it on informal have sexual intercourse. get it up vulgar slang (of a man) achieve an erection. get one's own back informal take action in retaliation for a wrongdoing or insult. get out the vote US engage in efforts intended to encourage people to vote in an election: he gave a final exhortation to his volunteers to get out the vote 
+[as modifier] : his political organization was able to mobilize its get-out-the-vote campaign. get-rich-quick 
+ˌɡetˌriCHˈkwik 
+derogatory designed or concerned to make a lot of money fast: another one of your get-rich-quick schemes. get-up-and-go 
+ˌɡedəp(ə)nˈɡō 
+informal energy, enthusiasm, and initiative.PHRASAL VERBS get something across manage to communicate an idea clearly. get ahead become successful in one's life or career: how to get ahead in advertising. get along
+1 have a harmonious or friendly relationship: they seem to get along pretty well.
+2 manage to live or survive: don't worry, we'll get along without you. get around
+1 coax or persuade (someone) to do or allow something that they initially do not want to.
+2 deal successfully with (a problem). 
+• evade (a regulation or restriction) without contravening it: the company changed its name to get around the law.get around to (or chiefly British round to) deal with (a task) in due course: I didn't get around to putting all the photos in frames.get at
+1 reach or gain access to (something): it's difficult to get at the screws. 
+• bribe or unfairly influence (someone): he had been got at by government officials.
+2 informal imply (something): I can see what you're getting at. get away escape: Stevie was caught, but the rest of us got away 
+he was very lucky to get away with his life. 
+• leave one's home or work for a time of rest or recreation; go on a vacation: it will be nice to get away. get away with escape blame, punishment, or undesirable consequences for (an act that is wrong or mistaken): you'll never get away with this. get back at take revenge on (someone): I wanted to get back at them for what they did. get back to contact (someone) later to give a reply or return a message: I'll find out and get back to you. get by manage with difficulty to live or accomplish something: he had just enough money to get by. get down North American informal enjoy oneself by being uninhibited, especially with friends in a social setting: get down and party! get someone down depress or demoralize someone. get something down
+1 write something down.
+2 swallow food or drink, especially with difficulty. get down to begin to do or give serious attention to: let's get down to business. get in
+1 (of a train, aircraft, or other transport) arrive at its destination: the train got in late. 
+• (of a person) arrive at one's destination: what time did you get in?
+2 (of a political party or candidate) be elected. get in on become involved in (a profitable or exciting activity). get into (of a feeling) affect, influence, or take control of (someone): I don't know what's got into him. get in with become friendly with (someone), especially in order to gain an advantage: I hope he doesn't get in with the wrong crowd. get off
+1 informal escape a punishment; be acquitted: she got off lightly 
+you'll get off with a warning.
+2 North American vulgar slang have an orgasm. get off on informal be excited or aroused by (something): he was obviously getting off on the adrenaline of performing before the crowd. get on
+1 perform or make progress in a specified way: how are you getting on? 
+• continue doing something, especially after an interruption: I've got to get on with this job.
+2 chiefly British another way of saying get along.
+3 (be getting on) informal be old or comparatively old: we are both getting on a bit. get on to chiefly British make contact with (someone) about a particular topic. get out
+1 (of something previously secret) become known: news got out that we were coming.
+2 (also get out of here) [in imperative] informal, chiefly North American used to express disbelief: get out, you're a liar. 
+• [usually in imperative] informal go away; leave. get something out succeed in uttering, publishing, or releasing something: we need to get this report out by Friday. get out of contrive to avoid or escape (a duty or responsibility): they wanted to get out of paying. get something out of achieve benefit from (an undertaking or exercise): we never got any money out of it. get over
+1 recover from (an ailment or an upsetting or startling experience): the trip will help him get over Sal's death.
+2 overcome (a difficulty). get something over
+1 manage to communicate an idea or theory: the company is keen to get the idea over.
+2 complete an unpleasant or tedious but necessary task promptly: come on, let's get it over with. get through
+1 (also get someone through) pass or assist someone in passing (a difficult or testing experience or period): I need these lessons to get me through my exam. 
+• (also get something through) (with reference to a piece of legislation) become or cause to become law.
+2 make contact by telephone: after an hour of busy signals, I finally got through. 
+• succeed in communicating with someone in a meaningful way: I just don't think anyone can get through to these kids. get to
+1 informal annoy or upset (someone) by persistent action: he started crying—we were getting to him.
+2 another way of saying get around to above. get together gather or assemble socially or to cooperate. get up
+1 (also get someone up) rise or cause to rise from bed after sleeping.
+2 (of wind or the sea) become strong or agitated. get something up
+1 prepare or organize a project or piece of work: we used to get up little plays.
+2 enhance or refine one's knowledge of a subject.DERIVATIVES gettable 
+ˈɡedəb(ə)l 
+adjectiveORIGIN Middle English: from Old Norse geta ‘obtain, beget, guess’; related to Old English gietan (in begietan ‘beget,’ forgietan ‘forget’), from an Indo-European root shared by Latin praeda ‘booty, prey,’ praehendere ‘get hold of, seize,’ and Greek khandanein ‘hold, contain, be able.’

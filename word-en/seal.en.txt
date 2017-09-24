@@ -1,10 +1,26 @@
-seal 
+seal
+1 
+ˈsē(ə)l
+
 ▶noun
-1 the seal around the bathtub: sealant, sealer, adhesive, caulk, caulking.
-2 the king put his seal on the letter: emblem, symbol, insignia, device, badge, crest, coat of arms, mark, monogram, stamp.
-3 the project cannot begin without the committee's seal: ratification, approval, seal of approval, blessing, consent, agreement, permission, sanction, endorsement, clearance.
-▶verb
-1 she quietly sealed the door behind her: fasten, secure, shut, close, lock, bolt.
-2 seal each bottle while it is hot: stop up, seal up, make airtight/watertight, cork, stopper, plug.
-3 (seal off) police sealed off the block: close off, shut off, cordon off, fence off, isolate.
-4 that seals it: clinch, secure, settle, conclude, determine, complete, establish, set the seal on, confirm, guarantee; informal sew up.
+1 a device or substance that is used to join two things together so as to prevent them from coming apart or to prevent anything from passing between them: blue smoke from the exhaust suggests worn valve seals. 
+• [in singular] the state or fact of being joined or rendered impervious with a seal: many fittings have tapered threads for a better seal. 
+• the water standing in the trap of a drain to prevent sewer gas from backing up through the drain, considered in terms of its depth.
+2 a piece of wax, lead, or other material with an individual design stamped into it, attached to a document to show that it has come from the person who claims to have issued it. 
+• a design resembling a seal embossed in paper as a guarantee of authenticity. 
+• an engraved device used for stamping a design that authenticates a document. 
+• a decorative adhesive stamp.
+3 a thing regarded as a confirmation or guarantee of something: the International Monetary Fund is likely to give a seal of approval to the Mexican plan.
+4 (the seal) (also the seal of confession or the seal of the confessional) the obligation on a priest not to divulge anything said during confession: I was told under the seal. 
+▶verb [with object]
+1 fasten or close securely: he folded it, sealed the envelope, and walked to the mailbox. 
+• (seal something in) prevent something from escaping by closing a container or opening. 
+• (seal something off) isolate an area by preventing or monitoring entrance to and exit from it: the police have sealed off the area in search of the attackers.
+2 apply a nonporous coating to (a surface) to make it impervious: seal the finish with a satin varnish.
+3 fry (food) briefly in hot fat to prevent it from losing too much of its moisture during subsequent cooking: heat the oil and seal the lamb on both sides.
+4 conclude, establish, or secure (something) definitively, excluding the possibility of reversal or loss: to seal the deal he offered Thornton a place on the board of the nascent company.
+5 fix a piece of wax or lead stamped with a design to (a document) to authenticate it. 
+PHRASES
+my (or his, etc.) lips are sealed used to convey that one will not discuss or reveal something. put (or set) the seal on give the final authorization to: the UN envoy hopes to set the seal on a lasting peace. 
+• provide or constitute the final confirmatory or conclusive factor: the rain set the seal on his depression. seal someone's fate see fate. set (or put) one's seal to (or on) mark with one's distinctive character: it was the Stewart dynasty which most markedly set its seal on the place.under seal under legal protection of secrecy: the judge ordered that the videotape be kept under seal.DERIVATIVES sealable adjectiveORIGIN Middle English ( sense
+2 of the noun): from Old French seel (noun), seeler (verb), from Latin sigillum ‘small picture,’ diminutive of signum ‘a sign.’

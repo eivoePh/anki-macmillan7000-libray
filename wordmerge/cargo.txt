@@ -2,4 +2,7 @@ cargo
 BrE ˈkɑːɡəʊ, AmE ˈkɑrɡoʊ 
 noun(plural cargoes) 货物 huòwù 
 cargo 
-▶noun they work on the docks loading cargo: freight, load, haul, consignment, delivery, shipment; goods, merchandise, payload, lading.
+ˈkärɡō
+
+▶noun (plural cargoes or cargos) goods carried on a ship, aircraft, or motor vehicle: transportation of bulk cargo 
+a cargo of oil. ORIGIN mid 17th century: from Spanish cargo, carga, from late Latin carricare, carcare ‘to load,’ from Latin carrus ‘wheeled vehicle.’

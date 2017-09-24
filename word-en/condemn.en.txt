@@ -1,7 +1,12 @@
 condemn 
-▶verb
-1 he condemned the suspended players: censure, criticize, denounce, revile, blame, chastise, berate, reprimand, rebuke, reprove, take to task, find fault with; informal slam, blast, lay into; formal castigate. ANTONYMS praise.
-2 he was condemned to death: sentence; convict, find guilty. ANTONYMS acquit.
-3 the house has been condemned: declare unfit, declare unsafe.
-4 her mistake had condemned her: incriminate, implicate; archaic inculpate.
-5 his illness condemned him to a lonely life: doom, destine, damn; consign, assign.
+kənˈdem
+
+▶verb [with object]
+1 express complete disapproval of, typically in public; censure: fair-minded people declined to condemn her on mere suspicion.
+2 sentence (someone) to a particular punishment, especially death: the rebels had been condemned to death 
+(as adjective condemned) : the condemned men. 
+• officially declare (something, especially a building) to be unfit for use: the pool has been condemned as a health hazard. 
+• prove or show the guilt of: she could see in his eyes that her stumble had condemned her. 
+• (of circumstances) force (someone) to endure something unpleasant or undesirable: the physical ailments that condemned him to a lonely childhood. DERIVATIVES condemnable 
+kənˈdem(n)əb(ə)l 
+adjectiveORIGIN Middle English ( sense 2): from Old French condemner, from Latin condemnare, from con- (expressing intensive force) + damnare ‘inflict loss on’ (see damn) .

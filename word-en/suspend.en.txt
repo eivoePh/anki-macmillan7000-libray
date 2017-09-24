@@ -1,5 +1,13 @@
 suspend 
-▶verb
-1 the court case was suspended: adjourn, interrupt, break off, postpone, delay, defer, shelve, put off, put on hold, intermit, prorogue, hold over, hold in abeyance; cut short, discontinue, dissolve, disband, terminate, table; informal put on ice, put on the back burner, mothball, take a rain check on.
-2 he was suspended from his duties: exclude, debar, remove, eliminate, expel, eject.
-3 lights were suspended from the ceiling: hang, sling, string; swing, dangle.CHOOSE THE RIGHT WORD See postpone .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+səˈspend
+
+▶verb [with object]
+1 temporarily prevent from continuing or being in force or effect: work on the dam was suspended. 
+• officially prohibit (someone) from holding their usual post or carrying out their usual role for a particular length of time: two officers were suspended from duty pending the outcome of the investigation. 
+• defer or delay (an action, event, or judgment): the judge suspended judgment until January 15. 
+• Law (of a judge or court) cause (an imposed sentence) not to be enforced as long as no further offense is committed within a specified period: the sentence was suspended for six months 
+(as adjective suspended) : a suspended jail sentence.
+2 hang (something) from somewhere: the light was suspended from the ceiling.
+3 (be suspended) (of solid particles) be dispersed throughout the bulk of a fluid: the paste contains collagen suspended in a salt solution. 
+PHRASES
+suspend disbelief temporarily allow oneself to believe something that isn't true, especially in order to enjoy a work of fiction. suspend payment (of a company) cease to meet its financial obligations as a result of insolvency or insufficient funds.ORIGIN Middle English: from Old French suspendre or Latin suspendere, from sub- ‘from below’ + pendere ‘hang.’

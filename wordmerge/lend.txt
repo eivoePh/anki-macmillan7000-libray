@@ -9,10 +9,18 @@ A.  transitive verb
 B.  intransitive verb 贷款 dàikuǎn to lend against [something] 以…作抵押进行贷款 ‹property, gold›to lend at 15% 以15％的利率进行贷款 
 C.  reflexive verb to lend itself to [something]; 适合于某事物 shìhé yú mǒu shìwù her voice lends itself to blues singing 她的嗓子适合唱蓝调 the system lends itself to abuse 这个制度容易被滥用 PHRASAL VERB lend out transitive verb[lend something out], [lend out something] 借出 jièchū to lend [something] out to [somebody]; 把某物借给某人 
 lend 
-▶verb
-1 I'll lend you my towel: loan, let someone use; advance. ANTONYMS borrow.
-2 these examples lend weight to his assertions: add, impart, give, bestow, confer, provide, supply, furnish, contribute. ANTONYMS detract.
+lend
+
+▶verb (past and past participle lent 
+lent
+) [with object]
+1 grant to (someone) the use of (something) on the understanding that it shall be returned: Stewart asked me to lend him my car 
+the pictures were lent to each museum in turn. 
+• allow (a person or organization) the use of (a sum of money) under an agreement to pay it back later, typically with interest: no one would lend him the money 
+[no object] : the bank lends only to its current customers 
+(as noun lending) : balance sheets weakened by unwise lending.
+2 contribute or add (something, especially a quality) to: the smile lent his face a boyish charm.
+3 (lend oneself to) accommodate or adapt oneself to: John stiffly lent himself to her enthusiastic embraces. 
+• (lend itself to) (of a thing) be suitable for: bay windows lend themselves to blinds. 
 PHRASES
-lend an ear when Travers gets up to speak, I hope you'll lend an ear: listen, pay attention, take notice, be attentive, concentrate, heed, pay heed; informal be all ears; archaic hearken. lend a hand I'm here to lend a hand with the harvest: help, help out, give a helping hand, assist, give assistance, make a contribution, do one's bit; informal pitch in. lend itself to the terrain lends itself to downhill skiing: be suitable for, be suited to, be appropriate for, be applicable for. QUOTE Three things I never lends—my 'oss, my wife, and my name.
-R.  
-S.  Surtees Hillingdon Hall (1845)
+lend an ear (or one's ears) listen sympathetically or attentively: the Samaritans lend their ears to those in crisis.lend a hand (or a helping hand) see give a hand at hand. lend one's name to allow oneself to be publicly associated with: he lent his name and prestige to the organizers of the project.DERIVATIVES lendable adjectiveORIGIN Old English lǣnan, of Germanic origin; related to Dutch lenen, also to loan1. The addition of the final -d in late Middle English was due to association with verbs such as bend and send.

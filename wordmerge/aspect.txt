@@ -8,6 +8,18 @@ noun
 ⑤ literary (appearance) 外表 wàibiǎo a man of repulsive aspect 面目狰狞的男子 
 ⑥ Linguistics (of verb) 体 tǐ 
 aspect 
+ˈaspekt
+
 ▶noun
-1 the photos depict every aspect of life: feature, facet, side, characteristic, particular, detail; angle, slant.
-2 his face had a sinister aspect: appearance, look, air, cast, mien, demeanor, expression; atmosphere, mood, quality, ambience, feeling.
+1 a particular part or feature of something: the financial aspect can be overstressed. 
+• a specific way in which something can be considered: from every aspect, theirs was a changing world. 
+• [in singular] a particular appearance or quality: the air of desertion lent the place a sinister aspect 
+a man of decidedly foreign aspect.
+2 [usually in singular] the positioning of a building or thing in a specified direction: a greenhouse with a southern aspect. 
+• the side of a building facing a particular direction: the front aspect of the hotel was unremarkable. 
+• Astrology a particular position of a planet or other celestial body relative to another, as measured by angular distance: the sun in Aries formed an adverse aspect with Uranus in Capricorn.
+3 Grammar a grammatical category or form that expresses the way in which time is denoted by the verb: the semantics of tense and aspect 
+four verbal aspects. There are two aspects in English, the progressive or continuing aspect (expressing duration, typically using the auxiliary verb be with a form in -ing, as in I was reading a book) and the perfect or perfective (expressing completed action, typically using the auxiliary verb have with a past participle, as in I have read the book). 
+▶verb [with object] Astrology (of a planet) form an aspect with (another celestial body): the sun is superbly aspected by your ruler Mars on the 19th. DERIVATIVES aspectual 
+aˈspek(t)SH(o͞o)əl 
+adjectiveORIGIN late Middle English (denoting the action or a way of looking at something): from Latin aspectus, from aspicere ‘look at,’ from ad- ‘to, at’ + specere ‘to look.’

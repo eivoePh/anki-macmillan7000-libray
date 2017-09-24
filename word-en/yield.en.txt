@@ -1,8 +1,23 @@
 yield 
+yēld
+
 ▶verb
-1 too many projects yield poor returns: produce, bear, give, supply, provide, afford, return, bring in, earn, realize, generate, deliver, offer, pay out; informal rake in.
-2 the nobility yielded power to the capitalists: relinquish, surrender, cede, remit, part with, hand over; make over, bequeath, leave. ANTONYMS withhold, retain.
-3 the duke was forced to yield: surrender, capitulate, submit, relent, admit defeat, back down, climb down, give in, give up the struggle, lay down one's arms, raise/show the white flag; informal throw in the towel, cave in.
-4 he yielded to her demands: give in to, give way to, submit to, bow down to, comply with, agree to, consent to, go along with; grant, permit, allow; informal cave in to; formal accede to. ANTONYMS resist, defy.
-5 the floorboards yielded underfoot: bend, give, give way.
-▶noun risky investments usually have higher yields: profit, gain, return, dividend, earnings.CHOOSE THE RIGHT WORD See relinquish .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 [with object] produce or provide (a natural, agricultural, or industrial product): the land yields grapes and tobacco. 
+• (of an action or process) produce or deliver (a result or gain): this method yields the same results. 
+• (of a financial or commercial process or transaction) generate (a specified financial return): such investments yield direct cash returns.
+2 [no object] give way to arguments, demands, or pressure: the Western powers now yielded when they should have resisted 
+he yielded to the demands of his partners. 
+• [with object] relinquish possession of (something); give (something) up: they might yield up their secrets 
+they are forced to yield ground. 
+• [with object] cease to argue about: I yielded the point. 
+• (especially in a legislature) allow another the right to speak in a debate: I yield to the gentleman from Kentucky. 
+• chiefly North American give right of way to other traffic. 
+• (of a mass or structure) give way under force or pressure: he reeled into the house as the door yielded. 
+▶noun the full amount of an agricultural or industrial product: the milk yield was poor. 
+• Finance the amount of money brought in, e.g., interest from an investment or revenue from a tax; return: an annual dividend yield of
+20 percent. 
+• Chemistry the amount obtained from a process or reaction relative to the theoretical maximum amount obtainable. 
+• (of a nuclear weapon) the force in tons or kilotons of TNT required to produce an equivalent explosion: yields ranging from five kilotons to 100 tons. DERIVATIVES yielder 
+ˈyēldər 
+noun yield ( sense
+1 of the verb) ORIGIN Old English g(i)eldan ‘pay, repay,’ of Germanic origin. The senses ‘produce, bear’ and ‘surrender’ arose in Middle English.

@@ -4,8 +4,12 @@ transitive verb
 ① (surround) 围绕 wéirào to enclose [something] in/within [something]; 把某物围在某物里 to enclose [something] with [something]; 用某物将某物围住 
 ② (insert in letter) 随函附上 suí hán fùshàng please find enclosed … 兹附上…请查收 
 enclose 
-▶verb
-1 tall trees enclosed the campsite: surround, circle, ring, girdle, encompass, encircle; confine, close in, shut in, corral, fence in, wall in, hedge in, hem in; literary gird, engirdle.
-2 please enclose a stamped addressed envelope: include, insert, put in; send.
-WORD LINKS
-enclose claustrophobia fear of enclosed spacesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+inˈklōz enˈklōz 
+(also dated inclose) 
+▶verb [with object]
+1 surround or close off on all sides: the entire estate was enclosed with walls 
+(as adjective enclosed) : a dark enclosed space. 
+• historical fence in (common land) so as to make it private property. 
+• (usually as adjective enclosed) seclude (a religious order or other community) from the outside world. 
+• chiefly Mathematics bound on all sides; contain.
+2 place (something) in an envelope together with a letter: I enclose a copy of the job description. ORIGIN Middle English (in the sense ‘shut in, imprison’): from Old French enclos, past participle of enclore, based on Latin includere ‘shut in.’

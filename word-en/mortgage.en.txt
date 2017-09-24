@@ -1,4 +1,8 @@
 mortgage 
-BrE ˈmɔːɡɪdʒ, AmE ˈmɔrɡɪdʒ 
-A. nounFinance (agreement, money loaned) 抵押贷款 dǐyā dàikuǎn to apply for/take out/raise a mortgage 申请/获得/筹集抵押贷款 a mortgage on …的抵押贷款 ‹house, property›a mortgage of £50,000, a £50,000 mortgage 一笔5万英镑的抵押贷款 pay off or clear a mortgage 偿清抵押贷款 
-B.  transitive verb 抵押 dǐyā ‹house, land›to mortgage [something] to [somebody]; 将某物抵押给某人 to be mortgaged up to the hilt or eyeballs colloquial 债台高筑 to mortgage one's future figurative 赌上自己的前途 
+ˈmôrɡij
+
+▶noun a legal agreement by which a bank or other creditor lends money at interest in exchange for taking title of the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt. 
+• a loan obtained through the conveyance of property as security: I put down a hundred thousand in cash and took out a mortgage for the rest. 
+• a deed effecting the conditions of a mortgage. 
+▶verb [with object] convey (a property) to a creditor as security on a loan: the estate was mortgaged up to the hilt. 
+• expose to future risk or constraint for the sake of immediate advantage: some people worry that selling off federal assets mortgages the country's future. DERIVATIVES mortgageable adjectiveORIGIN late Middle English: from Old French, literally ‘dead pledge,’ from mort (from Latin mortuus ‘dead’) + gage ‘pledge.’

@@ -1,5 +1,10 @@
 accelerate 
-▶verb
-1 the car accelerated down the hill: speed up, go faster, gain momentum, increase speed, pick up speed, gather speed, put on a spurt. ANTONYMS decelerate, slow down.
-2 inflation started to accelerate: increase, rise, go up, leap up, surge, escalate, spiral. ANTONYMS slow down, drop.
-3 the university accelerated the planning process: hasten, expedite, precipitate, speed up, quicken, make faster, step up, advance, further, forward, promote, give a boost to, stimulate, spur on; informal crank up, fast-track. ANTONYMS slow down, delay.
+əkˈseləˌrāt
+
+▶verb [no object] (of a vehicle or other physical object) begin to move more quickly: the car accelerated toward her. 
+• increase in amount or extent: inflation started to accelerate 
+[with object] : the key question is whether stress accelerates aging 
+(as adjective accelerating) : accelerating industrial activity. 
+• Physics undergo a change in velocity. DERIVATIVES accelerative 
+əkˈselərədiv akˈselərədiv akˈseləˌrādiv əkˈseləˌrādiv 
+adjectiveORIGIN early 16th century (in the sense ‘hasten the occurrence of’): from Latin accelerat- ‘hastened,’ from the verb accelerare, from ad- ‘toward’ + celer ‘swift.’

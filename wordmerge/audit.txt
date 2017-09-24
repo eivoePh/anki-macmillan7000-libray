@@ -6,5 +6,11 @@ B.  transitive verb
 ① (conduct financial inspection of) 审查 shěnchá ‹accounts, company›
 ② AmE University 旁听 pángtīng ‹class›
 audit 
-▶noun an audit of the party accounts: inspection, examination, verification, scrutiny, probe, investigation, assessment, appraisal, evaluation, review, analysis; informal going-over, once-over.
-▶verb we audited their books: inspect, examine, survey, go through, scrutinize, check, probe, vet, investigate, inquire into, assess, verify, appraise, evaluate, review, analyze, study; informal give something a/the once-over, give something a going-over.
+ˈôdət
+
+▶noun an official inspection of an individual's or organization's accounts, typically by an independent body. 
+• a systematic review or assessment of something: a complete audit of flora and fauna at the site. 
+▶verb (audits, auditing, audited) [with object]
+1 conduct an official financial examination of (an individual's or organization's accounts): companies must have their accounts audited. 
+• conduct a systematic review of: auditing obstetrical and neonatal care.
+2 North American attend (a class) informally, not for academic credit. ORIGIN late Middle English: from Latin auditus ‘hearing,’ from audire ‘hear,’ in medieval Latin auditus (compoti)‘audit (of an account),’ an audit originally being presented orally.

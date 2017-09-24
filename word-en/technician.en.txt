@@ -1,5 +1,6 @@
 technician 
-BrE tɛkˈnɪʃ(ə)n, AmE tɛkˈnɪʃən 
-noun 
-① (worker) 技师 jìshī a laboratory or lab technician 实验室技术员 
-② (master of technique) 技术精湛者 jìshù jīngzhàn zhě 
+tekˈniSHən
+
+▶noun a person employed to look after technical equipment or do practical work in a laboratory. 
+• an expert in the practical application of a science. 
+• a person skilled in the technique of an art or craft.

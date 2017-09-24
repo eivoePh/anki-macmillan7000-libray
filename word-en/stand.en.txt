@@ -1,31 +1,81 @@
 stand 
-▶verb
-1 Lionel stood in the doorway: be on one's feet, be upright, be erect, be vertical. ANTONYMS sit, lie.
-2 the men stood up : rise, get/rise to one's feet, get up, straighten up, pick oneself up, find one's feet, be upstanding; formal arise. ANTONYMS sit down, lie down.
-3 today a house stands on the site: be, exist, be situated, be located, be positioned, be sited, have been built.
-4 he stood the book on the shelf: put, set, set up, erect, up-end, place, position, locate, prop, lean, stick, install, arrange; informal park.
-5 my decision stands: remain in force, remain valid/effective/operative, remain in operation, hold, hold good, apply, be the case, exist.
-6 her heart could not stand the strain: withstand, endure, bear, put up with, take, cope with, handle, sustain, resist, stand up to.
-7 informal I can't stand arrogance: endure, tolerate, bear, put up with, take, abide, support, countenance; informal swallow, stomach; formal brook.
+stand
+
+▶verb (past and past participle stood 
+sto͝od
+)
+1 [no object] have or maintain an upright position, supported by one's feet: Lionel stood in the doorway 
+she stood still, heart hammering. 
+• rise to one's feet: the two men stood up and shook hands. 
+• move to and remain in a specified position: she stood aside to let them enter. 
+• [with object] place or set in an upright or specified position: don't stand the plant in direct sunlight.
+2 [no object] (of an object, building, or settlement) be situated in a particular place or position: the town stood on a hill 
+the hotel stands in three acres of gardens. 
+• (of a building or other vertical structure) remain upright and entire rather than fall into ruin or be destroyed: after the heavy storms, only one house was left standing. 
+• remain valid or unaltered: my decision stands 
+his strikeout record stood for 38 years. 
+• (especially of a vehicle) remain stationary: the train now standing on track 3. 
+• (of a liquid) collect and remain motionless: avoid planting in soil where water stands in winter. 
+• (of food, a mixture, or liquid) rest without disturbance, typically so as to infuse or marinate: pour boiling water over the fruit and leave it to stand for
+5 minutes. 
+• (of a ship) remain on a specified course: the ship was standing north.
+3 [no object] be in a specified state or condition: since mother's death, the house had stood empty 
+sorry, darling—I stand corrected. 
+• adopt a particular attitude toward a matter or issue: students should consider where they stand on this issue. 
+• be of a specified height: Sampson was a small man, standing
+5 ft.
+4 in. tall. 
+• (stand at) be at (a particular level or value): the budget stood at $14 million per annum. 
+• [no object, with infinitive] be in a situation where one is likely to do something: investors stood to lose heavily. 
+• act in a specified capacity: he stood watch all night. 
+• (also stand at stud) (of a stallion) be available for breeding.
+4 [with object and often modal] withstand (an experience or test) without being damaged: small boats that could stand the punishment of heavy seas. 
+• [usually with negative] informal be able to endure or tolerate: I can't stand the way Mom talks to him.
+5 [no object] British be a candidate in an election: he stood for Parliament in 1968.
+6 [usually with two objects] provide (food or drink) for someone at one's own expense: somebody in the bar would stand him a beer. 
 ▶noun
-1 the party's stand on immigration: attitude, stance, point of view, viewpoint, opinion, way of thinking, outlook, standpoint, position, approach, thinking, policy, line.
-2 a stand against tyranny: opposition, resistance, objection, hostility, animosity.
-3 a large mirror on a stand: base, support, mounting, platform, rest, plinth, bottom; tripod, rack, trivet.
-4 a beer stand: stall, counter, booth, kiosk, tent.
-5 a taxi stand: stop, station, park, bay.
-6 the train drew to a stand: stop, halt, standstill, dead stop.
-7 a stand of trees: copse, thicket, grove, bush, woodlot.
+1 [usually in singular] an attitude toward a particular issue; a position taken in an argument: the party's tough stand on welfare 
+his traditionalist stand. 
+• a determined effort to resist or fight for something: this was not the moment to make a stand for independence 
+we have to take a stand against racism. 
+• an act of holding one's ground against or halting to resist an opposing force: Custer's legendary last stand.
+2 a place where, or an object on which, someone or something stands, sits, or rests, in particular: 
+• a large raised tiered structure for spectators, typically at a sports arena: her parents watched from the stands. 
+• a rack, base, or piece of furniture for holding, supporting, or displaying something: a microphone stand. 
+• a small stall or booth in a street, market, or public building from which goods are sold: a hot-dog stand. 
+• a raised platform for a band, orchestra, or speaker. 
+• (the stand) (also witness stand) a witness box: Sergeant Harris took the stand. 
+• the place where someone typically stands or sits: she took her stand in front of the desks. 
+• a place where vehicles, typically taxicabs, wait for passengers.
+3 [usually in singular] a cessation from motion or progress: the train drew to a stand by the signal box. 
+• each halt made on a touring theatrical production to give one or more performances.
+4 a group of growing plants of a specified kind, especially trees: a stand of poplars. 
 PHRASES
-stand by
-1 stand by for further instructions: wait, be prepared, be in (a state of) readiness, be ready for action, be on full alert, wait in the wings.
-2 she stood by her husband: remain/be loyal to, stick with/by, remain/be true to, stand up for, support, back up, defend, stick up for.
-3 the government must stand by its pledges: abide by, keep (to), adhere to, hold to, stick to, observe, comply with. stand down tell the troops to stand down: relax, stand easy, come off full alert. stand for
-1 BC stands for British Columbia: mean, be an abbreviation of, represent, signify, denote, indicate, symbolize.
-2 informal I won't stand for any nonsense: put up with, endure, tolerate, accept, take, abide, support, countenance; informal swallow, stomach; formal brook.
-3 we stand for animal welfare: advocate, champion, uphold, defend, stand up for, support, back, endorse, be in favor of, promote, recommend, urge. stand in during Coach Clement's absence, Mr. Maynard will stand in: deputize, act, act as deputy, substitute, fill in, sit in, do duty, take over, act as locum, be a proxy, cover, hold the fort, step into the breach; replace, relieve, take over from; informal sub, fill someone's shoes, step into someone's shoes, pinch-hit. stand out
-1 his veins stood out: project, stick out, bulge (out), be proud, jut (out).
-2 she stood out in the crowd: be noticeable, be visible, be obvious, be conspicuous, stick out, be striking, be distinctive, be prominent, attract attention, catch the eye, leap out, show up; informal stick/stand out like a sore thumb. stand up
-1 after 200 years, his theory still stands up: remain/be valid, be sound, be plausible, hold water, hold up, stand questioning, survive investigation, bear examination, be verifiable.
-2 that creep Roger stood up his blind date: fail to keep a date with, fail to meet, fail to keep an appointment with, jilt. stand up for dozens of his students stood up for him at the hearing: support, defend, back, back up, stick up for, champion, promote, uphold, take someone's part, take the side of, side with. stand up to
-1 she stood up to her parents: defy, confront, challenge, resist, take on, put up a fight against, argue with, take a stand against.
-2 the old house has stood up to the war: withstand, survive, come through (unscathed), outlast, outlive, weather, ride out, ward off.
+as it stands in its present condition: there are no merits in the proposal as it stands. 
+• (also as things stand) in the present circumstances: the country would struggle, as it stands, to host the next Winter Olympic Games. it stands to reason see reason. stand a chance see chance. stand one's ground maintain one's position, typically in the face of opposition: she stood her ground, refusing to let him intimidate her. stand someone in good stead see stead. stand on one's own (two) feet be or become self-reliant or independent. stand out a mile see mile. stand out like a sore thumb see sore. stand pat see pat2. stand trial be tried in a court of law. stand up and be counted state publicly one's support for someone or something. will the real —— please stand up informal used rhetorically to indicate that the specified person should clarify their position or reveal their true character: he was so different from the unhappy man of a week ago—would the real Jack Lawrence please stand up?PHRASAL VERBS stand alone be unequaled: when it came to fun, Julia stood alone. stand aside take no action to prevent, or not involve oneself in, something that is happening: the army had stood aside as the monarchy fell. 
+• withdraw or resign from a position or office: the acting prime minister refused to stand aside to permit Sir Julius to resume his post. stand back withdraw from a situation emotionally in order to view it more objectively. stand by
+1 be present while something bad is happening but fail to take any action to stop it: he was beaten to the ground as onlookers stood by.
+2 support or remain loyal to (someone), typically in a time of need: she had stood by him during his years in prison. 
+• adhere to or abide by (something promised, stated, or decided): the government must stand by its pledges.
+3 be ready to deal or assist with something: two battalions were on their way, and a third was standing by. stand down
+1 withdraw or resign from a position or office: he stood down as leader of the party.
+2 (stand down or stand someone down) relax or cause to relax after a state of readiness: if something doesn't happen soon, I guess they'll stand us down.
+3 (of a witness) leave the witness stand after giving evidence. stand for
+1 be an abbreviation of or symbol for: NASA stands for National Aeronautics and Space Administration.
+2 [with negative] informal refuse to endure or tolerate: I won't stand for any nonsense.
+3 support (a cause or principle): we stand for animal welfare. stand in
+1 deputize: Brown stood in for the injured Simpson.
+2 Nautical sail closer to the shore. stand off move or keep away: the women stood off at a slight distance. 
+• Nautical sail further away from the shore. stand someone off keep someone away: repel someone. stand on
+1 be scrupulous in the observance of: call me Alex—let's not stand on formality.
+2 Nautical continue on the same course. stand out
+1 project from a surface: the veins in his neck stood out. 
+• be easily noticeable: he was one of those men who stood out in a crowd. 
+• be clearly better or more significant than someone or something: four issues stand out as being of crucial importance.
+2 persist in opposition or support of something: she stood out against public opinion 
+the company stood out for the product it wanted. stand over
+1 stand close to (someone) so as to watch, supervise, or intimidate them.
+2 (stand over or stand something over) be postponed or postpone to be dealt with at a later date: a number of points were stood over to a further meeting. stand to [often in imperative] Military stand ready for an attack, especially one before dawn or after dark. stand up (of an argument, claim, evidence, etc.) remain valid after close scrutiny or analysis: but will your story stand up in court? stand someone up informal fail to keep an appointment with a boyfriend or girlfriend. stand up for speak or act in support of: she learned to stand up for herself. 
+• act as best man for in a wedding. stand up to
+1 make a spirited defense against: giving workers the confidence to stand up to their employers.
+2 be resistant to the harmful effects of (prolonged wear or use).DERIVATIVES stander nounORIGIN Old English standan (verb), stand (noun), of Germanic origin, from an Indo-European root shared by Latin stare and Greek histanai, also by the noun stead .

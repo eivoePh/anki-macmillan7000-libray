@@ -1,5 +1,12 @@
 dominant 
-▶adjective
-1 the dominant classes: presiding, ruling, governing, controlling, commanding, ascendant, supreme, authoritative. ANTONYMS subservient.
-2 he has a dominant personality: assertive, authoritative, forceful, domineering, commanding, controlling, pushy. ANTONYMS submissive.
-3 the dominant issues in psychology: main, principal, prime, premier, chief, foremost, primary, predominant, paramount, prominent; central, key, crucial, core; informal number-one. ANTONYMS secondary.
+ˈdämənənt
+
+▶adjective most important, powerful, or influential: they are now in an even more dominant position in the market. 
+• (of a high place or object) overlooking others. 
+• Genetics relating to or denoting heritable characteristics that are controlled by genes that are expressed in offspring even when inherited from only one parent. Often contrasted with recessive. 
+• Ecology denoting the predominant species in a plant (or animal) community. 
+• in decision theory, (of a choice) at least as good as the alternatives in all circumstances, and better in some: holding back is here a dominant strategy. 
+▶noun a dominant thing, in particular: 
+• Genetics a dominant trait or gene. 
+• Ecology a dominant species in a plant (or animal) community. 
+• Music the fifth note of the diatonic scale of any key, or the key based on this, considered in relation to the key of the tonic. DERIVATIVES dominantly adverbORIGIN late Middle English: via Old French from Latin dominant- ‘ruling, governing,’ from the verb dominari (see dominate) .

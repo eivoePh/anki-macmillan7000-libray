@@ -2,4 +2,9 @@ constructive
 BrE kənˈstrʌktɪv, AmE kənˈstrəktɪv 
 adjective 建设性的 jiànshèxìng de ‹criticism, advice›; 有助益的 yǒu zhùyì de ‹person›
 constructive 
-▶adjective constructive criticism: useful, helpful, productive, positive, encouraging; practical, valuable, profitable, worthwhile.
+kənˈstrəktiv
+
+▶adjective
+1 serving a useful purpose; tending to build up: constructive criticism.
+2 Law derived by inference; implied by operation of law; not obvious or explicit: constructive liability.
+3 Mathematics relating to, based on, or denoting mathematical proofs that show how an entity may in principle be constructed or arrived at in a finite number of steps. DERIVATIVES constructiveness nounORIGIN mid 17th century ( sense 2): from late Latin constructivus, from Latin construct- ‘heaped together,’ from the verb construere (see construct) .

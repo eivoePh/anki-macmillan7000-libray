@@ -1,7 +1,10 @@
-fax 
-BrE faks, AmE fæks 
-A. noun 
-① Countable(copy) 传真件 chuánzhēnjiàn 
-② Uncountable(method) 传真 chuánzhēn 
-③ Countable(machine) 传真机 chuánzhēnjī 
-B.  transitive verb (contact by fax) 用传真联系 yòng chuánzhēn liánxì ; (send by fax) 用传真机发送 yòng chuánzhēnjī fāsòng to fax [something] to [somebody]; 把某物用传真发送给某人 
+fax
+1 
+faks
+
+▶noun an image of a document made by electronic scanning and transmitted as data by telecommunication links. 
+• the production or transmission of faxes: he received the report by fax. 
+• (also fax machine) a machine for transmitting and receiving faxes. 
+▶verb [with object] send (a document) by fax. 
+• contact (someone) by fax: to obtain a brochure, fax the agent 
+[no object] : the best way to order materials was to fax. ORIGIN 1940s: abbreviation of facsimile .

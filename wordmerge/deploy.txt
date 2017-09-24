@@ -4,6 +4,8 @@ transitive verb
 ① Military 部署 bùshǔ ‹soldiers, weaponry, equipment›the general deployed the tanks under the crest of the hill 将军把坦克部队部署在山顶下 
 ② (utilize) 有效利用 yǒuxiào lìyòng ‹argument, resources›
 deploy 
-▶verb
-1 forces were deployed at strategic points: position, station, post, place, install, locate, situate, site, establish; base; distribute, dispose.
-2 she deployed all her skills: use, utilize, employ, take advantage of, exploit; bring into service, call on, turn to, resort to.
+dəˈploi
+
+▶verb [with object] move (troops or equipment) into position for military action: forces were deployed at strategic locations. 
+• [no object] (of troops) move into position for military action: the air force began to deploy forward. 
+• bring into effective action; utilize: they are not always able to deploy this skill. ORIGIN late 18th century: from French déployer, from Latin displicare and late Latin deplicare ‘unfold or explain,’ from dis-, de- ‘un-’ + plicare ‘to fold.’ Compare with display .

@@ -4,6 +4,10 @@ transitive verb
 ① (authorize) 使享有权利 shǐ xiǎngyǒu quánlì to entitle [somebody] to [something]/to do [something]; «law, courts, government, passport, rank, position, qualifications» 使某人享有某权利/做某事的权利 to be entitled to [something]/to do [something]; 有权获得某物/做某事 I'm only claiming what I'm entitled to 我只是要求得到属于我的东西 to be entitled to one's own opinion 有权发表自己的观点 
 ② (call) 给…题名 gěi… tímíng ‹book, play, music, painting›the poem is entitled Love 这首诗的诗题是《爱》 
 entitle 
-▶verb
-1 this pass entitles you to visit the museum: qualify, make eligible, authorize, allow, permit; enable, empower.
-2 a chapter entitled “Comedy and Tragedy”: title, name, call, label, head, designate, dub; formal denominate.
+inˈtīdl enˈtīdl
+
+▶verb [with object] (usually be entitled)
+1 give (someone) a legal right or a just claim to receive or do something: employees are normally entitled to severance pay 
+[with object and infinitive] : the landlord is entitled to require references.
+2 give (something, especially a text or work of art) a particular title: an article entitled “The Harried Society.” 
+• [with object and complement] archaic give (someone) a specified title expressing their rank, office, or character: they entitled him Sultan. ORIGIN late Middle English (formerly also as intitle): via Old French from late Latin intitulare, from in- ‘in’ + Latin titulus ‘title.’

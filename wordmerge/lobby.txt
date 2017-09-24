@@ -10,9 +10,12 @@ A.  noun
 B.  transitive verb 游说 yóushuì ‹person, group›; 游说使…得以通过 yóushuì shǐ… déyǐ tōngguò ‹bill›
 C.  intransitive verb 游说 yóushuì to lobby for [something]; 游说争取某事物 
 lobby 
-▶noun
-1 the hotel lobby: entrance hall, hallway, entrance, hall, vestibule, foyer, reception area.
-2 the antigun lobby: special interest group, interest group, pressure group; movement, campaign, crusade; lobbyists, supporters; faction, camp.
-▶verb
-1 readers are urged to lobby their legislators: seek to influence, try to persuade, bring pressure to bear on, importune, sway; petition, solicit, appeal to, pressurize.
-2 a group lobbying for better rail services: campaign for, crusade for, press for, push for, ask for, call for, demand; promote, advocate, champion.
+ˈläbē
+
+▶noun (plural lobbies)
+1 a room providing a space out of which one or more other rooms or corridors lead, typically one near the entrance of a public building.
+2 a group of people seeking to influence politicians or public officials on a particular issue: members of the anti-abortion lobby 
+[as modifier] : lobby groups. 
+• [in singular] an organized attempt by members of the public to influence politicians or public officials: a recent lobby of Congress by retirees. 
+▶verb (lobbies, lobbying, lobbied) [with object] seek to influence (a politician or public official) on an issue: it is recommending that booksellers lobby their representatives 
+[no object] : a group lobbying for better rail services. ORIGIN mid 16th century (in the sense ‘monastic cloister’): from medieval Latin lobia, lobium ‘covered walk, portico.’ The verb sense derives from the practice of frequenting the lobby of a house of legislature to influence its members into supporting a cause.

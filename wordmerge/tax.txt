@@ -10,11 +10,14 @@ B.  transitive verb
 ③ figurative (burden, strain) 使…受重负 shǐ… shòu zhòngfù ‹strength, resources›to tax [somebody's] patience 使某人忍无可忍 to tax one's/[somebody's] brain(s) 使自己/某人大伤脑筋 
 ④ formal (accuse) 指责 zhǐzé to tax [somebody] with [something]/doing [something]; 因某事/做某事而指责某人 
 tax 
+taks
+
 ▶noun
-1 they have to pay tax on the interest: duty, tariff, excise, customs, dues; levy, toll, impost, tithe, charge, fee. ANTONYMS rebate.
-2 a heavy tax on one's attention: burden, load, weight, demand, strain, pressure, stress, drain, imposition.
-▶verb
-1 they tax foreign companies more harshly: charge (duty on), tithe; formal mulct.
-2 his whining taxed her patience: strain, stretch, overburden, overload, encumber, push too far; overwhelm, try, wear out, exhaust, sap, drain, weary, weaken.
-WORD LINKS
-tax fiscal relating to the income received by a government through taxesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 a compulsory contribution to state revenue, levied by the government on workers' income and business profits or added to the cost of some goods, services, and transactions.
+2 [in singular] a strain or heavy demand: a heavy tax on the reader's attention. 
+▶verb [with object]
+1 impose a tax on (someone or something): hardware and software is taxed at 7.5 percent.
+2 make heavy demands on (someone's powers or resources): she knew that the ordeal to come would tax all her strength.
+3 confront (someone) with a fault or wrongdoing: why are you taxing me with these preposterous allegations?
+4 Law examine and assess (the costs of a case). DERIVATIVES taxer nounORIGIN Middle English (also in the sense ‘estimate or determine the amount of a penalty or damages,’ surviving sense
+4 of the verb): from Old French taxer, from Latin taxare ‘to censure, charge, compute,’ perhaps from Greek tassein ‘fix.’

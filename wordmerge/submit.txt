@@ -10,8 +10,15 @@ B.  transitive verb(present participle etc. -tt-)
 ② formal (propose, suggest) 主张 zhǔzhāng I would submit that … 我认为… 
 ③ (subject to) 使经受 shǐ jīngshòu to submit [somebody]/[something] to [something]; 让某人/某物经受某事 to submit oneself to; 接受 ‹examination, treatment› 甘受 gān shòu ‹humiliation› 遵从 zūncóng ‹jurisdiction, decision›
 submit 
-▶verb
-1 she submitted under duress: give in/way, yield, back down, cave in, capitulate; surrender, knuckle under. ANTONYMS resist, defy.
-2 he refused to submit to their authority: be governed by, abide by, be regulated by, comply with, accept, adhere to, be subject to, agree to, consent to, conform to. ANTONYMS resist, defy.
-3 we submitted an unopposed bid: put forward, present, offer, proffer, tender, propose, suggest, float; put in, send in, register. ANTONYMS withdraw.
-4 they submitted that the judgment was inappropriate: contend, assert, argue, state, claim, posit, postulate.
+səbˈmit
+
+▶verb (submits, submitting, submitted)
+1 [no object] accept or yield to a superior force or to the authority or will of another person: the original settlers were forced to submit to Bulgarian rule. 
+• (submit oneself) consent to undergo a certain treatment: he submitted himself to a body search. 
+• [with object] subject to a particular process, treatment, or condition: samples submitted to low pressure. 
+• agree to refer a matter to a third party for decision or adjudication: the 
+U. 
+S.  refused to submit to arbitration.
+2 [with object] present (a proposal, application, or other document) to a person or body for consideration or judgment: the panel's report was submitted to a parliamentary committee. 
+• [with clause] (especially in judicial contexts) suggest; argue: he submitted that such measures were justified. DERIVATIVES submitter nounORIGIN late Middle English: from Latin submittere, from sub- ‘under’ + mittere ‘send, put.’ Sense
+2 ‘present for judgment’ dates from the mid 16th century.

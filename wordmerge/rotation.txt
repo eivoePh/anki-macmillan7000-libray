@@ -5,7 +5,13 @@ noun
 ② Countable(circle) [旋转的] 一周 yī zhōu five rotations per hour 每小时旋转五圈 
 ③ Uncountable(taking turns) 轮换 lúnhuàn to work in rotation 轮流工作 
 rotation 
-▶noun
-1 the rotation of the wheels: revolving, turning, spinning, gyration, circling.
-2 a rotation of Jupiter: turn, revolution, orbit, spin.
-3 each member is chair for six months in rotation: sequence, succession; alternation, cycle.
+rōˈtāSH(ə)n
+
+▶noun the action of rotating around an axis or center: the moon moves in the same direction as the earth's rotation. 
+• (also crop rotation) the action or system of rotating crops. 
+• Forestry the cycle of growth and felling or cutting of trees. 
+• the passing of a privilege or responsibility from one member of a group to another in a regularly recurring succession: it has become common for senior academics to act as heads of department in rotation. 
+• US a tour of duty, especially by a medical practitioner in training: she was completing a rotation in trauma surgery. 
+• Mathematics the conceptual operation of turning a system around an axis. 
+• Mathematics another term for curl ( sense
+2 of the noun). ORIGIN mid 16th century: from Latin rotatio(n-), from the verb rotare (see rotate) .

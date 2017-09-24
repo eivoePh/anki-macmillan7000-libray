@@ -16,12 +16,32 @@ C.  transitive verb
 ① (make hole in) 钻 zuān to drill a hole (in [something]) （在某处）钻孔 
 ② (riddle with bullets) 用子弹打穿 yòng zǐdàn dǎchuān 
 ③ (teach by rigorous exercise) 训练 xùnliàn to drill [somebody] in [something] 训练某人某方面的技能 PHRASAL VERB drill down intransitive verb 钻取数据 zuānqǔ shùjù 
-drill 
+drill
+1 
+dril
+
 ▶noun
-1 a hydraulic drill: drilling tool, boring tool, auger, (brace and) bit, gimlet, awl, bradawl.
-2 they learned military drills: training, instruction, coaching, teaching; (physical) exercises, workout.
-3 Estelle knew the drill: procedure, routine, practice, regimen, program, schedule; method, system.
-▶verb
-1 drill the piece of wood: bore a hole in, make a hole in; bore, pierce, puncture, perforate.
-2 a sergeant drilling new recruits: train, instruct, coach, teach, discipline; exercise, put someone through their paces.
-3 his mother had drilled politeness into him: instill, hammer, drive, drum, din, implant, ingrain; teach, indoctrinate, brainwash.
+1 a hand tool, power tool, or machine with a rotating cutting tip or reciprocating hammer or chisel, used for making holes.hand drill 
+• a tool used by a dentist for cutting away part of a tooth before filling it.
+2 instruction or training in military exercises: parade-ground drill. 
+• intensive instruction or training in something, typically by means of repeated exercises: tables can be mastered by drill and practice 
+language-learning drills. 
+• a rehearsal of the procedure to be followed in an emergency: air-raid drills. 
+• (the drill) informal the correct or recognized procedure or way of doing something: he didn't know the drill.
+3 a predatory mollusk that bores into the shells of other mollusks in order to feed on the soft tissue. [Family Muricidae, class Gastropoda: several genera and species, in particular the American oyster drill (Urosalpinx cinerea), which is a serious pest of oyster beds.] 
+▶verb [with object]
+1 produce (a hole) in something by or as if by boring with a drill: drill holes through the tiles for the masonry pins. 
+• make a hole in (something) by boring with a drill: a power tool for drilling wood. 
+• [no object] make a hole in or through something by using a drill: do not attempt to drill through a joist 
+figurative : his eyes drilled into her. 
+• [no object] sink a borehole in order to obtain a certain substance, typically oil or water: they are licensed to drill for oil in the area 
+(as noun drilling) : drilling should begin next year. 
+• (of a dentist) cut away part of (a tooth) before filling it. 
+• informal (of a sports player) hit, throw, or kick (a ball or puck) hard and in a straight line: Rose drilled a ball deep to right center.
+2 subject (someone) to military training exercises: a sergeant was drilling new recruits. 
+• [no object] (of a person) take part in military training exercises: the troops were drilling. 
+• instruct (someone) in something by the means of repeated exercises or practice: I reacted instinctively because I had been drilled to do just that. 
+• (drill something into) cause (someone) to learn something by repeating it regularly: his mother had drilled into him the need to pay for one's sins. PHRASAL VERBS drill down Computing access data that is in a lower level of a hierarchically structured database: just click on a button and drill down until you find the level of detail you require 
+[as modifier] : a drill-down menu of topics.DERIVATIVES driller 
+ˈdrilər 
+nounORIGIN early 17th century: from Middle Dutch drillen ‘bore, turn in a circle.’

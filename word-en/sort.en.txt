@@ -1,11 +1,24 @@
 sort 
+sôrt
+
 ▶noun
-1 what sort of book is it? type, kind, nature, manner, variety, class, category, style; caliber, quality, form, group, set, bracket, genre, species, family, order, generation, vintage, make, model, brand, stamp, stripe, ilk, cast, grain, mold.
-2 informal he's a good sort: person, individual, soul, creature, human being; character, customer; informal fellow, type.
-▶verb they sorted things of similar size: classify, class, categorize, catalog, grade, group; organize, arrange, order, marshal, assemble, systematize, systemize, pigeonhole, sort out; declutter.
+1 a category of things or people having some common feature; a type: if only we knew the sort of people she was mixing with 
+a radical change poses all sorts of questions. 
+• [with adjective] informal a person of a specified character or nature: Frank was a genuinely friendly sort. 
+• archaic a manner or way: in law also the judge is in a sort superior to his king.
+2 Computing the arrangement of data in a prescribed sequence.
+3 Printing a letter or piece in a font of type. 
+▶verb [with object]
+1 arrange systematically in groups; separate according to type, class, etc.: she sorted out the clothes, some to be kept, some to be thrown away. 
+• (sort through) look at (a group of things) one after another in order to classify them or make a selection: she sat down and sorted through her mail.
+2 resolve (a problem or difficulty): the teacher helps the children to sort out their problems. 
+• resolve the problems or difficulties of (oneself): I need time to sort myself out. 
 PHRASES
-out of sorts
-1 I'm feeling out of sorts: unwell, ill, poorly, sick, queasy, nauseous, peaked, run-down, below par; informal under the weather, funny, lousy, rotten, awful, crappy, off.
-2 he's out of sorts because she turned him down: grumpy, irritable, crabby; unhappy, sad, miserable, down, depressed, gloomy, glum, forlorn, low, in a blue funk; informal blue, down in the dumps. sort of informal
-1 you look sort of familiar: slightly, faintly, remotely, vaguely; somewhat, moderately, quite, rather, fairly, reasonably, relatively; informal pretty, kind of, kinda.
-2 he sort of pirouetted: as it were, kind of, somehow. sort out they must sort out their problems: resolve, settle, solve, fix, work out, straighten out, deal with, put right, set right, rectify, iron out; answer, explain, fathom, unravel, clear up; informal sew up, hammer out, thrash out, patch up, figure out.
+after a sort dated after a fashion. in some sort to a certain extent: I am in some sort indebted to you. nothing of the sort used as an emphatic way of denying permission or refuting an earlier statement or assumption: “I'll pay.” “You'll do nothing of the sort.” of a sort (or of sorts) informal of an atypical and typically inferior type: the training camp actually became a tourist attraction of sorts. out of sorts slightly unwell: feeling nauseous and generally out of sorts. 
+• in low spirits; irritable: the trying events of the day had put him out of sorts. sort of informal to some extent; in some way or other (used to convey inexactness or vagueness): “Do you see what I mean?” “Sort of,” answered Jean cautiously. the —— sort the kind of person likely to do or be involved with the thing specified: she'd never imagined Steve to be the marrying sort.PHRASAL VERBS sort someone out informal deal with someone who is causing trouble, typically by restraining, reprimanding, or punishing them: if he can't pay you, I'll sort him out. sort something out
+1 separate something from a mixed group: she started sorting out the lettuce from the spinach.
+2 arrange or organize something: they are anxious to sort out traveling arrangements.DERIVATIVES sortable 
+ˈsôrdəb(ə)l 
+adjective. sorter 
+ˈsôrdər 
+nounORIGIN late Middle English: from Old French sorte, from an alteration of Latin sors, sort- ‘lot, condition.’ usage: The construction these sort of, as in I don't want to answer these sort of questions, is technically ungrammatical because these is plural and needs to agree with a plural noun (sorts). The construction is undoubtedly common, however, and has been used for hundreds of years. There are some grammarians who analyze the construction differently, seeing the words "these sort of” as a single invariable unit. For more details, see usage at kind1 .

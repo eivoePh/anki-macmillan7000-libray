@@ -2,5 +2,6 @@ mammal
 BrE ˈmam(ə)l, AmE ˈmæməl 
 noun 哺乳动物 bǔrǔ dòngwù 
 mammal 
-BrE ˈmam(ə)l, AmE ˈmæməl 
-noun 哺乳动物 bǔrǔ dòngwù 
+ˈmaməl
+
+▶noun a warm-blooded vertebrate animal of a class that is distinguished by the possession of hair or fur, the secretion of milk by females for the nourishment of the young, and (typically) the birth of live young. The first small mammals evolved from reptiles about 200 million years ago, and the group diversified rapidly after the extinction of the dinosaurs to become the dominant form of land animal, with about 4,000 living species. Mammals belong to the class Mammalia, which contains the subclass Prototheria (monotremes) and the infraclasses Metatheria (marsupials) and Eutheria (placental mammals such as rodents, cats, whales, bats, and humans). ORIGIN early 19th century: anglicized form (first used in the plural) of modern Latin mammalia, neuter plural of Latin mammalis (adjective), from mamma ‘breast’ (see mamma2) .

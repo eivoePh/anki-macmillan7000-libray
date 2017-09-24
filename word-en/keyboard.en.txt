@@ -1,9 +1,11 @@
 keyboard 
-BrE ˈkiːbɔːd, AmE ˈkiˌbɔrd 
-A. noun 
-① (of computer, typewriter) 键盘 jiànpán 
-② Music (set of keys) 乐器键盘 yuèqì jiànpán (instrument) 键盘乐器 jiànpán yuèqì keyboard music 键盘音乐 
-B.  keyboards noun plural who played keyboards on Bob Dylan's new CD? 鲍勃
-•迪伦的新唱片谁是键盘手？ 
-C.  transitive verb 用键盘输入 yòng jiànpán shūrù ‹data›
-D.  intransitive verb 用键盘输入信息 yòng jiànpán shūrù xìnxī 
+ˈkēˌbôrd
+
+▶noun
+1 a panel of keys that operate a computer or typewriter.
+2 a set of keys on a piano or similar musical instrument. 
+• an electronic musical instrument with keys arranged as on a piano: she plays keyboard and guitar. 
+▶verb [with object] enter (data) by means of a keyboard. DERIVATIVES keyboarder 
+ˈkēˌbô(ə)rdər 
+noun keyboard ( sense
+1 of the noun) 

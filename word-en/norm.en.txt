@@ -1,4 +1,9 @@
 norm 
+nôrm
+
 ▶noun
-1 norms of diplomatic behavior: convention, standard; criterion, yardstick, benchmark, touchstone, rule, formula, pattern, guide, guideline, model, exemplar.
-2 such teams are now the norm : standard, usual, the rule; normal, typical, average, unexceptional, par for the course, expected.
+1 (the norm) something that is usual, typical, or standard: this system has been the norm in Germany for decades. 
+• (usually norms) a standard or pattern, especially of social behavior, that is typical or expected of a group: the norms of good behavior in the civil service. 
+• a required standard; a level to be complied with or reached: [with modifier] : the 7% pay norm had been breached again.
+2 Mathematics the product of a complex number and its conjugate, equal to the sum of the squares of its real and imaginary components, or the positive square root of this sum. 
+• an analogous quantity used to represent the magnitude of a vector. ORIGIN early 19th century: from Latin norma ‘precept, rule, carpenter's square.’

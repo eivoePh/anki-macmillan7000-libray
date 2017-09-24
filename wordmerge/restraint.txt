@@ -6,8 +6,12 @@ noun
 ③ Uncountable(moderation) 克制 kèzhì to show or exercise restraint 表现出克制 lack of restraint 无所顾忌 
 ④ Countable(rope, strap) [用于限制精神病人、囚犯等活动自由的] 束缚索带 shùfù suǒdài 
 restraint 
+rəˈstrānt
+
 ▶noun
-1 a restraint on their impulsiveness: constraint, check, control, restriction, limitation, curtailment; rein, bridle, brake, damper, impediment, obstacle.
-2 the protestors showed restraint: self-control, self-restraint, self-discipline, control, moderation, prudence, judiciousness, abstemiousness.
-3 the room has been decorated with restraint: subtlety, understatedness, taste, tastefulness, discretion, discrimination.
-4 a child restraint: belt, harness, strap.
+1 (often restraints) a measure or condition that keeps someone or something under control or within limits: decisions are made within the financial restraints of the budget. 
+• the action of keeping someone or something under control. 
+• deprivation or restriction of personal liberty or freedom of movement: he remained aggressive and required physical restraint. 
+• a device that limits or prevents freedom of movement: car safety restraints.
+2 unemotional, dispassionate, or moderate behavior; self-control: he urged the protesters to exercise restraint. 
+• understatement, especially of artistic expression: with strings and piano, all restraint vanished. ORIGIN late Middle English: from Old French restreinte, feminine past participle of restreindre ‘hold back’ (see restrain) .

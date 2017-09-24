@@ -14,12 +14,19 @@ C.  noun
 ① (domestic animal) 走失的宠物 zǒushī de chǒngwù ; (farm animal) 走失的家畜 zǒushī de jiāchù a home for strays 流浪动物收容所 
 ② (lost person) 走散者 zǒusànzhě 
 stray 
-▶verb
-1 the gazelle had strayed from the herd: wander off, go astray, get separated, get lost.
-2 we strayed from our original topic: digress, deviate, wander, get sidetracked, go off on/at a tangent, veer off; get off the subject.
-3 the young men were likely to stray: be unfaithful, have affairs, cheat, philander; informal play around, play the field.
-4 forgive me, Father, for I have strayed: sin, transgress, err, go astray; archaic trespass.
-▶adjective
-1 a stray dog: homeless, lost, strayed, gone astray, abandoned.
-2 a stray bullet: random, chance, freak, unexpected, isolated, lone, single.
-▶noun she adopted three strays: homeless animal, stray dog/cat, waif.
+strā
+
+▶verb [no object] move away aimlessly from a group or from the right course or place: I strayed a few blocks in the wrong direction 
+dog owners are urged not to allow their dogs to stray 
+the military arrested anyone who strayed into the exclusion zone. 
+• (of the eyes or a hand) move idly or casually in a specified direction: her eyes strayed to the telephone. 
+• (of a person who is married or in a long-term relationship) be unfaithful: men who stray are seen as more exciting and desirable. 
+• literary wander or roam in a specified direction: over these mounds the Kurdish shepherd strays. 
+▶adjective [attributive]
+1 not in the right place; separated from the group or target: he pushed a few stray hairs from her face 
+she was killed by a stray bullet. 
+• (of a domestic animal) having no home or having wandered away from home: stray dogs.
+2 Physics (of a physical quantity) arising as a consequence of the laws of physics, not by deliberate design, and usually having a detrimental effect on the operation or efficiency of equipment: stray capacitance. 
+▶noun
+1 a stray person or thing, especially a domestic animal.
+2 (strays) electrical phenomena interfering with radio reception. DERIVATIVES strayer nounORIGIN Middle English: shortening of Anglo-Norman French and Old French estrayer (verb), Anglo-Norman French strey (noun), partly from astray .

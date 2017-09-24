@@ -21,11 +21,23 @@ B.  transitive verb
 ⑦ (give evidence of) 表现出 biǎoxiàn chū ‹ignorance, emotion, virtue, strength›
 C.  intransitive verb (exhibit distinctive behaviour) «male animal» 求偶炫耀 qiú'ǒu xuànyào ; (extend feathers) «bird» 展开尾羽 zhǎnkāi wěiyǔ these peacocks rarely display 这些孔雀难得开屏 
 display 
+dəˈsplā
+
+▶verb [with object] make a prominent exhibition of (something) in a place where it can be easily seen: the palace used to display a series of Flemish tapestries 
+a handwritten notice was displayed in the ticket office. 
+• (of a computer or other device) show (information) on a screen. 
+• give a conspicuous demonstration of (a quality, emotion, or skill): the aggressive kind of baseball he displayed as a player. 
+• [no object] (of a male bird, reptile, or fish) engage in a specialized pattern of behavior that is intended to attract a mate: she photographed the peacock, which chose that moment to display. 
 ▶noun
-1 a display of lights: exhibition, exposition, array, arrangement, presentation, demonstration; spectacle, show, parade, pageant.
-2 they vied to outdo each other in display: ostentation, showiness, extravagance, flamboyance, lavishness, splendor; informal swank, flashiness, glitziness.
-3 his display of concern: manifestation, expression, show.
-▶verb
-1 the paintings are displayed in the art gallery: exhibit, show, put on show/view; arrange, array, present, lay out, set out.
-2 the play displays his many theatrical talents: show off, parade, flaunt, reveal; publicize, make known, call/draw attention to. ANTONYMS hide.
-3 she displayed a caustic sense of humor: manifest, show evidence of, reveal; demonstrate, show; formal evince. ANTONYMS conceal.
+1 a performance, show, or event intended for public entertainment: a display of fireworks. 
+• a collection of objects arranged for public viewing: the museum houses an informative display of rocks 
+work by lesser-known artists is also on display 
+[as modifier] : a display case. 
+• a notable or conspicuous demonstration of a particular type of behavior, emotion, or skill: a display of great virtuosity. 
+• conspicuous or flashy exhibition; ostentation: a flagrant display of wealth. 
+• a specialized pattern of behavior by the males of some species of birds, reptiles, and fish that is intended to attract a mate: the teal were indulging in delightful courtship displays. 
+• Printing the arrangement and choice of type in a style intended to attract attention.
+2 an electronic device for the visual presentation of data: a 17-inch color display 
+[as modifier] : a visual display screen. 
+• the process or facility of presenting data on a computer screen or other device: the processing and display of high volumes of information. 
+• the data shown on a computer screen or other device. DERIVATIVES displayer nounORIGIN Middle English (in the sense ‘unfurl, unfold’): from Old French despleier, from Latin displicare ‘scatter, disperse’ (in medieval Latin ‘unfold’). Compare with deploy .

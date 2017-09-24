@@ -6,5 +6,9 @@ B.  noun
 ① (trait) (of person) 特征 tèzhēng (of place, work) 特性 tèxìng a family characteristic 家族特征 
 ② Mathematics [对数的] 首数 shǒushù 
 characteristic 
-▶noun interesting characteristics: attribute, feature, quality, essential quality, property, trait, aspect, element, facet; mannerism, habit, custom, idiosyncrasy, peculiarity, quirk, oddity, foible; informal X factor.
-▶adjective his characteristic eloquence: typical, usual, normal, predictable, habitual; distinctive, particular, special, especial, peculiar, idiosyncratic, defining, singular, unique.
+ˌker(ə)ktəˈristik
+
+▶adjective typical of a particular person, place, or thing: large farms are characteristic of this area. 
+▶noun
+1 a feature or quality belonging typically to a person, place, or thing and serving to identify it: inherited characteristics such as blood groups.
+2 Mathematics the whole number or integral part of a logarithm, which gives the order of magnitude of the original number. ORIGIN mid 17th century: from French caractéristique or medieval Latin characteristicus, from Greek kharaktēristikos, from kharaktēr ‘a stamping tool.’

@@ -4,6 +4,13 @@ nounCountable and uncountable
 ① (sexual classification) 性别 xìngbié male and female genders (of person) 男性和女性 (of animal) 雄性和雌性 
 ② Linguistics 性 xìng in gender; 在性上 feminine gender 阴性 
 gender 
-▶noun variables included age, income, and gender: sex.
-USAGE
-gender, sex The word gender has been used since the 14th century as a grammatical term, referring to classes of noun designated as masculine, feminine, or neuter in some languages. The sense ‘the state of being male or female’ has also been used since the 14th century, but this did not become common until the mid 20th century. Although the words gender and sex both have the sense ‘the state of being male or female,’ they are typically used in slightly different ways: sex tends to refer to biological differences, while gender refers to cultural or social ones.Usage notes show additional guidance on finer points of English usage.
+ˈjendər
+
+▶noun
+1 the state of being male or female (typically used with reference to social and cultural differences rather than biological ones): traditional concepts of gender 
+[as modifier] : gender roles. 
+• the members of one or other sex: differences between the genders are encouraged from an early age.
+2 Grammar (in languages such as Latin, Greek, Russian, and German) each of the classes (typically masculine, feminine, common, neuter) of nouns and pronouns distinguished by the different inflections that they have and require in words syntactically associated with them. Grammatical gender is only very loosely associated with natural distinctions of sex. 
+• the property (in nouns and related words) of belonging to a gender: adjectives usually agree with the noun in gender and number. DERIVATIVES genderless 
+ˈjendərləs 
+adjectiveORIGIN late Middle English: from Old French gendre (modern genre), based on Latin genus ‘birth, family, nation.’ The earliest meanings were ‘kind, sort, genus’ and ‘type or class of noun, etc.’ (which was also a sense of Latin genus). usage: The word gender has been used since the 14th century as a grammatical term, referring to classes of noun designated as masculine, feminine, or neuter in some languages. The sense ‘the state of being male or female’ has also been used since the 14th century, but this did not become common until the mid 20th century. Although the words gender and sex both have the sense ‘the state of being male or female,’ they are typically used in slightly different ways: sex tends to refer to biological differences, while gender refers to cultural or social ones.

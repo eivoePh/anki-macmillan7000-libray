@@ -1,2 +1,10 @@
 conservation 
-▶noun the conservation of tropical forests: preservation, protection, safeguarding, safekeeping; care, guardianship, husbandry, supervision; upkeep, maintenance, repair, restoration; ecology, environmentalism.
+ˌkänsərˈvāSH(ə)n
+
+▶noun the action of conserving something, in particular: 
+• preservation, protection, or restoration of the natural environment, natural ecosystems, vegetation, and wildlife. 
+• preservation, repair, and prevention of deterioration of archaeological, historical, and cultural sites and artifacts. 
+• prevention of excessive or wasteful use of a resource. 
+• Physics the principle by which the total value of a physical quantity (such as energy, mass, or linear or angular momentum) remains constant in a system. DERIVATIVES conservational 
+-SHənl 
+adjectiveORIGIN late Middle English (in the general sense ‘conserving, preservation’): from Latin conservatio(n-), from the verb conservare (see conserve) .

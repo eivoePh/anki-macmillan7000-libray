@@ -1,12 +1,22 @@
 fail 
-▶verb
-1 the enterprise had failed: be unsuccessful, not succeed, fall through, fall flat, collapse, founder, backfire, meet with disaster, come to nothing, come to naught; informal flop, bomb. ANTONYMS succeed.
-2 he has failed the final French examination: be unsuccessful in, not pass; not make the grade on; informal flunk, botch, blow, screw up, bungle. ANTONYMS pass.
-3 at his lowest point, his friends failed him: let down, disappoint; desert, abandon, betray, be disloyal to; literary forsake. ANTONYMS support.
-4 the crops failed: die, wither; be deficient, be insufficient, be inadequate. ANTONYMS thrive.
-5 daylight failed: fade, dim, die away, wane, disappear, vanish.
-6 the ventilation system failed: break down, break, stop working, cut out, crash; malfunction, go wrong, develop a fault; informal conk out, go on the blink, go on the fritz. ANTONYMS work.
-7 Joe's health was failing: deteriorate, degenerate, decline, fade, wane, ebb. ANTONYMS improving.
-8 900 businesses are failing a week: collapse, crash, go under, go bankrupt, go into receivership, go into liquidation, cease trading; informal fold, flop, go bust, go broke, go belly-up. ANTONYMS thrive.
+fāl
+
+▶verb [no object]
+1 be unsuccessful in achieving one's goal: he failed in his attempt to secure election 
+[with infinitive] : they failed to be ranked in the top ten. 
+• [with object] be unsuccessful in (an examination, test, or interview): she failed her finals. 
+• [with object] (of a person or a commodity) be unable to meet the standards set by (a test of quality or eligibility): the player has failed a drug test. 
+• [with object] judge (someone, especially in an examination) not to have passed.
+2 neglect to do something: [with infinitive] : the firm failed to give adequate risk warnings. 
+• [with infinitive] behave in a way contrary to hopes or expectations by not doing something: commuter chaos has again failed to materialize. 
+• (cannot fail to be/do something) used to express a strong belief that something must be the case: you cannot fail to be deeply impressed. 
+• (never fail to do something) used to indicate that something invariably happens: such comments never failed to annoy him. 
+• [with object] desert or let down (someone): at the last moment her nerve failed her.
+3 break down; cease to work well: a truck whose brakes had failed. 
+• become weaker or of poorer quality; die away: the light began to fail 
+(as adjective failing) : his failing health. 
+• (especially of a rain or a crop or supply) be lacking or insufficient when needed or expected. 
+• (of a business or a person) be obliged to cease trading because of lack of funds; become bankrupt. 
+▶noun a grade that is not high enough to pass an examination or test. 
 PHRASES
-without fail without fail, Carlos leaves for lunch at 12:05 every day: without exception, unfailingly, regularly, invariably, predictably, conscientiously, religiously, whatever happens.
+too big to fail (of a financial organization or other business) so important to the economy of a country that a government or central bank must take measures to prevent it from ceasing to trade or going bankrupt: he caused a stir earlier this month when he said that no company was too big to fail. without fail absolutely predictably; with no exception: he writes every week without fail.ORIGIN Middle English: from Old French faillir (verb), faille (noun), based on Latin fallere ‘deceive.’ An earlier sense of the noun was ‘failure to do or perform a duty,’ surviving in the phrase without fail.

@@ -1,5 +1,15 @@
 filter 
-▶noun a carbon filter: strainer, sifter; riddle; gauze, netting.
-▶verb
-1 the farmers filter the water: sieve, strain, sift, filtrate, clarify, purify, refine, treat.
-2 the rain had filtered through her jacket: seep, percolate, leak, trickle, ooze.
+ˈfiltər
+
+▶noun a porous device for removing impurities or solid particles from a liquid or gas passed through it: an oil filter. 
+• short for filter tip: [as modifier] : a cheap filter cigarette. 
+• a screen, plate, or layer of a substance that absorbs light or other radiation or selectively absorbs some of its components: filters can be used in photography to reduce haze. 
+• a device for suppressing electrical or sound waves of frequencies not required. 
+• Computing a piece of software that processes text, for example to remove unwanted spaces or to format it for use in another application. 
+• British an arrangement whereby vehicles may turn left (or right) while other traffic waiting to go straight ahead or turn right (or left) is stopped by a red light: [as modifier] : a filter lane. 
+▶verb [with object]
+1 pass (a liquid, gas, light, or sound) through a device to remove unwanted material: the patient is hooked up to a dialysis machine twice a week to filter out the cholesterol in the blood 
+figurative : you'll be put through to a secretary whose job it is to filter calls. 
+• [no object, with adverbial of direction] move slowly or in small quantities or numbers through something or in a specified direction: people filtered out of the concert during the last set. 
+• [no object, with adverbial] (of information) gradually become known: the news began to filter in from the hospital.
+2 [with object] Computing process or treat with a filter. ORIGIN late Middle English (denoting a piece of felt): from French filtre, from medieval Latin filtrum ‘felt used as a filter,’ related to felt1 .

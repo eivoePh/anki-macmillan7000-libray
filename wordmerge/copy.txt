@@ -11,10 +11,22 @@ B.  transitive verb
 ③ (imitate) 模仿 mófǎng 
 C.  intransitive verb «exam candidate, schoolchild» 抄袭 chāoxí PHRASAL VERBS copy down transitive verb [copy down something], [copy something down] 把…抄下来 bǎ… chāo xialai copy in transitive verb [copy somebody in], [copy in somebody] 抄送 chāosòng can you copy me in on your report? 你的报告能抄送给我一份吗？ copy out transitive verb [copy out something], [copy something out] 把…抄下来 bǎ… chāo xialai 
 copy 
-▶noun
-1 a copy of the report: duplicate, facsimile, photocopy; transcript; reprint; trademark Xerox; dated carbon (copy), mimeograph, mimeo.
-2 a copy of a sketch by Leonardo da Vinci: replica, reproduction, replication, print, imitation, likeness; counterfeit, forgery, fake; informal knockoff.
-▶verb
-1 each form had to be copied: duplicate, photocopy, xerox, run off, reproduce, replicate; dated mimeograph.
-2 portraits copied from original paintings by Reynolds: reproduce, replicate; forge, fake, counterfeit.
-3 their sound was copied by a lot of jazz players: imitate, reproduce, emulate, follow, echo, mirror, parrot, mimic, ape; plagiarize, steal; informal rip off.CHOOSE THE RIGHT WORD See imitate .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+ˈkäpē
+
+▶noun (plural copies)
+1 a thing made to be similar or identical to another: the problem is telling which is the original document and which the copy.
+2 a single specimen of a particular book, record, or other publication or issue: the record has sold more than a million copies.
+3 matter to be printed: copy for the next issue must be submitted by the beginning of the month. 
+• material for a newspaper or magazine article: it is an unfortunate truth of today's media that bad news makes good copy. 
+• the text of an advertisement: “No more stubble—no more trouble,” trumpeted their ad copy. 
+▶verb (copies, copying, copied) [with object]
+1 make a similar or identical version of; reproduce: each form had to be copied and sent to a different department. 
+• Computing reproduce (data stored in one location) in another location: the command will copy a file from one disc to another. 
+• write out information that one has read or heard: he copied the details into his notebook 
+I began to copy out the addresses. 
+• (copy something to) send a copy of a letter to (a third party). 
+• (copy someone in) send someone a copy of an email that is addressed to a third party: I attached the document and copied him in so he'd know it had been sent.
+2 imitate the style or behaviour of: lifestyles that were copied from Miami and Fifth Avenue 
+she was such fun that everybody wanted to copy her 
+[no object] : art students copied from approved old masters.
+3 [no object] hear or understand someone speaking on a radio transmitter: this is Edwards, do you copy, over. ORIGIN Middle English (denoting a transcript or copy of a document): from Old French copie (noun), copier (verb), from Latin copia ‘abundance’ (in medieval Latin ‘transcript,’ from such phrases as copiam describendi facere ‘give permission to transcribe’).

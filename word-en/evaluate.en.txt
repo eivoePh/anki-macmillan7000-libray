@@ -1,2 +1,8 @@
 evaluate 
-▶verb the house was most recently evaluated in 2002: assess, judge, gauge, rate, estimate, appraise, analyze, examine, get the measure of; informal size up, check out.
+əˈvalyəˌwāt
+
+▶verb [with object] form an idea of the amount, number, or value of; assess: when you evaluate any hammer, look for precision machining 
+[with clause] : computer simulations evaluated how the aircraft would perform. 
+• Mathematics find a numerical expression or equivalent for (an equation, formula, or function). DERIVATIVES evaluator 
+-yo͞oˌātər 
+nounORIGIN mid 19th century (earlier (mid 18th century) as evaluation): from French évaluer, from es- (from Latin ex-)‘out, from’ + Old French value ‘value.’

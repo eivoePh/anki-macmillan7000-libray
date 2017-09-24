@@ -1,10 +1,30 @@
-trap 
+trap
+1 
+trap
+
 ▶noun
-1 an animal caught in a trap: snare, net, mesh, deadfall, leghold (trap), pitfall.
-2 the question was set as a trap: trick, ploy, ruse, deception, subterfuge; booby trap, ambush, setup.
-3 informal shut your trap! See mouth (sense
-1 of the noun). 
-▶verb
-1 police trapped the two men and arrested them: snare, entrap, ensnare, lay a trap for; capture, catch, bag, corner, ambush.
-2 a rat trapped in a barn: confine, cut off, corner, shut in, pen in, hem in; imprison, hold captive.
-3 I hoped to trap him into an admission: trick, dupe, deceive, lure, inveigle, beguile, fool, hoodwink; catch, trip up.
+1 a device or enclosure designed to catch and retain animals, typically by allowing entry but not exit or by catching hold of a part of the body.trap1
+1 
+• a curve in the waste pipe from a bathtub, sink, or toilet that is always full of liquid and prevents gases from coming up the pipe into the building. 
+• [with modifier] a container or device used to collect a specified thing: one fuel filter and water trap are sufficient on the fuel system. 
+• a bunker or other hollow on a golf course. 
+• the compartment from which a greyhound is released at the start of a race.
+2 a situation in which people lie in wait to make a surprise attack: police deliberately herded 400 demonstrators into a trap and then attacked and arrested them. 
+• an unpleasant situation from which it is hard to escape: they fell into the trap of relying too little on equity financing. 
+• a trick by which someone is misled into acting contrary to their interests or intentions: by keeping quiet I was walking into a trap.
+3 a device for hurling an object such as a clay pigeon into the air to be shot at. 
+• (in the game of trapball) the shoe-shaped device that is hit with a bat to send the ball into the air.
+4 chiefly historical a light, two-wheeled carriage pulled by a horse or pony.
+5 short for trapdoor.
+6 informal a person's mouth (used in expressions to do with speaking): keep your trap shut!
+7 (usually traps) informal percussion instruments, typically in a jazz band.
+8 Baseball & American Football an act of trapping the ball.
+9 US informal a place where drugs are sold: a trap full of dealers. 
+▶verb (traps, trapping, trapped) [with object] catch (an animal) in a trap. 
+• prevent (someone) from escaping from a place: twenty workers were trapped by flames. 
+• have (something, typically a part of the body) held tightly by something so that it cannot move or be freed: he had trapped his finger in a spring-loaded hinge. 
+• induce (someone), by means of trickery or deception, to do something they would not otherwise want to do: I hoped to trap him into an admission. 
+• Baseball & American Football catch (the ball) after it has briefly touched the ground. 
+• Soccer bring (the ball) under control with the feet or other part of the body on receiving it. DERIVATIVES traplike 
+-ˌlīk 
+adjectiveORIGIN Old English træppe (in coltetræppe ‘Christ's thorn’); related to Middle Dutch trappe and medieval Latin trappa, of uncertain origin. The verb dates from late Middle English.

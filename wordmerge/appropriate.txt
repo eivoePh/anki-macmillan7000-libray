@@ -8,9 +8,13 @@ transitive verb
 ① (gen) 占用 zhànyòng 
 ② especially Law 拨发 bōfā ‹funds, assets›
 appropriate 
-▶adjective this isn't the appropriate time: suitable, proper, fitting, apt, right; relevant, pertinent, apposite; convenient, opportune; seemly, befitting; formal ad rem; archaic meet. ANTONYMS unsuitable.
-▶verb
-1 the barons appropriated church lands: seize, commandeer, expropriate, annex, arrogate, sequestrate, sequester, take over, hijack.
-2 he had allegedly appropriated company funds: steal, take; informal swipe, nab, bag, pinch.
-3 his images have been appropriated by advertisers: plagiarize, copy; poach, steal, borrow; informal rip off.
-4 we are appropriating funds for these expenses: allocate, assign, allot, earmark, set aside, devote, apportion.
+▶adjective 
+əˈprōprēət 
+suitable or proper in the circumstances: a measure appropriate to a wartime economy. 
+▶verb 
+əˈprōprēˌāt 
+[with object]
+1 take (something) for one's own use, typically without the owner's permission: his images have been appropriated by advertisers.
+2 devote (money or assets) to a special purpose: there can be problems in appropriating funds for legal expenses. DERIVATIVES appropriator 
+əˈprōprēˌādər 
+nounORIGIN late Middle English: from late Latin appropriatus, past participle of appropriare ‘make one's own,’ from ad- ‘to’ + proprius ‘own, proper.’

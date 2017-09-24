@@ -1,8 +1,18 @@
 wreck 
-▶noun
-1 salvage teams landed on the wreck by helicopter: shipwreck, sunken ship, derelict; shell, hull; wreckage.
-2 the wreck of a stolen car: wreckage, debris, remainder, ruins, remains.
-▶verb
-1 he had wrecked her car: demolish, crash, smash up, damage, destroy; vandalize, deface, desecrate; informal trash, total.
-2 his ship was wrecked: shipwreck, sink, capsize, run aground.
-3 the crisis wrecked his plans: ruin, spoil, disrupt, undo, put a stop to, frustrate, blight, crush, quash, dash, destroy, scotch, shatter, devastate, sabotage; informal mess up, screw up, foul up, put paid to, scupper, scuttle, stymie, put the kibosh on, nix.
+rek
+
+▶noun the destruction of a ship at sea; a shipwreck: the survivors of the wreck. 
+• a ship destroyed at sea: the salvaging of treasure from wrecks. 
+• Law goods brought ashore by the sea from a wreck and not claimed by the owner within a specified period (usually a year): the profits of wreck. 
+• something, especially a vehicle or building, that has been badly damaged or destroyed: the plane was reduced to a smoldering wreck 
+figurative : the wreck of their marriage. 
+• the disorganized remains of something that has suffered damage or destruction. 
+• North American a road or rail crash: a train wreck. 
+• a person whose physical or mental health or strength has failed: the scandal left the family emotional wrecks. 
+▶verb [with object] (usually be wrecked) cause the destruction of (a ship) by sinking or breaking up: he was drowned when his ship was wrecked. 
+• involve (someone) in a wreck: sailors who had the misfortune to be wrecked on these coasts. 
+• [no object] (usually as noun wrecking) chiefly historical cause the destruction of a ship in order to steal the cargo: the locals reverted to the age-old practice of wrecking. 
+• [no object] archaic suffer or undergo shipwreck. 
+• destroy or severely damage (a structure or vehicle): the blast wrecked more than 100 houses. 
+• spoil completely: an eye injury wrecked his chances of a professional career. 
+• [no object] (usually as noun wrecking) chiefly North American engage in breaking up badly damaged vehicles, demolishing old buildings, or similar activities to obtain usable spares or scrap. ORIGIN Middle English (as a legal term denoting wreckage washed ashore): from Anglo-Norman French wrec, from the base of Old Norse reka ‘to drive’; related to wreak .

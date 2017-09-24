@@ -15,12 +15,15 @@ C.  transitive verb
 ① (detect by smell) 闻出 wénchū 
 ② figurative (expose) 查出 cháchū ‹crime, criminal›; 发现 fāxiàn ‹news story, bargain›
 sniff 
-▶verb
-1 she sniffed and blew her nose: inhale, breathe in; snuffle.
-2 Sandra sniffed the socks and grimaced: smell, scent, get a whiff of.
-▶noun
-1 she gave a loud sniff: snuffle, inhalation.
-2 a sniff of fresh air: smell, scent, whiff; lungful.
-3 informal the first sniff of trouble: indication, hint, whiff, inkling, suggestion, whisper, trace, sign, suspicion.
-PHRASES
-sniff at how dare you sniff at me just because I'm poor? scorn, disdain, hold in contempt, look down one's nose at, treat as inferior, look down on, sneer at, scoff at; informal turn one's nose up at. sniff out informal McMahon and Romero were sent uptown to sniff out the source of these letters: detect, find, discover, bring to light, track down, dig up, hunt out, ferret out, root out, uncover, unearth.
+snif
+
+▶verb [no object] draw in air audibly through the nose to detect a smell, to stop it from running, or to express contempt: his dog sniffed at my trousers 
+[with direct speech] : “You're behaving in an unladylike fashion,” sniffed Mother. 
+• [with object] draw in (a scent, substance, or air) through the nose. 
+• [usually with negative] (sniff at) show contempt or dislike for: the price is not to be sniffed at. 
+• (sniff around) informal investigate covertly, especially to find out confidential or incriminating information about someone. 
+• [with object] (sniff something out) informal discover something by investigation: he made millions upon millions sniffing out tax loopholes for companies. 
+▶noun an act or sound of drawing air through the nose: he gave a sniff of disapproval. 
+• an amount of air or other substance taken up through the nose: his drug use was confined to a sniff of amyl nitrite. 
+• [in singular] informal a trace, hint, or small amount: they're off at the first sniff of trouble. 
+• [in singular] British informal a small chance: the Olympic hosts will at least get a sniff at a medal. ORIGIN Middle English: imitative.

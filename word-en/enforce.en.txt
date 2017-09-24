@@ -1,4 +1,5 @@
 enforce 
-▶verb
-1 the sheriff enforced the law: impose, apply, administer, implement, bring to bear, discharge, execute, prosecute.
-2 they cannot enforce cooperation between the parties: force, compel, coerce, exact, extort; archaic constrain.
+inˈfôrs enˈfôrs
+
+▶verb [with object] compel observance of or compliance with (a law, rule, or obligation). 
+• cause (something) to happen by necessity or force: there is no outside agency to enforce cooperation between the players. ORIGIN Middle English (in the senses ‘strive’ and ‘impel by force’; formerly also as inforce): from Old French enforcir, enforcier, based on Latin in- ‘in’ + fortis ‘strong.’

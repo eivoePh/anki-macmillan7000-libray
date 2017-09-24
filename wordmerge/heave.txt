@@ -16,9 +16,24 @@ C.  noun
 A.  transitive verb[heave something to] 顶风停航 dǐngfēng tíngháng ‹ship›
 B.  intransitive verb «ship» 顶风停航 dǐngfēng tíngháng ; «crew» 顶风停船 dǐngfēng tíng chuán 
 heave 
-▶verb
-1 she heaved the sofa backward: haul, pull, lug, drag, draw, tug, heft; informal hump, yank.
-2 informal she heaved a brick at him: throw, fling, cast, toss, hurl, lob, pitch; informal chuck, sling.
-3 he heaved a sigh of relief: let out, breathe, give, sigh; emit, utter.
-4 the sea heaved: rise and fall, roll, swell, surge, churn, seethe, swirl.
-5 she heaved into the sink: retch, gag; vomit, be sick, get sick; informal throw up, puke, hurl, spew, barf, upchuck, ralph.
+hēv
+
+▶verb (past and past participle heaved or chiefly Nautical hove 
+hōv
+)
+1 [with object] lift or haul (a heavy thing) with great effort: she heaved the sofa back into place 
+he heaved himself out of bed. 
+• Nautical pull, raise, or move (a boat or ship) by hauling on a rope or ropes. 
+• informal throw (something heavy): she heaved half a brick at him.
+2 [with object] produce (a sigh): he heaved a euphoric sigh of relief.
+3 [no object] rise and fall rhythmically or spasmodically: his shoulders heaved as he panted. 
+• make an effort to vomit; retch: my stomach heaved. 
+▶noun
+1 an act of heaving, especially a strong pull. 
+• Geology a sideways displacement in a fault.
+2 (the heaves) informal a case of retching or vomiting: waiting for the heaves to subside.
+3 (heaves) a disease of horses, with labored breathing. 
+PHRASES
+heave in sight (or into view) chiefly Nautical come into view: the three canoes hove into view.PHRASAL VERBS heave to Nautical (of a boat or ship) come to a stop, especially by turning across the wind leaving the headsail backed: he hove to and dropped anchor.DERIVATIVES heaver 
+ˈhēvər 
+nounORIGIN Old English hebban, of Germanic origin; related to Dutch heffen and German heben ‘lift up.’

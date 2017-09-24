@@ -6,10 +6,15 @@ noun
 ① (add up to) 总计 zǒngjì a cargo amounting to 2,000 tons 共计2,000吨的货物 
 ② (be equivalent to) 相当于 xiāngdāng yú it amounts to blackmail 这等于勒索 it amounts to the same thing (to [somebody]) （对某人而言）都是一回事 the rain didn't amount to much 雨并没有下大 he'll never amount to much 他绝不会有多大出息的 
 amount 
-▶noun a fair amount of roast beef 
-we sold a comparable amount in the second quarter: quantity, number, total, aggregate, sum, quota, group, size, mass, weight, volume, bulk, lot, quantum.
+əˈmount
+
+▶noun a quantity of something, typically the total of a thing or things in number, size, value, or extent: the sport gives an enormous amount of pleasure to many people 
+the substance is harmless if taken in small amounts. 
+• a sum of money: they have spent a colossal amount rebuilding the stadium. 
+▶verb [no object] (amount to) come to be (the total) when added together: losses amounted to over
+10 million dollars. 
+• be the equivalent of: their actions amounted to a conspiracy 
+what this guy was doing clearly did amount to persecution. 
+• develop into; become: you'll never amount to anything. 
 PHRASES
-the full amount we can't make a payment schedule until we know the full amount: the grand total, the total, the aggregate; informal the whole kit and caboodle, the whole shebang, the whole nine yards. amount to
-1 the bill amounted to $50: add up to, come to, run (to), be, total.
-2 a result that amounted to complete failure: constitute, be tantamount to, come down to, boil down to; signify, signal, mean, indicate, suggest, denote, point to, be evidence of, be symptomatic of; literary betoken.
-3 her relationships had never amounted to anything significant: become, develop into, prove to be, turn out to be.
+any amount of a great deal or number of: a good marriage can withstand any amount of external pressure. no amount of not even the greatest possible amount of: no amount of talk is going to change anything.ORIGIN Middle English (as a verb): from Old French amunter, from amont ‘upward,’ literally ‘uphill,’ from Latin ad montem. The noun use dates from the early 18th century.

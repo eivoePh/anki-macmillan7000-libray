@@ -1,8 +1,11 @@
 harvest 
-▶noun
-1 we all helped with the harvest: harvesting, reaping, picking, collecting.
-2 a poor harvest: yield, crop, vintage; fruits, produce.
-3 the experiment yielded a meager harvest: return, result, fruits; product, output, effect; consequence.
-▶verb
-1 he harvested the wheat: gather (in), bring in, reap, pick, collect.
-2 she harvested many honors: acquire, obtain, gain, get, earn; accumulate, amass, gather, collect; informal land, net, bag, rake in, scoop up.
+ˈhärvəst
+
+▶noun the process or period of gathering in crops: helping with the harvest. 
+• the season's yield or crop: a poor harvest. 
+• a quantity of animals caught or killed for human use: a limited harvest of wild mink. 
+• the product or result of an action: in terms of science, Apollo yielded a meager harvest. 
+▶verb [with object] gather (a crop) as a harvest: (as noun harvesting) : after harvesting, most of the crop is stored in large buildings. 
+• catch or kill (animals) for human consumption or use. 
+• remove (cells, tissue, or an organ) from a person or animal for transplantation or experimental purposes. 
+• collect or obtain (a resource) for future use: the research teams are leading the way in identifying new ways of harvesting the sun's energy. DERIVATIVES harvestable adjectiveORIGIN Old English hærfest ‘autumn,’ of Germanic origin; related to Dutch herfst and German Herbst, from an Indo-European root shared by Latin carpere ‘pluck’ and Greek karpos ‘fruit.’

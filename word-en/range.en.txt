@@ -1,10 +1,45 @@
 range 
+rānj
+
 ▶noun
-1 his range of vision: span, scope, compass, sweep, extent, area, field, orbit, ambit, horizon, latitude; limits, bounds, confines, parameters.
-2 a range of mountains: row, chain, sierra, ridge, massif; line, string, series.
-3 a range of quality foods: assortment, variety, diversity, mixture, collection, array, selection, choice.
-4 she put the dish into the range: stove, oven.
-5 cows grazed on the open range: pasture, pasturage, pastureland, prairie, grass, grassland, grazing land, veld; literary greensward.
+1 the area of variation between upper and lower limits on a particular scale: the cost is thought to be in the range of $1-5 million a day 
+it's outside my price range. 
+• the scope of a person's knowledge or abilities: he gave some indication of his range. 
+• the compass of a person's voice or of a musical instrument: she was gifted with an incredible vocal range. 
+• the extent of time covered by something such as a forecast. 
+• the area or extent covered by or included in something: an introductory guide to the range of debate this issue has generated. 
+• Mathematics the set of values that a given function can take as its argument varies.
+2 a set of different things of the same general type: the area offers a wide range of activities for the tourist.
+3 the distance within which something can be reached or perceived: something lurked just beyond her range of vision. 
+• the distance that can be covered by a vehicle or aircraft without refueling: the vans have a range of 125 miles. 
+• the maximum distance at which a radio transmission can be effectively received: planets within radio range of Earth. 
+• the maximum distance to which a gun will shoot or over which a missile will travel: these rockets have a range of 30 to 40 miles 
+a duck came within range. 
+• the distance between a camera and the subject to be photographed. 
+• Surveying the horizontal direction and length of a survey line determined by at least two fixed points.
+4 a line or series of mountains or hills: the coastal ranges of the northwest. 
+• US a series of townships extending north and south parallel to the principal meridian of a survey. 
+• Nautical a line defined by landmarks or beacons, used to locate something offshore, especially a navigable channel or a hazard.
+5 a large area of open land for grazing or hunting. 
+• an area of land or sea used as a testing ground for military equipment. 
+• an open or enclosed area with targets for shooting practice. 
+• the area over which a thing, especially a plant or animal, is distributed.
+6 an electric or gas stove with several burners and one or more ovens.
+7 Building a course of masonry extending from end to end at one height. 
+• a row of buildings.
+8 archaic the direction or position in which something lies: the range of the hills and valleys is nearly from north to south. 
 ▶verb
-1 interest charges range from 1% to 5%: vary, fluctuate, differ; extend, stretch, reach, cover, go, run.
-2 they ranged over the sprawling hills: roam, rove, traverse, travel, journey, wander, drift, ramble, meander, stroll, traipse, walk, hike, trek.CHOOSE THE RIGHT WORD range, compass, gamut, latitude, reach, scope, sweep To say that someone has a wide range of interests implies that these interests are not only extensive but varied. Another way of expressing the same idea would be to say that the person's interests run the gamut from TV quiz shows to nuclear physics, gamut being a word that suggests a graduated scale or series running from one extreme to another. Compass implies a range of knowledge or activity that falls within very definite limits reminiscent of a circumference (within the compass of her abilities), while sweep suggests more of an arc-shaped range of motion or activity (the sweep of the searchlight) or a continuous extent or stretch (a broad sweep of lawn). Latitude and scope both emphasize the idea of freedom, although scope implies freedom within prescribed limits (the scope of the investigation), while latitude means freedom from such limits (she was granted more latitude than usual in interviewing the disaster victims). Even someone who has a wide range of interests and a broad scope of authority, however, will sooner or later come up against something that is beyond their reach, which suggests the furthest limit of effectiveness or influence.These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 [no object] vary or extend between specified limits: patients whose ages ranged from
+13 to 25 years.
+2 [with object] (usually be ranged) place or arrange in a row or rows or in a specified order or manner: a table with half a dozen chairs ranged around it. 
+• [no object] run or extend in a line in a particular direction: he regularly came to the benches that ranged along the path.
+3 [no object] (of a person or animal) travel or wander over a wide area: patrols ranged thousands of miles deep into enemy territory 
+[with object] : nomadic tribesmen who ranged the windswept lands of the steppe. 
+• (of a person's eyes) pass from one person or thing to another: his eyes ranged over them. 
+• (of something written or spoken) cover or embrace a wide number of different topics: tutorials ranged over a variety of subjects.
+4 [no object] obtain the range of a target by adjustment after firing past it or short of it, or by the use of radar or laser equipment: radar-type transmissions which appeared to be ranging on our convoys. 
+• [with adverbial] (of a projectile) cover a specified distance. 
+• [with adverbial] (of a gun) send a projectile over a specified distance. 
+PHRASES
+at a range of with a specified distance between one person or thing and another: a bat can detect a moth at a range of less than
+8 feet.ORIGIN Middle English (in the sense ‘line of people or animals’): from Old French range ‘row, rank,’ from rangier ‘put in order,’ from rang ‘rank.’ Early usage also included the notion of ‘movement over an area.’

@@ -1,9 +1,23 @@
-rally 
-▶verb
-1 the troops rallied and held their ground: regroup, reassemble, re-form, reunite. ANTONYMS disperse.
-2 he rallied an army: muster, marshal, mobilize, raise, call up, recruit, enlist, conscript; assemble, gather, round up, draft; formal convoke. ANTONYMS demobilize, disband.
-3 team owners rallied to denounce the rumors: get together, band together, assemble, join forces, unite, ally, collaborate, cooperate, pull together. ANTONYMS separate, split up.
-4 share prices rallied: recover, improve, get better, pick up, revive, bounce back, perk up, look up, turn a corner. ANTONYMS deteriorate, slump.
-▶noun
-1 a rally in support of the strike: meeting, mass meeting, gathering, assembly; demonstration, march, protest march, protest, counterdemonstration.
-2 a rally in oil prices: recovery, upturn, improvement, comeback, resurgence. ANTONYMS slump.
+rally
+1 
+ˈralē
+
+▶verb (rallies, rallying, rallied) [no object]
+1 (of troops) come together again in order to continue fighting after a defeat or dispersion: De Montfort's troops rallied and drove back the king's infantry. 
+• [with object] bring together (forces) again in order to continue fighting: the king escaped to Perth to rally his own forces. 
+• assemble in a mass meeting: up to 50,000 people rallied in the city center. 
+• bring or come together in order to support a person or cause or for concerted action: [with object] : a series of meetings to rally support for the union 
+[no object] : conservatives in the GOP rallied behind Goldwater.
+2 recover or cause to recover in health, spirits, or poise: [no object] : she floundered for a moment, then rallied again 
+[with object] : they rallied her with a drink. 
+• (of share, currency, or commodity prices) increase after a fall: prices of metals such as aluminum and copper have rallied.
+3 drive in a rally. 
+• (in tennis and other racket sports) engage in a rally. 
+▶noun (plural rallies)
+1 a mass meeting of people making a political protest or showing support for a cause: a rally attended by around 100,000 people. 
+• an open-air event for people who own a particular kind of vehicle: a traction engine rally.
+2 (also rallye) a competition for motor vehicles in which they are driven a long distance over public roads or rough terrain, typically in stages and through checkpoints: [as modifier] : a rally driver.
+3 a quick or marked recovery after a reverse or a period of weakness: the market staged a late rally. 
+• (in baseball and football) a renewed or sustained offensive, usually by the losing team, that ties or wins the game.
+4 (in tennis and other racket sports) an extended exchange of strokes between players. DERIVATIVES rallier noun. rallyist noun rally1 ( sense
+2 of the noun) ORIGIN early 17th century (in the sense ‘bring together again’): from French rallier, from re- ‘again’ + allier ‘to ally.’

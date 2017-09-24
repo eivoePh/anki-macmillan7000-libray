@@ -15,10 +15,17 @@ C.  costs noun plural
 ① Law (legal) costs 诉讼费用 sùsòngfèi yòng 
 ② Busn, Finance 成本 chéngběn to cut costs 削减成本 to cover one's costs 保本 
 cost 
-▶noun
-1 the cost of the equipment: price, asking price, market price, selling price, unit price, fee, tariff, fare, toll, levy, charge, rental; value, valuation, quotation, rate, worth; informal, humorous damage.
-2 the human cost of the conflict: sacrifice, loss, expense, penalty, toll, price.
-3 (costs) we need to make $10,000 to cover our costs: expenses, disbursements, overheads, running costs, operating costs, fixed costs; expenditure, spending, outlay.
-▶verb
-1 the chair costs $186: be priced at, sell for, be valued at, fetch, come to, amount to; informal set someone back, go for.
-2 the proposal has not yet been costed: put a price on, price, value, put a value on, put a figure on.
+kôst
+
+▶verb (past and past participle cost) [with object]
+1 (of an object or an action) require the payment of (a specified sum of money) before it can be acquired or done: each issue of the magazine costs $2.25. 
+• cause the loss of: driving at more than double the speed limit cost the woman her driving license. 
+• informal be expensive for (someone): if you want to own an island, it'll cost you.
+2 (past and past participle costed) estimate the price of: it is their job to plan and cost a media schedule for the campaign. 
+▶noun an amount that has to be paid or spent to buy or obtain something: we are able to cover the cost of the event 
+health care costs 
+the tunnel has been built at no cost to the state. 
+• the effort, loss, or sacrifice necessary to achieve or obtain something: she averted a train accident at the cost of her life. 
+• (costs) legal expenses, especially those allowed in favor of the winning party or against the losing party in a suit. 
+PHRASES
+at all costs (or at any cost) regardless of the price to be paid or the effort needed: he was anxious to avoid war at all costs.at cost at cost price; without profit to the seller. cost an arm and a leg see arm1. cost someone dearly (or dear) involve someone in a serious loss or a heavy penalty: they were really bad mistakes on my part and they cost us dearly.ORIGIN Middle English: from Old French coust (noun), couster (verb), based on Latin constare ‘stand firm, stand at a price.’

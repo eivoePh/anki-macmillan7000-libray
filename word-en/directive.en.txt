@@ -1,2 +1,5 @@
 directive 
-▶noun a directive from the front office: instruction, direction, command, order, charge, injunction, prescription, rule, ruling, regulation, law, dictate, decree, dictum, edict, mandate, fiat; formal ordinance.
+dəˈrektiv
+
+▶noun an official or authoritative instruction: moral and ethical directives. 
+▶adjective involving the management or guidance of operations: he is seeking a directive role in energy policy. ORIGIN late Middle English (as an adjective): from medieval Latin directivus, from direct- ‘guided, put straight,’ from the verb dirigere (see direct) .

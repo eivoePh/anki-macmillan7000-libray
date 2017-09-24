@@ -1,9 +1,39 @@
 feed 
-▶verb
-1 I've got three kids to feed: give food to, provide (food) for, cater for, cook for.
-2 the baby will feed according to her needs: nurse, breastfeed, suckle; bottle-feed.
-3 too many cows feeding in a small area: graze, browse, crop, pasture; eat, consume food, chow down.
-4 the birds feed on a varied diet: live on/off, exist on, subsist on, eat, consume.
-5 this series of victories fed his growing sense of invincibility: strengthen, fortify, support, bolster, reinforce, boost, fuel, encourage.
-6 he regularly fed information to the police: supply, provide, give, deliver, furnish, issue, pass on.
-▶noun feed for goats and sheep: fodder, food, forage, pasturage, herbage, provender; formal comestibles.
+fēd
+
+▶verb (past and past participle fed 
+fed
+) [with object]
+1 give food to: the raiders fed the guard dog to keep it quiet 
+[with two objects] : he fed her brownies he had just baked. 
+• [no object] (especially of an animal or baby) take food; eat something: morays emerge at night to feed. 
+• provide an adequate supply of food for: the island's simple agriculture could hardly feed its inhabitants. 
+• [no object] (feed on/off) derive regular nourishment from (a particular substance): the bird feeds on cliff-top vegetation 
+figurative : his powerful mind fed off political discussion. 
+• encourage the growth of: I could feed my melancholy by reading Romantic poetry. 
+• give fertilizer to (a plant). 
+• put fuel on (a fire).
+2 supply (a machine) with material, power, or other things necessary for its operation: the programs are fed into the computer. 
+• [with two objects] supply (someone) with (information, ideas, etc.): I think he is feeding his old employer commercial secrets. 
+• supply water to (a body of water): the pond is fed by a small stream 
+[no object] : water feeds into the lower pool. 
+• insert further coins into (a meter) to extend the time for which it operates. 
+• [with two objects] prompt (an actor) with (a line): you were still in the wings feeding Micky his lines. 
+• (in ball games) pass (the ball) to a player: he took the ball and fed Salley. 
+• US distribute (a broadcast) to local television or radio stations via satellite or network: programs that the national networks feed to local stations.
+3 cause to move gradually and steadily, typically through a confined space: make holes through which to feed the cables. 
+▶noun
+1 an act of giving food, especially to animals or a baby, or of having food given to one: I've just given the horse her feed. 
+• informal a meal: how 'bout I fix up a nice hot feed? 
+• food for domestic animals: the crops are grown for animal feed 
+cow feed.
+2 a device or conduit for supplying material to a machine: the plotter has a continuous paper feed. 
+• the supply of raw material to a machine or device: [as modifier] : a feed pipe. 
+• a broadcast distributed by satellite or network from a central source to a large number of radio or television stations: a satellite feed from Washington. 
+• Computing a facility for notifying the user of a blog or other frequently updated website that new content has been added: most blogs and news sites offer RSS feeds of their latest content.
+3 a line or prompt given to an actor on stage. 
+• an actor who provides a feed to a fellow performer. 
+PHRASES
+off one's feed informal having no appetite.PHRASAL VERBS feed back
+1 (of a response) influence the development of the thing that has given rise to it: what the audience tells me feeds back into my work.
+2 (of an electrical or other system) produce feedback.ORIGIN Old English fēdan (verb); related to food .

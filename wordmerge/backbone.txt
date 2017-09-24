@@ -1,4 +1,6 @@
-backbone noun 
+backbone
+ˈbakˌbōn
+noun 
 ① Countable(spine) (of person, animal) 脊柱 jǐzhù (of fish) 脊骨 jǐgǔ 
 ② Countable(central ridge) 主山脊 zhǔshānjǐ 
 ③ Countable AmE (of book) 书脊 shūjǐ 
@@ -6,7 +8,12 @@ backbone noun
 ⑤ Uncountablefigurative (courage) 胆量 dǎnliàng (perseverance) 毅力 yìlì to have the backbone to do [something] 有胆量做某事 
 ⑥ CountableComputing 网络中枢 wǎngluò zhōngshū 
 backbone 
+ˈbakˌbōn
+
 ▶noun
-1 an injured backbone: spine, spinal column, vertebral column, vertebrae; back; Anatomy dorsum, rachis.
-2 the infantry is the backbone of our army: mainstay, cornerstone, foundation, chief support, buttress, pillar, tower of strength.
-3 he has enough backbone to see us through: strength of character, strength of will, firmness, resolution, resolve, determination, fortitude, pluck, pluckiness, nerve, courage, mettle, spirit, moral fiber; informal guts, spunk, grit, true grit.
+1 the series of vertebrae extending from the skull to the pelvis; the spine. 
+• US the spine of a book. 
+• Biochemistry the main chain of a polymeric molecule.
+2 the chief support of a system or organization; the mainstay: these firms are the backbone of our industrial sector. 
+• strength of character; firmness: he has the backbone to see us through this difficulty.
+3 Computing & Telecommunications a high-speed, high-capacity digital connection which forms the axis of a local or wide area network.

@@ -1,14 +1,36 @@
 balance 
+ˈbaləns
+
 ▶noun
-1 I tripped and lost my balance: stability, equilibrium, steadiness, footing. ANTONYMS instability.
-2 political balance in broadcasting: fairness, justice, impartiality, evenhandedness, egalitarianism, equal opportunity; parity, equity, equilibrium, equipoise, evenness, symmetry, correspondence, uniformity, equality, equivalence, comparability. ANTONYMS imbalance.
-3 this stylistic development provides a balance to the rest of the work: counterbalance, counterweight, stabilizer, compensation.
-4 the food was weighed on a balance: scale(s), weighing machine.
-5 the balance of the rent: remainder, outstanding amount, rest, residue, difference, remaining part.
-▶verb
-1 she balanced the book on her head: steady, stabilize, poise, level.
-2 he balanced his radical remarks with more familiar declarations: counterbalance, balance out, offset, even out/up, counteract, compensate for, make up for.
-3 their income and expenditure do not balance: correspond, agree, tally, match up, concur, coincide, be in agreement, be consistent, equate, be equal.
-4 you need to balance cost against benefit: weigh, weigh up, compare, evaluate, consider, assess, appraise, judge.
+1 an even distribution of weight enabling someone or something to remain upright and steady: balance
+3 slipping in the mud but keeping their balance 
+she lost her balance before falling. 
+• stability of one's mind or feelings: the way to some kind of peace and personal balance. 
+• Sailing the ability of a boat to stay on course without adjustment of the rudder.
+2 a condition in which different elements are equal or in the correct proportions: overseas investments can add balance to an investment portfolio 
+[in singular] : try to keep a balance between work and relaxation. 
+• Art harmony of design and proportion. 
+• [in singular] the relative volume of various sources of sound: the balance of the voices is good.
+3 an apparatus for weighing, especially one with a central pivot, beam, and a pair of scales. 
+• (the Balance) the zodiacal sign or constellation Libra.
+4 a counteracting weight or force. 
+• (also balance wheel) the regulating device in a mechanical clock or watch.
+5 a predominating weight or amount; the majority: the balance of opinion was that work was more important than leisure.
+6 a figure representing the difference between credits and debits in an account; the amount of money held in an account: he accumulated a healthy balance with the savings bank. 
+• the difference between an amount due and an amount paid: unpaid credit-card balances. 
+• [in singular] an amount left over. 
+▶verb [with object]
+1 keep or put (something) in a steady position so that it does not fall: a mug that she balanced on her knee. 
+• [no object] remain in a steady position without falling: Richard balanced on the ball of one foot.
+2 offset or compare the value of (one thing) with another: the cost of obtaining such information needs to be balanced against its benefits. 
+• counteract, equal, or neutralize the weight or importance of: he balanced his radical remarks with more familiar declarations. 
+• establish equal or appropriate proportions of elements in: balancing work and family life.
+3 compare debits and credits in (an account), typically to ensure that they are equal: the law requires the council to balance its books each year. 
+• [no object] (of an account) have credits and debits equal. 
 PHRASES
-in the balance thanks to these dismal sales figures, everyone's job is in the balance: uncertain, undetermined, unsettled, unresolved, unsure, pending, in limbo, up in the air, at a turning point, critical, at a critical stage, at a crisis. on balance on balance, I'd say the scenery for Act II is coming along great: overall, all in all, all things considered, taking everything into consideration/account, by and large, on average.
+balance of payments the difference in total value between payments into and out of a country over a period. balance of power
+1 a situation in which nations of the world have roughly equal power.
+2 the power held by a small group when larger groups are of equal strength. balance of trade the difference in value between a country's imports and exports. in the balance uncertain; at a critical stage: his survival hung in the balance for days. on balance with all things considered: but on balance he was pleased. strike a balance choose a moderate course or compromise: she's decided to strike a balance between fashionable and accessible.DERIVATIVES balancer 
+ˈbalənsər 
+nounORIGIN Middle English ( sense
+3 of the noun): from Old French balance (noun), balancer (verb), based on late Latin (libra) bilanx ‘(balance) having two scalepans,’ from bi- ‘twice, having two’ + lanx ‘scalepan.’

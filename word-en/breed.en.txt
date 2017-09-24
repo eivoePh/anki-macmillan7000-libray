@@ -1,8 +1,17 @@
 breed 
-▶verb
-1 elephants breed readily in captivity: reproduce, produce/bear/generate offspring, procreate, multiply, propagate; mate.
-2 she was born and bred in the village: bring up, rear, raise, nurture.
-3 the political system bred discontent: cause, bring about, give rise to, lead to, produce, generate, foster, result in; stir up; literary beget.
-▶noun
-1 a breed of cow: variety, stock, strain; type, kind, sort.
-2 a new breed of journalist: type, kind, sort, variety, class, brand, genre, generation.
+brēd
+
+▶verb (past and past participle bred 
+bred
+) [no object] (of animals) mate and then produce offspring: toads are said to return to the pond of their birth to breed 
+(as adjective breeding) : the breeding season. 
+• [with object] cause (an animal) to produce offspring, typically in a controlled and organized way: he wants to see the animals his new stock has been bred from. 
+• [with object] develop (a kind of animal or plant) for a particular purpose or quality: these horses are bred for this sport. 
+• [with object] rear and train (someone) to behave in a particular way or have certain qualities: Theresa had been beautifully bred. 
+• [with object] cause (something) to happen or occur, typically over a period of time: success breeds confidence. 
+• Physics [with object] create (fissile material) by nuclear reaction. 
+▶noun a stock of animals or plants within a species having a distinctive appearance and typically having been developed by deliberate selection. 
+• a sort or kind of person or thing: a new breed of entrepreneurs was brought into being. 
+PHRASES
+a breed apart a sort or kind or person that is very different from the norm: Japanese capitalism is a breed apart from that found in the U
+S.  a dying breed a sort or kind of person that is slowly disappearing: the country's dying breed of elder statesmen. what's bred in the bone will come out in the flesh (or blood) see bone. ORIGIN Old English brēdan ‘produce (offspring), bear (a child),’ of Germanic origin; related to German brüten, also to brood .

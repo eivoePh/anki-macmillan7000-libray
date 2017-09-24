@@ -4,7 +4,14 @@ adjective
 ① (producing large amounts) 高产的 gāochǎn de ‹industry, methods, land›
 ② (constructive) 富有成效的 fùyǒu chéngxiào de ‹meeting, collaboration›; 有收获的 yǒu shōuhuò de ‹experience, life›
 productive 
-▶adjective
-1 a productive artist: prolific, inventive, creative; energetic.
-2 productive talks: useful, constructive, profitable, fruitful, gainful, valuable, effective, worthwhile, helpful.
-3 productive land: fertile, fruitful, rich, fecund. ANTONYMS sterile, barren.
+prəˈdəktiv
+
+▶adjective producing or able to produce large amounts of goods, crops, or other commodities: the most productive employees. 
+• relating to or engaged in the production of goods, crops, or other commodities: the country's productive capacity. 
+• achieving or producing a significant amount or result: a long and productive career 
+the therapy sessions became more productive. 
+• [predicative] (productive of) producing or giving rise to: the unconscious is limitlessly productive of dreams, myths, stories. 
+• Linguistics (of a morpheme or other linguistic unit) currently used in forming new words or expressions: many suffixes are common and productive. 
+• Medicine (of a cough) that raises mucus from the respiratory tract. DERIVATIVES productiveness 
+prəˈdəktivnəs 
+nounORIGIN early 17th century: from French productif, -ive or late Latin productivus, from product- ‘brought forth,’ from the verb producere (see produce) .

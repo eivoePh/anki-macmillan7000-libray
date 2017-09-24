@@ -1,8 +1,28 @@
 fold
 1 
-▶verb
-1 I folded the cloth: double (over/up), crease, turn under/up/over, bend; tuck, gather, pleat.
-2 fold the cream into the chocolate mixture: mix, blend, stir gently, incorporate.
-3 he folded her in his arms: enfold, wrap, envelop; take, gather, clasp, squeeze, clutch; embrace, hug, cuddle, cradle.
-4 the firm folded last year: fail, collapse, founder; go bankrupt, become insolvent, cease trading, go into receivership, go into liquidation, be closed (down), be shut (down); informal crash, go bust, go broke, go under, go belly up.
-▶noun there was a fold in the paper: crease, wrinkle, crinkle, pucker, furrow; pleat, gather.
+fōld
+
+▶verb [with object]
+1 bend (something flexible and relatively flat) over on itself so that one part of it covers another: she folded all her clothes and packed all her bags. 
+• (fold something in/into) mix an ingredient gently with (another ingredient), especially by lifting a mixture with a spoon so as to enclose it without stirring or beating: fold the egg whites into the chocolate mixture. 
+• [no object] (of a piece of furniture or equipment) be able to be bent or rearranged into a flatter or more compact shape, typically in order to make it easier to store or carry: [with complement] : the deck chair folds flat 
+(as adjective folding) : a folding chair. 
+• bend or rearrange (a piece of folding furniture or equipment): he folded up his tripod. 
+• [no object] (fold out) be able to be opened out; unfold: the sofa folds out. 
+• Geology cause (rock strata) to undergo bending or curvature: (as noun folding) : a more active period of igneous activity caused intense folding.
+2 [with adverbial] cover or wrap something in (a soft or flexible material): a plastic bag was folded around the book. 
+• hold or clasp (someone) closely in one's arms with passion or deep affection: Bob folded her in his arms and kissed her.
+3 [no object] informal (of an enterprise or organization) cease operating as a result of financial problems or a lack of support: the club folded earlier this year. 
+• (especially of a sports player or team) suddenly stop performing well or effectively: he folded in the second round. 
+• (of a poker player) drop out of a hand: an unerring knack for knowing when to fold and when to stay in. 
+▶noun
+1 (usually folds) a form or shape produced by the gentle draping of a loose, full garment or piece of cloth: the fabric fell in soft folds. 
+• an area of skin that sags or hangs loosely. 
+• chiefly British an undulation or gentle curve of the ground; a slight hill or hollow: the house lay in a fold of the hills. 
+• Geology a bend or curvature of strata.
+2 a line or crease produced in paper or cloth as the result of folding it. 
+• a piece of paper or cloth that has been folded: a fold of paper slipped out of the diary. 
+PHRASES
+above (or below) the fold
+1 printed in the top (or bottom) half of the front page of a broadsheet newspaper and so visible (or not visible) when the paper is folded: they're holding four column inches above the fold.
+2 positioned in the upper (or lower) half of a web page and so visible (or not visible) without scrolling down the page: click-through yield on ads below the fold is lower. fold one's arms bring one's arms together and cross them over one's chest. fold one's hands bring or hold one's hands together.DERIVATIVES foldable adjectiveORIGIN Old English falden, fealden, of Germanic origin; related to Dutch vouwen and German falten .

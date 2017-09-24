@@ -2,5 +2,8 @@ Internet
 BrE ˈɪntənɛt, AmE ˈɪn(t)ərˌnɛt 
 noun the Internet 互联网 hùliánwǎng to be on the Internet, to be connected to the Internet 在上网 zài shàngwǎng to buy/find [something] on the Internet 网上购买/找到某物 wǎngshàng gòumǎi/zhǎodào mǒu wù 
 Internet 
-▶noun available on the Internet: World Wide Web, Web, WWW, cyberspace, Net, information superhighway, Infobahn.
-▶adjective Internet cafes: cyber, wired, online, virtual, digital, Web, Web-based, e-, Net.
+ˈin(t)ərˌnet
+
+▶noun (the Internet) a global computer network providing a variety of information and communication facilities, consisting of interconnected networks using standardized communication protocols: the guide is also available on the Internet 
+[as modifier] : Internet access 
+an Internet connection. ORIGIN 1970s (denoting a computer network connecting two or more smaller networks): from inter- ‘reciprocal, mutual’ + network .

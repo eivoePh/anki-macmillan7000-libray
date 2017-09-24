@@ -1,8 +1,14 @@
-loft
-1 
-BrE lɒft, AmE lɔft, lɑft 
-noun 
-① Countable(attic) 阁楼 gélóu pigeon loft 鸽舍 
-② Countable(in church) 楼厢 lóuxiāng the organ loft ［教堂内的] 管风琴台 
-③ Uncountable(of fabric) 松软 sōngruǎn 
-④ Uncountable(of golf club) [球杆头的] 倾斜角度 qīngxié jiǎodù 
+loft 
+lôft läft
+
+▶noun
+1 a room or space directly under the roof of a house or other building, which may be used for accommodations or storage. 
+• a gallery in a church or hall: a choir loft. 
+• short for organ loft. 
+• a large, open area over a shop, warehouse, or factory, sometimes converted into living space. 
+• a pigeon house.
+2 Golf upward inclination given to the ball in a stroke. 
+• backward slope of the head of a club, designed to give upward inclination to the ball.
+3 the thickness of insulating matter in an object such as a sleeping bag or a padded coat. 
+▶verb [with object] kick, hit, or throw (a ball or missile) high up: he lofted the ball over the infield. 
+• (lofted) give backward slope to the head of (a golf club): a lofted metal club. ORIGIN late Old English, from Old Norse lopt ‘air, sky, upper room,’ of Germanic origin; related to Dutch lucht and German Luft .

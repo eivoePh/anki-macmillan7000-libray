@@ -1,5 +1,6 @@
 occur 
-▶verb
-1 the accident occurred at about 3:30: happen, take place, come about, transpire, materialize, arise, crop up; informal go down; literary come to pass, befall, betide; formal eventuate.
-2 the disease occurs chiefly in tropical climates: be found, be present, exist, appear, prevail, present itself, manifest itself, turn up.
-3 an idea occurred to her: enter one's head/mind, cross one's mind, come to mind, spring to mind, strike one, hit one, dawn on one, suggest itself, present itself.CHOOSE THE RIGHT WORD See happen .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+əˈkər
+
+▶verb (occurs, occurring, occurred) [no object] happen; take place: the accident occurred at about 3:30 p.m. 
+• exist or be found to be present in a place or under a particular set of conditions: radon occurs naturally in rocks such as granite. 
+• (occur to) (of a thought or idea) come into the mind of (someone): [with clause] : it occurred to him that he hadn't eaten. ORIGIN late 15th century: from Latin occurrere ‘go to meet, present itself,’ from ob- ‘against’ + currere ‘to run.’

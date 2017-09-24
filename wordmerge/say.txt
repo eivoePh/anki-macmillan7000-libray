@@ -21,17 +21,32 @@ C.  noun
 ② (chance to speak) 发言机会 fāyán jīhuì to have one's say 发表意见 no, let him have his say 不，让他把话说出来 
 D.  exclamation AmE colloquial 嘿 hēi [表示惊讶或提请注意]say, that's a great idea! 嘿，这个主意好极了！ 
 say 
-▶verb
-1 she felt her stomach flutter as he said her name: speak, utter, voice, pronounce, give voice to, vocalize.
-2 “I must go,” she said: declare, state, announce, remark, observe, mention, comment, note, add; reply, respond, answer, rejoin; informal come out with.
-3 Newall says he's innocent: claim, maintain, assert, hold, insist, contend; allege, profess; formal opine, aver.
-4 I can't conjure up the words to say how I feel: express, put into words, phrase, articulate, communicate, make known, put/get across, convey, verbalize; reveal, divulge, impart, disclose; imply, suggest.
-5 they sang hymns and said a prayer: recite, repeat, utter, deliver, perform, declaim, orate.
-6 the clock said one twenty: indicate, show, read.
-7 I'd say it's about five miles: estimate, judge, guess, hazard a guess, predict, speculate, surmise, conjecture, venture; informal reckon.
-8 let's say you'd just won a million dollars: suppose, assume, imagine, presume, hypothesize, postulate, posit.
-▶noun
-1 everyone is entitled to their say: chance to speak, turn to speak, opinion, view, voice; informal two cents, two cents' worth.
-2 don't I have any say in the matter? influence, sway, weight, voice, input, share, part.
+sā
+
+▶verb (says 
+sez
+; past and past participle said 
+sed
+)
+1 [reporting verb] utter words so as to convey information, an opinion, a feeling or intention, or an instruction: [with direct speech] : “Thank you,” he said 
+[with clause] : he said the fund stood at $100,000 
+[with object] : our parents wouldn't believe a word we said 
+[with infinitive] : he said to come early. 
+• (of a text or a symbolic representation) convey specified information or instructions: [with clause] : the law says such behavior is an offense. 
+• [with object] enable a listener or reader to learn or understand something by conveying or revealing (information or ideas): I don't want to say too much 
+figurative : the movie's title says it all. 
+• [with object] (of a clock or watch) indicate (a specified time): the clock says ten past two. 
+• (be said) be asserted or reported (often used to avoid committing the speaker or writer to the truth of the assertion): [with infinitive] : they were said to be training freedom fighters 
+[with clause] : it is said that she lived to be over a hundred. 
+• [with object] (say something for) present a consideration in favor of or excusing (someone or something): all I can say for him is that he's a better writer than some. 
+• [with object] utter the whole of (a speech or other set of words, typically one learned in advance): we say the Pledge of Allegiance each morning.
+2 [with clause] assume something in order to work out what its consequences would be; make a hypothesis: let's say we pay five thousand dollars in the first year. 
+• used parenthetically to indicate that something is being suggested as possible or likely but not certain: the form might include, say, a dozen questions. 
+▶exclam. North American informal used to express surprise or to draw attention to a remark or question: say, did you notice any blood? 
+▶noun [in singular] an opportunity for stating one's opinion or feelings: the voters are entitled to have their say on the treaty. 
+• an opportunity to influence developments and policy: the assessor will have a say in how the money is spent 
+the households concerned would still have some say in what happened. 
 PHRASES
-that is to say they're inquiring about Miss Leslie—that is to say, they want to know if she's safe and well: in other words, to put it another way; i.e., that is, to wit, viz., namely. to say the least his performance was disappointing to say the least: to put it mildly, putting it mildly, without any exaggeration, at the very least. REFLECTIONS Michael Dirdasay, said While most writing can be improved by choosing strong and precise nouns, adjectives, and verbs, this isn't always so. When reading a novel's dialogue, we should be paying attention to what the characters say, and learn about their feelings through their words. But too many young authors overstress the verbal markers of back-and-forth speech. So we read Frank replied or Frank riposted or even Losing his temper, Frank violently expostulated. Much of the time a careful writer can set up the rhythm of a conversation so that it's always clear who's speaking and with what degree of passion. If more precise identification is needed, a simple Frank said will usually suffice, the weak and common verb scarcely intruding on the give-and-take on the page.Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+go without saying be obvious: it goes without saying that teachers must be selected with care. [translating French (cela) va sans dire .] have something to say for oneself contribute to a conversation or discussion, especially as an explanation for one's behavior or actions: haven't you anything to say for yourself? how say you? Law how do you find? (addressed to the jury when requesting its verdict). I (or he, she, etc.) cannot (or could not) say I (or he, she, etc.) do not know. I'll say informal used to express emphatic agreement: “That was a good landing.” “I'll say!” I must (or have to) say I cannot refrain from saying (used to emphasize an opinion): you have a nerve, I must say! I say
+1 used to offer a suggestion or opinion: I say we go back down together.
+2 British dated used to express surprise or to draw attention to a remark: I say, that's a bit much! I wouldn't say no informal used to indicate that one would like something. not to say used to introduce a stronger alternative or addition to something already said: it is easy to become sensitive, not to say paranoid. say no more informal used to indicate that one understands what someone is trying to imply. says you! informal used in speech to express disagreement or disbelief: “He's guilty.” “Says you! I think he's innocent.” say when informal said when helping someone to food or drink to instruct them to indicate when they have enough. say the word give permission or instructions to do something. that is to say see that. there is no saying it is impossible to know. they say it is rumored. to say nothing of another way of saying not to mention (see mention). to say the least see least. what do (or would) you say used to make a suggestion or offer: what do you say to a glass of wine? when all is said and done when everything is taken into account (used to indicate that one is making a generalized judgment about a situation). you can say that again! informal used in spoken English to express emphatic agreement. you don't say! informal used to express amazement or disbelief. you said it! informal used to express the feeling that someone's words are true or appropriate.DERIVATIVES sayable adjective. sayer noun [usually in combination] : naysayersORIGIN Old English secgan, of Germanic origin; related to Dutch zeggen and German sagen .

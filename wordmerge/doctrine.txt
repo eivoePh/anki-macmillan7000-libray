@@ -2,4 +2,7 @@ doctrine
 BrE ˈdɒktrɪn, AmE ˈdɑktrən 
 noun Countable and uncountableReligion 教义 jiàoyì Politics 主义 zhǔyì Philosophy 学说 xuéshuō 
 doctrine 
-▶noun the doctrine of the Trinity: creed, credo, dogma, belief, teaching, ideology; tenet, maxim, canon, principle, precept.
+ˈdäktrən
+
+▶noun a belief or set of beliefs held and taught by a church, political party, or other group: the doctrine of predestination. 
+• US a stated principle of government policy, mainly in foreign or military affairs: the Monroe Doctrine. ORIGIN late Middle English: from Old French, from Latin doctrina ‘teaching, learning,’ from doctor ‘teacher,’ from docere ‘teach.’

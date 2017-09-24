@@ -15,13 +15,28 @@ B.  adverbcolloquial
 ① (completely) 完全 wánquán ‹wrong›; 极其 jíqí ‹stupid, lucky, absurd›
 ② (directly, simply) 直率地 zhíshuài de ‹speak, tell›
 C.  nounUncountable and countable(plural plain) (basic type of stitch) 平针 píngzhēn (knitted yarn) 平针针脚 píngzhēn zhēnjiao two plain, one purl 两针平，一针反 a pullover knitted in plain 平针套衫 
-plain 
+plain
+1 
+plān
+
 ▶adjective
-1 it was plain that something was wrong: obvious, clear, crystal clear, evident, apparent, manifest, patent; discernible, perceptible, noticeable, recognizable, unmistakable, transparent; pronounced, marked, striking, conspicuous, self-evident, indisputable; writ large; informal standing/sticking out like a sore thumb.
-2 plain English: intelligible, comprehensible, clear, understandable, coherent, uncomplicated, lucid, unambiguous, simple, straightforward, user-friendly; formal perspicuous. ANTONYMS obscure, unclear.
-3 plain speaking: candid, frank, outspoken, forthright, direct, honest, truthful, blunt, bald, explicit, unequivocal; informal upfront.
-4 a plain dress: simple, ordinary, unadorned, unembellished, unornamented, unostentatious, unfussy, basic, modest, unsophisticated, without frills, homespun; restrained, unshowy, unflashy, muted; everyday, workaday. ANTONYMS elaborate, fancy.
-5 a plain girl: homely, unattractive, unprepossessing, ugly, ill-favored, unlovely, ordinary; informal not much to look at. ANTONYMS attractive.
-6 it was plain bad luck: sheer, pure, downright, out-and-out, unmitigated.
-▶adverb this is just plain stupid: downright, utterly, absolutely, completely, totally, really, thoroughly, positively, simply, unquestionably, undeniably; informal plumb.
-▶noun the endless grassy plains: grassland, prairie, flatland, lowland, pasture, meadowland, savanna, steppe; tableland, tundra, pampas, veld.
+1 not decorated or elaborate; simple or ordinary in character: good plain food 
+everyone dined at a plain wooden table. 
+• without a pattern; in only one color: a plain fabric. 
+• bearing no indication as to source, contents, or affiliation: donations can be put in a plain envelope. 
+• (of a person) having no pretensions; not remarkable or special: a plain, honest man with no nonsense about him. 
+• [attributive] (of a person) without a special title or status: for years he was just plain Bill.
+2 easy to perceive or understand; clear: the advantages were plain to see 
+it was plain that something was very wrong. 
+• [attributive] (of written or spoken usage) clearly expressed, without the use of technical or abstruse terms: written in plain English. 
+• not using concealment or deception; frank: he recalled her plain speaking.
+3 (of a person) not beautiful or attractive: the dark-haired, rather plain woman.
+4 [attributive] sheer; simple (used for emphasis): the main problem is just plain exhaustion.
+5 (of a knitting stitch) made using a knit rather than a purl stitch. 
+▶adverb [as submodifier] informal clearly; unequivocally (used for emphasis): perhaps the youth was just plain stupid. 
+▶noun a large area of flat land with few trees. Compare with prairie. 
+• (the Plains) another term for Great Plains. 
+PHRASES
+as plain as the nose on one's face informal very obvious. in plain sight (or view) chiefly North American in a place that is clearly visible: very important clues are hidden in plain sight.plain and simple informal used to emphasize the statement preceding or following: she was a genius, plain and simple. plain as day informal very clearly.DERIVATIVES plainness 
+ˈplānˌnis 
+nounORIGIN Middle English: from Old French plain, from Latin planus, from a base meaning ‘flat.’

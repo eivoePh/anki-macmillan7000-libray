@@ -4,4 +4,15 @@ noun
 ① (of lawyer) 委托人 (of accountant) 当事人 (customer, user) 客户 kèhù (of social worker) 救济对象 jiùjì duìxiàng (of psychotherapist) 病人 bìngrén (of prostitute) 嫖客 piáokè a lawyer with many famous clients 为众多有名气的委托人提供服务的律师 
 ② Computing 客户机 kèhùjī 
 client 
-▶noun the waiting room was designed to put the clients at ease: customer, buyer, purchaser, shopper, consumer, user; patient; patron, regular; (clients) clientele, patronage, public, market; Law vendee.
+ˈklīənt
+
+▶noun
+1 a person or organization using the services of a lawyer or other professional person or company: insurance tailor-made to a client's specific requirements. 
+• a person receiving social or medical services: a client referred for counseling. 
+• (also client state) a nation that is dependent on another, more powerful nation.
+2 Computing (in a network) a desktop computer or workstation that is capable of obtaining information and applications from a server. 
+• (also client application or program) a program that is capable of obtaining a service provided by another program.
+3 (in ancient Rome) a plebeian under the protection of a patrician. 
+• archaic a dependent; a hanger-on. DERIVATIVES clientship 
+-ˌSHip 
+nounORIGIN late Middle English: from Latin cliens, client-, variant of cluens ‘heeding,’ from cluere ‘hear or obey.’ The term originally denoted a person under the protection and patronage of another, hence a person “protected” by a legal adviser ( sense 1) .

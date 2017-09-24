@@ -7,9 +7,11 @@ A.  noun
 ③ Countable and uncountableLaw 补偿 bǔcháng to seek (a) remedy 寻求赔偿 to pursue a legal remedy 寻求通过法律手段补救 
 B.  transitive verb 纠正 jiūzhèng ‹wrongs, mistake›; 弥补 míbǔ ‹loss›fresh fruit can remedy a vitamin deficiency in diet 新鲜水果可以弥补饮食中维生素的不足 
 remedy 
-▶noun
-1 herbal remedies: treatment, cure, medicine, medication, medicament, drug; archaic physic.
-2 a remedy for all kinds of problems: solution, answer, cure, antidote, curative, nostrum, panacea, cure-all; informal magic bullet.
-▶verb
-1 local authorities are working to remedy the situation: put/set right, put/set to rights, right, rectify, solve, sort out, straighten out, resolve, correct, repair, mend, make good.
-2 anemia can be remedied by iron pills: cure, treat, heal, make better; relieve, ease, alleviate, palliate.
+ˈremədē
+
+▶noun (plural remedies)
+1 a medicine or treatment for a disease or injury: herbal remedies for aches and pains. 
+• a means of counteracting or eliminating something undesirable: shopping became a remedy for personal problems. 
+• a means of legal reparation: the doctrine took away their only remedy against merchants who refused to honor their contracts.
+2 the margin within which coins as minted may differ from the standard fineness and weight. 
+▶verb (remedies, remedying, remedied) [with object] set right (an undesirable situation): by the time a problem becomes patently obvious, it may be almost too late to remedy it. DERIVATIVES remediless adjectiveORIGIN Middle English: from Anglo-Norman French remedie, from Latin remedium, from re- ‘back’ (also expressing intensive force) + mederi ‘heal.’

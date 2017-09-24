@@ -11,11 +11,16 @@ B.  intransitive verb
 ④ Cinema, Television 叠化 diéhuà one scene dissolves into another 一个镜头淡入另一个镜头 
 C.  noun Cinema, Television 叠化 diéhuà 
 dissolve 
+dəˈzälv
+
 ▶verb
-1 sugar dissolves in water: go into solution, break down; liquefy, deliquesce, disintegrate.
-2 his hopes dissolved: disappear, vanish, melt away, evaporate, disperse, dissipate, disintegrate; dwindle, fade (away), wither; literary evanesce.
-3 the crowd dissolved: disperse, disband, break up, scatter, go in different directions.
-4 the assembly was dissolved: disband, disestablish, bring to an end, end, terminate, discontinue, close down, wind up/down, suspend; prorogue, adjourn.
-5 their marriage was dissolved: annul, nullify, void, invalidate, overturn, revoke.
-PHRASES
-dissolve into/in she dissolved into tears: burst into, break (down) into, be overcome with. REFLECTIONS David Thomsondissolve In the laboratory or the kitchen, a dissolve occurs when one substance blends with a fluid to make something new. But in the divorce court, when a marriage is dissolved, it is meant to go away all together—so that we can start again? But most divorced parties know a suspended solution lingers, crystal sometimes, even if it is more questions than answers. And on the movie screen, once, there was enough sense of the rapture in cinema, and the liquid invitation of the screen that dissolves—quick and slow, slower still, or still—could slip one image into another, and another. We swam in the movies then, going into their dangerous deep end. You can see these mirages in the 40s and the 50s, when the dream was wet—try Citizen Kane (a film about being lost in the snow) or A Place in the Sun (a story that turns on drowning).Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.
+1 (with reference to a solid) become or cause to become incorporated into a liquid so as to form a solution: [no object] : glucose dissolves easily in water 
+[with object] : dissolve a bouillon cube in a pint of hot water. 
+• [no object] (of something abstract, especially a feeling) disappear: my courage dissolved. 
+• [no object] subside uncontrollably into (an expression of strong feelings): she suddenly dissolved into floods of tears. 
+• [no object] (in a movie) change gradually to (a different scene or picture): dissolve to side view, looking down the street.
+2 [with object] close down or dismiss (an assembly or official body): the country's president can dissolve parliament under certain circumstances. 
+• annul or put an end to (a partnership or marriage): it only takes 28 days to dissolve a domestic partnership. 
+▶noun (in a movie) an act or instance of moving gradually from one picture to another. DERIVATIVES dissolvable 
+dəˈzälvəb(ə)l 
+adjective. dissolver nounORIGIN late Middle English (also in the sense ‘break down into component parts’): from Latin dissolvere, from dis- ‘apart’ + solvere ‘loosen or solve.’

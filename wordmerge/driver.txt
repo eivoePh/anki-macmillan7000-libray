@@ -7,4 +7,18 @@ noun
 ④ Computing 驱动程序 qūdòng chéngxù 
 ⑤ (stimulus) 驱动因素 qūdòng yīnsù 
 driver 
-▶verb the driver failed to signal: motorist, chauffeur; pilot, operator.
+ˈdrīvər
+
+▶noun
+1 a person who drives a vehicle: a taxi driver 
+student drivers. 
+• a person who drives a specified kind of animal: mule drivers.
+2 a wheel or other part in a mechanism that receives power directly and transmits motion to other parts. 
+• Electronics a device or part of a circuit that provides power for output. 
+• Computing a program that controls the operation of a device such as a printer or scanner.
+3 a factor that causes a particular phenomenon to happen or develop: the hope of achieving such monopolies becomes the main driver of investment.
+4 a golf club with a flat face and wooden head, used for driving from the tee. 
+PHRASES
+in the driver's seat in control of or dominating a situation: the tax issue is back in the driver's seat of American politics.DERIVATIVES driverless 
+ˈdrīvərləs 
+adjective

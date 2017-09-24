@@ -1,15 +1,24 @@
-date 
+date
+1 
+dāt
+
 ▶noun
-1 the only date he has to remember: day, day of the month, occasion, time; year; anniversary.
-2 a later date is suggested for this artifact: age, time, period, era, epoch, century, decade, year.
-3 a lunch date: appointment, meeting, engagement, rendezvous, assignation; commitment.
-4 informal he's my date for tonight: partner, escort, girlfriend, boyfriend, steady; informal plus-one.
-▶verb
-1 the sculpture can be dated accurately: assign a date to, ascertain the date of, put a date on.
-2 the building dates from the sixteenth century: was made in, was built in, originates in, comes from, belongs to, goes back to.
-3 the best films don't date: become old-fashioned, become outmoded, become dated, show its age.
-4 informal he's dating Jill: go out with, take out, go around with, be involved with, see, go steady with; dated woo, court.
+1 the day of the month or year as specified by a number: what's the date today? 
+please give your name, address, and date of birth. 
+• a particular day or year when a given event occurred or will occur: significant dates like 1776 and 1789 
+they've set a date for the wedding. 
+• (dates) the years of a person's birth and death or of the beginning and end of a period or event: giving the dates of kings and queens. 
+• the period of time to which an artifact or structure belongs: the church is the largest of its date.
+2 a social or romantic appointment or engagement: a college student on a date with someone he met in class. 
+• a person with whom one has a social or romantic engagement: my date isn't going to show, it seems. 
+• a musical or theatrical engagement or performance, especially as part of a tour: possible live dates in the near future. 
+▶verb [with object]
+1 establish or ascertain the date of (an object or event): they date the paintings to 1460–70. 
+• mark with a date: sign and date the document. 
+• [no object] have its origin at a particular time; have existed since: the controversy dates back to 1986.
+2 indicate or expose as being old-fashioned: disco—that word alone dates me. 
+• [no object] seem old-fashioned: a movie that will date quickly.
+3 go out with (someone in whom one is romantically or sexually interested): my sister's pretty judgmental about the girls I date 
+[no object] : they have been dating for more than a year. 
 PHRASES
-to date this is all the information we have to date: so far, thus far, yet, as yet, up to now, till now, until now, up to the present (time), hitherto. 
-WORD LINKS
-date chronological relating to datesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+to date until now: their finest work to date.ORIGIN Middle English: via Old French from medieval Latin data, feminine past participle of dare ‘give’; from the Latin formula used in dating letters, data (epistola)‘(letter) given or delivered,’ to record a particular time or place.

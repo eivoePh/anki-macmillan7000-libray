@@ -12,10 +12,19 @@ C.  noun(person who cooks) 做饭的人 zuòfàn de rén (as profession) 厨师 
 ① Culinary 做 zuò ‹meal›; 烹制 pēngzhì ‹food›
 ② colloquial (invent) 编造 biānzào ‹excuse, story›
 cook 
+ko͝ok
+
 ▶verb
-1 Scott cooked dinner: prepare, make, put together; informal fix, rustle up.
-2 informal he's been cooking the books: falsify, alter, doctor, tamper with, interfere with, massage, manipulate, fiddle.
-3 informal (cookin'/cooking) we just stopped by to see what's cookin': happening, going on, taking place, occurring; informal going down.
-▶noun chef, food preparer, short-order cook, pastry chef; chef de cuisine, sous-chef, cordon bleu cook; informal cookie.
+1 [with object] prepare (food, a dish, or a meal) by combining and heating the ingredients in various ways: shall I cook dinner tonight? 
+[no object] : I told you I could cook 
+(as adjective cooked) : a cooked breakfast. 
+• [no object] (of food) be heated so that the condition required for eating is reached: while the rice is cooking, add the saffron to the stock. 
+• (cook something down) heat food and cause it to thicken and reduce in volume: cooking down the chutney can take up to 45 minutes. 
+• (be cooking) informal be happening or planned: what's cooking on the alternative fuels front?
+2 [with object] informal alter dishonestly; falsify: a narcotics team who cooked the evidence. 
+• (be cooked) be in an inescapably bad situation: if I can't talk to him, I'm cooked.
+3 [no object] North American informal perform or proceed vigorously or well: the band used to get up on the bandstand and really cook. 
+▶noun a person who prepares and cooks food, especially as a job or in a specified way: a short order cook 
+I'm a good cook. 
 PHRASES
-cook up informal he cooked up an alibi so ludicrous that even his own attorney laughed: concoct, devise, contrive, fabricate, trump up, hatch, plot, plan, invent, make up, think up, dream up.
+cook the books informal alter facts or figures dishonestly or illegally. cook someone's goose informal cause someone's downfall: I've got enough on you to cook your goose. too many cooks spoil the broth proverb if too many people are involved in a task, it will not be done well.PHRASAL VERBS cook something up concoct a story, excuse, or plan, especially an ingenious or devious one.DERIVATIVES cookable adjectiveORIGIN Old English cōc (noun), from popular Latin cocus, from Latin coquus .

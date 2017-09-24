@@ -1,3 +1,8 @@
 adjective 
-BrE ˈadʒɪktɪv, AmE ˈædʒəktɪv 
-noun 形容词 xíngróngcí 
+ˈajəktiv
+
+▶noun Grammar a word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it. DERIVATIVES adjectival 
+ˌajəkˈtīv(ə)l 
+adjective. adjectivally 
+ˌajəkˈtīvəlē 
+adverbORIGIN late Middle English: from Old French adjectif, -ive, from Latin adject- ‘added,’ from the verb adjicere, from ad- ‘toward’ + jacere ‘throw.’ The term was originally used in the phrase noun adjective, translating Latin nomen adjectivum, the latter being a translation of Greek onoma epitheton ‘attributive name.’

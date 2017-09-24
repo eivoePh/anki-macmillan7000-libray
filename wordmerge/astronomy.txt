@@ -2,5 +2,6 @@ astronomy
 BrE əˈstrɒnəmi, AmE əˈstrɑnəmi 
 nounUncountable天文学 tiānwénxué 
 astronomy 
-BrE əˈstrɒnəmi, AmE əˈstrɑnəmi 
-nounUncountable天文学 tiānwénxué 
+əˈstränəmē
+
+▶noun the branch of science that deals with celestial objects, space, and the physical universe as a whole. In ancient times, observation of the sun, moon, stars, and planets formed the basis of timekeeping and navigation. Astronomy was greatly furthered by the invention of the optical telescope, but modern observations are made in all parts of the spectrum, including X-ray and radio frequencies, using terrestrial and orbiting instruments and space probes. ORIGIN Middle English (also denoting astrology): from Old French astronomie, from Latin astronomia, from Greek, from astronomos (adjective) ‘star-arranging.’

@@ -1,9 +1,16 @@
 loss 
-▶noun
-1 the loss of the documents: mislaying, misplacement, forgetting. ANTONYMS recovery, finding.
-2 loss of earnings: deprivation, disappearance, privation, forfeiture, diminution, erosion, reduction, depletion.
-3 the loss of her husband: death, dying, demise, passing (away/on), end; formal decease; archaic expiry.
-4 (losses) Canadian losses in the war: casualties, fatalities, victims; dead; missing; death toll, number killed/dead.
-5 a loss of $15,000: deficit, debit, debt, indebtedness, deficiency. ANTONYMS gain, profit.
+lôs läs
+
+▶noun the fact or process of losing something or someone: avoiding loss of time 
+funding cuts will lead to job losses. 
+• an amount of money lost by a business or organization: insurance can protect you against financial loss 
+we have incurred huge losses 
+[in combination] : loss-making industries. 
+• the state or feeling of grief when deprived of someone or something of value: I feel a terrible sense of loss. 
+• [in singular] a person or thing that is badly missed when lost: he will be a great loss to many people. 
+• Physics a reduction of power within or among circuits, measured as a ratio of power input to power output. 
 PHRASES
-at a loss I'm at a loss about what just happened: baffled, nonplussed, mystified, puzzled, perplexed, bewildered, bemused, at sixes and sevens, confused, dumbfounded, stumped, stuck, blank; informal clueless, flummoxed, bamboozled, fazed, floored, beaten, discombobulated.
+at a loss
+1 puzzled or uncertain what to think, say, or do: [with infinitive] : she became popular, and was at a loss to know why 
+he was at a loss for words.
+2 making less money than is spent buying, operating, or producing something: a railroad running at a loss.ORIGIN Old English los ‘destruction,’ of Germanic origin; related to Old Norse los ‘breaking up of the ranks of an army’ and loose; later probably a back-formation from lost, past participle of lose .

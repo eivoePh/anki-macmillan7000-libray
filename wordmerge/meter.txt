@@ -6,10 +6,11 @@ A.  noun
 ② (parking) meter 停车场收费器 tíngchēchǎng shōufèiqì to set the meter 设置停车收费器 shèzhì tíngchē shōufèiqì 
 ③ AmE = metre 
 B.  transitive verb 用仪表计量 yòng yíbiǎo jìliàng 
-meter 
-BrE ˈmiːtə, AmE ˈmidər 
-A. noun 
-① (measuring instrument) 表 biǎo an electricity/a gas/water meter 电表/煤气表/水表 to read the meter 抄表 
-② (parking) meter 停车场收费器 tíngchēchǎng shōufèiqì to set the meter 设置停车收费器 shèzhì tíngchē shōufèiqì 
-③ AmE = metre 
-B.  transitive verb 用仪表计量 yòng yíbiǎo jìliàng 
+meter
+1 
+ˈmēdər 
+(British metre) 
+▶noun the fundamental unit of length in the metric system, equal to 100 centimeters or approximately 39.37 inches. 
+• (—— meters) a race over a specified number of meters: he placed third in the 1,000 meters. DERIVATIVES meterage 
+-ij 
+nounORIGIN late 18th century: from French mètre, from Greek metron ‘measure.’

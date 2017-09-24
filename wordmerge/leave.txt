@@ -54,17 +54,38 @@ B.  [leave somebody out, leave out somebody] transitive verb (from social group,
 ② [leave something over] (postpone) 推迟 tuīchí let's leave this over till tomorrow 这事明天再说吧 I don't like leaving things over 我做事不喜欢拖拖拉拉 
 leave
 1 
-▶verb
-1 I left the hotel: depart from, go away from, go from, withdraw from, retire from, take oneself off from, exit from, take one's leave of, pull out of, be gone from, decamp from, disappear from, vacate, absent oneself from; say one's farewells/goodbyes to, quit; informal push off from, shove off from, clear out/off of, cut and run from, split, vamoose from, scoot from. ANTONYMS arrive, stay.
-2 the next morning we left for Taipei: set off, head, make; set sail.
-3 he's left his wife: abandon, desert, cast aside, jilt, throw over; informal dump, ditch, drop, walk/run out on; literary forsake. ANTONYMS stay with.
-4 he left his job in November: quit, resign from, retire from, step down from, withdraw from, pull out of, give up; pack it in, call it quits.
-5 she left her purse on a bus: leave behind, forget, lose, mislay.
-6 I thought I'd leave it to the experts: entrust, hand over, pass on, refer; delegate.
-7 he left her $100,000: bequeath, will, endow, hand down to, make over to.
-8 the speech left some feelings of disappointment: cause, produce, generate, give rise to.
+lēv
+
+▶verb (past and past participle left 
+left
+) [with object]
+1 go away from: she left New York on June
+6 
+[no object] : we were almost the last to leave 
+the Bruins left for Toronto on Monday. 
+• depart from permanently: at the age of sixteen he left home. 
+• cease attending (a school or college) or working for (an organization): she is leaving NBC after
+20 years.
+2 allow to remain: the parts he disliked he would alter, and the parts he didn't dislike he'd leave. 
+• (be left) remain to be used or dealt with: we've even got one of the plum puddings left over from last year 
+a retired person with no mortgage left to pay. 
+• go away from a place without taking (someone or something): we had not left any of our belongings behind 
+figurative : women had been left behind in the struggle for pay equality. 
+• abandon (a spouse or partner): her boyfriend left her for another woman. 
+• have as (a surviving relative) after one's death: he leaves a wife and three children. 
+• bequeath: he left $500 to the Police Athletic League 
+Harry had left her $5,000 a year for life.
+3 cause (someone or something) to be in a particular state or position: he'll leave you in no doubt about what he thinks 
+I'll leave the door open 
+the children were left with feelings of loss. 
+• let (someone) do or deal with something without offering help or assistance: infected people are often rejected by family and friends, leaving them to face this chronic condition alone. 
+• cause to remain as a trace or record: dark fruit that would leave purple stains on the table napkins 
+figurative : they leave the impression that they can be bullied. 
+• deposit or entrust to be kept, collected, or attended to: she left a note for me. 
+• (leave something to) entrust a decision, choice, or action to (someone else, especially someone considered better qualified): the choice of which link to take is generally left up to the reader. 
+▶noun (in pool, billiards, snooker, croquet, and other games) the position of the balls after a shot. 
 PHRASES
-leave someone/something out
-1 Adam left out the address: omit, fail to include, overlook, forget; skip, miss.
-2 when the roster for Game
-2 was drawn up, Harvey was left out: exclude, omit, pass over; eliminate, cut, drop.
+be left at the post be beaten from the start of a race or competition. be left for dead be abandoned as being almost dead or certain to die. be left to oneself be allowed to do what one wants: women, left to themselves, would make the world a beautiful place to live in. 
+• be in the position of being alone or solitary: left to himself, he removed his shirt and tie. leave someone/something alone see alone. leave someone be refrain from disturbing or interfering with someone. leave someone cold fail to interest someone: the Romantic poets left him cold. leave hold of cease holding. leave it at that abstain from further comment or action: if you are not sure of the answers, say so, and leave it at that. leave much (or a lot) to be desired be highly unsatisfactory.PHRASAL VERBS leave off discontinue (an activity): the dog left off chasing the sheep. 
+• come to an end: he resumed the other story at the point where the previous author had left off. leave something off omit to put on: a bolt may have been left off the plane's forward door during production. leave someone/something out fail to include: it seemed unkind to leave Daisy out; so she was invited, too 
+(as adjective left out) : Janet was feeling rather left out.DERIVATIVES leaver nounORIGIN Old English lǣfan ‘bequeath,’ also ‘allow to remain, leave in place,’ of Germanic origin; related to German bleiben ‘remain.’

@@ -11,13 +11,28 @@ B.  transitive verb
 ① (nail) 用平头钉钉 yòng píngtóudīng dìng ‹carpet, lino, upholstery›to tack [something] to [something]; 用平头钉将某物钉在某物上 to tack [something] down; 用平头钉将某物固定 
 ② (temporarily stitch) 用粗线脚缝 yòng cūxiànjiǎo féng ‹article of clothing, sheet, hem›to tack [something] on (to [something]); 用粗缝针脚将某物缝（在某物）上 
 C.  intransitive verb «person» 作之字形移动 zuò zhī zì xíng yídòng ; «sailor, yacht» 抢风航行 qiǎng fēng hángxíng to tack to port/starboard 在左/右舷抢风行驶 to tack about; 抢风航行 qiǎng fēng hángxíng to tack into the wind; 抢风航行 qiǎng fēng hángxíng PHRASAL VERB tack on transitive verb[tack something on], [tack on something] colloquial 添加 tiānjiā to tack [something] on to [something] 把某物添加到某物上 
-tack 
+tack
+1 
+tak
+
 ▶noun
-1 tacks held the carpet down: pin, thumbtack, pushpin, nail, staple, rivet, stud.
-2 the boat bowled past on the opposite tack: heading, bearing, course, track, path, line.
-3 Mitchell wisely changed his tack: approach, way, method; policy, procedure, technique, tactic, plan, strategy, stratagem; path, line, angle, direction, course.
+1 a small, sharp, broad-headed nail. 
+• North American a thumbtack.
+2 a long stitch used to fasten fabrics together temporarily, prior to permanent sewing.
+3 a method of dealing with a situation or problem; a course of action or policy: as she could not stop him from going she tried another tack and insisted on going with him.
+4 Sailing an act of changing course by turning a vessel's head into and through the wind, so as to bring the wind on the opposite side. 
+• a boat's course relative to the direction of the wind: the brig bowled past on the opposite tack. 
+• a distance sailed between changes of course.
+5 Sailing a rope for securing the weather clew of a course. 
+• the weather clew of a course, or the lower forward corner of a fore-and-aft sail.
+6 the quality of being sticky: cooking the sugar to caramel gives tack to the texture. 
 ▶verb
-1 a photo tacked to the wall: pin, nail, staple, fix, fasten, attach, secure, affix.
-2 the dress was roughly tacked together: stitch, baste, sew, bind.
-3 the yachts tacked back and forth: zigzag, change direction, change course, swerve, veer; Nautical go about, come about, beat.
-4 poems tacked on at the end of the book: add (on), append, join, stick (on).
+1 [with object] fasten or fix in place with tacks: he used the tool to tack down sheets of fiberboard. 
+• fasten (pieces of cloth) together temporarily with long stitches. 
+• (tack something on) add or append something to something already existing: long-term savings plans with some life insurance tacked on.
+2 [no object] Sailing change course by turning a boat's head into and through the wind. Compare with wear2. [from the practice of shifting ropes ( sense
+5 of the noun) to change direction.] 
+• [with object] alter the course of (a sailboat). 
+• [with adverbial of direction] make a series of changes of course while sailing: she spent the entire night tacking back and forth. 
+PHRASES
+on the port (or starboard) tack Sailing with the wind coming from the port (or starboard) side of the boat.DERIVATIVES tacker nounORIGIN Middle English (in the general sense ‘something that fastens one thing to another’): probably related to Old French tache ‘clasp, large nail.’

@@ -1,3 +1,12 @@
 enzyme 
-BrE ˈɛnzʌɪm, AmE ˈɛnzaɪm 
-noun 酶 méi 
+ˈenzīm
+
+▶noun Biochemistry a substance produced by a living organism that acts as a catalyst to bring about a specific biochemical reaction. Most enzymes are proteins with large complex molecules whose action depends on their particular molecular shape. Some enzymes control reactions within cells and some, such as the enzymes involved in digestion, outside them. DERIVATIVES enzymatic 
+ˌenzəˈmatik 
+adjective. enzymatically 
+ˌenzəˈmatik(ə)lē 
+adverb. enzymic 
+enˈzīmik, -ˈzimik 
+adjective. enzymically 
+enˈzīmik(ə)lē, -zim- 
+adverbORIGIN late 19th century: coined in German from modern Greek enzumos ‘leavened,’ from en- ‘within’ + Greek zumē ‘leaven.’

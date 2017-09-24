@@ -18,7 +18,25 @@ B.  noun
 ⑤ UncountableGeography (sea, tide, river) 涨潮 zhǎngcháo the tide is on the flow 正在涨潮 
 ⑥ UncountablePhysics 变形 biànxíng 
 flow 
-▶verb
-1 the water flowed down the channel: run, course, glide, drift, circulate; trickle, seep, ooze, dribble, drip, drizzle, spill; stream, swirl, surge, sweep, gush, cascade, pour, roll, rush.
-2 many questions flow from today's announcement: result, proceed, arise, follow, ensue, derive, stem, accrue; originate, emanate, spring, emerge; be caused by, be brought about by, be produced by, be consequent on.
-▶noun a good flow of water: movement, motion, current, flux, circulation; trickle, ooze, percolation, drip; stream, swirl, surge, gush, rush, spate, tide.
+flō
+
+▶verb [no object]
+1 (of a fluid, gas, or electricity) move along or out steadily and continuously in a current or stream: from here the river flows north 
+a cross-current of electricity seemed to flow between them 
+ventilation channels keep the air flowing. 
+• (of the sea or a tidal river) move toward the land; rise. Compare with ebb.
+2 [with adverbial of direction] go from one place to another in a steady stream, typically in large numbers: the firm is hoping the orders will keep flowing in. 
+• (of clothing or hair) hang loosely in an easy and graceful manner: her red hair flowed over her shoulders. 
+• proceed or be produced smoothly, continuously, and effortlessly: talk flowed freely around the table. 
+• be available in copious quantities: their talk and laughter grew louder as the excellent brandy flowed. 
+• (flow from) result from; be caused by: there are certain advantages that may flow from that decision.
+3 (of a solid) undergo a permanent change of shape under stress, without melting. 
+▶noun
+1 [in singular] the action or fact of moving along in a steady, continuous stream: the flow of water into the pond. 
+• the rate or speed at which something flows: under the ford the river backs up, giving a deep sluggish flow. 
+• the rise of a tide or a river. Compare with ebb.
+2 a steady, continuous stream of something: she eased the car into the flow of traffic.
+3 the gradual permanent deformation of a solid under stress, without melting. 
+PHRASES
+go with the flow informal be relaxed and accept a situation, rather than trying to alter or control it. in full flow talking fluently and easily and showing no sign of stopping. 
+• performing vigorously and enthusiastically: Richardson was run out when he was in full flow. in mid flow in the process of talking fluently: the diplomats stopped her in mid flow, explaining they had to go to an important meeting.ORIGIN Old English flōwan, of Germanic origin; related to Dutch vloeien, also to flood .

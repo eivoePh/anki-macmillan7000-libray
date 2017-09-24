@@ -1,6 +1,22 @@
 prove 
-▶verb
-1 that proves I'm right: show (to be true), demonstrate (the truth of), show beyond doubt, manifest, produce proof/evidence; witness to, give substance to, determine, substantiate, corroborate, verify, ratify, validate, authenticate, document, bear out, confirm; formal evince. ANTONYMS disprove.
-2 the rumor proved to be correct: turn out, be found, happen.
-PHRASES
-prove oneself I was happy to have the chance to prove myself: demonstrate one's abilities/qualities, show one's (true) mettle, show what one is made of.
+pro͞ov
+
+▶verb (past participle proved or proven 
+ˈpro͞ovən
+)
+1 [with object] demonstrate the truth or existence of (something) by evidence or argument: the concept is difficult to prove 
+(as adjective proven) : a proven ability to work hard. 
+• [with object and complement] demonstrate by evidence or argument (someone or something) to be: innocent until proven guilty. 
+• Law establish the genuineness and validity of (a will). 
+• (in homeopathy) demonstrate the action of (a remedy) by seeing what effect it produces in a healthy individual. 
+• [no object, with complement] be seen or found to be: the plan has proved a great success. 
+• (prove oneself) demonstrate one's abilities or courage: a new lieutenant, very green and very desperate to prove himself. 
+• rare test the accuracy of (a mathematical calculation). 
+• subject (a gun or other item) to a testing process.
+2 [no object] (of bread dough) become aerated by the action of yeast; rise. DERIVATIVES provability 
+ˌpro͞ovəˈbilətē 
+noun. provable 
+ˈpro͞ovəbəl 
+adjective. provably 
+ˈpro͞ovəblē 
+adverb. prover nounORIGIN Middle English: from Old French prover, from Latin probare ‘test, approve, demonstrate,’ from probus ‘good.’ usage: For complex historical reasons, prove developed two past participles: proved and proven. Both are correct and can be used more or less interchangeably: this hasn't been proved yet; this hasn't been proven yet. Proven is the more common form when used as an adjective before the noun it modifies: a proven talent (not a proved talent). Otherwise, the choice between proved and proven is not a matter of correctness, but usually of sound and rhythm—and often, consequently, a matter of familiarity, as in the legal idiom innocent until proven guilty.

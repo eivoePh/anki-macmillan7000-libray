@@ -6,7 +6,9 @@ adjectivepredicative
 ③ Law (responsible) 负有法律责任的 fùyǒu fǎlǜ zérèn de ‹person, company›parents are liable for their children 父母要对孩子的行为负责 to be liable for damages/[somebody's] debts 有责任赔偿损失/偿付某人的债务 
 ④ Law (legally subject) 应受罚的 yīng shòu fá de ‹person›(answerable) 有义务的 yǒu yìwù de ‹person, company›to be liable for tax «profits, person, company» 必须纳税 to be liable for duty «importers, goods» 必须缴纳关税 to be liable for military service 有服兵役的义务 offenders are liable to heavy fines/loss of citizenship 违者处以高额罚款/失去公民资格 
 liable 
+ˈlī(ə)b(ə)l
+
 ▶adjective
-1 they are liable for negligence: responsible, legally responsible, accountable, answerable, chargeable, blameworthy, at fault, culpable, guilty.
-2 my income is liable to fluctuate wildly: likely, inclined, tending, disposed, apt, predisposed, prone, given.
-3 areas liable to flooding: exposed to, prone to, subject to, susceptible to, vulnerable to, in danger of, at risk of.
+1 responsible by law; legally answerable: the supplier of goods or services can become liable for breach of contract in a variety of ways.
+2 likely to do or to be something: patients were liable to faint if they stood up too suddenly. 
+• (liable to) likely to experience (something undesirable): areas liable to flooding. ORIGIN late Middle English: perhaps from Anglo-Norman French, from French lier ‘to bind,’ from Latin ligare .

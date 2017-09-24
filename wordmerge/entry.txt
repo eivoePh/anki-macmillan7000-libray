@@ -16,10 +16,20 @@ noun
 ⑬ Countable(item for competition) 参赛作品 cānsài zuòpǐn one's entry for [something] 参加某竞赛的作品 
 ⑭ Countable(number of competitors) 参赛人数 cānsài rénshù 
 entry 
-▶noun
-1 my moment of entry: appearance, arrival, entrance, ingress, coming. ANTONYMS departure, exit.
-2 the entry to the building. See entrance1 (sense 1).
-3 he was refused entry: admission, admittance, entrance, access, ingress.
-4 entries in the cash book: item, record, note, listing; memo, memorandum; account.
-5 data entry: recording, archiving, logging, documentation, capture, keying.
-6 we must pick a winner from the entries: contestant, competitor, contender, entrant, participant; candidate, applicant; submission, entry form, application.
+ˈentrē
+
+▶noun (plural entries)
+1 an act of going or coming in: the door was locked, but he forced an entry. 
+• a place of entrance, such as a door or lobby. 
+• the right, means, or opportunity to enter a place or be a member of something: undocumented workers seeking entry to the United States. 
+• the action of undertaking something or becoming a member of something: more young people are postponing their entry into full-time work. 
+• Bridge a card providing an opportunity to transfer the lead to a particular hand. 
+• Law the action of taking up the legal right to property. 
+• Music the point in a piece of music at which a particular performer in an ensemble starts or resumes playing or singing. 
+• dialect a passage between buildings.
+2 an item written or printed in a diary, list, ledger, or reference book. 
+• the action of recording an entry: sophisticated features to help ensure accurate data entry.
+3 a person or thing competing in a race or competition: from the hundreds of entries we received, twelve winners were finally chosen. 
+• [in singular] the number of competitors in a particular race or competition. 
+• the action of participating in a race or competition.
+4 the forward part of a ship's hull below the waterline, considered in terms of breadth or narrowness. ORIGIN Middle English: from Old French entree, based on Latin intrata, feminine past participle of intrare (see enter) .

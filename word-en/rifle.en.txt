@@ -1,5 +1,9 @@
-rifle 
+rifle
+1 
+ˈrīfəl
+
+▶noun a gun, especially one fired from shoulder level, having a long spirally grooved barrel intended to make a bullet spin and thereby have greater accuracy over a long distance.rifle 
+• (rifles) troops armed with rifles. 
 ▶verb
-1 she rifled through her closet: rummage, search, hunt, forage.
-2 a thief rifled her home: burgle, burglarize, rob, steal from, loot, raid, plunder, ransack.
-▶noun he refused to register the rifle: firearm, gun, shotgun, 30-30; trademark Winchester.
+1 [with object] (usually as adjective rifled) make spiral grooves in (a gun or its barrel or bore) to make a bullet spin and thereby have greater accuracy over a long distance: a line of replacement rifled barrels.
+2 [with object] hit, throw, or kick (a ball or puck) hard and straight: he rifled a hard, rising shot from just inside the blue line. [1940s: from rifle ‘gun,’ suggestive of explosive speed; compare with the verb shoot.] ORIGIN mid 17th century: from French rifler ‘graze, scratch,’ of Germanic origin. The earliest noun usage was in rifle gun, which had “rifles” or spiral grooves cut into the inside of the barrel.

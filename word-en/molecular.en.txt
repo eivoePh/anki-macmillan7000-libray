@@ -1,3 +1,7 @@
 molecular 
-BrE məˈlɛkjʊlə, AmE məˈlɛkjələr 
-adjective 分子的 fēnzǐ de ‹structure, chemistry›molecular weight/diagram/physics 分子量/分子模型图/分子物理 
+məˈlekyələr
+
+▶adjective relating to or consisting of molecules: interactions between polymer and solvent at the molecular level 
+ozone is produced by dissociation of molecular oxygen. DERIVATIVES molecularity 
+məˌlekyəˈlerədē 
+noun. molecularly adverb

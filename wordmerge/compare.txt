@@ -7,9 +7,16 @@ A.  transitive verb
 B.  intransitive verb 相比 xiāngbǐ to compare with [somebody]/[something]; 与某人/某事物相比较 the two televisions compare well for price 这两台电视的价格都还行 to compare favourably/unfavourably with [something] 比某事物好/差 
 C.  nounUncountableliterary 比较 bǐjiào to be beyond or past or without compare; 无与伦比 a beauty/leader beyond compare 绝世美人/无人能比的领导者 
 compare 
-▶verb
-1 we compared the data sets: contrast, juxtapose, collate, differentiate.
-2 he was compared to Wagner: liken to, equate to, analogize to; class with, set side by side with.
-3 the porcelain compares with Dresden's fine china: be as good as, be comparable to, bear comparison with, be the equal of, match up to, be on a par with, be in the same league as, come close to, hold a candle to, be not unlike; match, resemble, emulate, rival, approach.
+kəmˈper
+
+▶verb [with object]
+1 estimate, measure, or note the similarity or dissimilarity between: individual schools compared their facilities with those of others in the area 
+the survey compares prices in different countries 
+total attendance figures were 28,000, compared to 40,000 at last year's event. 
+• (compare something to) point out the resemblances to; liken to: her novel was compared to the work of Daniel Defoe. 
+• (compare something to) draw an analogy between one thing and (another) for the purposes of explanation or clarification: he compared the religions to different paths toward the peak of the same mountain. 
+• [no object] have a specified relationship with another thing or person in terms of nature or quality: salaries compare favorably with those of other professions. 
+• [no object] be of an equal or similar nature or quality: sales were modest and cannot compare with the glory days of 1989.
+2 (usually be compared) Grammar form the comparative and superlative degrees of (an adjective or an adverb): words of one syllable are usually compared by “-er” and “-est.” 
 PHRASES
-beyond compare their peach cobbler is beyond compare: without equal, second to none, in a class of one's own; peerless, matchless, unmatched, incomparable, inimitable, supreme, outstanding, consummate, unique, singular, perfect.
+beyond (or without) compare of a quality or nature surpassing all others of the same kind: a diamond beyond compare. compare notes (of two or more people) exchange ideas, opinions, or information about a particular subject.ORIGIN late Middle English: from Old French comparer, from Latin comparare, from compar ‘like, equal,’ from com- ‘with’ + par ‘equal.’ usage: Traditionally, compare to is used when similarities are noted in dissimilar things: shall I compare thee to a summer's day? To compare with is to look for either differences or similarities, usually in similar things: compare the candidate's claims with his actual performance. In practice, however, this distinction is rarely maintained. See also usage at contrast .

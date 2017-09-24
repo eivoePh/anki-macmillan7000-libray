@@ -1,4 +1,10 @@
 react 
-▶verb
-1 how would he react if she told him the truth? behave, act, take it, conduct oneself; respond, reply, answer.
-2 she reacted against the new regulations: rebel against, oppose, rise up against.
+rēˈakt
+
+▶verb [no object] respond or behave in a particular way in response to something: he reacted angrily to the news of his dismissal 
+the market reacted by falling a further 3.1%. 
+• (react against) respond with hostility, opposition, or a contrary course of action to: they reacted against the elite art music of their time. 
+• (of a person) suffer from adverse physiological effects after ingesting, breathing, or touching a substance: many babies react to soy-based formulas. 
+• Chemistry & Physics interact and undergo a chemical or physical change: the sulfur in the coal reacts with the limestone during combustion. 
+• [with object] Chemistry cause (a substance) to undergo a change by interacting with another substance. 
+• Stock Market (of stock prices) fall or rise in reaction to events, developments, etc. ORIGIN mid 17th century: from re- (expressing intensive force or reversal) + act, originally suggested by medieval Latin react- ‘done again,’ from the verb reagere .

@@ -1,8 +1,16 @@
 bet 
-▶verb
-1 he bet $10 on the favorite: wager, gamble, stake, risk, venture, hazard, chance; put/lay money, speculate.
-2 informal I bet it was your idea: be certain, be sure, be convinced, be confident; expect, predict, forecast, guess.
-▶noun
-1 a $20 bet: wager, gamble, stake, ante.
-2 informal my bet is that they'll lose: prediction, forecast, guess; opinion, belief, feeling, view, theory.
-3 informal your best bet is to go early: option, choice, alternative, course of action, plan.
+bet
+
+▶verb (bets, betting; past and past participle bet or betted)
+1 [no object] risk something, usually a sum of money, against someone else's on the basis of the outcome of a future event, such as the result of a race or game: betting on horses 
+[with clause] : I would be prepared to bet that what he really wanted was to settle down 
+[with object] : most people would bet their life savings on this prospect. 
+• [with object] risk a sum of money against (someone) on the outcome or happening of a future event: [with two objects] : I'll bet you $15 you won't find a single scratch.
+2 [with clause] informal feel sure: I bet this place is really spooky late at night 
+he'll be surprised to see me, I'll bet. 
+▶noun an act of risking a sum of money on the outcome of a future event: every Saturday she had a bet on the horses. 
+• a sum of money staked on the outcome of a future event: the bookies are taking bets on his possible successor. 
+• [with adjective] informal a candidate or course of action to choose; an option: your best bet is to call a professional exterminator. 
+• (one's bet) informal an opinion, typically one formed quickly or spontaneously: my bet is that the president will veto the bill. 
+PHRASES
+all bets are off informal the outcome of a situation is unpredictable. don't (or I wouldn't) bet on it informal used to express doubt about an assertion or situation: he may be a suitable companion—but don't bet on it. want to (or wanna) bet? informal used to express vigorous disagreement with a confident assertion: “You can't be with me every moment.” “Want to bet?” you bet informal you may be sure; certainly: “Would you like this piece of pie?” “You bet!”ORIGIN late 16th century: perhaps a shortening of the obsolete noun abet ‘abetment.’

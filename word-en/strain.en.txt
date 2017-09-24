@@ -1,16 +1,28 @@
 strain
 1 
+strān
+
 ▶verb
-1 take care that you don't strain yourself: overtax, overwork, overextend, overreach, drive too far; exhaust, wear out; overdo it; informal knock oneself out.
-2 you have strained a muscle: injure, damage, pull, wrench, twist, sprain.
-3 we strained to haul the guns up the slope: struggle, labor, toil, make every effort, try very hard, break one's back, push/drive oneself to the limit; informal pull out all the stops, go all out, bust a gut.
-4 the flood of refugees is straining the relief services: make excessive demands on, overtax, be too much for, test, tax, put a strain on.
-5 the bear strained at the chain: pull, tug, heave, haul, jerk; informal yank.
-6 archaic she strained the infant to her bosom: clasp, press, clutch, hold tight; embrace, hug, enfold, envelop.
-7 strain the mixture: sieve, sift, filter, screen, riddle; rare filtrate.
+1 [with object] force (a part of one's body or oneself) to make a strenuous or unusually great effort: I stopped and listened, straining my ears for any sound. 
+• injure (a limb, muscle, or organ) by overexerting it or twisting it awkwardly: on cold days you are more likely to strain a muscle 
+glare from the screen can strain your eyes. 
+• [no object] make a strenuous and continuous effort: his voice was so quiet that I had to strain to hear it. 
+• make severe or excessive demands on: he strained her tolerance to the limit. 
+• [no object] pull or push forcibly at something: the bear strained at the chain around its neck 
+his stomach was swollen, straining against the thin shirt. 
+• stretch (something) tightly: the barbed wire fence was strained to posts six feet high. 
+• archaic embrace (someone) tightly: she strained the infant to her bosom again.
+2 [with object] pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter: strain the custard into a bowl. 
+• cause liquid to drain off (food that has been boiled, soaked, or canned) by pouring through a perforated device. 
+• drain off (liquid) by straining: strain off the surplus fat. 
 ▶noun
-1 the rope snapped under the strain: tension, tightness, tautness.
-2 muscle strain: injury, sprain, wrench, twist.
-3 the strain of her job: pressure, demands, burdens; stress; informal hassle.
-4 Nancy was showing signs of strain: stress, (nervous) tension; exhaustion, fatigue, pressure of work, overwork.
-5 the strains of Brahms's lullaby: sound, music; melody, tune.
+1 a force tending to pull or stretch something to an extreme or damaging degree: the usual type of chair puts an enormous strain on the spine 
+aluminum may bend under strain. 
+• Physics the magnitude of a deformation, equal to the change in the dimension of a deformed object divided by its original dimension. 
+• an injury to a part of the body caused by overexertion or twisting a muscle awkwardly: he has a slight groin strain.
+2 a severe or excessive demand on the strength, resources, or abilities of someone or something: the accusations put a strain on relations between the two countries 
+she's obviously under considerable strain. 
+• a state of tension or exhaustion resulting from this: the telltale signs of nervous strain.
+3 (usually strains) the sound of a piece of music as it is played or performed: through the open windows came the strains of a hurdy-gurdy playing in the street. 
+PHRASES
+at (full) strain archaic using the utmost effort. strain every nerve see nerve. strain at the leash see leash. DERIVATIVES strainable adjectiveORIGIN Middle English (as a verb): from Old French estreindre, from Latin stringere ‘draw tight.’ Current senses of the noun arose in the mid 16th century.

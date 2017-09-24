@@ -1,4 +1,7 @@
 extent 
-▶noun
-1 two acres in extent: area, size, expanse, length; proportions, dimensions.
-2 the full extent of her father's illness: degree, scale, level, magnitude, scope; size, breadth, width, reach, range.
+ikˈstent
+
+▶noun [in singular] the area covered by something: an enclosure ten acres in extent. 
+• the degree to which something has spread; the size or scale of something: the extent of AIDS infection. 
+• the amount to which something is or is believed to be the case: everyone will have to compromise to some extent 
+they altered the document to such an extent that it contained little in the way of new policy. ORIGIN Middle English (in the sense ‘valuation of property, especially for taxation purposes’): from Anglo-Norman French extente, from medieval Latin extenta, feminine past participle of Latin extendere ‘stretch out’ (see extend) .

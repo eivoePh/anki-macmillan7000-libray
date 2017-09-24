@@ -1,7 +1,22 @@
 hunt 
+hənt
+
 ▶verb
-1 they hunted deer: chase, stalk, pursue, course, run down; track, trail, follow, hound, shadow; predate; informal tail.
-2 police are hunting for her: search for, look for, look high and low for, scour the area for, sweep the area for, comb the area for; seek, try to find; scout around, rummage around/about, root around/about, fish around/about.
+1 [with object] pursue and kill (a wild animal) for sport or food: in the autumn they hunted deer 
+[no object] : they hunted and fished. 
+• (of an animal) chase and kill (its prey): mice are hunted by weasels and foxes 
+[no object] : lionesses hunt in groups.
+2 [no object] search determinedly for someone or something: he desperately hunted for a new job. 
+• [with object] (of the police) search for (a criminal): the gang is being hunted by police 
+[no object] : police are hunting for her attacker. 
+• (hunt someone down) pursue and capture someone.
+3 [no object] technical (of a device or system) oscillate around a desired speed, position, or state. 
+• (of an aircraft or rocket) oscillate around a mean flight path. 
+• (of an automatic transmission in a motor vehicle) keep shifting between gears because of improperly designed shift logic.
+4 [no object] (hunt down/up) Bell-ringing (in change-ringing) move the place of a bell in a simple progression. 
 ▶noun
-1 the thrill of the hunt: chase, pursuit.
-2 police have stepped up their hunt: search, look, quest, manhunt.
+1 an act of hunting wild animals or game. 
+• an association of people who meet regularly to hunt, especially with hounds. 
+• an area where hunting takes place. 
+• a search: police launched a hunt for the killer.
+2 an oscillating motion around a desired speed, position, or state. ORIGIN Old English huntian, of Germanic origin. The sense in change-ringing dates from the late 17th century, and is probably based on the idea of the bells pursuing one another; it gave rise to the sense ‘oscillate around a desired speed’ (late 19th century).

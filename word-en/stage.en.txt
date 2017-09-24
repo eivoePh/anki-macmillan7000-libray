@@ -1,10 +1,27 @@
 stage 
+stāj
+
 ▶noun
-1 this stage of the development: phase, period, juncture, step, point, time, moment, instant, level.
-2 the last stage of the race: part, section, portion, stretch, leg, lap, circuit.
-3 a theater stage: platform, dais, stand, grandstand, staging, apron, rostrum, podium; bandstand, bandshell; catwalk.
-4 she has written for the stage: theater, drama, dramatics, dramatic arts, thespianism; informal boards.
-5 the political stage: scene, setting; context, frame, sphere, field, realm, arena, backdrop; affairs.
-▶verb
-1 they staged two plays: put on, put before the public, present, produce, mount, direct; perform, act, give.
-2 workers staged a protest: organize, arrange, coordinate, lay on, put together, get together, set up; orchestrate, choreograph, mastermind, engineer; take part in, participate in, join in.
+1 a point, period, or step in a process or development: there is no need at this stage to give explicit details 
+I was in the early stages of pregnancy. 
+• a section of a journey or race: the final stage of the journey is made by taxi. 
+• each of two or more sections of a rocket or spacecraft that have their own engines and are jettisoned in turn when their propellant is exhausted. 
+• [with modifier] Electronics a specified part of a circuit, typically one consisting of a single amplifying transistor or valve with the associated equipment.
+2 a raised floor or platform, typically in a theater, on which actors, entertainers, or speakers perform: there are only two characters on stage. 
+• (the stage) the acting or theatrical profession: I've always wanted to go on the stage. 
+• [in singular] a scene of action or forum of debate, especially in a particular political context: Argentina is playing a leading role on the international stage.
+3 a floor or level of a building or structure: the upper stage was added in the 17th century. 
+• (on a microscope) a raised and usually movable plate on which a slide or object is placed for examination.
+4 Geology (in chronostratigraphy) a range of strata corresponding to an age in time, forming a subdivision of a series. 
+• (in paleoclimatology) a period of time marked by a characteristic climate: the Boreal stage.
+5 archaic term for stagecoach. 
+▶verb [with object]
+1 present a performance of (a play or other show): the show is being staged at the Goodspeed Opera House. 
+• (of a person or group) organize and participate in (a public event): UDF supporters staged a demonstration in Sofia. 
+• cause (something dramatic or unexpected) to happen: the president's attempt to stage a comeback 
+the dollar staged a partial recovery.
+2 Medicine diagnose or classify (a disease or patient) as having reached a particular stage in the expected progression of the disease. 
+PHRASES
+hold the stage dominate a scene of action or forum of debate. set the stage for prepare the conditions for (the occurrence or beginning of something): these churchmen helped to set the stage for popular reform. stage left (or right) on the left (or right) side of a stage from the point of view of a performer facing the audience.DERIVATIVES stageability 
+ˌstājəˈbilitē 
+noun. stageable adjectiveORIGIN Middle English (denoting a floor of a building, a platform, or a stopping place): shortening of Old French estage ‘dwelling,’ based on Latin stare ‘to stand.’ Current senses of the verb date from the early 17th century.

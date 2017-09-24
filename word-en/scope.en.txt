@@ -1,4 +1,16 @@
 scope 
+skōp
+
 ▶noun
-1 the scope of the investigation: extent, range, breadth, width, reach, sweep, purview, span, horizon; area, sphere, field, realm, compass, orbit, ambit, terms/field of reference, jurisdiction; confine, limit; gamut.
-2 the scope for change is limited by political realities: opportunity, freedom, latitude, leeway, capacity, liberty, room (to maneuver), elbow room; possibility, chance.CHOOSE THE RIGHT WORD See range .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 the extent of the area or subject matter that something deals with or to which it is relevant: we widened the scope of our investigation 
+such questions go well beyond the scope of this book.
+2 the opportunity or possibility to do or deal with something: the scope for major change is always limited by political realities. 
+• archaic a purpose, end, or intention: Plato maintains religion to be the chief aim and scope of human life.
+3 informal a telescope, microscope, or other device having a name ending in -scope: infrared night scopes.
+4 Nautical the length of cable extended when a ship rides at anchor.
+5 Linguistics & Logic the range of the effect of an operator such as a quantifier or conjunction. 
+▶verb [with object]
+1 assess or investigate (something): they'd scoped out their market. 
+• set the scope of (a projected undertaking): it is important that a project is scoped correctly to ensure the budget can be accurately defined.
+2 North American informal look at carefully; scan: they watched him scoping the room, looking for Michael. ORIGIN mid 16th century (in the sense ‘target for shooting at’): from Italian scopo ‘aim,’ from Greek skopos ‘target,’ from skeptesthai ‘look out.’ Sense
+3 of the noun is derived from -scope.

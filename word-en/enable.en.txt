@@ -1,2 +1,8 @@
 enable 
-▶verb the brace will enable you to walk more steadily: allow, permit, let, give the means, equip, empower, make able, fit; make possible, facilitate; authorize, entitle, qualify; formal capacitate. ANTONYMS prevent.
+enˈāb(ə)l inˈāb(ə)l
+
+▶verb [with object]
+1 give (someone or something) the authority or means to do something: [with object and infinitive] : the evidence would enable us to arrive at firm conclusions. 
+• make possible: a number of courses are available to enable an understanding of a broad range of issues.
+2 chiefly Computing make (a device or system) operational; activate. 
+• (as adjective, in combination -enabled) adapted for use with the specified application or system: WAP-enabled mobile phones. DERIVATIVES enablement nounORIGIN late Middle English (formerly also as inable): from en-1, in-2, + able .

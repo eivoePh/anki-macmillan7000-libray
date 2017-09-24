@@ -1,6 +1,29 @@
 float 
-▶verb
-1 oil floats on water: stay afloat, stay on the surface, be buoyant, be buoyed up. ANTONYMS sink.
-2 the balloon floated in the air: hover, levitate, be suspended, hang, defy gravity.
-3 a cloud floated across the moon: drift, glide, sail, slip, slide, waft. ANTONYMS rush.
-4 they have just floated that idea: suggest, put forward, come up with, submit, moot, propose, advance, test the popularity of; informal run something up the flagpole (to see who salutes). ANTONYMS withdraw.
+flōt
+
+▶verb [no object]
+1 rest or move on or near the surface of a liquid without sinking: she relaxed, floating gently in the water. 
+• [with object] cause (a buoyant object) to rest or move on the surface of a liquid without sinking: trees were felled and floated downstream. 
+• be suspended freely in a liquid or gas: fragments of chipped cartilage floated in the joint.
+2 [with adverbial of direction] move or hover slowly and lightly in a liquid or the air; drift: clouds floated across a brilliant blue sky 
+figurative : through the open window floated the sound of traffic. 
+• (float about/around) (of a rumor, idea, etc.) circulate: the notion was floating around Capitol Hill. 
+• (of a sight or idea) come before the eyes or mind: the advice his father had given him floated into his mind. 
+• [with object] (in sports) make (the ball) travel lightly and effortlessly through the air: he floated the kick into the net.
+3 [with object] put forward (an idea) as a suggestion or test of reactions. 
+• offer the shares of (a company) for sale on the stock market for the first time.
+4 (of a currency) fluctuate freely in value in accordance with supply and demand in the financial markets: a policy of letting the pound float. 
+• [with object] allow (a currency) to fluctuate in value. 
+▶noun
+1 a thing that is buoyant in water, in particular: 
+• a small object attached to a fishing line to indicate by moving when a fish bites. 
+• a cork or buoy supporting the edge of a fishing net. 
+• a hollow or inflated organ enabling an organism (such as the Portuguese man-of-war) to float in the water. 
+• a hollow structure fixed underneath an aircraft enabling it to take off and land on water. 
+• a device floating on the surface of a liquid that forms part of a valve apparatus controlling flow in and out of the enclosing container, e.g., in a toilet tank or a carburetor.
+2 a platform mounted on a truck and carrying a display in a parade: a carnival float.
+3 a hand tool with a rectangular blade used for smoothing plaster or concrete.
+4 chiefly North American a soft drink with a scoop of ice cream floating in it: root-beer floats.
+5 (in critical path analysis) the period of time by which the duration of an activity may be extended without affecting the overall time for the process. 
+PHRASES
+float someone's boat informal appeal to or excite someone, especially sexually: Kevin doesn't exactly float her boat.ORIGIN Old English flotian (verb), of Germanic origin and related to fleet4, reinforced in Middle English by Old French floter, also from Germanic.

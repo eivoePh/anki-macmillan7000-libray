@@ -1,14 +1,25 @@
-tell 
-▶verb
-1 why didn't you tell me before? inform, notify, apprise, let know, make aware, acquaint with, advise, put in the picture, brief, fill in; alert, warn; informal clue in/up.
-2 she told the story slowly: relate, recount, narrate, unfold, report, recite, describe, sketch, weave, spin; utter, voice, state, declare, communicate, impart, divulge.
-3 she told him to leave: instruct, order, command, direct, charge, enjoin, call on, require; literary bid.
-4 I tell you, I did nothing wrong: assure, promise, give one's word, swear, guarantee.
-5 the figures tell a different story: reveal, show, indicate, be evidence of, disclose, convey, signify.
-6 promise you won't tell? give the game away, talk, tell tales, tattle; informal spill the beans, let the cat out of the bag, blab.
-7 she was bound to tell on him: inform on, tell tales on, give away, denounce, sell out; informal blow the whistle on, rat on, squeal on, finger.
-8 it was hard to tell what he said: ascertain, determine, work out, make out, deduce, discern, perceive, see, identify, recognize, understand, comprehend; informal figure out; British informal suss out.
-9 he couldn't tell one from the other: distinguish, differentiate, discriminate.
-10 the strain began to tell on him: take its toll, leave its mark; affect.
+tell
+1 
+tel
+
+▶verb (past and past participle told 
+tōld
+)
+1 [reporting verb] communicate information, facts, or news to someone in spoken or written words: [with object and clause] : I told her you were coming 
+[with object and direct speech] : “We have nothing in common,” she told him 
+[with object] : he's telling the truth 
+[with two objects] : we must be told the facts. 
+• [with object and infinitive] order, instruct, or advise (someone) to do something: tell him to go away. 
+• [with object] narrate or relate (a tale or story). 
+• [with object] reveal (information) to someone in a nonverbal way: the figures tell a different story 
+[with two objects] : the smile on her face told him everything. 
+• [no object] divulge confidential or private information: promise you won't tell. 
+• [no object] (tell on) informal inform someone of the misdemeanors of: friends don't tell on each other.
+2 [with clause] decide or determine correctly or with certainty: you can tell they're in love. 
+• [with object] distinguish (one person or thing) from another; perceive (the difference) between one person or thing and another: I can't tell the difference between margarine and butter.
+3 [no object] (of an experience or period of time) have a noticeable, typically harmful, effect on someone: the strain of supporting the family was beginning to tell on him. 
+• (of a particular factor) play a part in the success or otherwise of someone or something: lack of fitness told against him on his first run of the season.
+4 [with object] archaic count (the members of a series or group): the shepherd had told all his sheep. 
+▶noun (especially in poker) an unconscious action that is thought to betray an attempted deception. 
 PHRASES
-tell off informal oh, brother, did he ever tell you off. See reprimand (verb). 
+as far as one can tell judging from the available information. I tell you (or I can tell you) used to emphasize a statement: that took me by surprise, I can tell you!I (or I'll) tell you what used to introduce a suggestion: I tell you what, why don't we meet for lunch tomorrow? I told you (so) used as a way of pointing out that one's warnings, although ignored, have been proved to be well founded.tell one's beads see bead. tell someone's fortune see fortune. tell it like it is informal describe the facts of a situation no matter how unpleasant they may be. tell its own tale (or story) be significant or revealing, without any further explanation or comment being necessary: the worried expression on Helen's face told its own tale.tell me about it informal used as an ironic acknowledgment of one's familiarity with a difficult or unpleasant situation or experience described by someone else. tell me another informal used as an expression of disbelief or incredulity. tell something a mile off see mile. tell tales see tale. tell it to the marines see marine. tell time be able to ascertain the time from reading the face of a clock or watch.tell someone where to get off (or where they get off) informal angrily dismiss or rebuke someone.tell someone where to put (or what to do with) something informal angrily or emphatically reject something: I told him what he could do with his diamond. that would be telling informal used to convey that one is not prepared to divulge secret or confidential information. there is no telling used to convey the impossibility of knowing what has happened or will happen: there's no telling how she will react. to tell (you) the truth see truth. you're telling me! informal used to emphasize that one is already well aware of something or in complete agreement with a statement.PHRASAL VERBS tell someone off informal reprimand or scold someone: my parents told me off for coming home late.DERIVATIVES tellable adjectiveORIGIN Old English tellan ‘relate, count, estimate,’ of Germanic origin; related to German zählen ‘reckon, count,’ erzählen ‘recount, relate,’ also to tale .

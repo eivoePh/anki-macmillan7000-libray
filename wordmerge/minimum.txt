@@ -8,5 +8,15 @@ B.  adjective
 ① (least) 最少的 zuì shǎo de ‹quantity, requirement, interruption, delay›
 ② (lowest) 最低的 zuì dī de ‹temperature, price, standard, age, level›
 minimum 
-▶noun costs will be kept to the minimum: lowest level, lower limit, bottom level, rock bottom, nadir; least, lowest, slightest. ANTONYMS maximum.
-▶adjective the minimum amount of effort: minimal, least, smallest, least possible, slightest, lowest, minutest.
+ˈminəməm
+
+▶noun (plural minima 
+-mə
+or minimums) [usually in singular] the least or smallest amount or quantity possible, attainable, or required: technical difficulties have been kept to a minimum 
+they checked passports with the minimum of fuss. 
+• the lowest or smallest amount of a varying quantity (e.g., temperature) allowed, attained, or recorded: clients with a minimum of $500,000 to invest 
+winter minima of –40 ° C have been recorded. 
+• Mathematics a point at which a continuously varying quantity ceases to decrease and begins to increase; the value of a quantity at such a point. 
+▶adjective [attributive] smallest or lowest: this can be done with the minimum amount of effort. 
+PHRASES
+at a (or the) minimum at the very least: we zipped along at a minimum of 55 mph.ORIGIN mid 17th century: from Latin, neuter of minimus ‘least.’

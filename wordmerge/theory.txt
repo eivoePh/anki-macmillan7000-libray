@@ -4,8 +4,12 @@ noun
 ① Countable(hypothesis) 学说 xuéshuō the theory of evolution/relativity 进化论/相对论 my theory would be that … 我的看法是… 
 ② Uncountable and countable(general principle, set of principles) 理论 lǐlùn a theory of education 教育理论 in theory 在理论上 
 theory 
-▶noun
-1 I reckon that confirms my theory: hypothesis, thesis, conjecture, supposition, speculation, postulation, postulate, proposition, premise, surmise, assumption, presupposition; opinion, view, belief, contention.
-2 modern economic theory: principles, ideas, concepts; philosophy, ideology, system of ideas, science.
+ˈTHirē
+
+▶noun (plural theories) a supposition or a system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained: Darwin's theory of evolution. 
+• a set of principles on which the practice of an activity is based: a theory of education 
+music theory. 
+• an idea used to account for a situation or justify a course of action: my theory would be that the place has been seriously mismanaged. 
+• Mathematics a collection of propositions to illustrate the principles of a subject. 
 PHRASES
-in theory in theory, your idea sounds great, but can it be practically applied? in principle, on paper, in the abstract, all things being equal, in an ideal world; hypothetically, theoretically, supposedly.
+in theory used in describing what is supposed to happen or be possible, usually with the implication that it does not in fact happen: in theory, things can only get better; in practice, they may well become a lot worse.ORIGIN late 16th century (denoting a mental scheme of something to be done): via late Latin from Greek theōria ‘contemplation, speculation,’ from theōros ‘spectator.’

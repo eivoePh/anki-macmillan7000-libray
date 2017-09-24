@@ -2,4 +2,8 @@ abolish
 BrE əˈbɒlɪʃ, AmE əˈbɑlɪʃ 
 transitive verb 废除 fèichú ‹law, right, tax, penalty, custom, system, slavery›; 取消 qǔxiāo ‹subsidy, service, allowance›they argued that divorce should be abolished 他们主张应当禁止离婚 
 abolish 
-▶verb the governor never fulfilled his promise to abolish the state income tax: put an end to, get rid of, scrap, end, stop, terminate, ax, eradicate, eliminate, exterminate, destroy, annihilate, stamp out, obliterate, wipe out, extinguish, quash, expunge, extirpate; annul, cancel, invalidate, negate, nullify, void, dissolve; rescind, repeal, revoke, overturn; discontinue, remove, excise, drop, jettison; informal do away with, ditch, junk, scrub, dump; formal abrogate. ANTONYMS retain, create.
+əˈbäliSH
+
+▶verb [with object] formally put an end to (a system, practice, or institution): the tax was abolished in 1977. DERIVATIVES abolisher noun. abolishment 
+əˈbäliSHmənt 
+nounORIGIN late Middle English: from Old French aboliss-, lengthened stem of abolir, from Latin abolere ‘destroy.’

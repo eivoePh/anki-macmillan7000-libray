@@ -11,10 +11,23 @@ B.  noun
 ② (in electrical system) 端子 duānzi 
 ③ (device in computer system) 终端 zhōngduān 
 terminal 
+ˈtərmənl
+
 ▶adjective
-1 a terminal illness: incurable, untreatable, inoperable; fatal, mortal, deadly; Medicine immedicable.
-2 terminal patients: incurable, dying; near death, on one's deathbed, on one's last legs, with one foot in the grave.
-3 a terminal bonus may be payable when a policy matures: final, last, concluding, closing, end.
+1 [attributive] of, forming, or situated at the end or extremity of something: a terminal date 
+the terminal tip of the probe. 
+• of or forming a transportation terminal: terminal platforms. 
+• Zoology situated at, forming, or denoting the end of a part or series of parts furthest from the center of the body. 
+• Botany (of a flower, inflorescence, etc.) borne at the end of a stem or branch. Often contrasted with axillary.
+2 (of a disease) predicted to lead to death, especially slowly; incurable: terminal cancer. 
+• [attributive] suffering from or relating to a terminal disease: a hospice for terminal cases. 
+• [attributive] (of a condition) forming the last stage of a terminal disease. 
+• informal extreme and usually beyond cure or alteration (used to emphasize the extent of something regarded as bad or unfortunate): you're making a terminal ass of yourself. 
 ▶noun
-1 a railroad terminal: station, last stop, end of the line; depot; chiefly British terminus.
-2 a computer terminal: workstation, VDT, visual display terminal.
+1 an end or extremity of something, in particular: 
+• the end of a railroad or other transport route, or a station at such a point. 
+• a departure and arrival building for air passengers at an airport. 
+• an installation where oil or gas is stored at the end of a pipeline or at a port.
+2 a point of connection for closing an electric circuit.
+3 a device at which a user enters data or commands for a computer system and that displays the received output.
+4 (also terminal figure) another term for terminus ( sense 3). ORIGIN early 19th century: from Latin terminalis, from terminus ‘end, boundary.’

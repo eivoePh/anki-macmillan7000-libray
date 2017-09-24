@@ -1,10 +1,7 @@
 AIDS, Aids 
 BrE eɪdz, AmE eɪdz 
 abbreviation = Acquired Immune Deficiency Syndrome 艾滋病，获得性免疫缺陷综合征 àizībìng ， huòdéxìng miǎnyì quēxiàn zōnghézhēng 
-aid 
-▶noun
-1 with the aid of his colleagues he prepared a manifesto: assistance, support, help, backing, cooperation; a helping hand. ANTONYMS hindrance.
-2 humanitarian aid: relief, charity, financial assistance, donations, contributions, subsidies, handouts, subvention, succor; historical alms.
-▶verb
-1 he provided an army to aid the King of England: help, assist, abet, come to someone's aid, give assistance, lend a hand, be of service; avail, succor, sustain. ANTONYMS hinder.
-2 certain teas can aid restful sleep: facilitate, promote, encourage, help, further, boost; speed up, hasten, accelerate, expedite. ANTONYMS discourage, hinder.
+AIDS 
+ādz 
+(also Aids) 
+▶noun a disease in which there is a severe loss of the body's cellular immunity, greatly lowering the resistance to infection and malignancy. AIDS was first identified in the early 1980s and now affects millions of people. The cause is a virus (called the human immunodeficiency virus or HIV) transmitted in blood and in sexual fluids, and although the incubation period may be long and treatment can slow the course of the disease there is currently no cure or vaccine. In the developed world the disease first spread among homosexuals, intravenous drug users, and recipients of infected blood transfusions, before reaching the wider population. This has tended to overshadow a greater epidemic in parts of Africa, where transmission is mainly through heterosexual contact. ORIGIN 1980s: acronym for acquired immune deficiency syndrome.

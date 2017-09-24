@@ -14,10 +14,21 @@ C.  transitive verb
 ④ Computing 查询 cháxún 
 D.  intransitive verb «party, candidate» 获得选票 huòdé xuǎnpiào to poll heavily/badly 赢得大量/很少选票 
 poll 
+pōl
+
 ▶noun
-1 a second-round poll: vote, ballot, show of hands, referendum, plebiscite; election.
-2 the poll was unduly low: voting figures, vote, returns, count, tally.
-3 a poll to investigate holiday choices: survey, opinion poll, straw poll, canvass, market research, census.
-▶verb
-1 most of those polled supported the vice president: canvass, survey, ask, question, interview, ballot.
-2 she polled 119 votes: get, gain, register, record, return.
+1 (often the polls) the process of voting in an election: the country went to the polls on March 10. 
+• a record of the number of votes cast in an election. 
+• (the polls) the places where votes are cast in an election: the polls have only just closed. 
+• short for opinion poll.
+2 dialect a person's head. 
+• the part of the head on which hair grows; the scalp. 
+▶verb [with object]
+1 record the opinion or vote of: focus groups in which customers are polled about merchandise preferences. 
+• [no object] (of a candidate in an election) receive a specified number of votes: the Green candidate polled 3.6 percent. 
+• Telecommunications & Computing check the status of (a measuring device, part of a computer, or a node in a network), especially as part of a repeated cycle.
+2 cut the horns off (an animal, especially a young cow). 
+• archaic cut off the top of (a tree or plant), typically to encourage further growth; pollard. DERIVATIVES pollee 
+pōˈlē 
+noun poll ( sense
+1 of the verb) ORIGIN Middle English (in the sense ‘head’): perhaps of Low German origin. The original sense was ‘head,’ and hence ‘an individual person among a number,’ from which developed the sense ‘number of people ascertained by counting of heads’ and then ‘counting of heads or of votes’ (17th century).

@@ -6,6 +6,13 @@ adjective
 ③ Linguistics 名词性的 míngcíxìng de ‹word, inflection›
 ④ colloquial (normal) 正常的 zhèngcháng de 
 nominal 
+ˈnämən(ə)l
+
 ▶adjective
-1 the nominal head of the campaign: in name only, titular, formal, official; theoretical, supposed, ostensible, so-called. ANTONYMS real.
-2 a nominal rent: token, symbolic; tiny, minute, minimal, small, insignificant, trifling; informal minuscule, piddling, piffling. ANTONYMS considerable.
+1 (of a role or status) existing in name only: Thailand retained nominal independence under Japanese military occupation. 
+• relating to or consisting of names. 
+• Grammar relating to, headed by, or having the function of a noun.
+2 (of a price or amount of money) very small; far below the real value or cost: some firms charge only a nominal fee for the service.
+3 (of a quantity or dimension, especially of manufactured articles) stated or expressed but not necessarily corresponding exactly to the real value: legislation allowed variation around the nominal weight (that printed on each packet). 
+• Economics (of a rate or other figure) expressed in terms of a certain amount, without making allowance for changes in real value over time: the nominal exchange rate.
+4 informal (chiefly in the context of space travel) functioning normally or acceptably. ORIGIN late 15th century (as a term in grammar): from Latin nominalis, from nomen, nomin- ‘name.’

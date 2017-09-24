@@ -1,5 +1,8 @@
 radiator 
-BrE ˈreɪdɪeɪtə, AmE ˈreɪdiˌeɪdər 
-noun 
-① (for heat) 暖气 nuǎnqì to turn a radiator on/off 开/关暖气 to turn a radiator up/down 把暖气温度调高/低 
-② (in engine) 冷却器 lěngquèqì to top up a radiator 加满水箱 a radiator cap 散热器盖子 
+ˈrādēˌādər
+
+▶noun
+1 a thing that radiates or emits light, heat, or sound. 
+• a device for heating a room consisting of a metal tank connected by pipes through which hot water is pumped by a central heating system. 
+• a portable heater resembling a radiator.
+2 an engine-cooling device in a motor vehicle or aircraft consisting of a bank of thin tubes in which circulating fluid is cooled by the surrounding air.

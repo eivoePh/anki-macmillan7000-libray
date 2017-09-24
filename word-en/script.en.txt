@@ -1,4 +1,15 @@
-script 
+script
+1 
+skript
+
 ▶noun
-1 her neat, tidy script: handwriting, writing, hand, penmanship, calligraphy.
-2 the script of the play: text, screenplay; libretto, score; lines, dialogue, words.
+1 handwriting as distinct from print; written characters: her neat, tidy script. 
+• printed type imitating handwriting. 
+• writing using a particular alphabet: Russian script.
+2 the written text of a play, movie, or broadcast. 
+• Computing an automated series of instructions carried out in a specific order. 
+• Psychology the social role or behavior appropriate to particular situations that an individual absorbs through cultural influences and association with others. 
+▶verb [with object] write a script for (a play, movie, or broadcast). 
+PHRASES
+flip the script informal, chiefly North American reverse the usual or existing positions in a situation; do something unexpected or revolutionary: Campbell flips the script on the old beauty-and-the-beast formula 
+she decided to flip the script and ask her boyfriend of eight years to marry her.ORIGIN late Middle English (in the sense ‘something written’): shortening of Old French escript, from Latin scriptum, neuter past participle (used as a noun) of scribere ‘write.’

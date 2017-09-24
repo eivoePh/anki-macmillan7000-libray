@@ -2,5 +2,8 @@ laser
 BrE ˈleɪzə, AmE ˈleɪzər 
 noun 激光 jīguāng laser technology 激光技术 
 laser 
-BrE ˈleɪzə, AmE ˈleɪzər 
-noun 激光 jīguāng laser technology 激光技术 
+ˈlāzər
+
+▶noun a device that generates an intense beam of coherent monochromatic light (or other electromagnetic radiation) by stimulated emission of photons from excited atoms or molecules. Lasers are used in drilling and cutting, alignment and guidance, and in surgery; the optical properties are exploited in holography, reading bar codes, and in recording and playing compact discs. 
+▶verb [withobject] treat or remove (something) using a laser, especially as part of surgery: I've got to get my eyes lasered again 
+he has had tattoos lasered off his chest. ORIGIN 1960s: acronym from light amplification by stimulated emission of radiation, on the pattern of maser.

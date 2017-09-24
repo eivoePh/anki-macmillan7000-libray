@@ -1,17 +1,35 @@
 stretch 
-▶verb
-1 this material stretches: be elastic, be stretchy, be tensile.
-2 he stretched the elastic: pull (out), draw out, extend, lengthen, elongate, expand.
-3 stretch your weekend into a vacation: prolong, lengthen, make longer, extend, spin out. ANTONYMS shorten.
-4 my budget won't stretch to a new car: be sufficient for, be enough for, cover; afford, have the money for.
-5 the court case stretched their finances: put a strain on, overtax, overextend, drain, sap.
-6 stretching the truth: bend, strain, distort, exaggerate, embellish.
-7 she stretched out her hand to him: reach out, hold out, extend, outstretch, proffer; literary outreach. ANTONYMS withdraw.
-8 he stretched his arms: extend, straighten (out).
-9 she stretched out on the sofa: lie down, recline, lean back, be recumbent, sprawl, lounge, loll.
-10 the desert stretches for miles: extend, spread, continue.
+streCH
+
+▶verb [no object]
+1 (of something soft or elastic) be made or be capable of being made longer or wider without tearing or breaking: my sweater stretched in the wash 
+rubber will stretch easily when pulled. 
+• [with object] cause to do this: stretch the elastic 
+small squares of canvas were stretched over the bamboo frame. 
+• last or cause to last longer than expected: her nap had stretched to two hours 
+[with object] : stretch your weekend into a mini summer vacation. 
+• [with object] make great demands on the capacity or resources of: the cost of the court case has stretched their finances to the limit. 
+• [with object] cause (someone) to make maximum use of their talents or abilities: it's too easy—it doesn't stretch me. 
+• [with object] adapt or extend the scope of (something) in a way that exceeds a reasonable or acceptable limit: to describe her as sweet would be stretching it a bit.
+2 straighten or extend one's body or a part of one's body to its full length, typically so as to tighten one's muscles or in order to reach something: the cat yawned and stretched 
+[with object] : stretching my cramped legs 
+we lay stretched out on the sand.
+3 extend or spread over an area or period of time: the beach stretches for over four miles 
+the long hours of night stretched ahead of her. 
 ▶noun
-1 magnificent stretches of forest: expanse, area, tract, belt, sweep, extent.
-2 a four-hour stretch: period, time, spell, run, stint, session, shift.
-3 informal a ten-year stretch: (prison) sentence, (prison) term, stint, rap.
-▶adjective stretch fabrics: stretchy, stretchable, elastic.
+1 an act of stretching one's limbs or body: I got up and had a stretch. 
+• the fact or condition of a muscle being stretched: she could feel the stretch and pull of the muscles in her legs. 
+• Baseball a phase of a pitcher's delivery, during which the arms are raised above and behind the head. 
+• Baseball a shortened form of a pitcher's windup, typically used to prevent base runners from stealing or gaining a long lead. 
+• [usually as modifier] the capacity of a material or garment to stretch or be stretched; elasticity: stretch jeans. 
+• a difficult or demanding task: it was a stretch for me sometimes to come up with the rent.
+2 a continuous area or expanse of land or water: a treacherous stretch of road. 
+• a continuous period of time: long stretches of time. 
+• informal a period of time spent in prison: a four-year stretch for tax fraud. 
+• chiefly North American a straight part of a racetrack, typically the homestretch: he made a promising start, but faded down the stretch. 
+• Sailing the distance covered on one tack.
+3 informal a stretch limo: a chauffeur-driven stretch. 
+PHRASES
+at a stretch in one continuous period: I often had to work for over twenty hours at a stretch. by no (or not by any) stretch of the imagination used to emphasize that something is definitely not the case: by no stretch of the imagination could Carl ever be called good-looking. stretch one's legs go for a short walk, typically after sitting in one place for some time. stretch one's wings see wing. DERIVATIVES stretchability 
+-əˈbilitē 
+noun. stretchable adjectiveORIGIN Old English streccan; related to Dutch strekken and German strecken. The noun dates from the late 16th century.

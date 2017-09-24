@@ -9,4 +9,13 @@ B.  noun
 ① (degree of comparison) the comparative 比较级 bǐjiàojí in the comparative 以比较级形式 yǐ bǐjiàojí xíngshì 
 ② (word) 比较级形式的词 bǐjiàojí xíngshì de cí 
 comparative 
-▶adjective they left the city for the comparative quiet of the country: relative, in/by comparison.
+kəmˈperədiv
+
+▶adjective
+1 perceptible by comparison; relative: he returned to the comparative comfort of his own home.
+2 of or involving comparison between two or more branches of science or subjects of study: comparative religion.
+3 Grammar (of an adjective or adverb) expressing a higher degree of a quality, but not the highest possible (e.g., braver; more fiercely). Contrasted with positive, superlative. 
+• (of a clause) involving comparison (e.g., their memory is not as good as it used to be). 
+▶noun Grammar a comparative adjective or adverb. 
+• (the comparative) the middle degree of comparison. ORIGIN late Middle English ( sense
+3 of the adjective): from Latin comparativus, from comparare ‘to pair, match’ (see compare) .

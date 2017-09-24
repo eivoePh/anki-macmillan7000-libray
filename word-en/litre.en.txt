@@ -1,3 +1,5 @@
-litre 
-BrE ˈliːtə, AmE ˈlidər 
-noun BrE 升 shēng ; before noun 一升容量的 yī shēng róngliàng de ‹bottle, measure›
+liter 
+ˈlēdər 
+(British litre) (abbreviation l) 
+▶noun a metric unit of capacity, formerly defined as the volume of
+1 kilogram of water under standard conditions, now equal to 1,000 cubic centimeters (about 1.75 pints). ORIGIN late 18th century: from French litre, alteration of litron (an obsolete measure of capacity), via medieval Latin from Greek litra, a Sicilian monetary unit.

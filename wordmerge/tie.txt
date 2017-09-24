@@ -30,18 +30,39 @@ B.  [tie somebody up] transitive verb
 ① (bind with rope etc.) 把…捆起来 bǎ… kǔn qilai 
 ② to be tied up (be busy) 被缠住 bèi chánzhù he's tied up in a meeting/with a client 他正在开会/正在见客户无法分身 I'm a bit tied up right now 我现在有点忙 wǒ xiànzài yǒudiǎn máng 
 tie 
-▶verb
-1 they tied Max to a chair: bind, tie up, tether, hitch, strap, truss, fetter, rope, chain, make fast, moor, lash, attach, fasten, fix, secure, join, connect, link, couple.
-2 he bent to tie his shoelaces: do up, lace, knot.
-3 a bonus deal tied to a productivity agreement: link to, connect to, couple to/with, relate to, join to, marry to; make conditional on, bind up with.
-4 they tied for second place: draw, be equal, be even, be neck and neck.
-▶noun
-1 he tightened the ties of his robe: lace, string, cord, fastening, fastener.
-2 a collar and tie: necktie, bow tie, string tie, bolo tie.
-3 family ties: bond, connection, link, relationship, attachment, affiliation, allegiance, friendship; kinship, interdependence.
-4 there was a tie for first place: draw, dead heat, deadlock.
+tī
+
+▶verb (ties, tying 
+ˈtī-iNG
+, tied)
+1 [with object] attach or fasten (someone or something) with string or similar cord: they tied Max to a chair 
+her long hair was tied back in a bow. 
+• fasten (something) to or around someone or something by means of its strings or by forming the ends into a knot or bow: Lewis tied on his apron. 
+• form (a string, ribbon, or lace) into a knot or bow: Rick bent to tie his shoelaces. 
+• form (a knot or bow) by tying: tie a knot in one end of the cotton. 
+• [no object] be fastened with a knot or bow: a sarong that ties at the waist. 
+• restrict or limit (someone) to a particular situation, occupation, or place: she didn't want to be like her mother, tied to a feckless man.
+2 [with object] connect; link: self-respect is closely tied up with the esteem in which one is held by one's peers. 
+• hold together by a crosspiece or tie: ceiling joists are used to tie the rafter feet. 
+• Music unite (written notes) by a tie. 
+• Music perform (two notes) as one unbroken note.
+3 [no object] achieve the same score or ranking as another competitor or team: he tied for second in the league 
+[with object] : Toronto tied the score in the fourth inning. 
+▶noun (plural ties)
+1 a piece of string, cord, or the like used for fastening or tying something: he tightened the tie of his robe. 
+• US a shoe tied with a lace.
+2 a rod or beam holding parts of a structure together. 
+• North American a wooden or concrete beam laid transversely under a railroad track to support it. 
+• Music a curved line above or below two notes of the same pitch indicating that they are to be played for the combined duration of their time values.
+3 (usually ties) a thing that unites or links people: it is important that we keep family ties strong. 
+• a thing that restricts someone's freedom of action: some cities and merchants were freed from feudal ties.
+4 a strip of material worn around the collar and tied in a knot at the front with the ends hanging down, typically forming part of a man's business or formal outfit; a necktie.
+5 a result in a game or other competitive situation in which two or more competitors or teams have the same score or ranking; a draw: there was a tie for first place. 
 PHRASES
-tie someone down she was afraid of getting tied down: restrict, restrain, limit, constrain, trammel, confine, cramp, hamper, handicap, hamstring, encumber, shackle, inhibit. tie in how do these revisions tie in with the ultimate plan? be consistent, tally, agree, be in agreement, accord, concur, fit in, harmonize, be in tune, dovetail, correspond, match; square, jibe. tie someone/something up
-1 robbers tied her up and ransacked her home: bind, bind hand and foot, truss (up), fetter, chain up.
-2 he is tied up in meetings all morning: occupy, engage, keep busy.
-3 her capital is tied up in real estate: lock, bind up, trap; entangle.
+fit to be tied see fit1. tie someone (up) in knots see knot1. tie the knot see knot1. tie one on North American informal get drunk.PHRASAL VERBS tie someone down restrict someone to a particular situation or place: she didn't want to be tied down by a full-time job. tie something in (or tie in) cause something to fit or harmonize with something else (or fit or harmonize with something): her husband is able to tie in his shifts with hers at the hospital 
+she may have developed ideas that don't necessarily tie in with mine.tie into North American informal attack or get to work on vigorously: tie into breakfast now and let's get a move on. tie someone up bind someone's legs and arms together or bind someone to something so that they cannot move or escape: robbers tied her up and ransacked her home. 
+• (usually be tied up) informal occupy someone to the exclusion of any other activity: she would be tied up at the meeting all day. tie something up
+1 bind or fasten something securely with rope, cord, or string. 
+• moor a vessel. 
+• (often be tied up) invest or reserve capital so that it is not immediately available for use: money tied up in accounts must be left to grow.
+2 bring something to a satisfactory conclusion; settle: he said he had a business deal to tie up.DERIVATIVES tieless adjectiveORIGIN Old English tīgan (verb), tēah (noun), of Germanic origin.

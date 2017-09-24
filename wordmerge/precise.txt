@@ -5,7 +5,13 @@ adjective
 ② (exact) 恰好的 qiàhǎo de ‹sum, place›at this precise moment 就在这时候 
 ③ (meticulous) 严谨周密的 yánjǐn zhōumì de ‹person, mind, manner, method›; 细微的 xìwēi de ‹movement›
 precise 
-▶adjective
-1 precise measurements: exact, accurate, correct, specific, detailed, explicit, unambiguous, definite. ANTONYMS inaccurate.
-2 at that precise moment the car stopped: exact, particular, very, specific.
-3 the attention to detail is very precise: meticulous, careful, exact, scrupulous, punctilious, conscientious, particular, methodical, strict, rigorous. ANTONYMS careless.
+prəˈsīs
+
+▶adjective marked by exactness and accuracy of expression or detail: precise directions 
+I want as precise a time of death as I can get. 
+• (of a person) exact, accurate, and careful about details: the director was precise with his camera positions. 
+• [attributive] used to emphasize that one is referring to an exact and particular thing: at that precise moment the car stopped. 
+PHRASES
+to be precise used to indicate that one is now giving more exact or detailed information: there were not many—five, to be precise.DERIVATIVES preciseness 
+prəˈsīsnəs 
+nounORIGIN late Middle English: from Old French prescis, from Latin praecis- ‘cut short,’ from the verb praecidere, from prae ‘in advance’ + caedere ‘to cut.’

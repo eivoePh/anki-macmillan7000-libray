@@ -1,13 +1,13 @@
 motor 
-BrE ˈməʊtə, AmE ˈmoʊdər 
-A. noun 
-① Electricity 电动机 diàndòngjī Mechanics 发动机 fādòngjī 
-② BrE colloquial (car) 汽车 qìchē 
-③ figurative 推动力 tuīdònglì to be the motor for [something]; 是某事的推动力 
-B.  adjectivebefore noun 
-① (driven by a motor) 机动的 jīdòng de ‹vehicle, vessel›
-② (relating to motor vehicles) 机动车的 jīdòngchē de ‹show, industry›motor accident/insurance/racing 车祸/车险/车赛 
-③ Physiology 运动的 yùndòng de ‹nerve, muscle›
-C.  intransitive verb 
-① BrE dated (drive) 开车 kāi chē 
-② colloquial (go fast) 进展迅速 jìnzhǎn xùnsù to motor through the work 工作进展迅速 we were really motoring 我们进展得很快 
+ˈmōdər
+
+▶noun a machine, especially one powered by electricity or internal combustion, that supplies motive power for a vehicle or for some other device with moving parts. 
+• a source of power, energy, or motive force: hormones are the motor of the sexual functions. 
+▶adjective [attributive]
+1 giving, imparting, or producing motion or action: demand is the principle motor force governing economic activity. 
+• Physiology relating to muscular movement or the nerves activating it: the motor functions of each hand.
+2 chiefly British driven by a motor. 
+• relating to motor vehicles: a dominant figure in the world of motor sports. 
+▶verb [no object] informal travel in a motor vehicle, typically a car or a boat: we motored along a narrow road 
+we motored out of Breton Bay to begin our return trip down the Potomac. 
+• run or move as fast as possible: he had motored along to second base on a passed ball. ORIGIN late Middle English (denoting a person who imparts motion): from Latin, literally ‘mover,’ based on movere ‘to move.’ The current sense of the noun dates from the mid 19th century.

@@ -3,10 +3,15 @@ BrE ban, AmE bæn
 
 A.  transitive verb (present participle etc. -nn-) 明令禁止 mínglìng jìnzhǐ ‹activity, publication, film, drug›to ban [somebody] from doing [something] 禁止某人做某事 traffic is banned from the city centre 市中心禁止车辆通行 
 B.  noun 禁令 jìnlìng a smoking ban 禁烟令 to impose/lift a ban on [something] 颁布/解除对某事物的禁令 
-ban 
-▶verb
-1 smoking was banned: prohibit, forbid, veto, proscribe, disallow, outlaw, make illegal, embargo, bar, debar, block, stop, suppress, interdict; Law enjoin, restrain. ANTONYMS permit.
-2 Gary was banned from the playground: exclude, banish, expel, eject, evict, drive out, force out, oust, remove, get rid of; informal boot out, kick out. ANTONYMS admit.
+ban
+1 
+ban
+
+▶verb (bans, banning, banned) [with object] officially or legally prohibit: he was banned from driving for a year 
+a proposal to ban all trade in ivory. 
+• officially exclude (someone) from a place: he once was banned from a casino in Reno. 
 ▶noun
-1 a ban on soliciting: prohibition, veto, proscription, embargo, bar, suppression, stoppage, interdict, interdiction, moratorium, injunction.
-2 a ban from international competition: exclusion, banishment, expulsion, ejection, eviction, removal.CHOOSE THE RIGHT WORD See prohibit .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+1 an official or legal prohibition: a proposed ban on cigarette advertising 
+a three-year driving ban. 
+• an official exclusion of a person from an organization, country, or activity: a proposed ban on foreign correspondents was condemned by international leaders.
+2 archaic a curse. ORIGIN Old English bannan ‘summon by a public proclamation,’ of Germanic origin, reinforced by Old Norse banna ‘curse, prohibit’; the noun is partly from Old French ban ‘proclamation, summons, banishment.’

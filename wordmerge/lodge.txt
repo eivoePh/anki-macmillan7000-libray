@@ -14,14 +14,23 @@ C.  intransitive verb
 ① (reside) 寄宿 jìsù to lodge with [somebody]; 在某人家寄宿 
 ② (stick) 嵌入 qiànrù the bullet has lodged in his shoulder 子弹射入了他的肩膀 a bone lodged in his throat 一根骨头卡在他的喉咙里 it lodged in her memory figurative 这事留存在她的记忆中 
 lodge 
+läj
+
 ▶noun
-1 a hunting lodge: house, cottage, cabin, chalet.
-2 we'll eat up at the lodge: main hall, main building, dining hall.
-3 a beaver's lodge: den, lair, hole, set; retreat, haunt, shelter.
-4 a Masonic lodge: hall, clubhouse, meeting room.
-5 the porter's lodge: gatehouse, cottage.
+1 a small house at the gates of a park or in the grounds of a large house, typically occupied by a gatekeeper, gardener, or other employee. 
+• a small country house occupied in season for sports such as hunting, shooting, fishing, and skiing: a hunting lodge. 
+• a large house or hotel: Cumberland Lodge. 
+• a porter's quarters at the main entrance of a college or other large building. 
+• the residence of a head of a college, especially at Cambridge. 
+• an American Indian hut. 
+• a beaver's den.
+2 a branch or meeting place of an organization such as the Freemasons. 
 ▶verb
-1 William lodged at our house: reside, board, stay, live, rent rooms, be put up, be quartered, room; formal dwell, be domiciled, sojourn; archaic abide.
-2 they were lodged at an inn: accommodate, put up, take in, house, board, billet, quarter, shelter.
-3 we lodged a complaint: submit, register, enter, put forward, advance, lay, present, tender, proffer, put on record, record, file.
-4 the bullet lodged in his back: become fixed, embed itself, become embedded, become implanted, get/become stuck, stick, catch, become caught, wedge.
+1 [with object] present (a complaint, appeal, claim, etc.) formally to the proper authorities: he has 28 days in which to lodge an appeal. 
+• (lodge something in/with) leave money or a valuable item in (a place) or with (someone) for safekeeping.
+2 make or become firmly fixed or embedded in a particular place: [with object] : they had to remove a bullet lodged near his spine 
+[no object] figurative : the image had lodged in her mind.
+3 [no object] stay or sleep in another person's house, paying money for one's accommodations: the man who lodged in the room next door. 
+• [with object] provide (someone) with a place to sleep or stay in return for payment.
+4 [with object] (of wind or rain) flatten (a standing crop): (as adjective lodged) : rain that soaks standing or lodged crops 
+[no object] : the variety is high yielding, but it has mostly lodged. ORIGIN Middle English loge, via Old French loge ‘arbor, hut’ from medieval Latin laubia, lobia (see lobby), of Germanic origin; related to German Laube ‘arbor.’

@@ -1,18 +1,56 @@
-cast 
-▶verb
-1 he cast the stone into the stream: throw, toss, fling, pitch, hurl, lob; informal chuck.
-2 fishermen cast their nets: spread, throw, open out.
-3 she cast a fearful glance over her shoulder: direct, shoot, throw, send.
-4 each citizen cast a vote: register, record, enter, file, vote.
-5 the fire cast a soft light: emit, give off, send out, radiate.
-6 the figures cast shadows: form, create, produce; project, throw.
-7 the stags' antlers are cast each year: shed, lose, discard, slough off.
-8 a figure cast by hand: mold, fashion, form, shape, model; sculpt, sculpture, forge.
-9 they were cast as extras: choose, select, pick, name, nominate.
+cast
+1 
+kast
+
+▶verb (past and past participle cast 
+kast
+)
+1 [with object] throw (something) forcefully in a specified direction: lemmings cast themselves off the cliff 
+figurative : individuals who do not accept the norms are cast out from the group. 
+• throw (something) so as to cause it to spread over an area: the fishermen cast a large net around a school of tuna 
+figurative : he cast his net far and wide in search of evidence. 
+• direct (one's eyes or a look) at something: she cast down her eyes 
+[with two objects] : she cast him a desperate glance. 
+• throw the hooked and baited end of (a fishing line) out into the water. 
+• register (a vote): residents turned out in record numbers to cast their votes. 
+• Hunting let loose (hounds) on a scent. 
+• [no object] Hunting (of a dog) search in different directions for a lost scent: the dog cast furiously for the vanished rabbit. 
+• let down (an anchor or sounding line).
+2 [with object] cause (light or shadow) to appear on a surface: the moon cast a pale light over the cottages 
+figurative : running costs were already casting a shadow over the program. 
+• cause (uncertainty or disparagement) to be associated with something: journalists cast doubt on the government's version of events 
+I do not wish to cast aspersions on your honesty. 
+• cause (a magic spell) to take effect: the witch cast a spell on her to turn her into a beast 
+figurative : the city casts a spell on the visitor.
+3 [with object] discard: the issue was cast from the list of concerns. 
+• shed (skin or horns) in the process of growth: the antlers are cast each year. 
+• (of a horse) lose (a shoe).
+4 [with object] shape (metal or other material) by pouring it into a mold while molten. 
+• make (a molded object) by pouring metal or other material into a mold while molten: a bell was cast for the church. 
+• arrange and present in a specified form or style: he issued statements cast in tones of reason. 
+• calculate and record details of (a horoscope).
+5 [no object] (in country dancing) change one's position by moving a certain number of places in a certain direction along the outside of the line in which one is dancing. 
 ▶noun
-1 a cast of the writer's hand: mold, die, matrix, shape, casting, model.
-2 a cast of the dice: throw, toss, fling, pitch, hurl, lob; informal chuck.
-3 an inquiring cast of mind: type, sort, kind, character, variety, class, style, stamp, nature.
-4 the cast of our spring musical: actors, performers, players, company, troupe; dramatis personae, characters.
+1 an object made by shaping molten metal or similar material in a mold: bronze casts of the sculpture. 
+• (also plaster cast) a mold used to make an object by casting. 
+• (also plaster cast) a bandage stiffened with plaster of Paris, molded to the shape of a limb that is broken, and used to support and protect it.
+2 an act of throwing something forcefully: he grabbed a spear for a third cast. 
+• archaic at dice, a throw or a number thrown. 
+• Fishing a throw of a fishing line.
+3 [with adjective] the form or appearance of something, especially someone's features or complexion: she had a somewhat masculine cast of countenance 
+the colors he wore emphasized the olive cast of his skin. 
+• the character of something: this question is for minds of a more philosophical cast than mine.
+4 a slight squint: he had a cast in one eye.
+5 a convoluted mass of earth or sand ejected onto the surface by a burrowing worm. 
+• a pellet regurgitated by a hawk or owl.
+6 a search made by a hound or pack of hounds over a wide area to find a trail. 
 PHRASES
-cast aside cast aside the pages marked with an "X": discard, reject, throw away/out, get rid of, dispose of, abandon.
+be cast in a —— mold (of a person) be of the type specified: he was cast in a cautious mold. cast adrift see adrift. cast one's bread upon the waters see bread. cast one's eyes over have a quick appraising look at: he was invited to cast his eyes over the exhibition. cast light on see light1. cast lots see lot. cast one's mind back think back to a particular event or time: he cast his mind back to the fatal evening.PHRASAL VERBS cast about (or around) search far and wide (physically or mentally): he is restlessly casting about for novelties. [from a hunting term meaning ‘(of a hound) go in all directions looking for game or a lost scent.’]cast aside discard or reject: they cast aside the principles of their youth. be cast away be stranded after a shipwreck. be cast down feel depressed: she was greatly cast down by abusive criticism of her novels. cast off (or cast something off)
+1 Knitting take the stitches off the needle by looping each over the next to finish the edge.
+2 set a boat or ship free from its moorings: the boatmen cast off and rowed downriver 
+Jack cast off our moorings. 
+• (cast off) (of a boat or ship) be set free from its moorings: the ferry cast off and made a beeline for the pier.
+3 let loose a hunting hound or hawk.
+4 Printing estimate the space that will be taken in print by manuscript copy.cast someone off exclude someone from a relationship. cast on (or cast something on) Knitting make the first row of a specified number of loops on the needle: cast on and knit a few rows of stockinette stitch.cast something up
+1 (of the sea) deposit something on the shore.
+2 dated add up figures.ORIGIN Middle English: from Old Norse kasta ‘to cast or throw.’

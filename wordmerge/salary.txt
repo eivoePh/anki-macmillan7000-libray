@@ -2,4 +2,9 @@ salary
 BrE ˈsaləri, AmE ˈsæl(ə)ri 
 noun 薪水 xīnshui a high/low salary 高/低薪 a salary cheque/increase 薪金支票/加薪 
 salary 
-▶noun an annual raise in his salary: pay, wages, earnings, payment, remuneration, fee(s), stipend, income; informal take-home; formal emolument.
+ˈsal(ə)rē
+
+▶noun (plural salaries) a fixed regular payment, typically paid on a monthly or biweekly basis but often expressed as an annual sum, made by an employer to an employee, especially a professional or white-collar worker: he received a salary of $29,000 
+[as modifier] : a
+15 percent salary increase. Compare with wage. 
+▶verb (salaries, salarying, salaried) [with object] archaic pay a salary to. ORIGIN Middle English: from Anglo-Norman French salarie, from Latin salarium, originally denoting a Roman soldier's allowance to buy salt, from sal ‘salt.’

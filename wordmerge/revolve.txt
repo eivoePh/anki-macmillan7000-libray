@@ -6,7 +6,9 @@ A.  intransitive verb
 ② figurative to revolve around [somebody]/[something] (focus on) 以某人/某事物为中心 yǐ mǒu rén/mǒu shìwù wéi zhōngxīn his life revolves around his work 他的生活以工作为中心 
 B.  transitive verb 反复掂量 fǎnfù diānliang she revolved the possibilities in her mind 她在心中反复思考了各种可能性 
 revolve 
-▶verb
-1 a fan revolved slowly: go around, turn around, rotate, spin.
-2 the moon revolves around the earth: circle, travel, orbit.
-3 his life revolves around cars: be concerned with, be preoccupied with, focus on, center on/around.
+rəˈvälv
+
+▶verb [no object] move in a circle on a central axis: overhead, the fan revolved slowly. 
+• (revolve around/about) move in a circular orbit around: the earth revolves around the sun. 
+• (revolve around) treat as the most important point or element: her life revolved around her husband. 
+• [with object] consider (something) repeatedly and from different angles: her mind revolved the possibilities. ORIGIN late Middle English (in the senses ‘turn (the eyes) back,’ ‘restore,’ ‘consider’): from Latin revolvere, from re- ‘back’ (also expressing intensive force) + volvere ‘roll.’

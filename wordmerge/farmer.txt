@@ -2,4 +2,9 @@ farmer
 BrE ˈfɑːmə, AmE ˈfɑrmər 
 noun (owner) 农场主 nóngchǎngzhǔ ; (worker) 农民 nóngmín 
 farmer 
-▶noun the independent Tennessee farmers have been hurt by this legislation: agriculturist, agronomist, rancher, smallholder, peasant; farmhand; historical habitant, grazier.
+ˈfärmər
+
+▶noun
+1 a person who owns or manages a farm.
+2 historical a person to whom the collection of taxes was contracted for a fee. ORIGIN late Middle English: from Old French fermier, from medieval Latin firmarius, from firma (see farm). Sense
+1 originally denoted a bailiff or steward who farmed land on the owner's behalf, or a tenant farmer.

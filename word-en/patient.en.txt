@@ -1,5 +1,7 @@
 patient 
-▶adjective
-1 I must ask you to be patient: forbearing, uncomplaining, tolerant, resigned, stoical; calm, composed, even-tempered, imperturbable, unexcitable, accommodating, understanding, indulgent; informal unflappable, cool.
-2 a good deal of patient work: persevering, persistent, tenacious, indefatigable, dogged, determined, resolved, resolute, single-minded; formal pertinacious.
-▶noun a doctor's patient: sick person, case; invalid, convalescent, outpatient, in-patient.
+ˈpāSHənt
+
+▶adjective able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious: be patient, your time will come. 
+▶noun
+1 a person receiving or registered to receive medical treatment.
+2 Linguistics the semantic role of a noun phrase denoting something that is affected or acted upon by the action of a verb. ORIGIN Middle English: from Old French, from Latin patient- ‘suffering,’ from the verb pati .

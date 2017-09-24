@@ -1,4 +1,6 @@
 characterize 
-▶verb
-1 the period was characterized by scientific advancement: distinguish, make distinctive, mark, typify, set apart.
-2 the women are characterized as prophets of doom: portray, depict, present, represent, describe; categorize, class, style, brand.
+ˈkerəktəˌrīz
+
+▶verb [with object]
+1 describe the distinctive nature or features of: the historian characterized the period as the decade of revolution.
+2 (of a feature or quality) be typical or characteristic of: the disease is characterized by weakening of the immune system. ORIGIN late 16th century (in the sense ‘engrave, inscribe’): from French caractériser or medieval Latin characterizare, from Greek kharaktērizein, from kharaktēr ‘a stamping tool.’

@@ -6,7 +6,10 @@ noun
 ③ (finite period of illness) 发作期 fāzuòqī 
 ④ Music 插部 chābù 
 episode 
-▶noun
-1 the best episode of his career: incident, event, occurrence, happening; occasion, experience, adventure, exploit; matter, affair, thing; interlude, chapter.
-2 the final episode of the series: installment, chapter, passage; part, portion, section, component; program, show; webisode.
-3 an episode of illness: period, spell, bout, attack, phase; informal patch.
+ˈepəˌsōd
+
+▶noun an event or a group of events occurring as part of a larger sequence; an incident or period considered in isolation: the latest episode in the feud. 
+• each of the separate installments into which a serialized story or radio or television program is divided. 
+• a finite period in which someone is affected by a specified illness: acute psychotic episodes. 
+• Music a passage containing distinct material or introducing a new subject. 
+• a section between two choric songs in Greek tragedy. ORIGIN late 17th century (denoting a section between two choric songs in Greek tragedy): from Greek epeisodion, neuter of epeisodios ‘coming in besides,’ from epi ‘in addition’ + eisodos ‘entry’ (from eis ‘into’ + hodos ‘way’).

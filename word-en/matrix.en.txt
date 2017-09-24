@@ -1,8 +1,13 @@
 matrix 
-BrE ˈmeɪtrɪks, AmE ˈmeɪtrɪks 
-noun(plural matrices or matrixes) 
-① (mould for metal, liquid etc.) 模型 móxíng 
-② Mathematics 矩阵 jǔzhèn 
-③ (medium, material) 基体 jītǐ 
-④ Geology 基岩 jīyán 
-⑤ (environment) 环境 huánjìng 
+ˈmātriks
+
+▶noun (plural matrices 
+ˈmātrisēz
+or matrixes)
+1 an environment or material in which something develops; a surrounding medium or structure: free choices become the matrix of human life. 
+• a mass of fine-grained rock in which gems, crystals, or fossils are embedded. 
+• Biology the substance between cells or in which structures are embedded. 
+• fine material: the matrix of gravel paths is raked regularly.
+2 a mold in which something, such as printing type or a phonograph record, is cast or shaped.
+3 Mathematics a rectangular array of quantities or expressions in rows and columns that is treated as a single entity and manipulated according to particular rules. 
+• an organizational structure in which two or more lines of command, responsibility, or communication may run through the same individual. ORIGIN late Middle English (in the sense ‘womb’): from Latin, ‘breeding female,’ later ‘womb,’ from mater, matr- ‘mother.’

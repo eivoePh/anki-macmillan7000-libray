@@ -18,9 +18,32 @@ B.  transitive verb 以…的方式死去 yǐ… de fāngshì sǐqu to die a vio
 ① (become extinct) «species, family» 灭绝 mièjué to die out with [somebody]; 随某人的死去而灭绝 
 ② (fall out of use) «ritual, practice» 绝迹 juéjì ; «tradition, language» 消亡 xiāowáng ; «skill» 失传 shīchuán 
 ③ (ease off) «rain, snow, showers» 逐渐停止 zhújiàn tíngzhǐ 
-die 
-▶verb
-1 her father died last year: pass away, pass on, lose one's life, expire, breathe one's last, meet one's end, meet one's death, lay down one's life, perish, go the way of all flesh, go to one's last resting place, go to meet one's maker, cross the great divide, slip away; informal give up the ghost, kick the bucket, croak, buy it, turn up one's toes, cash in one's chips, bite the big one, check out, buy the farm; archaic depart this life. ANTONYMS live, survive.
-2 the wind had died down : abate, subside, drop, lessen, ease (off), let up, moderate, fade, dwindle, peter out, wane, ebb, relent, weaken; melt away, dissolve, vanish, disappear; archaic remit. ANTONYMS intensify.
-3 informal the engine died: fail, cut out, give out, stop, break down, stop working; informal conk out, go kaput, give up the ghost.
-4 informal she's dying to meet you: long, yearn, burn, ache; informal itch.QUOTE It’s not that I’m afraid to die, I just don’t want to be there when it happens.Woody Allen Death (1975)
+die
+1 
+dī
+
+▶verb (dies, dying 
+ˈdīiNG
+, died) [no object]
+1 (of a person, animal, or plant) stop living: she died of cancer 
+the sheep died from the heat 
+[with object] : the king died a violent death. 
+• (die for) be killed for (a cause): they were prepared to die for their country. 
+• [with complement] have a specified status at the time of one's death: the inventor died a pauper. 
+• (die out) become extinct: many species died out. 
+• be forgotten: her genius has assured her name will never die. 
+• [with adverbial] become less loud or strong: after a while, the noise died down 
+at last the storm died away. 
+• (die back) (of a plant) decay from the tip toward the root: rhubarb dies back to a crown of buds each winter. 
+• (die off) die one after another until few or none are left: the original founders died off or retired. 
+• (of a fire or light) stop burning or gleaming. 
+• informal (of a machine) stop functioning or run out of electric charge: three toasters have died on me 
+my cell phone died while I was trying to contact him.
+2 informal used to emphasize that one wants to do or have something very much: they must be dying for a drink 
+[with infinitive] : he's dying to meet you.
+3 informal used to emphasize feelings of shock, embarrassment, amusement, or misery: I nearly died when I saw them 
+we nearly died laughing when he told us 
+I'm simply dying of thirst.
+4 archaic have an orgasm. 
+PHRASES
+die hard disappear or change very slowly: old habits die hard. die on the vine be unsuccessful at an early stage. never say die used to encourage someone in a difficult situation. to die for informal extremely good or desirable: the ice cream is to die for.ORIGIN Middle English: from Old Norse deyja, of Germanic origin; related to dead .

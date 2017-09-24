@@ -1,9 +1,18 @@
 stain 
-▶verb
-1 her clothing was stained with blood: discolor, blemish, soil, mark, muddy, spot, spatter, splatter, smear, splash, smudge, blotch, blacken; literary imbrue.
-2 the report stained his reputation: damage, injure, harm, sully, blacken, tarnish, taint, smear, bring discredit to, dishonor, drag through the mud; literary besmirch.
-3 the wood was stained: color, tint, dye, tinge, pigment.
+stān
+
+▶verb [with object]
+1 mark (something) with colored patches or dirty marks that are not easily removed: her clothing was stained with blood 
+(as adjective stained) : a stained placemat 
+[no object] : red ink can stain. 
+• [no object] be marked or be liable to be marked with a stain. 
+• damage or bring disgrace to (the reputation or image of someone or something): the awful events would unfairly stain the city's reputation.
+2 color (a material or object) by applying a penetrative dye or chemical: wood can always be stained to a darker shade. 
 ▶noun
-1 a mud stain: mark, spot, spatter, splatter, blotch, smudge, smear.
-2 a stain on his character: blemish, injury, taint, blot, smear, discredit, dishonor; damage.
-3 dark wood stain: tint, color, dye, tinge, pigment, colorant.
+1 a colored patch or dirty mark that is difficult to remove: there were mud stains on my shoes. 
+• a thing that damages or brings disgrace to someone or something's reputation: he regarded his time in jail as a stain on his character.
+2 a penetrative dye or chemical used in coloring a material or object. 
+• Biology a special dye used to color organic tissue so as to make the structure visible for microscopic examination. 
+• Heraldry any of the minor colors used in blazoning and liveries, especially tenné and sanguine. DERIVATIVES stainable adjective. stainer 
+ˈstānər 
+nounORIGIN late Middle English (as a verb): shortening of archaic distain, from Old French desteindre ‘tinge with a color different from the natural one.’ The noun was first recorded (mid 16th century) in the sense ‘defilement, disgrace.’

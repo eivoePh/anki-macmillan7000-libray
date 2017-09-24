@@ -11,7 +11,21 @@ B.  noun
 ③ (washing machine) 自动洗衣机 zìdòng xǐyījī 
 ④ (setting) 自动挡 zìdòngdǎng to be on automatic «machine, heating» 处于自动挡上 to be in automatic 机械性地运转 
 automatic 
+ˌôdəˈmadik
+
 ▶adjective
-1 automatic garage doors: mechanized, mechanical, automated, computerized, electronic, robotic; self-activating. ANTONYMS manual.
-2 an automatic reaction: instinctive, involuntary, unconscious, reflex, knee-jerk, instinctual, subconscious; spontaneous, impulsive, unthinking; mechanical; informal gut. ANTONYMS conscious, deliberate.
-3 he is the automatic choice for the team: inevitable, unavoidable, inescapable, mandatory, compulsory; certain, definite, undoubted, assured.
+1 (of a device or process) working by itself with little or no direct human control: an automatic kettle that switches itself off when it boils 
+calibration is fully automatic. 
+• (of a firearm) self-loading and able to fire continuously until the ammunition is exhausted or the pressure on the trigger is released: automatic weapons. 
+• (of a motor vehicle or its transmission) using gears that shift by themselves according to speed and acceleration: a four-speed automatic gearbox.
+2 done or occurring spontaneously, without conscious thought or intention: automatic physical functions such as breathing 
+“Nice to meet you,” he said, with automatic politeness. 
+• occurring as a matter of course and without debate: he is the automatic choice for the senior team. 
+• (especially of a legal sanction) given or imposed as a necessary and inevitable result of a fixed rule or particular set of circumstances: for missing the team workout, he received an automatic one-game suspension. 
+▶noun
+1 an automatic machine or device, in particular: 
+• a gun that continues firing until the ammunition is exhausted or the pressure on the trigger is released. 
+• a vehicle with automatic transmission.
+2 American Football another term for audible. DERIVATIVES automaticity 
+-məˈtisitē 
+nounORIGIN mid 18th century: from Greek automatos ‘acting of itself’ (see automaton) + -ic .

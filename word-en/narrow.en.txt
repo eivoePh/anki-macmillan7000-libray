@@ -1,11 +1,20 @@
 narrow 
-▶adjective
-1 the path became narrow: small, tapered, tapering, narrowing; archaic strait. ANTONYMS wide, broad.
-2 her narrow waist: slender, slim, slight, spare, attenuated, thin. ANTONYMS broad.
-3 a narrow space: confined, cramped, tight, restricted, limited, constricted. ANTONYMS spacious.
-4 a narrow range of products: limited, restricted, circumscribed, small, inadequate, insufficient, deficient. ANTONYMS wide, broad.
-5 a narrow view of the world. See narrow-minded.
-6 nationalism in the narrowest sense of the word: strict, literal, exact, precise. ANTONYMS broad.
-7 a narrow escape: by a very small margin, close, near, by a hair's breadth; informal by a whisker.
-▶verb the path narrowed 
-narrowing the gap between rich and poor: get/become/make narrower, get/become/make smaller, taper, diminish, decrease, reduce, contract, shrink, constrict; archaic straiten.
+ˈnerō
+
+▶adjective (narrower, narrowest)
+1 (especially of something that is considerably longer or higher than it is wide) of small width: he made his way down the narrow road.
+2 limited in extent, amount, or scope; restricted: his ability to get good results within narrow constraints of money and manpower. 
+• (of a person's attitude or beliefs) limited in range and lacking willingness or ability to appreciate alternative views: companies fail through their narrow view of what contributes to profit. 
+• precise or strict in meaning: some of the narrower definitions of democracy. 
+• (of a phonetic transcription) showing fine details of accent. 
+• Phonetics denoting a vowel pronounced with the root of the tongue drawn back so as to narrow the pharynx.
+3 denoting or relating to a contest that is won or lost by only a very small margin: the home team just hung on for a narrow victory. 
+▶verb
+1 become or make less wide: [no object] : the road narrowed and crossed an old bridge 
+[with object] : the embankment was built to narrow the river. 
+• almost close (one's eyes) so as to focus on something or someone, or to indicate anger, suspicion, or other emotion: [with object] : she narrowed her eyes at him suspiciously 
+[no object] : Jake's eyes had narrowed to pinpoints.
+2 become or make more limited or restricted in extent or scope: [no object] : their trade surplus narrowed to $70 million in January 
+[with object] : New England had narrowed Denver's lead from
+13 points to 4. 
+▶noun (narrows) a narrow channel connecting two larger areas of water: a basaltic fang rising from the narrows of the Upper Missouri. PHRASAL VERBS narrow something down reduce the number of possibilities or options of something: the company has narrowed down the candidates for the job to two.DERIVATIVES narrowish adjectiveORIGIN Old English nearu, of Germanic origin; related to Dutch naar ‘dismal, unpleasant’ and German Narbe ‘scar.’ Early senses in English included ‘constricted’ and ‘miserly.’

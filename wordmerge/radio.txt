@@ -11,4 +11,14 @@ B.  transitive verb(present tense radioes; past tense, past participle radioed)
 ② (send) 用无线电发送 yòng wúxiàndiàn fāsòng ‹information›
 C.  intransitive verb (present tense radioes; past tense, past participle radioed) 用无线电通讯 yòng wúxiàndiàn tōngxùn to radio for help 用无线电求助 
 radio 
-▶noun a two-way radio: transceiver, CB, walkie-talkie, ship-to-shore radio, radio phone; receiver, tuner.
+ˈrādēō
+
+▶noun (plural radios) the transmission and reception of electromagnetic waves of radio frequency, especially those carrying sound messages: cellular phones are linked by radio rather than wires. 
+• the activity or industry of broadcasting sound programs to the public: she has written much material for radio 
+[as modifier] : a radio station. 
+• radio programs: we used to listen to a lot of radio. 
+• an apparatus for receiving radio programs: she turned on the radio. 
+• an apparatus capable of both receiving and transmitting radio messages between individuals, ships, planes, etc.: a ship-to-shore radio. 
+• [in names] a broadcasting station or channel: Monitor Radio. 
+▶verb (radioes, radioing, radioed) [no object] communicate or send a message by radio: the pilot radioed for help. 
+• [with object] communicate with (a person or place) by radio: we'll radio Athens right away. ORIGIN early 20th century: from radio- in radiotelegraphy, based on Latin radius ‘ray, beam.’

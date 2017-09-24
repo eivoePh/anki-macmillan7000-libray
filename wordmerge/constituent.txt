@@ -8,7 +8,14 @@ B.  adjective
 ① (component) 组成的 zǔchéng de ‹part, ingredient›the constituent gases of air 构成空气的各种气体 
 ② Politics 有选举权的 yǒu xuǎnjǔquán de a constituent assembly 立宪会议 
 constituent 
-▶adjective constituent parts: component, integral; elemental, basic, essential, inherent.
+kənˈstiCHo͞oənt
+
+▶adjective
+1 being a part of a whole: the constituent minerals of the rock.
+2 being a voting member of a community or organization and having the power to appoint or elect: the constituent body has a right of veto. 
+• able to make or change a political constitution: a constituent assembly. 
 ▶noun
-1 representatives must listen to their constituents: voter, elector, member of a constituency.
-2 the constituents of tobacco: component, ingredient, element; part, piece, bit, unit; section, portion.
+1 a member of a constituency.
+2 a component part of something: the essential constituents of the human diet. 
+• Linguistics the common part of two or several more complex forms, e.g., gentle in gentleman, gentlemanly, ungentlemanly. 
+• Linguistics a word or construction that is part of a larger construction. ORIGIN late 15th century (in the legal sense of the noun): from Latin constituent- (partly via French constituant)‘establishing, appointing,’ from the verb constituere (see constitute) .

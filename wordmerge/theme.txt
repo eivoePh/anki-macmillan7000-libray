@@ -6,7 +6,19 @@ A.  noun
 ② (musical motif) 主旋律 zhǔxuánlǜ 
 B.  transitive verb 赋予…某种主题 fùyǔ… mǒu zhǒng zhǔtí the amusement park will be themed as a Caribbean pirate stronghold 这个游乐园的主题将被定为加勒比海盗要塞 
 theme 
+THēm
+
 ▶noun
-1 the theme of her speech: subject, topic, subject matter, matter, thesis, argument, text, burden, concern, thrust, message; thread, motif, keynote.
-2 the first violin takes up the theme: melody, tune, air; motif, leitmotif.
-3 the band played a medley of popular TV show themes: song, theme song, jingle.
+1 the subject of a talk, a piece of writing, a person's thoughts, or an exhibition; a topic: the theme of the sermon was reverence 
+a show on the theme of waste and recycling. 
+• Linguistics the first major constituent of a clause, indicating the subject-matter, typically being the subject but optionally other constituents, as in “poor he is not.” Contrasted with rheme. 
+• an idea that recurs in or pervades a work of art or literature. 
+• Music a prominent or frequently recurring melody or group of notes in a composition. 
+• [as modifier] (of music) frequently recurring in or accompanying the beginning and end of a film, play, or musical: a theme song. 
+• [usually as modifier] a setting given to a leisure venue or activity, intended to evoke a particular country, historical period, culture, etc.: a family fun park with a western theme 
+a New Deal theme restaurant. 
+• US an essay written by a student on an assigned subject.
+2 Linguistics the stem of a noun or verb; the part to which inflections are added, especially one composed of the root and an added vowel.
+3 historical any of the twenty-nine provinces in the Byzantine empire. 
+▶verb [with object] give a particular setting or ambience to (a venue or activity): (as adjective themed) : Independence Day was celebrated with special themed menus 
+[in combination] : a golf-themed business park. ORIGIN Middle English: via Old French from Latin thema, from Greek, literally ‘proposition’; related to tithenai ‘to set or place.’

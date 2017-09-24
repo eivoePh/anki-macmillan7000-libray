@@ -1,9 +1,10 @@
 descent 
+dəˈsent
+
 ▶noun
-1 the plane began its descent: dive, drop; fall, pitch, nosedive.
-2 their descent of the mountain: downward climb.
-3 a steep descent: slope, incline, dip, drop, gradient, declivity, slant; hill.
-4 his descent into alcoholism: decline, slide, fall, degeneration, deterioration, regression.
-5 she is of Italian descent: ancestry, parentage, ancestors, family, antecedents; extraction, origin, derivation, birth; lineage, line, genealogy, heredity, stock, pedigree, blood, bloodline; roots, origins.
-6 the descent of property: inheritance, succession.
-7 the sudden descent of the cavalry: attack, assault, raid, onslaught, charge, thrust, push, drive, incursion, foray.
+1 [usually in singular] an action of moving downward, dropping, or falling: the plane had gone into a steep descent. 
+• a downward slope, especially a path or track: a steep, badly eroded descent. 
+• a moral, social, or psychological decline into a specified undesirable state: the ancient empire's slow descent into barbarism.
+2 the origin or background of a person in terms of family or nationality: American families of Hungarian descent. 
+• the transmission of qualities, property, or privileges by inheritance.
+3 (descent on) a sudden, violent attack: a descent on the enemy airstrip. ORIGIN Middle English: from Old French descente, from descendre ‘to descend’ (see descend) .

@@ -2,4 +2,6 @@ reporter
 BrE rɪˈpɔːtə, AmE rəˈpɔrdər 
 noun 记者 jìzhě our on-the-spot reporter in Moscow 我们在莫斯科的现场记者 the reporters' gallery 记者席 
 reporter 
-▶noun my client has been instructed not to talk to reporters: journalist, correspondent, newspaperman, newspaperwoman, newsman, newswoman, columnist, pressman; informal newshound, hack, stringer, journo, newsie.
+rəˈpôrdər
+
+▶noun a person who reports, especially one employed to report news or conduct interviews for newspapers or broadcasts.

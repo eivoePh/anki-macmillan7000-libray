@@ -1,7 +1,16 @@
 reader 
-BrE ˈriːdə, AmE ˈridər 
-noun 
-① (person who reads) 读者 dúzhě an avid reader of science fiction 科幻小说迷 our regular readers 我们的忠实读者 he's a slow reader 他读书很慢 
-② School (book) 读本 dúběn 
-③ BrE University (senior lecturer) 准教授 zhǔn jiàoshòu a reader in [something] 某专业的准教授 
-④ (for a publisher) 审稿人 shěngǎorén 
+ˈrēdər
+
+▶noun
+1 a person who reads or who is fond of reading: the books of Roald Dahl appeal to young readers 
+she's an avid reader. 
+• a person who reads a particular newspaper, magazine, or text: Times readers. 
+• short for lay reader. 
+• a person entitled to use a particular library. 
+• a person who reads and reports to a publisher or producer on the merits of manuscripts submitted for publication or production, or who provides critical comments on the text prior to publication. 
+• a proofreader.
+2 a person who inspects and records the figure indicated on a measuring instrument: a meter reader.
+3 a book containing extracts of a particular author's work or passages of text designed to give learners of a language practice in reading.
+4 (usually Reader) British a university lecturer of the highest grade below professor.
+5 a machine for producing on a screen a magnified, readable image of any desired part of a microfiche or microfilm. 
+• Computing a device or piece of software used for reading or obtaining data stored on tape, cards, or other media. ORIGIN Old English rǣdere ‘interpreter of dreams, reader.’

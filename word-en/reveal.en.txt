@@ -1,5 +1,11 @@
-reveal 
-▶verb
-1 the police can't reveal his whereabouts: divulge, disclose, tell, let slip, let drop, give away, give out, blurt (out), release, leak; make known, make public, broadcast, publicize, circulate, disseminate; informal let on. ANTONYMS hide, conceal.
-2 the screen moved back to reveal the new car: show, display, exhibit, disclose, uncover, unveil; literary uncloak. ANTONYMS hide.
-3 the data can reveal a good deal of information: bring to light, uncover, lay bare, unearth, expose; formal evince; literary uncloak.
+reveal
+1 
+rəˈvēl
+
+▶verb [with object] make (previously unknown or secret information) known to others: Brenda was forced to reveal Robbie's whereabouts 
+[with clause] : he revealed that he and his children had received death threats. 
+• cause or allow (something) to be seen: the clouds were breaking up to reveal a clear blue sky. 
+• make (something) known to humans by divine or supernatural means: the truth revealed at the Incarnation. 
+▶noun (in a movie or television show) a final revelation of information that has previously been kept from the characters or viewers: the big reveal at the end of the movie answers all questions. DERIVATIVES revealable 
+rəˈvēləb(ə)l 
+adjective. revealer nounORIGIN late Middle English: from Old French reveler or Latin revelare, from re- ‘again’ (expressing reversal) + velum ‘veil.’

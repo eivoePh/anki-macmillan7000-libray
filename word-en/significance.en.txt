@@ -1,4 +1,7 @@
 significance 
+siɡˈnifikəns
+
 ▶noun
-1 a matter of considerable significance: importance, import, consequence, seriousness, gravity, weight, magnitude, momentousness; formal moment.
-2 the significance of his remarks: meaning, sense, signification, import, thrust, drift, gist, implication, message, essence, substance, point.
+1 the quality of being worthy of attention; importance: adolescent education was felt to be a social issue of some significance.
+2 the meaning to be found in words or events: the significance of what was happening was clearer to me than to her.
+3 (also statistical significance) the extent to which a result deviates from that expected to arise simply from random variation or errors in sampling. ORIGIN late Middle English (denoting unstated meaning): from Old French, or from Latin significantia, from significare ‘indicate, portend.’

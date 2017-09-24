@@ -7,8 +7,12 @@ A.  noun
 ③ Law 从犯 cóngfàn an accessory to murder 谋杀案从犯 accessory before/after the fact 事前/事后从犯 
 B.  adjectivebefore noun 附加的 fùjiā de ‹item, device›
 accessory 
-▶noun
-1 camera accessories such as tripods: attachment, extra, addition, add-on, adjunct, appendage, appurtenance, fitment, supplement.
-2 fashion accessories: adornment, embellishment, ornament, ornamentation, decoration; frills, trimmings.
-3 two days after the murder, she was charged as an accessory: accomplice, partner in crime, associate, collaborator, abettor, co-conspirator, fellow conspirator; henchman.
-▶adjective an accessory gearbox: additional, extra, supplementary, supplemental, auxiliary, ancillary, secondary, subsidiary, reserve, add-on.
+əkˈses(ə)rē 
+(also accessary) 
+▶noun (plural accessories)
+1 a thing that can be added to something else in order to make it more useful, versatile, or attractive: a range of bathroom accessories. 
+• a small article or item of clothing carried or worn to complement a garment or outfit: among the hottest items are hair accessories such as rhinestone-studded barrettes.
+2 Law someone who gives assistance to the perpetrator of a crime, without directly committing it, sometimes without being present: she was charged as an accessory to murder. 
+▶adjective [attributive] chiefly technical contributing to or aiding an activity or process in a minor way; subsidiary or supplementary: functionally the maxillae are a pair of accessory jaws. 
+PHRASES
+accessory before (or after) the fact Law, dated a person who incites or assists someone to commit a crime (or knowingly aids someone who has committed a crime).ORIGIN late Middle English: from medieval Latin accessorius ‘additional thing,’ from Latin access- ‘increased,’ from the verb accedere (see accede) .

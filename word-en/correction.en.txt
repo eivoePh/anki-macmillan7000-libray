@@ -1,7 +1,9 @@
 correction 
-BrE kəˈrɛkʃ(ə)n, AmE kəˈrɛkʃ(ə)n 
-A. noun 
-① Uncountable(action of correcting) 改正 gǎizhèng (of papers, schoolwork) 批改 pīgǎi (of scripts, proofs, error) 订正 dìngzhèng 
-② Countable(alteration, mark) 更正 gēngzhèng to make a correction 作出一项更正 a course correction Nautical, Aviation 航向校正 
-③ Uncountable AmE formal (punishment) 惩罚 chéngfá 
-B.  exclamation 更正一下 gēngzhèng yīxià six, correction, five 6，不，是5 
+kəˈrekSH(ə)n
+
+▶noun the action or process of correcting something: I checked the typing for errors and sent it back for correction. 
+• a change that rectifies an error or inaccuracy: he made a few corrections to my homework. 
+• used to introduce an amended version of something one has just said: after today—correction, she thought grimly, after tonight—she'd never see him again. 
+• a quantity adjusting a numerical result to allow for a departure from standard conditions. 
+• a temporary reversal in an overall trend of stock market prices, especially a brief fall during an overall increase: they're still looking for the market to go up and believe we are just going through a correction. 
+• North American or dated punishment, especially that of criminals in prison intended to rectify their behavior. ORIGIN Middle English: via Old French from Latin correctio(n-), from corrigere ‘make straight, bring into order’ (see correct) .

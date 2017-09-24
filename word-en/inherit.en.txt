@@ -1,4 +1,8 @@
 inherit 
-▶verb
-1 she inherited his farm: become heir to, come into/by, be bequeathed, be left, be willed, receive; Law be devised.
-2 Richard inherited the title: succeed to, assume, take over, come into; formal accede to.
+inˈherət
+
+▶verb (inherits, inheriting, inherited) [with object] receive (money, property, or a title) as an heir at the death of the previous holder: she inherited a fortune from her father. 
+• derive (a quality, characteristic, or predisposition) genetically from one's parents or ancestors: she had inherited the beauty of her grandmother. 
+• receive or be left with (a situation, object, etc.) from a predecessor or former owner: spending commitments inherited from previous administrations. 
+• North American come into possession of (belongings) from someone else: she inherits all her clothes from her older sisters. 
+• archaic come into possession of (something) as a right (especially in biblical translations and allusions): master, what must I do to inherit eternal life? ORIGIN Middle English enherite ‘receive as a right,’ from Old French enheriter, from late Latin inhereditare ‘appoint as heir,’ from Latin in- ‘in’ + heres, hered- ‘heir.’

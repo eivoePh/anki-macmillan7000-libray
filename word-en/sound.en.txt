@@ -1,15 +1,29 @@
 sound
 1 
+sound
+
 ▶noun
-1 the sound of the car: noise, note; din, racket, row, hubbub; resonance, reverberation. ANTONYMS silence.
-2 she did not make a sound: utterance, cry, word, noise, peep.
-3 the sound of the flute: music, tone, notes.
-4 I don't like the sound of that: idea, thought, concept, prospect, description.
+1 vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear: light travels faster than sound. 
+• a thing that can be heard: she heard the sound of voices in the hall 
+don't make a sound. 
+• the area or distance within which something can be heard: we were always within sound of the train whistles.
+2 (also musical sound) sound produced by continuous and regular vibrations, as opposed to noise. 
+• short for speech sound.
+3 music, speech, and sound effects when recorded, used to accompany a film or video production, or broadcast: [as modifier] : a sound studio. 
+• broadcasting by radio as distinct from television. 
+• the distinctive quality of the music of a particular composer or performer or of the sound produced by a particular musical instrument: the sound of the Beatles. 
+• (sounds) informal music, especially popular music: sounds of the sixties.
+4 the ideas or impressions conveyed by words: you've had a hard day, by the sound of it. 
 ▶verb
-1 the buzzer sounded: make a noise, resonate, resound, reverberate, go off, blare; ring, chime, peal.
-2 drivers must sound their horns: blow, blast, toot, blare; operate, set off; ring.
-3 do you sound the “h”? pronounce, verbalize, voice, enunciate, articulate, vocalize, say.
-4 she sounded a warning: utter, voice, deliver, express, speak, announce, pronounce.
-5 it sounds like a crazy idea: appear, look (like), seem, strike someone as being, give every indication of being, come across as.
-WORD LINKS
-sound acoustic , sonic , aural relating to soundWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+1 emit or cause to emit sound: [no object] : a loud buzzer sounded 
+[with object] : she sounded the horn. 
+• [with object] give an audible signal to indicate (something): a different bell begins to sound midnight. 
+• [with object] express or convey (a warning): pharmaceutical companies are sounding the alarm about counterfeit drugs. 
+• [with object] test (the lungs or another body cavity) by noting the sound they produce: the doctor sounded her chest.
+2 [no object] convey a specified impression when heard: [with complement] : he sounded worried. 
+• (of something or someone that has been described to one) convey a specified impression: it sounds as though you really do believe that 
+[with complement] : the house sounds lovely. PHRASAL VERBS sound off express one's opinions in a loud or forceful manner.DERIVATIVES soundless 
+ˈsoun(d)ləs 
+adjective. soundlessly 
+ˈsoun(d)ləslē 
+adverb. soundlessness nounORIGIN Middle English soun, from Anglo-Norman French soun (noun), suner (verb), from Latin sonus. The form with -d was established in the 16th century.

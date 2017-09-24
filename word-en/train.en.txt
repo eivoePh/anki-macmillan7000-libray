@@ -1,11 +1,31 @@
 train 
+trān
+
 ▶verb
-1 an engineer trained in remote-sensing techniques: instruct, teach, coach, tutor, school, educate, prime, drill, ground; inculcate, indoctrinate, initiate, break in; upskill.
-2 she's training to be a hairdresser: study, learn, prepare, take instruction; upskill.
-3 with the Olympics in mind, athletes are training hard: exercise, do exercises, work out, get into shape, practice, prepare.
-4 she trained the gun on his chest: aim, point, direct, level, focus; zero in.
+1 [with object] teach (a person or animal) a particular skill or type of behavior through practice and instruction over a period of time: the plan trains people for promotion 
+[with object and infinitive] : the dogs are trained to sniff out illegal stowaways. 
+• [no object] be taught through practice and instruction: he trained as a classicist. 
+• (usually as adjective trained) cause (a mental or physical faculty) to be sharp, discerning, or developed as a result of instruction or practice: an alert mind and trained eye give astute evaluations. 
+• cause (a plant) to grow in a particular direction or into a required shape: they trained roses over their houses. 
+• [no object] undertake a course of exercise and diet in order to reach or maintain a high level of physical fitness, typically in preparation for participating in a specific sport or event: she trains three times a week. 
+• cause to undertake a course of physical exercise: the horse was trained in Paris. 
+• [no object] (train down) reduce one's weight through diet and exercise in order to be fit for a particular event: he trained down to middleweight.
+2 [with object] (train something on) point or aim something, typically a gun or camera, at: the detective trained his gun on the side door.
+3 [no object] dated go by train: Charles trained to Chicago with Emily.
+4 [with object] archaic entice (someone) by offering pleasure or a reward. 
 ▶noun
-1 the train for Youngstown: locomotive, subway, monorail; informal iron horse; baby talk choo choo.
-2 a minister and his train of attendants: retinue, entourage, cortège, following, staff, household.
-3 a train of elephants: procession, line, file, column, convoy, cavalcade, caravan, string, succession, trail.
-4 a bizarre train of events: chain, string, series, sequence, succession, set, course, cycle, concatenation.
+1 a series of railroad cars moved as a unit by a locomotive or by integral motors: a freight train 
+the journey took two hours by train.
+2 a succession of vehicles or pack animals traveling in the same direction: a camel train. 
+• a retinue of attendants accompanying an important person. 
+• a series of connected events: you may be setting in motion a train of events that will cause harm. 
+• a series of gears or other connected parts in machinery: a train of gears.
+3 a long piece of material attached to the back of a formal dress or robe that trails along the ground.
+4 a trail of gunpowder for firing an explosive charge. 
+PHRASES
+in train (of arrangements) well organized or in progress: an investigation is in train. in someone/something's train (or in the train of) following behind someone or something. 
+• as a sequel or consequence: unemployment brings great difficulties in its train. train of thought the way in which someone reaches a conclusion; a line of reasoning: I failed to follow his train of thought.DERIVATIVES trainability 
+ˌtrānəˈbilitē 
+noun. trainable 
+ˈtrānəb(ə)l 
+adjectiveORIGIN Middle English (as a noun in the sense ‘delay’): from Old French train (masculine), traine (feminine), from trahiner (verb), from Latin trahere ‘pull, draw.’ Early noun senses were ‘trailing part of a robe’ and ‘retinue’; the latter gave rise to ‘line of traveling people or vehicles,’ later ‘a connected series of things.’ The early verb sense ‘cause (a plant) to grow in a desired shape’ was the basis of the sense ‘educate, instruct, teach.’

@@ -61,19 +61,51 @@ A.  transitive verb[hang something up, hang up something]
 ③ figurative humorous (stop using) 搁置 gēzhì to hang up one's skis/gloves/spade 将滑雪板/手套/铁铲束之高阁 
 B.  intransitive verb 挂断电话 guàduàn diànhuà hang up on transitive verb[hang up on somebody] 挂断…的电话 guàduàn… de diànhuà 
 hang 
-▶verb
-1 lights hung from the trees: be suspended, dangle, hang down, be pendent, swing, sway.
-2 hang the pictures at eye level: put up, fix, attach, affix, fasten, post, display, suspend, pin up, nail up.
-3 the room was hung with streamers: decorate, adorn, drape, festoon, deck out, trick out, bedeck, array, garland, swathe, cover, ornament; literary bedizen.
-4 he was hanged for murder: string up, send to the gallows.
-5 a pall of smoke hung over the city: hover, float, drift, be suspended.
+haNG
+
+▶verb (past hung 
+həNG
+except in sense 2)
+1 suspend or be suspended from above with the lower part dangling free: [with object] : that's where people are supposed to hang their wash 
+[no object] : a chain hanging freely over two pegs. 
+• attach or be attached to a wall: [with object] : we could just hang the pictures on the walls 
+[no object] : the room in which the pictures will hang. 
+• (be hung with) be adorned with pictures or other decorations: the walls of her hall were hung with examples of her work. 
+• attach or be attached so as to allow free movement about the point of attachment: [with object] : a long time was spent hanging a couple of doors. 
+• [no object] (of fabric or a garment) be arranged in folds so as to droop in a specified way: this blend of silk and wool hangs well and resists creases. 
+• [with object] paste (wallpaper) to a wall. 
+• North American informal way of saying hang around ( sense 2) or hang out ( sense 3).
+2 (past hanged) [with object] kill (someone) by tying a rope attached from above around the neck and removing the support from beneath (used as a form of capital punishment): he was hanged for murder 
+she hanged herself in her cell. 
+• [no object] be killed by hanging: both men were sentenced to hang. 
+• dated used in expressions as a mild oath: [no object] : they could all go hang 
+[with object] : I'm hanged if I know.
+3 [no object] remain static in the air: a haze of smoke hung below the ceiling. 
+• be present or imminent, especially oppressively or threateningly: a sense of dread hung over him for days. 
+• [with object] Baseball deliver (a breaking pitch) that does not change direction as intended.
+4 [with object] US (of a juror) prevent (a jury) from reaching a verdict by a dissenting vote.
+5 Computing come or cause to come unexpectedly to a state in which no further operations can be carried out. 
+▶noun [in singular] a downward droop or bend: the bullish hang of his head. 
+• the way in which something hangs: the hang of one's clothes. 
+• the way in which pictures are displayed in an exhibition. 
 PHRASES
-hang around informal
-1 they spent their time hanging around in bars: loiter, linger, wait around, waste time, kill time, mark time, while away the/one's time, cool one's heels, twiddle one's thumbs; frequent, be a regular visitor to, haunt; informal hang out in.
-2 she's hanging around with a gang of marketing types: associate, mix, keep company, socialize, fraternize, consort, rub elbows; informal hang out, run around, be thick, hobnob. hang on
-1 he hung on to her coat: hold on to, hold fast to, grip, clutch, grasp, hold tightly to, cling to.
-2 her future hung on their decision: depend on, be dependent on, turn on, hinge on, rest on, be contingent on, be determined by, be decided by.
-3 I'll hang on as long as I can: persevere, hold out, hold on, go on, carry on, keep on, keep going, keep at it, continue, persist, stay with it, struggle on, plod on; informal soldier on, stick to/at it, stick it out, hang in there.
-4 informal hang on, let me think: wait, wait a minute, wait a second, hold on, stop; hold the line/phone; informal hold your horses, sit tight, wait a sec. hang over someone the threat of budget cuts is hanging over us: be imminent, threaten, be close, be impending, impend, loom, be on the horizon. 
-USAGE
-hang, hanged, hung In modern English, hang has two past tense and past participle forms: hanged and hung. Hung is the normal form in most general uses (they hung out the wash; she hung around for a few minutes; he had hung the picture over the fireplace), but hanged is the form normally used in reference to execution by hanging (she was hanged as a witch in April 1621).Usage notes show additional guidance on finer points of English usage.
+get the hang of informal learn how to operate or do (something): it's quite simple when you get the hang of it. hang by a thread see thread. hang fire delay or be delayed in taking action or progressing. hang one's hat North American informal be resident. hang heavily (or heavy) (of time) pass slowly.hang in the air remain unresolved: the question that has been hanging in the air. hang a left (or right) informal,North American make a left (or right) turn.hang loose see loose. hang someone out to dry informal leave someone in a difficult or vulnerable situation. hang ten Surfing ride a surfboard with all ten toes curled over the board's front edge. hang tough North American informal be or remain inflexible or firmly resolved. let it all hang out informal be very relaxed or uninhibited. not care (or give) a hang informal not care at all: people just don't give a hang about plants.PHRASAL VERBS hang around
+1 loiter; wait around: undercover officers spent most of their time hanging around bars.
+2 (hang around with) associate with (someone): he never hangs around with that gang.hang back remain behind: Stephen hung back for fear of being seen. 
+• show reluctance to act or move: they were hanging back, each unwilling to speak first. hang in informal remain persistent and determined in difficult circumstances: in the second half, we just had to hang in there. hang on
+1 hold tightly: he hung on to the back of her coat. 
+• informal remain firm or persevere, especially in difficult circumstances: we must hang on as best we can. 
+• (hang on to) keep; retain: he is determined to hang on to his job.
+2 informal wait for a short time: hang on a minute—do you think I might have left anything out? 
+• (on the telephone) remain connected until one is able to talk to a particular person.
+3 be contingent or dependent on: the future of Europe should not hang on a referendum by the French.
+4 listen closely to: she hung on his every word. hang something on informal attach the blame for something to (someone). hang out
+1 (of laundry) hang from a clothesline to dry.
+2 (of a shirttail or other piece of clothing) protrude and hang loosely downward: with the front tucked in and the tail hanging out.
+3 informal spend time relaxing or enjoying oneself: musicians hang out with their own kind. hang together
+1 make sense; be consistent: it helps the speech to hang together.
+2 (of people) remain associated; help or support each other. hang up
+1 hang from a hook, hanger, etc.: his good shirt's ironed and hanging up.
+2 end a telephone conversation by cutting the connection. 
+• (hang up on) end a telephone conversation with (someone) by abruptly cutting the connection. hang up something hang something on a hook: a closet where he could hang up his clothes. 
+• informal cease or retire from the activity associated with the garment or object specified: he will soon have to hang up his referee's whistle for good.ORIGIN Old English hangian (intransitive verb), related to Dutch and German hangen, reinforced by the Old Norse transitive verb hanga . usage: In modern English, hang has two past tense and past participle forms: hanged and hung. Hung is the normal form in most general uses ( they hung out the wash; she hung around for a few minutes; he had hung the picture over the fireplace), but hanged is the form normally used in reference to execution by hanging ( she was hanged as a witch in April 1621).

@@ -5,6 +5,9 @@ nounUncountable
 ② formal (death) 死亡 sǐwáng the cause/rate of mortality 死因/死亡率 
 ③ Statistics (death rate) 死亡率 sǐwánglǜ 
 mortality 
-▶noun
-1 a sense of his own mortality: impermanence, transience, ephemerality, perishability; humanity; corporeality.
-2 the causes of mortality: death, loss of life, dying.
+môrˈtalədē
+
+▶noun (plural mortalities)
+1 the state of being subject to death: the work is increasingly haunted by thoughts of mortality.
+2 death, especially on a large scale: the causes of mortality among infants and young children. 
+• (also mortality rate) the number of deaths in a given area or period, or from a particular cause: postoperative mortality was 90 percent for some operations. ORIGIN late Middle English: via Old French from Latin mortalitas, from mortalis (see mortal) .

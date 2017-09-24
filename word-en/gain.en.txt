@@ -1,12 +1,19 @@
 gain 
-▶verb
-1 he gained a scholarship to the college: obtain, get, secure, acquire, come by, procure, attain, achieve, earn, win, garner, capture, clinch, pick up, carry off, reap; informal land, net, bag, scoop, wangle, swing, walk away/off with. ANTONYMS lose.
-2 they stood to gain from the deal: profit, make money, reap benefits, benefit, do well; informal make a killing. ANTONYMS lose.
-3 the dog gained weight: put on, increase in. ANTONYMS lose.
-4 the others were gaining on us: catch up with/on, catch someone up, catch, close (in) on, near.
-5 we finally gained the ridge: reach, arrive at, get to, come to, make, attain, set foot on; informal hit, wind up at.
-▶noun
-1 his gain from the deal: profit, advantage, benefit, reward; percentage, takings, yield, return, winnings, receipts, proceeds, dividend, interest; informal pickings, cut, take, divvy, slice, piece of the pie. ANTONYMS loss.
-2 a price gain of 7.5 percent: increase, rise, increment, augmentation, addition. ANTONYMS decrease.
-PHRASES
-gain time the district attorney had run out of plausible ways to gain time: play for time, stall, procrastinate, delay, temporize, hold back, hang back, hang fire, dally, drag one's feet. CHOOSE THE RIGHT WORD See get .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.QUOTE Don't look back. Something may be gaining on you.Satchel Paige, American baseball player
+ɡān
+
+▶verb [with object]
+1 obtain or secure (something desired, favorable, or profitable): a process that has gained the confidence of the industry 
+[with two objects] : their blend of acoustic folk pop gained them several chart hits. 
+• reach or arrive at (a desired destination): we gained the ridge. 
+• [no object] (gain on) come closer to (a person or thing pursued): a huge bear gaining on him with every stride. 
+• archaic bring over to one's interest or views; win over: to gratify the queen and gain the court.
+2 increase the amount or rate of (something, typically weight or speed): she had gradually gained weight since her wedding. 
+• [no object] increase in value: stocks also gained for the third day in a row. 
+• [no object] (gain in) improve or advance in some respect: canoeing is gaining in popularity. 
+• (of a clock or watch) become fast by (a specific amount of time): this atomic clock will neither gain nor lose a second in the next
+1 million years. 
+▶noun an increase in wealth or resources: the mayor was accused of using municipal funds for personal gain. 
+• a thing that is achieved or acquired: a balance between water loss and water gain. 
+• the factor by which power or voltage is increased in an amplifier or other electronic device, usually expressed as a logarithm. DERIVATIVES gainable adjective. gainer 
+ˈɡānər 
+nounORIGIN late 15th century (as a noun, originally in the sense ‘booty’): from Old French gaigne (noun), gaignier (verb), of Germanic origin.

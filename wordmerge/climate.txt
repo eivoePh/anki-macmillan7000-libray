@@ -4,7 +4,9 @@ noun
 ① Countable and uncountableMeteorology 气候 qìhòu 
 ② Countablefigurative (surroundings) 氛围 fēnwéi the current climate of opinion 当前的舆论倾向 the present political/economic climate 当前的政治气候/经济环境 
 climate 
-▶noun
-1 the mild climate: weather conditions, weather; atmospheric conditions.
-2 they come from a colder climate: region, area, zone, country, place; literary clime.
-3 the political climate: atmosphere, mood, feeling, ambience, tenor; tendency, ethos, attitude; milieu; informal vibe(s).
+ˈklīmit
+
+▶noun the weather conditions prevailing in an area in general or over a long period: our cold, wet climate 
+agricultural development is constrained by climate. 
+• a region with particular prevailing weather conditions: vacationing in a warm climate. 
+• the prevailing trend of public opinion or of another aspect of public life: the current economic climate. ORIGIN late Middle English: from Old French climat or late Latin clima, climat-, from Greek klima ‘slope, zone,’ from klinein ‘to slope.’ The term originally denoted a zone of the earth between two lines of latitude, then any region of the earth, and later, a region considered with reference to its atmospheric conditions. Compare with clime .

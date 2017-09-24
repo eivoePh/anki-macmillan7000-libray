@@ -1,25 +1,46 @@
 light
 1 
+līt
+
 ▶noun
-1 the light of candles: illumination, brightness, luminescence, luminosity, shining, gleaming, gleam, brilliance, radiance, luster, glowing, glow, blaze, glare, dazzle; sunlight, moonlight, starlight, lamplight, firelight; ray of light, beam of light; literary effulgence, refulgence, lambency. ANTONYMS darkness.
-2 there was a light on in the hall: lamp, wall light; headlight, headlamp, sidelight; streetlight, floodlight; lantern; flashlight.
-3 have you got a light? match, (cigarette) lighter.
-4 we'll wait for the light: daylight, daylight hours, daytime, day; dawn, morning, daybreak, sunrise; natural light, sunlight. ANTONYMS darkness, nighttime.
-5 he saw the problem in a different light: aspect, angle, slant, approach, interpretation, viewpoint, standpoint, context, hue, complexion.
-6 light dawned on Loretta: understanding, enlightenment, illumination, comprehension, insight, awareness, knowledge; informal light-bulb moment. ANTONYMS ignorance.
-7 an eminent legal light: expert, authority, master, leader, guru, leading light, luminary.
-▶verb Alan lit the kindling: set alight, set light to, set burning, set on fire, set fire to, put/set a match to, ignite, kindle, spark (off). ANTONYMS extinguish.
+1 the natural agent that stimulates sight and makes things visible: the light of the sun 
+[in singular] : the street lamps shed a faint light into the room. 
+• a source of illumination, especially an electric lamp: a light came on in his room. 
+• (lights) decorative illuminations: Christmas lights. 
+• a traffic light: turn right at the light. 
+• [in singular] an expression in someone's eyes indicating a particular emotion or mood: a shrewd light entered his eyes. 
+• the amount or quality of light in a place: the plant requires good light 
+in some lights she could look beautiful. Visible light is electromagnetic radiation whose wavelength falls within the range to which the human retina responds, i.e., between about 390 nm (violet light) and 740 nm (red). White light consists of a roughly equal mixture of all visible wavelengths, which can be separated to yield the colors of the spectrum, as was first demonstrated conclusively by Newton. In the 20th century it has become apparent that light consists of energy quanta called photons that behave partly like waves and partly like particles. The velocity of light in a vacuum is 299,792 km per second.
+2 understanding of a problem or mystery; enlightenment: she saw light dawn on the woman's face. 
+• spiritual illumination by divine truth. 
+• (lights) a person's opinions, standards, and abilities: leaving the police to do the job according to their lights.
+3 an area of something that is brighter or paler than its surroundings: sunshine will brighten the natural lights in your hair.
+4 a device that makes something start burning, as a match, lighter, or flame: he asked me for a light.
+5 a window or opening in a wall to let light in. 
+• any of the perpendicular divisions of a mullioned window. 
+• any of the panes of glass forming the roof or side of a greenhouse or the top of a cold frame.
+6 a person notable or eminent in a particular sphere of activity or place: such lights of liberalism as the historian Goldwin Smith. 
+▶verb (past lit 
+lit
+; past participle lit or lighted) [with object]
+1 provide with light or lighting; illuminate: the room was lighted by a number of small lamps 
+lightning suddenly lit up the house. 
+• switch on (an electric light): only one of the table lamps was lit. 
+• [no object] (light up) become illuminated: the sign to fasten seat belts lit up.
+2 make (something) start burning; ignite: Allen gathered sticks and lit a fire 
+(as adjective lighted or lit) : a lighted cigarette. 
+• [no object] begin to burn; be ignited: the gas wouldn't light properly. 
+• (light something up) ignite a cigarette, cigar, or pipe and begin to smoke it: she lit up a cigarette and puffed on it serenely 
+[no object] : workers who light up in prohibited areas face dismissal. 
 ▶adjective
-1 a light, cheerful room: bright, full of light, well lit, well illuminated, sunny. ANTONYMS dark, gloomy.
-2 light shades of blue and rose: light-colored, light-toned, pale, pale-colored, pastel. ANTONYMS dark, deep.
-3 light hair: fair, light-colored, blond/blonde, golden, flaxen. ANTONYMS dark, brunette.
+1 having a considerable or sufficient amount of natural light; not dark: the bedrooms are light and airy 
+it was almost light outside.
+2 (of a color) pale: her eyes were light blue. 
 PHRASES
-bring something to light the surprise inspection brought some incriminating evidence to light: reveal, disclose, expose, uncover, unearth, dig up/out, bring to notice, identify. come to light a fact important to this case has just come to light: be discovered, be uncovered, be unearthed, come out, become known, become apparent, appear, materialize, emerge. in (the) light of in light of this new information, there is no reason to continue our questioning: taking into consideration, taking into account, considering, bearing in mind, taking note of, in view of. light into informal
-1 we started lighting into our attackers: attack, assail, assault, hit, strike, beat, thrash, pummel, wallop, set about, set upon, set on, fall on; informal lay into, lace into, let someone have it, work over, rough up, knock about/around, have a go at, beat up on.
-2 my father lit into me for being late. See scold (verb). light on/upon we'd almost given up when we lit upon this article about Mathew's murder trial: come across, chance on/upon, hit on/upon, happen on/upon, stumble on/upon/across, find, discover, uncover, come up with. light up
-1 the dashboard lit up: become bright, brighten, lighten, shine, gleam, flare, blaze, glint, sparkle, shimmer, glisten, scintillate.
-2 he lit up outside the bar: start smoking, light a cigarette. light something up
-1 a flare lit up the night sky: make bright, brighten, illuminate, lighten, throw/cast light on, shine on, irradiate; literary illumine, illume.
-2 her enthusiasm lit up her face: animate, irradiate, brighten, cheer up, enliven. throw/cast/shed (some) light on perhaps I can shed some light on this problem: explain, elucidate, clarify, clear up, interpret. out like a light after a day at the beach, these kids will be out like a light by eight o'clock: asleep, unconscious, comatose; informal out cold, dead to the world. 
-WORD LINKS
-light optics the branch of science concerned with the behavior of lightWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.
+bring (or come) to light make (or become) widely known or evident: an investigation to bring to light examples of extravagant expenditure. go out like a light informal fall asleep or lose consciousness suddenly. in a —— light in the way specified; so as to give a specified impression: the audit portrayed the company in a very favorable light. in (the) light of drawing knowledge or information from; taking (something) into consideration: the exorbitant prices are explainable in the light of the facts.light a fire under someone see fire. light at the end of the tunnel a long-awaited indication that a period of hardship or adversity is nearing an end. light the fuse see fuse2. the light of day daylight. 
+• general public attention: bringing old family secrets into the light of day. the light of someone's life a much loved person. the lights are on, but nobody's (or no one's) home used to suggest that a person lacks intelligence or awareness: looking into their eyes, it's a clear case of the lights are on, but nobody's home. lights out bedtime in a school dormitory, military barracks, or other institution, when lights should be switched off. lit up informal, dated drunk. see the light understand or realize something after prolonged thought or doubt. 
+• undergo religious conversion. see the light of day be born. 
+• come into existence; be made public, visible, or available: this software first saw the light of day back in 1993. shed (or throw or cast) light on help to explain (something) by providing further information about it.PHRASAL VERBS light up (or light something up) (with reference to a person's face or eyes) suddenly become or cause to be animated with liveliness or joy: his eyes lit up and he smiled 
+a smile of delight lit up her face.DERIVATIVES lightish 
+ˈlīdiSH 
+adjective. lightless adjectiveORIGIN Old English lēoht, līht (noun and adjective), līhtan (verb), of Germanic origin; related to Dutch licht and German Licht, from an Indo-European root shared by Greek leukos ‘white’ and Latin lux ‘light.’

@@ -4,7 +4,13 @@ noun
 ① Auto 油门 yóumén to tread or step on the accelerator 踩油门 to ease up on the accelerator 松开油门 
 ② Physics 粒子加速器 lìzǐ jiāsùqì 
 accelerator 
-BrE əkˈsɛləreɪtə, AmE əkˈsɛləˌreɪdər 
-noun 
-① Auto 油门 yóumén to tread or step on the accelerator 踩油门 to ease up on the accelerator 松开油门 
-② Physics 粒子加速器 lìzǐ jiāsùqì 
+əkˈseləˌrādər
+
+▶noun
+1 a person or thing that causes something to happen or develop more quickly: the country has been the main accelerator of global growth for a decade. 
+• a venture or program that promotes and aids the rapid growth of selected new small businesses: an accelerator for start-up technology companies in Buenos Aires 
+[as modifier] : a record number of women-led start-ups are participating in the accelerator program.
+2 a device, typically a pedal, that controls the speed of a vehicle's engine: he pressed the accelerator to the floor and the taxi shot forward 
+figurative : the bank will have its foot on the accelerator until the economy starts to recover.
+3 Physics an apparatus for accelerating charged particles to high velocities; a particle accelerator: electron accelerators. 
+• Chemistry a substance that speeds up a chemical process.

@@ -10,7 +10,21 @@ transitive verb 详尽阐述 xiángjìn chǎnshù ‹theory, scheme, hypothesis�
 C.  /BrE ɪˈlabəreɪt, AmE əˈlæbəˌreɪt
 intransitive verb 详尽阐述 xiángjìn chǎnshù to elaborate on a plan 详细说明计划 
 elaborate 
-▶adjective
-1 an elaborate plan: complicated, complex, intricate, involved; detailed, painstaking, careful; tortuous, convoluted, serpentine, Byzantine; Rube Goldberg. ANTONYMS simple, plain.
-2 an elaborate plasterwork ceiling: ornate, decorated, embellished, adorned, ornamented, fancy, fussy, busy, ostentatious, extravagant, showy, baroque, rococo, florid; informal fancy-schmancy. ANTONYMS simple, plain.
-▶verb both sides refused to elaborate on their reasons: expand on, enlarge on, add to, flesh out, put flesh on the bones of, add detail to, expatiate on; develop, fill out, embellish, embroider, enhance, amplify.
+▶adjective 
+əˈlab(ə)rət 
+involving many carefully arranged parts or details; detailed and complicated in design and planning: elaborate security precautions 
+elaborate wrought-iron gates. 
+• (of an action) lengthy and exaggerated: he made an elaborate pretense of yawning. 
+▶verb 
+əˈlabəˌrāt 
+
+1 [with object] develop or present (a theory, policy, or system) in detail: the key idea of the book is expressed in the title and elaborated in the text. 
+• [no object] add more detail concerning what has already been said: he would not elaborate on his news.
+2 [with object] Biology (of a natural agency) produce (a substance) from its elements or simpler constituents. DERIVATIVES elaborateness 
+əˈlab(ə)rətnəs 
+noun. elaborative 
+-ˌrātiv 
+adjective. elaborator 
+-tər 
+nounORIGIN late 16th century (in the sense ‘produced by effort of labor,’ also sense
+2 of the verb of the verb): from Latin elaborat- ‘worked out,’ from the verb elaborare, from e- (variant of ex-)‘out’ + labor ‘work.’

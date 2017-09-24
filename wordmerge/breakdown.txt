@@ -1,12 +1,20 @@
-breakdown noun 
+breakdown
+ˈbrākˌdoun
+noun 
 ① Uncountable and countableAuto, Mechanics 故障 gùzhàng ; before noun 抢修的 qiǎngxiū de ‹service›breakdown truck BrE 拖车 
 ② Uncountable and countable(collapse) (of economy, health) 崩溃 bēngkuì ; (of order) 瘫痪 tānhuàn ; (of alliance) 破裂 pòliè ; (of plan) 失败 shībài a breakdown in communications/discipline 通信的中断/纪律的涣散 
 ③ CountableMedicine 精神崩溃 jīngshén bēngkuì to have a (nervous) breakdown 精神失常 to be on the verge of a breakdown 几近崩溃 
 ④ Countable(account) (of figures) 分析 fēnxī ; (by profile) 分类 fēnlèi a breakdown according to age 按年龄的分类 
 ⑤ UncountableBiology, Chemistry 分解 fēnjiě 
 breakdown 
+ˈbrākˌdoun
+
 ▶noun
-1 the breakdown of the negotiations: failure, collapse, disintegration, foundering.
-2 on the death of her father she suffered a breakdown: nervous breakdown, collapse; informal crack-up.
-3 the breakdown of the computer system: malfunction, failure, crash.
-4 a breakdown of the figures: analysis, classification, examination, investigation, dissection.
+1 a mechanical failure.
+2 a failure of a relationship or system: the breakdown of their marriage 
+some of these women will have experienced marital breakdown 
+a breakdown in military discipline. 
+• a sudden collapse in someone's mental health.
+3 the chemical or physical decomposition of something: the breakdown of ammonia to nitrites. 
+• an explanatory analysis, especially of statistics: a detailed cost breakdown.
+4 a lively, energetic American country dance.

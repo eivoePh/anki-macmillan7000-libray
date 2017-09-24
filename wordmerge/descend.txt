@@ -11,13 +11,21 @@ B.  intransitive verb
 ⑥ (originate from) 起源 qǐyuán to descend from …; «customs, speech» 起源于… 
 ⑦ (sink) 堕落 duòluò to descend so low or far as to do [something]; 堕落到做某事的地步 to descend into 逐渐陷入 ‹chaos›
 descend 
-▶verb
-1 the plane started descending: go down, come down; drop, fall, sink, dive, plummet, plunge, nosedive. ANTONYMS ascend, climb.
-2 she descended the stairs: climb down, go down, come down. ANTONYMS ascend, climb.
-3 the road descends to a village: slope, dip, slant, go down, fall away.
-4 she saw Herb descend from the bus: alight from, disembark, get down from, get off, dismount. ANTONYMS climb aboard, board.
-5 they would not descend to such mean tricks: stoop, lower oneself, demean oneself, debase oneself; resort, be reduced.
-6 the army descended into chaos: degenerate, deteriorate, decline, sink, slide, fall.
-7 they descended on the fortress: come in force on/upon, arrive in hordes on; attack, assail, assault, storm, invade, swoop (down) on, charge.
-8 he is descended from a Flemish family: be a descendant of, originate from, issue from, spring from, derive from.
-9 his estates descended to his son: be handed down, be passed down; be inherited by.
+dəˈsend
+
+▶verb [no object]
+1 move or fall downward: the aircraft began to descend. 
+• [with object] move down (a slope or stairs): the vehicle descended a ramp. 
+• (of stairs, a road or path, or a piece of land) be on a slope or incline and extend downward: a side road descended into the forest 
+[with object] : a narrow flight of stairs descended a steep slope. 
+• come or go down a scale, especially from the superior to the inferior: (as adjective descending) : the categories are listed in descending order of usefulness. 
+• Music (of sound) become lower in pitch: (as adjective descending) : a passage of descending chords. 
+• (descend to) act in a specified shameful way that is far below one's usual standards: she descended to self-pity. 
+• (descend into) (of a situation or group of people) reach (a state considered undesirable or shameful): the army had descended into chaos.
+2 (descend on/upon) make a sudden attack on: the militia descended on Rye. 
+• make an unexpected and typically unwelcome visit to: treasure-seekers descended upon the site. 
+• (of a feeling or atmosphere) develop suddenly and be felt throughout a place or by a person or group of people: an air of gloom descended on the Democratic Party headquarters. 
+• (of night or darkness) begin to occur: as the winter darkness descended, the fighting ceased.
+3 (be descended from) be a direct blood relative of (a specified, typically illustrious ancestor): she is descended from Charles I
+I.  
+• (of an asset) pass by inheritance, typically from parent to child: his lands descended to his eldest son. ORIGIN Middle English: from Old French descendre, from Latin descendere, from de- ‘down’ + scandere ‘to climb.’

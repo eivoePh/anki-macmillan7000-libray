@@ -5,6 +5,10 @@ adjective
 ② (explicitly meaningful) 有意义的 yǒu yìyì de it is significant that … …很能说明问题 
 ③ (implicitly meaningful) 意味深长的 yìwèi shēncháng de 
 significant 
+siɡˈnifikənt
+
 ▶adjective
-1 a significant increase: notable, noteworthy, worthy of attention, remarkable, important, of importance, of consequence, signal; serious, crucial, weighty, momentous, epoch-making, uncommon, unusual, rare, extraordinary, exceptional, special; formal of moment.
-2 a significant look: meaningful, expressive, eloquent, suggestive, knowing, telling.
+1 sufficiently great or important to be worthy of attention; noteworthy: a significant increase in sales.
+2 having a particular meaning; indicative of something: in times of stress her dreams seemed to her especially significant. 
+• suggesting a meaning or message that is not explicitly stated: she gave him a significant look.
+3 Statistics relating to or having significance. ORIGIN late 16th century ( sense 2): from Latin significant- ‘indicating,’ from the verb significare (see signify) .

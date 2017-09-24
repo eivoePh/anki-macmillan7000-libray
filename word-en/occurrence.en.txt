@@ -1,4 +1,6 @@
 occurrence 
-▶noun
-1 vandalism used to be a rare occurrence: event, incident, happening, phenomenon, affair, matter, circumstance.
-2 the occurrence of cancer increases with age: existence, instance, appearance, manifestation, materialization, development; frequency, incidence, rate, prevalence; Statistics distribution.
+əˈkərəns
+
+▶noun an incident or event: vandalism used to be a rare occurrence. 
+• the fact or frequency of something happening: the occurrence of cancer increases with age. 
+• the fact of something existing or being found in a place or under a particular set of conditions: the occurrence of natural gas fields. ORIGIN mid 16th century: probably from the plural of archaic occurrent, in the same sense, via French from Latin occurrent- ‘befalling,’ from the verb occurrere (see occur) .

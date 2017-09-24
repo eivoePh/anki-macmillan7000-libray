@@ -50,18 +50,42 @@ B.  transitive verb
 ② [sweep somebody/something up], [sweep up somebody/something] (lift) 一把抱起 yī bǎ bào qǐ ‹person›; 一把拿起 yī bǎ náqǐ ‹object›
 ③ [sweep somebody up], [sweep up somebody] (cause to become carried away) «passion, pleasure, enthusiasm, optimism» 使忘乎所以 shǐ wàng hū suǒ yǐ to be swept up in; 沉醉于 ‹revolution, wave of nationalism›
 sweep 
-▶verb
-1 she swept the floor: brush, clean, scrub, wipe, mop, dust, scour; informal do.
-2 I swept the crumbs off: remove, brush, clean, clear, whisk.
-3 he was swept out to sea: carry, pull, drag, tow.
-4 riots swept the country: engulf, overwhelm, flood.
-5 he swept down the stairs: glide, sail, breeze, drift, flit, flounce; stride, stroll, swagger.
-6 a limousine swept past: glide, sail, rush, race, streak, speed, fly, zoom, whiz, hurtle; informal tear, whip.
-7 police swept the conference room: search, probe, check, explore, go through, scour, comb.
+swēp
+
+▶verb (sweeps, sweeping; past and past participle swept 
+swept
+)
+1 [with object] clean (an area) by brushing away dirt or litter: I've swept the floor 
+Greg swept out the kitchen. 
+• move or remove (dirt or litter) by sweeping: she swept the tea leaves into a dustpan. 
+• move or push (someone or something) with great force: I was swept along by the crowd. 
+• brush (hair) back from one's face or upward: long hair swept up into a high chignon. 
+• search (an area) for something: the detective swept the room for hair and fingerprints. 
+• examine (a place or thing) for electronic listening devices: the line is swept every fifteen minutes. 
+• cover (an entire area) with a gun: they were trying to get the Lewis gun up behind some trees from where they would sweep the trench.
+2 [no object] move swiftly and smoothly: a large black car swept past the open windows 
+figurative : a wave of sympathy swept over him. 
+• [with object] cause to move swiftly and smoothly: he swept his hand around the room. 
+• (of a person) move in a confident and stately manner: she swept magnificently from the hall. 
+• (of a geographical or natural feature) extend continuously in a particular direction, especially in a curve: green forests swept down the hillsides. 
+• affect (an area or place) swiftly and widely: the rebellion had swept through all four of the country's provinces 
+[with object] : violence swept the country. 
+• [with object] North American win all the games in (a series); take each of the winning or main places in (a contest or event): we knew we had to sweep these three home games. 
 ▶noun
-1 a great sweep of his hand: gesture, stroke, wave, movement.
-2 a security sweep: search, hunt, exploration, probe.
-3 a long sweep of golden sand: expanse, tract, stretch, extent, plain.
-4 the broad sweep of our interests: range, span, scope, compass, reach, spread, ambit, gamut, spectrum, extent.
+1 an act of sweeping something with a brush: I was giving the floor a quick sweep. 
+• short for chimney sweep.
+2 a long, swift, curving movement: a grandiose sweep of his hand. 
+• Electronics the movement of a beam across the screen of a cathode ray tube.
+3 a comprehensive search or survey of a place or area: the police finished their sweep through the woods. 
+• (often sweeps) North American a survey of the ratings of broadcast stations, carried out at regular intervals to determine advertising rates.
+4 a long, typically curved stretch of road, river, country, etc.: we could see a wide sweep of country perhaps a hundred miles across. 
+• a curved part of a driveway in front of a building: one fork of the driveway continued on to the gravel sweep. 
+• the range or scope of something: the whole sweep of the history of the USS
+R. 
+5 informal a sweepstake.
+6 North American an instance of winning every event, award, or place in a contest: a World Series sweep.
+7 a long heavy oar used to row a barge or other vessel: [as modifier] : a big, heavy sweep oar.
+8 a sail of a windmill.
+9 a long pole mounted as a lever for raising buckets from a well. 
 PHRASES
-sweep aside you can't sweep aside these allegations forever: disregard, ignore, take no notice of, dismiss, shrug off, forget about, brush aside. sweep under the carpet their grievances could no longer be swept under the carpet: hide, conceal, suppress, hush up, keep quiet about, censor, gag, withhold, cover up, stifle. CHOOSE THE RIGHT WORD See range .These notes show fine distinctions in meaning between closely related synonyms to help you find the best word.
+a clean sweep see clean. sweep the board (or boards) win every event or prize in a contest. sweep someone off their feet see foot. sweep something under the rug (or carpet) conceal or ignore a problem or difficulty in the hope that it will be forgotten.PHRASAL VERBS sweep something away (or aside) remove, dispel, or abolish something in a swift and sudden way: Nahum's smile swept away the air of apprehensive gloom.ORIGIN Old English swāpan (verb), of Germanic origin; related to German schweifen ‘sweep in a curve.’

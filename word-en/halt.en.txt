@@ -1,7 +1,11 @@
-halt 
-▶verb
-1 Jen halted and turned around: stop, come to a halt, come to a stop, come to a standstill; pull up, draw up. ANTONYMS start, go.
-2 a further strike has halted production: stop, bring to a stop, put a stop to, bring to an end, put an end to, terminate, end, wind up; suspend, break off, arrest; impede, check, curb, stem, block, stall, hold back; informal pull the plug on, put the kibosh on. ANTONYMS start, continue.
-▶noun
-1 the car drew to a halt: stop, standstill.
-2 a halt in production: stoppage, stopping, discontinuation, break, suspension, pause, interval, interruption, hiatus; cessation, termination, close, end.
+halt
+1 
+hôlt
+
+▶verb bring or come to an abrupt stop: [with object] : there is growing pressure to halt the bloodshed 
+[no object] : she halted in mid-sentence. 
+• [in imperative] used as a military command to bring marching soldiers to a stop: company, halt! 
+▶noun a suspension of movement or activity, typically a temporary one: a halt in production 
+a bus screeched to a halt. 
+PHRASES
+call a halt demand or order a stop: he decided to call a halt to all further discussion.ORIGIN late 16th century: originally in the phrase make halt, from German haltmachen, from halten ‘to hold.’

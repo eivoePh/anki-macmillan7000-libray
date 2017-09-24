@@ -1,3 +1,4 @@
 antibody 
-BrE ˈantɪbɒdi, AmE ˈæn(t)əˌbɑdi 
-noun 抗体 kàngtǐ 
+ˈan(t)əˌbädē
+
+▶noun (plural antibodies) a blood protein produced in response to and counteracting a specific antigen. Antibodies combine chemically with substances that the body recognizes as alien, such as bacteria, viruses, and foreign substances in the blood. ORIGIN early 20th century: from anti- + body, translating German Antikörper, from anti- ‘against’ + Körper ‘body.’

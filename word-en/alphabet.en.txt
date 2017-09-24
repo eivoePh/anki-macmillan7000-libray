@@ -1,2 +1,6 @@
 alphabet 
-▶noun recite the alphabet: ABCs, letters, writing system, syllabary.
+ˈalfəˌbet
+
+▶noun a set of letters or symbols in a fixed order, used to represent the basic sounds of a language; in particular, the set of letters from A to 
+Z.  
+• the basic elements in a system that combine to form complex entities: DNA's 4-letter alphabet. The alphabet has its roots in Phoenician writing of the 2nd millennium bc, from which the modern Hebrew and Arabic systems are ultimately derived. The Greek alphabet, which emerged in 1000–900 bc, developed two branches, Cyrillic (which became the script of Russian) and Etruscan (from which derives the Roman alphabet used in the West). ORIGIN early 16th century: from late Latin alphabetum, from Greek alpha, bēta, the first two letters of the Greek alphabet.

@@ -5,8 +5,17 @@ noun
 ② Countable(act of passing through) 通过 tōngguò 
 ③ Countable and uncountableAstronomy 凌日 língrì 
 transit 
+ˈtranzət
+
 ▶noun
-1 public transit: transportation, transport, mass transit, bus system, subway system.
-2 the transit of goods between states: transportation, transport, movement, flow, conveyance, shipping, shipment, trucking, carriage, transfer.
-PHRASES
-in transit the building supplies are in transit: en route, on the journey, on the way, on the road.
+1 the carrying of people, goods, or materials from one place to another: a painting was damaged in transit. 
+• an act of passing through or across a place: the first west-to-east transit of the Northwest Passage 
+[as modifier] : a transit airline passenger. 
+• North American the conveyance of passengers on public transportation. 
+• Astronomy the passage of an inferior planet across the face of the sun, or of a moon or its shadow across the face of a planet. 
+• Astronomy the apparent passage of a celestial body across the meridian of a place. 
+• Astrology the passage of a celestial body through a specified sign, house, or area of a chart.
+2 informal (in full transit theodolite) a tool used by surveyors to measure horizontal angles. 
+▶verb (transits, transiting, transited) [with object] pass across or through (an area): the new large ships will be too big to transit the Panama Canal. 
+• Astronomy (of a planet or other celestial body) pass across (a meridian or the face of another body). 
+• Astrology (of a celestial body) pass across (a specified sign, house, or area of a chart). ORIGIN late Middle English (denoting passage from one place to another): from Latin transitus, from transire ‘go across.’

@@ -1,7 +1,12 @@
 avoid 
-▶verb
-1 I avoid situations that stress me out: keep away from, stay away from, steer clear of, give a wide berth to, fight shy of. ANTONYMS confront.
-2 he is trying to avoid responsibility: evade, dodge, sidestep, escape, run away from; informal duck, wriggle out of, get out of, cop out of. ANTONYMS face up to.
-3 he jerked back to avoid a wild pitch: dodge, duck, get out of the way of.
-4 you've been avoiding me all evening: shun, stay away from, evade, keep one's distance from, elude, hide from; ignore, give the cold shoulder. ANTONYMS seek out.
-5 he should avoid drinking alcohol: refrain from, abstain from, desist from, eschew. ANTONYMS indulge in.
+əˈvoid
+
+▶verb [with object]
+1 keep away from or stop oneself from doing (something): avoid excessive exposure to the sun. 
+• contrive not to meet (someone): boys lined up to meet Gloria, but avoided her bossy sister. 
+• not go to or through (a place): this route avoids downtown Boston. 
+• prevent from happening: make the necessary adjustments to avoid an accident.
+2 Law repudiate, nullify, or render void (a decree or contract). 
+PHRASES
+avoid someone/something like the plague try hard to avoid someone or something: a place that Robyn normally avoided like the plague 
+I avoid business lunches like the plague.DERIVATIVES avoider nounORIGIN late Middle English: from Old French evuider ‘clear out, get rid of,’ from vuide ‘empty’ (see void) .

@@ -5,6 +5,10 @@ transitive verb
 ② (able to endure) 忍受 rěnshòu ‹heat, cold, pain, noise, conditions›
 ③ (be able to take) 对…有耐受性 duì… yǒu nàishòuxìng ‹drug, therapy, treatment, radiation›
 tolerate 
-▶verb
-1 a regime unwilling to tolerate dissent: allow, permit, condone, accept, swallow, countenance; formal brook; archaic suffer.
-2 he couldn't tolerate her mood swings any longer: endure, put up with, bear, take, stand, support, stomach, deal with; abide.
+ˈtäləˌrāt
+
+▶verb [with object] allow the existence, occurrence, or practice of (something that one does not necessarily like or agree with) without interference: a regime unwilling to tolerate dissent. 
+• accept or endure (someone or something unpleasant or disliked) with forbearance: how was it that she could tolerate such noise? 
+• be capable of continued subjection to (a drug, toxin, or environmental condition) without adverse reaction: lichens grow in conditions that no other plants tolerate. DERIVATIVES tolerator 
+-ˌrātər 
+nounORIGIN early 16th century (in the sense ‘endure (pain)’): from Latin tolerat- ‘endured,’ from the verb tolerare .

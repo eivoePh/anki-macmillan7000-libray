@@ -1,9 +1,17 @@
 deposit 
+dəˈpäzət
+
 ▶noun
-1 a thick deposit of ash: accumulation, sediment; layer, covering, coating, blanket.
-2 a copper deposit: seam, vein, lode, layer, stratum, bed, pipe.
-3 they paid a deposit: down payment, advance payment, prepayment, installment, retainer, stake.
-▶verb
-1 she deposited her books on the table: put (down), place, set (down), unload, rest; drop; informal dump, park, plonk, plunk.
-2 the silt deposited by floodwater: leave (behind), precipitate, dump; wash up, cast up.
-3 the gold was deposited at the bank: house, bank, store, stow, put away; informal stash, squirrel away.
+1 a sum of money placed or kept in a bank account, usually to gain interest. 
+• an act of placing money in a bank account: I'd like to make a deposit.
+2 a sum payable as a first installment on the purchase of something or as a pledge for a contract, the balance being payable later: we've saved enough for a deposit on a house. 
+• a returnable sum payable on the rental of something, to cover any possible loss or damage.
+3 a layer or body of accumulated matter: the deposits of salt on the chrome. 
+• a natural layer of sand, rock, coal, or other material. 
+▶verb (deposits, depositing, deposited)
+1 [with object] put or set down (something or someone) in a specific place, typically unceremoniously: he deposited a pile of schoolbooks on the kitchen table. 
+• (usually be deposited) (of water, the wind, or other natural agency) lay down (matter) gradually as a layer or covering: beds where salt is deposited by the tide. 
+• lay (an egg): the female deposits a line of eggs.
+2 [with object] store or entrust with someone for safekeeping. 
+• pay (a sum of money) into a bank account: the money is deposited with a bank. 
+• pay (a sum) as a first installment or as a pledge for a contract: I had to deposit 10% of the price of the house. ORIGIN late 16th century (especially in the phrases in deposit or on deposit): from Latin depositum (noun), medieval Latin depositare (verb), both from Latin deposit- ‘laid aside,’ from the verb deponere .
