@@ -1,6 +1,7 @@
 output 
 BrE ˈaʊtpʊt, AmE ˈaʊtˌpʊt 
-A. noun 
+
+A.  noun 
 ① Uncountable and countableBusn 产量 chǎnliàng 
 ② UncountableElectronics, Mechanics 输出功率 shūchū gōnglǜ an output signal 输出信号 
 ③ UncountableComputing 输出 shūchū 

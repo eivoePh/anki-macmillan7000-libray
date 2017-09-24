@@ -1,4 +1,6 @@
-discharge A. /BrE dɪsˈtʃɑːdʒ, AmE dɪsˈtʃɑrdʒ/ transitive verb 
+discharge 
+A.  /BrE dɪsˈtʃɑːdʒ, AmE dɪsˈtʃɑrdʒ
+transitive verb 
 ① (release) 允许…出院 yǔnxǔ… chūyuàn ‹patient›; 允许…退伍 yǔnxǔ… tuìwǔ ‹serviceman, soldier›
 ② (dismiss) 解雇 jiěgù ‹employee›to discharge [somebody] from their duties 撤某人的职 
 ③ Law 释放 shìfàng ‹prisoner, the accused›; 解散 jiěsàn ‹jury, juror›
@@ -8,11 +10,13 @@ discharge A. /BrE dɪsˈtʃɑːdʒ, AmE dɪsˈtʃɑrdʒ/ transitive verb
 ⑦ (perform) 履行 lǚxíng ‹responsibility, obligation, duty›
 ⑧ (unload) 卸下 xièxia ‹cargo, load›; 让…下来 ràng… xiàlai ‹passengers›
 ⑨ (fire) 击发 jīfā ‹gun, firearms›; 使用 shǐyòng ‹weapon›; 发射 fāshè ‹arrow›
-B.  /BrE dɪsˈtʃɑːdʒ, AmE dɪsˈtʃɑrdʒ/ intransitive verb 
+B.  /BrE dɪsˈtʃɑːdʒ, AmE dɪsˈtʃɑrdʒ
+intransitive verb 
 ① (flow) 流出 liúchū the river discharges into the sea five miles down the coast 那条河在海岸以南5英里处流入大海 
 ② Medicine «wound» 流脓 liúnóng 
 ③ Electricity 放电 fàngdiàn 
-C.  /BrE ˈdɪstʃɑːdʒ, dɪsˈtʃɑːdʒ, AmE ˈdɪsˌtʃɑrdʒ/ noun 
+C.  /BrE ˈdɪstʃɑːdʒ, dɪsˈtʃɑːdʒ, AmE ˈdɪsˌtʃɑrdʒ
+noun 
 ① Uncountable(release) (from hospital) 出院 chūyuàn (from employment) 解雇 jiěgù (from military service) 退伍 tuìwǔ to get one's discharge 被解雇 
 ② Countable and uncountable(of liquid, gas) 排放 páifàng 
 ③ Countable(substance released) 排放物 páifàngwù 

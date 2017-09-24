@@ -1,6 +1,7 @@
 stack 
 BrE stak, AmE stæk 
-A. noun 
+
+A.  noun 
 ① (pile) 一叠 yī dié a stack of plates 一摞盘子 to put the chairs together into a stack 把椅子叠放在一起 
 ② Agriculture 垛 duò a stack of straw 稻草垛 
 ③ (chimney) 烟囱 yāncōng ; (exhaust pipe) 排气管 páiqìguǎn to blow one's stack colloquial 发脾气 
@@ -22,7 +23,8 @@ C.  transitive verb
 ⑥ Telecommunications 使…排队等候 shǐ… páiduì děnghòu ‹incoming calls›
 D.  intransitive verb 
 ① (able to be piled) 可叠放 kě dié fàng stacking chairs 可叠放的椅子 (not) easily/well stacked （不）容易码放/码放得（不）好的 
-② Aviation «aircraft» 分层盘旋待降 fēncéng pánxuán dài jiàng PHRASAL VERB stack up A. transitive verb[stack something up, stack up something] 
+② Aviation «aircraft» 分层盘旋待降 fēncéng pánxuán dài jiàng PHRASAL VERB stack up 
+A.  transitive verb[stack something up, stack up something] 
 ① (put in pile) 把…叠放起来 bǎ… diéfàng qilai ‹books, plates›to stack up the boxes 把箱子摞起来 
 ② (cause to build up) 使积聚成一堆 shǐ jījù chéng yī duī 
 B.  intransitive verb 

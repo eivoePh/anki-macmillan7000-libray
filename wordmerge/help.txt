@@ -1,6 +1,7 @@
 help 
 BrE hɛlp, AmE hɛlp 
-A. transitive verb 
+
+A.  transitive verb 
 ① (assist) 帮助 bāngzhù to help [somebody] (to) do [something]; 帮助某人做某事 to help [somebody] with the children/their bag 帮某人照看孩子/拎包 may I help you? (in shop) 要帮忙吗？ (on phone, at desk) 您有什么事？ I can't help you 我帮不上你的忙 
 ② (financially) 资助 zīzhù to help the poor 救济穷人 to help [somebody] with the mortgage 帮某人偿还按揭款 
 ③ (in emergency) 救助 jiùzhù God/heaven help us/them! colloquial 我们/他们要靠上帝了！ so help me (God) Law 上帝作证 (in anger) 我发誓 ［用于表达愤怒情绪或表示说到做到］God helps those who help themselves proverb 天助自助者 
@@ -30,7 +31,8 @@ E.  exclamation
 ① (calling for aid) 救命 jiùmìng help! I'm drowning! 救命！我快淹死了！ help! I'm stuck! 救命！我被卡住了！ 
 ② (expressing dismay) 糟糕 zāogāo help! I've spilt the wine 糟糕！我把葡萄酒弄洒了 PHRASAL VERBS help along transitive verb[help somebody/something along] 
 ① (assist in moving) 搀扶…向前走 chānfú… xiàng qián zǒu ‹person›; «tide, push» 推动 tuīdòng ‹car, ball›the wind helped the boat along 风吹动小船前行 
-② (facilitate) 促进 cùjìn ‹project, negotiations›help out A. intransitive verb 
+② (facilitate) 促进 cùjìn ‹project, negotiations›help out 
+A.  intransitive verb 
 ① (assist) 帮忙做 bāngmáng zuò to help out with [something]; 帮忙做某事 to help out with the housework 帮忙做家务 
 ② (financially) 资助 zīzhù to help out with the mortgage 帮忙偿还按揭款 
 ③ (in crisis) 帮忙摆脱困境 bāngmáng bǎituō kùnjìng she's always there to help out 她总是急人之难 

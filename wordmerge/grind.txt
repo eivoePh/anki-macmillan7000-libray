@@ -1,6 +1,7 @@
 grind 
 BrE ɡrʌɪnd, AmE ɡraɪnd 
-A. transitive verb(past tense, past participle ground) 
+
+A.  transitive verb(past tense, past participle ground) 
 ① (crush) 磨碎 mósuì to grind corn into flour 把玉米磨成粉 to grind [something] to dust 把某物碾成碎末 
 ② (produce by crushing) 磨成 móchéng ‹flour›to grind coffee from beans 把咖啡豆磨成咖啡 
 ③ AmE Culinary 绞碎 jiǎosuì ‹meat›
@@ -19,7 +20,8 @@ C.  noun
 ① (act of grinding) 研磨 yánmó ; (sound of grinding) 研磨声 yánmó shēng the slow grind of the legal system figurative 法律体系的缓慢施压 
 ② (size after grinding) 磨细的等级 móxì de děngjí fine/coarse grind 细磨/粗磨 different grinds of coffee 大小不同的咖啡颗粒 
 ③ colloquial (hard work) 苦差 kǔchāi a long, hard grind 漫长、艰苦的工作 a real/an awful grind 极苦的差事 the daily grind 单调的日常工作 
-④ AmE colloquial pejorative (swot) 书呆子 shūdāizi PHRASAL VERBS grind away A. transitive verb[grind away something, grind something away] 磨掉 módiào ‹rough edge, metal, excess material›
+④ AmE colloquial pejorative (swot) 书呆子 shūdāizi PHRASAL VERBS grind away 
+A.  transitive verb[grind away something, grind something away] 磨掉 módiào ‹rough edge, metal, excess material›
 B.  intransitive verb 
 ① (make harsh noise) «machine, engine, vehicle» 发出刺耳的摩擦声 fāchū cì'ěr de mócā shēng 
 ② colloquial (work hard) 埋头苦学 máitóu kǔ xué to grind away at [something]; 埋头做某事 he is grinding away at his essay/maths 他正在埋头写文章/学数学 grind down transitive verb 

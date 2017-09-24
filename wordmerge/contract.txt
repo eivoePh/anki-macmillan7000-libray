@@ -1,16 +1,21 @@
-contract A. /BrE ˈkɒntrakt, AmE ˈkɑntrækt/ noun 
+contract 
+A.  /BrE ˈkɒntrakt, AmE ˈkɑntrækt
+noun 
 ① (agreement) 合同 hétong to enter into a contract with [somebody] for [something] 就某事物与某人签订合约 sold subject to contract 按合同出售 to be under contract with or to [somebody]/[something] 签约为某人/某组织工作 
 ② Busn (for goods/services) 承包合同 chéngbāo hétong to award or assign a contract to [somebody] 将合同承包给某人 to win a contract 中标 to put work out to contract 签约将工作外包 
 ③ slang (for killing) 暗杀协议 ànshā xiéyì to put out a contract on [somebody] 雇凶谋杀某人 
-B.  /BrE kənˈtrakt, AmE kənˈtrækt/ transitive verb 
+B.  /BrE kənˈtrakt, AmE kənˈtrækt
+transitive verb 
 ① Medicine (develop) 感染 gǎnrǎn ‹disease›
 ② formal (enter into) 约定建立…关系 yuēdìng jiànlì… guānxì ‹marriage, alliance›he contracted a marriage/an alliance with her 他和她订了婚/结了盟 
 ③ (tighten) 收缩 shōusuō ‹muscle›
 ④ (make shorter) 缩约 suōyuē ‹word, phrase›
-C.  /BrE kənˈtrakt, AmE kənˈtrækt/ intransitive verb 
+C.  /BrE kənˈtrakt, AmE kənˈtrækt
+intransitive verb 
 ① (in size) «metal» 收缩 shōusuō ; «territory» 缩小 suōxiǎo (decrease) «supplies, support» 减少 jiǎnshǎo 
 ② Physiology «muscle» 收缩 shōusuō 
-③ Busn, Law (undertake) «firm, person, government» 订立合同 dìnglì hétong to contract into [something]; 订约加入某事 to contract with [somebody] to … 与某人就…签约 PHRASAL VERBS contract in intransitive verb BrE 订约参与 dìngyuē cānyù contract out A. transitive verb[contract out something], [contract something out] 订约将…外包 dìngyuē jiāng… wàibāo ‹work, building›to contract [something] out to [somebody]; 将某工作订约外包给某人 
+③ Busn, Law (undertake) «firm, person, government» 订立合同 dìnglì hétong to contract into [something]; 订约加入某事 to contract with [somebody] to … 与某人就…签约 PHRASAL VERBS contract in intransitive verb BrE 订约参与 dìngyuē cānyù contract out 
+A.  transitive verb[contract out something], [contract something out] 订约将…外包 dìngyuē jiāng… wàibāo ‹work, building›to contract [something] out to [somebody]; 将某工作订约外包给某人 
 B.  intransitive verb BrE 订约退出 dìngyuē tuìchū to contract out of [something] 退出关于某事的合约 
 contract 
 ▶noun a legally binding contract: agreement, commitment, arrangement, settlement, understanding, compact, covenant, bond; deal, bargain; Law indenture.

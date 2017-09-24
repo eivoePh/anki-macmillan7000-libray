@@ -1,6 +1,7 @@
 transaction 
 BrE tranˈzakʃ(ə)n, trɑːn-, -ˈsak-, AmE trænˈsækʃ(ə)n, trænˈzækʃ(ə)n 
-A. noun 
+
+A.  noun 
 ① Countable(piece of business) 交易 jiāoyì a legal transaction 合法交易 a cash/credit card transaction 现金/信用卡交易 
 ② Uncountable(act) 办理 bànlǐ the transaction of business 事务的处理 
 ③ CountableComputing 数据处理 shùjù chǔlǐ 

@@ -1,6 +1,7 @@
 empty 
 BrE ˈɛm(p)ti, AmE ˈɛm(p)ti 
-A. adjective 
+
+A.  adjective 
 ① (lacking contents) 空的 kōng de ‹container, vehicle, shelf›; 空白的 kòngbái de ‹page›; 未放物品的 wèi fàng wùpǐn de ‹table›; 空着的 kōngzhe de ‹hand(s)›to be empty of [something] 没有某物 
 ② (lacking people) 无人的 wúrén de ‹room, building, street›; 未载人的 wèi zàirén de ‹vehicle, plane, boat›; 空缺的 kòngquē de ‹post›; 无人做的 wúrén zuò de ‹job›to stand empty «house, office» 空无一人 
 ③ (lacking food) 饿的 è de on an empty stomach 空着肚子 
@@ -16,7 +17,8 @@ C.  intransitive verb
 ② (pour out) 倒空 dàokōng to empty into/on to [something]; «contents, sand, rubbish» 全部倒入某物/倒在某物上 
 ③ (flow) 流入 liúrù to empty into [something]; «river, stream, water» 流入某处 
 ④ (be vacated) «building, theatre, shop, street, bus» 被清场 bèi qīngchǎng 
-D.  empties noun plural BrE colloquial (bottles) 空瓶 kōngpíng (glasses) 空杯 kōngbēi PHRASAL VERB empty out A. transitive verb [empty out something, empty something out] (pour out) 倒空 dàokōng (clear) 清空 qīngkōng to empty water out of one's boots; 把水从靴子里倒出来 to empty one's pockets out on to the table; 把衣袋里的东西全掏到桌子上 
+D.  empties noun plural BrE colloquial (bottles) 空瓶 kōngpíng (glasses) 空杯 kōngbēi PHRASAL VERB empty out 
+A.  transitive verb [empty out something, empty something out] (pour out) 倒空 dàokōng (clear) 清空 qīngkōng to empty water out of one's boots; 把水从靴子里倒出来 to empty one's pockets out on to the table; 把衣袋里的东西全掏到桌子上 
 B.  intransitive verb 
 ① (leave a place) «people» 全部撤离 quánbù chèlí 
 ② (pour out of a container) «contents» 倒出 dàochū the sand emptied out of the bag; 沙子从袋子里倒了出来 

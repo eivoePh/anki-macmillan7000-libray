@@ -1,4 +1,6 @@
-object A. /BrE ˈɒbdʒɛkt, ˈɒbdʒɪkt, AmE ˈɑbdʒəkt/ noun 
+object 
+A.  /BrE ˈɒbdʒɛkt, ˈɒbdʒɪkt, AmE ˈɑbdʒəkt
+noun 
 ① (item) 物品 wùpǐn everyday objects 日常用品 plastic objects 塑料制品 
 ② (focus) 对象 duìxiàng to be the object of [something]; 是…的对象 ‹ridicule, investigation›to become the object of [somebody's] affection/hatred 成为某人钟爱/憎恨的对象 to be the object of one's desires (thing) 是渴望得到的东西 (person) 是依恋的人 shì yīliàn de rén 
 ③ (goal) 目的 mùdì to have no object in life 没有人生目标 with the object of doing [something] 抱着做某事的目的 the object of the exercise 活动的目的 
@@ -6,8 +8,10 @@ object A. /BrE ˈɒbdʒɛkt, ˈɒbdʒɪkt, AmE ˈɑbdʒəkt/ noun
 ⑤ Philosophy 客体 kètǐ 
 ⑥ Linguistics 宾语 bīnyǔ direct/indirect object 直接/间接宾语 the object of a preposition 介词的宾语 
 ⑦ Computing 目标 mùbiāo 
-B.  /BrE əbˈdʒɛkt, AmE əbˈdʒɛkt/ intransitive verb 反对 fǎnduì to object to [something]/[somebody]; 反对某事/某人 she objects to his drinking 她反对他喝酒 do you object to me or my smoking? 你介意我抽烟吗？ I wouldn't object to a rest colloquial 休息一会儿我没意见 to object to doing [something]; 反对做某事 I don't object to putting in a good word for you 我不在乎为你美言几句 to object to [somebody] as leader 反对某人当领导 to object to a witness Law 质疑证人 
-C.  /BrE əbˈdʒɛkt, AmE əbˈdʒɛkt/ transitive verb 反对 fǎnduì to object that …; 反对… ‘you can't do that’, he objected “你不能那样做”，他反对道 
+B.  /BrE əbˈdʒɛkt, AmE əbˈdʒɛkt
+intransitive verb 反对 fǎnduì to object to [something]/[somebody]; 反对某事/某人 she objects to his drinking 她反对他喝酒 do you object to me or my smoking? 你介意我抽烟吗？ I wouldn't object to a rest colloquial 休息一会儿我没意见 to object to doing [something]; 反对做某事 I don't object to putting in a good word for you 我不在乎为你美言几句 to object to [somebody] as leader 反对某人当领导 to object to a witness Law 质疑证人 
+C.  /BrE əbˈdʒɛkt, AmE əbˈdʒɛkt
+transitive verb 反对 fǎnduì to object that …; 反对… ‘you can't do that’, he objected “你不能那样做”，他反对道 
 object 
 ▶noun
 1 wooden objects: thing, article, item, device, gadget, entity; informal doodad, thingamajig, thingamabob, whatsit, whatchamacallit, thingy, doohickey, dingus.

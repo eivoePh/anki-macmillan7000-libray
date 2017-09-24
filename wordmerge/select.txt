@@ -1,6 +1,7 @@
 select 
 BrE sɪˈlɛkt, AmE səˈlɛkt 
-A. transitive verb 挑选 tiāoxuǎn to select [somebody] to do [something]; 选择某人做某事 to be selected for the team 被选入队中 
+
+A.  transitive verb 挑选 tiāoxuǎn to select [somebody] to do [something]; 选择某人做某事 to be selected for the team 被选入队中 
 B.  intransitive verb 挑选 tiāoxuǎn to select from (among) [something]; 从某物中挑选 
 C.  adjective 
 ① (carefully chosen) 精选的 jīngxuǎn de ‹group, audience›only a select few can afford such luxuries 只有极少数人买得起这种奢侈品 

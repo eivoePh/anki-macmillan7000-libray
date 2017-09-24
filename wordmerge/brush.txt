@@ -1,6 +1,7 @@
 brush 
 BrE brʌʃ, AmE brəʃ 
-A. noun 
+
+A.  noun 
 ① Countable(implement) 刷子 shuāzi (for painting) 画笔 huàbǐ 
 ② Countable(act of brushing) 刷 shuā to give [something] a brush 刷一下某物 
 ③ Countable(light touch) 轻拂 qīngfú I felt the brush of the bird's wing against my cheek 我感到这只鸟的翅膀拂过我的脸颊 
@@ -16,8 +17,10 @@ B.  transitive verb
 C.  intransitive verb 拂过 fúguo to brush against [somebody]/[something]; 拂过某人/某物 PHRASAL VERBS brush aside transitive verb 
 ① [brush something/somebody aside, brush aside something/somebody] (dismiss) 不理会 bù lǐhuì ‹idea, feeling, objection, person›
 ② [brush somebody aside, brush aside somebody] (beat) 轻松击败 qīngsōng jībài ‹opponent›
-③ [brush something aside, brush aside something] (move away) 把…移开 bǎ… yíkāi ‹object›she brushed aside the curtain or brushed the curtain aside 她撩开帘子 brush down transitive verb [brush down something, brush something down] (remove dirt from) 刷干净 shuā gānjìng (remove creases from) 抹平 mǒpíng to brush oneself down; 把自己掸干净 he stood up and brushed himself down (after a fall) 他站起来把身上拍干净 brush off A. transitive verb [brush off somebody/something, brush somebody/something off] colloquial 不理会 bù lǐhuì ‹question, person, criticism, threat›to brush [something] off as [something]; 把某事物当作某事物打发掉 he's very keen on her, but she keeps brushing him off 他很迷恋她，但她总是不搭理他 to brush off failure 漠视失败 
-B.  intransitive verb «dirt» 被刷掉 bèi shuādiào mud brushes off easily when it's dry 泥干后容易刷掉 brush up A. transitive verb[brush up something, brush something up] 
+③ [brush something aside, brush aside something] (move away) 把…移开 bǎ… yíkāi ‹object›she brushed aside the curtain or brushed the curtain aside 她撩开帘子 brush down transitive verb [brush down something, brush something down] (remove dirt from) 刷干净 shuā gānjìng (remove creases from) 抹平 mǒpíng to brush oneself down; 把自己掸干净 he stood up and brushed himself down (after a fall) 他站起来把身上拍干净 brush off 
+A.  transitive verb [brush off somebody/something, brush somebody/something off] colloquial 不理会 bù lǐhuì ‹question, person, criticism, threat›to brush [something] off as [something]; 把某事物当作某事物打发掉 he's very keen on her, but she keeps brushing him off 他很迷恋她，但她总是不搭理他 to brush off failure 漠视失败 
+B.  intransitive verb «dirt» 被刷掉 bèi shuādiào mud brushes off easily when it's dry 泥干后容易刷掉 brush up 
+A.  transitive verb[brush up something, brush something up] 
 ① (clear up) 刷除 shuāchú 
 ② colloquial (improve) 温习 wēnxí ‹knowledge, skills›
 B.  intransitive verb to brush up on [something] colloquial (improve) 温习 wēnxí ‹French, piano playing›

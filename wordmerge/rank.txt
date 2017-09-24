@@ -1,12 +1,14 @@
 rank
 1 
 BrE raŋk, AmE ræŋk 
-A. noun 
+
+A.  noun 
 ① Uncountable and countable(in hierarchy, politics, society) 地位 dìwèi (in organization, company) 级别 jíbié to achieve the rank of Cabinet Minister 获得内阁大臣之职 he was elevated to ministerial rank 他被提升到部级 of high/low rank 地位高/低的 people of high social rank 社会上层人士 
 ② Uncountable and countable(in army) 军衔 jūnxián (in police) 警衔 jǐngxián to be stripped of one's rank 被剥夺军衔 promotion to a higher rank 晋升 to be promoted to the rank of captain 晋升到上校军阶 a high or senior/low or junior rank Military 高级/低级军衔 officers of senior rank 高级军官 officers and other ranks 官兵 in rank 在军阶上 to pull rank (on [somebody]) 运用权势（压服某人） 
 ③ Uncountable(high social position) 高层社会地位 gāocéng shèhuì dìwèi persons of rank and breeding 地位高有教养的人 
 ④ Countable(degree) 等级 děngjí a painter of the first rank 一流的画家 Britain is no longer in the front rank of world powers 英国不再是位于前列的世界强国 
-⑤ Countable(line, row) 行列 hángliè rank upon rank of soldiers/police 一排一排的士兵/警察 to break ranks literal «soldiers, police» 打乱队形 figurative 不再支持所属团体 bù zài zhīchí suǒshǔ tuántǐ 15 MPs broke ranks and voted with the Opposition 15名议员反水投了反对党的票 to close ranks (against [somebody]) literal «soldiers, police» 集中队列（以防御某人） figurative 紧密团结（以反对某人） jǐnmì tuánjié(yǐ fǎnduì mǒu rén) 
+⑤ Countable(line, row) 行列 hángliè rank upon rank of soldiers/police 一排一排的士兵/警察 to break ranks literal «soldiers, police» 打乱队形 figurative 不再支持所属团体 bù zài zhīchí suǒshǔ tuántǐ
+15 MPs broke ranks and voted with the Opposition 15名议员反水投了反对党的票 to close ranks (against [somebody]) literal «soldiers, police» 集中队列（以防御某人） figurative 紧密团结（以反对某人） jǐnmì tuánjié(yǐ fǎnduì mǒu rén) 
 ⑥ Countable(line, row) 排 pái massed ranks of spectators 密集的观众 the trees grew in serried ranks 树木密密麻麻地长在一起 half-made pots standing in ranks on shelves 摆在架子上的一排排半成品罐子 
 ⑦ Countable BrE (for taxis) 出租车站 chūzūchēzhàn 
 ⑧ Uncountable and countableLinguistics 级 jí 

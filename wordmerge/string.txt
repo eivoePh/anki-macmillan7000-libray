@@ -1,6 +1,7 @@
 string 
 BrE strɪŋ, AmE strɪŋ 
-A. noun 
+
+A.  noun 
 ① Uncountable and countable(twine) 细绳 xì shéng a ball/piece/length of string 一团/一根/一段细绳 to tie [something] (up) with string 用细绳捆扎某物 the key is hanging on a string by the door 钥匙挂在门边的绳子上 to untie or undo a string 解开细绳 how long is a piece of string? BrE colloquial 谁能说得准呢？ 
 ② Countable(on musical instrument, racket, bow) 弦 xián to tune the strings (on [something]) （给某乐器）调弦 
 ③ Countable(on puppet) 牵线 qiānxiàn a puppet on strings 牵线木偶 qiānxiàn mù'ǒu to pull strings (for [somebody]) colloquial （为某人）走后门 to pull the strings 提拉牵线 figurative colloquial 幕后操纵 mùhòu cāozòng 
@@ -17,8 +18,10 @@ C.  transitive verb(past tense, past participle strung)
 ① (hang) 悬挂 xuánguà fairy lights were strung on trees 树上挂着彩色小灯 the route was strung with flags 沿途悬挂着旗子 
 ② (fit with stretched wire, nylon, etc.) 给…装弦 gěi… zhuāng xián ‹musical instrument, bow›; 给…绷线 gěi… bēng xiàn ‹racket›
 ③ (thread) 把…串起来 bǎ… chuàn qilai the jeweller was stringing pearls on a nylon cord 珠宝匠正在往一根尼龙绳上串珍珠 
-D.  intransitive verb (past tense, past participle strung) colloquial 充当报料人 chōngdāng bàoliàorén to string for a newspaper 为报纸充当报料人 PHRASAL VERBS string along colloquial A. intransitive verb BrE 跟随 gēnsuí is it OK if we string along? 我们跟着来可以吗？ to string along with [somebody]; 伴随某人 
-B.  transitive verb [string somebody along, string along somebody] 耍弄 shuǎnòng he had no plans to marry her: he was just stringing her along 他根本没打算娶她：不过是跟她玩玩 string out A. transitive verb 
+D.  intransitive verb (past tense, past participle strung) colloquial 充当报料人 chōngdāng bàoliàorén to string for a newspaper 为报纸充当报料人 PHRASAL VERBS string along colloquial 
+A.  intransitive verb BrE 跟随 gēnsuí is it OK if we string along? 我们跟着来可以吗？ to string along with [somebody]; 伴随某人 
+B.  transitive verb [string somebody along, string along somebody] 耍弄 shuǎnòng he had no plans to marry her: he was just stringing her along 他根本没打算娶她：不过是跟她玩玩 string out 
+A.  transitive verb 
 ① [string something out, string out something] (prolong) 延长 yáncháng they seem determined to string the talks out for an indefinite period 他们似乎一心要把谈判无限期地拖下去 
 ② (set at intervals) 间隔排列 jiàngé páiliè warning notices were strung out along the motorway 高速公路上每隔一段距离就有一个警示牌 
 B.  [string somebody/something out, string out somebody/something] transitive verb (spread out) 使间隔排开 shǐ jiàngé páikāi forty soldiers were strung out in a line 40名士兵拉开排成一排 

@@ -1,6 +1,7 @@
 pin 
 BrE pɪn, AmE pɪn 
-A. noun 
+
+A.  noun 
 ① (for sewing, fastening) 大头针 dàtóuzhēn (as) bright as a (new) pin 聪明伶俐的 like a new pin (clean) 洁净如新的 (neat, tidy) 非常整洁的 (as) clean/neat as a new pin 非常干净/整洁的 for two pins I'd/she'd/he'd do it, but … BrE 我/她/他巴不得这么做，可是… it was so quiet you could have heard a pin drop 安静得连针落在地上的声音都可以听到 
 ② (brooch) 饰针 shìzhēn a diamond/an enamel pin 一枚钻石/珐琅胸针 a fraternity/sorority pin AmE 男生/女生联谊会徽章 
 ③ Electricity 插脚 chājiǎo a two-/three-pin plug 双芯/三芯插头 
@@ -16,7 +17,8 @@ C.  transitive verb(present participle etc. -nn-)
 ② (trap, press) 使不能动弹 shǐ bù néng dòngdàn to pin [somebody]/[something] to or against [something]; 把某人/某物按在某物上 to be pinned under the wreckage/a fallen tree; 被困在残骸下无法脱身/被压在倒伏的大树下动弹不得 
 ③ (attribute) 把…归咎于 bǎ… guījiù yú to pin [something] on [somebody]; 让某人承担 ‹blame, responsibility›
 ④ to pin one's hopes/faith on [somebody]/[something]/doing [something] (rely completely on) 把希望/信任寄托在某人身上/某事物上/做某事上 bǎ xīwàng/xìnrèn jìtuō zài mǒu rén shēn shang/mǒu shìwù shang/zuò mǒu shì shang 
-⑤ Military, Sport to be pinned in [something] 被围困在某处 bèi wéikùn zài mǒu chù PHRASAL VERBS pin back transitive verb[pin something back, pin back something] 夹住 jiāzhù ‹hair›to pin one's ears back figurative 聆听 pin down A. [pin something down, pin down something] transitive verb 
+⑤ Military, Sport to be pinned in [something] 被围困在某处 bèi wéikùn zài mǒu chù PHRASAL VERBS pin back transitive verb[pin something back, pin back something] 夹住 jiāzhù ‹hair›to pin one's ears back figurative 聆听 pin down 
+A.  [pin something down, pin down something] transitive verb 
 ① (hold in place with pins) 固定住 gùdìng zhù ‹map, cloth, rug›
 ② (define) 确切说明 quèqiè shuōmíng ‹concept, truth, difference›I can't quite pin down his exact meaning 我说不太清楚他到底是什么意思 
 B.  [pin somebody down, pin down somebody] transitive verb 

@@ -1,6 +1,7 @@
 auxiliary 
 BrE ɔːɡˈzɪlɪəri, ɒɡˈzɪlɪəri, AmE ɔɡˈzɪljəri, ɔɡˈzɪl(ə)ri 
-A. adjective 辅助的 fǔzhù de an auxiliary generator 备用发电机 
+
+A.  adjective 辅助的 fǔzhù de an auxiliary generator 备用发电机 
 B.  noun 
 ① (person) 辅助者 fǔzhùzhě ; (thing) 辅助物 fǔzhùwù a medical auxiliary 医疗辅助员 
 ② Linguistics 助动词 zhùdòngcí 

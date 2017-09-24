@@ -1,6 +1,7 @@
 cast 
 BrE kɑːst, AmE kæst 
-A. transitive verb(past tense, past participle cast) 
+
+A.  transitive verb(past tense, past participle cast) 
 ① Cinema, Theatre (select for role) 选派…扮演角色 xuǎnpài… bànyǎn juésè to cast [somebody] as [something]; 选派某人扮演某角色 she was cast in the part or role of Ophelia 她给选中扮演奥菲莉亚这个角色 
 ② Cinema, Theatre (assign parts in) 为…选派演员 wèi… xuǎnpài yǎnyuán it's a very difficult play to cast 这部戏的演员很难选 
 ③ (describe) 描述 miáoshù ‹person›he cast himself as the innocent victim 他把自己说成是无辜的受害者 somebody is always cast in the role of scapegoat 总是有人会当替罪羊的 
@@ -25,19 +26,22 @@ C.  noun
 ⑤ (throw) 扔 rēng (of dice) 掷 zhì (of net) 撒 sǎ (of fishing line) 抛 pāo 
 ⑥ (produced by worm) 排泄物 páixièwù PHRASAL VERBS cast about for, cast around for transitive verb [cast about or around for something] 努力寻找 nǔlì xúnzhǎo ‹solution, excuse, method, inspiration›cast aside transitive verb[cast aside somebody/something, cast somebody/something aside] 
 ① (throw aside) 把…扔到一边 bǎ… rēngdào yībiān he cast her aside roughly and ran out 他粗鲁地推开她，跑了出去 
-② (reject) 抛弃 pāoqì ‹inhibitions, caution, person›; 消除 xiāochú ‹anxieties, doubts›he cast aside this suggestion 他对这个建议置之不理 cast away A. [cast somebody away] transitive verb Nautical 使…离船流落 shǐ… lí chuán liúluò to be cast away on a desert island; 流落荒岛 
+② (reject) 抛弃 pāoqì ‹inhibitions, caution, person›; 消除 xiāochú ‹anxieties, doubts›he cast aside this suggestion 他对这个建议置之不理 cast away 
+A.  [cast somebody away] transitive verb Nautical 使…离船流落 shǐ… lí chuán liúluò to be cast away on a desert island; 流落荒岛 
 B.  [cast away something, cast something away] transitive verbliterary 
 ① (throw away) 扔掉 rēngdiào 
 ② (reject) 抛弃 pāoqì ‹cares, inhibitions›she cast away the unwelcome thought 她打消了那个令人不快的念头 cast down transitive verb[cast down somebody/something, cast somebody/something down] 
 ① literary (throw down) 扔下 rēngxia 
 ② (direct downwards) 垂下 chuíxia ‹eyes, gaze›
-③ to be cast down literary (be depressed) 沮丧 jǔsàng cast off A. intransitive verb 
+③ to be cast down literary (be depressed) 沮丧 jǔsàng cast off 
+A.  intransitive verb 
 ① Nautical 解船缆 jiěchuánlǎn 
 ② (in knitting) 收针 shōuzhēn 
 B.  [cast off somebody/something, cast somebody/something off] transitive verb 
 ① (discard, get rid of) 摆脱 bǎituō ‹oppression›; 抛弃 pāoqì ‹person›the town is still trying to cast off its dull image 这座城镇仍在努力改变其单调的形象 
 ② (remove) 迅速脱下 xùnsù tuōxia ‹garment›
-③ (in knitting) 收 shōu ‹stitch›; 给…收针 gěi… shōuzhēn ‹row, sleeve›cast on A. [cast on something] transitive verb 起 qǐ ‹stitch›; 给…起针 gěi… qǐzhēn ‹row, sleeve›
+③ (in knitting) 收 shōu ‹stitch›; 给…收针 gěi… shōuzhēn ‹row, sleeve›cast on 
+A.  [cast on something] transitive verb 起 qǐ ‹stitch›; 给…起针 gěi… qǐzhēn ‹row, sleeve›
 B.  intransitive verb 起针 qǐzhēn cast out transitive verb[cast out somebody/something, cast somebody/something out] literary 
 ① (force to leave) 赶走 gǎnzǒu he claimed to have the power to cast out demons 他声称有驱魔的法力 
 ② (get rid of) 去除 qùchú ‹emotion, evil›cast up transitive verb[cast up something, cast something up] 

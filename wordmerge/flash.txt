@@ -1,6 +1,7 @@
 flash 
 BrE flaʃ, AmE flæʃ 
-A. noun 
+
+A.  noun 
 ① Countable(sudden burst of light or flame) 闪光 shǎnguāng a flash of [something]; 某物的闪光 a flash of lightning 一道闪电 a flash of colour 一抹亮色 in or like a flash figurative 瞬间 quick as a flash 飞快 to be a flash in the pan 昙花一现 
 ② Countablefigurative (sudden idea, feeling) 闪现 shǎnxiàn a flash of [something]; 某物的闪现 a flash of merriment/laughter 突然的一阵欢喜/笑声 a flash of inspiration 灵感的闪现 a flash of understanding 顿悟 in a flash of intuition, she realized that … 她突然有个直觉，认为… it came to him in a flash that … 他突然想到… 
 ③ Uncountable and countablePhotography 闪光灯 shǎnguāngdēng with automatic flash 备有自动闪光灯 a built-in flash 内置闪光灯 
@@ -24,12 +25,14 @@ C.  transitive verb
 ⑦ colloquial (expose oneself to) 对…露阴 duì… lù yīn 
 D.  adjectiveespecially BrE colloquial 
 ① (fancy) 华丽的 huálì de ‹car›; 奢华的 shēhuá de ‹hotel›
-② (ostentatiously rich) 炫富的 xuàn fù de ‹person›he's so flash always talking about his holidays in Barbados 他非常爱炫富，总是谈论他在巴巴多斯岛度假的事 PHRASAL VERBS flash about, flash around transitive verb[flash something about] colloquial 到处炫耀 dàochù xuànyào ‹jewellery, money›flash back A. intransitive verb 
+② (ostentatiously rich) 炫富的 xuàn fù de ‹person›he's so flash always talking about his holidays in Barbados 他非常爱炫富，总是谈论他在巴巴多斯岛度假的事 PHRASAL VERBS flash about, flash around transitive verb[flash something about] colloquial 到处炫耀 dàochù xuànyào ‹jewellery, money›flash back 
+A.  intransitive verb 
 ① (return) «mind, thoughts» 突然浮现 tūrán fúxiàn to flash back to [something]; 回想起某事物 
 ② Cinema, Television «film, scene» 闪回 shǎnhuí 
 B.  transitive verb[flash back something, flash something back] 
 ① (send back) 闪现 shǎnxiàn ‹message, image, news›
-② colloquial (say immediately) 立刻回答 lìkè huídá flash by, flash past intransitive verb «person, animal, vehicle» 飞奔而过 fēibēn ér guò ; «landscape» 掠过 lüèguo ; «time» 飞逝 fēishì the hours flashed by 时间飞逝 flash up A. intransitive verb «news, message, image» 闪现 shǎnxiàn 
+② colloquial (say immediately) 立刻回答 lìkè huídá flash by, flash past intransitive verb «person, animal, vehicle» 飞奔而过 fēibēn ér guò ; «landscape» 掠过 lüèguo ; «time» 飞逝 fēishì the hours flashed by 时间飞逝 flash up 
+A.  intransitive verb «news, message, image» 闪现 shǎnxiàn 
 B.  transitive verb[flash something up, flash up something] 使…闪现 shǐ… shǎnxiàn ‹news, message, image›
 flash 
 ▶verb

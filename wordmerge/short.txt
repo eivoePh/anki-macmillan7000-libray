@@ -1,6 +1,7 @@
 short 
 BrE ʃɔːt, AmE ʃɔrt 
-A. adjective 
+
+A.  adjective 
 ① (not long in length) 短的 duǎn de a short dress 短裙 to cut [something] short 把某物剪短 a short distance away or off 不远的距离 
 ② (below average height) 矮的 ǎi de he's rather short in stature 他个头很矮 short and stocky 矮壮的 
 ③ (not lasting long) 短暂的 duǎnzàn de we met in the street and had a short conversation 我们在街上碰面后聊了几句 he gave a short speech of welcome 他发表了简短的欢迎讲话 he gave a short cry of delight 他惊喜地叫了一声 she gave a short gasp of pain 她疼得倒吸了一口气 to have a short memory 健忘 a short time or while ago 刚才 a short course 短期课程 in short order 迅速地 to make short work of [somebody]/[something] 干净利落地打败某人/解决某事 short and sweet 简明扼要的 in two short months the political climate had changed completely 短短两个月后政治气候完全变了 
@@ -21,7 +22,8 @@ B.  adverb
 ⑤ (in cricket) to bowl short 投球不够远 tóuqiú bù gòu yuǎn 
 ⑥ Finance 空头交易地 kōngtóu jiāoyì de to sell short 卖空 màikōng 
 C.  noun 
-① colloquial = short circuit A. 
+① colloquial = short circuit 
+A.  
 ② (film) [在正片之前放映的] 电影短片 diànyǐng duǎnpiàn 
 ③ (alcoholic drink) 少量烈酒 shǎoliàng lièjiǔ 
 D.  intransitive verb colloquial = short circuit 

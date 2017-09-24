@@ -1,6 +1,7 @@
 bite 
 BrE bʌɪt, AmE baɪt 
-A. transitive verb(past tense bit, past participle bitten) 
+
+A.  transitive verb(past tense bit, past participle bitten) 
 ① (cut into with teeth) 咬 yǎo to bite [something] in two 把某物咬成两段 to bite one's nails 咬指甲 to bite the dust figurative colloquial 死 to bite the hand that feeds one figurative 恩将仇报 once bitten, twice shy proverb 一次被咬，下次胆小 
 ② (wound) 咬伤 yǎoshāng to be bitten by the dancing bug figurative colloquial 迷上跳舞 
 B.  intransitive verb(past tense bit, past participle bitten) 
@@ -12,7 +13,8 @@ C.  noun
 ② Countablecolloquial (snack) 少量食物 shǎoliàng shíwù to have or grab a quick bite (to eat) 匆匆吃点东西 
 ③ Uncountablefigurative (impact, keen edge) (of wind, cold) 刺骨 cìgǔ (of food) 辛辣 xīnlà (of argument, style) 尖锐 jiānruì his speech has bite 他讲话锋芒毕露 
 ④ Countable(from insect) 叮痕 dīnghén (from dog, snake) 咬伤 yǎoshāng [somebody's] bark is worse than their bite figurative 某人是刀子嘴豆腐心 
-⑤ CountableFishing 吞饵 tūn ěr to have a bite 咬钩 the house is up for sale, but we haven't had any bites yet 房子已经上市，但是我们还没有招徕到任何买主 PHRASAL VERBS bite back A. transitive verb [bite back something], [bite something back] 把…咽下去 bǎ… yàn xiaqu ‹remark›
+⑤ CountableFishing 吞饵 tūn ěr to have a bite 咬钩 the house is up for sale, but we haven't had any bites yet 房子已经上市，但是我们还没有招徕到任何买主 PHRASAL VERBS bite back 
+A.  transitive verb [bite back something], [bite something back] 把…咽下去 bǎ… yàn xiaqu ‹remark›
 B.  intransitive verb 反击 fǎnjī bite into transitive verb[bite into something] 
 ① literal (use teeth on) 咬进 yǎojìn 
 ② (corrode) 腐蚀 fǔshí 

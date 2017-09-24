@@ -1,6 +1,7 @@
 slip 
 BrE slɪp, AmE slɪp 
-A. (present participle etc. -pp-) intransitive verb 
+
+A.  (present participle etc. -pp-) intransitive verb 
 ① (lose footing) «person, animal» 滑倒 huádǎo ; «foot, vehicle» 打滑 dǎhuá to slip in/on [something]; 在某物中/上滑倒 to slip on a banana skin 踩到香蕉皮滑倒 figurative (difficulty) 遭遇挫败 zāoyù cuòbài (embarrassment) 遭遇尴尬 zāoyù gāngà to slip down [something]; 滑下 ‹slope, stairs›
 ② (slide accidentally) 滑动 huádòng the knife slipped and cut my cheek 剃刀一滑割伤了我的面颊 
 ③ (fail to grip) «clutch, brake» 没挂上 méi guàshang ; «rope, knot, catch» 松脱 sōngtuō to slip on [something] 在…上滑行 ‹rail, surface›to slip off the hook «rope» 从钩子上掉下来 to let one's control slip 失控 
@@ -36,11 +37,14 @@ D.  slips noun plural (in cricket) the slips 防守位置 fángshǒu wèizhi to 
 ① (return quietly) 溜回去 liū huiqu (return briefly) 回去一会儿 huíqu yīhuìr to slip back (to the house) and do [something] (quietly) 溜回（家）去做某事 (briefly) 回（家）去一会儿做某事 huí(jiā)qù yīhuìr zuò mǒu shì to slip back into port 悄然回港 
 ② Finance «shares» 贬值 biǎnzhí ; «prices» 降低 jiàngdī slip by intransitive verb «time, life» 流逝 liúshì ; «opportunity» 溜掉 liūdiào slip down intransitive verb 
 ① (fall) «person» 滑倒 huádǎo ; «socks, hat» 往下滑 wǎng xià huá 
-② (go down) 喝下 hēxia this wine slips down well 这葡萄酒真好喝 slip in A. intransitive verb 溜进 liūjìn a few errors slipped in 不经意出了几个错 
-B.  transitive verb[slip something in, slip in something] 放入 fàngrù ‹object›; 把…伸进去 bǎ… shēn jìnqu ‹hand›; figurative 插入 chārù ‹remark, question›to slip in the clutch 挂挡 slip off A. intransitive verb 
+② (go down) 喝下 hēxia this wine slips down well 这葡萄酒真好喝 slip in 
+A.  intransitive verb 溜进 liūjìn a few errors slipped in 不经意出了几个错 
+B.  transitive verb[slip something in, slip in something] 放入 fàngrù ‹object›; 把…伸进去 bǎ… shēn jìnqu ‹hand›; figurative 插入 chārù ‹remark, question›to slip in the clutch 挂挡 slip off 
+A.  intransitive verb 
 ① (come off) «lid, object» 滑落 huáluò 
 ② (leave quietly) 溜走 liūzǒu ; (leave briefly) 离开一会儿 líkāi yīhuìr 
-B.  transitive verb[slip something off, slip off something] 脱下 tuōxia ‹clothes, shoes›; 摘下 zhāixia ‹ring, gloves›slip on transitive verb[slip something on, slip on something] 穿上 chuānshang ‹clothes, shoes›; 戴上 dàishang ‹ring, gloves›slip out A. intransitive verb 
+B.  transitive verb[slip something off, slip off something] 脱下 tuōxia ‹clothes, shoes›; 摘下 zhāixia ‹ring, gloves›slip on transitive verb[slip something on, slip on something] 穿上 chuānshang ‹clothes, shoes›; 戴上 dàishang ‹ring, gloves›slip out 
+A.  intransitive verb 
 ① (leave quietly) 溜出去 liū chuqu ; (leave briefly) 出去一会儿 chūqu yīhuìr to slip out for a moment/for a newspaper 出去一会儿/买份报纸 
 ② (escape) «animal» 挣脱 zhèngtuō ; «object» 滑脱 huátuō ; figurative «words» 无意中说出 wúyì zhōng shuōchū the words slipped out before he … 他还未…，话就出口了 it (just) slipped out （就那么）说漏了 
 B.  transitive verb to slip out the clutch 松开离合器 sōngkāi líhéqì slip over intransitive verb 滑倒 huádǎo slip past intransitive verb = slip by slip through intransitive verb «error» 被忽略 bèi hūlüè slip up intransitive verb colloquial 弄错 nòngcuò to slip up on [something]; 弄错某事 

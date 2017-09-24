@@ -1,12 +1,15 @@
 cost 
 BrE kɒst, AmE kɔst 
-A. transitive verb(past tense, past participle cost) 
-① (be priced at) 价钱为 jiàqian wéi ‹amount›to cost [somebody] [something]; 花费某人某数量的费用 to cost [something] to do [something]; 花费某数量的费用做某事 the necklace will cost £50 to repair 修这条项链要花50英镑 it cost me £32 to get my hair cut 我理发花了32英镑 to cost money (not free) 要花钱 (expensive) 价钱不菲 it'll cost you colloquial 这东西贵得很 to cost an arm and a leg colloquial 要花一大笔钱 → pretty A. 
+
+A.  transitive verb(past tense, past participle cost) 
+① (be priced at) 价钱为 jiàqian wéi ‹amount›to cost [somebody] [something]; 花费某人某数量的费用 to cost [something] to do [something]; 花费某数量的费用做某事 the necklace will cost £50 to repair 修这条项链要花50英镑 it cost me £32 to get my hair cut 我理发花了32英镑 to cost money (not free) 要花钱 (expensive) 价钱不菲 it'll cost you colloquial 这东西贵得很 to cost an arm and a leg colloquial 要花一大笔钱 → pretty 
+A.  
 ② (cause loss of) 使失去 shǐ shīqù ‹life, job, love›; 使输掉 shǐ shūdiào ‹match, election›; 花费 huāfèi ‹time, effort›to cost [somebody] [something]; 使某人失去某物 politeness costs nothing 礼貌待人不会错 whatever it costs 无论付出多大代价 reckless driving could cost you your life 鲁莽驾驶会要了你的命 this mistake cost him his career 这个错误毁了他的事业 to cost ([somebody]) [something] to do [something]; （使某人）付出某代价做某事 
 ③ (past tense, past participle costed) Busn, Finance 估算…的成本 gūsuàn… de chéngběn ‹product›the project was costed at £100,000 这项工程的估算成本是10万英镑 
 B.  nounUncountable and countable
 ① (price) 价钱 jiàqian to estimate the cost at £30 估价为30英镑 the high cost of property 高昂的房价 
-② (expense) 费用 fèiyong ; figurative 代价 dàijià the cost of [something]/doing [something]; literal 某事物/做某事的花费 figurative 某事物/做某事的代价 mǒu shìwù/ zuò mǒu shì de dàijià the cost of repairs/insurance 维修费/保险费 at great cost to his parents 由他的父母承担高昂的费用 (to do [something]) at one's own cost 自己出钱（做某事） (to do [something]) at no extra cost 免除额外费用地（做某事） to count the cost of [something]/doing [something] literal 考虑某事/做某事的费用 figurative (suffer consequences) 尝到某事/做某事的苦头 chángdào mǒu shì/zuò mǒu shì de kǔtou (assess advisability) 考虑某事/做某事的风险 kǎolǜ mǒu shì/zuò mǒu shì de fēngxiǎn to know [something]/find [something] out to one's cost 吃了苦头之后才知道/发现某情况 he's a ruthless businessman, as I know to my cost 我吃了苦头后才知道他是个无情的商人 the cost in [something]; 在某方面的代价 the cost in human lives was great 付出的生命代价巨大 at great/little cost (to [somebody]/[something]) 以（对某人/某事物）极大/微不足道的代价 at all costs 不惜一切代价地 at any cost 无论如何 
+② (expense) 费用 fèiyong ; figurative 代价 dàijià the cost of [something]/doing [something]; literal 某事物/做某事的花费 figurative 某事物/做某事的代价 mǒu shìwù
+zuò mǒu shì de dàijià the cost of repairs/insurance 维修费/保险费 at great cost to his parents 由他的父母承担高昂的费用 (to do [something]) at one's own cost 自己出钱（做某事） (to do [something]) at no extra cost 免除额外费用地（做某事） to count the cost of [something]/doing [something] literal 考虑某事/做某事的费用 figurative (suffer consequences) 尝到某事/做某事的苦头 chángdào mǒu shì/zuò mǒu shì de kǔtou (assess advisability) 考虑某事/做某事的风险 kǎolǜ mǒu shì/zuò mǒu shì de fēngxiǎn to know [something]/find [something] out to one's cost 吃了苦头之后才知道/发现某情况 he's a ruthless businessman, as I know to my cost 我吃了苦头后才知道他是个无情的商人 the cost in [something]; 在某方面的代价 the cost in human lives was great 付出的生命代价巨大 at great/little cost (to [somebody]/[something]) 以（对某人/某事物）极大/微不足道的代价 at all costs 不惜一切代价地 at any cost 无论如何 
 ③ Busn, Finance 成本 chéngběn at cost 按成本价 to sell [something] at cost 以成本价销售某产品 cost analysis/control 成本分析/控制 
 C.  costs noun plural 
 ① Law (legal) costs 诉讼费用 sùsòngfèi yòng 

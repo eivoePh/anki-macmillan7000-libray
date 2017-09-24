@@ -1,6 +1,7 @@
 trim 
 BrE trɪm, AmE trɪm 
-A. transitive verb(present participle etc. -mm-) 
+
+A.  transitive verb(present participle etc. -mm-) 
 ① (cut) 修剪 xiūjiǎn ‹hair, nails, hedge, lawn›; 修 xiū ‹hem›to trim (the wick of) a lamp 剪灯花 to trim a plank of wood to size 把一块木料加工成要求的尺寸 
 ② (reduce) 削减 xuējiǎn ‹budget, expenditure, workforce›; 缩短 suōduǎn ‹text, speech›to trim [something] to the bone 把某物减少到最低限度 
 ③ (remove) 除去 chúqù ‹excess, amount, time›to trim [something] off or from [something]; 从某物中去除某物 to trim 5% off the budget 削减5％的预算 to trim six minutes off a speech 把讲话缩短6分钟 
@@ -18,7 +19,9 @@ C.  noun
 ⑥ UncountableAviation 配平 pèipíng 
 D.  adjective 
 ① (neat) 整洁的 zhěngjié de ‹person, appearance, ship›; 整齐的 zhěngqí de ‹hair›; 匀整的 yúnzhěng de ‹outline›to be neat and trim 干干净净 
-② (slim) 苗条的 miáotiao de ‹figure, body›; 纤细的 xiānxì de ‹waistline›PHRASAL VERBS trim away transitive verb = trim off trim down A. intransitive verb 减肥 jiǎnféi to trim down from 24 stone to 18 体重从24英石减到18英石 
+② (slim) 苗条的 miáotiao de ‹figure, body›; 纤细的 xiānxì de ‹waistline›PHRASAL VERBS trim away transitive verb = trim off trim down 
+A.  intransitive verb 减肥 jiǎnféi to trim down from 24 stone to
+18 体重从24英石减到18英石 
 B.  transitive verb[trim something down], [trim down something] 削减 xuējiǎn ‹budget, workforce, figure›; 降低 jiàngdī ‹estimate, ambitions›trim off transitive verb[trim off something], [trim something off] 修剪 xiūjiǎn ‹excess, hair, wick›to trim the fat off the meat 切掉肉上的肥膘 
 trim 
 ▶verb

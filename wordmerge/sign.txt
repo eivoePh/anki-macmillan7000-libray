@@ -1,6 +1,7 @@
 sign 
 BrE sʌɪn, AmE saɪn 
-A. noun 
+
+A.  noun 
 ① (symbolic mark) 符号 fúhào 
 ② (notice) (giving information) 公告 gōnggào (giving direction) 路标 lùbiāo (giving instruction, warning) 提示牌 tíshìpái (advertising sth.) 招牌 zhāopai follow the signs for the city centre 按照路标的指引去市中心 ‘open’/‘closed’sign 营业/关门告示牌 a pub/inn sign 酒馆/旅店招牌 
 ③ (gesture) 手势 shǒushì to give [somebody] a sign 向某人打手势 she nodded as a sign for us to sit down 她点头示意我们坐下 the sign of the cross Religion ［基督徒祈祷时的] 画十字 
@@ -18,18 +19,23 @@ C.  reflexive verb to sign oneself …; 在署名中把自己叫做 zài shǔmí
 D.  intransitive verb 
 ① (write one's signature) 签名 qiānmíng to sign for [something]; «recipient» 签收某物 
 ② (sign contract) «performer, player» 签约 qiānyuē to sign for or with [somebody]/[something]; 和某人/某机构签约 
-③ (use sign language) 打手语 dǎ shouyǔ PHRASAL VERBS sign away transitive verb[sign something away, sign away something] 签字放弃 qiānzì fàngqì ‹property, inheritance, rights›sign in A. intransitive verb «guest» 登记入住 dēngjì rùzhù 
-B.  transitive verb[sign somebody in, sign in somebody] 替…签到 tì… qiāndào ‹guest›sign off A. intransitive verb 
+③ (use sign language) 打手语 dǎ shouyǔ PHRASAL VERBS sign away transitive verb[sign something away, sign away something] 签字放弃 qiānzì fàngqì ‹property, inheritance, rights›sign in 
+A.  intransitive verb «guest» 登记入住 dēngjì rùzhù 
+B.  transitive verb[sign somebody in, sign in somebody] 替…签到 tì… qiāndào ‹guest›sign off 
+A.  intransitive verb 
 ① (at work) «employee» 辞职 cízhí 
 ② colloquial (end letter) 结束写信 jiéshù xiěxìn (end telephone call) 挂电话 guà diànhuà it's getting late, so I must sign off now 时间很晚了，我先写到这里吧 to sign off on [something]; 批准某事 
 ③ Radio, Television «broadcaster» 结束广播 jiéshù guǎngbō this is X signing off and wishing you goodnight 我是X，今天的节目到此结束，祝您晚安 
-B.  transitive verb [sign somebody off, sign off somebody] «doctor» 给…签病假条 gěi… qiān bìngjiàtiáo ‹patient›sign on A. intransitive verb 
+B.  transitive verb [sign somebody off, sign off somebody] «doctor» 给…签病假条 gěi… qiān bìngjiàtiáo ‹patient›sign on 
+A.  intransitive verb 
 ① (enrol) «applicant» 报名 bàomíng to sign on for [something]; 报名参加某活动 I've signed on for the French course 我报名上法语课了 to sign on with [something]; 报名加入某组织 
 ② BrE (register as unemployed) 登记失业 dēngjì shīyè 
-B.  transitive verb[sign somebody on, sign on somebody] «employer, club» 签约聘用 qiānyuē pìnyòng sign out A. intransitive verb (record one's departure) 登记离开 dēngjì líkāi you must sign out when you leave the hotel 离开酒店时必须登记 to sign out of; 登记离开 dēngjì líkāi ‹hotel›
+B.  transitive verb[sign somebody on, sign on somebody] «employer, club» 签约聘用 qiānyuē pìnyòng sign out 
+A.  intransitive verb (record one's departure) 登记离开 dēngjì líkāi you must sign out when you leave the hotel 离开酒店时必须登记 to sign out of; 登记离开 dēngjì líkāi ‹hotel›
 B.  transitive verb[sign somebody/something out, sign out somebody/something] 
 ① (record departure of) 登记…外出 dēngjì… wàichū all students staying away overnight must be signed out by a member of staff 所有在外过夜的学生都必须经过工作人员登记 
-② (record borrowing of) 登记借 dēngjì jiè ‹library book›sign over transitive verb[sign something over, sign over something] 签字转让 qiānzì zhuǎnràng ‹property, estate›to sign [something] over to [somebody]; 签字把某物转让给某人 sign up A. intransitive verb 
+② (record borrowing of) 登记借 dēngjì jiè ‹library book›sign over transitive verb[sign something over, sign over something] 签字转让 qiānzì zhuǎnràng ‹property, estate›to sign [something] over to [somebody]; 签字把某物转让给某人 sign up 
+A.  intransitive verb 
 ① Military «recruit» 报名从军 bàomíng cóngjūn 
 ② (conclude deal) «person, company» 签约 qiānyuē to sign up with [somebody]/[something]; 和某人/某机构签约 
 B.  transitive verb[sign somebody up, sign up somebody] 与…签约 yǔ… qiānyuē ‹performer, worker›the club has signed up a new goalkeeper 该俱乐部签下了一名新守门员 to sign [somebody] up for [something]; 为…签约某人 ‹club, show, job›

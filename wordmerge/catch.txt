@@ -1,6 +1,7 @@
 catch 
 BrE katʃ, AmE kætʃ, kɛtʃ 
-A. transitive verb(past tense, past participle caught) 
+
+A.  transitive verb(past tense, past participle caught) 
 ① (stop and hold) 接住 jiēzhù ‹ball›
 ② (capture) 捕获 bǔhuò how many fish did you catch? 你捕到多少鱼？ they have caught the burglars 他们捉住了几个窃贼 
 ③ (seize) 抓住 zhuāzhù he caught my arm/caught me by the arm 他抓住了我的胳膊 to catch [somebody] by the throat 掐住某人的脖子 
@@ -35,7 +36,8 @@ C.  noun
 ① (become fashionable) 流行起来 liúxíng qilai to catch on with [somebody]; 受到某人的欢迎 
 ② colloquial (start to understand) 开始理解 kāishǐ lǐjiě to catch on to [something]; 开始理解某事物 catch out transitive verb[catch somebody out] BrE 
 ① (trick into making mistake) 诱使…犯错误 yòushǐ… fàn cuòwù she tried to catch him out with a trick question 她试图用一个刁钻的问题难住他 he was caught out by their disguise 他被他们的伪装欺骗了 
-② (take by surprise) 使突陷困境 shǐ tū xiàn kùnjìng they were caught out by the sudden rise in interest rates 利率骤升让他们措手不及 catch up A. intransitive verb 
+② (take by surprise) 使突陷困境 shǐ tū xiàn kùnjìng they were caught out by the sudden rise in interest rates 利率骤升让他们措手不及 catch up 
+A.  intransitive verb 
 ① (reach by going faster, attain same level) 赶上 gǎnshang to catch up with [somebody]; 赶上某人 to catch up with or on [somebody]/[something] colloquial 赶上 gǎnshang ‹person, vehicle›
 ② (making up for neglect) 补做 bǔzuò he's got a lot of work to catch up on 他有很多工作要补上 you must catch up on your sleep 你一定要补觉 
 ③ (get up to date) 了解情况 liǎojiě qíngkuàng to catch up on or with [something]; 了解 ‹news, gossip›

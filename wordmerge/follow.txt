@@ -1,6 +1,7 @@
 follow 
 BrE ˈfɒləʊ, AmE ˈfɑloʊ 
-A. transitive verb 
+
+A.  transitive verb 
 ① (move after) 跟随 gēnsuí ‹person, vehicle›the dog followed me all the way home 那只狗一路跟着我回家 his bodyguards follow him wherever he goes 他到哪儿，保镖就跟到哪儿 follow me 跟我来 to follow [somebody] in/out 跟着某人进去/出来 they'll follow us on a later flight 他们会乘较晚的航班跟上我们 
 ② (for surveillance) 跟踪 gēnzōng ‹person, vehicle›I think I'm being followed 我想有人在跟踪我 follow that car! 跟着那辆车！ to have [somebody] followed 派人跟踪某人 
 ③ (do the same as) 追随 zhuīsuí ‹person›he followed his mother to Oxford University 他走母亲走过的路，也进了牛津大学 
@@ -24,8 +25,10 @@ B.  intransitive verb
 ⑤ (understand) 理解 lǐjiě PHRASAL VERBS follow about, follow around transitive verb[follow somebody/something about] 到处跟随 dàochù gēnsuí he's been following me about all day 他整天跟在我后面 follow on intransitive verb 
 ① (come later) 随后到 suíhòu dào 
 ② (continue) «lecture, programme, person» 继续下去 jìxù xiaqu to follow on from [something]; 从某事物继续下去 
-③ (in cricket) «team» 继续击球 jìxù jīqiú follow out transitive verb[follow something out, follow out something] AmE 执行 zhíxíng ‹order, instruction, rule›when I give advice I expect you to follow it out 我提建议是希望你能听从 follow through A. intransitive verb «golfer, tennis player, footballer» 做随球动作 zuò suíqiú dòngzuò 
-B.  transitive verb [follow something through, follow through something] 坚持完成 jiānchí wánchéng ‹project, plan, experiment›; 施行 shīxíng ‹threat›; 坚持 jiānchí ‹idea, argument›follow up A. transitive verb[follow something up, follow up something] 
+③ (in cricket) «team» 继续击球 jìxù jīqiú follow out transitive verb[follow something out, follow out something] AmE 执行 zhíxíng ‹order, instruction, rule›when I give advice I expect you to follow it out 我提建议是希望你能听从 follow through 
+A.  intransitive verb «golfer, tennis player, footballer» 做随球动作 zuò suíqiú dòngzuò 
+B.  transitive verb [follow something through, follow through something] 坚持完成 jiānchí wánchéng ‹project, plan, experiment›; 施行 shīxíng ‹threat›; 坚持 jiānchí ‹idea, argument›follow up 
+A.  transitive verb[follow something up, follow up something] 
 ① (reinforce, confirm) 加强 jiāqiáng ‹effort, treatment›; 对…采取进一步行动 duì… cǎiqǔ jìnyībù xíngdòng ‹visit, programme›; 巩固 gǒnggù ‹success, achievement, advantage, lesson›to follow [something] up with [something]; 以某事物进一步巩固 
 ② (act on, pursue) 跟进 gēnjìn ‹advertisement, article, idea›; 追查 zhuīchá ‹clue, lead, rumour›I followed up her tip about investments 我听从了她的投资建议 
 B.  intransitive verb 继续 jìxù to follow up with [something]; 进一步做某事 

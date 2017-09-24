@@ -1,6 +1,7 @@
 range 
 BrE reɪn(d)ʒ, AmE reɪndʒ 
-A. noun 
+
+A.  noun 
 ① Countable(variety) 种类 zhǒnglèi a wide range of opinions/facilities 各种各样的看法/设施 a limited range of colours 有限的色彩 a wide range of interests 广泛的兴趣 a full range of activities 全套的活动 
 ② CountableBusn (of products, models, designs) 系列 xìliè the latest model in the range 本系列中的最新型号 to launch a new product range 把新的产品系列投入市场 a new range of hair products 新的洗护发产品系列 at the upper/lower end of a range 在高/低档次上 at the top/bottom of the range 在最高/最低档次上 
 ③ Countable(of prices, salaries) 幅度 fúdù (of temperatures, sizes, ages) 范围 fànwéi (of abilities) 水平 shuǐpíng (an increase) in the 30-40% range 在30%－40%之间（的增长） the dress is available in a range of sizes 这种连衣裙有各种尺寸 salary/price range 工资/价格幅度 the students are in the 17-20 age range 这些学生的年龄在17至20岁之间 it’s difficult to find a house in our price range 很难找到我们买得起的房子 ability range 能力水平 the dollar is within its old range 美元的波动又回到了从前的范围 
@@ -27,7 +28,8 @@ C.  reflexive verb
 ② (adopt stance) to range oneself 采取某种姿态 cǎiqǔ mǒu zhǒng zītài to range oneself against [somebody]/[something]; 反对某人/某事物 fǎnduì mǒu rén/mǒu shìwù to range oneself with [somebody]; 同某人站在一边 tóng mǒu rén zhàn zài yībiān 
 D.  intransitive verb 
 ① (extend) 延伸 yánshēn to range from [something] to [something]; «cost, increase, temperature, age» 范围在某物与某物之间 prices range from £6 to £17 价格范围在6至17英镑之间 
-② (vary) [在特定范围内] 变动 biàndòng to range between [something] and [something]; «price, cost, increase, temperature» 在某物与某物之间变动 students' ages range between 16 and 60 学生的年龄从16岁至60岁不等 
+② (vary) [在特定范围内] 变动 biàndòng to range between [something] and [something]; «price, cost, increase, temperature» 在某物与某物之间变动 students' ages range between
+16 and 60 学生的年龄从16岁至60岁不等 
 ③ (cover) 包括 bāokuò to range from [something] to [something]; «problems, topics, suggestions, opinions» 涉及从某物到某物的内容 
 ④ (move around) 漫游 mànyóu to range far and wide 四处游历 to range over the plains; 在平原上漫游 PHRASAL VERB range over transitive verb[range over something] 
 ① (include) «conversation, article, lecture» 涉及 shèjí 

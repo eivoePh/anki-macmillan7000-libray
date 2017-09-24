@@ -1,6 +1,7 @@
 stretch 
 BrE strɛtʃ, AmE strɛtʃ 
-A. transitive verb 
+
+A.  transitive verb 
 ① (make bigger) 撑大 chēngdà ‹shoe, garment›; 拉长 lācháng ‹spring, rubber, dough›don't hang your woollens out on the line or you'll stretch them 不要把羊毛衫挂在绳子上，否则会把它撑大的 
 ② (pull tight) 拉紧 lājǐn ‹rope, cord, bowstring, elastic›; 绷紧 bēngjǐn ‹canvas, tarpaulin›; 铺开 pūkāi ‹net, fabric›to stretch [something] across [something]; 将某物在某物上铺开 to stretch [something] on or over [something]; 把某物绷紧到某物上 to stretch [something] tight 拉紧某物 
 ③ (straighten) «person, animal» 舒展 shūzhǎn ‹limb, neck›to stretch one's legs colloquial (go for walk) 散散步 the bird stretched its wings 这只鸟张开了翅膀 to stretch one's wings figurative 进行新的尝试 
@@ -31,7 +32,8 @@ D.  noun
 ⑦ Uncountable(elasticity) 弹性 tánxìng stretch material 弹性材料 a pair of stretch jeans 一条弹力牛仔裤 
 ⑧ Countableusually singular especially AmE (straight) 终点直道 zhōngdiǎn zhídào the home or finishing or final stretch 终点直道 zhōngdiǎn zhídào figurative 最后阶段 zuìhòu jiēduàn the campaign has entered its final stretch 竞选进入了最后冲刺阶段 to be on the home or finishing or final stretch 接近终点 figurative 将要完成 jiāngyào wánchéng PHRASAL VERBS stretch back intransitive verb 
 ① (in time) 回溯 huísù this tradition stretches back (for) centuries 这个传统可以回溯到几个世纪前 to stretch back to [somebody]/[something]; 回溯到某人/某事物 
-② (in space) 往后延伸 wǎng hòu yánshēn to stretch back to [something]; 向后延伸至某物 the traffic jam stretches back to the motorway 交通拥堵的车流到了高速公路 stretch out A. intransitive verb 
+② (in space) 往后延伸 wǎng hòu yánshēn to stretch back to [something]; 向后延伸至某物 the traffic jam stretches back to the motorway 交通拥堵的车流到了高速公路 stretch out 
+A.  intransitive verb 
 ① (lie down) 躺下 tǎngxia to stretch out on [something]/in front of [something]; 躺在某物上/在某物的前面 
 ② (continue in space) 延伸 yánshēn fields and hills stretched out as far as the eye could see 田野和山峦向远方延伸至视野所及之处 the woods seem to stretch out to the horizon 森林似乎一直延伸到了地平线的尽头 
 ③ (continue in time) «life, future, days» 延续 yánxù the moment seemed to stretch out endlessly 那一刻似乎无休无止 

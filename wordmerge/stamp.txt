@@ -1,6 +1,7 @@
 stamp 
 BrE stamp, AmE stæmp 
-A. noun 
+
+A.  noun 
 ① (for postage) 邮票 yóupiào a 32p stamp 一枚面值32便士的邮票 a first-/second-class stamp 第一类/第二类邮件所贴的邮票 a book or booklet/sheet of stamps 一本/一版邮票 to put or stick a stamp on ([something]) （给某物）贴上邮票 to collect stamps 集邮 jíyóu 
 ② Busn (coupon) 赠券 zèngquàn 
 ③ (marking tool) (made of rubber) 橡皮图章 xiàngpí túzhāng (made of metal) 钢印 gāngyìn a (die) stamp (for coins) 冲模 
@@ -19,8 +20,10 @@ B.  transitive verb
 ⑦ figurative (identify) 表明 biǎomíng his denial stamped him as a liar 他加以否认表明他在撒谎 his clothes stamp him as a foreigner 他的衣着表明他是个外国人 
 C.  intransitive verb 
 ① (bring foot down) «person» 跺脚 duòjiǎo ; «horse» 用蹄子跺地 yòng tízi duò dì to stamp on [something]; 用力踩某物 figurative 压制 yāzhì ‹rebellion›you stamped on my foot! 你踩到我的脚了！ to stamp on the brakes 猛踩刹车 
-② (tread heavily) 重步走 zhòngbù zǒu don't stamp! 走路脚步别那么重！ PHRASAL VERBS stamp off A. transitive verb[stamp something off, stamp off something] 跺掉 duòdiào ‹mud, dirt›to stamp [something] off one's shoes 把某物从鞋子上跺掉 
-B.  intransitive verb 重步走开 zhòngbù zǒukāi to stamp off in anger 气冲冲地走开 stamp on transitive verb[stamp on something] 坚决压制 jiānjué yāzhì stamp out A. transitive verb[stamp something out, stamp out something] 
+② (tread heavily) 重步走 zhòngbù zǒu don't stamp! 走路脚步别那么重！ PHRASAL VERBS stamp off 
+A.  transitive verb[stamp something off, stamp off something] 跺掉 duòdiào ‹mud, dirt›to stamp [something] off one's shoes 把某物从鞋子上跺掉 
+B.  intransitive verb 重步走开 zhòngbù zǒukāi to stamp off in anger 气冲冲地走开 stamp on transitive verb[stamp on something] 坚决压制 jiānjué yāzhì stamp out 
+A.  transitive verb[stamp something out, stamp out something] 
 ① (beat out) 踩灭 cǎimiè ‹fire, embers›
 ② figurative (crush) 镇压 zhènyā ‹rebellion›; (wipe out) 消除 xiāochú ‹terrorism, crime›to stamp out tax evasion 打击逃税行为 to stamp out the disease 消灭这种疾病 
 ③ Technology 冲压 chòngyā to be stamped out from a strip of steel 用钢条冲压而成 

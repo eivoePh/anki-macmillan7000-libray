@@ -1,6 +1,7 @@
 hook 
 BrE hʊk, AmE hʊk 
-A. noun 
+
+A.  noun 
 ① (for clothes, picture) 挂钩 guàgōu by hook or by crook figurative colloquial 千方百计地 
 ② Fishing 鱼钩 yúgōu to fall for [something] hook, line, and sinker colloquial 完全被某事物欺骗 to be off the hook figurative 摆脱责任 to get/let [somebody] off the hook figurative 使/让某人摆脱责任 to get one's hooks into [somebody] figurative 使某人上钩 
 ③ (in sewing) 钩眼扣 gōuyǎnkòu 
@@ -19,9 +20,12 @@ B.  transitive verb
 C.  intransitive verb 
 ① (be fastened) 用钩固定 yòng gōu gùdìng to hook at the back «garment» 在背部用钩眼扣扣住 
 ② (be hung) 用钩挂 yòng gōu guà to hook over the roof ridge «ladder» 钩挂在屋脊上 
-③ (be bent) 弯成钩状 wānchéng gōuzhuàng to hook around [somebody's] neck «arm» 勾住某人的脖子 PHRASAL VERBS hook on A. intransitive verb «attachment, trailer» 钩住 gōuzhù 
-B.  transitive verb[hook something on, hook on something] 挂上 guàshang ‹trailer, lamp›hook together A. transitive verb[hook something together] 用钩连接 yòng gōu liánjiē ‹pieces, wagons›
-B.  intransitive verb «pieces, wagons» 用钩连接 yòng gōu liánjiē hook up A. intransitive verb 
+③ (be bent) 弯成钩状 wānchéng gōuzhuàng to hook around [somebody's] neck «arm» 勾住某人的脖子 PHRASAL VERBS hook on 
+A.  intransitive verb «attachment, trailer» 钩住 gōuzhù 
+B.  transitive verb[hook something on, hook on something] 挂上 guàshang ‹trailer, lamp›hook together 
+A.  transitive verb[hook something together] 用钩连接 yòng gōu liánjiē ‹pieces, wagons›
+B.  intransitive verb «pieces, wagons» 用钩连接 yòng gōu liánjiē hook up 
+A.  intransitive verb 
 ① (be fastened) «garment» 用搭扣扣住 yòng dākòu kòuzhù 
 ② to hook up with [somebody] figurative colloquial (meet up) 与某人碰头 (work together) 与某人搭档 yǔ mǒu rén dādàng 
 B.  transitive verb[hook up somebody/something, hook somebody/something up] 

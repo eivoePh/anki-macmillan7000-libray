@@ -1,6 +1,7 @@
 drain 
 BrE dreɪn, AmE dreɪn 
-A. noun 
+
+A.  noun 
 ① (sewer) 下水道 xiàshuǐdào (waste water pipe) 下水管 xiàshuǐguǎn (ditch) 排水沟 páishuǐgōu to go down the drain colloquial (be wasted) 被浪费掉 (be ruined) 完蛋 it's just money down the drain 钱白白地扔进水里 my plan for the summer holidays has just gone down the drain 我的暑假计划泡了汤 
 ② BrE (grating) 下水道格栅 xiàshuǐdào gézhà 
 ③ (burden, demand) 消耗 xiāohào a drain on [something]; 对某物的耗费 
@@ -16,7 +17,8 @@ C.  intransitive verb
 ① literal (flow away) «liquid» 流走 liúzǒu the blood or colour drained from her face 她脸色变得煞白 the life is draining out of him 他的生命渐渐枯竭 
 ② (become dry) 沥干 lìgān to leave [something] to drain 让某物滴干水 PHRASAL VERBS drain away intransitive verb 
 ① (flow away) «liquid» 慢慢流走 mànmàn liúzǒu 
-② figurative (fade, diminish) «hope, strength» 逐渐消失 zhújiàn xiāoshī her money drained away 她的钱慢慢花光了 drain off A. intransitive verb «liquid» 流走 liúzǒu 
+② figurative (fade, diminish) «hope, strength» 逐渐消失 zhújiàn xiāoshī her money drained away 她的钱慢慢花光了 drain off 
+A.  intransitive verb «liquid» 流走 liúzǒu 
 B.  transitive verb [drain something off], [drain off something] 使…流走 shǐ… liúzǒu ‹liquid›to drain off any excess fat 撇去多余的油脂 
 drain 
 ▶verb

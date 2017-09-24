@@ -1,6 +1,7 @@
 wash 
 BrE wɒʃ, AmE wɑʃ, wɔʃ 
-A. transitive verb 
+
+A.  transitive verb 
 ① (clean by hand) 给…洗澡 gěi… xǐzǎo ‹person, animal›; 洗 xǐ ‹face, hair, clothes›; 洗刷 xǐshuā ‹car, floor›the rain had washed the streets clean 雨把街道冲刷得一干二净 to wash one's hands of [somebody]/[something] 对…甩手不管 ‹person, matter›
 ② (clean by machine) 机洗 jīxǐ 
 ③ Zoology (clean with tongue) 舔 tiǎn ‹paws, fur›
@@ -29,7 +30,8 @@ D.  noun
 ⑥ Countable and uncountableArt (layer, coating) 薄涂层 báo túcéng 
 ⑦ UncountableArt (technique) 淡水彩画技巧 dànshuǐcǎihuà jìqiǎo 
 ⑧ CountableArt (picture) 淡水彩画 dànshuǐcǎihuà 
-⑨ Countable and uncountable(skin lotion) 洗液 xǐyè a gentle, foaming facial wash 一种温和的泡沫洁面乳 PHRASAL VERBS wash away A. transitive verb[wash something away], [wash away something] 
+⑨ Countable and uncountable(skin lotion) 洗液 xǐyè a gentle, foaming facial wash 一种温和的泡沫洁面乳 PHRASAL VERBS wash away 
+A.  transitive verb[wash something away], [wash away something] 
 ① (carry off) 将…冲垮 jiāng… chōngkuǎ ‹road, bridge›; 将…冲走 jiāng… chōngzǒu ‹debris›
 ② (erode) 冲蚀 chōngshí ‹cliff, bank›
 ③ (remove by cleaning) 洗掉 xǐdiào ‹dirt›
@@ -37,8 +39,10 @@ B.  intransitive verb
 ① (be carried off) «road, bridge» 被冲垮 bèi chōngkuǎ ; «debris» 被冲走 bèi chōngzǒu 
 ② (be eroded) «cliff, bank» 被冲蚀 bèi chōngshí wash down transitive verb[wash something down], [wash down something] 
 ① (clean) 冲洗 chōngxǐ ‹wall, deck›
-② (drink) (as accompaniment) 就着…喝 jiùzhe… hē ‹food›(as aid to swallowing) 用水吞服 yòng shuǐ tūnfú ‹medicine, pill›we washed down the hors d'oeuvres with a glass of white wine 我们吃完开胃小菜后喝了一杯白葡萄酒 wash off A. transitive verb[wash something off], [wash off something] 洗掉 xǐdiào ‹dirt, stain›that red wine is going to be hard to wash off 那块红葡萄酒污渍很难洗掉 
-B.  intransitive verb «dirt, stain» 被洗掉 bèi xǐdiào that stain will wash off easily 那污渍可以很容易洗掉 wash out A. transitive verb[wash something out], [wash out something] 
+② (drink) (as accompaniment) 就着…喝 jiùzhe… hē ‹food›(as aid to swallowing) 用水吞服 yòng shuǐ tūnfú ‹medicine, pill›we washed down the hors d'oeuvres with a glass of white wine 我们吃完开胃小菜后喝了一杯白葡萄酒 wash off 
+A.  transitive verb[wash something off], [wash off something] 洗掉 xǐdiào ‹dirt, stain›that red wine is going to be hard to wash off 那块红葡萄酒污渍很难洗掉 
+B.  intransitive verb «dirt, stain» 被洗掉 bèi xǐdiào that stain will wash off easily 那污渍可以很容易洗掉 wash out 
+A.  transitive verb[wash something out], [wash out something] 
 ① (clean inside of) 清洗…的内部 qīngxǐ… de nèibù ‹container›
 ② (remove by cleaning) 洗掉 xǐdiào ‹stain, dye›
 ③ (clean quickly) 洗一洗 xǐ yī xǐ ‹garment, paintbrush›
@@ -46,12 +50,14 @@ B.  intransitive verb «dirt, stain» 被洗掉 bèi xǐdiào that stain will wa
 ⑤ AmE colloquial (dismiss) 淘汰 táotài ‹trainee, student›
 B.  intransitive verb 
 ① (be removed by cleaning) «stain, dye» 被洗掉 bèi xǐdiào 
-② AmE colloquial (be dismissed) «trainee, student» 被淘汰 bèi táotài wash over A. [wash over something] transitive verb (flow over) «water, waves» 冲过 chōngguo ‹deck, bank›
+② AmE colloquial (be dismissed) «trainee, student» 被淘汰 bèi táotài wash over 
+A.  [wash over something] transitive verb (flow over) «water, waves» 冲过 chōngguo ‹deck, bank›
 B.  [wash over somebody] transitive verb 
 ① (affect) «guilt, pleasure» 涌上…的心头 yǒngshang… de xīntóu a great feeling of relief washed over me 我突然感到如释重负 waves of nausea washed over him 一阵阵恶心的感觉涌上他的心头 
 ② colloquial (not affect) «criticism, speech» 对…没有太大影响 duì… méiyǒu tài dà yǐngxiǎng wash through transitive verb 
 ① [wash something through], [wash through something] (clean quickly) 洗一洗 xǐ yī xǐ ‹garment, paintbrush›
-② [wash through somebody] (affect) «anger, relief» 涌上…的心头 yǒngshang… de xīntóu wash up A. intransitive verb 
+② [wash through somebody] (affect) «anger, relief» 涌上…的心头 yǒngshang… de xīntóu wash up 
+A.  intransitive verb 
 ① BrE (do dishes) 洗碗 xǐwǎn 
 ② (be carried on to shore) «debris» 被冲上岸 bèi chōngshang'àn an oil slick washed up on the beaches 浮油被冲上了海滩 
 ③ AmE (clean one's face and hands) 洗手洗脸 xǐ shǒu xǐ liǎn 

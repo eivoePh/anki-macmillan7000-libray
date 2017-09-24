@@ -1,6 +1,7 @@
 thin 
 BrE θɪn, AmE θɪn 
-A. adjective 
+
+A.  adjective 
 ① (slim, bony) 瘦的 shòu de ‹person›he's very thin in the face 他脸很瘦 a man with a long thin nose 长着瘦削高鼻子的男人 to be as thin as a rake 骨瘦如柴 
 ② (not thick) 细的 xì de ‹stripe, stick, cord›; 薄的 báo de ‹layer, paper, lips›a thin trickle 涓涓细流 (it's) the thin end of the wedge figurative （这是）冰山一角 
 ③ (watery) 稀的 xī de ‹liquid, gravy, soup, oil›thin blood 稀薄的血 a bowl of thin gruel 一碗稀粥 
@@ -13,8 +14,10 @@ B.  adverb colloquial 薄薄地 báobáo de to spread/cut [something] thin 薄�
 C.  transitive verb 
 ① (dilute) 稀释 xīshì ‹paint›; 使…变淡 shǐ… biàndàn ‹sauce, soup›
 ② (make less dense) 使…稀疏 shǐ… xīshū ‹plants, vegetation›
-D.  intransitive verb «fog, cloud» 变稀薄 biàn xībó ; «crowd» 变稀少 biàn xīshǎo ; «hair» 变稀疏 biàn xīshū PHRASAL VERBS thin down A. transitive verb[thin something down], [thin down something] 稀释 xīshì ‹paint›; 使…变淡 shǐ… biàndàn ‹sauce, soup›
-B.  intransitive verb «person» 消瘦 xiāoshòu thin out A. transitive verb[thin something out], [thin out something] 使…稀疏 shǐ… xīshū ‹seedlings, plants, population›
+D.  intransitive verb «fog, cloud» 变稀薄 biàn xībó ; «crowd» 变稀少 biàn xīshǎo ; «hair» 变稀疏 biàn xīshū PHRASAL VERBS thin down 
+A.  transitive verb[thin something down], [thin down something] 稀释 xīshì ‹paint›; 使…变淡 shǐ… biàndàn ‹sauce, soup›
+B.  intransitive verb «person» 消瘦 xiāoshòu thin out 
+A.  transitive verb[thin something out], [thin out something] 使…稀疏 shǐ… xīshū ‹seedlings, plants, population›
 B.  intransitive verb «fog, crowd» 散开 sànkāi ; «traffic» 变稀少 biàn xīshǎo 
 thin 
 ▶adjective

@@ -1,6 +1,7 @@
 integral 
 AmE ˈɪn(t)əɡrəl 
-A. adjective 
+
+A.  adjective 
 ① (essential) 必需的 bìxū de to be an integral part of [something]; 是某事物必不可少的一部分 to be integral to [something]; 对某事物是不可或缺的 
 ② (whole) 完整的 wánzhěng de ‹system›an integral design 整体设计 
 ③ (built-in) 内置的 nèi zhì de ‹power source, component, motor›

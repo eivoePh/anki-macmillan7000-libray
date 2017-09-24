@@ -1,7 +1,9 @@
 refer 
-BrE rɪˈfəː, AmE rəˈfər/ (present participle etc. -rr-) transitive verb 退回 tuìhuí the cheque has been referred 支票遭拒付 PHRASAL VERBS refer back transitive verb 
+BrE rɪˈfəː, AmE rəˈfər
+(present participle etc. -rr-) transitive verb 退回 tuìhuí the cheque has been referred 支票遭拒付 PHRASAL VERBS refer back transitive verb 
 ① to refer back to [somebody]/[something] (mention) 提起某人/某事物 tíqǐ mǒu rén/mǒu shìwù 
-② to refer [something] back to [somebody]/[something] (send back) 将…发回至某人/某处 jiāng… fāhuí zhì mǒu rén/mǒu chù ‹matter, decision, question›refer to A. [refer to somebody/something] transitive verb 
+② to refer [something] back to [somebody]/[something] (send back) 将…发回至某人/某处 jiāng… fāhuí zhì mǒu rén/mǒu chù ‹matter, decision, question›refer to 
+A.  [refer to somebody/something] transitive verb 
 ① (allude to, talk about) 提及 tíjí I wasn't referring to you 我指的不是你 we shall not refer to it again 我们不会再提它了 what can she have been referring to? 她指的会是什么？ to refer to [somebody] by name 提到某人的姓名 referring to your letter of
 10 June formal 参阅您6月10日的来函 
 ② (call) 称呼 chēnghu to refer to [somebody]/[something] as [somebody]/[something]; 称呼某人/某事物为某人/某事物 this is what I refer/what is referred to as ‘art’ 这就是我所说的/所谓的“艺术” he's always referred to as ‘the secretary’ 大家总是叫他“秘书” don't refer to him as an idiot 别叫他白痴 
@@ -9,7 +11,8 @@ BrE rɪˈfəː, AmE rəˈfər/ (present participle etc. -rr-) transitive verb �
 ④ (signify) «term, name, number, date» 指的是 zhǐ de shì 
 ⑤ (consult) 参考 cānkǎo ‹notes, article›; 查阅 cháyuè ‹dictionary, original›; 请教 qǐngjiào ‹person›‘please refer to page 1’ “请参见第一页” she referred to the director 她请示了主管 ‘refer to drawer’ BrE “请与出票人接洽” ［支票背面戳记］
 ⑥ (pass on) to refer [something] to [somebody]/[something]; 将…提交某人/某处 jiāng… tíjiāo mǒu rén/mǒu chù ‹problem, enquiry›to refer a dispute to arbitration 将纠纷提交仲裁 jiāng jiūfēn tíjiāo zhòngcái we referred the matter to the committee for a decision 我们将问题提交给委员会裁定 
-B.  [refer somebody to something] transitive verb formal (direct attention of) 让…参考 ràng… cānkǎo the reader is referred to chapter four 读者请参阅第4章 may I refer you to my letter of 14 May? 请你看一下我5月14日的信好吗？ 
+B.  [refer somebody to something] transitive verb formal (direct attention of) 让…参考 ràng… cānkǎo the reader is referred to chapter four 读者请参阅第4章 may I refer you to my letter of
+14 May? 请你看一下我5月14日的信好吗？ 
 C.  [refer somebody to somebody/something] transitive verb 
 ① Administration 让…向…求助 ràng… xiàng… qiúzhù ‹person, department›she was referred to the enquiry office 有人指点她去问讯处询问 
 ② Medicine 让…转诊到…处 ràng… zhuǎnzhěn dào… chù ‹specialist, psychiatrist, hospital›she was referred to a clinical psychologist for counselling 她被转诊到临床心理学家处做心理咨询 

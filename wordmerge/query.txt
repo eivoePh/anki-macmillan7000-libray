@@ -1,6 +1,7 @@
 query 
 BrE ˈkwɪəri, AmE ˈkwɪri 
-A. noun 
+
+A.  noun 
 ① (request for information) 询问 xúnwèn (expression of doubt) 疑问 yíwèn to reply to or answer queries from customers 回答顾客提出的问题 readers' queries 读者的疑问 if you have a query about your insurance policy, contact our helpline 如果对保险单有疑问，请拨打我们的服务热线 
 ② Computing 查询指令 cháxún zhǐlìng 
 ③ (question mark) 问号 wènhào 

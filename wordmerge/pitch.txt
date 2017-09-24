@@ -1,7 +1,8 @@
 pitch
 1 
 BrE pɪtʃ, AmE pɪtʃ 
-A. noun 
+
+A.  noun 
 ① Countable BrE Sport (playing area) 场地 chǎngdì a football/rugby/hockey/cricket pitch 足球场/橄榄球场/曲棍球场/板球场 on/off the pitch 在场上/场下 
 ② Uncountable(sound quality of note or voice) 音高 yīngāo to rise in pitch 提高声调 a note of a higher/lower pitch 音调较高/较低的音符 
 ③ Countablesingular (degree of intensity) 强度 qiángdù (high or climactic degree) 顶点 dǐngdiǎn a pitch of tension/anticipation/terror 紧张/期待/恐惧的程度 to be at one's (highest) or at full pitch 达到极点 
@@ -29,7 +30,8 @@ C.  intransitive verb
 ② Nautical, Aviation «boat, aircraft» 颠簸 diānbǒ to pitch from side to side 左摇右晃 
 ③ (in baseball) 投球 tóuqiú to be in there pitching AmE colloquial 兴致勃勃地参与 
 ④ (in golf) 击下旋高球 jī xiàxuán gāoqiú 
-⑤ Busn 竞标 jìngbiāo to pitch for [something]; 投标竞争 ‹contract, business›PHRASAL VERBS pitch in A. intransitive verbcolloquial 
+⑤ Busn 竞标 jìngbiāo to pitch for [something]; 投标竞争 ‹contract, business›PHRASAL VERBS pitch in 
+A.  intransitive verbcolloquial 
 ① (join in to help) 热情参与 rèqíng cānyù to pitch in with [something]; 积极为某事提供帮助 
 ② (join in argument) 加入争斗 jiārù zhēngdòu 
 ③ (eat heartily) 开怀大吃 kāihuái dà chī 

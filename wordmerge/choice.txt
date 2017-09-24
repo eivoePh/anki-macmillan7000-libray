@@ -1,6 +1,7 @@
 choice 
 BrE tʃɔɪs, AmE tʃɔɪs 
-A. noun 
+
+A.  noun 
 ① Countable(selection) 选择 xuǎnzé to make a choice; 作出选择 
 ② Uncountable(right to choose) 选择权 xuǎnzéquán to have the choice 拥有选择权 to have a free choice 有自由选择的权力 
 ③ Countable(option) 可选物 kěxuǎnwù you have a choice of three colours 你可以在三种颜色中选择 to have no choice but to … 除了…外别无选择 

@@ -1,6 +1,7 @@
 proportion 
 BrE prəˈpɔːʃ(ə)n, AmE prəˈpɔrʃ(ə)n 
-A. noun 
+
+A.  noun 
 ① Countable(part, fraction) 部分 bùfen a proportion of [something]; 某事物的一部分 a large/small/certain proportion (of …) （…的）大部分/小部分/某一部分 in equal proportions 以相同的量 
 ② Uncountable(ratio) 比例 bǐlì the proportion of [something] to [something]; 某物对某物的比例 the proportion of men to women 男女比例 by a high proportion 高比例地 to be rewarded in due proportion 得到相应的奖励 in (direct/inverse) proportion to [something] 与某物成（正/反）比例地 ‹increase, decrease›to be in/out of proportion to [something]; 与某物成/不成比例 
 ③ Countable and uncountable(harmony, symmetry) 均衡 jūnhéng the classical proportions of the Parthenon 帕台农神庙的经典比例 to lack proportion 比例失调 in/out of proportion; 比例协调/失调地 to be out of proportion (with [something]); （与某物）比例失调 

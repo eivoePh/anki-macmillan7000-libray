@@ -1,6 +1,7 @@
 make 
 BrE meɪk, AmE meɪk 
-A. transitive verb(past tense, past participle made) 
+
+A.  transitive verb(past tense, past participle made) 
 ① (create from parts) 制造 zhìzào ‹paper, pottery, vehicle›; 做 zuò ‹food, garment›to make wine/tea/coffee 酿酒/沏茶/泡咖啡 to make [something] from [something]; 用某物制造某物 to make [something] (out) of [something]; 用某物做成某物 to make [something] for [somebody], to make [somebody] [something]; 为某人做某物 to be made by [somebody]/[something]; 由某人/某厂家生产 show them what you're made of! 让他们瞧瞧你的本事！ a man made for action 敏于行动的人 I'm not made for running 我不是天生就会跑步 they are made for each other 他们是天生的一对 the lift is only made to carry eight passengers 这台电梯的设计仅能载8位乘客 made in England 英国制造 to make [something] into [something]; 将某物做成某物 to make fruit into jam 把水果做成果酱 the book has been made into a film 这本书被改编成了电影 to be as clever/sharp as they make them or they're made colloquial 非常聪明/精明 
 ② (cause to exist) 形成 xíngchéng ‹hole, puddle›; 留下 liúxia ‹stain›made by [somebody]/[something]; 由某人/某物造成 the stone made a dent in the car 石块把汽车砸出了一个坑 to make a mark literal 留下污渍 figurative 留下影响 liúxia yǐngxiǎng to make room for [somebody] 给某人腾出地方 to make time for [something]/to do [something] 抽空做某事 
 ③ (establish, draw up) 制定 zhìdìng ‹rule, law, legislation›; 拟订 nǐdìng ‹will, plan, agreement›to make [something] for [somebody]/[something]; 为了某人/某事而设立某事 the two countries have made a non-aggression pact with each other 两国签订了互不侵犯条约 to make a list/a note of … 列出…的清单/记下… 
@@ -38,7 +39,8 @@ D.  noun
 ① (make off) 逃走 táozǒu to make away with [something]; 偷走某物 ‹valuables, property›
 ② to make away with [somebody] (kill) 杀死某人 shāsǐ mǒu rén to make away with oneself 自杀 zìshā make for transitive verb[make for somebody/something] 
 ① (head for) 向…移动 xiàng… yídòng to make for the summit/the open sea 向顶峰进发/驶向公海 
-② (help create) 促成 cùchéng ‹state, effect›those red roses make for a wonderful display against the yellow background 红玫瑰在黄色背景的衬托下显得非常好看 make off intransitive verb 匆忙离去 cōngmáng líqù they made off across the main road 他们连忙穿过主干道 make off with transitive verb[make off with something/somebody] 携…而逃 xié… ér táo thieves made off with our jewellery 盗贼偷走了我们的珠宝 make out A. transitive verb (claim, assert) 声称 shēngchēng to make out that …; 声称… he makes himself out to be richer than he really is 他夸口说自己很有钱，其实没那么富 
+② (help create) 促成 cùchéng ‹state, effect›those red roses make for a wonderful display against the yellow background 红玫瑰在黄色背景的衬托下显得非常好看 make off intransitive verb 匆忙离去 cōngmáng líqù they made off across the main road 他们连忙穿过主干道 make off with transitive verb[make off with something/somebody] 携…而逃 xié… ér táo thieves made off with our jewellery 盗贼偷走了我们的珠宝 make out 
+A.  transitive verb (claim, assert) 声称 shēngchēng to make out that …; 声称… he makes himself out to be richer than he really is 他夸口说自己很有钱，其实没那么富 
 B.  [make somebody/something out, make out somebody/something] transitive verb 
 ① (understand) 理解 lǐjiě I can't make him out 我搞不懂他 to make out if or whether … 搞清楚是否… 
 ② (manage to see, distinguish) 辨别出 biànbié chū ‹object, writing, sign, person›; 听出 tīngchū ‹sound›
@@ -49,7 +51,8 @@ D.  intransitive verbcolloquial
 ① (manage, get on) 应付 yìngfu how are you making out? 你过得怎样？ to make out with [somebody]; 与某人相处 how did you make out with his family? 你和他的家人相处得怎么样？ 
 ② AmE (have sex) 和某人性交 hé mǒu rén xìngjiāo did you make out with her? 你和她做过爱吗？ make over transitive verb 
 ① [make something/somebody over, make over something/somebody] (transform) 改造 gǎizào ‹building›; 改变 gǎibiàn ‹person, appearance›the garage has been made over into a study 车库被改成了书房 
-② [make something over, make over something] (transfer) 转让 zhuǎnràng ‹property›to make [something] over to [somebody]; 把某物移交给某人 make towards transitive verb[make towards something] 朝…走去 cháo… zǒuqù make up A. [make up something] transitive verb 
+② [make something over, make over something] (transfer) 转让 zhuǎnràng ‹property›to make [something] over to [somebody]; 把某物移交给某人 make towards transitive verb[make towards something] 朝…走去 cháo… zǒuqù make up 
+A.  [make up something] transitive verb 
 ① (constitute) 组成 zǔchéng to make up 10% of … 占…的10％ the human body is made up of cells 人体是由细胞构成的 
 ② (compensate for) 补偿 bǔcháng to make up [something] with [something]; 用某物补偿某物 to make up the shortfall with a loan 用贷款填补亏空 to make up [something] by doing [something]; 用做某事来弥补某事 he made up his lost wages by working overtime 他通过加班来补回损失的工资 to make it up to [somebody]; 补偿某人 I'll make it up to you 我会给你补偿的 
 ③ to make it up (with [somebody]) (after quarrel) （和某人）言归于好 (hé mǒu rén)yán guī yú hǎo have they made it up yet? 他们和解了吗？ tāmen héjiěle ma ？ 

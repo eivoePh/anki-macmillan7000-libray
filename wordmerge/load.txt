@@ -1,6 +1,7 @@
 load 
 BrE ləʊd, AmE loʊd 
-A. noun 
+
+A.  noun 
 ① (sth. carried) 负荷 fùhè a load of coal 一车煤 a lorry-/plane-load of [something] 一卡车/一飞机的某物 to have a heavy load to bear figurative 负担重 to shed its load «vehicle, vessel» 卸货 to take a load off [somebody's] mind; 使某人放心 
 ② Technology, Mechanics (weight) 装载量 zhuāngzàiliàng this beam has a load of
 10 tonnes 这根梁承重10吨 axle load 轴荷 do not exceed maximum load (sign on lift, crane, etc.) 请勿超载 

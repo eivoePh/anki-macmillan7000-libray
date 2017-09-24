@@ -1,8 +1,12 @@
-export A. /BrE ɪkˈspɔːt, ɛkˈspɔːt, ˈɛkspɔːt, AmE ɪkˈspɔrt, ˈɛkspɔrt/ transitive verb 
+export 
+A.  /BrE ɪkˈspɔːt, ɛkˈspɔːt, ˈɛkspɔːt, AmE ɪkˈspɔrt, ˈɛkspɔrt
+transitive verb 
 ① (sell abroad) «country, company» 出口 chūkǒu ‹goods, services›to export [something] to somewhere; 向某地出口某物 
 ② (spread) 传播 chuánbō ‹ideas, culture›
-B.  /BrE ɪkˈspɔːt, ɛkˈspɔːt, ˈɛkspɔːt, AmE ɪkˈspɔrt, ˈɛkspɔrt/ intransitive verb «country, firm» 出口 chūkǒu exporting countries; 出口国 
-C.  /BrE ˈɛkspɔːt, AmE ˈɛkˌspɔrt/ noun 
+B.  /BrE ɪkˈspɔːt, ɛkˈspɔːt, ˈɛkspɔːt, AmE ɪkˈspɔrt, ˈɛkspɔrt
+intransitive verb «country, firm» 出口 chūkǒu exporting countries; 出口国 
+C.  /BrE ˈɛkspɔːt, AmE ˈɛkˌspɔrt
+noun 
 ① Uncountable(exportation) (of goods, service) 出口 chūkǒu (of ideas, culture) 传播 chuánbō the export of [something]; 某物的出口 for export (only); （仅）供出口 
 ② Countable(commodity) 出口商品 chūkǒu shāngpǐn 
 export 

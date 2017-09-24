@@ -1,6 +1,7 @@
 tune 
 BrE tjuːn, AmE t(j)un 
-A. noun 
+
+A.  noun 
 ① Countable(melody) 曲调 qǔdiào to play/hum/sing/whistle a tune 弹/哼/唱/用口哨吹曲子 to compose or write a tune 谱曲 to sing/dance to the tune of [something] 随某个曲子唱歌/起舞 the troops left to the tune of The British Grenadiers 部队在《英国掷弹兵进行曲》的乐曲声中离开 to dance to [somebody's] tune figurative 对某人言听计从 to call the tune 发号施令 to change one's tune, to sing another tune 改口 she'll change her tune soon enough when she finds he's left without paying 等她发现他没有付款就走掉时，她就会马上换个腔调了 → piper 
 ① 
 ② Uncountable(accurate pitch) 准确的音高 zhǔnquè de yīngāo in/out of tune; 音调准确/不准的 to be in/out of tune (with [somebody]/[something]) （与某人/某事物）一致/不一致 few young violinists can play in tune 没有几个年轻小提琴手能拉琴不走调 the choir sang the whole piece clearly out of tune 很明显，合唱队把整首歌曲唱走调了 you're out of tune with current thinking 你跟不上当今社会的思想潮流 the government is out of tune with the electorate 政府与全体选民唱反调 
@@ -8,11 +9,14 @@ A. noun
 B.  transitive verb 
 ① Music 给…调音 gěi… tiáoyīn ‹instrument, string›her voice is like a well-tuned cello 她的嗓音宛如音调纯正的大提琴 to tune an instrument to concert pitch 把乐器调到音乐会音高 
 ② Mechanics 调节 tiáojié ‹machine, device, part›the car's engine needs tuning 汽车发动机需要调试 
-③ Radio, Television 给…调谐 gěi… tiáoxié ‹radio, TV, signal›to tune [something] to [something]; 将某物调到 ‹channel, station, frequency›tune your radio to the FM waveband for better reception 要获得更好的收听效果，请把收音机调到调频波段 stay tuned 不要换台 PHRASAL VERBS tune in A. transitive verb[tune something in], [tune in something] 把…调好 bǎ… tiáohǎo ‹radio, television›the television's not tuned in properly 电视机没有调好 to tune one's radio in to the morning programme 把收音机调到早间节目 people who are tuned in to what computers can do 熟谙计算机功能的人们 it's important to be tuned in to your child's needs 了解自己孩子的需求很重要 
-B.  intransitive verb (adjust) 调好 tiáohǎo (listen) 收听 shōutīng when we tuned in, all we heard was martial music 我们调好后听到的都是军乐 don't forget to tune in on Monday! 别忘了在星期一收听！ to tune in to [something]; 收听 shōutīng ‹channel, frequency›to tune in to [somebody's] way of thinking 理解某人的思维方式 tune out A. transitive verb 
+③ Radio, Television 给…调谐 gěi… tiáoxié ‹radio, TV, signal›to tune [something] to [something]; 将某物调到 ‹channel, station, frequency›tune your radio to the FM waveband for better reception 要获得更好的收听效果，请把收音机调到调频波段 stay tuned 不要换台 PHRASAL VERBS tune in 
+A.  transitive verb[tune something in], [tune in something] 把…调好 bǎ… tiáohǎo ‹radio, television›the television's not tuned in properly 电视机没有调好 to tune one's radio in to the morning programme 把收音机调到早间节目 people who are tuned in to what computers can do 熟谙计算机功能的人们 it's important to be tuned in to your child's needs 了解自己孩子的需求很重要 
+B.  intransitive verb (adjust) 调好 tiáohǎo (listen) 收听 shōutīng when we tuned in, all we heard was martial music 我们调好后听到的都是军乐 don't forget to tune in on Monday! 别忘了在星期一收听！ to tune in to [something]; 收听 shōutīng ‹channel, frequency›to tune in to [somebody's] way of thinking 理解某人的思维方式 tune out 
+A.  transitive verb 
 ① [tune out something] Radio, Television 停止收听 tíngzhǐ shōutīng ‹sound, frequency›
 ② [tune something/somebody out], [tune out something/somebody] colloquial (ignore) 对…充耳不闻 duì… chōng ěr bù wén ‹conversation, person›
-B.  intransitive verb colloquial 充耳不闻 chōng ěr bù wén when they started arguing, I just tuned out 当他们开始争吵时，我只当没听见 tune up A. transitive verb[tune something up], [tune up something] 
+B.  intransitive verb colloquial 充耳不闻 chōng ěr bù wén when they started arguing, I just tuned out 当他们开始争吵时，我只当没听见 tune up 
+A.  transitive verb[tune something up], [tune up something] 
 ① Music 为…调音 wèi… tiáoyīn ‹instrument›
 ② Auto 调节 tiáojié ‹car, engine›
 B.  intransitive verb 调音 tiáoyīn I arrived just as the orchestra was tuning up 我正好在管弦乐队调音时赶到 

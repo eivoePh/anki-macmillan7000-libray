@@ -1,6 +1,7 @@
 heat 
 BrE hiːt, AmE hit 
-A. noun 
+
+A.  noun 
 ① Uncountable and countable(high temperature) 热 rè intense heat 灼热 heat rises 热量上升 if you can't stand the heat, get out of the kitchen figurative 怕热就别进厨房 
 ② Uncountable and countable(level of temperature) 温度 wēndù the heat in the greenhouse 暖房里的温度 
 ③ Uncountable and countable(hot weather) 炎热天气 yánrè tiānqì summer heat 夏日酷暑 to suffer from the heat 饱受酷暑之苦 a dry/sticky heat 燥热/潮湿闷热的天气 
@@ -14,8 +15,10 @@ B.  transitive verb
 ① (provide heating for) 给…供暖 gěi… gōngnuǎn ‹room, pool›
 ② Culinary 加热 jiārè ‹food›to heat [something] to boiling 把某物煮开 to heat the oven to 350° 把烤炉加热到350度 
 ③ Medicine 高温处理 gāowēn chǔlǐ ‹blood›
-C.  intransitive verb «place, pot» 变热 biànrè ; «oven» 加热 jiārè PHRASAL VERBS heat through A. transitive verb[heat something through] 充分加热 chōngfèn jiārè ‹food›
-B.  intransitive verb «food» 热透 rètòu ; «house» 变暖 biànnuǎn heat up A. transitive verb[heat something up, heat up something] 
+C.  intransitive verb «place, pot» 变热 biànrè ; «oven» 加热 jiārè PHRASAL VERBS heat through 
+A.  transitive verb[heat something through] 充分加热 chōngfèn jiārè ‹food›
+B.  intransitive verb «food» 热透 rètòu ; «house» 变暖 biànnuǎn heat up 
+A.  transitive verb[heat something up, heat up something] 
 ① (make warm) 使…变暖 shǐ… biànnuǎn ‹room›
 ② Culinary 加热 jiārè ‹food, leftovers, oven, grill›
 B.  intransitive verb 

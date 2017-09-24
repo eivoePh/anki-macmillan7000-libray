@@ -1,6 +1,7 @@
 drive 
 BrE drʌɪv, AmE draɪv 
-A. transitive verb(past tense drove, past participle driven) 
+
+A.  transitive verb(past tense drove, past participle driven) 
 ① Auto (be driver of) 开 kāi ‹vehicle›(convey) 开车送 kāichē sòng ‹person, goods›we drove 500 km in one day 我们一天行驶了500公里 to drive a vehicle into a garage/car park/space; 把车驶进车房/停车场/停车位 he drives tourists round the town 他开车带游客参观这个镇子 
 ② colloquial (operate) 操作 cāozuò ‹machine›
 ③ Electronics, Mechanics, Technology 驱动 qūdòng ‹generator, mechanism, system›
@@ -29,49 +30,60 @@ D.  noun
 ⑨ Countable(campaign, effort) 运动 yùndòng a drive to do/against/for/towards [something]; 做/反对/争取/为某事的运动 a sales/charity drive 推销/慈善活动 an anti-sexism/-litter/-drugs drive 反性别歧视/反乱丢垃圾/反毒品运动 
 ⑩ Uncountable(motivation, energy) 干劲 gànjìn 
 ⑪ Countable(instinct, need) 欲望 yùwàng a drive for/to do [something]; 对某事物/做某事的欲望 to have a drive for perfection 追求完美 the drive to win 求胜的欲望 sex or sexual drive 性欲 
-⑫ Countable BrE (gathering for game) 比赛 bǐsài a bingo/bridge/whist drive 宾戈牌/桥牌/惠斯特牌比赛 PHRASAL VERBS drive along A. transitive verb[drive something along, drive along something] «wind, current, tide» 把…卷走 bǎ… juǎnzǒu ‹leaves, clouds, boat›
-B.  intransitive verb Auto 沿路行驶 yánlù xíngshǐ drive at transitive verb[drive at something] 意指 yì zhǐ I wish I knew what she was driving at 我真希望自己能明白她的意思 drive away A. transitive verb 
+⑫ Countable BrE (gathering for game) 比赛 bǐsài a bingo/bridge/whist drive 宾戈牌/桥牌/惠斯特牌比赛 PHRASAL VERBS drive along 
+A.  transitive verb[drive something along, drive along something] «wind, current, tide» 把…卷走 bǎ… juǎnzǒu ‹leaves, clouds, boat›
+B.  intransitive verb Auto 沿路行驶 yánlù xíngshǐ drive at transitive verb[drive at something] 意指 yì zhǐ I wish I knew what she was driving at 我真希望自己能明白她的意思 drive away 
+A.  transitive verb 
 ① [drive something away, drive away something] (be driver of) 开走 kāizǒu ‹vehicle›
 ② [drive somebody away, drive away somebody] (convey) 开车送走 kāichē sòngzǒu ‹person›
 ③ [drive somebody/something away, drive away somebody/something] (repel) 赶走 gǎnzǒu 
 ④ [drive something away, drive away something] (get rid of) 消除 xiāochú ‹doubts, fears, care›
 B.  intransitive verbAuto 
 ① (drive vehicle away) 驱车离开 qūchē líkāi 
-② (be driven away) «vehicle» 开走 kāizǒu drive back A. transitive verb[drive somebody/something back, drive back somebody/something] 
+② (be driven away) «vehicle» 开走 kāizǒu drive back 
+A.  transitive verb[drive somebody/something back, drive back somebody/something] 
 ① (be driver of) 开回 kāihuí ‹vehicle›
 ② (convey) 开车送回 kāichē sònghuí ‹person, passenger›
 ③ (force withdrawal of) 把…赶回 bǎ… gǎnhuí ‹people, animals›
-B.  intransitive verb 驱车返回 qūchē fǎnhuí drive down A. transitive verb[drive something down, drive down something] 压低 yādī ‹interest rates, prices, inflation›
+B.  intransitive verb 驱车返回 qūchē fǎnhuí drive down 
+A.  transitive verb[drive something down, drive down something] 压低 yādī ‹interest rates, prices, inflation›
 B.  intransitive verbAuto 
 ① (descend) 向下行驶 xiàng xià xíngshǐ 
-② (travel) (in a southerly direction) 驱车向南 qūchē xiàng nán ; (to a less important place) 驱车去小地方 qūchē qù xiǎodìfang they drove down to the countryside 他们开车去了乡下 drive forward intransitive verb «team» 推进 tuījìn drive in A. transitive verb[drive something in, drive in something] 
+② (travel) (in a southerly direction) 驱车向南 qūchē xiàng nán ; (to a less important place) 驱车去小地方 qūchē qù xiǎodìfang they drove down to the countryside 他们开车去了乡下 drive forward intransitive verb «team» 推进 tuījìn drive in 
+A.  transitive verb[drive something in, drive in something] 
 ① Auto 把…开进去 bǎ… kāi jinqu ‹vehicle›
 ② (force in) 把…敲进去 bǎ… qiāo jinqu ‹nail, stake›; 把…拧进去 bǎ… nǐng jinqu ‹bolt›
 B.  intransitive verb 
 ① (enter in vehicle) «driver» 开车进去 kāichē jinqu ; «passenger» 乘车进去 chéngchē jinqu 
-② (be driven in) «vehicle» 开进来 kāi jinlai drive off A. intransitive verb 
+② (be driven in) «vehicle» 开进来 kāi jinlai drive off 
+A.  intransitive verb 
 ① Auto (leave in vehicle) 驱车离去 qūchē líqù (be driven away) «vehicle» 开走 kāizǒu 
 ② Sport (in golf) 发球 fāqiú 
-B.  transitive verb[drive something/somebody off, drive off something/somebody] (repel) 把…赶走 bǎ… gǎnzǒu drive on A. intransitive verbAuto 
+B.  transitive verb[drive something/somebody off, drive off something/somebody] (repel) 把…赶走 bǎ… gǎnzǒu drive on 
+A.  intransitive verbAuto 
 ① (continue) 继续行驶 jìxù xíngshǐ 
 ② (set off again) 重新上路 chóngxīn shànglù 
-B.  transitive verb [drive somebody on, driveon somebody] 激励 jīlì drive out A. transitive verb[drive something out, drive out something] 
+B.  transitive verb [drive somebody on, driveon somebody] 激励 jīlì drive out 
+A.  transitive verb[drive something out, drive out something] 
 ① Auto 把…开出来 bǎ… kāi chilai ‹vehicle›
 ② (expel) 把…赶走 bǎ… gǎnzǒu ‹people, animal, organization›to drive out evil spirits 驱邪 
 ③ (dispel) 消除 xiāochú ‹feeling, thought, memory›
 B.  intransitive verb 
 ① (depart in vehicle) 开车离开 kāichē líkāi 
-② (be driven out) «vehicle» 开出去 kāi chuqu drive over A. transitive verb[drive somebody/something over, drive over somebody/something] 
+② (be driven out) «vehicle» 开出去 kāi chuqu drive over 
+A.  transitive verb[drive somebody/something over, drive over somebody/something] 
 ① (be driver of) 把…开过去 bǎ… kāi guoqu ‹vehicle›to drive [something] over to [something]; 把…开到某处 ‹vehicle›
 ② (convey) 开车送…过去 kāichē sòng… guòqu ‹person, goods›
-B.  intransitive verb 开车过去 kāichē guòqu to drive over to [something]; 开车去某处 drive round especially BrE A. transitive verb 
+B.  intransitive verb 开车过去 kāichē guòqu to drive over to [something]; 开车去某处 drive round especially BrE 
+A.  transitive verb 
 ① [drive something round, drive round something] (be driver of) 把…开过去 bǎ… kāi guoqu ‹vehicle›
 ② [drive somebody round, drive round somebody] (convey) 开车送…过去 kāichē sòng… guòqu to drive [somebody] round to [something]; 开车送某人去某处 
 ③ [drive something round, drive round something] Mechanics, Technology «mechanism, wind, water» 使…转动 shǐ… zhuǎndòng ‹wheel, propeller›
 B.  intransitive verb 
 ① (go in vehicle) 驱车过去 qūchē guòqu 
 ② (go in circles) «driver» 开车兜圈子 kāichē dōu quānzi 
-③ (be driven in circles) «vehicle» 兜圈子 dōu quānzi drive up A. intransitive verbAuto 
+③ (be driven in circles) «vehicle» 兜圈子 dōu quānzi drive up 
+A.  intransitive verbAuto 
 ① (ascend) 向上行驶 xiàng shàng xíngshǐ 
 ② (arrive in vehicle) to drive up to [something]; 驱车到达某处 qūchē dàodá mǒu chù 
 ③ (be driven) «vehicle» 到达停靠 dàodá tíngkào 

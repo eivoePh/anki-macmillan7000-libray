@@ -1,10 +1,13 @@
-survey A. /BrE ˈsəːveɪ, AmE ˈsərˌveɪ/ noun 
+survey 
+A.  /BrE ˈsəːveɪ, AmE ˈsərˌveɪ
+noun 
 ① (poll, investigation) 调查 diàochá to carry out or conduct or do a survey 开展调查 the results or findings of a survey 调查结果 a survey of voting intentions 一项关于投票意向的调查 
 ② (mapping) 测绘 cèhuì ; (map) 测绘图 cèhuìtú a geological/an aerial survey 地质/航空测量 
 ③ BrE (inspection of building) 房屋检测 fángwū jiǎncè (report on building) 房屋检测报告 fángwū jiǎncè bàogào to get a survey (done) 进行一次房屋检测 
 ④ (overview) 概述 gàishù a comprehensive survey of modern music/linguistics/literature 现代音乐/语言学/文学综述 
 ⑤ (careful look) 审视 shěnshì 
-B.  /BrE səˈveɪ, AmE sərˈveɪ/ transitive verb 
+B.  /BrE səˈveɪ, AmE sərˈveɪ
+transitive verb 
 ① (investigate) 对…进行调查 duì… jìnxíng diàochá ‹trends, prices, products, market›
 ② (interview) 向…调查 xiàng… diàochá ‹people, households›
 ③ (assess) 对…进行评价 duì… jìnxíng píngjià ‹opinion, views, intentions›

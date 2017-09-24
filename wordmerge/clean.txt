@@ -1,6 +1,7 @@
 clean 
 BrE kliːn, AmE klin 
-A. adjective 
+
+A.  adjective 
 ① (not dirty) 干净的 gānjìng de clean air 清洁的空气 a clean wound 未感染的伤口 to lick one's plate clean literal 把盘子舔干净 figurative 吃光盘中的食物 chīguāng pán zhòng de shíwù my hands are clean literal 我的手很干净 figurative 我是清白的 wǒ shì qīngbái de 
 ② (attentive to hygiene) 爱干净的 ài gānjìng de it's not very clean to drink out of somebody else's glass 用别人的杯子喝不太卫生 
 ③ Ecology 无污染的 wúwūrǎn de ‹energy›a clean fuel 清洁燃料 
@@ -20,11 +21,13 @@ D.  transitive verb
 ② Culinary «cook» 清除…的内脏 qīngchú… de nèizàng ‹chicken, fish›
 E.  intransitive verb 
 ① (do housework) 打扫 dǎsǎo 
-② (become clean) 变干净 biàn gānjìng these brass handles don't clean very easily 这些黄铜把手不容易弄干净 PHRASAL VERBS clean down transitive verb [clean something down, clean down something] 把…清扫干净 bǎ… qīngsǎo gānjìng to clean down the walls 把墙壁擦洗干净 clean off A. transitive verb[clean something off, clean off something] 清除 qīngchú ‹writing, marks, graffiti›I've got to clean the mud off the car 我得把车上的泥擦掉 
+② (become clean) 变干净 biàn gānjìng these brass handles don't clean very easily 这些黄铜把手不容易弄干净 PHRASAL VERBS clean down transitive verb [clean something down, clean down something] 把…清扫干净 bǎ… qīngsǎo gānjìng to clean down the walls 把墙壁擦洗干净 clean off 
+A.  transitive verb[clean something off, clean off something] 清除 qīngchú ‹writing, marks, graffiti›I've got to clean the mud off the car 我得把车上的泥擦掉 
 B.  intransitive verb «stain» 被除掉 bèi chúdiào this mark won't clean off 这块污渍擦不掉 clean out transitive verb 
 ① [clean something out, clean out something] (cleanse thoroughly) 把…的内部清扫干净 bǎ… de nèibù qīngsǎo gānjìng ‹oven, toilet›you need to clean out your ears! 你该掏一下耳朵了！ 
 ② [clean somebody out, clean out somebody] colloquial (leave penniless) 把…的钱花光 bǎ… de qián huā guāng ‹person›the new car's cleaned me out of all my savings 这辆新车花光了我的全部积蓄 
-③ [clean somebody/something out, clean out somebody/something] colloquial (rob) «thief, swindler» 把…洗劫一空 bǎ… xǐjié yī kōng ‹person, house›the burglars cleaned her out of all her jewellery 窃贼把她的珠宝洗劫一空 clean up A. [clean something up, clean up something] transitive verb 
+③ [clean somebody/something out, clean out somebody/something] colloquial (rob) «thief, swindler» 把…洗劫一空 bǎ… xǐjié yī kōng ‹person, house›the burglars cleaned her out of all her jewellery 窃贼把她的珠宝洗劫一空 clean up 
+A.  [clean something up, clean up something] transitive verb 
 ① (get rid of) 清除 qīngchú ‹mess, remains›to clean the rubbish up off or from the floor 把地板上的垃圾清走 
 ② (remove crime, corruption from) 清理整顿 qīnglǐ zhěngdùn ‹city, streets, local government›
 ③ colloquial (make less obscene, violent) 使…变得纯洁 shǐ… biàn de chúnjié ‹TV, programme›to clean up one's act literal «comedian» 使表演文雅 figurative «person» 洁身自好 jié shēn zì hào 

@@ -1,6 +1,7 @@
 talk 
 BrE tɔːk, AmE tɔk 
-A. intransitive verb 
+
+A.  intransitive verb 
 ① (speak, converse) 谈话 tánhuà to talk to or with [somebody] (about [something]); （就某事物）与某人谈话 to talk to oneself; 自言自语 to talk about or of or on [somebody]/[something]; 谈论某人/某事物 to know what one is talking about colloquial 精于此道 he hasn't a clue what he's talking about 他不谙此道 he's talking about or of getting a job 他说的是找工作的事 look or listen who's talking!, you can or can't talk! colloquial 你还有脸说别人！ to talk away 说个不停 to talk for the sake of talking 为了说话而说话 to love to hear oneself talk 喜欢夸夸其谈 he kept me talking for an hour! 他没完没了地同我谈了一个小时！ talk about … colloquial 这才叫… ［用于表示所说之事非常明显］talk about mean/trouble/stupid/expensive! 这才叫吝啬/麻烦/愚蠢/贵呢！ talking of films/holidays 说到电影/假期 I don't think it's going to be easy — you're talking about at least eight hours' work 我觉得这件事不容易──至少要花8个小时 it's easy or all right for you/her to talk! colloquial 你/她说得容易！ now you're talking! colloquial 你这话就对了！ 
 ② (have the power of speech) 能说话 néng shuōhuà can your little boy talk yet? 你的小儿子会说话了吗？ 
 ③ pejorative (gossip) 说闲话 shuō xiánhuà to give people something to talk about 给人们留下谈资 to be or get oneself talked about 招人议论 
@@ -16,7 +17,8 @@ C.  noun
 ② Uncountable(talking) 说话 shuōhuà small/sweet/baby talk 闲聊/甜言蜜语/儿语 fast or double talk 花言巧语 blunt or plain or straight talk 直截了当的话 too much talk and not enough action! 说得多做得少！ to be all talk (and no action) 光说不做 nothing but/a whole lot of talk 尽是/全是空谈 
 ③ Uncountable(rumours) 谣言 yáoyán (gossip) 闲话 xiánhuà idle/loose talk 闲话/信口乱说 the talk of the town 街谈巷议 talk about or of [somebody]/[something]; 有关某人/某事物的传闻 
 ④ Countable(lecture) 讲座 jiǎngzuò (speech) 演讲 yǎnjiǎng an academic/informal talk 学术/非正式演讲 a talk on or about deep-sea fishing/acupuncture 关于深海捕鱼/针灸的讲座 to give/have a talk; 作演说/听讲座 a talk on radio/TV 广播/电视演说 
-D.  talks noun plural (formal discussions) 商谈 shāngtán pay/disarmament/peace/arms talks 工资/裁军/和平/军备谈判 to conduct or hold talks 举行会谈 talks about [something]; 有关某事物的会谈 talks between [somebody] and [somebody]; 某人与某人之间的洽谈 PHRASAL VERBS talk at transitive verb[talk at somebody] 对…大发议论 duì… dà fā yìlùn talk back intransitive verb 回嘴 huízuǐ to talk back to [somebody]; 对某人顶嘴 don't you talk back to me like that! 不许你这样和我顶嘴！ talk down A. transitive verb[talk somebody down] 
+D.  talks noun plural (formal discussions) 商谈 shāngtán pay/disarmament/peace/arms talks 工资/裁军/和平/军备谈判 to conduct or hold talks 举行会谈 talks about [something]; 有关某事物的会谈 talks between [somebody] and [somebody]; 某人与某人之间的洽谈 PHRASAL VERBS talk at transitive verb[talk at somebody] 对…大发议论 duì… dà fā yìlùn talk back intransitive verb 回嘴 huízuǐ to talk back to [somebody]; 对某人顶嘴 don't you talk back to me like that! 不许你这样和我顶嘴！ talk down 
+A.  transitive verb[talk somebody down] 
 ① (silence) (by talking loudly) 高声讲话盖过 gāoshēng jiǎnghuà gàiguo (talking persistently) 说个不停不让…插话 shuō gè bù tíng bù ràng… chāhuà 
 ② Aviation (guide) 引导…着陆 yǐndǎo… zhuólù ‹aircraft›ground control talked the pilot down in thick fog 地面控制人员引导飞行员在浓雾中着陆 
 B.  intransitive verb 高高在上地说话 gāogāo zài shàng de shuōhuà to talk down to [somebody]; 以高人一等的口气对某人说话 talk out transitive verb[talk something out] 

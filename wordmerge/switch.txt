@@ -1,6 +1,7 @@
 switch 
 BrE swɪtʃ, AmE swɪtʃ 
-A. noun 
+
+A.  noun 
 ① Electricity 开关 kāiguān the switch is on/off 开关是开着/关着的 to press/flick/throw a switch 按下/啪地按下/推动开关 
 ② (change) 转变 zhuǎnbiàn a switch in or of policy/styles 政策/风格的转变 a switch from [something] (to [something]); 从某事物（到某事物）的转变 the polls show a switch to the Conservatives 民意调查显示人们转向支持保守党 
 ③ (substitution) 调换 diàohuàn a switch of [somebody]/[something] for [somebody]/[something]; …替换为… to make a switch 进行调换 
@@ -15,14 +16,17 @@ C.  intransitive verb
 ① (change) 改变 gǎibiàn to switch from [something]/doing [something] to [something]/doing [something]; 从某事/做某事转到某事/做某事 to switch between languages/programmes 转换语言/转台 she switched from sales back to teaching 她从销售工作回到了教学工作 
 ② Television, Radio 转换频道 zhuǎnhuàn píndào to switch to; 转换到 ‹channel, station, programme›
 ③ (swap positions) 交换位置 jiāohuàn wèizhi (swap roles) 交换角色 jiāohuàn juésè (swap shifts) 交换班次 jiāohuàn bāncì to switch with [somebody]; 和某人交换 
-④ Computing 转换程序 zhuǎnhuàn chéngxù to switch to [something]; 转换到某程序 PHRASAL VERBS switch around A. intransitive verb (swap positions) 交换位置 jiāohuàn wèizhi ; (swap roles) 交换角色 jiāohuàn juésè 
-B.  transitive verb[switch somebody/something around] 交换…的位置 jiāohuàn… de wèizhi to switch the players around at half-time 使运动员在半场结束时交换场地 switch off A. transitive verb[switch something off], [switch off something] 
+④ Computing 转换程序 zhuǎnhuàn chéngxù to switch to [something]; 转换到某程序 PHRASAL VERBS switch around 
+A.  intransitive verb (swap positions) 交换位置 jiāohuàn wèizhi ; (swap roles) 交换角色 jiāohuàn juésè 
+B.  transitive verb[switch somebody/something around] 交换…的位置 jiāohuàn… de wèizhi to switch the players around at half-time 使运动员在半场结束时交换场地 switch off 
+A.  transitive verb[switch something off], [switch off something] 
 ① (turn off) 关掉 guāndiào ‹appliance, light›; 停止 tíngzhǐ ‹supply, engine›to switch itself off «appliance, light» 自动关闭 zìdòng guānbì 
 ② figurative colloquial (stop using) 停止施展 tíngzhǐ shīzhǎn ‹charm›
 B.  intransitive verb 
 ① (turn off light) 关灯 guān dēng ; (turn off machine) 关机器 guān jīqì 
 ② (be turned off automatically) «appliance, light» 自动关闭 zìdòng guānbì 
-③ colloquial (stop paying attention) 不再注意 bù zài zhùyì switch on A. transitive verb[switch something on], [switch on something] 
+③ colloquial (stop paying attention) 不再注意 bù zài zhùyì switch on 
+A.  transitive verb[switch something on], [switch on something] 
 ① (turn on) 打开 dǎkāi ‹appliance, light, supply›; 启动 qǐdòng ‹engine›to switch itself on «appliance, light» 自动开启 
 ② figurative colloquial (start using) 开始施展 kāishǐ shīzhǎn ‹charm›
 B.  intransitive verb 

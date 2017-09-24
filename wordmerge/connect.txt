@@ -1,6 +1,7 @@
 connect 
 BrE kəˈnɛkt, AmE kəˈnɛkt 
-A. transitive verb 
+
+A.  transitive verb 
 ① (join) 连接 liánjiē ‹object, place›Railways 加挂 jiāguà ‹carriage›to connect [something] to [something]; 将某物与某物连接起来 to be connected to the mainland by bridge 通过桥梁与大陆相连 
 ② (associate, link) 联系 liánxì ‹person, topic›to connect [somebody]/[something] with [somebody]/[something]; 将某人/某事物与某人/某事物联系起来 I always connect Oxford with rain 我总是一下雨就想到牛津 
 ③ (to mains) 接通 jiētōng ‹utilities›; 为…接通 wèi… jiētōng ‹household, area›(attach) 使连接 shǐ liánjiē ‹wires›to connect [something] to the mains 给某物接通电源 to connect [somebody] to the gas supply/phone network 给某人接通煤气/电话 Telecommunications 给…接通电话 gěi… jiētōng diànhuà ‹caller›to connect [somebody] with [somebody]/[something]; 为某人接通某人/某处的电话 to connect [somebody] to [something]; 使某人与…保持电话联系 ‹reception, department›

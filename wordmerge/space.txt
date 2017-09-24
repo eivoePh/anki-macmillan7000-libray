@@ -1,6 +1,7 @@
 space 
 BrE speɪs, AmE speɪs 
-A. noun 
+
+A.  noun 
 ① Uncountable(room) 空间 kōngjiān to take up a lot of space 占很大地方 the amount of space occupied by [something] 某物所占的空间 space to do [something]; 做某事所需的空间 to have some space to exercise in 有一点可供锻炼的地方 space for [something]/[somebody]; 可供某物占用/某人使用的空间 there's ample space for parking 有足够的地方停车 to leave some space for dessert 留出肚子吃甜点 living/storage space 生活/储存空间 to make space for [somebody]/[something] 为某人/某物腾出地方 a feeling or an impression of space 空旷感 a player in space Sport 单刀直入的运动员 he's got no sense of space 他没有空间感 to invade [somebody's] (personal) space 侵占某人的（个人）空间 (a journey in) space and time 时空（旅行） to stare into space 茫然直视前方 
 ② Uncountable(outer space) 太空 tàikōng 
 ③ Countable(empty place, gap) 空隙 kòngxì (blank area) 空地 kòngdì a small/narrow space 小的/窄的空当 some empty spaces on the bookshelves 书架上的几处空隙 there's a space next to me 我旁边空着 a space to park one's car 可供停车的地方 a fear of enclosed or confined spaces 对封闭空间的恐惧 leave a space after your name 在名字后面留空 large, empty spaces in the crowd 人群中大片的空隙 there's a space on page three for your article 第三版上有空隙可登你的文章 in/into a space 在/进入空隙中 a space of two metres (between …) （…间）两米的间隙 open spaces 开阔的空地 a country of wide open spaces 幅员广袤的国家 watch this space! colloquial 请关注本版！ 
@@ -12,9 +13,11 @@ A. noun
 ⑨ CountableMusic (on stave) 线间空白 xiàn jiān kòngbái 
 B.  transitive verb 
 ① (arrange in space) 以一定间隔排列 yǐ yīdìng jiàngé páiliè ‹objects, lines, words›to space the chairs evenly/two metres apart/further apart 把椅子均匀地摆开/以两米间距摆开/摆得更开一点 the letter was well spaced 信文排得很舒服 widely-/closely-spaced eyes 间距很宽/很近的眼睛 
-② (arrange in time) 把…间隔开 bǎ… jiàngé kāi ‹events›to be better spaced 时间间隔被安排得更好 he spaced his visits over a period of three years 他把访问分散安排在三年内 PHRASAL VERB space out A. transitive verb[space something out, space out something] 
+② (arrange in time) 把…间隔开 bǎ… jiàngé kāi ‹events›to be better spaced 时间间隔被安排得更好 he spaced his visits over a period of three years 他把访问分散安排在三年内 PHRASAL VERB space out 
+A.  transitive verb[space something out, space out something] 
 ① (separate physically) 使…拉开间距 shǐ… lākāi jiānjù ‹objects, lines, words›to space the trees out 把树种得稀疏些 the houses are well spaced out 房子的间距拉得很开 they spaced themselves out around the room 他们分散在房间各处 
-② (separate in time) 把…间隔开 bǎ… jiàngé kāi ‹events, holidays›you can space out the payments over (a period of) 20 years 你可以在20年内分期付款 the ten broadcasts were spaced out over a period of six months 十次节目分别在六个月内播出 
+② (separate in time) 把…间隔开 bǎ… jiàngé kāi ‹events, holidays›you can space out the payments over (a period of)
+20 years 你可以在20年内分期付款 the ten broadcasts were spaced out over a period of six months 十次节目分别在六个月内播出 
 B.  intransitive verb especially AmE colloquial [使用致幻毒品后] 精神恍惚 jīngshén huǎnghū 
 space 
 ▶noun

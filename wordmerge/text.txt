@@ -1,6 +1,7 @@
 text 
 BrE tɛkst, AmE tɛkst 
-A. noun 
+
+A.  noun 
 ① Uncountable(written matter) 文本 wénběn (in computer form) 文档 wéndàng 
 ② Countable(wording) 原文 yuánwén 
 ③ Countable(main content) 正文 zhèngwén 

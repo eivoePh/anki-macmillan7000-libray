@@ -1,8 +1,10 @@
 light
 1 
 BrE lʌɪt, AmE laɪt 
-A. noun 
-① Uncountable(brightness) 光亮 guāngliàng (from a source) 光线 guāngxiàn by the light of the sun 借着阳光 the light is too bright/dim 光线太亮/暗 to cast or shed or throw light (on [something]); 投射光线（在某物上） to stand with one's back to the light 背光站着 to be/stand/sit in [somebody's] light; 挡住某人的光线 → tunnel A.
+
+A.  noun 
+① Uncountable(brightness) 光亮 guāngliàng (from a source) 光线 guāngxiàn by the light of the sun 借着阳光 the light is too bright/dim 光线太亮/暗 to cast or shed or throw light (on [something]); 投射光线（在某物上） to stand with one's back to the light 背光站着 to be/stand/sit in [somebody's] light; 挡住某人的光线 → tunnel 
+A. 
 ① 
 ② Countable(gleam, bright point) 光点 guāngdiǎn she saw a light in the distance 她看见远处有一点亮光 the lights of the city 城市的灯火 
 ③ Countablefigurative (aspect) 角度 jiǎodù in a good/favourable/new/different light 从好的/有利的/新的/不同的角度 they saw him in the worst light 他们看到了他最糟糕的一面 in the light of [something] figurative 考虑到某事物 the decision was made in the light of previous experience 决定是根据以前的经验作出的 
@@ -25,7 +27,8 @@ C.  transitive verb(past tense, past participle lit or lighted)
 ① (illuminate) 照亮 zhàoliàng the headlamps lit the road ahead 车头灯照亮了前方的路 to light the way with a torch 用手电筒照路 
 ② (set fire to) 点燃 diǎnrán to light a match/a bonfire 划燃一根火柴/燃起篝火 
 ③ (switch on) 打开 dǎkāi ‹light, torch, sign›
-D.  intransitive verb(past tense, past participle lit or lighted) 开始燃烧 kāishǐ ránshāo the oven won't light 炉子点不着 PHRASAL VERB light up A. transitive verb[light up something, light something up] 
+D.  intransitive verb(past tense, past participle lit or lighted) 开始燃烧 kāishǐ ránshāo the oven won't light 炉子点不着 PHRASAL VERB light up 
+A.  transitive verb[light up something, light something up] 
 ① (illuminate) 照亮 zhàoliàng the shop windows were lit up 商店橱窗灯火通明 
 ② (set fire to) 点燃 diǎnrán ‹cigarette, cigar, pipe›
 ③ figurative (make animated) 使发亮 shǐ fāliàng a rare smile lit up his stern features 他严肃的面庞上露出了难得一见的笑容 his face was lit up with happiness 他脸上喜气洋洋 

@@ -1,6 +1,7 @@
 clear 
 BrE klɪə, AmE ˈklɪr 
-A. adjective 
+
+A.  adjective 
 ① (transparent) 透明的 tòumíng de ‹glass, plastic, varnish›; 清澈的 qīngchè de ‹water, river, lake›
 ② (free from cloud, mist, rain) 晴朗的 qínglǎng de ‹sky, night, day›
 ③ (pure) 清脆的 qīngcuì de ‹sound, tone, voice›
@@ -52,17 +53,21 @@ D.  intransitive verb
 ⑥ (disappear from skin) «spots, acne, rash» 消失 xiāoshī 
 ⑦ (look happier) 变明朗 biàn mínglǎng his face/brow cleared when I told him the good news 我告诉他这个好消息时，他面露喜色/眉头舒展开来 
 ⑧ Finance «cheque» 结算 jiésuàn 
-E.  noun in clear (without cryptographic protection) 用普通文字 yòng pǔtōng wénzì PHRASAL VERBS clear away A. transitive verb[clear something away, clear away something] 
+E.  noun in clear (without cryptographic protection) 用普通文字 yòng pǔtōng wénzì PHRASAL VERBS clear away 
+A.  transitive verb[clear something away, clear away something] 
 ① (remove) 清除 qīngchú clear your toys away 把你的玩具收走 we cleared the snow away from the doorstep 我们扫掉了门口台阶上的积雪 
 ② (disperse) 驱散 qūsàn ‹mist, smoke, gas, smell›
-B.  intransitive verb (after meal) 收拾餐桌 shōushi cānzhuō clear off A. intransitive verb colloquial (go away) 走开 zǒukāi clear off! can't you see I'm busy? 走开！你没看见我正忙着吗？ they cleared off without paying 他们没付钱就溜掉了 
+B.  intransitive verb (after meal) 收拾餐桌 shōushi cānzhuō clear off 
+A.  intransitive verb colloquial (go away) 走开 zǒukāi clear off! can't you see I'm busy? 走开！你没看见我正忙着吗？ they cleared off without paying 他们没付钱就溜掉了 
 B.  transitive verb[clear off something] 
 ① colloquial (get off) 从…走开 cóng… zǒukāi ‹land, property›
-② AmE (remove dishes from) 收拾 shōushi ‹table›clear out A. transitive verb[clear something out, clear out something] 
+② AmE (remove dishes from) 收拾 shōushi ‹table›clear out 
+A.  transitive verb[clear something out, clear out something] 
 ① (tidy) 整理 zhěnglǐ ‹cupboard, drawer, room›
 ② (empty) 清空 qīngkōng ‹cupboard, drawer, room›
 ③ (throw away) 清理掉 qīnglǐ diào ‹rubbish, old clothes, toys›
-B.  intransitive verb colloquial (get out) 离开 líkāi he cleared out before the police arrived 他在警察到来前溜掉了 clear out of here! 从这儿滚出去！ clear up A. transitive verb 
+B.  intransitive verb colloquial (get out) 离开 líkāi he cleared out before the police arrived 他在警察到来前溜掉了 clear out of here! 从这儿滚出去！ clear up 
+A.  transitive verb 
 ① (get rid of, tidy away) 清理掉 qīnglǐ diào ‹rubbish, books, dishes›
 ② (make tidy) 清理 qīnglǐ ‹desk, room, street, beach›
 ③ (solve) 解开 jiěkāi ‹mystery, puzzle›

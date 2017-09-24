@@ -1,6 +1,7 @@
 bus 
 BrE bʌs, AmE bəs 
-A. noun(plural buses; AmE also busses) 
+
+A.  noun(plural buses; AmE also busses) 
 ① (passenger vehicle) 公共汽车 gōnggòng qìchē by bus 乘公共汽车 on the bus 在公共汽车上 to get on/off a bus 上/下公共汽车 to catch or take a bus (to somewhere) 搭乘公共汽车（去某地） to miss the bus figurative 错过机会 
 ② colloquial dated (old vehicle) 老爷车 lǎoyechē 
 ③ Computing 总线 zǒngxiàn 

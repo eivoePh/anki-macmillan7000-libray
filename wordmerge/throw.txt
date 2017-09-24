@@ -1,6 +1,7 @@
 throw 
 BrE θrəʊ, AmE θroʊ 
-A. transitive verb(past tense threw, past participle thrown) 
+
+A.  transitive verb(past tense threw, past participle thrown) 
 ① (send through air) 投掷 tóuzhì to throw a ball in or into the air/across the pitch/over the wall 把球扔向空中/扔过球场/扔过墙 he threw the javelin 80m 他把标枪掷出了80米 to throw cold water on [something] 给某事泼冷水 to throw a bridge over [something] 在某物上架桥 
 ② (direct) 把…指向 bǎ… zhǐxiàng to throw [somebody] a glance/look 瞥/看某人一眼 to throw [somebody] a smile/kiss 对某人微笑/向某人抛飞吻 to throw a question/remark at [somebody] 对某人提出问题/说一句话 to throw money at [something] 在某事上投钱 to throw suspicion on [somebody]/[something] 使某人/某事受到猜疑 to throw doubt on [somebody]/[something] 怀疑某人/某事 to throw one's voice 使说话声听起来似乎来自他处 
 ③ (disconcert) 使困惑 shǐ kùnhuò I was thrown by the news 那个消息使我心烦意乱 
@@ -41,7 +42,8 @@ D.  noun
 ① (propel) 把…扔进来 bǎ… rēng jinlai ‹object, ball›to throw in the towel or sponge figurative 认输 
 ② colloquial (give for free) 附赠 fùzèng ‹goods, extra item›
 ③ colloquial (add) 添加 tiānjiā ‹ingredient›thrown in for good measure 额外添加的 
-④ colloquial (contribute) 随口说出 suíkǒu shuōchū ‹remark, suggestion›throw off A. [throw something off], [throw off something] transitive verb 
+④ colloquial (contribute) 随口说出 suíkǒu shuōchū ‹remark, suggestion›throw off 
+A.  [throw something off], [throw off something] transitive verb 
 ① (take off) 迅速脱去 xùnsù tuōqù ‹garment›; 匆匆扯掉 cōngcōng chědiào ‹bedclothes›
 ② (compose quickly) 随手写出 suíshǒu xiěchū ‹poem, letter›
 ③ (overcome) 从…中恢复 cóng… zhōng huīfù ‹illness, depression, handicap›
@@ -49,8 +51,10 @@ B.  [throw somebody off], [throw off somebody] transitive verb 逐出 zhúchū t
 C.  [throw off somebody/something] transitive verb 摆脱 bǎituō ‹person, pursuer, burden, tradition›throw on transitive verb[throw something on], [throw on something] 匆匆穿上 cōngcōng chuānshang ‹garment›throw open transitive verb[throw something open], [throw open something] 
 ① (open forcefully) 猛力推开 měnglì tuīkāi ‹door, window›
 ② (make public) 使…公开 shǐ… gōngkāi ‹debate›to throw a discussion open 把讨论公开 
-③ (make accessible) 开放 kāifàng ‹market, facility, tourist attraction›throw out A. [throw something out], [throw out something] transitive verb 
-① (discard) 扔掉 rēngdiào ‹rubbish, produce, clothing› → baby A.
+③ (make accessible) 开放 kāifàng ‹market, facility, tourist attraction›throw out 
+A.  [throw something out], [throw out something] transitive verb 
+① (discard) 扔掉 rēngdiào ‹rubbish, produce, clothing› → baby 
+A. 
 ① 
 ② (reject) 否决 fǒujué ‹plan, case, bill›
 ③ (utter peremptorily) 断然地说 duànrán de shuō ‹hint, suggestion›; (utter casually) 随口说出 suíkǒu shuōchū ‹idea, suggestion›
@@ -60,7 +64,8 @@ C.  [throw off somebody/something] transitive verb 摆脱 bǎituō ‹person, pu
 B.  [throw somebody out], [throw out somebody] (eject) 逐出 zhúchū to be thrown out of work 被解雇 
 C.  [throw somebody/something out] transitive verb 使…不知所措 shǐ… bù zhī suǒ cuò ‹person›; 使…混乱 shǐ… hùnluàn ‹calculation, thought process›that's what threw me out 正是那件事把我搞糊涂了 throw over transitive verb[throw somebody over], [throw over somebody] colloquial dated 抛弃 pāoqì ‹spouse, lover›throw together transitive verb[throw something together], [throw together something] 
 ① (assemble hastily) 匆匆拼凑 cōngcōng pīncòu ‹ingredients, elements›
-② (make hastily) 仓促弄出 cāngcù nòngchū ‹meal, piece of furniture, entertainment›throw up A. intransitive verb colloquial 呕吐 ǒutù 
+② (make hastily) 仓促弄出 cāngcù nòngchū ‹meal, piece of furniture, entertainment›throw up 
+A.  intransitive verb colloquial 呕吐 ǒutù 
 B.  transitive verb[throw something up], [throw up something] 
 ① (reveal) 使…显露 shǐ… xiǎnlù ‹information, fact, problem›
 ② (emit) «volcano, geyser» 喷出 pēnchū ‹lava, spray, smoke, ash›

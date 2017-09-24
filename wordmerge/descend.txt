@@ -1,6 +1,7 @@
 descend 
 BrE dɪˈsɛnd, AmE dəˈsɛnd 
-A. transitive verb 走下 zǒuxia ‹stairs, slope›
+
+A.  transitive verb 走下 zǒuxia ‹stairs, slope›
 B.  intransitive verb 
 ① (go down) «person» 下来 xiàlai ; «road, valley» 下斜 xiàxié 
 ② (move down scale) 递减 dìjiǎn in descending order of importance 按重要性递减顺序 

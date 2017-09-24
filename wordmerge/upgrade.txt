@@ -1,8 +1,11 @@
-upgrade A. /BrE ʌpˈɡreɪd, AmE ˈəpˌɡreɪd, ˌəpˈɡreɪd/ transitive verb 
+upgrade 
+A.  /BrE ʌpˈɡreɪd, AmE ˈəpˌɡreɪd, ˌəpˈɡreɪd
+transitive verb 
 ① (improve) 改进 gǎijìn ‹product, machinery›
 ② (raise level of) 提升 tíshēng ‹post›; 提高 tígāo ‹skill›
 ③ Computing 给…升级 gěi… shēngjí ‹program, hardware›
-B.  /BrE ˈʌpɡreɪd, AmE ˈəpˌɡreɪd/ noun 
+B.  /BrE ˈʌpɡreɪd, AmE ˈəpˌɡreɪd
+noun 
 ① (act of improving) 改进 gǎijìn 
 ② (improved version) 改进版 gǎijìnbǎn 
 ③ Computing 升级版 shēngjíbǎn 

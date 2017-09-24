@@ -1,7 +1,8 @@
 let
 1 
 BrE lɛt, AmE lɛt 
-A. transitive verb(present participle -tt-, past tense, past participle let) 
+
+A.  transitive verb(present participle -tt-, past tense, past participle let) 
 ① (allow) 允许 yǔnxǔ don't let the fire go out 别让火熄灭 I can't go because she won't let me 我不能去，因为她不肯同意 let me (help you) 让我来（帮你）吧 let him have it colloquial (give it to him) 把东西给他 (shoot at him) 让他吃枪子 ràng tā chī qiāngzǐ they were late home, and their mother let them have it 他们回家晚了，于是母亲骂了他们一通 
 ② (allow to go or be) 让…过去 ràng… guòqu let me through or past 让我过去 the curtains let the light through 这些窗帘透光 the headmaster let the children go home early 校长让孩子们早回家 
 ③ BrE (lease out) 出租 chūzū ‘To Let’ “房屋招租” to let a field to a farmer 把田租给一位农民 
@@ -10,12 +11,14 @@ A. transitive verb(present participle -tt-, past tense, past participle let)
 2 设X等于2 
 ⑥ (when making suggestion) [用于提出建议，涉及说话者和听众]let's or let us do it; 我们做这事吧 let us pray 我们祈祷吧 don't let's start yet, let's not start yet 咱们先别开始吧 it costs more than, let's say, a dishwasher (for example) 比如说，它的价钱要比洗碗机贵 
 B.  let alone conjunction phrase 更不用说 gèng bùyòng shuō she can't even talk, let alone sing 她甚至不会说话，更不用说唱歌了 
-C.  noun BrE 租借期 zūjièqī a long/short/2-year let 长期/短期/两年期租借 PHRASAL VERBS let alone transitive verb[let somebody/something alone] 不打扰 bù dǎrǎo please let that kitten alone 请不要碰那只小猫 to let well alone 别管闲事 let down A. [let something down, let down something] transitive verb 
+C.  noun BrE 租借期 zūjièqī a long/short/2-year let 长期/短期/两年期租借 PHRASAL VERBS let alone transitive verb[let somebody/something alone] 不打扰 bù dǎrǎo please let that kitten alone 请不要碰那只小猫 to let well alone 别管闲事 let down 
+A.  [let something down, let down something] transitive verb 
 ① (lengthen) 放长 fàngcháng ‹item of clothing›I've let the skirt down by
 2 centimetres 我把裙子放长了2厘米 
 ② (lower) 放下 fàngxia ‹bucket, basket›as the other car drew alongside he let down the window 当另一辆车开上来的时候，他把窗玻璃降了下来 
 ③ (deflate) 给…放气 gěi… fàng qì ‹tyre›
-B.  [let somebody down, let down somebody] transitive verb 使失望 shǐ shīwàng my watch never lets me down 我的手表一向走得很准 to let [somebody] down gently 委婉地把不幸的消息告诉某人 let drop transitive verb[let drop something, let something drop] 把…说漏嘴 bǎ… shuōlòuzuǐ she let drop the fact that they were already married 她无意中说出了他们已经结婚的事 let fly intransitive verb (physically) 打 dǎ (verbally) 骂 mà he let fly with his right foot 他飞起右脚踢了一下 she really let fly at me for forgetting the biscuits 因为我忘了买饼干，她狠狠骂了我一顿 let go A. intransitive verb literal 松手 sōngshǒu ; figurative 忘掉 wàngdiào I let go, and the balloon floated away 我松开手，气球飘走了 to let go of the rope 松开绳子 let go of me! 放开我！ he just can't let go figurative 他就是忘不了 
+B.  [let somebody down, let down somebody] transitive verb 使失望 shǐ shīwàng my watch never lets me down 我的手表一向走得很准 to let [somebody] down gently 委婉地把不幸的消息告诉某人 let drop transitive verb[let drop something, let something drop] 把…说漏嘴 bǎ… shuōlòuzuǐ she let drop the fact that they were already married 她无意中说出了他们已经结婚的事 let fly intransitive verb (physically) 打 dǎ (verbally) 骂 mà he let fly with his right foot 他飞起右脚踢了一下 she really let fly at me for forgetting the biscuits 因为我忘了买饼干，她狠狠骂了我一顿 let go 
+A.  intransitive verb literal 松手 sōngshǒu ; figurative 忘掉 wàngdiào I let go, and the balloon floated away 我松开手，气球飘走了 to let go of the rope 松开绳子 let go of me! 放开我！ he just can't let go figurative 他就是忘不了 
 B.  transitive verb[let somebody/something go] 
 ① (free) 让…离开 ràng… líkāi they let the hostages go 他们让人质离开 
 ② (release hold on) 放开 fàngkāi ‹person, arm›to let go the reins 松开缰绳 let me go! 放开我！ she made a sarcastic comment, but he just let it go 她挖苦了一句，但他没有理会 
@@ -27,9 +30,12 @@ C.  reflexive verb to let oneself go; (relax) 自我放松 zìwǒ fàngsōng (ne
 ③ to let oneself/[somebody] in for [something] colloquial (create trouble for) 卷入某事/使某人卷入某事 juǎnrù mǒu shì/shǐ mǒu rén juǎnrù mǒu shì she let herself in for a lot of problems 她惹了一身麻烦 tā rěle yīshēn máfan 
 ④ to let [somebody] in on [something] (allow to share) 向某人透露 xiàng mǒu rén tòulù ‹secret›I agreed to let him in on the news 我同意告诉他这个消息 let into: transitive verb 
 ① to let [something] into [something] (set into surface) 把…嵌入 bǎ… qiànrù a statue let into the wall 嵌进墙壁的雕像 qiànjìn qiángbì de diāoxiàng 
-② to let [somebody] into [something] (allow to share) 向某人透露 xiàng mǒu rén tòulù ‹secret›let off A. [let something off, let off something] transitive verb (detonate) 引爆 yǐnbào to let off fireworks/a gun 放烟火/开枪 
-B.  [let somebody off] transitive verb (punish lightly) 从轻处罚 cóngqīng chǔfá (not punish at all) 放过 fàngguò to let [somebody] off lightly 轻易放过某人 she was let off with a fine 她只是被罚款了事 I'll let you off your homework 我会免了你的家庭作业的 let on A. intransitive verb colloquial 说出秘密 shuōchū mìmì don't let on! 别告诉别人啊！ don't let on about what they did 不要把他们干的事说出去 
-B.  transitive verb to let on that …; 假装… jiǎzhuāng… he let on that he was a tourist 他装作是游客 tā zhuāngzuò shì yóukè let out A. [let out something] transitive verb (emit) 发出 fāchū to let out a shriek 发出一声尖叫 
+② to let [somebody] into [something] (allow to share) 向某人透露 xiàng mǒu rén tòulù ‹secret›let off 
+A.  [let something off, let off something] transitive verb (detonate) 引爆 yǐnbào to let off fireworks/a gun 放烟火/开枪 
+B.  [let somebody off] transitive verb (punish lightly) 从轻处罚 cóngqīng chǔfá (not punish at all) 放过 fàngguò to let [somebody] off lightly 轻易放过某人 she was let off with a fine 她只是被罚款了事 I'll let you off your homework 我会免了你的家庭作业的 let on 
+A.  intransitive verb colloquial 说出秘密 shuōchū mìmì don't let on! 别告诉别人啊！ don't let on about what they did 不要把他们干的事说出去 
+B.  transitive verb to let on that …; 假装… jiǎzhuāng… he let on that he was a tourist 他装作是游客 tā zhuāngzuò shì yóukè let out 
+A.  [let out something] transitive verb (emit) 发出 fāchū to let out a shriek 发出一声尖叫 
 B.  [let somebody/something out, let out somebody/something] transitive verb 
 ① (show out) 送…出门 sòng… chūmén he let himself out quietly 他悄悄出了门 
 ② (make wider) 放宽 fàngkuān to let one's belt out by

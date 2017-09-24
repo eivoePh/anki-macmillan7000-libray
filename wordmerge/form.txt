@@ -1,6 +1,7 @@
 form 
 BrE fɔːm, AmE fɔrm 
-A. noun 
+
+A.  noun 
 ① Uncountable and countable(shape) (of object) 形状 xíngzhuàng (of person) 体型 tǐxíng to take or assume the form of [something] 呈现出某物的形状 
 ② Countable(manifestation, substance) 形式 xíngshì in the form of [something]; 以某种形式 to take the form of [something]; 以某种形式出现 not in any shape or form 不论任何形式 
 ③ Countable(type, kind) 类型 lèixíng form of [something]; 某物的种类 what form of government do you think will ultimately emerge? 你认为最终会出现何种政体？ 
@@ -21,7 +22,8 @@ B.  transitive verb
 ④ (mould) 塑造 sùzào ‹personality, taste, attitudes›influential in forming public opinion 对民意的形成颇具影响力的 
 ⑤ (establish) 建立 jiànlì ‹society, party, government›
 ⑥ (constitute) 构成 gòuchéng ‹basis›the trees form a windbreak 树木构成一道防风墙 young people formed the bulk of the protesters 年轻人占抗议者的大多数 to form (a) part of [something] 构成某物的一部分 to be formed from [something]; 由某物构成 
-C.  intransitive verb «puddle, fog, cloud, idea» 形成 xíngchéng a scab had formed on his arm 他的手臂上结了痂 how do stalactites form? 钟乳石是怎样形成的？ PHRASAL VERB form up A. intransitive verb «troops, procession, band» 列队 lièduì 
+C.  intransitive verb «puddle, fog, cloud, idea» 形成 xíngchéng a scab had formed on his arm 他的手臂上结了痂 how do stalactites form? 钟乳石是怎样形成的？ PHRASAL VERB form up 
+A.  intransitive verb «troops, procession, band» 列队 lièduì 
 B.  transitive verb[form something up], [form up something] «commander» 使…列队 shǐ… lièduì ‹troops›
 form 
 ▶noun

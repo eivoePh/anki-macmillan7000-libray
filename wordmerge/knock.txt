@@ -1,6 +1,7 @@
 knock 
 BrE nɒk, AmE nɑk 
-A. transitive verb 
+
+A.  transitive verb 
 ① (strike) 碰撞 pèngzhuàng to knock one's head/arm on [something] 把头/胳膊碰到某物上 to knock the egg against the side of the bowl 在碗沿上把鸡蛋磕开 
 ② (collide with) = knock into 
 ③ (tap with knuckles or tool) 敲打 qiāodǎ to knock [something] on the head BrE figurative (stop) 阻止…实施 ‹plan› 扼杀 èshā ‹hope› (disprove) 打破 dǎpò ‹myth, belief›to knock [somebody's] suggestion on the head 对某人的建议横加指责 
@@ -17,7 +18,8 @@ B.  intransitive verb
 C.  noun 
 ① (to call attention) 敲击声 qiāojī shēng a knock at or on [something]; 敲在…上的声音 ‹door, window›to give [somebody] a knock (to awaken) 敲门叫醒某人 knock! knock! 当当当！当当当！ 
 ② (blow) 碰撞 pèngzhuàng to get a knock on the head 撞了一下头 to give the ball quite a knock 用力击球 to give the car a bit of a knock 刮碰到汽车 
-③ figurative (setback) 打击 dǎjī to take the knocks 承受打击 it gave his confidence a knock 这件事打击了他的信心 PHRASAL VERBS knock about transitive verb, intransitive verb BrE = knock around knock against transitive verb[knock against somebody/something] 撞上 zhuàngshang to knock against each other «bottles» 互相碰撞 knock around colloquial A. [knock something around] transitive verb 
+③ figurative (setback) 打击 dǎjī to take the knocks 承受打击 it gave his confidence a knock 这件事打击了他的信心 PHRASAL VERBS knock about transitive verb, intransitive verb BrE = knock around knock against transitive verb[knock against somebody/something] 撞上 zhuàngshang to knock against each other «bottles» 互相碰撞 knock around colloquial 
+A.  [knock something around] transitive verb 
 ① (damage) 粗暴使用 cūbào shǐyòng to knock the furniture around 对家具不爱惜 
 ② Sport to knock the ball around 把球踢来踢去 bǎ qiú tī lái tī qù 
 ③ (discuss) 非正式讨论 fēizhèngshì tǎolùn ‹idea›
@@ -27,7 +29,8 @@ B.  [knock around something] transitive verb
 C.  [knock somebody around] transitive verb (beat) 虐待 nüèdài ‹person›to knock [somebody] around a bit 折磨某人 
 D.  intransitive verb 
 ① (wander) 闲逛 xiánguàng he's knocked around a bit 他游历甚广 
-② BrE (be present) 在…地方 zài… dìfang where's Jane? — she's knocking around somewhere 简在哪里？──她就在附近 to knock around together; 一起厮混 to knock around with [somebody]; 常与某人厮混 knock back A. [knock back something, knock something back] transitive verb 
+② BrE (be present) 在…地方 zài… dìfang where's Jane? — she's knocking around somewhere 简在哪里？──她就在附近 to knock around together; 一起厮混 to knock around with [somebody]; 常与某人厮混 knock back 
+A.  [knock back something, knock something back] transitive verb 
 ① Sport 把…打回去 bǎ… dǎ huiqu ‹ball›
 ② colloquial (drink) 猛喝 měng hē to knock back a couple of pints of beer 猛喝几品脱啤酒 
 B.  [knock somebody back] transitive verbcolloquial 
@@ -40,7 +43,8 @@ B.  [knock somebody back] transitive verbcolloquial
 ④ colloquial (get reduction from) 得到减价 dédào jiǎnjià to knock [somebody] down (to/from [something]); 使…（从/到某数额）降价 ‹seller›to knock the landlord down from £200 to £150 把房东的要价从200英镑还到150英镑 to knock [somebody] down by a few pounds 把某人的要价杀低几镑 
 ⑤ (sell at auction) 击槌卖出 jī chuí màichū ‹painting, vase›lot 36 was knocked down at £180 第36号拍品以180英镑拍出 they can't knock it down for less than the reserve price 他们不能低于底价拍出这件东西 knock in transitive verb[knock something in, knock in something] 
 ① (force in) 把…敲进去 bǎ… qiāo jinqu ‹nail, peg›knock the bung in as far as it will go 把塞子尽量塞得深一些 
-② (cause to break) 砸破 zápò ‹door, skull›I'll knock your teeth in! 我要打掉你的牙！ knock into transitive verb[knock into somebody/something] 撞到 zhuàngdào ‹person, table›he staggered along, knocking into people 他在人群中跌跌撞撞地往前走 to knock into each other 相撞 knock off A. transitive verb[knock somebody/something off, knock off somebody/something] 
+② (cause to break) 砸破 zápò ‹door, skull›I'll knock your teeth in! 我要打掉你的牙！ knock into transitive verb[knock into somebody/something] 撞到 zhuàngdào ‹person, table›he staggered along, knocking into people 他在人群中跌跌撞撞地往前走 to knock into each other 相撞 knock off 
+A.  transitive verb[knock somebody/something off, knock off somebody/something] 
 ① (cause to fall) 打落 dǎluò ‹object›; 撞倒 zhuàngdǎo ‹person›the blow knocked her glasses off 这一拳把她的眼镜打掉了 
 ② (break) 碰掉 pèngdiào ‹end, handle›
 ③ colloquial (deduct) 减去 jiǎnqù ‹amount, percentage›she wouldn't knock anything off (the price) 她一点也不肯降价 they knock off 10% if you pay cash 若你付现金，他们就会给予10％的优惠 to knock 20% off the total 把总价降低20％ 
@@ -50,13 +54,15 @@ B.  [knock somebody back] transitive verbcolloquial
 ⑦ BrE colloquial (steal) 偷走 tōuzǒu to knock off some pens from the office 从办公室顺走几支钢笔 
 ⑧ colloquial (murder) 谋杀 móushā he had his wife knocked off 他雇凶杀妻 to get knocked off in the final act 在最后一幕中被杀了 
 ⑨ BrE colloquial (have sex with) 与…上床 yǔ… shàngchuáng he knocked off the bridesmaid 他和女傧相上了床 
-B.  intransitive verb colloquial 收工 shōugōng knock on: A. intransitive verb 
+B.  intransitive verb colloquial 收工 shōugōng knock on: 
+A.  intransitive verb 
 ① to be knocking on (a bit) BrE colloquial (growing old) 变老 biànlǎo the car's knocking on a bit 这辆汽车有点旧了 
 ② (in rugby) 以手击球 yǐ shǒu jīqiú 
 B.  transitive verb 
 ① BrE colloquial (be nearly) to be knocking on 90 快90岁了 kuài
 9 0 suì le it was knocking on midnight when we left 我们离开的时候差不多半夜了 
-② (in rugby) to knock the ball on; 用手击球 yòng shǒu jīqiú knock out A. [knock somebody out, knock out somebody] transitive verb 
+② (in rugby) to knock the ball on; 用手击球 yòng shǒu jīqiú knock out 
+A.  [knock somebody out, knock out somebody] transitive verb 
 ① (stun) 打晕 dǎyūn ‹person›he nearly knocked me out 他差点把我打昏 
 ② Sport 击倒 jīdǎo ‹boxer›; 摔倒 shuāidǎo ‹wrestler›nobody has ever knocked him out 还没有人打倒过他 
 ③ colloquial (exhaust) 使精疲力竭 shǐ jīng pí lì jié this heat really knocks you out 这种炎热真让人乏力 
@@ -70,10 +76,12 @@ B.  [knock something out, knock out something] transitive verb
 ④ colloquial (produce) 快速完成 kuàisù wánchéng ‹amount, book›to knock out five books a year (easily) 每年轻松写出五本书 to knock out a thousand words a day (hurriedly) 每天赶写一千字 
 C.  reflexive verb to knock oneself out; (with blow) 失去知觉 colloquial (with drugs, alcohol) 陷入昏迷 xiànrù hūnmí colloquial (with exertion) 精疲力竭 jīng pí lì jié don't knock yourself out 你别累坏了 knock over transitive verb[knock somebody/something over, knock over somebody/something] 
 ① (cause to fall) 碰倒 pèngdǎo ‹person, object›he nearly knocked me over 他差点把我撞了个跟头 
-② (run over) «vehicle, driver» 撞倒 zhuàngdǎo ‹pedestrian›knock through intransitive verb (remove wall) 拆除隔墙 chāichú géqiáng (create hole) 打通隔墙 dǎtōng géqiáng to knock through between two bedrooms 打通两间卧室 knock together A. intransitive verb «objects, elbows» 碰到一起 pèngdào yīqǐ her knees were knocking together 她两只膝盖直哆嗦 
+② (run over) «vehicle, driver» 撞倒 zhuàngdǎo ‹pedestrian›knock through intransitive verb (remove wall) 拆除隔墙 chāichú géqiáng (create hole) 打通隔墙 dǎtōng géqiáng to knock through between two bedrooms 打通两间卧室 knock together 
+A.  intransitive verb «objects, elbows» 碰到一起 pèngdào yīqǐ her knees were knocking together 她两只膝盖直哆嗦 
 B.  transitive verb[knock something together, knock together something] 
 ① (hit) 使…相碰 shǐ… xiāngpèng ‹sticks, shoes›
-② BrE (remove wall between) 把…打通 bǎ… dǎtōng ‹rooms, buildings›two cottages knocked together 两栋打通的村舍 knock up A. [knock something up, knock up something] transitive verb BrE (make) 草草做成 cǎocǎo zuòchéng a makeshift shelter had been knocked up 草草搭了一个临时窝棚 I'll go into the kitchen and see what I can knock up 我去厨房看看能凑合着做点什么饭 
+② BrE (remove wall between) 把…打通 bǎ… dǎtōng ‹rooms, buildings›two cottages knocked together 两栋打通的村舍 knock up 
+A.  [knock something up, knock up something] transitive verb BrE (make) 草草做成 cǎocǎo zuòchéng a makeshift shelter had been knocked up 草草搭了一个临时窝棚 I'll go into the kitchen and see what I can knock up 我去厨房看看能凑合着做点什么饭 
 B.  [knock somebody up] transitive verb 
 ① colloquial (make pregnant) 使怀孕 shǐ huáiyùn 
 ② colloquial (exhaust) 使精疲力竭 shǐ jīng pí lì jié 

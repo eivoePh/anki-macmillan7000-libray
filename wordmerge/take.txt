@@ -1,6 +1,7 @@
 take 
 BrE teɪk, AmE teɪk 
-A. transitive verb(past tense took, past participle taken) 
+
+A.  transitive verb(past tense took, past participle taken) 
 ① (carry from one place to another) 携带 xiédài (accompany from one place to another) 带领 dàilǐng to take [somebody]/[something] with one; 带上某人/某物 to take the car to the garage 把汽车送到修理厂 to take [something] upstairs/downstairs 把某物拿到楼上/楼下 to take [somebody] to school/work/the hospital 送某人去上学/去上班/去医院 to take [somebody]/[something] swimming/riding 带某人/某物去游泳/骑马 to take [somebody]/[something] home 带某人/某物回家 to take the dog for a walk 去遛狗 he took her a bunch of flowers 他给她送去一束花 take these chairs into the garden 把这些椅子搬到花园里 to take [somebody] to have a haircut 带某人去理发 to take [something] to be mended 把某物送去修理 he was taken before the court 他被带上法庭 honestly, I can't take you anywhere! colloquial humorous 老实说，我不能带你走！ 
 ② (bring into specified state) 使达到 shǐ dádào I’d like to take my argument a stage further 我想进一步阐述我的论点 we’ll take the matter forward at our next meeting 我们下次开会将继续讨论此事 the invasion took Europe to the brink of war 这次入侵将欧洲推到了战争的边缘 I'll take it from here 我来处理接下来的事 
 ③ (reach and hold) 拿 ná ‹object›; 抱 bào ‹person, animal›to take [somebody] by the arm; 挽着某人的胳膊 to take [somebody] by the throat 扼住某人的喉咙 he took her by the hand 他牵着她的手 
@@ -37,17 +38,20 @@ C.  noun
 ① (dismantle) 拆卸 chāixiè ‹car, machine›
 ② (criticize) 严厉批评 yánlì pīpíng ‹essay, film, book›
 ③ colloquial (defeat) 轻易打败 qīngyì dǎbài ‹opponent, team›take around transitive verb = take round 
-② take aside transitive verb[take somebody aside] 把…带到一边 bǎ… dàidào yībiān take away A. [take something away, take away something] transitive verb 
+② take aside transitive verb[take somebody aside] 把…带到一边 bǎ… dàidào yībiān take away 
+A.  [take something away, take away something] transitive verb 
 ① BrE (buy for eating elsewhere) 买…带走 mǎi… dàizǒu ‹food›two burgers to take away, please 请来两份汉堡包，带走 
 ② (cause to disappear) 消除 xiāochú ‹fear, grief›to take the pain away 止痛 to take away [somebody's] appetite 倒某人的胃口 
 ③ (subtract) 减去 jiǎnqù ‹number›ten take away four is or leaves six, take four away from ten and it leaves six 10减去4等于6 
-B.  [take somebody/something away, take away somebody/something] transitive verb (remove) 弄走 nòngzǒu ‹person, object›to take [somebody]/[something] away from [somebody]/[something]; 把某人/某物从某人处/某处弄走 ‘not to be taken away’ “请勿带走” take away from transitive verb [take away from something] 减少 jiǎnshǎo ‹success, merits›that doesn't take anything away from his achievement 那丝毫不能贬低他的成绩 take back A. [take something back, take back something] transitive verb 
+B.  [take somebody/something away, take away somebody/something] transitive verb (remove) 弄走 nòngzǒu ‹person, object›to take [somebody]/[something] away from [somebody]/[something]; 把某人/某物从某人处/某处弄走 ‘not to be taken away’ “请勿带走” take away from transitive verb [take away from something] 减少 jiǎnshǎo ‹success, merits›that doesn't take anything away from his achievement 那丝毫不能贬低他的成绩 take back 
+A.  [take something back, take back something] transitive verb 
 ① (return to shop) 退回 tuìhuí to take a faulty product back to the shop 把有缺陷的商品退回商店 
 ② (accept back) «shop, person» 回收 huíshōu ‹goods, gift›
 ③ (retract) 收回 shōuhuí ‹statement, words›I take it back 我收回说过的话 to take back a or one's promise 反悔 
 B.  [take somebody back] transitive verb 
 ① (cause to remember) 勾起…的回忆 gōuqǐ… de huíyì the smell of the sea took him back to his childhood 大海的气息让他回想起了童年 
-② (allow to come back) 重新接纳 chóngxīn jiēnà ‹partner, employee›he took his wife back after she had left him 妻子离开他之后他又同意她回家了 take down A. [take something down, take down something] transitive verb 
+② (allow to come back) 重新接纳 chóngxīn jiēnà ‹partner, employee›he took his wife back after she had left him 妻子离开他之后他又同意她回家了 take down 
+A.  [take something down, take down something] transitive verb 
 ① (carry to lower level) 将…拿下来 jiāng… ná xialai ‹book, box›to take [something] down to [somebody]/[something]; 将某物拿下来给某人/放到某处 she took the medicine down to the child 她把药拿下来给孩子 to take [something] down from [something]; 从某处取下某物 please take the clock down from the shelf 请把钟从架子上拿下来 
 ② (remove from fixed position) 摘掉 zhāidiào ‹picture, sign, curtains›to take [something] down from [something]; 从某处摘下某物 
 ③ (lower) 褪下 tuìxia ‹skirt, trousers›
@@ -55,7 +59,8 @@ B.  [take somebody back] transitive verb
 ⑤ (write down) 记录 jìlù ‹name, details, speech›
 B.  [take somebody down, take down somebody] transitive verb (accompany to lower level) 带…下去 dài… xiàqù ‹person, animal›to take [somebody] down to [somebody]/[something]; 带某人下去见某人/到某处 take hold intransitive verb «disease» 加重 jiāzhòng ; «epidemic» 爆发 bàofā ; «idea, ideology» 产生影响 chǎnshēng yǐngxiǎng take hold of transitive verb[take hold of somebody/something] 
 ① (grasp) 抓住 zhuāzhù ‹person, animal, object›
-② (overwhelm) «feeling, idea» 完全控制 wánquán kòngzhì ‹person, animal›panic took hold of him 他惊恐万分 take in A. [take somebody/something in, take in somebody/something] transitive verb 
+② (overwhelm) «feeling, idea» 完全控制 wánquán kòngzhì ‹person, animal›panic took hold of him 他惊恐万分 take in 
+A.  [take somebody/something in, take in somebody/something] transitive verb 
 ① (carry, accompany inside) 将…搬进去 jiāng… bān jinqu ‹things, plant›; 带…进去 dài… jinqu ‹person, animal›
 ② (allow to stay) 收留 shōuliú ‹person›; 让…留宿 ràng… liúsù ‹lodger›; 收养 shōuyǎng ‹stray animal›
 B.  [take something in, take in something] transitive verb 
@@ -66,7 +71,8 @@ B.  [take something in, take in something] transitive verb
 ⑤ (observe) 注意到 zhùyì dào ‹detail, spectacle, situation›; (enjoy) 享受 xiǎngshòu ‹atmosphere›he took in the scene at a glance 他一眼就看到了那场面 
 ⑥ (accept for payment) 揽…回家做 lǎn… huíjiā zuò ‹washing, ironing, mending›
 C.  [take somebody in, take in somebody] transitive verb (deceive) 欺骗 qīpiàn he was taken in 他上当了 don't be taken in by appearances! 不要被外表迷惑！ 
-D.  [take in something] transitive verb (include) 包括 bāokuò ‹place, subject, development›take off A. intransitive verb 
+D.  [take in something] transitive verb (include) 包括 bāokuò ‹place, subject, development›take off 
+A.  intransitive verb 
 ① (start to fly) «aircraft, flight» 起飞 qǐfēi ; «bird» 飞起来 fēi qilai to take off from [something]; 从某处起飞 to take off for [something]; 飞往某处 
 ② (jump) «athlete, high jumper» 起跳 qǐtiào 
 ③ colloquial (leave) 开溜 kāiliū 
@@ -78,7 +84,8 @@ B.  [take something off, take off something] transitive verb
 ④ (cut off) 截去 jiéqù ‹part of body›; 剪掉 jiǎndiào ‹hair›his leg had to be taken off just below the knee 他不得不从膝盖以下截肢 
 ⑤ (detach) 拿掉 nádiào ‹lid›; 卸下 xièxia ‹door›; 使…剥落 shǐ… bōluò ‹paint›to take [something] off [something]; 从某物上弄掉某物 
 ⑥ to take [something] off [something] (deduct) 从某总量扣除某数量 cóng mǒu zǒngliàng kòuchú mǒu shùliàng to take £10 off the price (of [something]) （将某物）降价10英镑 (jiāng mǒu wù)jiàngjià
-1 0 yīngbàng that experience took ten years off my life 那段经历让我老了十岁 that hairstyle takes 15 years off you! 那个发型让你看上去年轻了15岁！ 
+1 0 yīngbàng that experience took ten years off my life 那段经历让我老了十岁 that hairstyle takes
+15 years off you! 那个发型让你看上去年轻了15岁！ 
 ⑦ to take [something] off [something] (stop including) 从某处去除某项 cóng mǒu chù qùchú mǒu xiàng my name had been taken off the list 我的名字从名单上画掉了 fish has been taken off the menu 菜单上去掉了鱼 càidān shang qùdiàole yú 
 C.  [take something off] transitive verb (have as holiday) 休…的假 xiū… de jià ‹week, morning›to take two days off 休两天假 to take the afternoon/time off work 下午请假/请假不上班 
 D.  [take somebody off, take off somebody] transitive verb 
@@ -87,7 +94,8 @@ D.  [take somebody off, take off somebody] transitive verb
 ③ (remove from ship) 使弃船 shǐ qì chuán to take [somebody] off [something]; 使某人撤离某处 a helicopter took the six crew members off 一架直升机营救了六名船员 
 ④ to take [somebody] off [something] (stop from using) 使某人停止使用某物 shǐ mǒu rén tíngzhǐ shǐyòng mǒu wù she was taken off the ventilator 她的呼吸器被拿掉了 
 E.  [take somebody off] transitive verb (cause to leave) 带走 dàizǒu ‹person›to take [somebody] off to prison; 将某人投入监狱 
-F.  reflexive verb to take oneself off; 离开 líkāi to take oneself off to [something]; 动身去某处 dòngshēn qù mǒu chù take on A. [take somebody on, take on somebody] transitive verb 
+F.  reflexive verb to take oneself off; 离开 líkāi to take oneself off to [something]; 动身去某处 dòngshēn qù mǒu chù take on 
+A.  [take somebody on, take on somebody] transitive verb 
 ① (employ) 雇用 gùyòng ‹employee, staff›to take [somebody] on as [something]; 聘用某人担任某职位 
 ② (accept as client) 承接 chéngjiē 
 ③ (compete against) 与…比赛 yǔ… bǐsài ‹person, opponent, team›I can beat him! I'll take him on! 我能打败他！我要与他一争高下！ Liverpool are taking on Arsenal in the Cup Final 利物浦队将在足总杯决赛中迎战阿森纳队 to take [somebody] on at tennis/badminton 与某人打一场网球/羽毛球比赛 
@@ -96,7 +104,8 @@ B.  [take something on, take on something] transitive verb
 ① (assume) 显现 xiǎnxiàn the chameleon can take on the colour of its background 变色龙可以呈现与背景一致的颜色 her eyes took on a hurt look 她的眼中透出受伤的神色 her voice took on a pleading note 她的声音带着恳求的语气 the word has taken on a whole new meaning 这个词有了一个全新的意义 the subject has taken on a new significance 该主题体现了一个新的意义 
 ② (undertake) 承担 chéngdān ‹work, task, job, responsibility›to take on more than one has bargained for 承担比预期多的工作 
 C.  [take somebody/something on, take on somebody/something] transitive verb (accept on board) 装载 zhuāngzài ‹cargo, freight›; 接载 jiēzài ‹passenger›the plane took on more fuel 飞机接受了燃油补给 the ship stops at Cape Town to take on more passengers 轮船停靠在开普敦以接载更多的乘客 
-D.  intransitive verb BrE colloquial dated 大惊小怪 dà jīng xiǎo guài don't take on so! 别这么紧张！ take out A. [take something out, take out something] transitive verb 
+D.  intransitive verb BrE colloquial dated 大惊小怪 dà jīng xiǎo guài don't take on so! 别这么紧张！ take out 
+A.  [take something out, take out something] transitive verb 
 ① (remove) (from container) 取出 qǔchū ‹object, letter›; (from place) 将…拿出去 jiāng… ná chuqu ‹object›to take [something] out of a drawer/box/bag 把某物从抽屉/盒子/袋子里拿出来 to take the excitement/worry out of [something] 使某事物不再让人兴奋/忧虑 to take [somebody] out of himself/herself 使某人摆脱烦恼 to take it or a lot out of [somebody] 让某人精疲力竭 
 ② Dentistry, Medicine 拔掉 bádiào ‹tooth›; 切除 qiēchú ‹appendix›
 ③ (withdraw from bank account) 提取 tíqǔ ‹cash, amount›to take money out of the bank 从银行取钱 
@@ -107,7 +116,8 @@ D.  intransitive verb BrE colloquial dated 大惊小怪 dà jīng xiǎo guài do
 B.  [take somebody/something out, take out somebody/something] transitive verb 
 ① (go out with, accompany) 带…外出 dài… wàichū ‹person, dog›; (go out with socially) 请…外出 qǐng… wàichū ‹person›to take the child/dog out for a walk 带孩子出去散步/去遛狗 to take [somebody] out to lunch/dinner 请某人出去吃午饭/晚饭 
 ② colloquial (kill) 干掉 gàndiào ‹person, enemy›; (destroy) 摧毁 cuīhuǐ ‹site, target, installation›
-③ colloquial (put out of action) 使…不能工作 shǐ… bù néng gōngzuò ‹person›; 牵制 qiānzhì ‹player›; 使…瘫痪 shǐ… tānhuàn ‹network›take out on: transitive verb to take [something] out on [somebody]/[something]; 对某人/某物发泄某情绪 duì mǒu rén/mǒu wù fāxiè mǒu qíngxù she tended to take her anger/frustrations out on her family 她一动怒/受挫就爱拿家人出气 to take it out on [somebody] 拿某人当出气筒 ná mǒu rén dāng chūqìtǒng take over A. intransitive verb 
+③ colloquial (put out of action) 使…不能工作 shǐ… bù néng gōngzuò ‹person›; 牵制 qiānzhì ‹player›; 使…瘫痪 shǐ… tānhuàn ‹network›take out on: transitive verb to take [something] out on [somebody]/[something]; 对某人/某物发泄某情绪 duì mǒu rén/mǒu wù fāxiè mǒu qíngxù she tended to take her anger/frustrations out on her family 她一动怒/受挫就爱拿家人出气 to take it out on [somebody] 拿某人当出气筒 ná mǒu rén dāng chūqìtǒng take over 
+A.  intransitive verb 
 ① (assume power) «rebels, protesters, faction» 接管 jiēguǎn to take over from [somebody]/[something]; 从某人/某组织手中接管 
 ② (dominate) «person, feeling» 起支配作用 qǐ zhīpèi zuòyòng he's always trying to take over 他总想发号施令 don't let negative thoughts take over 别让消极的想法左右你 
 ③ to take over from [somebody]; (assume responsibility in place of sb.) 接替某人 (perform activity in place of sb.) 接手某人的工作 jiēshǒu mǒu rén de gōngzuò to take over as [something]; 继任某职位 she's taken over as boss 她继任老板 
@@ -116,12 +126,14 @@ B.  transitive verb[take something over], [take over something]
 ① Military, Politics (assume power over, occupy) 接管 jiēguǎn ‹town, country, party›; 占领 zhànlǐng ‹building›to take over power from [somebody] 从某人处接手权力 
 ② (assume charge of or responsibility for) 接管 jiēguǎn ‹company, business, shop›; 接手 jiēshǒu ‹duty, responsibility, cooking›CBS Records was taken over by Sony 哥伦比亚唱片公司被索尼公司收购 shall I take over the driving for a while? 我替你开一会儿车好吗？ to take over [something] from [somebody]/[something]; 接替某人/某物做某事 who can take over the leadership from the Prime Minister? 谁能够继任首相的领导职务？ take place intransitive verb «event, incident» 发生 fāshēng ; «meeting, ceremony» 举行 jǔxíng take round transitive verb 
 ① [take something round, take round something] (circulate with) 分发 fēnfā 
-② [take somebody round] (show, accompany) 带…看 dài… kàn to take [somebody] round [something]; 带某人参观某处 take through: transitive verb to take [somebody] through [something]; 帮助某人了解某事 bāngzhù mǒu rén liǎojiě mǒu shì to take the actors through the scene 给演员说戏 gěi yǎnyuán shuōxì take to A. [take to something] transitive verb 
+② [take somebody round] (show, accompany) 带…看 dài… kàn to take [somebody] round [something]; 带某人参观某处 take through: transitive verb to take [somebody] through [something]; 帮助某人了解某事 bāngzhù mǒu rén liǎojiě mǒu shì to take the actors through the scene 给演员说戏 gěi yǎnyuán shuōxì take to 
+A.  [take to something] transitive verb 
 ① (go to) 去 qù ‹forest, hills›; 登上 dēngshang ‹lifeboats›he's ill and has taken to his bed 他卧病在床 to take to the streets to protest 走上街头抗议 
 ② (develop habit of) 开始养成…的习惯 kāishǐ yǎngchéng… de xíguàn she's taken to drink 她开始酗酒了 to take to doing [something]; 开始习惯于做某事 she's taken to watching TV before doing her homework 她养成了先看电视后做作业的习惯 
 ③ (develop ability for) 培养…的能力 péiyǎng… de nénglì she took to tennis as if she’d been playing all her life 她网球学得很快，好像打了一辈子似的 
 ④ to take [something] to [somebody]/[something] (use on) 用…对付某人/某物 yòng… duìfu mǒu rén/mǒu wù ‹axe, sledgehammer›I took a hacksaw to the shaft and cut it into three sections 我用弓锯把杆子锯成了三段 
-B.  [take to somebody/something] transitive verb (develop liking for) 喜欢上 xǐhuan shang ‹person, occupation, idea›I took to him the moment I saw him 我对他一见钟情 take up A. [take something/somebody up, take up something/somebody] transitive verb (carry to higher level) 拿…上去 ná… shàngqu ‹book, box, tray›(accompany to higher level) 带…上去 dài… shàngqu ‹person, animal›to take [something] up to [somebody]/[something]; 将某物拿上去给某人/拿到上面某处 can you take the phone up to her? 请你把电话拿上去给她 to take [somebody] up to [somebody]/[something]; 带某人上去见某人/带到上面某处 he took the doctor up to her room 他带医生上去到她房间里 
+B.  [take to somebody/something] transitive verb (develop liking for) 喜欢上 xǐhuan shang ‹person, occupation, idea›I took to him the moment I saw him 我对他一见钟情 take up 
+A.  [take something/somebody up, take up something/somebody] transitive verb (carry to higher level) 拿…上去 ná… shàngqu ‹book, box, tray›(accompany to higher level) 带…上去 dài… shàngqu ‹person, animal›to take [something] up to [somebody]/[something]; 将某物拿上去给某人/拿到上面某处 can you take the phone up to her? 请你把电话拿上去给她 to take [somebody] up to [somebody]/[something]; 带某人上去见某人/带到上面某处 he took the doctor up to her room 他带医生上去到她房间里 
 B.  [take something up], [take up something] transitive verb 
 ① (accept) 接受 jiēshòu ‹offer, invitation, challenge›
 ② (mention, raise) 提出 tíchū ‹matter, question›to take up [somebody's] case 提交某人的案件 to take up [something] with [somebody]; 向某人提出某事 I suggest you take this up with the boss 我建议你向老板提出此事 

@@ -1,6 +1,7 @@
 freeze 
 BrE friːz, AmE friz 
-A. intransitive verb(past tense froze, past participle frozen) 
+
+A.  intransitive verb(past tense froze, past participle frozen) 
 ① (become solid) «liquid» 冻结 dòngjié ; figurative «blood» 凝固 nínggù water freezes at 0°C 水在零摄氏度结冰 to freeze solid or stiff 冻得硬邦邦 
 ② (preserve in freezer) «food, vegetables» 可冷藏 kě lěngcáng 
 ③ (be covered with ice) «river» 被冰覆盖 bèi bīng fùgài ; (be blocked with ice) «drain» 被冰堵塞 bèi bīng dǔsè the mains water pipe has frozen 总水管已经冻住 when the pond freezes we go skating on it 池塘结冰后，我们在上面滑冰 
@@ -20,7 +21,8 @@ B.  transitive verb(past tense froze, past participle frozen)
 ⑧ Computing «system problem» 使…冻结 shǐ… dòngjié ‹computer screen, window›
 C.  noun 
 ① Meteorology colloquial 冰冻期 bīngdòngqī a big freeze 严寒期 
-② Economics, Finance (fixing of wages, prices etc.) 冻结 dòngjié a pay/price freeze 工资/价格冻结 to impose a freeze on [something] 冻结某物 PHRASAL VERBS freeze out transitive verb[freeze somebody/something out, freeze out somebody/something] colloquial (force out) 逼走 bīzǒu ‹person›; (exclude) 排斥 páichì ‹person, foreign goods›she had lied to her friends, so they froze her out 她对朋友们说了谎，所以朋友们都疏远了她 they froze out all newcomers 他们排斥所有新来的人 cheap imports are freezing out home-produced goods 便宜的进口货正渐渐排挤掉国产商品 freeze over intransitive verb 冰封 bīngfēng when the pond froze over, we went skating on it 池塘结冰时，我们在上面滑冰 my bedroom window has frozen over 我的卧室窗玻璃上结冰了 when hell freezes over 绝不可能 freeze up A. intransitive verb «pipe, car, mechanism, lock» 冻住 dòngzhù 
+② Economics, Finance (fixing of wages, prices etc.) 冻结 dòngjié a pay/price freeze 工资/价格冻结 to impose a freeze on [something] 冻结某物 PHRASAL VERBS freeze out transitive verb[freeze somebody/something out, freeze out somebody/something] colloquial (force out) 逼走 bīzǒu ‹person›; (exclude) 排斥 páichì ‹person, foreign goods›she had lied to her friends, so they froze her out 她对朋友们说了谎，所以朋友们都疏远了她 they froze out all newcomers 他们排斥所有新来的人 cheap imports are freezing out home-produced goods 便宜的进口货正渐渐排挤掉国产商品 freeze over intransitive verb 冰封 bīngfēng when the pond froze over, we went skating on it 池塘结冰时，我们在上面滑冰 my bedroom window has frozen over 我的卧室窗玻璃上结冰了 when hell freezes over 绝不可能 freeze up 
+A.  intransitive verb «pipe, car, mechanism, lock» 冻住 dòngzhù 
 B.  transitive verb[freeze something up, freeze up something] «cold» 使…冻住 shǐ… dòngzhù ‹pipe, car, mechanism, lock›we were frozen up for several days last winter figurative 去年冬天，因为冰冻，我们有好几天不能外出 
 freeze 
 ▶verb

@@ -1,7 +1,8 @@
 jam
 1 
 BrE dʒam, AmE dʒæm 
-A. noun 
+
+A.  noun 
 ① Countable(congestion) (of people, animals) 拥挤 yōngjǐ (of vehicles) 堵塞 dǔsè jams formed at all the exits 所有出口都给堵住了 
 ② Countable(blockage of machine) 卡住 qiǎzhù 
 ③ Countable(bottleneck in system) 障碍 zhàng'ài 
@@ -15,7 +16,8 @@ B.  transitive verb(present participle etc. -mm-)
 ⑤ Radio, Telecommunications 干扰 gānrǎo ‹frequency, transmission, programme›
 C.  intransitive verb(present participle etc. -mm-) 
 ① (become stuck) «lock, gun, switch, door» 卡住 qiǎzhù the printer keeps jamming 打印机总是卡纸 the valve has jammed shut 阀门卡死了 
-② Music 即兴演奏 jíxìng yǎnzòu PHRASAL VERBS jam in A. transitive verb[jam somebody/something in, jam in somebody/something] 
+② Music 即兴演奏 jíxìng yǎnzòu PHRASAL VERBS jam in 
+A.  transitive verb[jam somebody/something in, jam in somebody/something] 
 ① (pack in) 把…塞进 bǎ… sāijìn there were 30 people jammed into the room 30个人挤在这间屋子里 
 ② (wedge in) 使动弹不得 shǐ dòngtan bùdé her car was jammed in 她的车被堵住了 
 B.  intransitive verb 挤进来 jǐ jinlai a large crowd had jammed in to see the band play 一大群人挤进来观看乐队演奏 jam on transitive verb[jam something on, jam on something] 猛按 měng àn ‹handbrake›; 猛踩 měng cǎi ‹brakes›jam up transitive verb[jam something up, jam up something] 

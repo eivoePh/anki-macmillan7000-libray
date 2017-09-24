@@ -1,8 +1,10 @@
 hand 
 BrE hand, AmE hænd 
-A. noun 
+
+A.  noun 
 ① Anatomy 手 shǒu the palm/back of the hand 手掌/手背 in one's hand 在手中 gun/money in hand 手里拿着一把枪/钱 with both hands 用双手 to seize an opportunity with both hands figurative 紧紧抓住机会 by hand literal 用手 (on envelope) 亲手递交 from hand to hand 从一个人到另一个人 to be good with one's hands 手巧 to hold [somebody's] hand literal 牵着某人的手 figurative 支持某人 zhīchí mǒu rén to hold hands (with [somebody]) （与某人）手牵手 to join hands 手拉着手 to take [somebody's] hand, take [somebody] by the hand 拉某人的手 to be on one's hands and knees 四肢着地趴着 to put one's hands together (to pray) 双手合十 (to clap) 鼓掌 gǔzhǎng to put one's hand up 举手 hands up! (in class, vote) 请举手！ (to surrender) 举起手来！ hands down! 放下手！ hands off ([somebody]/[something])! literal 不许碰（某人/某物）！ figurative 不许干涉（某人/某物）！ bùxǔ gānshè(mǒu rén/mǒu wù)！ to keep one's hands off [somebody]/[something] 不碰某人/不拿某物 to lay or get one's hands on [somebody]/[something] 抓住某人/获取某物 to put one's hands on [something] 找到某物 to have one's hands full literal 手里拿满了东西 figurative 忙得不可开交 máng de bù kě kāi jiāo to give [somebody] one's hand (on [something]) 握手答应某人（某事） to stay one's hand formal 罢手 to win hands down colloquial 轻易取胜 to win [something] hands down colloquial 轻易赢得某物 with one hand (tied) behind one's back figurative colloquial 轻而易举地 to know [something] like the back of one's hand 对某事物了如指掌 at the hands of [somebody] 由于某人的作用 our defeat at the hands of the French team 我们败在法国队手里的事实 many hands make light work proverb 人多好办事 the left hand doesn't know what the right hand is doing 左手不知道右手在干什么 ［指组织内部缺乏沟通］to ask for [somebody's] hand (in marriage) dated 向某人求婚 to win [somebody's] hand dated 向某人求婚成功 → bird 
-①, → bite A.
+①, → bite 
+A. 
 ①, = bury 
 ⑤, → devil 
 ① 
@@ -23,7 +25,8 @@ A. noun
 ⑯ (source) (at) first/second hand （经过）第一手/第二手 (jīngguò)dìyīshǒu/dì'èrshǒu to get information second hand 得到二手信息 dédào èrshǒu xìnxī 
 ⑰ (available) to be on hand 在近旁 zài jìnpáng to be (close or near) at hand (in space) 在附近 zài fùjìn (in time) 即将到来 jíjiāng dàolái to or on hand 在手边 zài shǒubiān to have [something] to BrE or on AmE hand 将某物放在手边 jiāng mǒu wù fàng zài shǒubiān the first thing to come to hand 到手的第一件东西 to be on hand to help [somebody] 随时都可以帮某人 suíshí dōu kěyǐ bāng mǒu rén 
 ⑱ (on clock, dial) 指针 zhǐzhēn the hour/minute hand 时针/分针 
-⑲ Riding 一掌之宽 yī zhǎng zhī kuān 12 hands in height 高度为12掌宽 
+⑲ Riding 一掌之宽 yī zhǎng zhī kuān
+12 hands in height 高度为12掌宽 
 ⑳ (bunch) 串 chuàn a hand of bananas 一串香蕉 ㉑ before noun (using the hand) 手的 shǒu de a hand gesture 手势 ㉒ before noun (for the hand) 手部的 shǒubù de hand care 手部护理 ㉓ before noun (operated by hand) 用手操作的 yòng shǒu cāozuò de ‹tool, puppet›
 B.  in hand adverb phrase 
 ① (under control) 在控制中 zài kòngzhì zhōng to have/get [something] in hand 掌控某事物/使某事物在掌握中 to take [somebody]/[something] in hand 管束某人/控制某事物 
@@ -48,7 +51,8 @@ D.  transitive verb 递 dì to hand [something] to [somebody]; 把某物递给�
 ② (delegate) 交付 jiāofù ‹problem, responsibility›to hand [something] on to [somebody]; 把某事物交给某人处理 hand out transitive verb[hand something out, hand out something] 
 ① (distribute) 分发 fēnfā ‹leaflets, gifts›to hand [something] out to [somebody]; 把某物分发给某人 
 ② pejorative (offer) 提供 tígōng ‹advice›to hand [something] out to [somebody]; 向某人提供某物 to hand out words of wisdom 传播至理名言 
-③ (impose) 给予 jǐyǔ ‹punishment, fine›hand over A. transitive verb[hand somebody/something over, hand over somebody/something] 
+③ (impose) 给予 jǐyǔ ‹punishment, fine›hand over 
+A.  transitive verb[hand somebody/something over, hand over somebody/something] 
 ① (surrender) 交出 jiāochū ‹money, hostage›to hand [somebody]/[something] over to [somebody]; 向某人交出某人/某物 
 ② (transfer) 将…移交 jiāng… yíjiāo ‹criminal, power, territory›to hand a suspect/stolen goods over to the police 将疑犯/赃物移交给警方 
 ③ (entrust) 托付 tuōfù to hand the children/valuables over to [somebody] 把这些孩子托付给某人照顾/把贵重物品交给某人看管 

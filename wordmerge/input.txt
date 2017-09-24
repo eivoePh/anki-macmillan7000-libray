@@ -1,6 +1,7 @@
 input 
 BrE ˈɪnpʊt, AmE ˈɪnˌpʊt 
-A. noun 
+
+A.  noun 
 ① Countable(of money, resources) 投入 tóurù (of energy) 输入 shūrù the input of [something] in or into [something]; 对某事物投入某资源 
 ② Countable(contribution) 贡献 gòngxiàn 
 ③ CountablePhysics, Electronics (energy) 输入能量 shūrù néngliàng the input is a low-frequency signal 输入的是低频信号 

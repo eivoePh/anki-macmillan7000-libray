@@ -1,6 +1,7 @@
 license 
 BrE ˈlʌɪs(ə)ns, AmE ˈlaɪs(ə)ns 
-A. transitive verb 
+
+A.  transitive verb 
 ① (authorize) 给…发许可证 gěi… fā xǔkězhèng to license [somebody] to do [something]; 许可某人做某事 commercial radio stations have to be licensed by the local authority 商业电台必须获得地方当局颁发的许可证 
 ② (register) 得到…的许可证 dédào… de xǔkězhèng ‹vehicle, gun, drug›dogs no longer have to be licensed 养狗不再需要办许可证了 
 ③ (use under licence) 准许使用 zhǔnxǔ shǐyòng the software is licensed from X 该软件在X的授权下使用 

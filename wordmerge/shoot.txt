@@ -1,6 +1,7 @@
 shoot 
 BrE ʃuːt, AmE ʃut 
-A. transitive verb(past tense, past participle shot) 
+
+A.  transitive verb(past tense, past participle shot) 
 ① (fire) 射击 shèjī to shoot a gun/an arrow 打枪/射箭 the aircraft shot its missiles at the enemy positions 飞机向敌人阵地发射了导弹 to shoot it out (with [somebody]) colloquial （和某人）火拼 to shoot oneself in the foot figurative colloquial 无意中坏自己的事 to shoot the breeze colloquial 闲聊 
 ② (kill, wound) 射杀 shè shā to go shooting pheasants 去打野鸡 to shoot [somebody]/[something] in the arm/leg/head etc. 射中某人/某动物的胳膊/腿/头等 he had been shot in the back 他后背中弹 he was shot as a spy 他被作为间谍枪决了 to be shot for desertion/cowardice 因开小差/胆小受到严厉惩处 
 ③ (create by shooting) 开枪打出 kāiqiāng dǎchū to shoot one's way into/out of [something] 开枪冲入/冲出某处 the gunman had shot a large hole in the door 枪手在门上射出了一个大洞 
@@ -23,10 +24,12 @@ B.  intransitive verb(past tense, past participle shot)
 C.  noun 
 ① (of plant) 幼芽 yòuyá 
 ② BrE (shooting expedition) 狩猎活动 shòuliè huódòng a grouse/tiger shoot 打松鸡/打老虎 to go on a shoot 去狩猎 the whole (bang) shoot figurative colloquial 悉数 
-③ BrE (area of land) 狩猎场 shòulièchǎng PHRASAL VERBS shoot away transitive verb[shoot something away, shoot away something] 射落 shèluò most of the ship's rigging had been shot away in the battle 战斗中船上的索具大多都被枪炮打掉了 shoot down transitive verb[shoot somebody/something down, shoot down somebody/something] 击倒 jīdǎo ; figurative 痛斥 tòngchì to shoot [somebody] down in cold blood 残忍地枪杀某人 shoot off A. transitive verb[shoot something off, shoot off something] 
+③ BrE (area of land) 狩猎场 shòulièchǎng PHRASAL VERBS shoot away transitive verb[shoot something away, shoot away something] 射落 shèluò most of the ship's rigging had been shot away in the battle 战斗中船上的索具大多都被枪炮打掉了 shoot down transitive verb[shoot somebody/something down, shoot down somebody/something] 击倒 jīdǎo ; figurative 痛斥 tòngchì to shoot [somebody] down in cold blood 残忍地枪杀某人 shoot off 
+A.  transitive verb[shoot something off, shoot off something] 
 ① (sever) 开枪打掉 kāiqiāng dǎdiào his arm/foot had been shot off in the war 他的胳膊/脚在战争中被打断了 
 ② (fire) 鸣 míng ‹gun›; 发射 fāshè ‹missile›
-B.  intransitive verb colloquial 马上离开 mǎshàng líkāi I must shoot off now 我必须走了 shoot up A. intransitive verb 
+B.  intransitive verb colloquial 马上离开 mǎshàng líkāi I must shoot off now 我必须走了 shoot up 
+A.  intransitive verb 
 ① (rise up) 向上喷射 xiàng shàng pēnshè the flames shot up into the sky 火焰腾空而起 
 ② (grow rapidly) «plant» 疯长 fēngzhǎng ; «child» 迅速长高 xùnsù zhǎnggāo 
 ③ colloquial (inject drug) 注射毒品 zhùshè dúpǐn 

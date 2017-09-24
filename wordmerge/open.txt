@@ -1,6 +1,7 @@
 open 
 BrE ˈəʊp(ə)n, AmE ˈoʊpən 
-A. adjective 
+
+A.  adjective 
 ① (not closed) 开着的 kāizhe de ‹window, drawer, tin›; 翻开的 fānkāi de ‹book, newspaper›; 张开的 zhāngkāi de ‹mouth, wings›; 敞开的 chǎngkāi de ‹collar, jacket, container, envelope›to leave the door open a crack 把门留一条缝 I can't get the door open 我打不开门 the door flew open 门突然开了 the bag burst open 袋子一下子破了 his eyes are open 他的眼睛睁着 with one's eyes open, with open eyes figurative 心知肚明地 the flowers aren't open yet 花还未开 your fly is or flies are open 你的裤子拉链开了 to welcome [somebody] with open arms figurative 热情欢迎某人 with an open hand figurative 慷慨大方地 
 ② predicative (admitting customers) 开门的 kāimén de ‹shop›(admitting visitors) 开放的 kāifàng de ‹museum›the bank won't be open until
 9 银行9点才开门 to be open to the public 向公众开放 the new road won't be open until 2018 这条新建的道路要到2018年才通车 the meeting is now open 会议现在向公众开放 
@@ -38,10 +39,12 @@ C.  intransitive verb
 ⑦ (speak, play first) 起头 qǐtóu to open for [something]/[somebody]; 代表某事物/某人率先开始 to open for the defence Law 由被告方开始发言 to open for the government Politics 率先代表政府发言 to open for England Sport 为英格兰队开球 
 D.  noun 
 ① the open (outside) 户外 hùwài to spend the night in the open 露天过夜 lùtiān guòyè 
-② the open (exposed position) 明处 míngchù to come out into the open «animal» 从暗处出来 cóng ànchù chūlai to be out in the open figurative 公开 gōngkāi to bring [something] out into the open figurative 揭开某事物的真面目 jiēkāi mǒu shìwù de zhēnmiànmù PHRASAL VERBS open out A. intransitive verb 
+② the open (exposed position) 明处 míngchù to come out into the open «animal» 从暗处出来 cóng ànchù chūlai to be out in the open figurative 公开 gōngkāi to bring [something] out into the open figurative 揭开某事物的真面目 jiēkāi mǒu shìwù de zhēnmiànmù PHRASAL VERBS open out 
+A.  intransitive verb 
 ① (widen) «path, land» 变开阔 biàn kāikuò ; «passage, tunnel» 变宽 biàn kuān to open out into [something]; 变宽成为某物 the stream opened out into a pool 小溪逐渐变宽，汇入一个池塘 
 ② (unfold) «fan, flower, wings» 展开 zhǎnkāi the scroll opens out into a painting 卷轴展开成一幅画 
-B.  transitive verb[open something out, open out something] 展开 zhǎnkāi ‹fan, wings, map›open up A. intransitive verb 
+B.  transitive verb[open something out, open out something] 展开 zhǎnkāi ‹fan, wings, map›open up 
+A.  intransitive verb 
 ① (unlock door) 开门 kāimén to open up for [somebody] 给某人开门 
 ② (flower) «flower, bud» 开放 kāifàng 
 ③ (get wider) «crack, crevice» 变宽 biàn kuān a gap has opened up between A and B Sport A和B之间的距离拉开了 a split has opened up in the opposition ranks 对立派别之间的分歧变大了 

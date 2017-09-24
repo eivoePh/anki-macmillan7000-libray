@@ -1,6 +1,7 @@
 rally 
 BrE ˈrali, AmE ˈræli 
-A. noun 
+
+A.  noun 
 ① (meeting) 群众集会 qúnzhòng jíhuì an electoral/a peace rally 选举人/和平大会 to hold or organize a rally 组织集会 
 ② (open-air motor show) 户外汽车赛会 hùwài qìchēsàihuì 
 ③ (car race) 拉力赛 lālìsài a rally car 拉力赛赛车 
@@ -12,7 +13,8 @@ B.  transitive verb
 C.  intransitive verb 
 ① (come together) «supporters» 集合 jíhé to rally to the defence of [somebody] 团结一致捍卫某人 to rally to the cause 团结起来支持事业 
 ② (recover) «patient, health» 复元 fùyuán ; «player, team» 振作精神 zhènzuò jīngshen ; «stock market, currency» 止跌回升 zhǐ diē huíshēng her spirits rallied 她又振作起精神了 
-③ Military «soldiers» 集结 jíjié PHRASAL VERB rally round, rally around A. intransitive verb 团结在一起 tuánjié zài yīqǐ colleagues rallied round to help Anne 同事们都站在安一边帮助她 
+③ Military «soldiers» 集结 jíjié PHRASAL VERB rally round, rally around 
+A.  intransitive verb 团结在一起 tuánjié zài yīqǐ colleagues rallied round to help Anne 同事们都站在安一边帮助她 
 B.  transitive verb[rally round somebody] 合力支持 hélì zhīchí 
 rally 
 ▶verb

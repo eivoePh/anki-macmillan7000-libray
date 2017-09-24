@@ -1,6 +1,7 @@
 creep 
 BrE kriːp, AmE krip 
-A. intransitive verb(past tense, past participle crept) 
+
+A.  intransitive verb(past tense, past participle crept) 
 ① (furtively) 悄悄行进 qiāoqiāo xíngjìn he crept down the stairs 他蹑手蹑脚地下了楼 
 ② (slowly) 缓慢行进 huǎnmàn xíngjìn the train crept into the station 火车缓缓驶进了车站 
 ③ (grow along surface) «plant» 蔓生 mànshēng 

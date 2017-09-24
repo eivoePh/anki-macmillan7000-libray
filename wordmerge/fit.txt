@@ -1,7 +1,8 @@
 fit
 1 
 BrE fɪt, AmE fɪt 
-A. adjective 
+
+A.  adjective 
 ① (in trim) 健康的 jiànkāng de to keep (oneself) fit 保持健康 to look/feel fit 看上去/感觉身体很好 I am not fit for work 我身体不适，不能上班 as fit as a fiddle colloquial 非常健康的 
 ② predicative (suitable) 适合的 shìhé de to be fit for the job 能胜任工作 a house/meal fit for a queen or king 富丽堂皇的房子/精致可口的食物 this house is not fit to live in 这房子不适宜居住 I'm not fit to be seen 我的样子无法见人 not a fit time to do [something] 不是做某事的时候 to be fit and proper formal 适宜 to see or think fit to do [something] 认为做某事是妥当的 to do as one sees or thinks fit 做认为该做的事 
 ③ predicative colloquial (ready) 几乎要…的 jīhū yào… de shouting/singing fit to wake the dead 叫声/歌声大得几乎能把死人吵醒 she looked fit to drop 她看起来快要累垮了 to laugh fit to burst 差点笑破肚子 fit to be tied colloquial 非常恼火 
@@ -20,7 +21,8 @@ C.  intransitive verb(present participle fitting; past tense, past participle fi
 ① (be the right size or shape) 合适 héshì the jacket doesn't fit 这件夹克衫不合身 to fit like a glove «clothes, size» 非常合身 a lid that fits 大小合适的盖子 to fit inside one another «bowls» 可以摞在一起 all the jigsaw pieces fit into place 拼图的所有图块都安放到位 
 ② (be accommodated in) 被容纳 bèi róngnà will the toys all fit into the box? 那个盒子装得下所有玩具吗？ 
 ③ figurative (tally, match) 符合 fúhé his story doesn't fit 他的说法不相符 something doesn't fit here 这里有些不协调 his statement doesn't fit with the facts 他的陈述与事实不符 to fit into one's lifestyle/philosophy 符合自己的生活方式/理念 
-D.  noun 合适 héshì to be a good fit «garment» 很合身 to prefer a looser fit 偏爱宽松的衣服 the fit is quite good 大小正合适 the plug is a perfect fit for the sink 这个塞子用在这个水槽正合适 with seven of us it'll be a tight fit 我们有7个人，会很挤的 PHRASAL VERBS fit in A. intransitive verb 
+D.  noun 合适 héshì to be a good fit «garment» 很合身 to prefer a looser fit 偏爱宽松的衣服 the fit is quite good 大小正合适 the plug is a perfect fit for the sink 这个塞子用在这个水槽正合适 with seven of us it'll be a tight fit 我们有7个人，会很挤的 PHRASAL VERBS fit in 
+A.  intransitive verb 
 ① (be inserted) 被放入 bèi fàngrù the battery fits in there 电池可以装进那里 
 ② (be accommodated) 被容纳 bèi róngnà seven people could fit in (easily) 可以（轻松）容纳7人 these books won't fit in 这些书放不下 
 ③ figurative (be compatible) «statement, plan» 符合 fúhé ; «person» 相处融洽 xiāngchǔ róngqià to fit in with [somebody]/[something]; 适合某人/某事物 it didn't fit in with our arrangements 这与我们的安排有冲突 to fit in (with other people) （与其他人）合得来 I'll fit in with your plans 我会配合你的计划 
@@ -29,7 +31,8 @@ B.  transitive verb[fit something/somebody in, fit in something/somebody]
 ② figurative (find time for) 安排时间见 ānpái shíjiān jiàn ‹person›; 安排时间做 ānpái shíjiān zuò ‹activity›can you fit me in at
 10 o'clock tomorrow? 你能安排明天上午10点与我见面吗？ to fit in a holiday next month 下个月抽出时间去度假 fit out transitive verb 
 ① [fit something out] 为…提供所需物 wèi… tígōng suǒxūwù the kitchen is very well fitted out 这个厨房设备齐全 to fit out [something] as [something]; 把某物改装成某物 to fit the spare bedroom out as an office 把闲置的卧室布置成办公室 
-② to fit [somebody] out with [something]; 给某人配备某物 gěi mǒu rén pèibèi mǒu wù the optician will fit you out with reading glasses 这位眼镜技师将为你配阅读用眼镜 fit together: A. transitive verb to fit A and B together; 把A和B组合在一起 the tent poles have to be fitted together 帐篷支柱必须组装起来 to fit together the pieces of a puzzle literal 把拼图的图块拼好 figurative 理清难题 lǐqīng nántí 
+② to fit [somebody] out with [something]; 给某人配备某物 gěi mǒu rén pèibèi mǒu wù the optician will fit you out with reading glasses 这位眼镜技师将为你配阅读用眼镜 fit together: 
+A.  transitive verb to fit A and B together; 把A和B组合在一起 the tent poles have to be fitted together 帐篷支柱必须组装起来 to fit together the pieces of a puzzle literal 把拼图的图块拼好 figurative 理清难题 lǐqīng nántí 
 B.  intransitive verb 组合在一起 zǔhé zài yīqǐ fit up transitive verb 
 ① = fit out 
 ② 

@@ -1,8 +1,10 @@
 head 
 BrE hɛd, AmE hɛd 
-A. noun 
+
+A.  noun 
 ① CountableAnatomy 头 tóu to nod/shake one's head 点头/摇头 the top of one's head 头顶 a man with a good head of hair 长着一头好头发的男子 to get/have one's head down 低下头 BrE figurative (sleep) 睡觉 shuìjiào (work hard) 埋头工作 máitóu gōngzuò to keep one's head down literal 低着头 figurative 保持低姿态 bǎochí dīzītài with one's head in one's hands 双手抱头 from head to foot or toe 从头到脚 to count heads 清点人数 to go over [somebody's] head (go to sb.'s superior) 越过某人 to stand on one's head 倒立 dàolì to have/get a big head colloquial pejorative 自大 to do [something] standing on one's head 轻而易举地做某事 to stand or turn [something] on its head 推翻 ‹theory, idea›on your (own) head be it! 后果自负！ to turn heads 引人注目 not to be able to make head(s) or tail of [something] 完全不理解某事物 to bite [somebody's] head off colloquial 对某人大喊大叫 to laugh/sneeze/talk etc. one's head off colloquial 狂笑不止/猛打喷嚏/聊个没完等 off the top of one's head 不假思索地 to give [somebody] their head 让某人随意行事 to give a horse its head 放松缰绳让马飞奔 to give ([somebody]) head vulg （对某人）行口交 before noun 头部的 tóubù de ‹injury› → lion 
-①, → sore A.
+①, → sore 
+A. 
 ① 
 ② Countable(size of head) 一个头 yī gè tóu to be a/half a head taller than [somebody], to be taller than [somebody] by a/half a head 高出某人一/半个头 to win by a head 以一个马头的优势获胜 figurative 以微弱的优势获胜 yǐ wēiruò de yōushì huòshèng to be head and shoulders above [somebody] 比某人好得多 
 ③ Countable(mind) 头脑 tóunǎo to get [something] into [somebody's] head 使某人明白某事 to get it into [somebody's] head that … 使某人明白… to get [something] into one's head 偏偏相信某事 to get it into one's head that … 偏偏相信… to put [something] into [somebody's] head 使某人相信某事 to take it into one's head to do [something] 心血来潮想做某事 to get or put [something] out of one's head 把某事物忘掉 to go (right) out of one's head colloquial （立刻）被忘记 to do [something] in one's head 在考虑某事 what's going on in her head? 她在想什么？ use your head! colloquial 动动脑子！ to be or go over [somebody's] head 超出某人的理解力 to talk over [somebody's] head 说话使某人费解 to bother or worry one's head about [something] colloquial 担心某事 to put their/our/your heads together colloquial 集思广益 to keep/lose one's head 保持头脑冷静/惊慌失措 to turn [somebody's] head 使某人得意忘形 to go to [somebody's] head «alcohol» 使某人上头 «success» 冲昏某人的头脑 chōnghūn mǒu rén de tóunǎo to go off one's head BrE colloquial 发疯 out of one's head colloquial 发疯 to be weak or soft in the head colloquial 愚蠢 not right in the head colloquial 头脑不正常 two heads are better than one proverb 两人智慧胜一人 
@@ -10,7 +12,8 @@ A. noun
 ⑤ Countablecolloquial (headache) 头痛 tóutòng to have a bad head 头痛得厉害 
 ⑥ Uncountable(number of people) 人数 rénshù (number of animals) 头数 tóushù a or per head 每人
 10 head of cattle 10头牛 
-⑦ Countable(tip of pin, nail, match) 头 tóu (tip of spear, tool, racket, club) 端头 duāntóu → nail A.
+⑦ Countable(tip of pin, nail, match) 头 tóu (tip of spear, tool, racket, club) 端头 duāntóu → nail 
+A. 
 ① 
 ⑧ Countable(of flower) 头状花序 tóuzhuàng huāxù ; (of cabbage) 叶球 yèqiú 
 ⑨ Countable(front) 前头 qiántou the head of the queue 队首 
@@ -35,7 +38,8 @@ D.  transitive verb
 ⑤ Sport to head the ball 用头顶球 yòng tóu dǐng qiú 
 E.  intransitive verb 朝某方向行进 cháo mǒu fāngxiàng xíngjìn to head home 回家 to head west/in the wrong direction 朝西/朝错误的方向前进 to be heading this/[somebody's] way 朝这边来/朝某人走去 bad weather is heading this way 坏天气要来了 PHRASAL VERBS head for transitive verb[head for somebody/something] 
 ① (move towards) 朝…移动 cháo… yídòng we were heading or headed for the coast 我们那时正向着海岸进发 
-② figurative (approach) 即将遇到 jíjiāng yùdào to be heading for disaster/a breakdown 将遭遇灾难/快要精神崩溃 the economy is headed for recession 经济面临衰退 to be headed for success 即将获得成功 head off A. intransitive verb (move off) 朝…移动 cháo… yídòng to head off for/in the direction of/across the village 朝村庄走去/朝村庄方向走去/穿过村庄 
+② figurative (approach) 即将遇到 jíjiāng yùdào to be heading for disaster/a breakdown 将遭遇灾难/快要精神崩溃 the economy is headed for recession 经济面临衰退 to be headed for success 即将获得成功 head off 
+A.  intransitive verb (move off) 朝…移动 cháo… yídòng to head off for/in the direction of/across the village 朝村庄走去/朝村庄方向走去/穿过村庄 
 B.  transitive verb[head somebody/something off, head off somebody/something] 
 ① (intercept) 拦截 lánjié 
 ② figurative (forestall) 阻止 zǔzhǐ to head off an argument 制止一场争执 head up transitive verb[head something up, head up something] 领导 lǐngdǎo ‹department, team›

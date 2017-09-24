@@ -1,6 +1,7 @@
 run 
 BrE rʌn, AmE rən 
-A. intransitive verb(present participle -nn-, past tense ran, past participle run) 
+
+A.  intransitive verb(present participle -nn-, past tense ran, past participle run) 
 ① (move quickly) 跑 pǎo to run to meet [somebody] 跑着去见某人 to run to catch the bus/to help [somebody] 跑着去赶公交车/去帮助某人 run and catch him! 赶紧去追他！ to run across/along/down/up 跑步穿过/一路跑/跑下/跑上 will you run over to the shop and get some milk? 你去趟商店买牛奶好吗？ to run for the bus/the train 跑着去赶公交车/火车 to come running literal 跑过来 figurative 赶紧做某人喜欢的事 gǎnjǐn zuò mǒu rén xǐhuan de shì the customers will come running 顾客会踊跃购买的 
 ② (as sport or for exercise) 跑步 pǎobù 
 ③ (compete in race) «athlete, dog, horse» 参加赛跑 cānjiā sàipǎo to run in the 100 metres/in the 3:30 (race) 参加100米/3:30开始的赛跑 to run for one's country 代表祖国参加赛跑 
@@ -65,11 +66,13 @@ C.  noun
 ⑱ (unrestricted use) 自由使用 zìyóu shǐyòng (unrestricted access) 自由出入 zìyóu chūrù to give [somebody] the run of 允许某人自由出入 ‹place, house›to have the run of 能随意去 ‹place, house›
 ⑲ Sport (point in cricket, baseball) 得分 défēn to score or make a run 得1分 
 ⑳ Music (rapid passage of notes) 急奏 jí zòu ㉑ (in cards) 同花顺 tónghuāshùn a run of three 3张同花顺 ㉒ (in stocking, pantyhose) 抽丝 chōusī ㉓ AmE (in election) 竞选 jìngxuǎn a run for; 为…的竞选 ‹nomination, office›
-D.  runs noun plural the runs colloquial (diarrhoea) 腹泻 fùxiè to have the runs 拉肚子 lā dùzi PHRASAL VERBS run about intransitive verb BrE = run around A. run about with transitive verb BrE colloquial = run around with run across transitive verb 
+D.  runs noun plural the runs colloquial (diarrhoea) 腹泻 fùxiè to have the runs 拉肚子 lā dùzi PHRASAL VERBS run about intransitive verb BrE = run around 
+A.  run about with transitive verb BrE colloquial = run around with run across transitive verb 
 ① [run across somebody] (meet) 偶然遇见 ǒurán yùjiàn ‹person, acquaintance›
 ② [run across something] (find) 偶然发现 ǒurán fāxiàn ‹object, reference, quotation›run after transitive verb 
 ① [run after somebody/something] (try to catch) 追赶 zhuīgǎn ‹person, thief, vehicle, animal, ball›
-② [run after somebody] colloquial (seek relationship with) 追求 zhuīqiú run along intransitive verb dated colloquial [尤指命令儿童] 走开 zǒukāi run along (now)! （马上）走开！ run around A. intransitive verb 到处跑 dàochù pǎo I've been running around all over the place looking for you 我在到处找你 
+② [run after somebody] colloquial (seek relationship with) 追求 zhuīqiú run along intransitive verb dated colloquial [尤指命令儿童] 走开 zǒukāi run along (now)! （马上）走开！ run around 
+A.  intransitive verb 到处跑 dàochù pǎo I've been running around all over the place looking for you 我在到处找你 
 B.  transitive verb[run around something] 在…处跑来跑去 zài… chù pǎolái pǎoqù the children were running around the house 孩子们在屋子里跑来跑去 run around with transitive verb[run around with somebody] colloquial 与…鬼混 yǔ… guǐhùn run at transitive verb 
 ① [run at somebody/something] (charge towards) 冲向 chōngxiàng 
 ② [run at something] (be at) «inflation, unemployment» 达到 dádào ‹percentage, level, rate, figure›with inflation running at 2.2% 通胀率达到2.2% run away 
@@ -77,14 +80,16 @@ B.  transitive verb[run around something] 在…处跑来跑去 zài… chù pǎ
 ② colloquial (go away) 离开 líkāi don't run away; the play has only just started 别走，戏才刚刚开始 
 ③ to run away from [somebody]/[something]; (leave) 逃离某人/某处 táolí mǒu rén/mǒu chù (try to avoid) 回避某人/某事物 huíbì mǒu rén/mǒu shìwù to run away from home/one's husband 离家出走/离开丈夫 lí jiā chūzǒu/líkāi zhàngfu to run away from one's responsibilities/a problem 逃避责任/问题 táobì zérèn/wèntí 
 ④ (elope) 私奔 sībēn to run away together; 一起私奔 
-⑤ (flow away) «water, liquid» 流掉 liúdiào run away with A. [run away with something] transitive verb 
+⑤ (flow away) «water, liquid» 流掉 liúdiào run away with 
+A.  [run away with something] transitive verb 
 ① (abscond with) 偷走 tōuzǒu ‹profits, takings, money›
 ② (mistakenly believe) 错误地相信 cuòwù de xiāngxìn ‹impression›I don't want him running away with that idea 我不想让他有那种错误想法 to run away with the idea or notion that … 误以为… 
 ③ (win easily) «person, team, company» 轻松赢得 qīngsōng yíngdé ‹prize, title, match›
 ④ BrE (use up) «activity, project» 耗费 hàofèi ‹money, resources›
 B.  [run away with somebody] transitive verb 
 ① (overwhelm) «emotions» 脱离…的控制 tuōlí… de kòngzhì to let one's emotions/enthusiasm/imagination run away with one 按捺不住情感/被热情冲昏了头/想入非非 
-② (elope with) 和…私奔 hé… sībēn ‹boyfriend, lover›run by: transitive verb to run [something] by [somebody] colloquial ［为了解反应] 把…告诉某人 bǎ… gàosu mǒu rén ‹idea, proposal›can you run that plan by me again? 把那个计划再说给我听听好吗？ run down A. intransitive verb 
+② (elope with) 和…私奔 hé… sībēn ‹boyfriend, lover›run by: transitive verb to run [something] by [somebody] colloquial ［为了解反应] 把…告诉某人 bǎ… gàosu mǒu rén ‹idea, proposal›can you run that plan by me again? 把那个计划再说给我听听好吗？ run down 
+A.  intransitive verb 
 ① (lose power) «battery» 耗尽 hàojìn ; «watch, machine» 停止运转 tíngzhǐ yùnzhuǎn 
 ② (decline) «industry, operation» 萎缩 wěisuō 
 ③ (decrease) «reserves, stocks» 减少 jiǎnshǎo 
@@ -97,12 +102,14 @@ C.  [run something down, run down something] transitive verb
 ① (make lose power) 耗尽 hàojìn ‹battery›; 使…停止运转 shǐ… tíngzhǐ yùnzhuǎn ‹watch, machine›
 ② (reduce) 减少 jiǎnshǎo ‹production, reserves›; 使…萎缩 shǐ… wěisuō ‹industry›run in transitive verb 
 ① [run something in, run in something] BrE Auto 磨合 móhé ‹car, engine›‘running in — please pass’ “磨合驾驶──请先行” 
-② [run somebody in] colloquial (arrest) «person, police» 拘留 jūliú run into A. [run into somebody/something] transitive verb (collide with) «person, vehicle» 撞上 zhuàngshang ‹person, vehicle, tree, wall›
+② [run somebody in] colloquial (arrest) «person, police» 拘留 jūliú run into 
+A.  [run into somebody/something] transitive verb (collide with) «person, vehicle» 撞上 zhuàngshang ‹person, vehicle, tree, wall›
 B.  [run into something] transitive verb 
 ① (experience) 遇到 yùdào ‹difficulties›to run into debt 负债 
 ② (enter area of) 遭遇 zāoyù ‹bad weather›
 ③ (amount to) «debt, sales» 达到 dádào ‹hundreds, millions›an income running into six figures 高达6位数的收入 
-C.  [run into somebody] transitive verb (meet) 偶然遇见 ǒurán yùjiàn run off A. intransitive verb 
+C.  [run into somebody] transitive verb (meet) 偶然遇见 ǒurán yùjiàn run off 
+A.  intransitive verb 
 ① (flee) «person, animal» 跑掉 pǎo diào 
 ② (abscond) 逃走 táozǒu 
 ③ colloquial (go away) 离开 líkāi don't let him run off without saying goodbye 别让他不辞而别 
@@ -112,14 +119,16 @@ B.  transitive verb[run something off, run off something]
 ② (contest) «organizers» 使…进行 shǐ… jìnxíng ‹heats›
 ③ (drain off) 使…流出 shǐ… liúchū ‹liquid›run off the water that has been standing in the pipes 把管子里积存的水排干 run off with transitive verb 
 ① [run off with something] (abscond with) 偷走 tōuzǒu ‹takings, money›
-② [run off with somebody] (elope with) 和…私奔 hé… sībēn run on A. intransitive verb «meeting, seminar, programme, person» 拖延 tuōyán 
+② [run off with somebody] (elope with) 和…私奔 hé… sībēn run on 
+A.  intransitive verb «meeting, seminar, programme, person» 拖延 tuōyán 
 B.  transitive verb 
 ① [run something on, run on something] Printing 接排 jiēpái 
 ② [run on somebody/something] (be concerned with) «thoughts, discussion, conversation» 围绕 wéirào ‹person, subject, event›; «mind» 总想着 zǒng xiǎngzhe ‹person, subject, event›run out intransitive verb 
 ① (be used up) 被耗尽 bèi hàojìn my money ran out 我的钱花完了 time is running out 剩下的时间不多了 my patience is running out 我越来越没耐心了 their luck ran out 他们的好运到头了 
 ② (become empty) «pen» 用干墨水 yònggān mòshuǐ ; «vending machine» 售光 shòuguāng 
 ③ (exhaust supply) 用完 yòngwán sorry, I've run out 对不起，我用完了 the car ran out of petrol 车没油了 
-④ (expire) «passport, licence, agreement» 过期 guòqī ; «contract» 失效 shīxiào run out on transitive verb[run out on somebody] colloquial 抛弃 pāoqì ‹wife, husband, partner›run over A. [run somebody/something over, run over somebody/something] transitive verb (knock down) 撞倒 zhuàngdǎo 
+④ (expire) «passport, licence, agreement» 过期 guòqī ; «contract» 失效 shīxiào run out on transitive verb[run out on somebody] colloquial 抛弃 pāoqì ‹wife, husband, partner›run over 
+A.  [run somebody/something over, run over somebody/something] transitive verb (knock down) 撞倒 zhuàngdǎo 
 B.  [run over something] transitive verb 
 ① (drive over) 从…上压过 cóng… shang yāguo ‹body, log, bump, stone›
 ② (explain) 快速解释 kuàisù jiěshì ‹schedule, main points, figures›
@@ -127,7 +136,8 @@ B.  [run over something] transitive verb
 C.  intransitive verb 
 ① (overrun) «meeting, programme» 超时 chāoshí to run over by
 10 minutes 超时10分钟 
-② (overflow) «container, water» 溢出 yìchū run past transitive verb colloquial = run by run round intransitive verb, transitive verb BrE = run around run round with transitive verb BrE colloquial = run around with run through A. [run through somebody/something] transitive verb «murmur, excitement, thrill» 迅速传遍 xùnsù chuánbiàn ‹crowd, audience›; «thought, tune» 在…里闪过 zài… li shǎnguo ‹head, mind›
+② (overflow) «container, water» 溢出 yìchū run past transitive verb colloquial = run by run round intransitive verb, transitive verb BrE = run around run round with transitive verb BrE colloquial = run around with run through 
+A.  [run through somebody/something] transitive verb «murmur, excitement, thrill» 迅速传遍 xùnsù chuánbiàn ‹crowd, audience›; «thought, tune» 在…里闪过 zài… li shǎnguo ‹head, mind›
 B.  [run through something] transitive verb 
 ① (pervade) «theme, prejudice» 遍布 biànbù ‹work, society›
 ② (present, explain) 快速说明 kuàisù shuōmíng ‹schedule, main points, figures›
@@ -137,7 +147,8 @@ B.  [run through something] transitive verb
 C.  [run something through something] transitive verb 
 ① (process) «person» 用…处理… yòng… chǔlǐ… to run [something] through the computer 用计算机处理 ‹data, figures›
 ② (subject to) 使…经受… shǐ… jīngshòu… to run [something] through a series of tests 对…进行一系列检测 ‹machine, device, sample›
-D.  [run somebody/something through] transitive verb literary (stab) 刺穿 cìchuān to run [somebody]/[something] through with a sword/spear; 用剑/矛刺穿某人/某物 run to A. [run to somebody/something] transitive verb (have recourse to) 向…求助 xiàng… qiúzhù ‹person, authority›to go running to one's parents 去找父母帮忙 to go running to the police 去找警察求助 don't come running to me for a handout 别来求我施舍 
+D.  [run somebody/something through] transitive verb literary (stab) 刺穿 cìchuān to run [somebody]/[something] through with a sword/spear; 用剑/矛刺穿某人/某物 run to 
+A.  [run to somebody/something] transitive verb (have recourse to) 向…求助 xiàng… qiúzhù ‹person, authority›to go running to one's parents 去找父母帮忙 to go running to the police 去找警察求助 don't come running to me for a handout 别来求我施舍 
 B.  [run to something] transitive verb 
 ① (extend to) 达到 dádào to run to 300 pages 长达300页 her tastes don't run to modern jazz 她还欣赏不了现代爵士乐 
 ② (be enough for) «income, savings» 足够…之用 zúgòu… zhī yòng ‹object, activity›his salary doesn't run to Caribbean cruises 他的薪水不足以去加勒比海乘船游览 

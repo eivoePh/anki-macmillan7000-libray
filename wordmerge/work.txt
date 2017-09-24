@@ -1,7 +1,9 @@
 work 
 BrE wəːk, AmE wərk 
-A. noun 
-① Uncountable(activities, tasks) 工作 gōngzuò (labour) 劳动 láodòng research work 研究工作 the work of the Red Cross 红十字会的工作 work done by machines 机器干的工作 manual/intellectual work 手工/脑力劳动 light/heavy work 轻/重活儿 to go to or get to work 开始工作 to go to or get (down) to or set to work on [something]/doing [something] 着手某事/做某事 to put [somebody] to work (on [something]/doing [something]) 安排某人做（某）工作 to make work for [somebody] 给某人找麻烦 to put work into [something] 在某事物上花功夫 the house needs a lot of work doing BrE or done AmE to it 这房子得好好收拾一番 to be at work (on [something]) 忙着（做某事） secret forces were at work 秘密势力在作祟 work in hand 手头的工作 → cut out A.
+
+A.  noun 
+① Uncountable(activities, tasks) 工作 gōngzuò (labour) 劳动 láodòng research work 研究工作 the work of the Red Cross 红十字会的工作 work done by machines 机器干的工作 manual/intellectual work 手工/脑力劳动 light/heavy work 轻/重活儿 to go to or get to work 开始工作 to go to or get (down) to or set to work on [something]/doing [something] 着手某事/做某事 to put [somebody] to work (on [something]/doing [something]) 安排某人做（某）工作 to make work for [somebody] 给某人找麻烦 to put work into [something] 在某事物上花功夫 the house needs a lot of work doing BrE or done AmE to it 这房子得好好收拾一番 to be at work (on [something]) 忙着（做某事） secret forces were at work 秘密势力在作祟 work in hand 手头的工作 → cut out 
+A. 
 ①, → devil 
 ①, → play 
 C. 
@@ -48,7 +50,8 @@ E.  reflexive verb
 ② Culinary 掺入 chānrù ‹ingredient›work off transitive verb[work something off], [work off something] 
 ① (pay off by working) 挣钱偿还 zhèng qián chánghuán ‹loan, debt›
 ② (get rid of) 去除 qùchú ‹body fat, energy, anger›to work off some excess weight 减掉多余的体重 to work [something] off on [somebody]; 在某人身上发泄 ‹emotion, frustration›don't work off your bad temper on me! 别拿我撒气！ 
-③ (remove) 使…松脱 shǐ… sōngtuō ‹lid, ring›work out A. intransitive verb 
+③ (remove) 使…松脱 shǐ… sōngtuō ‹lid, ring›work out 
+A.  intransitive verb 
 ① (exercise) 锻炼 duànliàn 
 ② (develop in a successful way) «events, situation» 有进展 yǒu jìnzhǎn their marriage didn't work out 他们的婚姻不美满 sometimes things just work out that way 有时候事情的结果就是那样 I hope things work out for him 我希望他顺利 
 ③ (be solvable) «problem» 被解决 bèi jiějué I can't get this equation to work out 我无法解出这个方程 
@@ -62,7 +65,8 @@ B.  [work something out], [work out something] transitive verb
 ⑤ usually passive (exhaust) 把…开采光 bǎ… kāicǎi guāng ‹land, mine›a worked-out silver mine 采尽的银矿 
 ⑥ Administration 持续工作到 chíxù gōngzuò dào ‹period of time›to work out one's notice 工作到期满 
 C.  [work somebody out], [work out somebody] transitive verb colloquial 了解…的性格 liǎojiě… de xìnggé I can't work her out 我摸不透她的脾气 
-D.  reflexive verb to work itself out; «problem, situation» 逐步自行解决 zhúbù zìxíng jiějué things will work themselves out 事情终将自动了结 work over transitive verb[work over somebody], [work somebody over] colloquial 拷打 kǎodǎ work round: intransitive verb to work round to [something]; 渐渐讲到 jiànjiàn jiǎngdào ‹topic, question›to work round to doing [something]; 渐渐讲到做某事 jiànjiàn jiǎngdào zuò mǒu shì to work round to asking a question 慢慢绕到提问上 mànmàn ràodào tíwèn shang work up A. intransitive verb 
+D.  reflexive verb to work itself out; «problem, situation» 逐步自行解决 zhúbù zìxíng jiějué things will work themselves out 事情终将自动了结 work over transitive verb[work over somebody], [work somebody over] colloquial 拷打 kǎodǎ work round: intransitive verb to work round to [something]; 渐渐讲到 jiànjiàn jiǎngdào ‹topic, question›to work round to doing [something]; 渐渐讲到做某事 jiànjiàn jiǎngdào zuò mǒu shì to work round to asking a question 慢慢绕到提问上 mànmàn ràodào tíwèn shang work up 
+A.  intransitive verb 
 ① (progress) to work up to [something]; 逐渐讲到 ‹confession› 逐步发展到 zhúbù fāzhǎn dào ‹fight, argument›to work up to a climax «music, scene» 逐步进入高潮 
 ② (ride up) «garment» 缩上去 suō shangqu 
 B.  transitive verb 

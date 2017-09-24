@@ -1,6 +1,7 @@
 leaflet 
 BrE ˈliːflɪt, AmE ˈliflɪt 
-A. noun 
+
+A.  noun 
 ① (for advertising, propaganda) 传单 chuándān 
 ② (little leaf) 小叶 xiǎoyè 
 B.  transitive verb 向…散发传单 xiàng… sànfā chuándān ‹homes, houses›; 在…内散发传单 zài… nèi sànfā chuándān ‹town, area›

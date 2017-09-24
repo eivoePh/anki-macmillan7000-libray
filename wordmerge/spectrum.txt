@@ -1,5 +1,6 @@
 spectrum 
-BrE ˈspɛktrəm, AmE ˈspɛktrəm/ (plural spectra) noun 
+BrE ˈspɛktrəm, AmE ˈspɛktrəm
+(plural spectra) noun 
 ① (of colours) 光谱 guāngpǔ 
 ② (range) 电磁波谱 diàncíbōpǔ 
 ③ (distribution) 频谱 pínpǔ 

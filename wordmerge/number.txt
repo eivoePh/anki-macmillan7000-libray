@@ -1,11 +1,13 @@
 number 
 BrE ˈnʌmbə, AmE ˈnəmbər 
-A. noun 
+
+A.  noun 
 ① Countable(figure) 数字 shùzì a six-figure number 6位数 odd/even/whole/cardinal/ordinal number 奇数/偶数/整数/基数/序数 a number greater/less than … 大于/小于…的数 the number eleven 11这个数 to be good at numbers colloquial 擅长算术 
 ② Countable(of bus, house, telephone) 号码 hàomǎ (on list, in queue, in hierarchy) 编号 biānhào page/volume number 页码/卷次 identification/passport number 身份证/护照号码 account/credit card/registration number 账号/信用卡号/登记号 number 28 in the charts 排行榜第28位 to live at number 220 (Acacia Avenue) 住在（阿卡西亚大街）220号 to wear number
 10 Sport 穿10号球衣 the French number
 2 Sport 法国队的2号选手 to colour or paint by numbers 执行简单的指令 to do [something] by numbers 一板一眼做某事 to have [somebody's] number colloquial 了解某人的底细 to have [somebody's] number on it colloquial «bullet, bomb» 注定要击中某人 [somebody's] number is up colloquial 某人在劫难逃 
-③ Countable and uncountable(amount, quantity) 数量 shùliàng a number of people/times 一些人/几次 the (exact) number of … …的（准确）数目 vast or large numbers of … 大量的… a certain/small number of … 有些/少数… a large or great/fair number (of …) 大量/相当多（的…） the numbers were equal on both sides 双方人数相同 any number of times/people (very large) 许多次/人 (limitless) 无论多少次/人 any number can play 随便多少人都可以玩 we were 12 in number 我们有12个人 few/many in number 数量很少/很多 they came in (their) numbers 他们来的人很多 in small/large/equal numbers 少量/大量/数量相同的 birds in such numbers 这么多鸟 beyond or without number literary 无数的 to do [something] by weight or force of numbers 靠人多做某事 
+③ Countable and uncountable(amount, quantity) 数量 shùliàng a number of people/times 一些人/几次 the (exact) number of … …的（准确）数目 vast or large numbers of … 大量的… a certain/small number of … 有些/少数… a large or great/fair number (of …) 大量/相当多（的…） the numbers were equal on both sides 双方人数相同 any number of times/people (very large) 许多次/人 (limitless) 无论多少次/人 any number can play 随便多少人都可以玩 we were
+12 in number 我们有12个人 few/many in number 数量很少/很多 they came in (their) numbers 他们来的人很多 in small/large/equal numbers 少量/大量/数量相同的 birds in such numbers 这么多鸟 beyond or without number literary 无数的 to do [something] by weight or force of numbers 靠人多做某事 
 ④ literary (group) 一伙 yī huǒ one of our number 我们中的一员 among their number, two spoke English 他们中有两人说英语 to be of their number (one of them) 是他们中的一员 (with them) 和他们是一起的 
 ⑤ CountableJournalism 一期 yī qī the July number 7月号 
 ⑥ CountableMusic, Theatre (song) 一首歌 yī shǒu gē (dance) 一支舞 yī zhī wǔ (piece of music) 一段音乐 yī duàn yīnyuè and for my next number … 我下一首歌曲… a couple of jazz/dance numbers 几段爵士舞/几支舞曲 my big number 我的压轴演出 
@@ -13,7 +15,8 @@ A. noun
 ⑧ UncountableLinguistics 数 shù singular/plural number 单数/复数 
 B.  transitive verb 
 ① (allocate number to) 给…编号 gěi… biān hào I numbered the boxes from
-1 to 20 我给这些盒子从1到20编上号 
+1 to
+20 我给这些盒子从1到20编上号 
 ② (amount to) to number X 共计X gòngjì X 
 ③ (include) 把…归入 bǎ… guīrù to number [somebody]/[something] among or with [something]; 把某人/某物归入某类 
 ④ (be limited) to be numbered; 为数有限 wéishù yǒuxiàn [somebody's] days are numbered 某人已时日无多 mǒu rén yǐ shírì wú duō 

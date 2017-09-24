@@ -1,6 +1,7 @@
 lift 
 BrE lɪft, AmE lɪft 
-A. transitive verb 
+
+A.  transitive verb 
 ① (pick up) 拿起 náqǐ ‹plate, glass, book›; 抱起 bàoqǐ ‹child›; 提起 tíqǐ ‹suitcase›the piano was too heavy for us to lift 这架钢琴太重了，我们抬不动 these containers can be lifted only by the most powerful cranes 这些集装箱只有最强力的起重机才能吊起来 she lifted the heavy box down from the shelf 她把那个重盒子从架子上搬了下来 one, two, three, lift! 一、二、三，起！ 
 ② (raise) 抬起 táiqǐ ‹leg, head›; 举起 jǔqǐ ‹arm, hand›he lifted his feet off the stool 他把脚从凳子上放下来 he never lifted his head from his book 他一直埋头看书 
 ③ Military (airlift) 空运 kōngyùn three men were lifted off the burning ship by helicopter 有3个人被直升机从燃烧的船上吊起救走了 
@@ -20,8 +21,10 @@ C.  noun
 ② Countable(ride) 免费乘车 miǎnfèi chéngchē to give [somebody] a lift; 让某人搭车 to get a lift from or off or with [somebody]; 搭某人的车 I thumbed or hitched a lift (home/to the railway station) 我搭了便车（回家/去火车站） 
 ③ Countable(boost) 鼓舞 gǔwǔ to give [somebody] a tremendous lift 给某人极大的鼓舞 
 ④ CountableSport (in weightlifting) 举 jǔ each competitor has three lifts 每位选手有3次试举机会 
-⑤ UncountableAviation 升力 shēnglì PHRASAL VERBS lift off A. intransitive verb «rocket, spaceship» 发射 fāshè 
-B.  transitive verb[lift something/somebody off, lift off something/somebody] 揭掉 jiēdiào ‹lid, cover, roof›; 吊起 diàoqǐ ‹person›we carefully lifted the beam off his leg 我们小心翼翼地把那根屋梁木从他腿上移开了 the climbers had to be lifted off by helicopter 攀登者只得由直升机吊起救走 lift up A. transitive verb[lift up something, lift something up] 举起 jǔqǐ ‹trophy, arm›; 抱起 bàoqǐ ‹person›; 撩起 liāoqǐ ‹skirt›; 掀起 xiānqǐ ‹carpet›; 抬起 táiqǐ ‹head, foot, elbow›lift that box up on to the shelf 把那只箱子搬到架子上 
+⑤ UncountableAviation 升力 shēnglì PHRASAL VERBS lift off 
+A.  intransitive verb «rocket, spaceship» 发射 fāshè 
+B.  transitive verb[lift something/somebody off, lift off something/somebody] 揭掉 jiēdiào ‹lid, cover, roof›; 吊起 diàoqǐ ‹person›we carefully lifted the beam off his leg 我们小心翼翼地把那根屋梁木从他腿上移开了 the climbers had to be lifted off by helicopter 攀登者只得由直升机吊起救走 lift up 
+A.  transitive verb[lift up something, lift something up] 举起 jǔqǐ ‹trophy, arm›; 抱起 bàoqǐ ‹person›; 撩起 liāoqǐ ‹skirt›; 掀起 xiānqǐ ‹carpet›; 抬起 táiqǐ ‹head, foot, elbow›lift that box up on to the shelf 把那只箱子搬到架子上 
 B.  intransitive verb «lid» 被揭开 bèi jiēkāi ; «flap» 被掀起 bèi xiānqǐ ; «seat» 被抬起 bèi táiqǐ 
 lift 
 ▶verb

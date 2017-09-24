@@ -1,6 +1,7 @@
 read 
 BrE riːd, AmE rid 
-A. transitive verb(past tense, past participle read /red/) 
+
+A.  transitive verb(past tense, past participle read /red/) 
 ① (look through) 读 dú ‹book, newspaper›; 读…的作品 dú… de zuòpǐn ‹author›to read [something] from [something]; 读某物上的某内容 he used to read a passage from the Bible every evening 他过去常常每晚读一段《圣经》 to read [something] to oneself; 默读某物 to read [something] silently 默读某物 to take [something] as read 假定大家都读过并认可 ‹minutes, report› figurative 不经讨论即认定某事 bù jīng tǎolùn jí rèndìng mǒu shì to take it as read (that) … 直接认定… 
 ② (understand meaning of) 看懂 kàndǒng ‹text, foreign language, writing›can you read music? 你识谱吗？ 
 ③ (give oral rendition of) 朗读 lǎngdú to read [something] aloud or out loud 朗读某物 to read [something] to [somebody], to read [somebody] [something]; 读某物给某人听 go on: read it to us 念吧，念给我们听听 to read [something] for [somebody]; 为某人读某物 
@@ -11,11 +12,13 @@ A. transitive verb(past tense, past participle read /red/)
 ⑧ (interpret) 解读 jiědú how do you read the situation? 你对目前的形势怎么看？ to read the signs 识别征兆 this passage can be read in various ways 这段话可以有几种理解 to read [something] as [something]; 将某事物理解为某事物 don't read his comments as proof of his sincerity 别以为他的评论证明了他的诚意 the book can be read as a satire 这本书可以说是一部讽刺作品 
 ⑨ (have as wording) «notice» 写着 xiězhe the sign reads ‘no admittance’ 告示牌上写着“禁止入内” 
 ⑩ (inspect and record) 读取…的读数 dúqǔ… de dúshù I can't read what the pressure gauge says 我不会看压力计上的读数 I've come to read the gas meter 我是来抄煤气表的 
-⑪ (show) «meter, dial, gauge, instrument» 显示 xiǎnshì the thermometer reads 20 degrees 温度计上显示20度 
+⑪ (show) «meter, dial, gauge, instrument» 显示 xiǎnshì the thermometer reads
+20 degrees 温度计上显示20度 
 ⑫ Computing 读 dú ‹disk, file›we can read the data we need from the disk 我们可以从那张盘上读取所需数据 
 ⑬ Radio, Telecommunications 收听到 shōutīng dào ‹person, pilot›to read [somebody] loud and clear 听到某人的声音了，响亮又清楚 
 ⑭ BrE University dated 学习 xuéxí ‹subject›he's decided to read law for his degree 他已决定攻读法学学位 
-⑮ (substitute in a text) 替换为 tìhuàn wéi ‹word›for ‘cat’in line 12 read ‘cart’ 第12行中的cat应为cart 
+⑮ (substitute in a text) 替换为 tìhuàn wéi ‹word›for ‘cat’in line
+12 read ‘cart’ 第12行中的cat应为cart 
 B.  intransitive verb(past tense, past participle read /red/) 
 ① (understand words) 识字 shízì the baby can read pretty well 这个孩子能识好多字了 to read and write 看书写字 
 ② (go through written text) 阅读 yuèdú to read silently, to read to oneself 默读 to read between the lines 领悟言外之意 

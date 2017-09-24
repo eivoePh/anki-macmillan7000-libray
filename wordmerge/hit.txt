@@ -1,7 +1,9 @@
 hit 
 BrE hɪt, AmE hɪt 
-A. transitive verb(present participle -tt-; past tense, past participle hit) 
-① (strike) 击 jī to hit the ball out of the court 把球打出场外 to hit the nail with the hammer 用锤子敲钉子 to hit [somebody] on the back 拍某人的背 he didn't know what hit him figurative 他惊得目瞪口呆 to hit [somebody] (straight or right) between the eyes figurative 对某人来说一目了然 to hit it off (with [somebody]) figurative colloquial （与某人）一见如故 → nail A.
+
+A.  transitive verb(present participle -tt-; past tense, past participle hit) 
+① (strike) 击 jī to hit the ball out of the court 把球打出场外 to hit the nail with the hammer 用锤子敲钉子 to hit [somebody] on the back 拍某人的背 he didn't know what hit him figurative 他惊得目瞪口呆 to hit [somebody] (straight or right) between the eyes figurative 对某人来说一目了然 to hit it off (with [somebody]) figurative colloquial （与某人）一见如故 → nail 
+A. 
 ① 
 ② (reach target) 击中 jīzhòng Sport 击中得分 jīzhòng défēn to hit the target 命中目标 to fire and hit [somebody] 开枪打中某人 to hit a home run 打出本垒打 to hit [somebody]/[something] where it hurts colloquial 击中某人/某事物的要害 
 ③ (collide with) 碰撞 pèngzhuàng to hit one's head on [something] 头碰到某物 to hit the roof or ceiling figurative colloquial 勃然大怒 
@@ -24,7 +26,8 @@ C.  noun
 ③ (popular person) 受欢迎的人 shòu huānyíng de rén (popular song) 流行歌曲 liúxíng gēqǔ to be a big or smash hit «show» 风靡一时 «record» 十分畅销 shífēn chàng xiāo to be a (big) hit with [somebody] colloquial （极）受某人喜爱 before noun 畅销的 chàngxiāo de ‹song, record›; 风靡一时的 fēngmǐ yīshí de ‹film, series›
 ④ slang (dose) [毒品的] 一剂 yī jì 
 ⑤ slang (murder) 谋杀 móushā 
-⑥ Computing (visit to a website) 点击 diǎnjī (in search results) 搜索结果 sōusuǒ jiéguǒ to get 10,000 hits a day 日访问量1万次 PHRASAL VERBS hit back A. transitive verb 
+⑥ Computing (visit to a website) 点击 diǎnjī (in search results) 搜索结果 sōusuǒ jiéguǒ to get 10,000 hits a day 日访问量1万次 PHRASAL VERBS hit back 
+A.  transitive verb 
 ① [hit somebody back] (strike in return) 回击 huíjī 
 ② [hit something back, hit back something] Sport 把…击回 bǎ… jīhuí ‹ball, shot›
 B.  intransitive verbto hit back at [somebody]/[something] 

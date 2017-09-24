@@ -1,2 +1,4 @@
-'etc' not found in Dictionary.
+etc
+及其他, 等等
+
 'etc' not found in Dictionary.

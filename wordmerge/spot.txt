@@ -1,6 +1,7 @@
 spot 
 BrE spɒt, AmE spɑt 
-A. noun 
+
+A.  noun 
 ① (dot on fabric, dice, domino) 点 diǎn (on animal, insect) 斑点 bāndiǎn a red dress with white spots 红底白点的连衣裙 to change one's spots figurative 改变本性 
 ② (stain) 污渍 wūzì a grease/rust/blood spot 油渍/锈斑/血迹 spots of mud 泥点 to knock spots off [somebody]/[something] BrE colloquial 远远胜过某人/某事物 
 ③ (pimple) 丘疹 qiūzhěn (bump on fruit, leaves) 疤点 bādiǎn to have a spot on one's nose 鼻子上长了个粉刺 to have spots (acne) 长青春痘 to come or break out in spots (rash) 身上长皮疹 
@@ -11,7 +12,8 @@ A. noun
 ⑧ Television, Radio (slot) 节目档 jiémùdàng (for commercial) 广告位 guǎnggàowèi to have a regular five-minute spot on the radio 在广播中有一档5分钟的固定栏目 
 ⑨ colloquial (ranking) 排名位置 páimíng wèizhi to have or be in the top or number-one spot 排名第一 
 ⑩ figurative (blemish) 污点 wūdiǎn a spot on [somebody's] reputation 某人名誉上的污点 his record is without spot or stain 他的履历清清白白 
-⑪ Theatre, Cinema = spotlight A. 
+⑪ Theatre, Cinema = spotlight 
+A.  
 ⑫ (in football) the spot 罚球点 fáqiúdiǎn 
 B.  transitive verb(present participle etc. -tt) 
 ① (see) 看见 kànjian she was spotted at a hotel 有人看见她在一家旅馆 to spot that something is wrong 发现有问题 

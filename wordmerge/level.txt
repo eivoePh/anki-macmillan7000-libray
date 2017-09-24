@@ -1,6 +1,7 @@
 level 
 BrE ˈlɛv(ə)l, AmE ˈlɛvəl 
-A. adjective 
+
+A.  adjective 
 ① (not at an angle) 水平的 shuǐpíng de (not bumpy) 平坦的 píngtǎn de I don't think this bed is level 我认为床不平 level ground 平地 a level teaspoonful of salt 一平茶匙盐 
 ② (at equal height) 等高的 děnggāo de the curtains are not hanging level 窗帘挂得不一样高 when the water is level with this mark, the tank is half-full 当水与这个标记平齐时，水箱就装满了一半 
 ③ (abreast) 并排的 bìngpái de the police car drew level with the taxi 警车追上来与出租车并排行驶 a level race 一场势均力敌的比赛 
@@ -25,11 +26,13 @@ C.  transitive verb(present participle etc. -ll- BrE, -l- AmE )
 ④ (make equal) 使相等 shǐ xiāngděng to level the score 扳平比分 
 ⑤ (aim) 以…瞄准 yǐ… miáozhǔn he levelled his gun at my chest 他举枪瞄准我的胸膛 
 ⑥ (direct) 使针对 shǐ zhēnduì he levelled an icy stare at his wife 他冷冷地注视着妻子 to level a charge at or against [somebody] 对某人提出控告 
-⑦ (in surveying) 对…作水平测量 duì… zuò shuǐpíng cèliáng ‹land›PHRASAL VERBS level off A. transitive verb[level something off, level off something] (make horizontal) 使…保持水平 shǐ… bǎochí shuǐpíng (make flat) 把…弄平 bǎ… nòngpíng ‹pile, mound›level the surface off by rubbing it with sandpaper 用砂纸将表面磨平 
+⑦ (in surveying) 对…作水平测量 duì… zuò shuǐpíng cèliáng ‹land›PHRASAL VERBS level off 
+A.  transitive verb[level something off, level off something] (make horizontal) 使…保持水平 shǐ… bǎochí shuǐpíng (make flat) 把…弄平 bǎ… nòngpíng ‹pile, mound›level the surface off by rubbing it with sandpaper 用砂纸将表面磨平 
 B.  intransitive verb 
 ① Aviation «aircraft, pilot» 水平飞行 shuǐpíng fēixíng 
 ② (become horizontal) «curve» 走平 zǒu píng ; «slope, road» 变得平坦 biàn de píngtǎn 
-③ (stabilize) 呈稳定状态 chéng wěndìng zhuàngtài the rate of inflation has levelled off at 8% 通货膨胀率稳定在了8% level out A. transitive verb [level something out, level out something] (make horizontal) 使…保持水平 shǐ… bǎochí shuǐpíng (make flat) 把…弄平 bǎ… nòngpíng ‹pile, mound›
+③ (stabilize) 呈稳定状态 chéng wěndìng zhuàngtài the rate of inflation has levelled off at 8% 通货膨胀率稳定在了8% level out 
+A.  transitive verb [level something out, level out something] (make horizontal) 使…保持水平 shǐ… bǎochí shuǐpíng (make flat) 把…弄平 bǎ… nòngpíng ‹pile, mound›
 B.  intransitive verb → level off 
 B. 
 ② level up transitive verb[level up something, level something up] (by raising lower object) 把…升高到平齐 bǎ… shēnggāo dào píngqí (by moving either object) 把…调整到平齐 bǎ… tiáozhěng dào píngqí some of the pictures need levelling up 有些图片需要对齐 level with transitive verb[level with somebody] colloquial 对…说实话 duì… shuō shíhuà level with me: what are my chances of success? 实话告诉我：我成功的机会有多大？ 

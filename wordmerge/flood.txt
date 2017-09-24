@@ -1,6 +1,7 @@
 flood 
 BrE flʌd, AmE fləd 
-A. noun 
+
+A.  noun 
 ① Uncountable and countable(large amount or excess flow of water) 洪水 hóngshuǐ are you insured against flood? 你投保水灾险了吗？ to be in (full) flood literal 泛滥 fànlàn figurative 正起劲 zhèng qǐjìn the floods have made many people homeless 水灾使许多人无家可归 we had a flood in the kitchen 我们的厨房漫水了 the Flood, Noah's Flood Bible 灭世洪水 she burst into floods of tears figurative 她突然泪如雨下 
 ② Countablefigurative (overwhelming quantity) 大量 dàliàng flood of [something]; 大量的某物 floods of visitors poured into the exhibition 大批参观者涌入展览会 a flood of light illuminated the room 一片强光照亮了房间 a flood of words 滔滔不绝的一席话 
 ③ Uncountable(inflow of tide) 涨潮 zhǎngcháo to be at the flood «tide» 涨到最高点 
@@ -14,7 +15,8 @@ B.  transitive verb
 C.  intransitive verb 
 ① (become submerged) «valley, town, house» 被水淹 bèi shuǐ yān 
 ② (overflow) «river, tributary, stream» 泛滥 fànlàn ; «sewer, bath, washing machine» 漫水 màn shuǐ 
-③ (spread, move) «tears» 涌出 yǒngchū ; «flush, blush» 涌现 yǒngxiàn the news brought people flooding into the streets 这个消息使人们涌上街头 sunlight flooded into the room 阳光洒满房间 relief flooded over him when he realized no one was hurt 知道没有人受伤后，他深感宽慰 PHRASAL VERBS flood back intransitive verb «emotions, memories, thoughts» 涌上心头 yǒngshàng xīntóu flood in intransitive verb «people, contributions, gifts» 大量涌入 dàliàng yǒngrù I threw back the shutters and let the light flood in 我猛地拉开百叶窗，让光线倾泻进来 flood out A. transitive verb 
+③ (spread, move) «tears» 涌出 yǒngchū ; «flush, blush» 涌现 yǒngxiàn the news brought people flooding into the streets 这个消息使人们涌上街头 sunlight flooded into the room 阳光洒满房间 relief flooded over him when he realized no one was hurt 知道没有人受伤后，他深感宽慰 PHRASAL VERBS flood back intransitive verb «emotions, memories, thoughts» 涌上心头 yǒngshàng xīntóu flood in intransitive verb «people, contributions, gifts» 大量涌入 dàliàng yǒngrù I threw back the shutters and let the light flood in 我猛地拉开百叶窗，让光线倾泻进来 flood out 
+A.  transitive verb 
 ① [flood somebody out, flood out somebody] (force out) «floodwater, burst pipe» 迫使…离家 pòshǐ… lí jiā 
 ② [flood something out, flood out something] «water» 淹没 yānmò ‹house, room›
 B.  intransitive verb «water, people» 大量涌出 dàliàng yǒngchū 

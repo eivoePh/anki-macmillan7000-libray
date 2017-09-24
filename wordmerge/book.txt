@@ -1,6 +1,7 @@
 book 
 BrE bʊk, AmE bʊk 
-A. noun 
+
+A.  noun 
 ① (printed work) 书 shū a book of quotations/poems/proverbs 引语集/诗集/谚语集 a book about or on [somebody]/[something]; 关于某人/某事物的书 a book by [somebody]; 某人写的书 the first book of the trilogy 三部曲之第一部 Carlton Books 卡尔顿图书公司 to read [somebody] like a book 对某人了如指掌 to be a closed book to [somebody] 令某人无法理解 book trade/publishing 图书贸易/出版 a book review 书评 
 ② (part of printed work) 卷 juàn Paradise Lost is an epic poem in twelve books 《失乐园》是一部12卷的史诗 
 ③ Finance (for recording deposits, withdrawals) 账簿 zhàngbù 
@@ -18,7 +19,8 @@ C.  transitive verb
 ① (reserve) 预订 yùdìng (secure services or time of) 预约 yùyuē (secure a period of time for) 提前安排 tíqián ānpái ‹appointment, holiday, time›to book [something] for [somebody], to book [somebody] [something]; 为某人预订某物 to book [somebody] into a hotel; 为某人预订酒店 to book oneself into a hotel; 为自己预订酒店 book [somebody] on plane/train/bus/ship (arrange for sb. to travel on) 为…预订飞机/火车/公车/船 
 ② Law 将…记录在案 jiāng… jìlù zài'àn ‹person›to book [somebody] for [something]; 因某事物将某人记录在案 
 ③ BrE Sport «referee» 记名警告 jìmíng jǐnggào ‹player›to book [somebody] for [something]/doing [something]; 因某事物/做某事记名警告某人 
-D.  intransitive verb 预订 yùdìng book now to avoid disappointment 现在预订，以免落空 PHRASAL VERBS book in BrE A. transitive verb[book somebody/something in, book in somebody/something] 
+D.  intransitive verb 预订 yùdìng book now to avoid disappointment 现在预订，以免落空 PHRASAL VERBS book in BrE 
+A.  transitive verb[book somebody/something in, book in somebody/something] 
 ① (make reservation for) 为…预订 wèi… yùdìng to book the car in for its service; 为小轿车预定保养服务 to book oneself in; 为自己预订房间 
 ② (register arrival of) 为…办理入住手续 ‹passenger›to book oneself in; 为自己办理入住手续 wèi zìjǐ bànlǐ rùzhù shǒuxù 
 B.  intransitive verb 办理入住手续 bànlǐ rùzhù shǒuxù book into transitive verb [book into something] (arrange to stay at) 办理手续入住 bànlǐ shǒuxù rùzhù ‹hotel›I booked straight into a hotel 我径直登记住进了旅馆 book on, book on to transitive verb [book on something] (arrange to travel on) 预订 yùdìng ‹plane, train, bus, ship›book up transitive verb 

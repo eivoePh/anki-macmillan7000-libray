@@ -1,11 +1,13 @@
 lead
 1 
 BrE liːd, AmE lid 
-A. transitive verb(past tense, past participle led) 
+
+A.  transitive verb(past tense, past participle led) 
 ① (guide, escort) 为…带路 wèi… dàilù (take by hand or bridle) 牵领 qiānlǐng I led the children across the road 我领孩子们过马路 they led us into a trap 他们引我们进了圈套 to lead the way 带路 dàilù the criminal was led away to the police station 罪犯被押到了警察局 he led the camel by a rope 他用绳子牵着骆驼 
 ② (be at the front of) 走在…的前列 zǒu zài… de qiánliè ‹procession, march›
 ③ (be leader of) 领导 lǐngdǎo to lead a discussion 主持讨论 she led the Democrats to victory 她带领民主党人获得了胜利 she led the audience in a cheer 她领着观众欢呼 to lead an operation 组织活动 
-④ (be ahead in race, competition) 在…中领先 zài… zhōng lǐngxiān ‹race, league, market›; 领先于 lǐngxiān yú ‹opponent, competitor›she is leading her rival by 15 metres 她领先对手15米 to lead the field 处于领先地位 to lead the world in cancer research 在癌症研究方面走在世界前列 to lead the way (in [something]) （在某方面）领先 
+④ (be ahead in race, competition) 在…中领先 zài… zhōng lǐngxiān ‹race, league, market›; 领先于 lǐngxiān yú ‹opponent, competitor›she is leading her rival by
+15 metres 她领先对手15米 to lead the field 处于领先地位 to lead the world in cancer research 在癌症研究方面走在世界前列 to lead the way (in [something]) （在某方面）领先 
 ⑤ (go in direction of, open on to, bring to) 引…通往 yǐn… tōngwǎng this road led us to the station 我们沿这条路到了车站 this door should lead us into the library 我们从这扇门应该可以进入图书馆 the tiger's footprints led the hunters to its lair 猎人顺着老虎的脚印找到了它的巢穴 
 ⑥ (steer, bring) 引导 yǐndǎo to lead the conversation away from religion 把谈话从宗教话题上引开 this course of action could lead them to disaster 这种做法可能把他们引向灾难 that line of investigation led them nowhere 那种调查方式使他们一无所获 
 ⑦ (cause, influence) 影响 yǐngxiǎng what led you to this decision? 是什么让你做出了这个决定？ the house was smaller than I had been led to believe 那幢房子比我原以为的要小一些 she's too easily led 她太容易受人左右 
@@ -27,7 +29,8 @@ C.  noun
 ③ (initiative) 领导 lǐngdǎo to take the lead (in doing [something]); 带头（做某事） 
 ④ (winning position or advantage in race, competition) 领先地位 lǐngxiān dìwèi to be in the lead; 处于领先地位 to take the lead; 领先 lǐngxiān to go or move into the lead 进入领先地位 to lose the lead 失去领先地位 they have the lead in laser technology 他们在激光技术方面处于领先地位 
 ⑤ (winning margin) 领先幅度 lǐngxiān fúdù he increased his lead to
-10 metres 他把领先距离拉大到了10米 he has a lead of 12 seconds over the former champion 他领先上届冠军12秒 
+10 metres 他把领先距离拉大到了10米 he has a lead of
+12 seconds over the former champion 他领先上届冠军12秒 
 ⑥ (clue) 线索 xiànsuǒ the police have a number of leads to follow 警方有很多条追查的线索 
 ⑦ Theatre, Cinema (principal role) 主角 zhǔjué (performer) 扮演主角的演员 bànyǎn zhǔjué de yǎnyuán to play/sing the lead 演/唱主角 
 ⑧ Journalism (story) 头条新闻 tóutiáo xīnwén 
@@ -36,7 +39,8 @@ C.  noun
 ⑪ Electricity (wire) 电源线 diànyuánxiàn 
 D.  adjective 
 ① (principal) 主要的 zhǔyào de she is their lead singer 她是他们的主唱 
-② Journalism 头条的 tóutiáo de a lead item/article 头条新闻/文章 PHRASAL VERBS lead off A. transitive verb[lead something off, lead off something] 开始 kāishǐ to lead off a discussion 带头发言开始讨论 he led off the debate with an attack on the committee 他对委员会的抨击，拉开了辩论的序幕 
+② Journalism 头条的 tóutiáo de a lead item/article 头条新闻/文章 PHRASAL VERBS lead off 
+A.  transitive verb[lead something off, lead off something] 开始 kāishǐ to lead off a discussion 带头发言开始讨论 he led off the debate with an attack on the committee 他对委员会的抨击，拉开了辩论的序幕 
 B.  intransitive verb 开始 kāishǐ to lead off with [something]; 以某事物开始 she led off with a Haydn sonata 她以海顿的一首奏鸣曲作为开始 lead on transitive verb[lead somebody on] 
 ① (give false hope to) 诱惑 yòuhuò ; (sexually) 勾引 gōuyǐn 
 ② (influence) 怂恿 sǒngyǒng to lead [somebody] on to do [something]; 怂恿某人做某事 lead up to transitive verb[lead up to something] 

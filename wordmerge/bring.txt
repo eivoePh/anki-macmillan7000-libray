@@ -1,5 +1,6 @@
 bring 
-BrE brɪŋ, AmE brɪŋ/ (past tense, past participle brought) transitive verb 
+BrE brɪŋ, AmE brɪŋ
+(past tense, past participle brought) transitive verb 
 ① (carry, convey, arrive with) 带来 dàilái to bring [something]/[somebody] to a place; 把某物/某人带到某处 to bring [something]/[somebody] into a room; 把某物/某人带入房间 to bring [something]/[somebody] with one; 携带某物/带着某人 to bring [somebody] [something], to bring [something] for [somebody]; 为某人带来某物 to bring [somebody] home (transport home) 送某人回家 (to meet family) 带某人见家人 to bring [somebody] to …; 带某人去… ‹wedding, party, office›
 ② (move, cause to go) «appeal, call» 使移动 shǐ yídòng to bring [somebody]/[something] to a place; 把某人/某物引到某处 the judge brought his hammer down on the table 法官用木槌敲桌子 I brought him to the ground 我把他打翻在地 what brings you here? 什么风把你吹来了？ his cries for help brought the police to his hiding place 他求救的喊声把警察引到了他的藏身处 
 ③ (be conduit for) 输送 shūsòng ‹water, oil, electricity›
@@ -14,11 +15,13 @@ BrE brɪŋ, AmE brɪŋ/ (past tense, past participle brought) transitive verb
 ⑫ (force) 促使 cùshǐ to bring [somebody]/oneself to do [something]; 促使某人/自己做某事 she couldn't bring herself to tell him the bad news 她不忍心告诉他这个坏消息 
 ⑬ Law (initiate) 提起 tíqǐ ‹action›Administration, Law (present for judgement, decision) 把…提交裁决 bǎ… tíjiāo cáijué to bring [something] against [somebody]; 对某人提起… ‹charge, accusation›to bring [somebody]/[something] before a judge/committee; 把某人/某事交由法官/委员会裁决 to bring [somebody]/[something] before the court 将某人/某事提交法庭裁决 to bring a bill before parliament 把议案提交议会表决 PHRASAL VERBS bring about transitive verb 
 ① [bring about something, bring something about] (cause) 导致 dǎozhì ‹war, death, event, situation›the mediators managed to bring about a settlement 那些调停人促成了和解 
-② [bring somebody/something about] Nautical 使…掉头 shǐ… diàotóu ‹boat›the helmsman brought us about 舵手把我们的船头掉转过来 bring along transitive verb [bring along something/somebody, bring something/somebody along] 带来 dàilái to bring [something]/[somebody] along with one; 带来某物/某人 bring around transitive verb AmE = bring round bring back A. [bring something back, bring back something] transitive verb 
+② [bring somebody/something about] Nautical 使…掉头 shǐ… diàotóu ‹boat›the helmsman brought us about 舵手把我们的船头掉转过来 bring along transitive verb [bring along something/somebody, bring something/somebody along] 带来 dàilái to bring [something]/[somebody] along with one; 带来某物/某人 bring around transitive verb AmE = bring round bring back 
+A.  [bring something back, bring back something] transitive verb 
 ① (return) 把…带回来 bǎ… dài huílai ‹pen, memory, person›to bring [something] back from [something]; 从某处带回某物 to bring [something]/[somebody] back with one; 带回某物/某人 the path brought us back to where we had started from 我们顺着这条路回到了出发地 the boat brought them safely back to shore 船把他们安全送回岸上 she brought back a rather unfavourable impression of the city 她回来时对这座城市印象很差 he forgot to bring back the book he had borrowed 他忘了归还借的书 
 ② (restore) 恢复 huīfù ‹discipline, health, democracy›a walk in the country will bring the colour back to your cheeks 到乡间走一走会使你的面色恢复红润 we must try to bring her temperature back to normal 我们必须设法让她的体温恢复正常 
 ③ (revive memory of) «smell, event» 使人想起 shǐ rén xiǎngqǐ ‹experience, day›to bring back memories (of [something]) 令人回忆（起某事物） 
-B.  [bring somebody back, bring back somebody] transitive verb (resurrect) 使…起死回生 shǐ… qǐ sǐ huí shēng ‹person›(save life of) 使…苏醒 shǐ… sūxǐng ‹person›to bring [somebody] back to consciousness/life 使某人恢复知觉/复活 bring down A. [bring somebody/something down, bring down somebody/something] transitive verb 
+B.  [bring somebody back, bring back somebody] transitive verb (resurrect) 使…起死回生 shǐ… qǐ sǐ huí shēng ‹person›(save life of) 使…苏醒 shǐ… sūxǐng ‹person›to bring [somebody] back to consciousness/life 使某人恢复知觉/复活 bring down 
+A.  [bring somebody/something down, bring down somebody/something] transitive verb 
 ① (carry from higher place) 把…拿下来 bǎ… ná xialai to bring [something] down with one; 随身把某物拿下来 suíshēn bǎ mǒu wù ná xialai to bring [somebody] down [something], to bring [something] down for [somebody]; 为某人把某物拿下来 wèi mǒu rén bǎ mǒu wù ná xialai will you bring me down a drink?; 给我拿杯饮料下来好吗？ 
 ② (cause to crash) 击落 jīluò ‹aircraft, pilot›he was brought down over France 他在法国上空被击落了 
 ③ (cause to land) 使…着陆 shǐ… zhuólù ‹aircraft›the pilot brought us down safely 飞行员让我们安全着陆 
@@ -32,12 +35,14 @@ B.  [bring something down, bring down something] transitive verb
 C.  [bring somebody down] transitive verb colloquial (depress) 使消沉 shǐ xiāochén bring forth transitive verb[bring forth something, bring something forth] 
 ① formal (provoke) 招致 zhāozhì ‹reaction, complaint›
 ② archaic (produce) 生产 shēngchǎn ‹crops›; 结 jié ‹fruit›
-③ archaic (give birth to) 生 shēng ‹child›bring forward A. [bring something forward, bring forward something] transitive verb 
+③ archaic (give birth to) 生 shēng ‹child›bring forward 
+A.  [bring something forward, bring forward something] transitive verb 
 ① (make sooner) 把…提前 bǎ… tíqián ‹meeting, wedding›
 ② (propose) 提出 tíchū ‹suggestion, question›I intend to bring this matter forward at the next meeting 我打算在下次会议上提出这件事情来讨论 
 ③ (move forwards) 往前移动 wǎng qián yídòng ‹chair›; 往前梳 wǎng qián shū ‹hair›
 ④ Finance 把…转入下一栏 bǎ… zhuǎnrù xià yī lán ‹figure, balance›
-B.  [bring somebody forward, bring forward somebody] transitive verb (present) 把…带上来 bǎ… dài shanglai ‹witness›bring in A. [bring something in, bring in something] transitive verb 
+B.  [bring somebody forward, bring forward somebody] transitive verb (present) 把…带上来 bǎ… dài shanglai ‹witness›bring in 
+A.  [bring something in, bring in something] transitive verb 
 ① (carry in) 把…带进来 bǎ… dài jinlai ‹box, book›shall I bring in the dessert now? 现在可以上甜点了吗？ 
 ② (introduce) 提出 tíchū ‹subject›Politics (present for debate) 将…提交讨论 jiāng… tíjiāo tǎolùn ‹bill, reform›at this point the author brings in a new character 故事发展到这一情节时，作者引入了一个新人物 
 ③ (start to use) 引入 yǐnrù ‹system, scheme›
@@ -52,11 +57,13 @@ B.  [bring somebody in, bring in somebody] transitive verb
 ① to bring [somebody] into [something] (involve) 使参与某事 shǐ cānyù mǒu shì don't bring me into this! 别把我扯进去！ bié bǎ wǒ chě jinqu ！ 
 ② bring [something] into [something] (introduce) 把…引入 bǎ… yǐnrù ‹subject›he always manages to bring politics into the conversation 他谈话时总能扯上政治 bring off transitive verb 
 ① [bring off somebody, bring somebody off] (rescue) «person, lifeboat, helicopter» 救出 jiùchū ‹person, crew, passengers›to bring [somebody] off [something]; 把某人从某处救出 
-② [bring off something, bring something off] (achieve) 实现 shíxiàn ‹ambition, plan›; 达成 dáchéng ‹deal›; 完成 wánchéng ‹task›the goalkeeper brought off a superb save 守门员做出了精彩的扑救 bring on A. [bring something on, bring on something] transitive verb 
+② [bring off something, bring something off] (achieve) 实现 shíxiàn ‹ambition, plan›; 达成 dáchéng ‹deal›; 完成 wánchéng ‹task›the goalkeeper brought off a superb save 守门员做出了精彩的扑救 bring on 
+A.  [bring something on, bring on something] transitive verb 
 ① (cause to happen) «weather, noise» 引起 yǐnqǐ ‹rheumatism, nervous breakdown›a heart attack brought on by lack of exercise 缺乏锻炼引发的心脏病 to bring on labour 引产 
 ② (help to grow) 促进…生长 cùjìn… shēngzhǎng ‹crops, flowers, plants›
 B.  [bring somebody/something on, bring on somebody/something] transitive verb (cause to appear) 引…上场 yǐn… shàngchǎng ‹dancer, player›; 把…搬上场 bǎ… bān shàngchǎng ‹piano›to bring on the next contestant 让下一名选手出场 to bring on a substitute 换上替补队员 
-C.  [bring somebody on, bring on somebody] transitive verb (help to develop) 帮助…进步 bāngzhù… jìnbù ‹student, athlete, player›they bring the children on too quickly at that school 那个学校对学生的培养操之过急了 bring out A. [bring out something, bring something out] transitive verb 
+C.  [bring somebody on, bring on somebody] transitive verb (help to develop) 帮助…进步 bāngzhù… jìnbù ‹student, athlete, player›they bring the children on too quickly at that school 那个学校对学生的培养操之过急了 bring out 
+A.  [bring out something, bring something out] transitive verb 
 ① (remove from within) 取出 qǔchū to bring [something] out of [something]; 从某处取出某物 
 ② (carry out) 带…出来 dài… chūlai to bring [something] out of [something]; 把某人/某物从某处带出来 to bring [something] out with one; 把某物带出来 did you bring your umbrella out with you? 你出来时带雨伞了吗？ to bring [somebody] out [something], to bring [something] out for [somebody]; 为某人拿出某物 
 ③ Busn (publish, launch) 出版 chūbǎn ‹book, magazine, record›; 推出 tuīchū ‹product, film›it's about time they brought out a new edition 他们该出新版本了 
@@ -67,7 +74,8 @@ C.  [bring somebody on, bring on somebody] transitive verb (help to develop) 帮
 B.  [bring out somebody, bring somebody out] transitive verb 
 ① (cause to go on strike) 发动…罢工 fādòng… bàgōng ‹workers›to bring [somebody] out on strike 发动某人罢工 
 ② (make more confident) «experience, activity» 使…自信 shǐ… zìxìn ‹person›to bring [somebody] out of himself/herself; 使某人克服羞怯心理 he's very shy; we're trying to bring him out 他很腼腆，我们正努力使他放开一点 
-C.  transitive verb to bring [somebody] out in [something] (cause to be covered in) «food, heat, excitement» 使某人皮肤上布满某物 shǐ mǒu rén pífū shang bùmǎn mǒu wù chocolate brings me out in spots 我吃巧克力皮肤上会长斑 the shock brought him out in a cold sweat 他惊出一身冷汗 tā jīng chū yīshēn lěnghàn bring round BrE A. [bring something/somebody round, bring round something/somebody] transitive verb (carry, escort from one place to another) 把…带来 bǎ… dàilai to bring [something]/[somebody] round with one; 带来某物/某人 
+C.  transitive verb to bring [somebody] out in [something] (cause to be covered in) «food, heat, excitement» 使某人皮肤上布满某物 shǐ mǒu rén pífū shang bùmǎn mǒu wù chocolate brings me out in spots 我吃巧克力皮肤上会长斑 the shock brought him out in a cold sweat 他惊出一身冷汗 tā jīng chū yīshēn lěnghàn bring round BrE 
+A.  [bring something/somebody round, bring round something/somebody] transitive verb (carry, escort from one place to another) 把…带来 bǎ… dàilai to bring [something]/[somebody] round with one; 带来某物/某人 
 B.  [bring somebody round, bring round somebody] transitive verb 
 ① (convince) 说服 shuōfú to bring [somebody] round to [something]; 说服某人赞成某事 she brought me round to the idea 她说服我同意了这个想法 
 ② (revive) «brandy» 使苏醒 shǐ sūxǐng 
@@ -77,7 +85,8 @@ C.  [bring something round, bring round something] transitive verb
 ① [bring somebody to] (revive) 使苏醒 shǐ sūxǐng to bring [somebody] to himself/herself; 使某人苏醒 
 ② [bring something to] Nautical 停下 tíngxia ‹boat›bring together transitive verb 
 ① (cause to touch) 连接 liánjiē ‹ends, pieces›when the glue is almost dry, bring the two surfaces together 胶水快干时，把两个表面压到一起 
-② (cause people to gather) 把人召集起来 bǎ rén zhàojí qilai (create bond between people) 使团结 shǐ tuánjié to bring the two sides together 促使双方进行商谈 our mother's illness brought us closer together 母亲生病使我们更加亲密无间了 their love of sailing brought them together 对帆船运动的热爱使他们走到了一起 bring up A. [bring somebody up, bring up somebody] transitive verb 
+② (cause people to gather) 把人召集起来 bǎ rén zhàojí qilai (create bond between people) 使团结 shǐ tuánjié to bring the two sides together 促使双方进行商谈 our mother's illness brought us closer together 母亲生病使我们更加亲密无间了 their love of sailing brought them together 对帆船运动的热爱使他们走到了一起 bring up 
+A.  [bring somebody up, bring up somebody] transitive verb 
 ① (rear) 抚养 fǔyǎng ‹child›well/badly brought up; 有/没教养 to bring [somebody] up to do [something]; 从小教育某人做某事 I was brought up on a farm 我是在农场长大的 my parents brought me up very strictly 我父母对我管教很严 
 ② (escort from lower place) 带上来 dài shanglai 
 ③ (cause to stop) 使急停 shǐ jítíng his remark brought her up short 他的话把她噎了回去 the sight of the gun brought us up sharply 我们一看到枪就停下脚步 

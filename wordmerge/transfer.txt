@@ -1,17 +1,19 @@
 transfer 
-BrE transˈfəː, trɑːns-, -nz-, AmE trænsˈfər, ˈtrænsfər
-A. /BrE transˈfəː, trɑːns-, -nz-, AmE trænsˈfər, ˈtrænsfər/ transitive verb(present participle etc. -rr-) 
+A.  /BrE transˈfəː, trɑːns-, -nz-, AmE trænsˈfər, ˈtrænsfər
+transitive verb(present participle etc. -rr-) 
 ① (move) 调动 diàodòng ‹employee, soldier›; 转移 zhuǎnyí ‹prisoner, patient, luggage, goods, energy›; 使…转会 shǐ… zhuǎnhuì ‹sportsman, player›; 转接 zhuǎnjiē ‹call, caller›to transfer [something]/[somebody] to [something]; 把某物/某人转到某处 the passengers were transferred to coaches 乘客被转到了长途客车上 to be transferred to another hospital 转到另一家医院 I'm transferring you to reception 我把你的电话转到前台 to transfer [something]/[somebody] from [something]; 把某物/某人从某处转来 to transfer credits from junior college AmE 将大专的学分转过来 to transfer one's affections to [somebody]; 把感情转移到某人身上 to transfer one's support to [somebody] 转而支持某人 to transfer [something] from [somebody]; 把某物从某人处移走 to transfer £500 from one's deposit account into one's current account 从定期账户转500英镑到活期账户 
 ② especially Law (hand over) 转让 zhuǎnràng ‹right, assets›; 移交 yíjiāo ‹power, authority, responsibility›to transfer ownership of [something] 过户某物 to transfer [something] to [somebody]/[something]; 把某物让渡给某人/某处 to transfer [something] from [something]; 从某处转让某物 the house has been transferred to my name/from his name to mine 房子过户到了我的名下/从他的名下过户到了我的名下 
 ③ Computing, Technology (copy) 转存 zhuǎncún ‹drawing, details›to transfer [something] on to [something]; 把某物转存到某物中 
 ④ (translate) 使转化 shǐ zhuǎnhuà to transfer [something] (on) to [something]; 将某物表现到某物上 to transfer one's emotions on to canvas 将情感表现在画布上 to transfer an idea on to paper 把概念转化为文字 
 ⑤ usually passive Linguistics 转变 zhuǎnbiàn ‹sense›a transferred use of the noun 这个名词的转义用法 
 ⑥ (change) 转换 zhuǎnhuàn ‹objects›to transfer schools 转学 zhuǎnxué 
-B.  /BrE transˈfəː, trɑːns-, -nz-, AmE trænsˈfər, ˈtrænsfər/ intransitive verb(present participle etc. -rr-) 
+B.  /BrE transˈfəː, trɑːns-, -nz-, AmE trænsˈfər, ˈtrænsfər
+intransitive verb(present participle etc. -rr-) 
 ① (move) «employee, soldier» 调动 diàodòng ; «passenger» 转移 zhuǎnyí ; «sportsman, player» 转会 zhuǎnhuì to transfer to/from [something]; 转到某处/从某处转来 to transfer from the airport to the railway station 从机场转到火车站 passengers transferring at Frankfurt 在法兰克福转机的旅客 to transfer to/from another department 调到另一部门/从另一部门调来 will my credits transfer? especially AmE 我的学分可以转过来吗？ 
 ② University (change institutions) 转学 zhuǎnxué (change courses) 转专业 zhuǎn zhuānyè to transfer from one university to another 从一所大学转到另一所大学 
 ③ (adapt, translate) 改编 gǎibiān to transfer (on) to [something]; «idea, text» 转换到某媒体 the novel didn't transfer well to the stage 这部长篇小说改编成舞台剧的效果不佳 
-C.  /BrE ˈtransfəː, ˈtrɑːns-, -nz-, AmE ˈtræn(t)sfər/ noun 
+C.  /BrE ˈtransfəː, ˈtrɑːns-, -nz-, AmE ˈtræn(t)sfər
+noun 
 ① Uncountable and countable(relocation) (of employee, soldier) 调动 diàodòng (of prisoner, patient, luggage, goods, energy) 转移 zhuǎnyí (of sportsman, player) 转会 zhuǎnhuì (of call, caller) 转接 zhuǎnjiē transfer to/from [something]; 到某处/从某处的转移 the transfer from A Hospital to B Hospital 从A医院到B医院的转院 the transfer from the airport to the hotel 从机场到旅馆的转车 transfers between industry and the civil service 在工业领域与行政部门之间的调动 to apply or ask for a transfer Busn 申请调动 to ask for a transfer Sport 要求转会 
 ② Uncountable and countable(handover) (of funds, ownership, property, rights) 转让 zhuǎnràng (of power, authority) 移交 yíjiāo capital transfers 资本转让 to make a transfer 转账 a transfer of funds 资金转账 the electronic transfer of cash 现金的电子转账 
 ③ Countable(person) 转移者 zhuǎnyízhě she's a transfer from another branch 她是从另一家分公司调来的 the club's next transfer 俱乐部下一个转会对象 transfers go to gate

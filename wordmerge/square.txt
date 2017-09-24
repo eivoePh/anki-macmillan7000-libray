@@ -1,6 +1,7 @@
 square 
 BrE skwɛː, AmE skwɛr 
-A. noun 
+
+A.  noun 
 ① (shape) 正方形 zhèngfāngxíng the squares on a chess board 国际象棋棋盘上的方格 a silk square 方丝巾 to cut [something] into squares 把某物切成方块 to be or go back to square one 从头再来 on the square 成直角的 chéng zhíjiǎo de figurative (honest) 正直的 zhèngzhí de (proper) 正当的 zhèngdàng de to cut [something] on the square 方方正正地切某物 out of square 不成直角的 the frame is out of square 画框不正 
 ② (plaza) 广场 guǎngchǎng Military 操练场 cāoliànchǎng the town square 市中心广场 
 ③ AmE (block) 街区 jiēqū 
@@ -31,11 +32,13 @@ D.  transitive verb
 ⑦ to square [something] with [somebody] (get agreement for) 征得某人对…的同意 zhēngdé mǒu rén duì… de tóngyì ‹proposal, decision›please square your budget with the finance department 你的预算请提交财务部门审批 
 ⑧ to square [something] with [something] (reconcile) 使某物与某物一致 shǐ mǒu wù yǔ mǒu wù yīzhì to square [something] with one's conscience 对某事问心无愧 duì mǒu shì wèn xīn wú kuì 
 ⑨ colloquial (secure agreement) 说服 shuōfú (bribe) 收买 shōumǎi they must have squared the mayor before they won the contract 他们一定是买通了市长才赢得了合同 
-E.  reflexive verb to square oneself (to face [something]) 挺起胸膛（面对某事物） tǐngqǐ xiōngtáng(miànduì mǒu shìwù) PHRASAL VERBS square off A. transitive verb[square something off, square off something] 
+E.  reflexive verb to square oneself (to face [something]) 挺起胸膛（面对某事物） tǐngqǐ xiōngtáng(miànduì mǒu shìwù) PHRASAL VERBS square off 
+A.  transitive verb[square something off, square off something] 
 ① (make square) 把…做成方形 bǎ… zuòchéng fāngxíng the posts should be squared off 柱子应该加工成方形 
 ② (mark into squares) 把…分成方格 bǎ… fēnchéng fānggé ‹paper›
 B.  intransitive verb especially AmE = square up 
-B.  square up A. transitive verb[square something up, square up something] 
+B.  square up 
+A.  transitive verb[square something up, square up something] 
 ① (make square) 使成方形 shǐ chéng fāngxíng to use a T-square to square up the fabric 用丁字尺把布裁成方形 
 ② (align) 把…弄整齐 bǎ… nòng zhěngqí to square up the papers on one's desk 把桌上的文件收拾整齐 
 ③ (settle) 结清 jiéqīng ‹account, debt›

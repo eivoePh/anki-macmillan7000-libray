@@ -1,6 +1,7 @@
 proof 
 BrE pruːf, AmE pruf 
-A. noun 
+
+A.  noun 
 ① Uncountable(evidence) 证据 zhèngjù to have proof (of [something]) 掌握（某事的）证据 to have proof that … 有证据证明… to take [something] as proof that … 把某物作为…的证据 to give proof of [something] 为…提供证明 ‹purchase, credit›he gave proof of great courage 他证明了自己无畏的勇气 written or documentary proof 书面证据 absolute or conclusive or incontrovertible proof 确凿的证据 to be proof of [somebody's] worth/age/existence/intentions 是某人价值/年龄/存在/意图的证明 proof of identity 身份证明 to be (a) living proof of [something] 是某事物的人证 through lack of proof 由于缺乏证据 to produce [something] as proof 出示某物作证 this is proof that … 这可以证明… there is no proof that … 无法证明… 
 ② Uncountable(corroboration) 验证 yànzhèng proof of your allegation will not be easy 很难验证你的说法是否真实 in proof of [something] 以证明某事物 to be capable of proof 经得住考验 to put [somebody]/[something] to the proof 验检某人/某事物 the proof of the pudding is in the eating proverb 布丁好不好，吃后才知道 ［意谓空谈不如实践］
 ③ CountableMathematics, Philosophy 证明 zhèngmíng 

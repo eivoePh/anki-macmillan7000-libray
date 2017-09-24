@@ -1,6 +1,7 @@
 concern 
 BrE kənˈsəːn, AmE kənˈsərn 
-A. noun 
+
+A.  noun 
 ① Uncountable(worry) 担心 dānxīn to have concern for [somebody]/[something]; 担心某人/某事物 to give rise to concern 引起担忧 an expression or a look of concern 一副忧虑的表情 there is growing concern about crime 人们日益担忧犯罪问题 a matter of/cause for concern 令人关切的事/引起关切的原因 
 ② Uncountable and countable(preoccupation) 令人关切的事物 lìng rén guānqiè de shìwù environmental/petty concerns 环境问题/微不足道的事物 to be of concern to [somebody]; 是某人关注的事物 to have concern for [somebody]/[something]; 关心某人/某事物 
 ③ Uncountable(personal business) 私事 sīshì that's no concern of [somebody's] or none of [somebody's] concern 那不关某人的事 

@@ -1,6 +1,7 @@
 drink 
 BrE drɪŋk, AmE drɪŋk 
-A. transitive verb(past tense drank, past participle drunk) 
+
+A.  transitive verb(past tense drank, past participle drunk) 
 ① (consume) 喝 hē to drink [something] from or out of/through [something]; 从某物喝某物/用某器皿喝某物 to have [something]/nothing to drink; 有喝的/没有什么喝的 to be fit to drink 可饮用 to drink [somebody] under the table colloquial 酒量胜过某人 to drink poison 服毒 
 ② (in toasting sb./sth.) 为…祝酒 wèi… zhùjiǔ to drink a toast (to [somebody]); （向某人）祝酒 to drink to [somebody's] health or the health of [somebody]; 为某人的健康干杯 
 ③ colloquial (absorb) «plant, soil» 吸收 xīshōu ‹moisture, water›
@@ -20,7 +21,8 @@ E.  drinks noun plural 酒会 jiǔhuì to have drinks (with [somebody]) （与�
 ② (waste) 饮酒耗费 yǐn jiǔ hàofèi ‹fortune, money›; 饮酒损害 yǐn jiǔ sǔnhài ‹health›; 饮酒虚度 yǐn jiǔ xūdù ‹life, time›drink down transitive verb [drink something down, drink down something] 把…一饮而尽 bǎ… yī yǐn ér jìn ‹medicine›drink in transitive verb[drink something in, drink in something] 
 ① colloquial (absorb) «plant, soil» 吸收 xīshōu ‹water, rain›
 ② (breathe) 愉快地吸入 yúkuài de xīrù ‹fresh air›
-③ (savour) 尽情欣赏 jìnqíng xīnshǎng to drink in the beauty of the scenery/every word 陶醉于优美的景色/全神贯注地倾听每个词 he sat in the corner, drinking in everything around him 他坐在角落里，沉醉于周围的一切 drink up A. transitive verb [drink something up, drink up something] 把…喝完 bǎ… hēwán 
+③ (savour) 尽情欣赏 jìnqíng xīnshǎng to drink in the beauty of the scenery/every word 陶醉于优美的景色/全神贯注地倾听每个词 he sat in the corner, drinking in everything around him 他坐在角落里，沉醉于周围的一切 drink up 
+A.  transitive verb [drink something up, drink up something] 把…喝完 bǎ… hēwán 
 B.  intransitive verb 干杯 gānbēi drink up! 干杯！ 
 drink 
 ▶verb

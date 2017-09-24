@@ -1,6 +1,7 @@
 mail 
 BrE meɪl, AmE meɪl 
-A. nounUncountable
+
+A.  nounUncountable
 ① (postal service) 邮递 yóudì to send a parcel by mail 邮寄包裹 
 ② (letters, parcels) 邮件 yóujiàn 
 ③ Computing 电子邮件 diànzǐ yóujiàn 

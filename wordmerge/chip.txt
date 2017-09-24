@@ -1,6 +1,7 @@
 chip 
 BrE tʃɪp, AmE tʃɪp 
-A. noun 
+
+A.  noun 
 ① (fragment) 碎片 suìpiàn chips of wood 木屑 a chip off the old block colloquial 酷似父亲的人 ［尤指男孩］to have a chip on one's shoulder colloquial 心怀怨恨 he's got a chip on his shoulder about not having gone to university 他因为没有上过大学而愤愤不平 
 ② (mark, flaw) 缺损处 quēsǔnchù the mug has a chip in it 那只马克杯上有个豁口 
 ③ Culinary BrE 炸薯条 zhá shǔtiáo ; AmE 炸薯片 zhà shǔpiàn 
@@ -14,12 +15,14 @@ B.  transitive verb(present participle etc. -pp-)
 ④ Sport (in golf, cricket) 切削击 qiēxiāo jī ‹ball›(in football) 撮 cuō ‹ball›
 C.  intransitive verb(present participle etc. -pp-) 
 ① (become damaged) «china, glass, gemstone» 碰出缺口 pèngchū quēkǒu ; «paint, veneer» 剥落 bōluò ; «tooth» 崩坏 bēnghuài 
-② Sport (in golf, cricket) 切削击球 qiēxiāo jī qiú (in football) 撮球 cuō qiú PHRASAL VERBS chip away A. transitive verb[chip away something, chip something away] 小块小块地弄掉 xiǎokuài xiǎokuài de nòngdiào ‹veneer, paint, plaster›
+② Sport (in golf, cricket) 切削击球 qiēxiāo jī qiú (in football) 撮球 cuō qiú PHRASAL VERBS chip away 
+A.  transitive verb[chip away something, chip something away] 小块小块地弄掉 xiǎokuài xiǎokuài de nòngdiào ‹veneer, paint, plaster›
 B.  intransitive verb «veneer, paint, plaster» 不断剥落 bùduàn bōluò chip away at transitive verb[chip away at something] 
 ① (carve) 不停凿去 bù tíng záoqù the sculptor chipped away at the stone 雕刻家不停地雕琢那块石头 
 ② figurative (reduce, weaken) 逐步削弱 zhúbù xuēruò ‹power, authority, confidence›chip in intransitive verb BrE colloquial 
 ① (interrupt) 插话 chāhuà she chipped in with some pertinent remarks 她插的几句话蛮切题的 
-② (contribute) 凑钱 còuqián he chipped in with £5 他凑了5英镑 chip off A. transitive verb[chip off something, chip something off] 
+② (contribute) 凑钱 còuqián he chipped in with £5 他凑了5英镑 chip off 
+A.  transitive verb[chip off something, chip something off] 
 ① (remove from surface) 使剥落 shǐ bōluò we chipped off the plaster from the wall 我们从墙上铲下灰泥 
 ② (break off) 碰掉 pèngdiào ‹lump, fragment›he chipped off a piece of his tooth 他崩掉了一块牙 
 B.  intransitive verb 小块剥落 xiǎokuài bōluò to chip off; «veneer, paint, plaster» 一片片剥落 

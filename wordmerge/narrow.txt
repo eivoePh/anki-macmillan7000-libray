@@ -1,6 +1,7 @@
 narrow 
 BrE ˈnarəʊ, AmE ˈnɛroʊ 
-A. adjective 
+
+A.  adjective 
 ① (in width) 狭窄的 xiázhǎi de to grow or become narrow «road, river» 变窄 biàn zhǎi «eyes» 眯起 mīqǐ he has narrow shoulders or is narrow across the shoulders 他肩很窄 
 ② (limited in scope) 有限的 yǒuxiàn de ‹range, choice, experience›(precise in meaning) 狭义的 xiáyì de ‹definition, sense›; pejorative (too restricted) 狭隘的 xiá'ài de ‹mind›to lead a narrow existence 过单调的生活 she's very narrow in her views 她的观点非常狭隘 
 ③ (with only a small margin) 差距小的 chājù xiǎo de ‹result›; 微小的 wēixiǎo de ‹margin›; 微弱的 wēiruò de ‹majority, advantage›to win a narrow victory or a victory by a narrow margin 险胜 to suffer a narrow defeat 惜败 to have a narrow escape 侥幸脱逃 
@@ -18,7 +19,8 @@ C.  transitive verb
 ③ (make less open-minded) 使…变得狭隘 shǐ… biàn de xiá'ài ‹mind, outlook›bad experiences have narrowed her trust in other people 不愉快的经历使她不大相信别人了 
 ④ (cause to close) 眯起 mīqǐ ‹one's eyes›
 ⑤ (make tighter) 收紧 shōujǐn ‹dress, sleeves›
-D.  narrows noun plural (of sea) 海峡 hǎixiá ; (of river) 峡谷 xiágǔ PHRASAL VERB narrow down: A. intransitive verb to narrow down to [something]; «investigation, search» 缩小到某范围 suōxiǎo dào mǒu fànwéi 
+D.  narrows noun plural (of sea) 海峡 hǎixiá ; (of river) 峡谷 xiágǔ PHRASAL VERB narrow down: 
+A.  intransitive verb to narrow down to [something]; «investigation, search» 缩小到某范围 suōxiǎo dào mǒu fànwéi 
 B.  transitive verb [narrow something down, narrow down something] 缩小 suōxiǎo ‹investigation, search›; 缩减 suōjiǎn ‹applicants, number of suspects›to narrow down the possibilities to a short list 把可能性缩小到几种 
 narrow 
 ▶adjective

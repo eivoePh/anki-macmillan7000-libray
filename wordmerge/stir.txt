@@ -1,6 +1,7 @@
 stir 
 BrE stəː, AmE stər 
-A. transitive verb(present participle etc. -rr-) 
+
+A.  transitive verb(present participle etc. -rr-) 
 ① (mix) 搅动 jiǎodòng she stirred her tea with a silver spoon 她用银汤匙搅了搅茶 the vegetables are stirred into the rice while it is hot 趁米饭热时把蔬菜拌进去 
 ② (move slightly) 使微动 shǐ wēi dòng a gentle breeze stirred the branches 微风吹动了树枝 
 ③ (cause to take action) 使行动 shǐ xíngdòng their complaints have finally stirred him into action 他们的抱怨最终促使他采取了行动 a noise stirred me from sleep 响声把我从睡梦中惊醒 
@@ -9,7 +10,8 @@ A. transitive verb(present participle etc. -rr-)
 B.  intransitive verb(present participle etc. -rr-) 
 ① (mix) 搅动 jiǎodòng stir well before use 使用前先充分搅拌 
 ② (move slightly) 微动 wēi dòng she stirred in her sleep 她在睡梦中微微动了一下 
-③ (wake up) 醒来 xǐnglái it was 11 o'clock, and still no one was stirring 已经11点了，还没有人起来 
+③ (wake up) 醒来 xǐnglái it was
+11 o'clock, and still no one was stirring 已经11点了，还没有人起来 
 ④ (budge) 离开 líkāi you haven’t stirred from the sofa all evening! 你坐在沙发上一晚上没动了！ he seldom stirred out of his house 他很少出门 
 ⑤ (begin to be felt) 萌生 méngshēng old memories began to stir as we talked 我们交谈时，对往事的回忆渐渐涌上心头 a feeling of guilt began to stir in her or in her heart 她心里渐渐生出了内疚感 
 ⑥ BrE colloquial (cause trouble) 挑拨是非 tiǎobō shìfēi 
@@ -17,7 +19,8 @@ C.  reflexive verb(present participle etc. -rr-) to stir oneself 行动起来 x�
 D.  noun 
 ① Countable(act of mixing) 搅动 jiǎodòng to give [something] a stir 把某物搅一搅 
 ② Countable(commotion) 骚动 sāodòng to cause or create or make a stir 引起骚动 her resignation caused quite a stir 她的辞职引起很大震动 
-③ Uncountablecolloquial (prison) 监牢 jiānláo to be in stir 坐牢 PHRASAL VERBS stir in transitive verb [to stir something in, to stir in something] 把…搅进去 bǎ… jiǎo jìnqu ‹liquid, substance›stir up A. [stir something up, stir up something] transitive verb 
+③ Uncountablecolloquial (prison) 监牢 jiānláo to be in stir 坐牢 PHRASAL VERBS stir in transitive verb [to stir something in, to stir in something] 把…搅进去 bǎ… jiǎo jìnqu ‹liquid, substance›stir up 
+A.  [stir something up, stir up something] transitive verb 
 ① (elicit) 激起 jīqǐ ‹emotions›the photographs stirred up old memories 这些照片唤起了对往事的记忆 a campaign to stir up support for the plan 为该计划寻求支持的活动 
 ② (cause) 挑起 tiǎoqǐ ‹trouble, debate›to stir things up 挑起事端 
 ③ (move around) 搅起 jiǎoqǐ the swirling wind stirred up dust and sand 旋风扬起了沙尘 

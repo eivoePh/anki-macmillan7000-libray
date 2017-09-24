@@ -1,6 +1,7 @@
 package 
 BrE ˈpakɪdʒ, AmE ˈpækɪdʒ 
-A. noun 
+
+A.  noun 
 ① (parcel) 包裹 bāoguǒ 
 ② (set, offer) 一组事物 yī zǔ shìwù a package of reforms/proposals 一整套改革/一揽子建议 an insurance package 综合保险 a pay or salary package 薪酬待遇 to be part of the package 被包括在内 
 ③ AmE (pack) 包 bāo a package of cigarettes/peanuts 一包香烟/花生 

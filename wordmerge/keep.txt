@@ -1,6 +1,7 @@
 keep 
 BrE kiːp, AmE kip 
-A. transitive verb(past tense, past participle kept) 
+
+A.  transitive verb(past tense, past participle kept) 
 ① (cause to remain) 使保持 shǐ bǎochí to keep [something] clean/dry 使某物保持清洁/干燥 to keep [somebody] awake/amused 使某人醒着/开心 to keep [something] in one's head 记住某事物 to keep [somebody] in suspense 吊某人的胃口 she kept her hands over her eyes 她双手捂住了眼睛 the hostages were kept in a cellar 人质关在地窖里 there's nothing to keep me here 已经没有什么理由能让我留在这里了 
 ② (retain) 保留 bǎoliú to keep [somebody's] attention 保持某人的注意力 keep the change 不用找零钱 to keep a car for two days 用两天车 you can keep [something] colloquial ironic 某物你留着好了 
 ③ (reserve) 预留 yùliú to keep [something] for [somebody], to keep [somebody] [something]; 为某人留某物 she kept him a piece of cake 她给他留了一块蛋糕 to keep some of the sandwiches for later 留点儿三明治晚些时候再吃 
@@ -37,10 +38,12 @@ E.  for keeps adverb phrase colloquial 永远 yǒngyuǎn I'm home for keeps this
 ② (nag) 不断催 bùduàn cuī ‹debtor›; 唠唠叨叨地催 láoláodaodao de cuī ‹child›keep at transitive verb 
 ① [keep at something] (persevere at) 坚持 jiānchí ‹work, studies›keep at it! 加油！ 
 ② to keep [somebody] at … (make persevere at) 使坚持 shǐ jiānchí ‹work, studies›she kept him at his scales 她让他一直练习音阶 
-③ [keep at somebody] colloquial (nag) 缠住…不放 chánzhù… bù fàng keep away A. transitive verb[keep somebody/something away] 
+③ [keep at somebody] colloquial (nag) 缠住…不放 chánzhù… bù fàng keep away 
+A.  transitive verb[keep somebody/something away] 
 ① (repel) 赶走 gǎnzǒu to keep [somebody]/[something] away from [somebody]/[something]; 不让某人/某物接近某人/某物 keep the flies away from the food 别让苍蝇靠近食物 
 ② (prevent from going somewhere or doing sth.) 阻碍 zǔ'ài to keep [somebody]/[something] away from [somebody]/[something]; 阻碍某人/某物接近某人/某物 bad weather kept the tourists away 恶劣的天气阻碍了游客前来旅游 am I keeping you away from your work? 我妨碍你工作了吗？ to keep [something] away from small children 把某物放在小孩拿不到的地方 
-B.  intransitive verb to keep away (from [somebody]/[something]); 避开（某人/某事物） bìkāi(mǒu rén/mǒu shìwù) keep away from the edge/that man 离边缘/那个男人远一点 lí biānyuán/nàge nánrén yuǎn yīdiǎn keep back A. transitive verb[keep somebody/something back, keep back somebody/something] 
+B.  intransitive verb to keep away (from [somebody]/[something]); 避开（某人/某事物） bìkāi(mǒu rén/mǒu shìwù) keep away from the edge/that man 离边缘/那个男人远一点 lí biānyuán/nàge nánrén yuǎn yīdiǎn keep back 
+A.  transitive verb[keep somebody/something back, keep back somebody/something] 
 ① (hold back) 阻挡 zǔdǎng ‹fans, cattle›to keep one's hair back with an elastic band 用橡皮筋把头发束在脑后 to keep the crowd back from the stage 阻挡观众靠近舞台 
 ② (restrain) 忍住 rěnzhù ‹tears, laughter›
 ③ (retain) 留出 liúchū ‹money, food›
@@ -48,27 +51,31 @@ B.  intransitive verb to keep away (from [somebody]/[something]); 避开（某�
 ⑤ (prevent) 妨碍 fáng'ài ‹person›don't let me keep you back 别让我误了你的事 
 ⑥ School (cause to repeat year) 使…留级 shǐ… liújí ‹student›he was kept back a year 他留了一级 
 ⑦ BrE School (as punishment) 罚…留下 fá… liúxia ‹pupil›to be kept back after school 放学后被罚留在学校 
-B.  intransitive verb to keep back (from [somebody]/[something]); 不靠近（某人/某事物） bù kàojìn(mǒu rén/mǒu shìwù) keep back from the fire 不要接近火 bù yào jiējìn huǒ he warned spectators to keep well back 他警告观众远远靠后站 keep down A. transitive verb[keep somebody/something down, keep down somebody/something] 
+B.  intransitive verb to keep back (from [somebody]/[something]); 不靠近（某人/某事物） bù kàojìn(mǒu rén/mǒu shìwù) keep back from the fire 不要接近火 bù yào jiējìn huǒ he warned spectators to keep well back 他警告观众远远靠后站 keep down 
+A.  transitive verb[keep somebody/something down, keep down somebody/something] 
 ① (hold down) 压住 yāzhù I put bricks on the corners of the tarpaulin to keep it down 我用砖压住油布的四角不让它翘起来 keep that dog down! 别让那只狗乱跳！ 
 ② (repress) 压迫 yāpò ‹person›he won't be kept down 他很难制服 you can't keep a good man down 有志向的人是什么困难都压不倒的 
 ③ (control) 控制 kòngzhì ‹costs, pollution›to keep the weeds down 除草 
 ④ (reduce) 降低 jiàngdī ‹interest rates, noise›keep your voice down! 小声点！ 
 ⑤ (hold in stomach) 不呕吐出来 bù ǒutù chulai ‹food, liquid›she couldn't keep anything down 她吃什么就吐什么 
 ⑥ BrE School (cause to repeat year) 使…留级 shǐ… liújí ‹student›
-B.  intransitive verb keep down! 蹲下！ dūnxia ！ we kept down while the security patrol passed by on the other side of the wall 保安巡逻队经过墙的另一边时，我们蹲了下来 keep from A. transitive verb 
+B.  intransitive verb keep down! 蹲下！ dūnxia ！ we kept down while the security patrol passed by on the other side of the wall 保安巡逻队经过墙的另一边时，我们蹲了下来 keep from 
+A.  transitive verb 
 ① to keep from doing [something] (refrain) 忍住不做某事 rěnzhù bù zuò mǒu shì she couldn't keep from laughing 她忍俊不禁 tā rěn jùn bù jīn 
 ② to keep [somebody] from [something]/doing [something] (prevent) 使某人避免某事物/阻止某人做某事 shǐ mǒu rén bìmiǎn mǒu shìwù/zǔzhǐ mǒu rén zuò mǒu shì am I keeping you from your work/doing your work? 我耽误你工作了吗？ the thing that kept me from dismissing her was … 我没解雇她的理由是… 
 ③ [keep somebody/something from something] (protect) 使…免受…侵害 shǐ… miǎn shòu… qīnhài God will keep you from harm 上帝保佑你不受伤害 to be kept from temptation 远离诱惑 
 ④ [keep something from somebody] (conceal) 对…隐瞒 duì… yǐnmán 
 ⑤ [keep something from something] (stop from affecting) 使…不受…影响 shǐ… bù shòu… yǐngxiǎng she could not keep the dismay from her voice 她声音里不禁透出沮丧 
-B.  reflexive verb to keep oneself from doing [something]; 忍住不做某事 rěnzhù bù zuò mǒu shì I couldn't keep myself from yawning 我忍不住打起了哈欠 keep in A. transitive verb[keep somebody/something in, keep in somebody/something] 
+B.  reflexive verb to keep oneself from doing [something]; 忍住不做某事 rěnzhù bù zuò mǒu shì I couldn't keep myself from yawning 我忍不住打起了哈欠 keep in 
+A.  transitive verb[keep somebody/something in, keep in somebody/something] 
 ① (cause to stay indoors) 把…关在屋里 bǎ… guān zài wū li ‹person›the rain kept us in all day 雨下了一整天，我们无法出门 to keep [somebody] in for observation (in hospital) 让某人留院观察 
 ② School (as punishment) 罚…课后留校 fá… kè hòu liúxiào ‹pupil›
 ③ (wear) 不摘下 bù zhāixia ‹dentures, contact lenses›
 ④ (hold in) 使收进来 shǐ shōu jinlai to wear a corset to keep one's stomach in 戴束腹以收紧肚子 keep your elbows in! 收起胳膊肘！ 
 ⑤ (restrain) 控制 kòngzhì ‹emotions›
 ⑥ to keep [somebody] in [something] (provide with) 向某人供给某物 xiàng mǒu rén gōngjǐ mǒu wù he can't afford to keep the children in shoes 他连给孩子们买鞋的钱都没有 
-B.  intransitive verb keep in! 在路内侧走！ zài lù nèicè zǒu ！ keep in with transitive verb[keep in with somebody] BrE colloquial 与…保持良好关系 yǔ… bǎochí liánghǎo guānxi keep off A. [keep off something] transitive verb 
+B.  intransitive verb keep in! 在路内侧走！ zài lù nèicè zǒu ！ keep in with transitive verb[keep in with somebody] BrE colloquial 与…保持良好关系 yǔ… bǎochí liánghǎo guānxi keep off 
+A.  [keep off something] transitive verb 
 ① (stay away from) 勿靠近 wù kàojìn ‹flowerbed, property›‘please keep off the grass’ “请勿践踏草坪” 
 ② (not consume) 不吃 bù chī ‹fatty foods›to keep off alcohol/drugs 不喝烈性酒/吸毒 
 ③ (not mention) 不提起 bù tíqǐ ‹topic›
@@ -79,7 +86,8 @@ D.  [keep somebody off something] transitive verb
 ② (stop from consuming) 使…不吃 shǐ… bù chī ‹fatty foods›to keep [somebody] off alcohol/cigarettes 使某人戒酒/戒烟 
 E.  intransitive verb 
 ① (stay away) 不靠近 bù kàojìn keep off! 离远点！ 
-② (not start) «snow, storm» 不下 bù xià if the rain keeps off, we'll have lunch in the garden 如果不下雨，我们就在花园里吃午餐 keep on: A. intransitive verb to keep on doing [something] (do repeatedly) 反复做某事 fǎnfù zuò mǒu shì to keep on reminding [somebody] 不断提醒某人 bùduàn tíxǐng mǒu rén 
+② (not start) «snow, storm» 不下 bù xià if the rain keeps off, we'll have lunch in the garden 如果不下雨，我们就在花园里吃午餐 keep on: 
+A.  intransitive verb to keep on doing [something] (do repeatedly) 反复做某事 fǎnfù zuò mǒu shì to keep on reminding [somebody] 不断提醒某人 bùduàn tíxǐng mǒu rén 
 B.  transitive verb[keep something/somebody on] 
 ① (hold in place) 固定 gùdìng ‹hat, lid›
 ② (wear) 继续穿着 jìxù chuānzhe ‹shoes, coat›can I keep my hat on? 我可以不脱帽子吗？ 
@@ -87,7 +95,8 @@ B.  transitive verb[keep something/somebody on]
 C.  intransitive verb 
 ① (continue) to keep on with [something], to keep on doing [something] (not stop) 继续做某事 jìxù zuò mǒu shì to keep on with one's studies 继续学习 the alarm kept on ringing 闹铃响个不停 
 ② (continue on course) 继续前行 jìxù qiánxíng keep on till you get to the station 一直往前走到车站 keep on past the station 一直走过车站 
-③ to keep on about [somebody]/[something]/about doing [something] pejorative (harp on) 就某人/某事物/做某事唠唠叨叨 jiù mǒu rén/mǒu shìwù/zuò mǒu shì láoláodaodao to keep on about the exam 老说考试的事情 lǎo shuō kǎoshì de shìqing he does keep on! 他真够啰唆的！ tā zhēn gòu luōsuo de ！ keep on at: transitive verb to keep on at [somebody] (to do [something]); 纠缠某人（做某事） jiūchán mǒu rén(zuò mǒu shì) he kept on at me to take him to the funfair 他缠着我要我带他去游乐场 keep out A. intransitive verb 
+③ to keep on about [somebody]/[something]/about doing [something] pejorative (harp on) 就某人/某事物/做某事唠唠叨叨 jiù mǒu rén/mǒu shìwù/zuò mǒu shì láoláodaodao to keep on about the exam 老说考试的事情 lǎo shuō kǎoshì de shìqing he does keep on! 他真够啰唆的！ tā zhēn gòu luōsuo de ！ keep on at: transitive verb to keep on at [somebody] (to do [something]); 纠缠某人（做某事） jiūchán mǒu rén(zuò mǒu shì) he kept on at me to take him to the funfair 他缠着我要我带他去游乐场 keep out 
+A.  intransitive verb 
 ① (not enter) 留在外面 liú zài wàimian ‘keep out!’ “严禁入内！” to keep out of [something]; 不进入 ‹place›to keep out of the war zone 不进入战区 to keep out of [somebody's] way or out of the way of [somebody] (not hinder) 不妨碍某人 (avoid) 避免与某人相见 
 ② to keep out of [something] (avoid involvement in) 不卷入 bù juǎnrù ‹argument, fight›keep out of this! 别管这事！ bié guǎn zhè shì ！ he can't keep out of mischief 他动不动就搞恶作剧 
 ③ to keep out of the sun/rain (avoid exposure to) 避免日晒/避雨 bìmiǎn rìshài/bìyǔ 
@@ -95,7 +104,8 @@ B.  transitive verb[keep somebody/something out]
 ① (stop from entering) 使不进入 shǐ bù jìnrù to keep [somebody]/[something] out of [something]; 阻止某人/某物进入 ‹place›keep that dog out of my bedroom! 别让那条狗进我的卧室！ to keep [somebody]/[something] out of [somebody's] way or out of the way of [somebody]; (prevent from hindering) 使某人/某事物不妨碍某人 (prevent from being seen) 使某人见不到某人/某事物 keep those toys out of my way! 别让那些玩具挡我的路！ keep the cat out of your brother's way 别让你弟弟看见猫 
 ② to keep [somebody]/[something] out of [something] (prevent involvement in) 使某人/某事物不卷入某事 shǐ mǒu rén/mǒu shìwù bù juǎnrù mǒu shì keep him out of trouble! 别让他惹麻烦！ bié ràng tā rě máfan ！ 
 ③ (protect against) 抵御 dǐyù to keep out the cold/rain 御寒/挡雨 to keep the sun out of one's eyes 让眼睛免受阳光直射 
-④ to keep [somebody]/[something] out of [something] (prevent exposure to) 使…不接触某事物 shǐ… bù jiēchù mǒu shìwù ‹person, animal, plant›keep the children out of danger 让孩子们远离危险 keep to A. [keep to something] transitive verb 
+④ to keep [somebody]/[something] out of [something] (prevent exposure to) 使…不接触某事物 shǐ… bù jiēchù mǒu shìwù ‹person, animal, plant›keep the children out of danger 让孩子们远离危险 keep to 
+A.  [keep to something] transitive verb 
 ① (follow) 不偏离 bù piānlí ‹road›to keep to the path 顺着小路走 to keep to the left 靠左边走 
 ② (not deviate from) 执行 zhíxíng ‹schedule, plan›; 不背离 bù bèilí ‹one's beliefs›to keep to the facts/the point 坚持实事求是/不跑题 keep to the script! 按剧本表演！ 
 ③ (be bound by) 履行 lǚxíng ‹promise, contract›; 遵守 zūnshǒu ‹law›
@@ -105,12 +115,14 @@ B.  [keep somebody/something to something] transitive verb
 ② (cause to adhere to) 使…执行 shǐ… zhíxíng ‹schedule, plan›
 ③ (bind by) 使履行 shǐ lǚxíng ‹promise, contract›; 使…遵守 shǐ… zūnshǒu ‹law›
 ④ (restrict) 使限制在…内 shǐ xiànzhì zài… nèi ‹size, speed›to keep the new version to the same length as the original 保持新版本与原版长度一致 
-⑤ to keep [something] to oneself (not share) 不泄露 bù xièlòu ‹information, secret›keep your opinions to yourself! 把你的意见收起来吧！ keep your hands to yourself! colloquial 放尊重点！ fàng zūnzhòng diǎn ！ keep together A. intransitive verb 
+⑤ to keep [something] to oneself (not share) 不泄露 bù xièlòu ‹information, secret›keep your opinions to yourself! 把你的意见收起来吧！ keep your hands to yourself! colloquial 放尊重点！ fàng zūnzhòng diǎn ！ keep together 
+A.  intransitive verb 
 ① (in group) 在一起 zài yīqǐ keep together as we go through the cave 穿过山洞时我们不能走散 
 ② (remain synchronized) 协调一致 xiétiáo yīzhì 
 B.  transitive verb[keep somebody/something together] 
 ① (in group) 使在一起 shǐ zài yīqǐ keep these papers together in a folder 把这些文件放在一个文件夹里 
-② (synchronize) 使…协调一致 shǐ… xiétiáo yīzhì ‹orchestra, crew, dancers›keep up A. intransitive verb 
+② (synchronize) 使…协调一致 shǐ… xiétiáo yīzhì ‹orchestra, crew, dancers›keep up 
+A.  intransitive verb 
 ① (progress at same speed) «person, animal, car» 跟上 gēnshang I managed to keep up by taking work home in the evenings 我把工作带回家晚上做才跟上了进度 
 ② (develop at same rate) «nation, industry, rival» 保持同步 bǎochí tóngbù 
 ③ (learn at same rate) 跟上功课 gēnshang gōngkè to have no difficulty keeping up 跟上功课毫无困难 

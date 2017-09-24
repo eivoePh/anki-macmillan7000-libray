@@ -1,10 +1,12 @@
 jump 
 BrE dʒʌmp, AmE dʒəmp 
-A. intransitive verb 
+
+A.  intransitive verb 
 ① (leap) 跳 tiào to jump over [something]; 翻越 ‹gate, fence, wall›to jump across [something]; 跨过 ‹ditch, gap, stream›to jump into [something]; 跳入 tiàorù ‹air, river, pit›to jump into bed with [somebody] colloquial 直接和某人上床 to jump on to [something]; 跳到…上 ‹roof, table, bus›to jump out of [something]; 跳出 tiàochū ‹bed, window, tower›to jump from [something]; 从…上跳下 ‹plane, car›to jump clear (of [something]) 逃离（某事物） I managed to jump clear of the oncoming truck 我跳到一边避开了后面开来的卡车 to jump for joy literal 高兴得手舞足蹈 figurative 欢欣鼓舞 huānxīn gǔwǔ to jump down [somebody's] throat colloquial 愤怒地反驳某人 go and jump in the lake or river!, go and take a running jump! colloquial dated 滚开！ to jump up and down literal 上窜下跳 figurative colloquial (be angry) 暴跳 bàotiào (be upset) 躁动不安 zàodòng bù'ān (be excited) 手舞足蹈 shǒu wǔ zú dǎo to jump in line AmE 插队 
 ② (move or act quickly) 快速行动 kuàisù xíngdòng to jump at [somebody's] command 听到某人命令后迅速行动 to jump to one's feet 一跃而起 jump to it! colloquial 赶快行动！ to make [somebody] jump 促使某人行动 to jump to conclusions 匆忙下结论 to jump to [somebody's] defence 积极为某人辩护 
 ③ (start) 吃惊 chījīng to make [somebody] jump 使某人大吃一惊 [somebody's] heart jumps; 某人心中一惊 to jump out of one's skin colloquial 大吃一惊 
-④ (increase suddenly) «amount, value, profits, expenditure» 激增 jīzēng dividends jumped by 20 per cent that year 那年的红利猛增了20％ sales jumped from £2.7 billion to £3.5 billion 销售额从27亿英镑猛增到35亿英镑 
+④ (increase suddenly) «amount, value, profits, expenditure» 激增 jīzēng dividends jumped by
+20 per cent that year 那年的红利猛增了20％ sales jumped from £2.7 billion to £3.5 billion 销售额从27亿英镑猛增到35亿英镑 
 ⑤ (change suddenly) 迅速转变 xùnsù zhuǎnbiàn to jump from one topic to another 从一个话题跳到另一个话题 
 ⑥ (move or jerk suddenly) 突然跳动 tūrán tiàodòng the needle jumped across the dial 指针在刻度盘上乱摆 
 ⑦ to be jumping AmE colloquial 非常活跃 fēicháng huóyuè the joint is really jumping tonight 今晚店里真热闹 jīnwǎn diàn li zhēn rènao 
@@ -25,8 +27,10 @@ C.  noun
 ② (return to position) «lever, spring» 归位 guīwèi jump down intransitive verb 跳下来 tiào xialai to jump down from or off [something]; 从…上跳下来 cóng… shang tiào xialai ‹wall, steps, ladder›jump in intransitive verb 
 ① (leap into water, pool, hole) 跳入 tiàorù she liked swimming but was nervous of jumping in 她喜欢游泳，但是害怕跳水 
 ② colloquial (get in car) 跳上车 tiàoshang chē 
-③ colloquial (interrupt) 插话 chāhuà before she could finish, he jumped in with an objection 她话还没说完，他就插嘴反对 jump off A. transitive verb[jump off something] 从…上跳下来 cóng… shang tiào xialai ‹steps, diving board, bus›
-B.  intransitive verb 跳下来 tiào xialai jump on A. transitive verb[jump on somebody/something] 
+③ colloquial (interrupt) 插话 chāhuà before she could finish, he jumped in with an objection 她话还没说完，他就插嘴反对 jump off 
+A.  transitive verb[jump off something] 从…上跳下来 cóng… shang tiào xialai ‹steps, diving board, bus›
+B.  intransitive verb 跳下来 tiào xialai jump on 
+A.  transitive verb[jump on somebody/something] 
 ① colloquial (get on quickly) 跳上 tiàoshang ‹bus, train, horse›
 ② (leap on) 跳到…上面 tiàodào… shàngmian ‹bed›
 ③ (attack physically) 突然袭击 tūrán xíjī 

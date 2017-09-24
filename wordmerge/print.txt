@@ -1,6 +1,7 @@
 print 
 BrE prɪnt, AmE prɪnt 
-A. noun 
+
+A.  noun 
 ① Uncountable(typeface, lettering) 字体 zìtǐ the title is in roman/italic print 标题用的是罗马体/斜体 large/small print 大/小号字体 to set [something] up in print 给…排版 ‹text›
 ② Uncountable(printed text) 印刷品 yìnshuāpǐn a page of print 印刷页 the print media 印刷媒体 the medium of print 印刷媒体 print quality/format 印刷质量/格式 
 ③ Uncountable(availability in published form) 出版 chūbǎn in/out of print 已出版/绝版的 to put or get [something] into print 出版某物 to appear in or get into print «book» 出版 chūbǎn to see [something]/oneself in print 看到某物/自己的作品出版 at the time of going to print 在付印之际 to rush [something] into print 匆忙发表某物 
@@ -21,7 +22,8 @@ D.  intransitive verb
 ① (write) 用印刷体写 yòng yìnshuātǐ xiě to learn to print 学写印刷体 
 ② Printing 印刷 yìnshuā 
 ③ Computing 打印 dǎyìn 
-④ Photography «plate, negative» 冲印 chōngyìn PHRASAL VERBS print off transitive verb[print something off, print off something] 大量印刷 dàliàng yìnshuā print out A. transitive verb[print something out, print out something] 打印出 dǎyìn chū 
+④ Photography «plate, negative» 冲印 chōngyìn PHRASAL VERBS print off transitive verb[print something off, print off something] 大量印刷 dàliàng yìnshuā print out 
+A.  transitive verb[print something out, print out something] 打印出 dǎyìn chū 
 B.  intransitive verb 被打印出 bèi dǎyìn chū the report won't print out on a single page 这份报告一张纸印不下 
 print 
 ▶verb

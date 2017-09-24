@@ -1,6 +1,7 @@
 set 
 BrE sɛt, AmE sɛt 
-A. transitive verb(past tense, past participle set) 
+
+A.  transitive verb(past tense, past participle set) 
 ① (place, position) 放置 fàngzhì ‹object›; 安置 ānzhì ‹person›his hat was set at a rakish angle 他歪戴着帽子 the castle is set on the bank of a river 城堡位于河岸上 to set guards around the building 在大楼周围布置警卫 I would set the university just below Oxford and Cambridge in terms of prestige 从声望上讲，我觉得这所大学仅次于牛津和剑桥 
 ② (arrange, establish) 确定 quèdìng ‹time, venue, target, standard›; 树立 shùlì ‹fashion›to set a reserve price for [something] 为某物定底价 
 ③ (adjust) 设定 shèdìng to set the alarm (on building) 设定警报器 (on clock) 设闹钟 to set the switch in the on/off position 把开关调到开/关的位置 
@@ -50,13 +51,16 @@ D.  adjective
 ④ Law (cancel) 撤销 chèxiāo ‹decision›; 驳回 bóhuí ‹sentence›set back transitive verb 
 ① [set something back, set back something] (position to the rear) 把…往后放 bǎ… wǎng hòu fàng the house is set back from the road 房子离公路有一段距离 
 ② [set somebody/something back, set back somebody/something] (cause delay to) 耽搁 dānge ‹project, work›a technical problem set us back three days 一个技术问题让我们耽搁了3天 
-③ [set somebody back] colloquial (be an expense to) that must have set you back a bit! 那一定花了你不少钱！ it only set me back $5 这只花了我5美元 set by transitive verb [set something by, set by something] 留出 liúchū ‹money›set down A. [set something down, set down something] transitive verb 
+③ [set somebody back] colloquial (be an expense to) that must have set you back a bit! 那一定花了你不少钱！ it only set me back $5 这只花了我5美元 set by transitive verb [set something by, set by something] 留出 liúchū ‹money›set down 
+A.  [set something down, set down something] transitive verb 
 ① (put down) 放下 fàngxia 
 ② (record) 写下 xiěxia to set [something] down in writing or on paper 把某事物记录在案 
 ③ (fix, arrange) 确定 quèdìng they've set down Friday as the day for the hearing 他们确定于星期五召开听证会 
 ④ (land) 使…降落 shǐ… jiàngluò ‹plane›
-B.  [set somebody down, set down somebody] transitive verb (allow to alight) 让…下车 ràng… xiàchē ‹passengers›set forth A. intransitive verb literary 出发 chūfā to set forth on a journey 动身旅行 
-B.  transitive verb [set something forth, set forth something] formal 陈述 chénshù ‹conditions, proposal›set in intransitive verb «winter, bad weather» 来临 láilín ; «disease, complications» 发作 fāzuò the frosts have set in early this year 今年霜来得早 the rain has set in for the night 晚上下起了雨 set off A. intransitive verb «traveller, expedition» 动身 dòngshēn she set off down the hill/for the station 她向山下/车站走去 to set off on a journey; 动身上路 to set off to do [something]; 出发去做某事 she set off on a long explanation figurative 她开始进行冗长的解释 
+B.  [set somebody down, set down somebody] transitive verb (allow to alight) 让…下车 ràng… xiàchē ‹passengers›set forth 
+A.  intransitive verb literary 出发 chūfā to set forth on a journey 动身旅行 
+B.  transitive verb [set something forth, set forth something] formal 陈述 chénshù ‹conditions, proposal›set in intransitive verb «winter, bad weather» 来临 láilín ; «disease, complications» 发作 fāzuò the frosts have set in early this year 今年霜来得早 the rain has set in for the night 晚上下起了雨 set off 
+A.  intransitive verb «traveller, expedition» 动身 dòngshēn she set off down the hill/for the station 她向山下/车站走去 to set off on a journey; 动身上路 to set off to do [something]; 出发去做某事 she set off on a long explanation figurative 她开始进行冗长的解释 
 B.  [set off something, set something off] transitive verb 
 ① (trigger) 触发 chùfā ‹alarm›; 引爆 yǐnbào ‹firework, bomb›
 ② (initiate) 引发 yǐnfā to set off a chain of events 引发一连串事件 
@@ -64,14 +68,16 @@ B.  [set off something, set something off] transitive verb
 ④ (counterbalance) 弥补 míbǔ ‹loss, withdrawal›to set [something] off against [something]; 用某物抵消某物 
 C.  [set somebody off] transitive verb colloquial (cause to begin) 使开始 shǐ kāishǐ you've set the baby off again! 你又把孩子弄哭了！ to set [somebody] off doing [something]; 使某人开始做某事 the tickle in his throat set him off coughing 他嗓子发痒，引起了一阵咳嗽 set on transitive verb 
 ① [set on somebody] (attack) 袭击 xíjī they were set on by a gang of bigger boys 他们遭到了一伙年纪稍大的男孩的攻击 
-② (cause to pursue) to set [something]/[somebody] on [somebody]; 让某物/某人追击某人 ràng mǒu wù/mǒu rén zhuījī mǒu rén they set the police on me 他们叫警察来抓我 set out A. intransitive verb 
+② (cause to pursue) to set [something]/[somebody] on [somebody]; 让某物/某人追击某人 ràng mǒu wù/mǒu rén zhuījī mǒu rén they set the police on me 他们叫警察来抓我 set out 
+A.  intransitive verb 
 ① (leave) 出发 chūfā to set out on [something]; 动身开始某事 to set out on a long journey 动身踏上长途旅行 
 ② (begin with intention) to set out to do [something]; 有意做某事 yǒuyì zuò mǒu shì to set out to earn a lot of money 打算挣大钱 dǎsuàn zhèng dàqián 
 B.  transitive verb[set something out, set out something] 
 ① (display, lay out) 摆放 bǎifàng ‹goods, chess pieces›
 ② (present) 陈述 chénshù ‹ideas, proposals, reasons›set to intransitive verbdated 
 ① (begin energetically) 起劲地干起来 qǐjìn de gàn qilai they set to and soon finished the job 他们大干起来，很快就完成了工作 
-② (begin to fight) 开始扭打 kāishǐ niǔdǎ they set to with fists and feet (flying) 他们开始拳打脚踢起来 set up A. [set something up, set up something] transitive verb 
+② (begin to fight) 开始扭打 kāishǐ niǔdǎ they set to with fists and feet (flying) 他们开始拳打脚踢起来 set up 
+A.  [set something up, set up something] transitive verb 
 ① (erect) 搭起 dāqǐ ‹stall, stand›; 建起 jiànqǐ ‹monument, memorial›the photographer took some time to set up all her equipment 这位摄影师花了点时间把全部摄影器材布放到位 
 ② (establish) 开办 kāibàn ‹company›; 设立 shèlì ‹tribunal, fund›
 ③ (produce, start) 引发 yǐnfā to set up a commotion/turbulence/noise 引起喧闹/骚乱/吵闹 the monkeys set up a great racket when the tiger approached 老虎走近时，猴子们大叫起来 

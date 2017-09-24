@@ -1,6 +1,7 @@
 back 
 BrE bak, AmE bæk 
-A. noun 
+
+A.  noun 
 ① (part of body) 背部 bèibù he was lying on his back 他仰面而卧 to travel on the back of a donkey 骑驴旅行 to be at the back of [something] 策划 ‹conspiracy, proposal›to do [something] behind [somebody's] back 背着某人做某事 to break the back of [something] 完成某事的主要部分 we've broken the back of the problem 我们攻克了问题的难点 to be (flat) on one's back literal 仰卧 figurative colloquial 卧病 wòbìng to be at [somebody's] back 支持某人 to be glad to see the back of [somebody]/[something] colloquial 庆幸终于摆脱某人/某事物 to have one's back to [somebody]/[something] 背对着某人/某物 to live off [somebody's] back 靠剥削某人生活 to put one's back into [something] colloquial 全力以赴做某事 to put or get [somebody's] back up colloquial 惹恼某人 to get off [somebody's] back colloquial 不再烦扰某人 to be on [somebody's] back (to do [something]) colloquial 纠缠某人（去做某事） to succeed on the back of [something] 由于某事物获得成功 to turn one's back on [somebody]/[something] literal 转身背对某人/某物 figurative 背弃某人/某事物 bèiqì mǒu rén/mǒu shìwù 
 ② (human spine) 脊梁骨 jǐlianggǔ to put one's back out 闪腰 
 ③ (spine of book) 书脊 shūjǐ 
@@ -23,7 +24,8 @@ C.  adverb
 ⑤ (away) 有距离 yǒu jùlí back from [somebody]/[something]; 离开某人/某物 back! 退后！ he moved back from the edge of the cliff 他从悬崖边向后退 
 ⑥ (ago) 以前 yǐqián (a long time ago) 久远地 jiǔyuǎn de a week/five minutes back 一周/五分钟以前 back in the days when … 早在…的时候 way back in the winter 远在冬天的时候 as far back as last year/1985 早在去年/1985年 
 ⑦ (once again) 回到原状 huídào yuánzhuàng she's back in power 她再次掌权 Paul is back at the wheel 保罗又开起车来了 
-⑧ (earlier in book or journey) 在前面 zài qiánmian several pages/ten lines back 前几页/十行 we overtook him 20 km back 在前面20公里处我们就超过了他 
+⑧ (earlier in book or journey) 在前面 zài qiánmian several pages/ten lines back 前几页/十行 we overtook him
+20 km back 在前面20公里处我们就超过了他 
 ⑨ (indicating return to sb.'s possession) 归还 guīhuán I have my books back now 我那些书还回来了 I want my money back 我想要回我的钱 
 ⑩ (indicating return to proper position) 回原处 huí yuánchù (expressing return to a former location) 回原地 huí yuándì is everything back where it belongs? 所有的东西都放回原处了吗？ the journey to Madrid and back 往返马德里的旅程 
 ⑪ (in a different location) 在别处 zài biéchù (at earlier location) 在原处 zài yuánchù back in the studio, recording had begun 而在录音室，录制工作已经开始 the folks back home are counting on him 老家的父母都指望着他 I'll see you back at the house/in the office 我还在那幢房子/那间办公室见你 
@@ -41,16 +43,20 @@ F.  intransitive verb
 ① (reverse) 倒退 dàotuì 
 ② Nautical «wind» 逆时针转向 nìshízhēn zhuǎnxiàng PHRASAL VERBS back away intransitive verb 
 ① (move backwards) 退后 tuìhòu to back away from [somebody]/[something]; 退避 
-② (steer clear) 退缩 tuìsuō to back away from [something]; 回避 ‹problem, confrontation›back down A. intransitive verb 放弃 fàngqì to back down from [something]; 放弃 fàngqì ‹fight›to back down on or over [something]; 取消 ‹sanctions, allegations›
+② (steer clear) 退缩 tuìsuō to back away from [something]; 回避 ‹problem, confrontation›back down 
+A.  intransitive verb 放弃 fàngqì to back down from [something]; 放弃 fàngqì ‹fight›to back down on or over [something]; 取消 ‹sanctions, allegations›
 B.  transitive verb[back down something] 
 ① (go down backwards) 沿…退下 yán… tuìxia ‹slope›
-② (go along backwards) 沿…返回 yán… fǎnhuí ‹road, drive›back in A. intransitive verb (go in backwards) 退进 tuì jìn the car backed in 汽车倒了进来 
+② (go along backwards) 沿…返回 yán… fǎnhuí ‹road, drive›back in 
+A.  intransitive verb (go in backwards) 退进 tuì jìn the car backed in 汽车倒了进来 
 B.  transitive verb [back something in, back in something] (put in backwards) 把…倒进来 bǎ… dào jinlai ‹car›; 使…退进来 shǐ… tuì jinlai ‹horse›back off intransitive verb 
 ① (move away) 走开 zǒukāi 
-② (give way) 放弃 fàngqì to back off over [something]; 在…上让步 ‹issue, matter›to back off from a reform 放弃改革 back on to transitive verb [back on to something] «house» 背向 bèixiàng ‹fields, railway›back out A. intransitive verb 
+② (give way) 放弃 fàngqì to back off over [something]; 在…上让步 ‹issue, matter›to back off from a reform 放弃改革 back on to transitive verb [back on to something] «house» 背向 bèixiàng ‹fields, railway›back out 
+A.  intransitive verb 
 ① (go out backwards) 退出 tuìchū to back out of; «person, horse» 从…中退出 ‹room› «driver, car» 从…中倒出 cóng… zhōng dàochū ‹parking space›
 ② (withdraw) «competitor, team» 退出 tuìchū to back out of; 退出 tuìchū ‹event, deal›
-B.  transitive verb [back something out, back out something] «driver» 把…倒出 bǎ… dàochū ‹car›; «rider» 使…退出 shǐ… tuìchū ‹horse›to back [something] out of [something]; 使某物从某处中退出 back up A. intransitive verb 
+B.  transitive verb [back something out, back out something] «driver» 把…倒出 bǎ… dàochū ‹car›; «rider» 使…退出 shǐ… tuìchū ‹horse›to back [something] out of [something]; 使某物从某处中退出 back up 
+A.  intransitive verb 
 ① (go backwards) «person, horse» 后退 hòutuì ; «driver» 倒车 dàochē ; «car» 向后倒 xiàng hòu dào to back up a few yards 后退几码 
 ② Computing 备份 bèifèn 
 ③ (accumulate) «water» 聚集 jùjí 

@@ -1,6 +1,7 @@
 cross 
 BrE krɒs, AmE krɔs 
-A. noun 
+
+A.  noun 
 ① (x shape) 叉形 chāxíng ; School (marking as wrong) 叉 chā ; (+ shape) 十字形 shízìxíng to make one's cross 画押 
 ② Religion (as jewellery, at altar) 十字架 shízìjià (as monument) 十字形纪念碑 shízìxíng jìniànbēi (as marker) 十字标 shízìbiāo the Cross; ［钉死耶稣基督的] 十字架 shízìjià to make (sign of) the Cross 用手画十字 
 ③ figurative (sth. to be endured) 磨难 mónàn to take up one's cross 承受磨难 we all have our cross to bear 每人都有自己的苦难要承担 
@@ -27,7 +28,8 @@ D.  intransitive verb
 ① (go across) «person, vehicle» 穿过 chuānguo ; «boat» 渡过 dùguo ; «bird, aircraft» 飞过 fēiguo ; «meteor» 划过 huáguo to cross from … (to …); (on land, in room) 穿过…（到…） (over or through water) 渡过…（到…） to cross the river on a ferry 乘渡船过河 to cross into Italy 越过边界进入意大利 
 ② (intersect) «road, legs, beams» 交叉 jiāochā our paths cross frequently 我们经常相遇 
 ③ (pass in opposite directions) «vehicles, bullets» 迎面而过 yíngmiàn ér guò ; «parcels, orders» 错过 cuòguò we crossed in the hall 我们在大厅里擦肩而过 to cross with [something]; 与某物交错而过 to cross in the post 在邮寄过程中相互错过 
-④ Sport «footballer» 传中 chuánzhōng PHRASAL VERBS cross off transitive verb [cross something off], [cross off something] 把…画掉 bǎ… huàdiào ‹name, item›to cross [something]/[somebody] off [something]; 把某物/某人从某处画掉 cross out transitive verb [cross something out], [cross out something] 把…画掉 bǎ… huàdiào ‹text, letter, name›cross over A. intransitive verb 
+④ Sport «footballer» 传中 chuánzhōng PHRASAL VERBS cross off transitive verb [cross something off], [cross off something] 把…画掉 bǎ… huàdiào ‹name, item›to cross [something]/[somebody] off [something]; 把某物/某人从某处画掉 cross out transitive verb [cross something out], [cross out something] 把…画掉 bǎ… huàdiào ‹text, letter, name›cross over 
+A.  intransitive verb 
 ① (go across) «pedestrian» 过马路 guò mǎlù to cross over to figurative 转变立场投靠 zhuǎnbiàn lìchǎng tóukào ‹political party›
 ② (intersect) «railway tracks» 相交 xiāngjiāo ; «ideas» 融合 rónghé 
 B.  transitive verb[cross over something] 穿过 chuānguo cross through transitive verb [cross something through], [cross through something] 在…上画线 zài… shang huà xiàn ‹text, name›

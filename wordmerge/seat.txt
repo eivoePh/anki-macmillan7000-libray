@@ -1,6 +1,7 @@
 seat 
 BrE siːt, AmE sit 
-A. noun 
+
+A.  noun 
 ① (chair) (in room, at table) 椅子 yǐzi (in car) 座椅 zuòyǐ (in bus, train, hall, cinema, theatre) 座位 zuòwèi an adjustable/a reclining seat 可调节式座椅/靠椅 a bicycle seat 自行车车座 to keep or save a seat for [somebody] 给某人留座位 remain in your seats, please 请坐在原位 take or have a seat! 坐下！ 
 ② (of chair) 座部 zuòbù (of trousers) 后裆 hòudāng (of lavatory) 座圈 zuòquān (to fly) by the seat of one's pants colloquial 凭感觉（行事） 
 ③ euphemistic (buttocks) 臀部 túnbù 
@@ -9,7 +10,8 @@ A. noun
 ⑥ (residence) 宅邸 zháidǐ 
 B.  transitive verb 
 ① formal (assign place to) 为…安排座位 wèi… ānpái zuòwèi ‹person›
-② (have seats for) «hall, coach» 可供…就座 kě gōng… jiùzuò the table seats 12 at a pinch 这张桌子挤得下12个人 
+② (have seats for) «hall, coach» 可供…就座 kě gōng… jiùzuò the table seats
+12 at a pinch 这张桌子挤得下12个人 
 C.  reflexive verb to seat oneself at [something]/next to [somebody] 坐在某物/某人旁边 zuò zài mǒu wù/mǒu rén pángbiān 
 seat 
 ▶noun

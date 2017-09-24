@@ -1,6 +1,7 @@
 corrupt 
 BrE kəˈrʌpt, AmE kəˈrəpt 
-A. adjective 
+
+A.  adjective 
 ① (immoral) 腐败的 fǔbài de ‹society›; 腐化堕落的 fǔhuà duòluò de ‹life›
 ② (willing to accept bribes) 受贿的 shòuhuì de ‹official›corrupt practices 贪污腐败 
 ③ (containing errors) 有错误的 yǒu cuòwù de ‹text, files›Computing 有乱码的 yǒu luànmǎ de ‹file, data›

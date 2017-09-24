@@ -1,7 +1,8 @@
 burn
 1 
 BrE bəːn, AmE bərn 
-A. transitive verb(past tense, past participle burned or especially BrE burnt) 
+
+A.  transitive verb(past tense, past participle burned or especially BrE burnt) 
 ① (damage by heat or fire) 烧毁 shāohuǐ to burn [something] to ashes/to a cinder or crisp 把某物烧成灰/烧焦 to burn [somebody] alive 把某人活活烧死 to burn [somebody] to death 把某人烧死 
 ② (use) 烧 shāo ‹fuel›the system burns too much oil 这个系统太费油 
 ③ (damage accidentally) 烧坏 shāohuài ‹possessions, clothes›; 烧出 shāochū ‹hole›; «fire» 烧伤 shāoshāng ‹part of body›; «heat» 烫伤 tàngshāng ‹part of body›he burned his mouth on the hot soup 他喝热汤烫伤了嘴 their skin was burnt by the sun; 他们的皮肤被阳光灼伤了 to burn one's fingers, to get one's fingers burnt figurative 因考虑不周而蒙受损失 to burn one's boats or bridges figurative 自断后路 burnt into one's memory 铭刻在记忆中的 the experience burned itself into my memory 这一经历在我的记忆中打下了烙印 → candle 
@@ -18,21 +19,26 @@ B.  intransitive verb(past tense, past participle burned or especially BrE burnt
 ⑧ (eat into) «acid» 腐蚀 fǔshí 
 C.  noun 
 ① (injury, mark) (from fire) 烧伤 shāoshāng (from heat) 烫伤 tàngshāng (from sun) 晒伤 shàishāng severe/superficial/slight burns 严重/表面/轻微烧伤 cigarette burns 烟头烫伤 rope burns 绳子勒痕 there were burns all over the furniture 家具上满是烧灼的痕迹 
-② (consumption of fuel) 燃料消耗 ránliào xiāohào PHRASAL VERBS burn away A. intransitive verb 
+② (consumption of fuel) 燃料消耗 ránliào xiāohào PHRASAL VERBS burn away 
+A.  intransitive verb 
 ① (continue to burn) «fire, flame» 持续燃烧 chíxù ránshāo 
 ② (be consumed by fire) «log, candle» 烧掉 shāodiào 
-B.  transitive verb[burn something away, burn away something] 烧掉 shāodiào ‹wood, paint, skin›burn down A. intransitive verb 
+B.  transitive verb[burn something away, burn away something] 烧掉 shāodiào ‹wood, paint, skin›burn down 
+A.  intransitive verb 
 ① (be destroyed) «house» 烧毁 shāohuǐ 
 ② (have lower flame) «stick» 烧短 shāoduǎn ; «fire» 减弱 jiǎnruò the candle had almost burned right down 蜡烛几乎烧没了 
-B.  transitive verb[burn something down, burn down something] 烧毁 shāohuǐ ‹structure, house›burn off A. intransitive verb «substance» 烧尽 shāojìn 
-B.  transitive verb [burn something off, burn off something] 烧掉 shāodiào ‹paint, vegetation›burn out A. intransitive verb 
+B.  transitive verb[burn something down, burn down something] 烧毁 shāohuǐ ‹structure, house›burn off 
+A.  intransitive verb «substance» 烧尽 shāojìn 
+B.  transitive verb [burn something off, burn off something] 烧掉 shāodiào ‹paint, vegetation›burn out 
+A.  intransitive verb 
 ① (stop burning) «fire, candle» 熄灭 xīmiè 
 ② (stop working) «fuse, motor, light bulb» 烧坏 shāohuài 
 B.  transitive verb 
 ① [burn something out, burn out something] (make unserviceable) 烧坏 shāohuài ‹clutch, engine, motor›
 ② [burn something out, burn out something] (destroy) 烧毁 shāohuǐ ‹car, building›
 ③ [burn somebody out, burn out somebody] (force out) «person» 放火驱出 fànghuǒ qūchū ; «fire» 烧毁…的家 shāohuǐ… de jiā we burnt the enemy troops out of their shelter 我们放火把敌军逼出了掩体 burnt out of house and home 因火灾而不得不离家的 
-C.  reflexive verb to burn oneself out (become exhausted) 筋疲力尽 jīn pí lì jìn burn up A. intransitive verb 
+C.  reflexive verb to burn oneself out (become exhausted) 筋疲力尽 jīn pí lì jìn burn up 
+A.  intransitive verb 
 ① (burn more strongly) «flame, fire» 烧得更旺 shāo de gèng wàng 
 ② (be destroyed) «rocket, satellite, meteorite» 烧毁 shāohuǐ 
 B.  transitive verb 

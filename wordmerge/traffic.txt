@@ -1,6 +1,7 @@
 traffic 
 BrE ˈtrafɪk, AmE ˈtræfɪk 
-A. noun 
+
+A.  noun 
 ① Uncountable(movement of road vehicles) 交通 jiāotōng (vehicles) [来往的] 车辆 chēliàng the flow of traffic 车流 light/heavy/rush-hour traffic 车流稀少的/繁忙的/高峰期的交通 slow-moving traffic 缓缓移动的车流 to be stuck in traffic 遭遇塞车 oncoming/through traffic 迎面驶来的/过往的车辆 traffic into/out of London 进/出伦敦的车辆 traffic conditions/accidents 交通状况/事故 
 ② Uncountable(movement of trains, planes, ships, people) 运输 yùnshū (flow, volume) 交通量 jiāotōngliàng sea/cross-Channel traffic 海上/跨英吉利海峡的运输 (rail) passenger traffic （铁路）客运 the traffic of goods 货运 traffic through Shanghai has doubled 途经上海的车流量翻了一番 
 ③ UncountableComputing, Telecommunications 通信 tōngxìn data traffic 数据传输 

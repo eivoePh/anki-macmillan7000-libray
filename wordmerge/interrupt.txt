@@ -1,6 +1,7 @@
 interrupt 
 BrE ɪntəˈrʌpt, AmE ˌɪn(t)əˈrəpt 
-A. transitive verb 
+
+A.  transitive verb 
 ① (cut in on) 打断 dǎduàn ‹person, speech›
 ② (disturb) 暂停 zàntíng ‹programme›; 中断 zhōngduàn ‹trade›
 ③ (break up) 遮挡 zhēdǎng ‹view›the skyline was interrupted by pylons 地平线被塔楼遮挡了 

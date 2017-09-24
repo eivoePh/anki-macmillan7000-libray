@@ -1,6 +1,7 @@
 report 
 BrE rɪˈpɔːt, AmE rəˈpɔrt 
-A. noun 
+
+A.  noun 
 ① (written or spoken assessment of situation) 报告 bàogào a police/medical report 警方/医疗报告 a report on [somebody]/[something]; 关于某人/某事物的报告 I want a full report of your date tomorrow morning humorous 你明天上午给我详细汇报约会的事 
 ② (notification) 通报 tōngbào a report of [something]; 关于…的通报 ‹illness, crime, accident›
 ③ (official document) 调查报告 diàochá bàogào an air accident report 航空意外事故调查报告 a report on [something]; 关于某事物的调查报告 to deliver/prepare/publish a report (on [something]) 发布/准备/发表（关于某事物的）调查报告 to present a report to [somebody]/[something] 向某人/某机构呈交调查报告 an annual report 年度报告 the chairman's/committee's report 董事长/委员会的报告 
@@ -19,7 +20,8 @@ C.  intransitive verb
 ① (give account) to report on [something]; 报告 bàogào ‹situation, progress›he will report to Parliament on the negotiations 他会向议会汇报谈判事宜 
 ② (present findings) 公布调查结果 gōngbù diàochá jiéguǒ to report on [something]; 公布关于某事物的调查结果 the committee will report on its research next month 委员会将于下月公布研究结果 
 ③ Journalism 报道 bàodào she's been reporting for over ten years now 她已经当了十多年记者了 to report on [something]; 报道 bàodào ‹event›he reports on royal stories for the BBC 他为英国广播公司报道王室新闻 to report for [somebody]/[something]; 为某人/某处提供新闻报道 to report from [something]; 从某处进行报道 
-④ (present oneself) 报到 bàodào to report to [somebody]/[something]; 向某人/到某处报到 please report to reception on arrival 到达后请到接待处报到 to report to one's unit Military 到所在部队报到 to report sick 告病 to report for duty 报到上班 PHRASAL VERBS report back A. intransitive verb 
+④ (present oneself) 报到 bàodào to report to [somebody]/[something]; 向某人/到某处报到 please report to reception on arrival 到达后请到接待处报到 to report to one's unit Military 到所在部队报到 to report sick 告病 to report for duty 报到上班 PHRASAL VERBS report back 
+A.  intransitive verb 
 ① (after absence) 报告返回 bàogào fǎnhuí to take an hour for lunch and report back at
 2 花1小时吃午饭，2点钟返回 to report back from [something]; 做完某事后报告返回 he reports back from leave on Wednesday 他将在星期三休假结束后回来上班 
 ② (present findings) 发回报告 fāhuí bàogào to report back to [somebody]/[something]; 向某人/某处发回报告 to report back about or on [somebody]/[something]; 发回关于某人/某事物的报告 

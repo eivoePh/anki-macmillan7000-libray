@@ -1,6 +1,7 @@
 shell 
 BrE ʃɛl, AmE ʃɛl 
-A. noun 
+
+A.  noun 
 ① Countable(of egg) 蛋壳 dànké 
 ② Countable(of nut) 果壳 guǒké 
 ③ Uncountable and countable(of snail, crab, shrimp, etc.) 壳 ké lobster in the shell 带壳龙虾 one's shell 羞怯 to come out of one's shell 不再羞怯 to withdraw or retreat into one's shell 变得羞怯 to develop a hard shell 自我封闭 
@@ -11,7 +12,8 @@ A. noun
 ⑧ Countable(pastry case) [馅饼或糕点的] 皮 pí 
 B.  transitive verb 
 ① (bombard) 炮击 pàojī ‹town, troops, civilians›
-② (take off husk) 给…去壳 gěi… qù ké ‹peas, nuts›to be as easy as shelling peas 轻而易举 PHRASAL VERB shell out colloquial A. transitive verb[shell out something] 大笔支付 dàbǐ zhīfù ‹money, taxes, donations›
+② (take off husk) 给…去壳 gěi… qù ké ‹peas, nuts›to be as easy as shelling peas 轻而易举 PHRASAL VERB shell out colloquial 
+A.  transitive verb[shell out something] 大笔支付 dàbǐ zhīfù ‹money, taxes, donations›
 B.  intransitive verb 大笔付款 dàbǐ fùkuǎn to shell out on [something]; 支付某物的费用 
 shell 
 ▶noun

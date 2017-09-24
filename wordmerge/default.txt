@@ -1,6 +1,7 @@
 default 
 BrE dɪˈfɔːlt, AmE dəˈfɔlt 
-A. noun 
+
+A.  noun 
 ① (failure to pay) 未履行债务 wèi lǚxíng zhàiwù to be in default of payment 拖欠付款 the company is in default 这个公司未履行债务 
 ② Computing 默认 mòrèn the default settings 系统预设值 
 B.  intransitive verb 

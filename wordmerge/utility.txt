@@ -1,6 +1,7 @@
 utility 
 BrE juːˈtɪlɪti, AmE juˈtɪlədi 
-A. noun 
+
+A.  noun 
 ① Uncountable(usefulness) 实用 shíyòng 
 ② Countable(public) utility (public service) 公用事业 gōngyòng shìyè 
 ③ CountableComputing 实用程序 shíyòng chéngxù 

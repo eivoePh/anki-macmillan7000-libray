@@ -1,7 +1,8 @@
 sound
 1 
 BrE saʊnd, AmE saʊnd 
-A. noun 
+
+A.  noun 
 ① Uncountable(audible vibrations) 声响 shēngxiǎng the speed of sound 音速 
 ② UncountableAudio equipment (quality) 音质 yīnzhì (volume) 音量 yīnliàng to turn up/down the sound 调高/调低音量 poor/good sound 差/好音质 a sound mixer 混音师 sound quality 音质 yīnzhì 
 ③ Countable and uncountable(noise) 声音 shēngyīn a high/low sound 高音/低音 a vowel sound 元音 the sound of [something] 某物发出的声音 the sound of the wind/voices/steps 风声/说话声/脚步声 without a sound 悄无声息地 to emit or produce or utter a sound 出声 (not) to make a sound （不）出声 I left, trying not to make a sound 我轻手轻脚地离开了 a soft or faint sound 微弱的声音 a grating or rasping sound 刮擦声 

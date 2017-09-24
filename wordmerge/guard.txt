@@ -1,7 +1,9 @@
 guard 
 BrE ɡɑːd, AmE ɡɑrd 
-A. noun 
-① Countable and uncountableMilitary (sentinel) 警卫 jǐngwèi ; (sentry duty) 警戒 jǐngjiè to put a guard on [somebody]/ [something]; 派警卫保护某人/某物 a soldier on guard 站岗的士兵 under (close) guard 处于（严密）戒备状态 to keep or stand guard; 守卫 shǒuwèi to mount (a) guard over [somebody]/[something]; 守卫某人/某物 
+
+A.  noun 
+① Countable and uncountableMilitary (sentinel) 警卫 jǐngwèi ; (sentry duty) 警戒 jǐngjiè to put a guard on [somebody]
+[something]; 派警卫保护某人/某物 a soldier on guard 站岗的士兵 under (close) guard 处于（严密）戒备状态 to keep or stand guard; 守卫 shǒuwèi to mount (a) guard over [somebody]/[something]; 守卫某人/某物 
 ② Uncountableplus singular or plural verb (group of soldiers) 警卫队 jǐngwèiduì the changing of the guard 卫队换岗 to double the guard 派双岗 
 ③ Uncountable(defensive position) 防御姿势 fángyù zīshì to drop/keep up one's guard 收起/保持防御姿势 to let one's guard slip figurative 丧失警惕 
 ④ Uncountable(watchfulness) 警惕 jǐngtì to be on one's guard 提防 to be off (one's) guard 不提防 to catch [somebody] off guard 使某人措手不及 

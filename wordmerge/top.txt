@@ -1,6 +1,7 @@
 top 
 BrE tɒp, AmE tɑp 
-A. noun 
+
+A.  noun 
 ① Uncountable and countable(highest part) (of mountain, head, roof, car) 顶 dǐng (of ridge, cliff, tree, ladder, wall, wave, list, etc.) 顶端 dǐngduān (of cupboard, container) 顶部 dǐngbù the top of the hill/building 山顶/楼顶 the very top 最顶端 to fill a glass to the very top 斟满杯子 five lines down from the top of the page 从页首数起第5行 the top of the street/garden especially BrE 街道/花园的尽头 the top of the table 桌子的上首 to be (at the) top of the or one's list (to do [something]) （做某事）是最重要的 to be top of the class 名列班级第一 top of the pops 流行音乐排行榜首位 from top to toe 从头到脚 from top to bottom 彻底地 from the top colloquial 从头开始 to take [something] from the top 从头再做一遍某事 to go over the top Military 爬出战壕进攻 to go over the top with anger 怒不可遏 to be over the top especially BrE colloquial (be excessive) 过分 (be exaggerated) 夸张 not to have much up top colloquial 没有多少脑子 top of the morning Irish 早上好 
 ② Uncountable and countable(upper surface) (of box, desk, sideboard, cake) 上面 shàngmian (of water, sea, lake) 表面 biǎomiàn on the top of [something] 在某物上面 the top of the table 桌面 to come or rise or float to the top 浮到表面 off the top of one's head colloquial 不假思索地 to talk through a hole in the top of one's head colloquial 趾高气扬地胡说 on top 在上面 she wore a skirt and blouse with a raincoat on top 她穿着裙子和衬衫，外面罩着雨衣 to be or stay on top (be in superior position) 处于优势 (be in control) 控制局面 to come out on top 名列前茅 one thing on top of another 接二连三的事情 on top of all this, she was made redundant 最糟糕的是，她还被解聘了 on top of doing [something] 除了做某事之外 to be or get on top of [something] 能够处理某事 to get on top of [somebody] 使某人吃不消 to feel on top of the world colloquial 欢天喜地 
 ③ Uncountablethe top (highest, most important rank) 最高级别 zuì gāo jíbié the decision came from the top 决定是最上层作出的 life can be tough at the top 身居高位日子也会不好过 to get to or make it to or reach the top 出人头地 chū rén tóu dì his experience will surely take him to the top 他的经验肯定能将他送上高位 the top of the tree 最高地位 zuì gāo dìwèi 
@@ -29,8 +30,10 @@ E.  transitive verb(present participle etc. -pp-)
 ⑥ BrE colloquial (kill) 干掉 gàndiào 
 F.  reflexive verb(present participle etc. -pp-) 
 ① to top oneself BrE colloquial (commit suicide) 自杀 zìshā 
-② to top oneself AmE (surpass oneself) 超越自己 chāoyuè zìjǐ PHRASAL VERBS top off transitive verb[top something off], [top off something] [以特定方式] 结束 jiéshù ‹action, entertainment, meal›to top [something] off with [something]; 以某物结束某事 to top [something] off by doing [something]; 以做某事结束某事 top out A. transitive verb[top something out], [top out something] 为…封顶 wèi… fēngdǐng ‹building›
-B.  intransitive verb «expenditure, growth» 达到顶点 dádào dǐngdiǎn top up especially BrE A. [top something up], [top up something] transitive verb 
+② to top oneself AmE (surpass oneself) 超越自己 chāoyuè zìjǐ PHRASAL VERBS top off transitive verb[top something off], [top off something] [以特定方式] 结束 jiéshù ‹action, entertainment, meal›to top [something] off with [something]; 以某物结束某事 to top [something] off by doing [something]; 以做某事结束某事 top out 
+A.  transitive verb[top something out], [top out something] 为…封顶 wèi… fēngdǐng ‹building›
+B.  intransitive verb «expenditure, growth» 达到顶点 dádào dǐngdiǎn top up especially BrE 
+A.  [top something up], [top up something] transitive verb 
 ① (refill) 加满 jiāmǎn ‹tank, drink, glass›to top up the battery every week 每周给电池充满电 to top [something] up with [something]; 用某物加满某物 
 ② (supplement) 补足 bǔzú ‹earnings, savings, payment, rate›
 B.  [top somebody up], [top up somebody] transitive verb colloquial (give refill to) 给…斟满杯子 gěi… zhēnmǎn bēizi ‹person›

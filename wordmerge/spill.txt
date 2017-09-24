@@ -1,7 +1,8 @@
 spill
 1 
 BrE spɪl, AmE spɪl 
-A. intransitive verb(past tense, past participle spilt or spilled) 
+
+A.  intransitive verb(past tense, past participle spilt or spilled) 
 ① (pour out) 溢出 yìchū to spill from or out of [something]; 从某物中溢出 to spill over/on to [something]; «ink, salt» 洒满某处/洒到某物上 the water spilt all over the floor 水泼了一地 the wind spilt from the sail 风对帆的压力减小了 
 ② (disgorge) «contents, load» 散落 sànluò ; figurative «light» 散射 sǎnshè the coins spilt on to the floor 硬币散落到了地板上 the crowds spilled into the street 人群涌到了街上 
 B.  transitive verb(past tense, past participle spilt or spilled) 
@@ -13,7 +14,8 @@ B.  transitive verb(past tense, past participle spilt or spilled)
 C.  noun 
 ① (liquid spilt) 溢出物 yìchūwù 
 ② (spilling action) 溢出 yìchū 
-③ (fall from horse, bicycle) 摔下 shuāixia there were many spills at the gymkhana 那次马术比赛中有很多人摔下来 to have a spill 摔下来 a nasty spill 重重的一摔 PHRASAL VERBS spill out A. intransitive verb 
+③ (fall from horse, bicycle) 摔下 shuāixia there were many spills at the gymkhana 那次马术比赛中有很多人摔下来 to have a spill 摔下来 a nasty spill 重重的一摔 PHRASAL VERBS spill out 
+A.  intransitive verb 
 ① (pour out) «liquid, powder» 洒出 sǎchū 
 ② (be disgorged) «contents, load» 散落 sànluò ; «crowd» 涌出 yǒngchū to spill out on to the pavement/into the street 涌上人行道/涌到街上 
 ③ colloquial (be revealed) 被泄露 bèi xièlòu (become known) 被公开 bèi gōngkāi 

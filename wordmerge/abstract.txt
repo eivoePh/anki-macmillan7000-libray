@@ -1,15 +1,20 @@
-abstract A. /BrE ˈabstrakt, AmE æbˈstrækt, ˈæbˌstrækt/ adjective 
+abstract 
+A.  /BrE ˈabstrakt, AmE æbˈstrækt, ˈæbˌstrækt
+adjective 
 ① (theoretical) 抽象的 chōuxiàng de ‹idea, theory, entity, symbol›; 理论上的 lǐlùn shang de ‹argument, speculation, problem›
 ② Art 抽象（派）的 chōuxiàng(pài) de 
 ③ Linguistics 抽象的 chōuxiàng de ‹noun, adjective, verb›
-B.  /BrE ˈabstrakt, AmE ˈæbˌstrækt/ noun 
+B.  /BrE ˈabstrakt, AmE ˈæbˌstrækt
+noun 
 ① Uncountable(theoretical) 抽象 chōuxiàng in the abstract 在抽象意义上 
 ② Countable(summary) 摘要 zhāiyào 
 ③ CountableArt 抽象派作品 chōuxiàngpài zuòpǐn 
-C.  /BrE əbˈstrakt, AmE ˈæbˌstrækt/ transitive verb 
+C.  /BrE əbˈstrakt, AmE ˈæbˌstrækt
+transitive verb 
 ① (summarize) 写…的摘要 xiě… de zhāiyào ‹information, book›
 ② formal (remove) 提取 tíqǔ abstract facts from a mound of periodicals 从一大堆期刊中摘取事实 
-D.  /BrE əbˈstrakt, AmE æbˈstrækt/ reflexive verb to abstract oneself from [something] 使自己脱离某事物 shǐ zìjǐ tuōlí mǒu shìwù 
+D.  /BrE əbˈstrakt, AmE æbˈstrækt
+reflexive verb to abstract oneself from [something] 使自己脱离某事物 shǐ zìjǐ tuōlí mǒu shìwù 
 abstract 
 ▶adjective
 1 abstract concepts: theoretical, conceptual, notional, intellectual, metaphysical, ideal, philosophical, academic; rare ideational. ANTONYMS actual, concrete.

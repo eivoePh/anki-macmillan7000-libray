@@ -1,6 +1,7 @@
 component 
 BrE kəmˈpəʊnənt, AmE kəmˈpoʊnənt 
-A. noun 
+
+A.  noun 
 ① (of machine, vehicle, piece of equipment) 零件 língjiàn car/bicycle components 汽车/自行车零部件 electronic components 电子元件 
 ② figurative (factor) 要素 yàosù 
 ③ Mechanics, Physics (vector) 分力 fēnlì 

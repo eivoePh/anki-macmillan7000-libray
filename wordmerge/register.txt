@@ -1,6 +1,7 @@
 register 
 BrE ˈrɛdʒɪstə, AmE ˈrɛdʒəstər 
-A. noun 
+
+A.  noun 
 ① Countable(of people, items, shareholders, land) 登记簿 dēngjìbù (of names) 名册 míngcè (of trademarks, companies) 注册簿 zhùcèbù a hotel register 旅馆登记簿 a register of births, marriages and deaths 出生、结婚和死亡登记簿 to be on the register of voters «name» 在选民名册上 a missing persons' register 失踪人员名册 to make an entry in a register 在登记簿上增加一条记录 to enter [something] in a register 将某事物记入登记簿 to keep a register 作记录 the company must keep a register of shareholders 公司必须对股东进行登记 
 ② Countable BrE School 点名册 diǎnmíngcè to call or take the register 点名 
 ③ Countableespecially AmE (cash till) 现金出纳机 xiànjīn chūnàjī to ring [something] up on the register 将…记入收银机 ‹amount›

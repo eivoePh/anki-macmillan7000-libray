@@ -1,6 +1,7 @@
 step 
 BrE stɛp, AmE stɛp 
-A. noun 
+
+A.  noun 
 ① Countable(act of lifting foot) 迈步 màibù to walk with slow steps 缓步行走 the water got deeper and deeper at or with every step 每走一步水就更深一些 she took a step towards the window 她向窗户迈了一步 to retrace one's steps 按原路返回 to change/break step 换步/走乱步伐 to fall into step (with or beside [somebody]) （和某人）齐步行进 in/out of step (with [somebody]/[something]) (when walking, marching, dancing) （与某人/某物）步伐一致/不一致 (in conformity with/at odds with) （与某人/某物）想法一致/不一致 one step out of line, and you're finished! 只要越轨一步，你就完蛋了！ to march in step with the music 踏着音乐的节拍齐步走 to be out of step with the times 跟不上时代 to watch or mind one's step (walk carefully) 走路小心 (behave properly) 言行谨慎 a or one step at a time 一步一个脚印地 
 ② Countable(distance covered by pace) 一步 yī bù she moved a step closer to me 她向我走近了一步 it’s only a few steps further 再走几步就到了 
 ③ Countable(distance to or from somewhere) 步行距离 bùxíng jùlí it's only a step to the station 到车站只有几步路 it was a good step from our house to the shops 从我们家到商店很远 
@@ -40,7 +41,8 @@ D.  transitive verb(present participle etc. -pp-)
 ② AmE colloquial dated (have relationship) 约会 yuēhuì to step out with [somebody]; 与某人约会 
 ③ (stride) 大步走 dà bù zǒu step out on transitive verb[step out on somebody] AmE colloquial 对…不忠 duì… bù zhōng step outside intransitive verb 
 ① (go out) 出去 chūqu I opened the door and stepped outside 我开门走了出去 
-② (go out for fight) 出去较量 chūqu jiàoliàng step up A. intransitive verb 
+② (go out for fight) 出去较量 chūqu jiàoliàng step up 
+A.  intransitive verb 
 ① (move forward) 向前走 xiàng qián zǒu she stepped up to receive her prize 她走上前去领奖 
 ② especially AmE (agree to help) 同意帮忙 tóngyì bāngmáng it's time you stepped up 该你站出来帮忙了 
 B.  transitive verb[step something up, step up something] (increase) 增加 zēngjiā to step up one's efforts to do [something] 更加努力地做某事 he has stepped up his training to prepare for the race 他加强了训练，为那场赛跑做准备 

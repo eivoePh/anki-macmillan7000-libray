@@ -1,7 +1,8 @@
 check
 1 
 BrE tʃɛk, AmE tʃɛk 
-A. transitive verb 
+
+A.  transitive verb 
 ① (ensure) 查明 chámíng to check that/whether the shelf is level 查看一下搁板是否平整 to check the availability of the product before ordering 下订单前先确认是否有货 check what he wants for breakfast 问清楚他早饭想吃什么 have you checked with Tom that we can use the conference room? 你跟汤姆确认过我们可以使用会议室吗？ 
 ② (inspect, examine) 检查 jiǎnchá she checked the signature 她查验了签名 we'd better check the contents against the inventory 我们最好参照存货清单查点货物 the nurse checked his temperature every few hours 护士每隔几小时就为他量一次体温 he's not in the lounge — check the kitchen 他不在起居室──到厨房去看看 
 ③ (stop from developing) 制止 zhìzhǐ (cause sth. to develop more slowly) 控制 kòngzhì to check the enemy's advance 阻止敌人向前推进 to apply pressure to the wound to check the flow of blood 给伤口加压止血 to check the growth of public spending 控制公共开支的增长 
@@ -25,20 +26,23 @@ C.  noun
 ⑤ Countable AmE (ticket) 存物牌 cúnwùpái 
 ⑥ Countable AmE (bill) 账单 zhàngdān to pay the check 付账 to pick up the check 做东请客 
 ⑦ AmE = tick
-1 A.
+1 
+A. 
 ③ 
 D.  reflexive verb 
 ① (restrain) to check oneself 克制自己 kèzhì zìjǐ 
 ② (inspect) to check oneself in the mirror 照镜子 zhào jìngzi 
 E.  exclamation 
 ① (in chess) check! 将（军）！ jiāng(jūn)！ 
-② especially AmE colloquial (expressing agreement) [用以表示同意或已办好某项事务]do you have your tickets? — check — passport? — check 你拿上票了吗？──拿了──护照呢？──带了 PHRASAL VERBS check in A. intransitive verb 办理登记手续 bànlǐ dēngjì shǒuxù you'd better check in at your hotel first 你最好先到宾馆办理住宿登记 do we have to show our passports when we check in? 我们办理登记手续时要出示护照吗？ 
+② especially AmE colloquial (expressing agreement) [用以表示同意或已办好某项事务]do you have your tickets? — check — passport? — check 你拿上票了吗？──拿了──护照呢？──带了 PHRASAL VERBS check in 
+A.  intransitive verb 办理登记手续 bànlǐ dēngjì shǒuxù you'd better check in at your hotel first 你最好先到宾馆办理住宿登记 do we have to show our passports when we check in? 我们办理登记手续时要出示护照吗？ 
 B.  [check somebody in, check in somebody] transitive verb (as hotel guest, passenger) 为…办理登记手续 wèi… bànlǐ dēngjì shǒuxù his job is to check the passengers in 他负责为乘客办理登记手续 
 C.  [check something in, check in something] transitive verb 
 ① (register as baggage) «clerk, passenger» 托运 tuōyùn ‹bag, luggage›
 ② AmE (leave for safekeeping) «attendant, customer, passenger» 寄放 jìfàng ‹clothing, baggage›check into transitive verb [check into something] 在…登记住宿 zài… dēngjì zhùsù ‹hotel, guesthouse›check off transitive verb[check off something, check something off] AmE 打钩核对 dǎgōu héduì ‹item, entry, number›check on transitive verb[check on somebody/something] 
 ① (monitor) 监控 jiānkòng will you check on the baby when you go upstairs, please? 你上楼时看一眼宝宝，好吗？ she kept coming in to check on our progress 她老是进来查看我们的进展 
-② (investigate) 核查 héchá I checked on all the details before I wrote the article 我写这篇文章之前核实过所有细节 will you go and check on what the children are doing, please? 你去看看孩子们在做什么，好吗？ check out A. intransitive verb 
+② (investigate) 核查 héchá I checked on all the details before I wrote the article 我写这篇文章之前核实过所有细节 will you go and check on what the children are doing, please? 你去看看孩子们在做什么，好吗？ check out 
+A.  intransitive verb 
 ① (leave) 办理退房手续 bànlǐ tuìfáng shǒuxù to check out of [something]; 退房离开 ‹hotel, guesthouse›
 ② (be correct) «statement, credentials» 对得上 duìdeshàng do the figures check out? 这些数字对得上吗？ 
 B.  [check something out, check out something] transitive verb 
@@ -54,7 +58,8 @@ D.  [check somebody out, check out somebody] transitive verb (from hotel) «rece
 ① [check something over] (inspect) 检查 jiǎnchá to check the bill over 核对账单 
 ② [check somebody over] Medicine «doctor, paramedic» 为…检查身体 wèi… jiǎnchá shēntǐ ‹patient, accident victim›check through transitive verb[check something through, check through something] 
 ① (examine carefully) 仔细检查 zǐxì jiǎnchá ‹figures, letter, manuscript›
-② AmE (when travelling by air) 托运 tuōyùn ‹baggage›check up A. intransitive verb 查明 chámíng 
+② AmE (when travelling by air) 托运 tuōyùn ‹baggage›check up 
+A.  intransitive verb 查明 chámíng 
 B.  [check up something, check something up] transitive verb 核查 héchá to check up that all is well 看看是否一切顺利 check up on transitive verb 
 ① [check up on somebody] (investigate) 调查 diàochá 
 ② [check up on something] (verify) 核实 héshí ‹story, details›they are checking up on the reliability of the system 他们正在查验系统的可靠性 

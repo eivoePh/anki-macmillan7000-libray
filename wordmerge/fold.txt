@@ -1,7 +1,8 @@
 fold
 1 
 BrE fəʊld, AmE foʊld 
-A. noun 
+
+A.  noun 
 ① (of fabric, clothing, paper) 褶 zhě (of skin) 褶皱 zhězhòu the long skirt hung in soft, loose folds 长裙裙褶柔软而宽松 she ironed the fabric to get the folds out 她把布料上的褶子熨平 folds of flesh 一层层的赘肉 
 ② especially BrE (hill) 山丘 shānqiū (hollow) 山洼 shānwā 
 ③ Geology 褶皱 zhězhòu 
@@ -15,10 +16,14 @@ B.  transitive verb
 C.  intransitive verb 
 ① (be collapsible) «chair, bed, bicycle» 可折叠 kě zhédié 
 ② (bend) «fingers» 弯曲 wānqū her hand folded over the letter before I could remove it 我还没来得及把信拿走，她就抓在手里了 
-③ colloquial (fail) «business, company» 倒闭 dǎobì ; «magazine, newspaper» 停办 tíngbàn ; «project» 失败 shībài ; «play» 停演 tíng yǎn PHRASAL VERBS fold away A. transitive verb[fold away something, fold something away] 将…折叠收起 jiāng… zhédié shōuqǐ ‹clothes, bedding, umbrella›
-B.  intransitive verb «bed, bicycle» 可以折叠 kěyǐ zhédié fold back A. transitive verb[fold back something, fold something back] 收起 shōuqǐ ‹door, shutters›; 折起 zhéqǐ ‹bedclothes›; 卷起 juǎnqǐ ‹sleeve, collar›
-B.  intransitive verb «door, shutters» 可收起 kě shōuqǐ fold down A. transitive verb[fold down something, fold something down] 把…折下 bǎ… zhéxià ‹corner of page, car seat, hood of pram, sofa bed, collar, flap›
-B.  intransitive verb «car seat, hood of pram, sofa bed» 可向下折 kě xiàng xià zhé fold in transitive verb[fold in something, fold something in] 拌入 bànrù ‹eggs, flour, cream›fold over transitive verb[fold over something, fold something over] 翻起 fānqǐ fold up A. transitive verb[fold up something, fold something up] 把…折叠起来 bǎ… zhédié qilai ‹map, bed, bicycle, umbrella›
+③ colloquial (fail) «business, company» 倒闭 dǎobì ; «magazine, newspaper» 停办 tíngbàn ; «project» 失败 shībài ; «play» 停演 tíng yǎn PHRASAL VERBS fold away 
+A.  transitive verb[fold away something, fold something away] 将…折叠收起 jiāng… zhédié shōuqǐ ‹clothes, bedding, umbrella›
+B.  intransitive verb «bed, bicycle» 可以折叠 kěyǐ zhédié fold back 
+A.  transitive verb[fold back something, fold something back] 收起 shōuqǐ ‹door, shutters›; 折起 zhéqǐ ‹bedclothes›; 卷起 juǎnqǐ ‹sleeve, collar›
+B.  intransitive verb «door, shutters» 可收起 kě shōuqǐ fold down 
+A.  transitive verb[fold down something, fold something down] 把…折下 bǎ… zhéxià ‹corner of page, car seat, hood of pram, sofa bed, collar, flap›
+B.  intransitive verb «car seat, hood of pram, sofa bed» 可向下折 kě xiàng xià zhé fold in transitive verb[fold in something, fold something in] 拌入 bànrù ‹eggs, flour, cream›fold over transitive verb[fold over something, fold something over] 翻起 fānqǐ fold up 
+A.  transitive verb[fold up something, fold something up] 把…折叠起来 bǎ… zhédié qilai ‹map, bed, bicycle, umbrella›
 B.  intransitive verb 
 ① (be collapsible) «map, bed, bicycle, umbrella» 可折叠 kě zhédié the map folds up very small 这张地图可以折得很小 
 ② colloquial (bend double) 弓起身子 gōngqǐ shēnzi he folded up in agony 他痛苦地蜷起身子 

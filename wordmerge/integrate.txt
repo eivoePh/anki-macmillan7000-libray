@@ -1,6 +1,7 @@
 integrate 
 BrE ˈɪntɪɡreɪt, AmE ˈɪn(t)əˌɡreɪt 
-A. transitive verb 
+
+A.  transitive verb 
 ① (incorporate) 使成为一体 shǐ chéngwéi yītǐ to integrate [something] into or with [something]; 使某物与某物成为一体 to be well integrated with its surroundings 与环境融为一体 
 ② (blend, combine) 使融入 shǐ róngrù to integrate [somebody] into or with [something]; 使某人融入某群体 to integrate two systems 合并两个系统 
 ③ Mathematics 求…的积分 qiú… de jīfēn ‹number, quantity, expression›

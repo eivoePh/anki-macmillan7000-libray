@@ -1,6 +1,7 @@
 plug 
 BrE plʌɡ, AmE pləɡ 
-A. noun 
+
+A.  noun 
 ① Electricity (on appliance) 插头 chātóu to fit a plug 插上插头 to pull the plug on [something] colloquial 抽掉用于某事物的资金 
 ② Electricity (socket) 插座 chāzuò 
 ③ (in bath, sink) 塞子 sāizi to put in/pull out the plug 塞上/拔出塞子 
@@ -15,7 +16,8 @@ B.  transitive verb(present participle etc. -gg-)
 ⑤ AmE colloquial (shoot) 向…射击 xiàng… shèjī ‹game, person, object›(hit) 拳打 quán dǎ ‹person›
 C.  intransitive verb(present participle etc. -gg-); to plug into [something] 
 ① (connect to) 与…相连接 yǔ… xiāng liánjiē ‹device, appliance, wall›
-② figurative (have access to) 进入 jìnrù ‹market, system›PHRASAL VERBS plug away intransitive verb colloquial 坚持不懈 jiānchí bùxiè to plug away at [something]; 埋头做某事 plug in A. transitive verb[plug something in, plug in something] 为…接通电源 wèi… jiētōng diànyuán ‹device, appliance, lamp›
+② figurative (have access to) 进入 jìnrù ‹market, system›PHRASAL VERBS plug away intransitive verb colloquial 坚持不懈 jiānchí bùxiè to plug away at [something]; 埋头做某事 plug in 
+A.  transitive verb[plug something in, plug in something] 为…接通电源 wèi… jiētōng diànyuán ‹device, appliance, lamp›
 B.  intransitive verb «device, appliance, lamp» 接通电源 jiētōng diànyuán plug up transitive verb[plug something up, plug up something] 堵塞 dǔsè ‹leak, hole›
 plug 
 ▶noun

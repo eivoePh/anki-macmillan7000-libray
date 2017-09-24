@@ -1,6 +1,7 @@
 stock 
 BrE stɒk, AmE stɑk 
-A. noun 
+
+A.  noun 
 ① Uncountable and countable(available goods) 存货 cúnhuò we don’t carry a large stock of pine furniture 松木家具我们备货不多 to be in/out of stock 有货/没货 to take stock (of [something]) (make list) 清点（某物的）存货 (carry out review) （对某事物）作出评估 
 ② Uncountable and countable(supply, store, accumulation) 储备 chǔbèi to build up a good stock of teaching materials 积累大量的教学资料 food stocks are running low 食物储备越来越少了 the housing stock 住房存量 his vast stock of knowledge 他丰富的知识储备 
 ③ UncountableFinance (capital) 股本 gǔběn 
@@ -27,7 +28,8 @@ C.  adjectivebefore noun
 ⑦ Agriculture 家畜的 jiāchù de stock farming 畜牧业 xùmùyè 
 D.  transitive verb 
 ① (sell) 库存 kùcún ‹goods›do they stock green tea? 他们有绿茶卖吗？ they stock all sizes 他们的库存尺码齐全 
-② (fill) 在…中贮存 zài… zhōng zhùcún the pond was well stocked with fish 池塘里有很多鱼 a well-stocked library 馆藏丰富的图书馆 PHRASAL VERB stock up A. intransitive verb 贮备 zhùbèi to stock up on or with [something]; 备足某物 we ought to stock up with film before our trip 我们应该在旅行前备足胶卷 to stock up for Christmas 为过圣诞节大采购 
+② (fill) 在…中贮存 zài… zhōng zhùcún the pond was well stocked with fish 池塘里有很多鱼 a well-stocked library 馆藏丰富的图书馆 PHRASAL VERB stock up 
+A.  intransitive verb 贮备 zhùbèi to stock up on or with [something]; 备足某物 we ought to stock up with film before our trip 我们应该在旅行前备足胶卷 to stock up for Christmas 为过圣诞节大采购 
 B.  transitive verb[stock something up, stock up something] 把…装满 bǎ… zhuāngmǎn ‹freezer, cupboard›
 stock 
 ▶noun

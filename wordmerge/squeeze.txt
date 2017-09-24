@@ -1,6 +1,7 @@
 squeeze 
 BrE skwiːz, AmE skwiz 
-A. transitive verb 
+
+A.  transitive verb 
 ① (press) 挤 jǐ ‹tube›; 榨 zhà ‹orange›; 拧 nǐng ‹mop›to squeeze the trigger 扣扳机 to squeeze [somebody]/[somebody's] hand 紧抱某人/紧握某人的手 to squeeze [something] dry 把…拧干 bǎ… nǐnggān ‹cloth›to squeeze [somebody] dry figurative 榨干某人 to squeeze [somebody] for £500/information 逼某人拿出500英镑/说出情报 
 ② (extract) to squeeze toothpaste out of the tube 从管子里挤出牙膏 to squeeze information out of [somebody] 逼迫某人吐露信息 bīpò mǒu rén tǔlù xìnxī to squeeze juice 榨汁 zhà zhī to squeeze water out of [something] 把水从…里拧出来 bǎ shuǐ cóng… li nǐng chulai ‹cloth, mop›to squeeze three meals out of one chicken 靠一只鸡对付三顿饭 to squeeze money/the truth out of [somebody] 勒索某人钱财/逼某人说出实情 lèsuǒ mǒu rén qiáncái/bī mǒu rén shuōchū shíqíng 
 ③ (cram) 塞入 sāirù to squeeze [something] into a suitcase 把某物塞进手提箱 to squeeze more people into the car/more books on to the shelf 让更多的人挤进汽车/把更多的书塞入书架 to squeeze the car into a parking space 把车勉强开进停车位 to squeeze one's way through a gap 从豁口挤过去 to squeeze a lot into a week 把一周的日程安排得满满的 
@@ -14,12 +15,14 @@ D.  noun
 ② (small amount) 挤出的一点儿 jǐchū de yīdiǎnr to add a squeeze of [something] 再挤一点儿某物 a squeeze of lemon (juice) 挤出的一点儿柠檬汁 
 ③ singular colloquial (crush) 拥挤 yōngjǐ it will be a (tight) squeeze (in car, small space) 会很挤 
 ④ Economics, Finance 削减 xuējiǎn the current squeeze on borrowing 目前的银根紧缩 a credit squeeze 信贷紧缩 to feel the squeeze 感到手头拮据 
-⑤ AmE colloquial (sweetheart) ([somebody's]) main squeeze （某人的）恋人 (mǒu rén de)liànrén PHRASAL VERBS squeeze in A. transitive verb[squeeze somebody/something in, squeeze in somebody/something] 
+⑤ AmE colloquial (sweetheart) ([somebody's]) main squeeze （某人的）恋人 (mǒu rén de)liànrén PHRASAL VERBS squeeze in 
+A.  transitive verb[squeeze somebody/something in, squeeze in somebody/something] 
 ① literal 使…挤入 shǐ… jǐrù ‹person›; 塞入 sāirù ‹object›to squeeze a few more people in 再多挤进几个人 
 ② figurative 为…挤出时间 wèi… jǐchū shíjiān I can squeeze you in tomorrow 我明天可以挤出时间来见你 to squeeze in lunch 挤出吃午饭的时间 
 B.  intransitive verb 挤入 jǐrù we can just about squeeze in 我们可以勉强挤进来 to squeeze in between two people 挤在两个人中间 squeeze out transitive verb 
 ① [squeeze something out, squeeze out something] (wring) 把…拧干 bǎ… nǐnggān ‹cloth›(extract) 挤出 jǐchū ‹liquid›
-② Busn to squeeze [somebody]/[something] out (of the market) 把某人/某物（从市场中）排挤掉 bǎ mǒu rén/mǒu wù(cóng shìchǎng zhōng)páijǐ diào to squeeze out small shops 挤垮小商店 jǐkuǎ xiǎo shāngdiàn squeeze up A. intransitive verb 挤紧 jǐjǐn could you squeeze up a bit? 你们能不能稍微挤一挤？ to squeeze up against [somebody]/[something] 紧贴着某人/某物 
+② Busn to squeeze [somebody]/[something] out (of the market) 把某人/某物（从市场中）排挤掉 bǎ mǒu rén/mǒu wù(cóng shìchǎng zhōng)páijǐ diào to squeeze out small shops 挤垮小商店 jǐkuǎ xiǎo shāngdiàn squeeze up 
+A.  intransitive verb 挤紧 jǐjǐn could you squeeze up a bit? 你们能不能稍微挤一挤？ to squeeze up against [somebody]/[something] 紧贴着某人/某物 
 B.  transitive verb[squeeze somebody/something up, squeeze up somebody/something] 使挤在一起 shǐ jǐ zài yīqǐ to be squeezed up in one corner of the room 挤在房间的一角 to be squeezed (tightly) up against [somebody]/[something] （紧紧）挤着某人/某物 
 squeeze 
 ▶verb

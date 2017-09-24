@@ -1,6 +1,7 @@
 go 
 BrE ɡəʊ, AmE ɡoʊ 
-A. intransitive verb(3rd person singular present goes, past tense went, past participle gone) 
+
+A.  intransitive verb(3rd person singular present goes, past tense went, past participle gone) 
 ① (move, travel) 去 qù to go for a walk/drink 去散步/喝酒 to go swimming/running 去游泳/跑步 to go to/for the doctor 去看/请医生 she has gone to China 她去中国了 we went economy class 我们是乘坐经济舱去的 to go on holiday BrE 去度假 to go to [somebody] for [something]; 为某事物去某人处 she went to fetch them 她去接他们了 go and see if the bus has arrived 去看看公交车来了没有 go ask your mom AmE colloquial 去问你妈 we went in jeans 我们是穿牛仔裤去的 where do we go from here? figurative 我们该往哪走？ she knows where she's going figurative 她有明确的人生目标 this must go no further 这件事一定得保密 to go to it BrE colloquial 动手 100 mph is really going some! colloquial 100英里的时速真叫快啊！ who goes there? Military 什么人？ to go missing 丢失 diūshī 
 ② to go to [something] (attend, join) 进入某处 jìnrù mǒu chù to go to school/church 上学/去教堂 shàngxué/qù jiàotáng to go on the stage 成为演员 chéngwéi yǎnyuán to go to work 上班 shàngbān 
 ③ (become, turn) 变得 biàn de to go bankrupt 破产 my hair went grey 我的头发变得花白了 to go bad 变坏 biànhuài 
@@ -36,7 +37,8 @@ C.  noun(plural goes)
 ④ Countable(spell of action) 一阵行动 yīzhèn xíngdòng at one or a go, in one go 一下子 to do [something] in two goes 分两次做某事 
 ⑤ Uncountable and countable(success) 成功 chénggōng to make a go of [something] 在某事上取得成功 
 ⑥ Uncountablecolloquial dated (fashion) to be all the go 十分流行 shífēn liúxíng 
-⑦ Uncountableon the go; (busy) 忙碌 mánglù (active) 在进行 zài jìnxíng to keep [somebody] on the go 让某人忙个不停 ràng mǒu rén máng gè bù tíng PHRASAL VERBS go about A. [go about something] transitive verb 
+⑦ Uncountableon the go; (busy) 忙碌 mánglù (active) 在进行 zài jìnxíng to keep [somebody] on the go 让某人忙个不停 ràng mǒu rén máng gè bù tíng PHRASAL VERBS go about 
+A.  [go about something] transitive verb 
 ① (undertake) 着手处理 zhuóshǒu chǔlǐ how do you go about losing weight? 你是如何开始减肥的？ 
 ② (be busy with) 忙于 mángyú I'm just going about my business 我正忙着我的事呢 
 ③ (move round) 四处走动 sìchù zǒudòng he goes about town in a Rolls 他开着一辆劳斯莱斯到处转 
@@ -44,7 +46,8 @@ B.  intransitive verb
 ① (associate) 交往 jiāowǎng he's going about with an unpleasant set of people 他结交了一帮不三不四的人 she's going about with Paul now 她现在和保罗泡在一起 
 ② to go about doing [something] (make habit of) 习惯于做某事 xíguàn yú zuò mǒu shì he goes about boasting about his new job 他总是吹嘘他的新工作 
 ③ (circulate) 散布 sànbù he caught a bug that's going about 他染上了一种流行传染病 there's a story going about that … 有传言说… 
-④ Nautical 改变航程 gǎibiàn hángchéng go across A. transitive verb[go across something] 穿过 chuānguo to go across the street/river 穿过街道/过河 
+④ Nautical 改变航程 gǎibiàn hángchéng go across 
+A.  transitive verb[go across something] 穿过 chuānguo to go across the street/river 穿过街道/过河 
 B.  intransitive verb 穿过 chuānguo she went across to Mrs Brown's 她去了路对面布朗太太家 go after transitive verb[to go after something/somebody] 
 ① (chase) 追赶 zhuīgǎn 
 ② (aim for) 追求 zhuīqiú he's really going after that job 他确实在谋求那份工作 go against transitive verb[go against something] 
@@ -53,7 +56,8 @@ B.  intransitive verb 穿过 chuānguo she went across to Mrs Brown's 她去了�
 ① (go in front) 走在前面 zǒu zài qiánmian go ahead, I'll follow on 你先走，我随后就去 
 ② to go ahead of [somebody]/[something] (overtake) 领先某人/某物 lǐngxiān mǒu rén/mǒu wù Arsenal went ahead of their rivals 阿森纳队领先于对手 
 ③ (proceed) 开始进行 kāishǐ jìnxíng to go ahead (with [something]); 开始进行（某事） go ahead and shoot! 快开枪！ next week's strike is to go ahead 下个星期的罢工将照常进行 to go ahead with the plan 实行计划 
-④ (progress) 继续进行 jìxù jìnxíng work is going ahead steadily 工作正在稳步开展 go along A. intransitive verb 
+④ (progress) 继续进行 jìxù jìnxíng work is going ahead steadily 工作正在稳步开展 go along 
+A.  intransitive verb 
 ① (go as companion) 一起去 yīqǐ qù he's asked me to go along (with him) 他请我（跟他）一起去 
 ② (move along) 沿某物向前移动 yán mǒu wù xiàng qián yídòng 
 ③ figurative (progress) 进行 jìnxíng he's making it up as he goes along 他现编现讲 
@@ -69,23 +73,28 @@ B.  transitive verb[go along something] (move along) 沿…向前移动 yán… 
 ② (disappear) «problem» 消失 xiāoshī go back intransitive verb 
 ① (return, turn back) 返回 fǎnhuí they went back home 他们回家了 she won't go back to her husband 她不肯回到她丈夫身边 to go back on one's steps 顺原路返回 to go back on one's word 食言 this dress will have to go back 这件连衣裙得退回去 to go back to the beginning 回到开始 once you've committed yourself, there's no going back 你一旦作出承诺就不能反悔 
 ② (extend backwards) 向后延伸 xiàng hòu yánshēn the cave goes back 300 metres 这个洞进深300米 
-③ to go back to [something]/doing [something] (revert) 恢复某事物/做某事 huīfù mǒu shìwù/ zuò mǒu shì to go back to sleep 再入睡 to go back to the old system/one's former habits 恢复旧制度/先前的习惯 to go back to teaching 重新执教 
+③ to go back to [something]/doing [something] (revert) 恢复某事物/做某事 huīfù mǒu shìwù
+zuò mǒu shì to go back to sleep 再入睡 to go back to the old system/one's former habits 恢复旧制度/先前的习惯 to go back to teaching 重新执教 
 ④ (look back in time) 回忆 huíyì my memory doesn't go so far back/back that far 我记不起那么久远的事情 to understand the problem we must go back fifty years 要弄清这个问题，我们必须回到50年以前 
-⑤ (have history tracing back to) 追溯 zhuīsù the family goes back to the Norman Conquest 这个家族可追溯到诺曼征服时期 we go back a long way 我们认识很久了 go before A. transitive verb[go before somebody/something] 
+⑤ (have history tracing back to) 追溯 zhuīsù the family goes back to the Norman Conquest 这个家族可追溯到诺曼征服时期 we go back a long way 我们认识很久了 go before 
+A.  transitive verb[go before somebody/something] 
 ① (go in front of) 到…前面 dào… qiánmian the trumpeters went before the procession 号手们走在队列前面 
 ② Law, Politics «accused person» 到…前 dào… qián ‹court›; «case» 提交给 tíjiāo gěi the bill went before parliament 这项议案提交给了议会 
 ③ (live earlier than) 在世时间早于 zàishì shíjiān zǎo yú 
 B.  intransitive verb 
 ① (happen earlier) 先发生 xiān fāshēng all that has gone before 先前发生的一切 
-② literary (go in front) 走到前面 zǒudào qiánmian he went before to warn them 他走上前去向他们提出警告 go below intransitive verb Nautical 到下层甲板 dào xiàcéng jiǎbǎn go by A. intransitive verb 
+② literary (go in front) 走到前面 zǒudào qiánmian he went before to warn them 他走上前去向他们提出警告 go below intransitive verb Nautical 到下层甲板 dào xiàcéng jiǎbǎn go by 
+A.  intransitive verb 
 ① (elapse, pass) 过去 guòqu as time goes by 随着时间流逝 
 ② (move by) «person» 走过 zǒuguo ; «vehicle» 驶过 shǐguo 
 ③ (be lost) «opportunity, chance» 错失 cuòshī 
 B.  transitive verb[go by something/somebody] 
 ① (obey, proceed by) 按照 ànzhào to go by the position of the sun 按照太阳的位置 promotion goes by seniority 按照资历晋升 
 ② (be lost to) 被…错过 bèi… cuòguò the opportunity went right by her 机会和她擦肩而过 
-③ (judge by) 以…判断 yǐ… pànduàn to go by appearances 凭外表判断 going by her looks, she's under 20 从她的外表来看，她不到20岁 if the trailer is anything to go by, it should be a good film 如果预告片可信，这应该是部好电影 
-④ (be called by) 被叫做 bèi jiàozuò to go by another name 叫另一个名字 go down A. intransitive verb 
+③ (judge by) 以…判断 yǐ… pànduàn to go by appearances 凭外表判断 going by her looks, she's under
+20 从她的外表来看，她不到20岁 if the trailer is anything to go by, it should be a good film 如果预告片可信，这应该是部好电影 
+④ (be called by) 被叫做 bèi jiàozuò to go by another name 叫另一个名字 go down 
+A.  intransitive verb 
 ① (descend) «person» 下楼 xiàlóu ; «vehicle» 下行 xiàxíng ; «road» 向下延伸 xiàng xià yánshēn ‘going down!’ “下行！” 
 ② (fall) «person, animal, building» 倒下 dǎoxia ; «aircraft» 坠落 zhuìluò 
 ③ (set) «sun, moon» 落下 luòxia when the sun went down on the Roman Empire 当罗马帝国最终灭亡时 
@@ -120,7 +129,8 @@ B.  transitive verb[go down something]
 ② (be issued) «order, command» 被传达 bèi chuándá go forward intransitive verb 
 ① (advance) 行进 xíngjìn 
 ② (progress) 取得进展 qǔdé jìnzhǎn to go forward to the final 进入决赛 
-③ (proceed) to go forward with [something]; 开始某事 kāishǐ mǒu shì to go forward with construction work 开始施工 kāishǐ shīgōng go in A. intransitive verb 
+③ (proceed) to go forward with [something]; 开始某事 kāishǐ mǒu shì to go forward with construction work 开始施工 kāishǐ shīgōng go in 
+A.  intransitive verb 
 ① (enter, attend) 进入 jìnrù I don't have to go in (to work) today 我今天不必去上班 
 ② (fit) «key, pin, box» 放得进 fàngdejìn listen carefully: I want this to go in figurative 仔细听着：我要你明白这个 
 ③ (go behind cloud) «sun, moon» 躲进云层 duǒjìn yúncéng 
@@ -134,13 +144,15 @@ B.  transitive verb[go in something]
 ② (enter state) 进入…状态 jìnrù… zhuàngtài to go into a coma/deep sleep 昏迷/陷入沉睡 
 ③ (fit inside) 能放进 néng fàngjìn will this go into the bag? 这个能放进包里吗？ 
 ④ Mathematics 能除尽 néng chújìn
-6 goes into 18 three times 6除18得3 
+6 goes into
+18 three times 6除18得3 
 ⑤ (hit) 撞上 zhuàngshang we went into a lamp post 我们撞了一根灯柱 
 ⑥ (examine, investigate) 调查 diàochá to go into a question/case 研究问题/调查案件 
 ⑦ (explain) 解释 jiěshì I won't go into why I did it 我不会解释我的动机的 
 ⑧ (launch into, begin to do) 开始 kāishǐ to go into a long explanation 开始长篇大论地解释 the car went into a skid 汽车开始打滑 
 ⑨ (be expended on) 花费在…上 huāfèi zài… shang after all the money/work that has gone into this 在这上面投入了这么多钱/做了这么多工作之后 
-⑩ (be published in) 以…形式出版 yǐ… xíngshì chūbǎn to go into paperback/its tenth edition 以简装本出版/出到第10版 go off A. intransitive verb 
+⑩ (be published in) 以…形式出版 yǐ… xíngshì chūbǎn to go into paperback/its tenth edition 以简装本出版/出到第10版 go off 
+A.  intransitive verb 
 ① (depart) 离开 líkāi he went off to work 他去上班了 the goalkeeper had to go off 守门员不得不退场 
 ② (be fired) «gun» 开火 kāihuǒ 
 ③ (explode) «bomb» 爆炸 bàozhà 
@@ -157,7 +169,8 @@ B.  transitive verb[go in something]
 ⑭ (launch into) to go off into [something]; 开始某事 kāishǐ mǒu shì she went off into a monologue 她开始长篇大论 tā kāishǐ cháng piān dà lùn 
 B.  transitive verb[go off somebody/something] BrE colloquial 开始厌烦 kāishǐ yànfán to go off one's boyfriend 不再喜欢自己的男友 go off with transitive verb 
 ① [go off with something] (take away) 擅自拿走 shànzì názǒu he's gone off with my keys 他顺手牵羊拿走了我的钥匙 she went off with all his money 她卷走了他所有的钱 
-② [go off with somebody] (leave with) 与…私奔 yǔ… sībēn he's gone off with my wife 他和我老婆私奔了 go on A. intransitive verb 
+② [go off with somebody] (leave with) 与…私奔 yǔ… sībēn he's gone off with my wife 他和我老婆私奔了 go on 
+A.  intransitive verb 
 ① (continue onwards) 继续行进 jìxù xíngjìn you go on, we'll follow 你先走，我们随后 after stopping at Carlisle, this train goes on to Glasgow 在卡莱尔停靠之后，这趟列车接着开往格拉斯哥 
 ② (happen, take place) 发生 fāshēng what's going on here? 这里发生什么事了？ 
 ③ (continue) 继续 jìxù we can't go on like this 我们不能这样继续下去 go on, we're listening 接着说，我们听着呢 the meeting went on into the afternoon 会一直开到下午 as the evening went on, he became more animated 夜渐深，他越发活跃了 go on, have a sherry! 来，喝杯雪利酒！ go on (with you)! colloquial 去你的吧！ it went on raining 雨不停地下着 
@@ -194,7 +207,8 @@ C.  going on (for) preposition phrase 将近 jiāngjìn it'll cost going on (for
 ⑧ (become unfashionable) «fashion, activity» 过时 guòshí ankle-length skirts went out two years ago 长及脚踝的裙子两年前就不时兴了 
 ⑨ (be discontinued) «custom, institution» 消失 xiāoshī gas lighting went out and was replaced by electricity 煤气照明被电力取代，不再使用了 go out of transitive verb[go out of something] 
 ① (leave) 从…中出来 cóng… zhōng chūlai the cat went out of the door 猫从门出去了 all my hopes went out of the window 我的希望全破灭了 
-② (disappear from) 从…中消失 cóng… zhōng xiāoshī all the spirit seemed to have gone out of her 她似乎丧失了一切斗志 the romance had gone out of their relationship 他们之间已经没有爱情了 go over A. intransitive verb 
+② (disappear from) 从…中消失 cóng… zhōng xiāoshī all the spirit seemed to have gone out of her 她似乎丧失了一切斗志 the romance had gone out of their relationship 他们之间已经没有爱情了 go over 
+A.  intransitive verb 
 ① (cross over) 穿过去 chuān guoqu he went over and asked her 他走过去问她 a plane went over 一架飞机从上空飞过 
 ② (overturn) 倾覆 qīngfù the car hit the kerb and went right over 汽车撞在路缘上一下子翻了 
 ③ (be received) 受欢迎 shòu huānyíng his speech went over well 他的演讲很受欢迎 to go over big colloquial 很成功 
@@ -207,7 +221,8 @@ B.  transitive verb[go over something]
 ⑥ (retrace) 润饰 rùnshì he went over the drawing in ink 他用墨水把图描画了一遍 go over to transitive verb[go over to somebody/something] 
 ① (cross over to, travel to) 向…走过去 xiàng… zǒu guoqu she went over to him/the window 她走到他身边/窗户前 the ferry goes over to Calais twice a day 渡船每天去加来两次 to go over to Washington for the latest news 切换到华盛顿看最新消息 
 ② (desert to) 转投 zhuǎntóu he went over to the Conservatives/the enemy 他转向了保守党一边/投靠了敌人 
-③ (switch to) 转变到 zhuǎnbiàn dào ‹system, function›they've gone over to gas central heating 他们已改用煤气中央供暖系统 the factory went over to making doughnuts 这家工厂改做甜甜圈了 go round A. intransitive verb 
+③ (switch to) 转变到 zhuǎnbiàn dào ‹system, function›they've gone over to gas central heating 他们已改用煤气中央供暖系统 the factory went over to making doughnuts 这家工厂改做甜甜圈了 go round 
+A.  intransitive verb 
 ① (spin) «wheel, propeller» 转动 zhuàndòng the tape was still going round 磁带还在转 
 ② (move about) 到处走动 dàochù zǒudòng to go round barefoot 光着脚到处跑 
 ③ (suffice) 足够分发 zúgòu fēnfā there aren't enough books/there isn't enough food to go round 书/食物不够分 
@@ -219,7 +234,8 @@ B.  transitive verb[go over something]
 B.  transitive verb[go round somebody/something] 
 ① (encircle) 围绕 wéirào the belt wouldn't go round me 这皮带的长度还不及我的腰围 the rope went round the tree twice 绳子绕树两圈 
 ② (move about) 在…到处走动 zài… dàochù zǒudòng he went round several companies trying to sell the idea 他到几家公司游说他的想法 
-③ (turn) 绕过 ràoguo ‹corner, obstacle›the car went round the roundabout the wrong way 那辆车在环岛处拐错了方向 go through A. intransitive verb 
+③ (turn) 绕过 ràoguo ‹corner, obstacle›the car went round the roundabout the wrong way 那辆车在环岛处拐错了方向 go through 
+A.  intransitive verb 
 ① (move or travel through) 通过 tōngguò please go (on) through 请进去吧 
 ② (be successfully completed) «deal, transaction» 达成 dáchéng 
 ③ (progress) 往下进行 wǎng xià jìnxíng they need only a draw to go through 他们只需要打成平局就能进入下一轮比赛 
@@ -232,15 +248,18 @@ B.  transitive verb[go through something]
 ⑤ (undergo) 经历 jīnglì ‹difficulties, war, period of time›; 经受 jīngshòu ‹test, interview›he went through several operations 他做过几次手术 we've all gone through difficult times 我们全都经历过艰难时刻 after all he's gone through 在他经历过这一切之后 he went through the day in a haze 他迷迷糊糊地度过了一天 
 ⑥ (perform, accomplish) 完成 wánchéng he went through the day's work in a couple of hours 他用了几个小时便做完了白天的工作 to go through the formalities 办手续 
 ⑦ (rehearse) 排练 páiliàn let's go through the whole scene once more 我们把这一场再排练一遍 
-⑧ (progress through) 经过 jīngguò ‹draft›the plan went through several stages 计划经过了几个阶段 this book has already gone through 13 editions 这本书已经连续出了13版 
+⑧ (progress through) 经过 jīngguò ‹draft›the plan went through several stages 计划经过了几个阶段 this book has already gone through
+13 editions 这本书已经连续出了13版 
 ⑨ (consume, use up) 用完 yòngwán we went through four bottles of wine 我们喝了4瓶葡萄酒 he has gone through four cars/secretaries humorous 他开坏了4辆汽车/用过4个秘书 
 ⑩ (make hole in) 磨破 mópò 
 ⑪ Law, Politics (be approved) 在…获得通过 zài… huòdé tōngguò the bill is going through the upper house 议案正在上院审议 go through with transitive verb[go through with something] 努力完成 nǔlì wánchéng they went through with their marriage for appearances' sake 他们为了面子操办了婚礼 go together intransitive verb 
 ① (harmonize, be compatible) «furnishings» 协调 xiétiáo ; «clothes, people» 相配 xiāngpèi these colours don't really go together 这些颜色不十分搭配 lamb and mint sauce go well together 羊肉和薄荷汁很对味 
-② (co-exist) 共存 gòngcún poverty and crime often go together 贫穷和犯罪往往相伴而生 go towards transitive verb[go towards something] 作为…的部分款项 zuòwéi… de bùfen kuǎnxiàng the money will go towards a new car 这笔钱将用于购买新车 go under A. intransitive verb 
+② (co-exist) 共存 gòngcún poverty and crime often go together 贫穷和犯罪往往相伴而生 go towards transitive verb[go towards something] 作为…的部分款项 zuòwéi… de bùfen kuǎnxiàng the money will go towards a new car 这笔钱将用于购买新车 go under 
+A.  intransitive verb 
 ① (sink, submerge) «ship» 沉没 chénmò ; «person» 沉入水中 chénrù shuǐ zhōng 
 ② (fail) 失败 shībài his business finally went under 他的公司最终倒闭了 
-B.  transitive verb[go under something] 叫做 jiàozuò he goes under the name of Brown 他名叫布朗 go up A. intransitive verb 
+B.  transitive verb[go under something] 叫做 jiàozuò he goes under the name of Brown 他名叫布朗 go up 
+A.  intransitive verb 
 ① (ascend) 上去 shàngqu the children went up to bed 孩子们上床了 ‘going up!’ “上行！” to go up in the world (in status) 飞黄腾达 (in wealth) 发迹 
 ② (rise up) 升起 shēngqǐ a cloud of dust went up as they rode past 他们骑车经过时带起了一股灰尘 
 ③ (continue) to go up to [something]; «account, book» 延续到… yánxù dào… the series goes up to 1990 这个系列写到1990年 I went up to £100 but I didn't get it (at auction) 我出价到100英镑，但没把它拍到手 
@@ -257,13 +276,15 @@ B.  transitive verb[go under something] 叫做 jiàozuò he goes under the name 
 ⑭ (approach) 走近 zǒujìn ‹place, person›I went up to the bar 我走到酒吧柜台 he went up to Lewis and punched him 他走近刘易斯，打了他一拳 
 B.  transitive verb[go up something] 
 ① (ascend) 上到 shangdào ‹mountain, hill›
-② (go along) 沿…前行 yán… qiánxíng she's just gone up the street 她刚刚沿街道走过去 go with A. [go with something] transitive verb 
+② (go along) 沿…前行 yán… qiánxíng she's just gone up the street 她刚刚沿街道走过去 go with 
+A.  [go with something] transitive verb 
 ① (be compatible with) 与…相配 yǔ… xiāngpèi white wine goes with fish better than red wine 白葡萄酒配鱼要比红葡萄酒更对味 
 ② (accompany) 与…并存 yǔ… bìngcún responsibility goes with motherhood 为人母亲即意味着责任 the house goes with the job 做这份工作能享用这所房子 
 ③ (follow) 顺应 shùnyìng to go with the times/the crowd 合乎时代/随大溜 
 B.  [go with somebody] transitive verb 
 ① (accompany) 与…一起 yǔ… yīqǐ 
-② colloquial (spend time with) 和…相好 hé… xiānghǎo go without A. transitive verb[go without something] 没有…而勉强应付 méiyǒu… ér miǎnqiǎng yìngfù to go without food 挨饿 it goes without saying that … 显而易见… 
+② colloquial (spend time with) 和…相好 hé… xiānghǎo go without 
+A.  transitive verb[go without something] 没有…而勉强应付 méiyǒu… ér miǎnqiǎng yìngfù to go without food 挨饿 it goes without saying that … 显而易见… 
 B.  intransitive verb 没有也行 méiyǒu yě xíng if you can't afford lunch, you'll have to go without 如果你买不起午饭，就只好将就着不吃了 
 go 
 ▶verb

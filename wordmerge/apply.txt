@@ -1,6 +1,7 @@
 apply 
 BrE əˈplʌɪ, AmE əˈplaɪ 
-A. intransitive verb 
+
+A.  intransitive verb 
 ① (make request) 申请 shēnqǐng to apply (to [somebody]) for [something]/to do [something]; （向某人）申请某事物/做某事 to apply to college/university; 向学院/大学申请 
 ② (be valid) «rule, definition» 适用 shìyòng that theory cannot apply in this case 那个理论不适用于这种情况 to apply to [somebody]/[something]; 适用于某人/某事物 that description doesn't apply to him 他不是描述的那个样子 
 B.  transitive verb 

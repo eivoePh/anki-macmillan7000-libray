@@ -1,6 +1,7 @@
 assert 
 BrE əˈsəːt, AmE əˈsərt 
-A. transitive verb 
+
+A.  transitive verb 
 ① (state) 断言 duànyán to assert one's innocence/that … 坚称自己无辜/坚称… 
 ② (cause to be recognized) 主张 zhǔzhāng to assert one's authority/strength 维护自己的权威/势力 
 B.  reflexive verb to assert oneself 坚持自己的主张 jiānchí zìjǐ de zhǔzhāng 

@@ -1,7 +1,8 @@
 hack
 1 
 BrE hak, AmE hæk 
-A. noun 
+
+A.  noun 
 ① (blow) (with axe, knife) 砍 kǎn ; (with sword, hand) 劈 pī ; (with stick) 打 dǎ to take a hack at [somebody]/[something]; 砍某人/某物 to cut through [something] with a single hack 一下子砍断某物 
 ② Sport pejorative (kick) 踢 tī ; (hit) 打 dǎ a hack on [somebody]; 踢某人 to give [somebody] a hack on [something] 踢某人某部位一脚 
 ③ (cough) 干咳 gānké 
@@ -16,7 +17,8 @@ C.  intransitive verb
 ② Sport pejorative «footballer» 踢 tī ; «golfer» 击 jī to hack at one's ball in a bunker 在沙坑里击球 
 ③ Computing colloquial 非法入侵 fēifǎ rùqīn to hack into the system 入侵系统 
 ④ (cough) 干咳 gānké 
-⑤ especially BrE Riding 骑马 qímǎ to go hacking 去骑马 PHRASAL VERBS hack about transitive verb[hack something about] 胡乱删改 húluàn shāngǎi ‹text, book›hack around intransitive verb AmE colloquial 闲逛 xiánguàng hack away A. transitive verb[hack something away, hack away something] 砍去 kǎnqu ‹branches, trees›
+⑤ especially BrE Riding 骑马 qímǎ to go hacking 去骑马 PHRASAL VERBS hack about transitive verb[hack something about] 胡乱删改 húluàn shāngǎi ‹text, book›hack around intransitive verb AmE colloquial 闲逛 xiánguàng hack away 
+A.  transitive verb[hack something away, hack away something] 砍去 kǎnqu ‹branches, trees›
 B.  intransitive verb 
 ① to hack away at [somebody]/[something] (with [something]) (cut) （用某物）砍某人/某物 (yòng mǒu wù)kǎn mǒu rén/mǒu wù to hack away with a pick 用镐不停地刨 yòng gǎo bù tíng de páo 
 ② (cough) 干咳 gānké hack down transitive verb[hack something down, hack down something] 砍倒 kǎndǎo ‹tree›hack off transitive verb 

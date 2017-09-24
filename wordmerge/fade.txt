@@ -1,6 +1,7 @@
 fade 
 BrE feɪd, AmE feɪd 
-A. transitive verb 
+
+A.  transitive verb 
 ① (make paler) «sun, washing, time» 使…褪色 shǐ… tuìshǎi ‹colours, curtains, clothes›
 ② Radio, Theatre 使…逐渐消失 shǐ… zhújiàn xiāoshī ‹conversation, lights›to fade one scene/colour into another; 使某一场景/颜色淡出，另一场景/颜色淡入 
 B.  intransitive verb 
@@ -9,8 +10,10 @@ B.  intransitive verb
 ③ (deteriorate, lose strength) «faculty, memory, beauty» 衰退 shuāituì ; «horse, runner» 失去后劲 shīqù hòujìn ; «flowers» 枯萎 kūwěi 
 ④ Cinema, Radio, Television «sound, music» 变弱 biànruò ; «scene, picture» 变暗淡 biàn àndàn PHRASAL VERBS fade away intransitive verb 
 ① (die down) «sound, music» 渐弱 jiàn ruò 
-② figurative (decline physically) «person» 奄奄一息 yǎnyǎn yī xī old soldiers never die, they only fade away 老兵永远不死，他们只是凋零 fade in A. intransitive verb «signal, music, lights» 渐弱 jiàn ruò ; «image, scene» 淡出 dànchū 
-B.  transitive verb[fade something in], [fade in something] 使…渐强 shǐ… jiàn qiáng ‹music, dialogue, lighting›; 使…淡入 shǐ… dànrù ‹picture, scene›fade out A. intransitive verb 
+② figurative (decline physically) «person» 奄奄一息 yǎnyǎn yī xī old soldiers never die, they only fade away 老兵永远不死，他们只是凋零 fade in 
+A.  intransitive verb «signal, music, lights» 渐弱 jiàn ruò ; «image, scene» 淡出 dànchū 
+B.  transitive verb[fade something in], [fade in something] 使…渐强 shǐ… jiàn qiáng ‹music, dialogue, lighting›; 使…淡入 shǐ… dànrù ‹picture, scene›fade out 
+A.  intransitive verb 
 ① (disappear) «signal, music, lights» 渐弱 jiàn ruò ; «image, scene» 淡出 dànchū 
 ② figurative «person» 淡出 dànchū ; «custom, political movement» 消失 xiāoshī to fade out (of the picture); 淡出公众视线 
 B.  transitive verb[fade something out, fade out something] 使…渐弱 shǐ… jiàn ruò ‹music, dialogue, lighting›; 使…淡出 shǐ… dànchū ‹picture, scene›

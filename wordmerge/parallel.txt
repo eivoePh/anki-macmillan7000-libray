@@ -1,6 +1,7 @@
 parallel 
 BrE ˈparəlɛl, AmE ˈpɛrəˌlɛl 
-A. adjective 
+
+A.  adjective 
 ① Mathematics 平行的 píngxíng de ‹lines, rows›parallel to or with [something]; 与某物平行的 
 ② (similar) 极相似的 jí xiāngsì de ‹feature, case›to develop along parallel lines 并行发展 
 ③ (concurrent) 同时存在的 tóngshí cúnzài de a parallel universe 平行宇宙 

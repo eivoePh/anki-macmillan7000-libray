@@ -1,6 +1,7 @@
 pull 
 BrE pʊl, AmE pʊl 
-A. transitive verb 
+
+A.  transitive verb 
 ① (tug) 拉 lā to pull the curtains/blinds (close) 拉上窗帘/百叶窗 (open) 拉开窗帘/百叶窗 to pull [somebody's] hair, to pull [somebody] by the hair 揪某人头发 to pull a sweater over one's head (put it on) 从头上套上毛衣 (take it off) 从头上脱下毛衣 he pulled her to or towards him 他把她拉过来 to pull the door shut or to 拉上门 to pull [somebody] clear (of [something]) 把某人（从某处）拉开 to pull [somebody]/[something] to pieces 把某人/某事物批得体无完肤 to pull [somebody's] leg colloquial 戏弄某人 pull the other one (it's got bells on) colloquial 鬼才信呢 to pull [something] from [somebody's] grasp 让某事物脱离某人的掌控 it pulled me back to reality 它把我拖回到现实中 to pull the rug or carpet from under [somebody's] feet colloquial 突然拆某人的台 to pull one's weight 做好分内的事 to pull the wool over [somebody's] eyes figurative colloquial 欺瞒某人 
 ② (remove by tugging) 拔出 báchū ‹cork, tooth›; 采 cǎi ‹flower›to pull a gun/knife (on [somebody]) （对某人）拔枪/拔刀 to pull a thread on 把…弄得抽丝 ‹piece of cloth›to pull the plug on [somebody]/[something] figurative colloquial 阻止某人/某事物 to pull trumps Games colloquial 出主牌 
 ③ Medicine 拉伤 lāshāng a pulled muscle/ligament 拉伤的肌肉/韧带 
@@ -46,7 +47,8 @@ D.  noun
 ④ figurative (disparage) 抨击 pēngjī ‹person, performance›; 诋毁 dǐhuǐ ‹character, reputation›pull away intransitive verb 
 ① (move away) «vehicle, driver» 开走 kāizǒu the car pulled away from the kerb 汽车驶离了路缘 
 ② (become detached) «component, piece» 脱落 tuōluò to pull away from [something]; 从某物脱落 
-③ (open up lead) «racing driver, vehicle» 拉开距离 lākāi jùlí to pull away from [somebody]/[something]; 把某人/某物甩在身后 the leader pulled away on the straight 领跑的人在直道上拉开了距离 pull back A. intransitive verb 
+③ (open up lead) «racing driver, vehicle» 拉开距离 lākāi jùlí to pull away from [somebody]/[something]; 把某人/某物甩在身后 the leader pulled away on the straight 领跑的人在直道上拉开了距离 pull back 
+A.  intransitive verb 
 ① Military «troops, army» 撤退 chètuì the troops pulled back to a safer position/from the front line 部队撤到了更安全的阵地/撤离了前线 
 ② (move backwards) «person, vehicle» 后退 hòutuì to pull back from the brink figurative 悬崖勒马 
 ③ figurative (not go ahead) 退缩 tuìsuō to pull back from [something]; 退出 tuìchū ‹conflict, course of action› 放弃 fàngqì ‹decision›
@@ -54,12 +56,14 @@ D.  noun
 B.  transitive verb[pull somebody/something back, pull back somebody/something] 
 ① Military 撤回 chèhuí ‹army, unit›the general pulled the troops back from the front line 将军将部队撤离前线 
 ② Sport «runner, racing driver, vehicle» 追回 zhuīhuí ‹time, distance›; 扳回 bānhuí ‹goal›
-③ (draw back) 拉回 lāhuí ‹rope, cord›; 拉起 lāqǐ ‹curtains›pull down A. [pull something down, pull down something] transitive verb 
+③ (draw back) 拉回 lāhuí ‹rope, cord›; 拉起 lāqǐ ‹curtains›pull down 
+A.  [pull something down, pull down something] transitive verb 
 ① (lower) 放低 fàngdī ‹box, book›; 拉下 lāxia ‹trousers›; 放下 fàngxia ‹blind, curtain›he'll pull you down with him figurative 他会拖累你的 
 ② (demolish) 拆毁 chāihuǐ ‹building, structure›
 ③ (reduce) 降低 jiàngdī ‹prices, inflation›the maths paper pulled her overall mark down 数学科试卷的成绩拉低了她的总分 
 ④ colloquial (earn) 挣 zhèng ‹amount, salary›
-B.  [pull somebody down] transitive verb colloquial (weaken) «illness» 使虚弱 shǐ xūruò pull in A. [pull something in, pull in something] transitive verb 
+B.  [pull somebody down] transitive verb colloquial (weaken) «illness» 使虚弱 shǐ xūruò pull in 
+A.  [pull something in, pull in something] transitive verb 
 ① (retract) 缩回 suōhuí ‹claw, antenna, stomach›
 ② colloquial (earn) 挣 zhèng ‹amount, salary›
 B.  [pull somebody in, pull in somebody] transitive verb 
@@ -67,14 +71,16 @@ B.  [pull somebody in, pull in somebody] transitive verb
 ② (attract) «performance, event» 吸引 xīyǐn ‹spectators, audience, crowd›; «candidate, party» 赢得 yíngdé ‹voters›
 C.  intransitive verb BrE 
 ① (arrive) 到站 dàozhàn the train pulled in to the station 火车进站了 
-② (leave road) «vehicle, driver» 驶到路边停靠 shǐdào lùbiān tíngkào to pull in at the next service station 在下一个服务站停车 to pull in for [something]/to do [something]; 为某事物/做某事把车驶到路边停下 pull off A. [pull something off, pull off something] transitive verb 
+② (leave road) «vehicle, driver» 驶到路边停靠 shǐdào lùbiān tíngkào to pull in at the next service station 在下一个服务站停车 to pull in for [something]/to do [something]; 为某事物/做某事把车驶到路边停下 pull off 
+A.  [pull something off, pull off something] transitive verb 
 ① (take off) 脱下 tuōxia ‹garment, shoe›
 ② (remove by tugging) 拆掉 chāidiào ‹handle›; 扯掉 chědiào ‹leaf›; 取下 qǔxia ‹lid›; 撕下 sīxia ‹wrapping, sticker›to pull [somebody]/[something] off [somebody]/[something]; 把…从…拉开 
 ③ colloquial (succeed in, clinch) 进行…得逞 jìnxíng… déchěng ‹robbery, coup›; 弄到 nòngdào ‹scoop›; 达成 dáchéng ‹deal›; 取得 qǔdé ‹success, feat›I never thought you'd pull it off 我压根没想过你会办成这件事 
 B.  [pull off something] transitive verb to pull off the road/track 驶向路边/赛道边停车 shǐxiàng lùbiān/sàidào biān tíngchē 
 C.  intransitive verb 
 ① (leave road) «vehicle, driver» 驶到路边停靠 shǐdào lùbiān tíngkào 
-② (be taken off) «part, handle» 可拆卸 kě chāixiè ; «lid» 可取下 kě qǔxia pull on transitive verb[pull something on, pull on something] 穿上 chuānshang ‹garment, shoe›pull out A. [pull something/somebody out, pull out something/somebody] transitive verb 
+② (be taken off) «part, handle» 可拆卸 kě chāixiè ; «lid» 可取下 kě qǔxia pull on transitive verb[pull something on, pull on something] 穿上 chuānshang ‹garment, shoe›pull out 
+A.  [pull something/somebody out, pull out something/somebody] transitive verb 
 ① (extract) 拔掉 bádiào ‹splinter, tooth, weeds›; 拉出 lāchū ‹trapped person›to pull [something] out of …; 从…中拔出某物 ‹ground, part of body›to pull [somebody] out of …; 从…中拉出某人 ‹wreckage, river›
 ② (withdraw) 撤出 chèchū ‹army, staff›to pull [somebody]/[something] out of [something]; 将某人/某队伍撤离某处 to pull one's troops out of the battle zone 将部队撤离战区 
 B.  [pull something out, pull out something] transitive verb 
@@ -85,16 +91,20 @@ C.  intransitive verb
 ② (leave) «train» 驶离车站 shǐlí chēzhàn to pull out of [something]; 驶离某处 the express pulled out of the station exactly on time 特快列车准点从车站开出 
 ③ (withdraw) «army» 撤退 chètuì ; «candidate, competitor» 退出 tuìchū to pull out of [something]; 退出 tuìchū ‹competition, talks, agreement›
 ④ (be taken out) «drawer» 可拉开 kě lākāi ; «component, section» 可取出 kě qǔchū 
-⑤ Aviation «aircraft, pilot» 恢复水平飞行 huīfù shuǐpíng fēixíng to pull out of [something] 从…中拉升起来 ‹dive, spin›pull over A. transitive verb 
+⑤ Aviation «aircraft, pilot» 恢复水平飞行 huīfù shuǐpíng fēixíng to pull out of [something] 从…中拉升起来 ‹dive, spin›pull over 
+A.  transitive verb 
 ① [pull somebody/something over, pull over somebody/something] (stop) «police» 让…驶到路边 ràng… shǐdào lùbiān ‹driver, car›
 ② [pull something over] (to side of road) 把…开到一边 bǎ… kāidào yībiān ‹vehicle›
-B.  intransitive verb «vehicle, driver» 开到一边 kāidào yībiān pull round intransitive verb especially BrE (regain consciousness) 苏醒 sūxǐng (recover) 痊愈 quányù pull through A. intransitive verb 
+B.  intransitive verb «vehicle, driver» 开到一边 kāidào yībiān pull round intransitive verb especially BrE (regain consciousness) 苏醒 sūxǐng (recover) 痊愈 quányù pull through 
+A.  intransitive verb 
 ① (from illness) «patient» 挺过来 tǐng guolai 
 ② (from difficulty) «person» 熬过来 áo guolai 
 B.  [pull somebody through] transitive verb (from illness) 使恢复健康 shǐ huīfù jiànkāng ; (from crisis) 使渡过危机 shǐ dùguò wēijī to pull [somebody] through [something]; 使某人渡过某事 
-C.  [pull through something] transitive verb (overcome, survive) 渡过 dùguò ‹difficulty, crisis›pull together A. intransitive verb 齐心合力 qíxīn hélì 
+C.  [pull through something] transitive verb (overcome, survive) 渡过 dùguò ‹difficulty, crisis›pull together 
+A.  intransitive verb 齐心合力 qíxīn hélì 
 B.  transitive verb [pull something together, pull together something] 整合 zhěnghé ‹summary, report›; 结成 jiéchéng ‹alliance›
-C.  reflexive verb pull oneself together; 振作精神 zhènzuò jīngshen pull up A. [pull something up, pull up something] transitive verb 
+C.  reflexive verb pull oneself together; 振作精神 zhènzuò jīngshen pull up 
+A.  [pull something up, pull up something] transitive verb 
 ① (lift) 拉高 lāgāo ‹garment›to pull [somebody]/[something] up the cliff/out of the well 把某人/某物拉上悬崖/拉出井 to pull oneself up out of the water 从水里爬上来 
 ② (uproot) 拔起 báqǐ ‹plant›
 ③ (move closer) 把…拉近 bǎ… lājìn ‹chair›he pulled a stool up to the table and sat down 他把凳子拖到桌边坐下 

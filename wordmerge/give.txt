@@ -1,6 +1,7 @@
 give 
 BrE ɡɪv, AmE ɡɪv 
-A. transitive verb(past tense gave, past participle given) 
+
+A.  transitive verb(past tense gave, past participle given) 
 ① (hand over) 给 gěi to give [something] to [somebody]; 把某物交给某人 give me that knife, please 请把那把刀递给我 the children were given balloons 孩子们领到了气球 
 ② (make gift of) 赠给 zènggěi to give a present to [somebody]; 把礼物赠送给某人 to give [something] for …; 赠送某物以庆祝 ‹special occasion›to give [something] as …; 把某物作为…赠送 ‹token, present, keepsake›
 ③ (transfer ownership of) 送给 sònggěi to give property/land to [somebody]; 把财产/土地送给某人 I gave him my heart figurative literary 我把心都交给他了 my heart is given to another figurative literary 我已心有所属 
@@ -31,7 +32,8 @@ B.  intransitive verb(past tense gave, past participle given)
 ⑤ AmE colloquial (concede defeat) 认输 rènshū 
 ⑥ colloquial (happen) 发生 fāshēng what gives? 有什么事吗？ 
 C.  reflexive verb(past tense gave, past participle given) to give oneself to [something]; 全身心投入某事 quánshēnxīn tóurù mǒu shì the children really gave themselves to the play 孩子们非常入戏 háizimen fēicháng rùxì 
-D.  noun Uncountable(in cloth, leather, elastic, cable) 弹性 tánxìng (in mattress, sofa, floorboard, bridge, plank, branch) 弯曲性 wānqūxìng this surface has more give 这个表面的弹力更大 PHRASAL VERBS give away A. [give something away, give away something] transitive verb 
+D.  noun Uncountable(in cloth, leather, elastic, cable) 弹性 tánxìng (in mattress, sofa, floorboard, bridge, plank, branch) 弯曲性 wānqūxìng this surface has more give 这个表面的弹力更大 PHRASAL VERBS give away 
+A.  [give something away, give away something] transitive verb 
 ① (out of kindness, to charity) 捐献 juānxiàn ‹money, blood›(as gift) 赠送 zèngsòng ‹possession, book›(for adoption) 把…送人 bǎ… sòngrén ‹animal, child›
 ② Busn 免费送出 miǎnfèi sòngchū ‹sample, mug, magazine, DVD›
 ③ (present) 颁发 bānfā ‹prize›
@@ -43,23 +45,27 @@ B.  [give somebody away, give away somebody] transitive verb
 ② (betray) 供出 gòngchū ‹accomplice›; 举报 jǔbào ‹escaped prisoner›; «sound, sign, clue, accent» 暴露 bàolù ‹person›
 C.  reflexive verb to give oneself away; 暴露 bàolù give back transitive verb[give something/somebody back, give back something/somebody] 
 ① (return) 归还 guīhuán ‹book, pen›; 退还 tuìhuán ‹money, present›; 送回 sònghuí ‹person, child, hostage›give it back to me at once! 马上把它还给我！ satisfaction guaranteed, or we'll give you your money back 保证满意，否则退款 
-② (restore) 恢复 huīfù ‹sanity, confidence, freedom›give forth transitive verb[give forth something] literary 发出 fāchū ‹sound›; 散发 sànfā ‹smell›give in A. intransitive verb 
+② (restore) 恢复 huīfù ‹sanity, confidence, freedom›give forth transitive verb[give forth something] literary 发出 fāchū ‹sound›; 散发 sànfā ‹smell›give in 
+A.  intransitive verb 
 ① (admit defeat) 认输 rènshū 
 ② to give in to [somebody]/[something] (comply with, obey) 对…妥协 duì… tuǒxié ‹person, demand, blackmail›
 ③ to give in to [something] (succumb to) 屈从于 qūcóng yú ‹temptation, depression, impulse, desire›they gave in to their animal instincts 他们兽性大发 tāmen shòuxìng dà fā 
-B.  transitive verb[give something in, give in something] BrE 上交 shàngjiāo ‹homework, exam paper›; 交出 jiāochū ‹key›; 发出 fāchū ‹parcel, letter, petition›; 递交 dìjiāo ‹accounts, report, notice›to give [something] in to [somebody]; 把某物交给某人 you have to give your name in to the receptionist 你得向前台报上姓名 give off transitive verb[give off something] (emit) 发出 fāchū ‹smell, heat, light, signal›; 排放 páifàng ‹noxious gas, fumes›; 释放 shìfàng ‹oxygen, hydrogen›give on to transitive verb[give on to something] BrE «window, room» 朝向 cháoxiàng ‹courtyard, street, garden, open space›give out A. [give something out, give out something] transitive verb 
+B.  transitive verb[give something in, give in something] BrE 上交 shàngjiāo ‹homework, exam paper›; 交出 jiāochū ‹key›; 发出 fāchū ‹parcel, letter, petition›; 递交 dìjiāo ‹accounts, report, notice›to give [something] in to [somebody]; 把某物交给某人 you have to give your name in to the receptionist 你得向前台报上姓名 give off transitive verb[give off something] (emit) 发出 fāchū ‹smell, heat, light, signal›; 排放 páifàng ‹noxious gas, fumes›; 释放 shìfàng ‹oxygen, hydrogen›give on to transitive verb[give on to something] BrE «window, room» 朝向 cháoxiàng ‹courtyard, street, garden, open space›give out 
+A.  [give something out, give out something] transitive verb 
 ① (distribute) 分发 fēnfā ‹books, food, equipment›
 ② (announce) 公布 gōngbù ‹news, information, list, results›
 B.  [give out something] transitive verb (emit) 发出 fāchū ‹heat, light, sound, signal›
 C.  intransitive verb 
 ① (run out) «food, fuel, battery, strength» 耗尽 hàojìn 
-② (break down) «car, engine, machine, computer» 瘫痪 tānhuàn ; «fuse» 熔断 róngduàn give over: A. transitive verb 
+② (break down) «car, engine, machine, computer» 瘫痪 tānhuàn ; «fuse» 熔断 róngduàn give over: 
+A.  transitive verb 
 ① (assign) to give [something] over to [something], to give over [something] to [something]; 安排 ānpái ‹place, period of time›the afternoon was given over to private study 下午的时间被安排用于自学 to give [something] over to doing [something]; 把某物专用于做某事 bǎ mǒu wù zhuānyòng yú zuò mǒu shì 
 ② (devote) to give [something] over to [something], to give over [something] to [something]; 付出 fùchū ‹one's time, one's life›to give [something] over to doing [something]; 付出某物来做某事 fùchū mǒu wù lái zuò mǒu shì he gave over the rest of his life to helping the poor 他将余生致力于扶贫济困 
 ③ [give something over, give over something] (hand over) 移交 yíjiāo ‹place, business›to give [something] over to [somebody]; 把某物托付给某人 
 ④ BrE colloquial (stop) to give over doing [something]; 停止做某事 tíngzhǐ zuò mǒu shì 
 B.  intransitive verb BrE colloquial 停止 tíngzhǐ give over! (stop doing sth.) 住手！ (stop saying sth.) 住嘴！ 
-C.  reflexive verb to give oneself over to [something]/doing [something]; 致力于某事/做某事 zhìlì yú mǒu shì/zuò mǒu shì he gave himself over to the theatre/writing full-time 他把所有时间都用来看戏/写作 give up A. intransitive verb 
+C.  reflexive verb to give oneself over to [something]/doing [something]; 致力于某事/做某事 zhìlì yú mǒu shì/zuò mǒu shì he gave himself over to the theatre/writing full-time 他把所有时间都用来看戏/写作 give up 
+A.  intransitive verb 
 ① (admit defeat) 认输 rènshū don't give up 别自暴自弃 to give up on [something]; 放弃某事物 I've given up on today's crossword 今天的填字游戏我做不出来 
 ② colloquial (lose faith) 绝望 juéwàng to give up on [somebody]; 对某人失望 don't give up on me 不要对我失去信心 
 B.  [give something/somebody up, give up something/somebody] transitive verb 

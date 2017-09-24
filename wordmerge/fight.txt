@@ -1,6 +1,7 @@
 fight 
 BrE fʌɪt, AmE faɪt 
-A. noun 
+
+A.  noun 
 ① (brawl) 打斗 dǎdòu Military 战斗 zhàndòu there was a fight outside the pub last night 昨晚在酒吧外面发生了一场打斗 to get into or have a fight with [somebody]; 和某人斗殴 to fight the good fight 英勇战斗 to be in a fight to the death 殊死搏斗 
 ② figurative (struggle) 斗争 dòuzhēng a fight for equality 争取平等的斗争 to put up a (good) fight 进行（英勇）斗争 [somebody's] fight against cancer 某人与癌症的斗争 
 ③ (in boxing) 拳击赛 quánjīsài 
@@ -17,7 +18,8 @@ C.  transitive verb(past tense, past participle fought)
 ③ figurative (battle) 努力开辟 nǔlì kāipì to fight one's way (through) 努力辟出一条路 to fight one's way to the front of the crowd 奋力挤到人群的前面 to fight one's way to the top of the company 努力奋斗登上公司的高位 
 ④ (compete for) 竞争 jìngzhēng to fight a seat/an election 竞选席位/参加竞选 
 ⑤ (run) 进行 jìnxíng to fight a campaign (against [something]) 开展（反对某事物的）运动 
-⑥ Law 打（官司） dǎ(guānsi) to fight the case 打这场官司 PHRASAL VERBS fight back A. intransitive verb 
+⑥ Law 打（官司） dǎ(guānsi) to fight the case 打这场官司 PHRASAL VERBS fight back 
+A.  intransitive verb 
 ① (retaliate) 还击 huánjī (resist) 抵抗 dǐkàng the police were forced to fight back 警方不得不进行还击 to fight back against a disease 与疾病抗争 
 ② Sport 反攻 fǎngōng 
 B.  transitive verb[fight back something] 忍住 rěnzhù ‹laughter, tears›fight down transitive verb[fight down something] 抑制住 yìzhì zhù ‹urge, impulse›to fight down the impulse to laugh 尽力忍住不笑 fight off transitive verb[fight off somebody/something], [fight somebody/something off] 

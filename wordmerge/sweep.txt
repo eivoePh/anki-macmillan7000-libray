@@ -1,6 +1,7 @@
 sweep 
 BrE swiːp, AmE swip 
-A. transitive verb(past tense, past participle swept) 
+
+A.  transitive verb(past tense, past participle swept) 
 ① (clean with broom) 清扫 qīngsǎo to sweep [something] clean 把某物清扫干净 
 ② (clear away with broom, brush, hand) 扫去 sǎoqù to sweep [something] into/on to [something]; 将某物扫进某物/扫到某物上 to sweep the crumbs on to the floor/into the wastebasket/into a heap 把面包屑扫到地板上/扫进垃圾桶/扫成一堆 to sweep [something] from or off [something]; 将某物从某物上扫除 to sweep the snow from or off the path 扫除路上的积雪 
 ③ (move or push with force) 推送 tuīsòng the current swept the logs down the river 激流把圆木冲向河的下游 to sweep [somebody]/[something] from or off/into/on to or over [something]; 将某人/某物推离/推进/推上某处 he swept me into his arms 他一下把我揽入怀中 a huge wave swept us off our feet 一个巨浪将我们打翻 to sweep [somebody]/[something] downstream/out to sea 将某人/某物冲向下游/大海 
@@ -35,13 +36,15 @@ D.  sweeps noun plural AmE the sweeps 收视率调查 shōushìlǜ diàochá PHR
 ① (force to move) «current, water, crowd» 迫使…前移 pòshǐ… qián yí to be swept along by the crowd/the strong current 被人群/激流裹挟着向前 
 ② (cause to become carried away with emotion) 使醉心 shǐ zuìxīn to be swept along by the force of one's emotions 受感情力量的驱使 sweep aside transitive verb[sweep somebody/something aside, sweep aside somebody/something] 
 ① (move to one side) 把…推到一边 bǎ… tuīdào yībiān 
-② (ignore) 对…置之不理 duì… zhì zhī bù lǐ ‹person, protest, offer, inhibition›sweep away A. [sweep something away, sweep away something] transitive verb 
+② (ignore) 对…置之不理 duì… zhì zhī bù lǐ ‹person, protest, offer, inhibition›sweep away 
+A.  [sweep something away, sweep away something] transitive verb 
 ① (clear away with broom, brush, hand) 扫除 sǎochú ‹dirt, snow, leaves›
 ② (get rid of) 彻底消除 chèdǐ xiāochú ‹restriction, obstacle, difficulty, doubt›
 B.  [sweep somebody/something away, sweep away somebody/something] transitive verb «flood, hurricane, storm» 卷走 juǎnzǒu ‹object, bridge, person›a big wave came in and swept him away 一个大浪涌来把他冲走了 
 C.  [sweep somebody away, sweep away somebody] transitive verb «enthusiasm, passion, charm» 使醉心 shǐ zuìxīn to be swept away by [something]; 对某事物着迷 sweep out transitive verb[sweep something out, sweep out something] 把…打扫干净 bǎ… dǎsǎo gānjìng ‹room›sweep over transitive verb[sweep over somebody/something] 
 ① (be directed over) «eyes, gaze» 扫视 sǎoshì ‹person, room›; «searchlight, periscope» 扫过 sǎoguo ‹sky, area›
-② (come over) «panic, guilt, elation» 强烈影响 qiángliè yǐngxiǎng fear swept over him 恐惧感笼罩着他 the feeling swept over me that … 我猛然觉得… sweep up A. intransitive verb 打扫干净 dǎsǎo gānjìng after you've finished in the kitchen, please remember to sweep up 你在厨房里干完活后记得打扫干净 
+② (come over) «panic, guilt, elation» 强烈影响 qiángliè yǐngxiǎng fear swept over him 恐惧感笼罩着他 the feeling swept over me that … 我猛然觉得… sweep up 
+A.  intransitive verb 打扫干净 dǎsǎo gānjìng after you've finished in the kitchen, please remember to sweep up 你在厨房里干完活后记得打扫干净 
 B.  transitive verb 
 ① [sweep something up], [sweep up something] (clear away with broom, brush, hand) 打扫 dǎsǎo he swept the leaves up into a pile 他把落叶扫成了一堆 
 ② [sweep somebody/something up], [sweep up somebody/something] (lift) 一把抱起 yī bǎ bào qǐ ‹person›; 一把拿起 yī bǎ náqǐ ‹object›

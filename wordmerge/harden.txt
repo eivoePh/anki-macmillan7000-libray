@@ -1,6 +1,7 @@
 harden 
 BrE ˈhɑːd(ə)n, AmE ˈhɑrdn 
-A. transitive verb 
+
+A.  transitive verb 
 ① (make rigid) 使…变硬 shǐ… biànyìng ‹substance, surface›to harden one's muscles/the skin 使肌肉变结实/使皮肤硬化 
 ② (make serious) 使…更严肃 shǐ… gèng yánsù ‹expression›to harden one's voice/face 声音严厉起来/脸沉下来 
 ③ (toughen physically) «time, event» 使变强壮 shǐ biàn qiángzhuàng to harden [somebody] to the cold 使某人能抵御寒冷 
@@ -12,7 +13,8 @@ B.  intransitive verb
 ③ (become physically tougher) 变强壮 biàn qiángzhuàng 
 ④ (become mentally tougher) 变得冷酷无情 biàn de lěngkù wúqíng 
 ⑤ (intensify) «stance, resolve» 变得坚定 biàn de jiāndìng her dislike hardened into a feeling of contempt 她的态度由厌恶变为轻蔑 
-⑥ Finance «market, economy» 变得坚挺 biàn de jiāntǐng PHRASAL VERB harden off A. transitive verb[harden something off, harden off something] 使…变得耐寒 shǐ… biàn de nàihán ‹plant›
+⑥ Finance «market, economy» 变得坚挺 biàn de jiāntǐng PHRASAL VERB harden off 
+A.  transitive verb[harden something off, harden off something] 使…变得耐寒 shǐ… biàn de nàihán ‹plant›
 B.  intransitive verb «plant» 变得耐寒 biàn de nàihán 
 harden 
 ▶verb

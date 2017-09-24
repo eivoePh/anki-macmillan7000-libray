@@ -1,6 +1,7 @@
 steam 
 BrE stiːm, AmE stim 
-A. nounUncountable
+
+A.  nounUncountable
 ① (vapour) 水蒸气 shuǐzhēngqì (as source of power) 蒸汽动力 zhēngqì dònglì engines powered by steam 蒸汽机 to let off or blow off steam colloquial (release energy) 消耗精力 (release strong emotions) 宣泄情绪 (release anger) 发泄怒气 under one's own steam colloquial 靠自己的力量 she says she'll get there under her own steam colloquial 她说她会自个儿去那里 to get or pick up steam (increase speed) «vehicle» 逐渐加速 (get more powerful) «campaign» 逐渐形成声势 to raise steam 提高蒸汽压力 to run out of steam colloquial «person» 筋疲力尽 «campaign, economy» 失去活力 shīqù huólì to go full steam ahead «production» 全力进行 
 ② (locomotives, railways) 蒸汽机车 zhēngqì jīchē the age of steam 蒸汽时代 zhēngqì shídài 
 ③ (air moisture, condensation) 水汽 shuǐqì my breath turned to steam in the cold 我呼出的气在寒冷的天气中化成了汽雾 
@@ -10,8 +11,10 @@ B.  intransitive verb
 ③ (produce moisture in air) 形成水汽 xíngchéng shuǐqì the roofs were steaming in the early-morning sunlight 在清晨的阳光下，屋顶上冒出了汽雾 
 ④ (move under steam power) 靠蒸汽动力行驶 kào zhēngqì dònglì xíngshǐ the boat steamed across the lake 汽船驶过湖面 
 ⑤ colloquial (move fast) 快速行进 kuàisù xíngjìn to steam down the motorway at 100 mph 以100英里的时速沿着高速公路疾驰 she steamed out of his office when she heard this 她听到这话后冲出了他的办公室 
-C.  transitive verb 蒸 zhēng steamed fish 清蒸鱼 PHRASAL VERBS steam ahead intransitive verb 进展迅速 jìnzhǎn xùnsù the company is steaming ahead with its new investment programme 公司正抓紧实施新的投资方案 steam off A. intransitive verb 靠蒸汽动力离开 kào zhēngqì dònglì líkāi the train steamed off towards London 蒸汽列车驶向伦敦 
-B.  transitive verb[steam something off, steam off something] 用蒸汽使脱离 yòng zhēngqì shǐ tuōlí to steam the stamp off the envelope 用蒸汽把邮票从信封上揭下来 steam open transitive verb [steam something open, steam open something] 用蒸汽把…拆开 yòng zhēngqì bǎ… chāikāi to steam an envelope open 用蒸汽开启信封 steam up A. intransitive verb 蒙上水汽 méngshang shuǐqì my glasses have steamed up! 我的眼镜上起了一层雾！ 
+C.  transitive verb 蒸 zhēng steamed fish 清蒸鱼 PHRASAL VERBS steam ahead intransitive verb 进展迅速 jìnzhǎn xùnsù the company is steaming ahead with its new investment programme 公司正抓紧实施新的投资方案 steam off 
+A.  intransitive verb 靠蒸汽动力离开 kào zhēngqì dònglì líkāi the train steamed off towards London 蒸汽列车驶向伦敦 
+B.  transitive verb[steam something off, steam off something] 用蒸汽使脱离 yòng zhēngqì shǐ tuōlí to steam the stamp off the envelope 用蒸汽把邮票从信封上揭下来 steam open transitive verb [steam something open, steam open something] 用蒸汽把…拆开 yòng zhēngqì bǎ… chāikāi to steam an envelope open 用蒸汽开启信封 steam up 
+A.  intransitive verb 蒙上水汽 méngshang shuǐqì my glasses have steamed up! 我的眼镜上起了一层雾！ 
 B.  transitive verb[steam something up, steam up something] 使蒙上水汽 shǐ méngshang shuǐqì 
 steam 
 ▶noun

@@ -1,6 +1,7 @@
 blow 
 BrE bləʊ, AmE bloʊ 
-A. intransitive verb(past tense blew, past participle blown) 
+
+A.  intransitive verb(past tense blew, past participle blown) 
 ① (move with air current) «wind» 吹 chuī to see which way the wind is blowing figurative 看清形势 
 ② (be moved by wind) «leaves, curtain» 被风吹动 bèi fēng chuīdòng 
 ③ (expel air) 吹气 chuīqì she blew on her hot coffee 她吹着热咖啡 
@@ -27,21 +28,25 @@ C.  noun
 ② Countablefigurative (shock) 打击 dǎjī to deal [somebody]/[something] a blow, to deal a blow to [somebody]/[something] 给某人/某物以打击 
 ③ Countable(of nose) to give one's nose a blow 擤鼻子 xǐng bízi 
 ④ CountableMusic 吹奏 chuīzòu 
-⑤ Uncountable BrE slang (marijuana) 大麻 dàmá PHRASAL VERBS blow away A. intransitive verb «hat, tent» 被吹走 bèi chuīzǒu 
+⑤ Uncountable BrE slang (marijuana) 大麻 dàmá PHRASAL VERBS blow away 
+A.  intransitive verb «hat, tent» 被吹走 bèi chuīzǒu 
 B.  [blow something away, blow away something] transitive verb 
 ① (with air current) 把…吹走 bǎ… chuīzǒu to blow the dust away 吹去灰尘 
 ② (with explosives) «blast» 把…炸毁 bǎ… zhàhuǐ 
 C.  [blow somebody away, blow away somebody] transitive verb 
 ① colloquial (kill with gun) 把…毙了 bǎ… bì le 
 ② figurative colloquial (defeat easily) 轻松击败 qīngsōng jībài 
-③ figurative colloquial (impress) 使感动 shǐ gǎndòng blow down A. intransitive verb «tree» 被刮倒 bèi guādǎo 
-B.  transitive verb [blow something down, blow down something] «wind» 刮倒 guādǎo ‹tree›blow in A. intransitive verb 
+③ figurative colloquial (impress) 使感动 shǐ gǎndòng blow down 
+A.  intransitive verb «tree» 被刮倒 bèi guādǎo 
+B.  transitive verb [blow something down, blow down something] «wind» 刮倒 guādǎo ‹tree›blow in 
+A.  intransitive verb 
 ① (enter) «rain» 被吹进来 bèi chuī jinlai 
 ② (from blast) «door, window» 被向内炸开 bèi xiàng nèi zhàkāi 
 ③ colloquial (arrive) 突然到来 tūrán dàolái 
 B.  transitive verb[blow something in, blow in something] 
 ① (cause to enter) «wind» 把…吹进来 bǎ… chuī jinlai ‹rain›
-② (by blast) «bomb» 向内炸开 xiàng nèi zhàkāi ‹door, window›blow off A. intransitive verb 
+② (by blast) «bomb» 向内炸开 xiàng nèi zhàkāi ‹door, window›blow off 
+A.  intransitive verb 
 ① (be removed by the wind) «hat» 被吹走 bèi chuīzǒu 
 ② (escape) «gas» 泄漏 xièlòu 
 ③ BrE colloquial (break wind) 放屁 fàngpì 
@@ -53,7 +58,8 @@ B.  [blow something off, blow off something] transitive verb
 ⑤ AmE colloquial (ignore) 不理睬 bù lǐcǎi ‹offer›
 C.  [blow somebody off, blow off somebody] transitive verb AmE colloquial 
 ① (not meet) 放…鸽子 fàng… gēzi ‹person›
-② (end relationship with) 甩掉 shuǎidiào ‹person›blow out A. intransitive verb 
+② (end relationship with) 甩掉 shuǎidiào ‹person›blow out 
+A.  intransitive verb 
 ① (be extinguished) «flame» 被吹灭 bèi chuīmiè 
 ② (erupt) «oil well» 喷发 pēnfā 
 ③ Auto «tyre» 爆裂 bàoliè 
@@ -65,10 +71,12 @@ B.  transitive verb[blow something out, blow out something]
 ③ (inflate) 鼓起 gǔqǐ ‹cheeks›
 ④ (in explosion) «blast» 向外炸开 xiàng wài zhàkāi ‹door, window›
 ⑤ AmE colloquial (injure) 使…受重伤 shǐ… shòu zhòngshāng ‹knee›
-⑥ to blow itself out (lose force) «gale» 平息 píngxī blow over A. intransitive verb 
+⑥ to blow itself out (lose force) «gale» 平息 píngxī blow over 
+A.  intransitive verb 
 ① (lose force) «storm, dispute» 平息 píngxī 
 ② (fall) «tree» 被吹倒 bèi chuīdǎo 
-B.  transitive verb[blow something over, blow over something] «wind» 吹倒 chuīdǎo ‹tree›blow up A. intransitive verb 
+B.  transitive verb[blow something over, blow over something] «wind» 吹倒 chuīdǎo ‹tree›blow up 
+A.  intransitive verb 
 ① (explode) «bomb, building, vehicle» 爆炸 bàozhà to blow up in [somebody's] face figurative «plan, affair, issue» 砸锅 
 ② (gather force) 加剧 jiājù a storm was blowing up 狂风大作 
 ③ (start) «trouble» 突然发生 tūrán fāshēng ; «affair» 突然曝光 tūrán bàoguāng 

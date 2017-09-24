@@ -1,6 +1,7 @@
 cash 
 BrE kaʃ, AmE kæʃ 
-A. nounUncountable
+
+A.  nounUncountable
 ① (bills, coins) 现金 xiànjīn to pay in cash; 用现金支付 £50 cash in hand, cash down 以现金支付50英镑 before noun 现金的 xiànjīn de ‹advance›; 需要付现金的 xūyào fù xiànjīn de ‹transaction›
 ② (money in general) 钱 qián to be short of cash 缺钱 
 B.  transitive verb «person, bank» 兑现 duìxiàn ‹bonds, tokens, cheque›PHRASAL VERBS cash in transitive verb [cash in something], [cash something in] 把…兑成现金 bǎ… duìchéng xiànjīn ‹bonds, tokens, cheques›cash in on transitive verb [cash in on something] colloquial 从…中获利 cóng… zhōng huòlì she cashed in on her popularity 她利用自己的名气牟利 cash up intransitive verb «cashier, bank» 结算账款 jiésuàn zhàngkuǎn 

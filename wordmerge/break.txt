@@ -1,6 +1,7 @@
 break 
 BrE breɪk, AmE breɪk 
-A. transitive verb(past tense broke, past participle broken) 
+
+A.  transitive verb(past tense broke, past participle broken) 
 ① (separate into pieces) 打破 dǎpò ‹window, table›; 弄断 nòngduàn ‹stick, chain›to break [something] open, to break open [something]; 把某物砸开 to break [something] in half or two 把某物一分为二 she broke the chocolate into eight pieces 她把巧克力掰成了八块 he broke the brick with a hammer 他用锤子敲碎了砖 the bird breaks the shell with its beak 鸟用喙啄破了贝壳 to break an egg/a nut/the ice 打蛋/砸开坚果/破冰 
 ② Anatomy 折断 zhéduàn ‹bone, arm, wing›to break one's neck 折断脖子 
 ③ (split open) 划破 huápò ‹skin›the dog bit me, but it didn't break the skin 狗咬了我，但没咬破皮 to break surface «submarine, diver» 浮出水面 
@@ -53,11 +54,13 @@ C.  noun
 ⑬ colloquial (opportunity) 机会 jīhuì to give [somebody] a break (help in career) 给某人一次机会 (make allowances) 谅解某人 to give [somebody] an even break 给某人以平等的机会 
 ⑭ (in tennis) 接发球得分 jiēfāqiú défēn service break, break of serve 破发球 
 ⑮ (in billiards, pool, snooker) (series of shots) 接连击中 jiēlián jīzhòng ; (first shot) 开球 kāiqiú to make a 50 point break 连得50分 
-⑯ (in jazz or popular music) 华彩段 huácǎiduàn PHRASAL VERBS break away A. intransitive verb 
+⑯ (in jazz or popular music) 华彩段 huácǎiduàn PHRASAL VERBS break away 
+A.  intransitive verb 
 ① (become detached, move away) 脱离 tuōlí to break away from [somebody]/[something]; 脱离某人/某事物 the young elephant broke away from the herd 小象离群了 
 ② (escape) «person, animal, boat, kite» 挣脱 zhèngtuō to break away from [somebody]/[something]; 摆脱某人/某事物逃走 
 ③ Sport «runner, cyclist» 领先 lǐngxiān to break away from [somebody]/[something]; 甩开某人/某群 
-B.  transitive verb[break something away, break away something] 使脱离 shǐ tuōlí to break the shell away from the egg 剥去蛋壳 part of the cliff had been broken away 悬崖的一部分已经崩落 break down A. intransitive verb 
+B.  transitive verb[break something away, break away something] 使脱离 shǐ tuōlí to break the shell away from the egg 剥去蛋壳 part of the cliff had been broken away 悬崖的一部分已经崩落 break down 
+A.  intransitive verb 
 ① (stop functioning) «machine, system» 发生故障 fāshēng gùzhàng 
 ② (fail) «negotiations» 失败 shībài ; «relations» 破裂 pòliè ; «discipline, agreement» 失效 shīxiào ; «moral values, system, coalition» 崩溃 bēngkuì 
 ③ (collapse mentally or physically) «person, health» 垮掉 kuǎdiào to break down under interrogation/torture; 经不起质问/折磨而垮掉 
@@ -67,7 +70,8 @@ B.  transitive verb[break something away, break away something] 使脱离 shǐ t
 B.  transitive verb[break down something, break something down] 
 ① (knock down) 撞倒 zhuàngdǎo ‹door, barrier›
 ② (overcome) 克服 kèfú ‹shyness, obstacle, attitude›; 瓦解 wǎjiě ‹resistance, opposition›
-③ Chemistry, Biology (cause to separate into parts) 分解 fēnjiě ‹compound, substance, food›to break [something] down into [something]; 把某物分解成某物 break in A. intransitive verb 
+③ Chemistry, Biology (cause to separate into parts) 分解 fēnjiě ‹compound, substance, food›to break [something] down into [something]; 把某物分解成某物 break in 
+A.  intransitive verb 
 ① (enter forcibly) «thief, fire brigade» 破门而入 pòmén ér rù 
 ② (interrupt) «noise, action» 打断 dǎduàn to break in on [somebody]/[something]; 打断某人/某事 don't keep breaking in! 不要总插嘴！ 
 B.  [break something in, break in something] transitive verb 
@@ -81,24 +85,28 @@ C.  [break somebody in, break in somebody] transitive verb 训练 xùnliàn ‹r
 ④ (pay with) 兑开 duìkāi ‹note›
 ⑤ (encroach on) 占用 zhànyòng ‹leisure time›he doesn't want to break into his evening 他不想占用晚上的时间 
 ⑥ (begin to do) 突然发出 tūrán fāchū ‹laughter, cheers›(change pace to) 突然加速 tūrán jiāsù ‹run, trot›she broke into song 她突然唱起歌来 the horse broke into a gallop 那匹马突然飞奔起来 
-⑦ (make headway in) 打入 dǎrù ‹market, show business›break off A. intransitive verb 
+⑦ (make headway in) 打入 dǎrù ‹market, show business›break off 
+A.  intransitive verb 
 ① (snap off) «tip, twig» 折断 zhéduàn 
 ② (stop doing sth.) 突然停止 tūrán tíngzhǐ to break off from [something]/doing [something]; 停止某事/做某事 he broke off as his wife came into the room (stopped speaking) 妻子一进屋他便不讲话了 
 B.  [break off something] transitive verb (be snapped off) «end, handle, mast, twig» 从…处折断 cóng… chù zhéduàn 
 C.  [break something off, break off something] transitive verb 
 ① (snap off) 折断 zhéduàn ‹handle, twig, mast, part›to break [something] off [something]; 把某物从某处折断 he broke off a piece of chocolate and gave it to me 他掰下一块巧克力给了我 break a bit off the end 从末端折下一点 
-② (stop) 中断 zhōngduàn ‹activity, meeting›(terminate) 终止 zhōngzhǐ ‹negotiations›; 断绝 duànjué ‹connection, relations›to break off doing [something]; 暂停做某事 to break off [something] with [somebody]; 与某人断绝某种关系 they've broken off their engagement 他们取消了婚约 break out A. intransitive verb 
+② (stop) 中断 zhōngduàn ‹activity, meeting›(terminate) 终止 zhōngzhǐ ‹negotiations›; 断绝 duànjué ‹connection, relations›to break off doing [something]; 暂停做某事 to break off [something] with [somebody]; 与某人断绝某种关系 they've broken off their engagement 他们取消了婚约 break out 
+A.  intransitive verb 
 ① (start) «war, argument, plague» 爆发 bàofā fire broke out on the third floor 大火是从三楼烧起来的 
 ② (appear) «spots, pimples» 突然冒出 tūrán màochū to break out over/on [something]; 突然布满某处 sweat broke out all over his body 他突然冒出一身汗 
 ③ (escape) 逃脱 táotuō to break out of [something]; 逃出 ‹cage, trap› 摆脱 bǎituō ‹routine, rut, depression›to break out of prison 越狱 yuèyù 
-B.  transitive verb[break something out, break out something] 打开…使用 dǎkāi… shǐyòng shall we break out the champagne? 我们开了这瓶香槟酒吧？ break out in transitive verb [break out in something] 布满 bùmǎn ‹spots, pimples›I broke out in a cold sweat 我冒出一身冷汗 break through A. intransitive verb 
+B.  transitive verb[break something out, break out something] 打开…使用 dǎkāi… shǐyòng shall we break out the champagne? 我们开了这瓶香槟酒吧？ break out in transitive verb [break out in something] 布满 bùmǎn ‹spots, pimples›I broke out in a cold sweat 我冒出一身冷汗 break through 
+A.  intransitive verb 
 ① (force way through) «person, animal, vehicle» 冲过 chōngguo the army broke through 部队突围了 
 ② (succeed) 取得突破 qǔdé tūpò to break through in the fight against cancer 在抗癌方面取得突破 
 ③ (appear) «moon, sun» 露出 lùchū 
 B.  transitive verb[break through something] 
 ① (force way through) 冲破 chōngpò ‹door, obstacle›; 穿透 chuāntòu ‹floor, ground›; 突破 tūpò ‹defence›the deer broke through the undergrowth 那只鹿穿过了矮树丛 
 ② (overcome) 克服 kèfú to break through [somebody's] reserve 消除某人的矜持 
-③ (emerge from) «sun, moon» 从…后露出 cóng… hòu lùchū ‹clouds, fog›break up A. [break something up, break up something] transitive verb 
+③ (emerge from) «sun, moon» 从…后露出 cóng… hòu lùchū ‹clouds, fog›break up 
+A.  [break something up, break up something] transitive verb 
 ① (reduce to pieces) 把…弄碎 bǎ… nòngsuì ‹ice, table, chocolate›; 拆散 chāisàn ‹machine, jigsaw puzzle›frost had broken up the surface of the road 严寒把路面冻裂了 to break [something] up into [something]; 把某物拆分成某物 
 ② (divide) 分 fēn ‹estate, job, paragraph›to break up [something] into [something]; 把某物分成某物 the academic year is broken up into three terms 一学年分为三个学期 
 ③ (make more interesting) 使…更有趣 shǐ… gèng yǒuqù ‹evening, journey, routine›to break up [something] with [something]; 用某事物调剂某事物 making food helps to break up the day 做饭可以使日子不至于太单调 

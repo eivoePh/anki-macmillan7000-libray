@@ -1,6 +1,7 @@
 blast 
 BrE blɑːst, AmE blæst 
-A. noun 
+
+A.  noun 
 ① Uncountable(explosion) 爆炸 bàozhà blast effect 爆炸后果 
 ② Countable(gust) 一阵 yīzhèn blasts of hot air 阵阵热浪 
 ③ Countable(from explosion) 冲击波 chōngjībō 
@@ -17,7 +18,8 @@ B.  transitive verb
 C.  intransitive verb 
 ① (blare) 突然鸣响 tūrán míngxiǎng trumpets blasted, horns sounded 喇叭高奏,号角齐鸣 
 ② colloquial (speed) 疾驰 jíchí 
-D.  exclamation BrE colloquial 该死 gāisǐ PHRASAL VERBS blast away intransitive verb 连续射击 liánxù shèjī blast off intransitive verb «spacecraft» 点火发射 diǎnhuǒ fāshè blast out A. intransitive verb «music, loudspeaker» 大声播放 dàshēng bōfàng 
+D.  exclamation BrE colloquial 该死 gāisǐ PHRASAL VERBS blast away intransitive verb 连续射击 liánxù shèjī blast off intransitive verb «spacecraft» 点火发射 diǎnhuǒ fāshè blast out 
+A.  intransitive verb «music, loudspeaker» 大声播放 dàshēng bōfàng 
 B.  transitive verb [blast something out, blast out something] «loudspeaker» 大声播放 dàshēng bōfàng ‹speech, music›; «musician, instrument» 大声演奏出 dàshēng yǎnzòu chū ‹music›
 blast 
 ▶noun

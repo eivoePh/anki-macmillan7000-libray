@@ -1,6 +1,7 @@
 wrap 
 BrE rap, AmE ræp 
-A. transitive verb(present participle etc. -pp-) 
+
+A.  transitive verb(present participle etc. -pp-) 
 ① (enclose) 包 bāo ‹present, food, parcel›to wrap [somebody] in one's arms 把某人搂在怀里 to be wrapped in [something] 被…包裹 ‹paper› figurative 被笼罩在…中 bèi lǒngzhào zài… zhōng ‹darkness, silence› 专心致志于 zhuān xīn zhì zhì yú ‹thoughts›a baby wrapped (up) in a blanket 裹在毯子里的婴儿 the hills were wrapped in mist 山峦笼罩在薄雾之中 an affair still wrapped in mystery 一个仍然扑朔迷离的事件 
 ② (swathe) (for decoration, protection) 用…包 yòng… bāo ‹paper, foil›(to keep warm) 用…裹 yòng… guǒ ‹blanket, shawl›(to keep clean) 用…包扎 yòng… bāozā ‹bandage›to wrap paper/foil round or around [something]; 用纸/箔片包住某物 to wrap a blanket around [somebody] 用毯子裹住某人身体 to wrap a handkerchief round one's finger 用手帕包住手指 to wrap one's arms round [somebody] 搂住某人 to wrap an arm around [somebody's] waist 用一只胳膊搂着某人的腰 he wrapped his legs round mine 他的腿缠着我的腿 to wrap the car round a lamppost colloquial 开车撞上路灯柱 
 ③ Computing 使…自动换行 shǐ… zìdòng huàn háng ‹word, text›
@@ -13,7 +14,8 @@ D.  noun
 ② CountableCulinary 墨西哥卷 Mòxīgē juǎn [薄饼裹凉馅制成]
 ③ Countablesingular (end of session) Cinema 停机 tíngjī Audio equipment 录音完成 lùyīn wánchéng it's a wrap Cinema 就拍到这里 
 ④ Uncountable and countable(packaging) 包装材料 bāozhuāng cáiliào 
-E.  wraps noun plural to be under wraps 处于保密状态 chǔyú bǎomì zhuàngtài to keep [something] under wraps 对某事保密 duì mǒu shì bǎomì to take the wraps off [something] 揭开某事的内幕 jiēkāi mǒu shì de nèimù PHRASAL VERB wrap up A. transitive verb[wrap something/somebody up], [wrap up something/somebody] 
+E.  wraps noun plural to be under wraps 处于保密状态 chǔyú bǎomì zhuàngtài to keep [something] under wraps 对某事保密 duì mǒu shì bǎomì to take the wraps off [something] 揭开某事的内幕 jiēkāi mǒu shì de nèimù PHRASAL VERB wrap up 
+A.  transitive verb[wrap something/somebody up], [wrap up something/somebody] 
 ① (enclose, swathe) 把…包起来 bǎ… bāo qilai ‹object, parcel, person›wrap the children up warm(ly) 给孩子们穿得暖和点 
 ② colloquial (conclude) 结束 jiéshù ‹project, event, talks›; 完成 wánchéng ‹deal›; 赢得 yíngdé ‹title, victory›let's get the whole thing wrapped up 我们来把这一切都了结了吧 the team wrapped up the series 4:0 该队以4:0的比分获得该项系列赛的胜利 to wrap up the evening's news especially AmE 总结夜间新闻 
 ③ figurative colloquial (involve) to be wrapped up in [somebody]/[something]; 注意力集中在某人身上/某事物上 zhùyìlì jízhōng zài mǒu rén shēn shang/mǒu shìwù shang to be totally wrapped up in one's work 完全沉浸在工作中 wánquán chénjìn zài gōngzuò zhōng there is a lot of money wrapped up in the project 有许多钱投入到了这个项目中 to be wrapped up in oneself 自闭 zìbì 

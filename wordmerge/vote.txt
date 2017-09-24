@@ -1,12 +1,15 @@
 vote 
 BrE vəʊt, AmE voʊt 
-A. noun 
-① Countable(choice) 票 piào to cast one's or a vote 投票 tóupiào to count the votes 计票 the motion was carried by 187 votes to 93 这项动议以187票对93票获得通过 there were 21 votes for and 17 against the motion, with
+
+A.  noun 
+① Countable(choice) 票 piào to cast one's or a vote 投票 tóupiào to count the votes 计票 the motion was carried by 187 votes to 93 这项动议以187票对93票获得通过 there were 21 votes for and
+17 against the motion, with
 2 abstentions 这项动议有21票赞成，17票反对，2票弃权 one man, one vote 一人一票 to get [somebody's] vote (in election) 获得某人的投票 figurative (be given support) 获得某人的支持 huòdé mǒu rén de zhīchí 
 ② Countable(ballot) 投票 tóupiào to have or take a vote (on [something]) （对某事物）进行表决 the issue was put to the vote 这一问题被付诸表决 the Government lost the vote 政府在投票中失利 
 ③ Uncountable(total polled) the vote 选票总数 xuǎnpiào zǒngshù she obtained 40% of the vote 她获得了40%的选票 
 ④ Countable(total amount of support) (from particular group) 投票总数 tóupiào zǒngshù (for particular party) 得票总数 dépiào zǒngshù the female/student vote 女性/学生的投票总数 the Labour/Conservative vote 工党/保守党的得票总数 
-⑤ Uncountable(franchise) the vote 投票权 tóupiàoquán in Britain, people get the vote at 18 在英国，国民18岁开始有选举权 
+⑤ Uncountable(franchise) the vote 投票权 tóupiàoquán in Britain, people get the vote at
+18 在英国，国民18岁开始有选举权 
 ⑥ Countable(result of voting) 投票结果 tóupiào jiéguǒ the vote was unanimous 全体表决一致 the motion was passed by a majority vote 这项动议以多数票获得通过 
 B.  transitive verb 
 ① (give choice to) 投票支持 tóupiào zhīchí to vote Labour 投工党的票 to vote ‘yes’ 投赞成票 to vote to strike 表决举行罢工 to vote [somebody] into office/power 选举某人任职/当权 she was voted on to the board of governors 她获选进入理事会 he was voted the most promising new director 他当选为最有前途的新导演 
@@ -14,7 +17,8 @@ B.  transitive verb
 ③ (authorize) 投票同意 tóupiào tóngyì to vote oneself a pay rise 投票同意给自己涨工资 
 ④ colloquial (propose) 建议 jiànyì I vote we all go 我建议我们大家都去 
 ⑤ colloquial (agree) 同意 tóngyì we all vote that you should organize the trip 我们一致同意应该由你来组织这次旅行 
-C.  intransitive verb 投票 tóupiào he’s only 17 and not eligible to vote 他才17岁，还没有选举资格 how are you voting? 你打算投谁的票？ to vote by a show of hands 举手表决 to vote for/against [somebody]/[something]; 投票支持/反对某人/某事物 60% of members voted in favour of the motion 60%的成员对这项动议投了赞成票 let's vote on it 我们投票表决吧 to vote with one's feet 用脚投票 ［用去或不去某处表明态度］shoppers voted with their feet and avoided the store 购物者对那家商店避而远之 PHRASAL VERBS vote down transitive verb[vote somebody/something down], [vote down somebody/something] 投票击败 tóupiào jībài ‹person›; 投票否决 tóupiào fǒujué ‹proposal, motion›vote in transitive verb[vote somebody in], [vote in somebody] 投票选…任职 tóupiào xuǎn… rènzhí he was voted in as treasurer 他当选为司库 vote off transitive verb[vote somebody off something] 投票让…离开 tóupiào ràng… líkāi ‹committee, council›he was voted off the show 经过投票他被淘汰出了节目 vote out transitive verb[vote somebody/something out], [vote out somebody/something] 投票免去…的职务 tóupiào miǎnqù… de zhíwù ‹person›; 投票否决 tóupiào fǒujué ‹motion, proposal›the ruling party was voted out of office 经过投票执政党下台了 vote through transitive verb[vote something through], [vote through something] 投票通过 tóupiào tōngguò ‹bill, budget›
+C.  intransitive verb 投票 tóupiào he’s only
+17 and not eligible to vote 他才17岁，还没有选举资格 how are you voting? 你打算投谁的票？ to vote by a show of hands 举手表决 to vote for/against [somebody]/[something]; 投票支持/反对某人/某事物 60% of members voted in favour of the motion 60%的成员对这项动议投了赞成票 let's vote on it 我们投票表决吧 to vote with one's feet 用脚投票 ［用去或不去某处表明态度］shoppers voted with their feet and avoided the store 购物者对那家商店避而远之 PHRASAL VERBS vote down transitive verb[vote somebody/something down], [vote down somebody/something] 投票击败 tóupiào jībài ‹person›; 投票否决 tóupiào fǒujué ‹proposal, motion›vote in transitive verb[vote somebody in], [vote in somebody] 投票选…任职 tóupiào xuǎn… rènzhí he was voted in as treasurer 他当选为司库 vote off transitive verb[vote somebody off something] 投票让…离开 tóupiào ràng… líkāi ‹committee, council›he was voted off the show 经过投票他被淘汰出了节目 vote out transitive verb[vote somebody/something out], [vote out somebody/something] 投票免去…的职务 tóupiào miǎnqù… de zhíwù ‹person›; 投票否决 tóupiào fǒujué ‹motion, proposal›the ruling party was voted out of office 经过投票执政党下台了 vote through transitive verb[vote something through], [vote through something] 投票通过 tóupiào tōngguò ‹bill, budget›
 vote 
 ▶noun
 1 a rigged vote: ballot, poll, election, referendum, plebiscite; show of hands.

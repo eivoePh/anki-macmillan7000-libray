@@ -1,6 +1,7 @@
 gear 
 BrE ɡɪə, AmE ɡɪr 
-A. noun 
+
+A.  noun 
 ① Uncountable(equipment) 用具 yòngjù (machinery) 设备 shèbèi photography/gardening gear 摄影/园艺用具 fishing/cooking gear 渔具/炊具 steering gear 转向装置 winding/landing gear 卷扬/降落装置 
 ② Uncountablecolloquial (personal possessions, stuff) 所有物 suǒyǒuwù I'm going to pack my gear 我要收拾东西了 
 ③ Uncountable and countableAuto, Mechanics (specific setting) 排挡 páidǎng to put a car in or into gear 给车挂上挡 to be in/out of gear 齿轮啮合/脱开 to change gear 换挡 huàndǎng to slip or jump out of gear 跳挡 to engage second gear 挂二挡 bottom/first gear 最低挡/一挡 top or AmE high gear 最高挡 to change or AmE shift into second/third gear 换成二/三挡 keep in low gear (on road sign) 保持低速行驶 you're in the wrong gear 你挂错挡了 to get (oneself) into gear for [something] figurative 为某事做好准备 
@@ -12,7 +13,8 @@ A. noun
 B.  transitive verb 
 ① (adapt) 使…适合于 shǐ… shìhé yú ‹system, timetable, country›to gear [something] to do [something]; 为做某事准备好某物 to gear [something]/[somebody] for [something]; 使某物/某人为某事物做好准备 a nation geared for war 准备参战的国家 production was not geared to sudden fluctuations in demand 生产尚未做好应对需求突然波动的准备 we are not geared towards joining the single European currency 我们尚未做好加入单一欧洲货币体系的准备 to be geared to the cost of living 能应付生活支出 
 ② Auto, Mechanics 设置…的排挡 shèzhì… de páidǎng ‹vehicle, machine, wheel›
-C.  intransitive verb «company, country» 做准备 zuò zhǔnbèi to gear for [something] 为某事做好准备 PHRASAL VERB gear up A. intransitive verb «person, company, country» 做准备 zuò zhǔnbèi to gear up for [something]/to do [something]; 为某事/做某事做好准备 wèi mǒu shì/zuò mǒu shì zuòhǎo zhǔnbèi 
+C.  intransitive verb «company, country» 做准备 zuò zhǔnbèi to gear for [something] 为某事做好准备 PHRASAL VERB gear up 
+A.  intransitive verb «person, company, country» 做准备 zuò zhǔnbèi to gear up for [something]/to do [something]; 为某事/做某事做好准备 wèi mǒu shì/zuò mǒu shì zuòhǎo zhǔnbèi 
 B.  transitive verb [gear something up, gear up something] 使…做好准备 shǐ… zuòhǎo zhǔnbèi ‹company, country›to be geared up for [something]/to do [something]; 为某事/做某事做好准备 wèi mǒu shì/zuò mǒu shì zuòhǎo zhǔnbèi 
 C.  reflexive verb to gear oneself up; 做好准备 zuòhǎo zhǔnbèi to gear oneself up for [something]/to do [something]; 为某事/做某事做好准备 wèi mǒu shì/zuò mǒu shì zuòhǎo zhǔnbèi 
 gear 

@@ -1,6 +1,7 @@
 dig 
 BrE dɪɡ, AmE dɪɡ 
-A. transitive verb(past tense, past participle dug) 
+
+A.  transitive verb(past tense, past participle dug) 
 ① (excavate) 掘 jué ‹tunnel, ditch, trench, grave›; (extract) 挖出 wāchū ‹coal, peat, root vegetables›to dig oneself or one's way out (of [something]) （从某物中）挖出一条路来 
 ② (turn over) 翻松 fānsōng ‹soil, flower bed, vegetable patch, allotment›
 ③ (embed) 用…刺 yòng… cì ‹knife, needle›; 用…戳 yòng… chuō ‹claws, fingernails›to dig [something] into [somebody]/[something]; 用某物刺入某人体内/某物 to dig [somebody] in the ribs/back 用手指戳某人的肋部/背部 
@@ -14,7 +15,8 @@ C.  noun
 ① (poke, prod) 戳 chuō to give [somebody] a dig in the ribs 戳某人的肋部一下 
 ② colloquial (jibe) 挖苦 wāku to make a dig at [somebody]; 挖苦某人 a dig about [something]; 对某事物的嘲讽 
 ③ (turning over) 翻地 fāndì to give the ground/vegetable patch etc. a dig 翻松土地/菜园等 
-④ Archaeology 考古发掘 kǎogǔ fājué to go on/take part in a dig 进行/参加考古发掘 PHRASAL VERBS dig in A. intransitive verb 
+④ Archaeology 考古发掘 kǎogǔ fājué to go on/take part in a dig 进行/参加考古发掘 PHRASAL VERBS dig in 
+A.  intransitive verb 
 ① Military 挖掩体 wā yǎntǐ we dug in (and prepared) for the battle 我们挖掩体准备战斗 
 ② colloquial (eat heartily) 尽情地吃 jìnqíng de chī 
 B.  transitive verb[dig in something, dig something in] 
