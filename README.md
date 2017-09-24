@@ -56,7 +56,7 @@
 
 ### 正面模板
 
-```
+```html
 <div style="font-size:50px;color:#000;">{{word}}</div>
 <br />
 <div style="font-size:12px;color:#888">{{symbol}}</div>
@@ -81,7 +81,7 @@
 
 ### 背面模板
 
-```css
+```html
 {{FrontSide}}
 <br />
 <div class="explain" style="text-align:left;font-size:12px; color: #444;">{{explain}}</div>
