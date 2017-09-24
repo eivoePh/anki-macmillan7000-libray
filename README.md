@@ -17,6 +17,11 @@
 ![iphone anki](README/iphone-anki-2.png)
 
 
+## anki-macmillan7000-v0.1.apkg
+
+下载 [anki-macmillan7000-v0.1.apkg](https://github.com/jiahualong/anki-macmillan7000-libray/releases)
+导入anki即可使用
+
 
 ## 单词来源
 单词列表采用[赛门喵麦克米伦7000高频词记忆卡](https://zhuanlan.zhihu.com/p/27063304)中的单词表
