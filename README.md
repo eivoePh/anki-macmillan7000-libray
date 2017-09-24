@@ -9,6 +9,15 @@
  * 配置导入后的记忆库为混乱模式
  * 导出 apkg 给别人或者自己用
 
+## iPhone Anki 示例
+![iphone anki](README/iphone-anki-1.jpg)
+![iphone anki](README/iphone-anki-2.jpg)
+
+## Mac Anki 示例
+![mac anki](README/mac-anki-import-3.png)
+![mac anki](README/mac-anki-import-4.png)
+![mac anki](README/mac-anki-import-5.png)
+
 ## 单词来源
 单词列表采用[赛门喵麦克米伦7000高频词记忆卡](https://zhuanlan.zhihu.com/p/27063304)中的单词表
 删除了IT/it及其他4个重复单词,最终单词数量为`6140`
@@ -99,6 +108,10 @@
     -> 导入，即使已存在有同样第一字段的笔记
     -> 允许在字段中使用HTML
     -> 导入成功。 添加了6140条笔记, 更新了0条笔记, 0 处附注不变.
+![mac anki](README/mac-anki-import-1.png)
+![mac anki](README/mac-anki-import-2.png)
+
+
 
 ### 库简介
 ```html
