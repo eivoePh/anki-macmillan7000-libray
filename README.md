@@ -30,7 +30,8 @@
 ## 发音来源
 使用Mac United Kingdom Daniel语音
 
-## 配置及生成Dainel语音文件 System -> Accessibility -> Speech -> System Voice: Daniel / Speaking Rate: Normal
+## 配置及生成Dainel语音
+    System -> Accessibility -> Speech -> System Voice: Daniel / Speaking Rate: Normal
 
 使用 `say Hello` 会发音
 使用 `say Hello -o Hello.m4a` 会将发音保存为音频文件
@@ -56,16 +57,13 @@
 
 ## 合成anki导入
 
-"第一框"^I"第二框"^I"第三框"
+    "第一框"^I"第二框"^I"第三框" <回车>
+    "第一框"^I"第二框"^I"第三框" <回车>
 
 框中包含的html如果需要" 如`style="color:#000"` 改为`style=""color:#000""`
 
 
-## 导入
-
-
 ## css样式
-
 
 ### 正面模板
 
@@ -108,19 +106,20 @@
     生成 macmillan7000word.card.txt
 
 ## 导入 anki 
-    导入文件 ->选择`macmillan7000word.card.txt` -> 类型&记忆库 anki-macmillan7000-libray 
+    导入文件 ->选择`macmillan7000word.card.txt` 
+    -> 类型&记忆库 anki-macmillan7000-libray 
     -> 区域分割：选项卡
     -> 导入，即使已存在有同样第一字段的笔记
     -> 允许在字段中使用HTML
     -> 导入成功。 添加了6140条笔记, 更新了0条笔记, 0 处附注不变.
     
 ![mac anki](README/mac-anki-import-1.png)
+
 <!--![mac anki](README/mac-anki-import-2.png)-->
 <!--![mac anki](README/mac-anki-import-4.png)-->
 
-
-
 ### 库简介
+
 ![mac anki](README/mac-anki-import-3.png)
 
 ```html
