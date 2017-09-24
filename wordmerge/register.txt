@@ -1,0 +1,41 @@
+register 
+BrE ˈrɛdʒɪstə, AmE ˈrɛdʒəstər 
+A. noun 
+① Countable(of people, items, shareholders, land) 登记簿 dēngjìbù (of names) 名册 míngcè (of trademarks, companies) 注册簿 zhùcèbù a hotel register 旅馆登记簿 a register of births, marriages and deaths 出生、结婚和死亡登记簿 to be on the register of voters «name» 在选民名册上 a missing persons' register 失踪人员名册 to make an entry in a register 在登记簿上增加一条记录 to enter [something] in a register 将某事物记入登记簿 to keep a register 作记录 the company must keep a register of shareholders 公司必须对股东进行登记 
+② Countable BrE School 点名册 diǎnmíngcè to call or take the register 点名 
+③ Countableespecially AmE (cash till) 现金出纳机 xiànjīn chūnàjī to ring [something] up on the register 将…记入收银机 ‹amount›
+④ Uncountable and countableMusic (range) 音区 yīnqū the lower/middle/upper register 低音/中音/高音区 boy trebles singing in a high register 童声男高音 
+⑤ Uncountable and countableLinguistics 语域 yǔyù the informal register 非正式语体 a specialist register 专业语域 
+⑥ CountableComputing 寄存器 jìcúnqì 
+⑦ Countableespecially AmE (adjustable plate) [冷暖气设备的] 节气门 jiéqimén 
+⑧ UncountablePrinting (of printed matter) 正反页对版 zhèng-fǎnyè duìbǎn in register 正反页对版的 
+⑨ UncountablePhotography, Printing (of coloured components) 套准 tàozhǔn in register 套准的 
+B.  transitive verb 
+① (enter or get entered on register) 登记 dēngjì ‹name, birth, marriage, vehicle›; 注册 zhùcè ‹trademark, company›if you have a firearm, you must register it 枪支持有者必须办理登记 to register [somebody]/[something] with [somebody]/[something]; 在某人处/某处为某人/某事物登记 you are advised to register your family with a doctor as soon as possible 建议你尽快找医生登记你家人的资料 to register [somebody]/[something] for [something]; 为某人/某事物登记某事物 they've registered their children for the course 他们已经为孩子们注册修读这门课 students will be registered for new courses at the beginning of term 学生们将在开学时注册修读新课程 the ship was registered in Panama 这艘船是在巴拿马注册的 
+② formal (present) 提出 tíchū ‹protest, objection›to register [something] with [somebody]; 向某人提出某事 he registered a complaint with the appropriate authorities 他向有关部门投诉了 
+③ (show, indicate) 显示…的读数 xiǎnshì… de dúshù ‹temperature, pressure, speed, quantity›the instrument that registers the airspeed 显示飞行速度的仪器 the gale registered
+8 on the Beaufort scale 这场大风的风力为蒲福风级8级 the earthquake registered
+6 on the Richter scale 地震震级为里氏6级 
+④ formal (show) 流露出 liúlù chū ‹emotion›his expression registered utter dismay 他的表情显得非常惊愕 he registered his disapproval by walking out of the meeting 他离开了会场以示反对 
+⑤ (take in) 记住 jìzhù ‹fact›; 注意到 zhùyì dào ‹presence›he barely registered our arrival 他几乎没注意到我们到来 I registered the fact that he was late 我记得他迟到了 she suddenly registered that … 她突然注意到… 
+⑥ (sink in) 被意识到 bèi yìshí dào it just hadn't registered that I would never see him again 我当时只是没有意识到我再也见不到他了 it suddenly registered with her that … 她突然意识到… 
+⑦ (achieve) 取得 qǔdé ‹success, victory, gain›; 遭受 zāoshòu ‹loss›the British team has registered its first win in the competition 英国队在比赛中首次获胜 they registered their third consecutive draw 他们连续第三次打成平局 the retail price index is expected to register a rise/fall of 0.6% this month 预计零售价格指数本月将上升/下降0.6% 
+⑧ (of mail )挂号邮寄 guàhào yóujì ‹letter, parcel›
+⑨ Printing 使套准 shǐ tàozhǔn 
+⑩ Technology 使…对正 shǐ… duìzhèng ‹parts›to register [something] with [something]; 将某物与某物对正 
+C.  intransitive verb 
+① (record name) 登记 dēngjì to register at …; 在…登记 ‹hotel, reception›to register with [somebody]; 在…处挂号 ‹doctor, dentist›you need to register with the police as soon as you arrive 你一到就得到警察局登记 to register for/to do [something]; 登记某事物/做某事 to register for a course 注册修读课程 have you registered to vote yet? 你办好选民登记了吗？ to register as a new student; 作为新生登记注册 
+② (be shown) «temperature, pressure, speed, quantity» 被显示 bèi xiǎnshì 
+③ (be taken in) 被注意 bèi zhùyì I told her my name, but it obviously didn’t register 我把名字告诉了她，但她显然没在意 the enormity of the accident just didn't register 事故的严重性并未引起注意 to register with [somebody]; 引起某人注意 
+④ Technology «parts» 对正 duìzhèng to register with [something]; 与某物对正 
+register 
+▶noun
+1 the register of electors: official list, listing, roll, roster, index, directory, address book, catalog, inventory; blogroll.
+2 the parish register: record, chronicle, log, logbook, ledger, archive; annals, files.
+3 the lower register of the piano: range, reaches; notes, octaves.
+▶verb
+1 I wish to register a complaint: record, put on record, enter, file, lodge, write down, put in writing, submit, report, note, log.
+2 it is not too late to register: enroll, put one's name down, enlist, sign on, sign up, apply.
+3 the dial registered a speed of 100 mph: indicate, read, record, show, display.
+4 her face registered anger: display, show, express, exhibit, betray, evidence, reveal, manifest, demonstrate, bespeak; formal evince.
+5 the content of her statement did not register: make an impression, get through, sink in, penetrate, have an effect, strike home.

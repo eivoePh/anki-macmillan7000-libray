@@ -1,0 +1,7 @@
+parameter 
+BrE pəˈramɪtə, AmE pəˈræmədər 
+noun 
+① Mathematics 参数 cānshù 
+② usually plural (limiting factor) 界限 jièxiàn to set/define the parameters of [something] 制定/设定…的规范 ‹plan, job›within the parameters of [something] 在…的限度内 ‹budget›
+parameter 
+▶noun the parameters of the debate: framework, variable, limit, boundary, limitation, restriction, criterion, guideline.REFLECTIONS Jean Strouseparameter Parameter is a technical term for a variable or an arbitrary constant that appears in a mathematical equation—its value restricts or determines the specific form of the numerical expression. Lazily equating it with perimeter, the otherwise lexically correct deploy it to mean 'boundary' or 'limit,' as in, I'm checking out the parameters of the debate. Stick with perimeters, or, in this example, boundaries or terms. Conversational, opinionated, and idiomatic, these Word Notes are an opportunity to see a working writer's perspective on a particular word or usage.

@@ -1,0 +1,30 @@
+model 
+BrE ˈmɒd(ə)l, AmE ˈmɑdl 
+A. noun 
+① (scale representation) 模型 móxíng a model of [something]; 某物的模型 a model of the airport 机场的模型 a statistical/mathematical/economic model 统计学/数学/经济模型 
+② (type of car, appliance) 型号 xínghào the new/latest model 新型号/最新型号 a 1956 model (car) 1956年款汽车 
+③ (example) 样板 yàngbǎn a model for [something]; 某物的样板 to serve as the model for a character 充当人物的原型 a model of …; …的典型 ‹good quality, calm›on the model of [something] 仿照某物 to take [something]/[somebody] as one's or a model; 把某事物/某人作为榜样 to hold [something]/[somebody] up as a model; 以某事物/某人为榜样 
+④ (person) 模特儿 mótèr a glamour/photographic model 性感/摄影模特儿 a male model 男模特儿 
+B.  adjective 
+① (small-scale) 用作模型的 yòngzuò móxíng de a model aeroplane 飞机模型 
+② (exemplary) 模范的 mófàn de ‹husband, employee›; 示范的 shìfàn de ‹farm, prison›a model answer to an exam question 一道考试题的标准答案 
+C.  transitive verb(present participle etc. -ll- BrE, -l- AmE ) 
+① (base) to model [something] on or after [something]; 仿某物塑造 ‹character› 仿某物建造 fǎng mǒu wù jiànzào ‹building› 仿某物制定 fǎng mǒu wù zhìdìng ‹law›to be modelled on previous work 仿照以前的工作而成 to model oneself on [somebody]; 效仿某人 
+② (shape) 做…的模型 zuò… de móxíng ‹figure›; 用…塑造 yòng… sùzào ‹clay›to model [something] in clay; 用陶土塑造某物 to model [something] into [something]; 把某物做成某物 
+③ (pose in) 当模特展示 dāng mótè zhǎnshì ‹garment›to model clothes for a living 做服装模特谋生 
+④ Mathematics, Computing 设计…的模型 shèjì… de móxíng ‹economy, climate, process›
+D.  intransitive verb(present participle etc. -ll- BrE, -l- AmE ) 
+① (pose) 当模特儿 dāng mótèr to model for [somebody]/[something]; 为某人/某物当模特儿 
+② (make model) to model in clay; 用陶土做模型 yòng táotǔ zuò móxíng 
+model 
+▶noun
+1 a working model: replica, copy, representation, mock-up, dummy, imitation, duplicate, reproduction, facsimile.
+2 the Canadian model of health care: prototype, stereotype, archetype, type, version; mold, template, framework, pattern, design, blueprint.
+3 she was a model of patience: ideal, paragon, perfect example/specimen; perfection, acme, epitome, nonpareil, crème de la crème.
+4 a runway model: fashion model, supermodel, mannequin.
+5 an artist's model: subject, poser, sitter.
+6 the latest model of car: version, type, design, variety, kind, sort.
+▶adjective
+1 model trains: replica, toy, miniature, dummy, imitation, duplicate, reproduction, facsimile.
+2 model farms: prototypical, prototypal, archetypal.
+3 a model teacher: ideal, perfect, exemplary, classic, flawless, faultless.

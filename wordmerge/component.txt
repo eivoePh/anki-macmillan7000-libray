@@ -1,0 +1,11 @@
+component 
+BrE kəmˈpəʊnənt, AmE kəmˈpoʊnənt 
+A. noun 
+① (of machine, vehicle, piece of equipment) 零件 língjiàn car/bicycle components 汽车/自行车零部件 electronic components 电子元件 
+② figurative (factor) 要素 yàosù 
+③ Mechanics, Physics (vector) 分力 fēnlì 
+④ Chemistry 组分 zǔfèn 
+B.  adjective attributive 组成的 zǔchéng de ‹element›
+component 
+▶noun the components of electronic devices: part, piece, bit, element, constituent, ingredient, building block; unit, module, section.
+▶adjective the molecule's component elements: constituent, integral; basic, essential.

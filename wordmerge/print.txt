@@ -1,0 +1,39 @@
+print 
+BrE prɪnt, AmE prɪnt 
+A. noun 
+① Uncountable(typeface, lettering) 字体 zìtǐ the title is in roman/italic print 标题用的是罗马体/斜体 large/small print 大/小号字体 to set [something] up in print 给…排版 ‹text›
+② Uncountable(printed text) 印刷品 yìnshuāpǐn a page of print 印刷页 the print media 印刷媒体 the medium of print 印刷媒体 print quality/format 印刷质量/格式 
+③ Uncountable(availability in published form) 出版 chūbǎn in/out of print 已出版/绝版的 to put or get [something] into print 出版某物 to appear in or get into print «book» 出版 chūbǎn to see [something]/oneself in print 看到某物/自己的作品出版 at the time of going to print 在付印之际 to rush [something] into print 匆忙发表某物 
+④ Countable(of finger) 指印 zhǐyìn (of hand) 掌印 zhǎngyìn (of foot, paw) 足迹 zújì (of hoof) 蹄印 tíyìn (of tyre) 印记 yìnjì the print of a pattern in a mould 模具印出的图案 
+⑤ CountableArt 版画 bǎnhuà 
+⑥ CountablePhotography 照片 zhàopiàn to make a print from a negative 用底片印照片 
+⑦ Countable and uncountable(on fabric) 印花布 yìnhuābù light summer prints 轻薄的印花夏装 a print dress/curtain 印花连衣裙/窗帘 
+⑧ Uncountable(writing) 印刷体书写 yìnshuātǐ shūxiě 
+B.  prints noun plural (fingerprints) 指纹 zhǐwén a set of prints 一组指纹 to take [somebody's] prints 提取某人的指纹 
+C.  transitive verb 
+① Printing 印刷 yìnshuā ‹text, image, banknote, book›to print [something] in lower case/upper case/italics 用小写字体/大写字体/斜体印刷某物 printed matter 印刷品 yìnshuāpǐn printed notepaper 印有信头的信纸 printed in China 中国印制 over 1,000 copies of the book have been printed 该书已印了1,000多册 
+② (publish) 刊登 kāndēng ‹article, allegation, interview›the newspaper is going to print the story 该报纸将要刊登这篇报道 the printed word 已发表的文字 
+③ (write) 用印刷体写 yòng yìnshuātǐ xiě print your name in block capitals/in black ink 请用印刷体正体大写字母/黑色墨水并用印刷体书写姓名 
+④ (make impression of) 印上 yìnshang ‹letters, design›to print [something] on [somebody's] memory figurative 让某人铭记某事物 
+⑤ (make impression on) 印染 yìnrǎn to print fabrics (with …) （把…）印上布料 printed cotton/wallpaper 印花棉布/墙纸 
+⑥ Photography 洗印 xǐyìn ‹photograph›how many copies shall I print? 我要印多少张呢？ 
+D.  intransitive verb 
+① (write) 用印刷体写 yòng yìnshuātǐ xiě to learn to print 学写印刷体 
+② Printing 印刷 yìnshuā 
+③ Computing 打印 dǎyìn 
+④ Photography «plate, negative» 冲印 chōngyìn PHRASAL VERBS print off transitive verb[print something off, print off something] 大量印刷 dàliàng yìnshuā print out A. transitive verb[print something out, print out something] 打印出 dǎyìn chū 
+B.  intransitive verb 被打印出 bèi dǎyìn chū the report won't print out on a single page 这份报告一张纸印不下 
+print 
+▶verb
+1 the newspaper is printed just after midnight: send to press, set in print, run off, reprint.
+2 patterns were printed on the cloth: imprint, impress, stamp, mark.
+3 they printed 30,000 copies: publish, issue, release, circulate.
+4 the incident is printed on her memory: register, record, impress, imprint, engrave, etch, stamp, mark.
+▶noun
+1 small print: type, printing, letters, lettering, characters, type size, typeface, font.
+2 prints of his left hand: impression, fingerprint, footprint.
+3 Rockwell prints are on sale in the lobby: picture, design, engraving, etching, lithograph, linocut, woodcut.
+4 prints and negatives: photograph, photo, snapshot, picture, still.
+5 soft floral prints: printed cloth/fabric, patterned cloth/fabric, chintz.
+PHRASES
+in print the book is still in print: published, printed, available in bookstores. out of print they will help you track down editions that are out of print: no longer published, discontinued, unavailable, unobtainable.

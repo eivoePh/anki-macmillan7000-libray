@@ -1,0 +1,48 @@
+string 
+BrE strɪŋ, AmE strɪŋ 
+A. noun 
+① Uncountable and countable(twine) 细绳 xì shéng a ball/piece/length of string 一团/一根/一段细绳 to tie [something] (up) with string 用细绳捆扎某物 the key is hanging on a string by the door 钥匙挂在门边的绳子上 to untie or undo a string 解开细绳 how long is a piece of string? BrE colloquial 谁能说得准呢？ 
+② Countable(on musical instrument, racket, bow) 弦 xián to tune the strings (on [something]) （给某乐器）调弦 
+③ Countable(on puppet) 牵线 qiānxiàn a puppet on strings 牵线木偶 qiānxiàn mù'ǒu to pull strings (for [somebody]) colloquial （为某人）走后门 to pull the strings 提拉牵线 figurative colloquial 幕后操纵 mùhòu cāozòng 
+④ Countable(fastening on clothing or headgear, cord around neck) 带子 dàizi the strings of a bonnet 女帽的帽带 a medallion on a string 挂在带子上的大奖章 
+⑤ Countable(set of things joined together) 一串 yī chuàn a string of pearls 一串珍珠 the molecules join together to form long strings 分子连接在一起形成长串 
+⑥ Countable(succession) 一连串 yīliánchuàn a string of obscenities/hits 一连串的脏话/接二连三的成功 
+⑦ Countable(group) 一批 yī pī he owns a string of racing stables 他有好多个赛马训练场 a string of racehorses ［在同一训练场里训练的] 一群赛马 
+⑧ Countable(line) 一排 yī pái a string of islands in the Pacific 太平洋中的岛链 
+⑨ CountableComputing (of characters) 字符串 zìfúchuàn (of other data) 信息串 xìnxīchuàn a character/numeric string 字符串/数字串 
+⑩ usually plural Countable(condition) 附加条件 fùjiā tiáojiàn without or (with) no strings (attached) 没有附加条件 
+⑪ CountableLinguistics 语符列 yǔfúliè 
+B.  strings noun plural Music the strings (instruments) 弦乐器 xiányuèqì (players) 弦乐器演奏者 xiányuèqì yǎnzòuzhě the strings section 弦乐器组 
+C.  transitive verb(past tense, past participle strung) 
+① (hang) 悬挂 xuánguà fairy lights were strung on trees 树上挂着彩色小灯 the route was strung with flags 沿途悬挂着旗子 
+② (fit with stretched wire, nylon, etc.) 给…装弦 gěi… zhuāng xián ‹musical instrument, bow›; 给…绷线 gěi… bēng xiàn ‹racket›
+③ (thread) 把…串起来 bǎ… chuàn qilai the jeweller was stringing pearls on a nylon cord 珠宝匠正在往一根尼龙绳上串珍珠 
+D.  intransitive verb (past tense, past participle strung) colloquial 充当报料人 chōngdāng bàoliàorén to string for a newspaper 为报纸充当报料人 PHRASAL VERBS string along colloquial A. intransitive verb BrE 跟随 gēnsuí is it OK if we string along? 我们跟着来可以吗？ to string along with [somebody]; 伴随某人 
+B.  transitive verb [string somebody along, string along somebody] 耍弄 shuǎnòng he had no plans to marry her: he was just stringing her along 他根本没打算娶她：不过是跟她玩玩 string out A. transitive verb 
+① [string something out, string out something] (prolong) 延长 yáncháng they seem determined to string the talks out for an indefinite period 他们似乎一心要把谈判无限期地拖下去 
+② (set at intervals) 间隔排列 jiàngé páiliè warning notices were strung out along the motorway 高速公路上每隔一段距离就有一个警示牌 
+B.  [string somebody/something out, string out somebody/something] transitive verb (spread out) 使间隔排开 shǐ jiàngé páikāi forty soldiers were strung out in a line 40名士兵拉开排成一排 
+C.  intransitive verb 分成一列 fēnchéng yī liè don't bunch up: string out at intervals of 30 metres 不要挤在一起：按30米的间隔排开 string together transitive verb[string something together, string together something] 
+① (combine articulately) 将…联结成句 jiāng… liánjié chéngjù I can just manage to string a few words together in French 我的法语只能把几个单词拼凑成句 
+② (add one after another) 把…连在一起 bǎ… lián zài yīqǐ they strung together seven or eight passes 他们一连传了七八次球 
+③ (form by combining articulately) 联成 liánchéng to string a sentence together 造句 
+④ (form by adding) 串联成 chuànlián chéng the band strung together a great set 乐队连续演奏了一组动听的乐曲 string up transitive verb 
+① [string something up, string up something] (hang up) 悬挂 xuánguà lanterns were strung up in the trees 树上挂着灯笼 
+② [string somebody up, string up somebody] colloquial (kill by hanging) 吊死 diàosǐ 
+string 
+▶noun
+1 a knotted piece of string: twine, cord, yarn, thread, strand.
+2 a string of convenience stores: chain, group, firm, company.
+3 a string of convictions: series, succession, chain, sequence, run, streak.
+4 a string of wagons: line, train, procession, queue, file, column, convoy, cavalcade.
+5 a string of pearls: strand, rope, necklace.
+6 a guaranteed loan with no strings: condition, qualification, provision, proviso, caveat, stipulation, rider, prerequisite, limitation, limit, constraint, restriction; informal catch.
+▶verb
+1 lights were strung across the promenade: hang, suspend, sling, stretch, run; thread, loop, festoon.
+2 beads strung on a silver chain: thread, loop, link.
+PHRASES
+string along
+1 must your sister always string along? go along, come too, accompany someone, join someone.
+2 I think Daisy is just stringing poor Dave along: mislead, deceive, take advantage of, dupe, hoax, fool, make a fool of, play with, toy with, dally with, trifle with; informal lead up the garden path, take for a ride. string out
+1 stringing out a story: spin out, drag out, lengthen.
+2 airfields strung out along the Gulf: spread out, space out, distribute, scatter. string up informal Dawes and his boys went after Lucius, threatening to string him up: hang, lynch, gibbet.

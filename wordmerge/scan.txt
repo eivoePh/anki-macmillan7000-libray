@@ -1,0 +1,23 @@
+scan 
+BrE skan, AmE skæn 
+A. transitive verb(present participle etc. -nn-) 
+① (examine) 仔细观察 zǐxì guānchá ‹horizon, sea, crowd›to scan [something] for [something]; 仔细观察某物以寻找某物 to scan [somebody's] face intently 细细端详某人的脸 
+② (traverse) 横扫 héngsǎo the searchlight beam scanned the sky/every corner 探照灯的光束扫过天空/每个角落 
+③ Literature 标出…的格律 biāochū… de gélǜ ‹poem, verse, line›
+④ Medicine «doctor, machine» 扫描检查 sǎomiáo jiǎnchá ‹patient, knee, brain›
+⑤ Computing (convert to digital form) 扫描 sǎomiáo ‹image, data›to scan a photo on to a computer 把一张照片扫描到计算机里 
+⑥ Computing (check) 扫描…查病毒 sǎomiáo… chá bìngdú ‹e-mail, file›
+⑦ (pass across) «radar, sonar» 扫描 sǎomiáo ‹region, space›
+B.  intransitive verb (present participle etc. -nn-) «poem, line, verse» 符合格律 fúhé gélǜ the poem scans well 这首诗格律工整 
+C.  noun 
+① Medicine (examination) 扫描检查 sǎomiáo jiǎnchá (image) 扫描图 sǎomiáotú to do or perform a scan 进行扫描检查 to have or undergo a scan 接受扫描检查 
+② Computing (check) 扫描查找 sǎomiáo cházhǎo 
+③ Physics 扫描图像 sǎomiáo túxiàng PHRASAL VERB scan in transitive verb[scan something in, scan in something] 扫描输入 sǎomiáo shūrù 
+scan 
+▶verb
+1 Adam scanned the horizon: scrutinize, examine, study, inspect, survey, search, scour, sweep, look at, stare at, look someone/something up and down, gaze at, eye, watch; contemplate, regard, take stock of; informal check out, scope (out).
+2 I scanned the pages of his diary: glance through/over, look through/over, have a look at, run/cast/pass one's eye over, skim (through), flick through, flip through, leaf through, thumb through, rifle through, read quickly, browse (through). ANTONYMS pore over.
+▶noun
+1 a careful scan of the terrain: inspection, scrutiny, examination, survey.
+2 a quick scan through the report: glance, look, flick, browse, skim.
+3 a brain scan: examination, screening, MRI, ultrasound.

@@ -1,0 +1,13 @@
+architecture 
+BrE ˈɑːkɪtɛktʃə, AmE ˈɑrkəˌtɛk(t)ʃər 
+noun 
+① Uncountable(designing of buildings) 建筑学 jiànzhùxué 
+② Uncountable(style of a building) 建筑风格 jiànzhù fēnggé 
+③ Countable(structure) 结构 jiégòu 
+④ CountableComputing 体系结构 tǐxì jiégòu 
+architecture 
+▶noun
+1 modern architecture: building design, building style, planning, building, construction; formal architectonics.
+2 the architecture of a computer system: structure, construction, organization, layout, design, build, anatomy, makeup; informal setup.
+WORD LINKS
+architecturearchitectonics the scientific study of architectureWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.

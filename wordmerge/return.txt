@@ -1,0 +1,58 @@
+return 
+BrE rɪˈtəːn, AmE rəˈtərn 
+A. noun 
+① Countable(coming or going back) (to place) 返回 fǎnhuí (to home) 回家 huí jiā (to home country) 回国 huí guó on [somebody's] return; 某人返回时 on my return home 我回到家时 [somebody's]/[something]'s return to [something]; 某人/某物的回到某处 I saw the play on its return to Broadway 这部戏再度在百老汇上演时我看了 [somebody's] return from [something]; 某人从某处的返回 her return from sick leave 她病假后回到工作岗位 they celebrated his safe return from the war 他们庆祝他从战场平安归来 I'm delaying my return to Rome by three more days 我打算推迟3天再回罗马 a return visit to [something] 重游某地 a return match 回访赛 
+② Uncountable and countable(giving or sending back) (of borrowed, stolen object) 归还 guīhuán (of unwanted object) 退回 tuìhuí (of person, hostage, child) 送回 sònghuí I am hoping for its return 我希望它能被还回来 on return of the vehicle/documents 归还车辆/送回文件时 the return of [somebody]/[something] to [somebody]/[something]; 将某人/某物交还某人/某处 by return (of post) BrE 由下一班邮递 please reply by return of post 请尽快回复 
+③ Countable(recurrence) 重现 chóngxiàn a return of [something]; …的重现 ‹feeling, symptoms, doubts› …的恢复 … de huīfù ‹law, practice›the return of spring 春回大地 we're hoping for a return of the fine weather 我们盼望天气好转 many happy returns (of the day) formal (as birthday wish) 祝你长命百岁 
+④ Countable(resumption) 恢复 huīfù a return to [something]; 某事的恢复 on your return to work 在你重返工作岗位之际 they appealed for a return to work 他们要求复工 her return to politics/power 她的重返政界/重新掌权 a return to normal/the status quo 恢复正常/现状 a return to one's old habits 恢复旧有习惯 
+⑤ Uncountable and countable(reward) 回报 huíbào a (small) return for [something] 对某事的（小小）回报 this is a poor return for all your kindness 这辜负了你的一片好意 a return for doing [something]; 对做某事的回报 in return (in exchange) 作为回报 (in response) 作为回应 in return I'd like to … 作为回报，我想… in return for [something]/doing [something] (in exchange for) 作为对某事/做某事的回报 to do [something] in return for [something]/doing [something]; 做某事以回报某事/做某事 
+⑥ Uncountable and countableFinance (from land, investment) 收益 shōuyì (from business, shares) 利润 lìrùn a return from [something]/doing [something]; 某事/做某事的收益 a return on an investment; 一项投资的收益 a high rate of return on capital 资本的高收益率 the law of diminishing returns 报酬递减律 
+⑦ Countable BrE (ticket for travel) 往返票 wǎngfǎnpiào a day/mid-week return 当天/周中往返票 a return to Cardiff 去加的夫的往返票 
+⑧ Countable(ticket for performance, event) 退票 tuì piào do you get any money back on returns? 票退钱了吗？ ‘returns only’ “只有退票” 
+⑨ CountableBusn (purchase) 退货 tuì huò 
+⑩ Countable(book) 退书 tuì shū 
+⑪ UncountableComputing (key) 回车键 huíchējiàn to press return 按回车键 
+⑫ CountableSport (of ball, shuttlecock) 回击 huíjī to hit a winning back-hand return 打出一记制胜的反手球 
+⑬ Countable(tax form) 报税表 bàoshuìbiǎo 
+⑭ CountableAdministration (official statement) 报告 bàogào census returns 人口普查报告 
+⑮ CountablePolitics (vote) 选票 xuǎnpiào returns from [something]; 来自某处的投票结果 election returns 选票统计结果 
+⑯ UncountablePolitics (election) 选举 xuǎnjǔ 
+B.  transitive verb 
+① (give back) 送还 sònghuán when does the video have to be returned by? 这盘录像带应该什么时候还？ to return [something] to [somebody]/[something]; 将某物归还某人/某处 
+② (take back) 退回 tuìhuí ‹purchase›; 归还 guīhuán ‹library book›returned goods 退货 tuì huò to return [something] to [somebody]/[something]; 将某物退还某人/某处 
+③ (put back) 将…放回原处 jiāng… fànghuí yuánchù to return [somebody]/[something] to [something]; 将…送回某处 ‹baby, book›to return [something] to its place 将某物放回原处 
+④ (send back) 送回 sònghuí ‹person, refugee›; 将…退回 jiāng… tuìhuí ‹letter, parcel›to return [somebody]/[something] to [somebody]/[something]; 将某人送回/某物退回给某人/到某处 ‘return to sender’ (on envelope etc.) “退回发件人” 
+⑤ (in response) 回敬 huíjìng ‹salute›; 回应 huíyìng ‹wave, greeting›she returned his kiss 她回吻了他 it’s time we returned their invitation 我们该回请他们了 to return the compliment (by doing [something]) （通过做某事）回敬 to return the favour 报答好意 I'll be glad to return the favour 我会很乐意报答你的帮助 to return [somebody's] call 给某人回电话 to return ([somebody's]) fire «troops, police» 还击（某人） 
+⑥ (reciprocate) 以…回报 yǐ… huíbào ‹feelings›he loved her, but his love was not returned 他爱她，但他只是一厢情愿 
+⑦ Sport 回击 huíjī ‹ball, shuttlecock›I was finding it impossible to return his serve 我发现没法打回他发的球 
+⑧ (reply) 应答 yìngdá ‘is that all?’she returned somewhat incredulously “就这些吗？”她有些怀疑地回应说 
+⑨ Law 宣告 xuāngào ‹verdict, decision›
+⑩ Finance (yield) 产生 chǎnshēng ‹profit›to return approximately 7% after tax 有约7%的税后收益 to return a loss of £157 million 损失1.57亿英镑 
+⑪ BrE Politics (elect) 选出 xuǎnchū ‹person, candidate›she was returned with an increased majority 她以更大的优势当选 to return [somebody] to [something]; 选举某人进入 ‹parliament, House of Commons›to return [somebody] as MP for …; 选举某人为…议员 
+⑫ (for tax payment) 申报 shēnbào to return details of one's income 详细申报收入 
+C.  intransitive verb 
+① (to place) 返回 fǎnhuí (to home) 回家 huí jiā (to home country) 回国 huí guó the plane returned empty 飞机空载返回 to return from [somebody]/[something]; 从某人处/某处返回 to return from work/the trip 下班/旅行回来 to return to do [something]; 回来做某事 we returned by the same route 我们原路返回 to return to [somebody]/[something]; 回到某人处/某处 
+② (recur) 重现 chóngxiàn my doubts about the relationship have returned 我对这层关系又起了疑心 those days, alas, will never return 唉，那些日子一去不复返了 PHRASAL VERB return to transitive verb[return to something] 
+① (resume activity) 继续 jìxù to return to work/school 返岗/返校 to return to one's work/book 继续干活/看书 she's returned to her old habits 她又恢复了老习惯 
+② (start discussing again) 重提 chóngtí ‹topic›to return to the point I made earlier, … 再谈谈我刚才提到的那一点，… 
+③ (revert to former state) 恢复 huīfù to return to normal/power 恢复正常/重新掌权 
+return 
+▶verb
+1 he returned to Halifax: go back, come back, come home. ANTONYMS depart.
+2 the symptoms returned: recur, reoccur, occur again, repeat (itself); reappear, appear again. ANTONYMS disappear.
+3 he returned the money: give back, hand back; pay back, repay. ANTONYMS keep.
+4 Peter returned the book to the shelf: restore, put back, replace, reinstall.
+5 he returned the volley: hit back, throw back. ANTONYMS miss.
+6 she returned his kiss: reciprocate, requite, give in return, respond to, repay, give back. ANTONYMS ignore.
+7 “Later,” returned Isabel: answer, reply, respond, counter, rejoin, retort, come back.
+8 the jury returned a unanimous verdict: deliver, bring in, hand down.
+9 the club returned a profit: yield, earn, realize, net, gross, clear.
+10 the swing might result in a leftist party being returned in the next election: elect, vote in, choose, select.
+▶noun
+1 his return to Oregon: homecoming. ANTONYMS departure.
+2 the return of hard times: recurrence, reoccurrence, repeat, repetition, reappearance, revival, resurrection, reemergence, resurgence, renaissance. ANTONYMS disappearance.
+3 I requested the return of my books: giving back, handing back, replacement, restoration, reinstatement, restitution.
+4 a quick return on investments: yield, profit, gain, revenue, interest, dividend.
+5 a census return: statement, report, submission, record, dossier; document, form.
+PHRASES
+in return for I'm authorized to show you some leniency in return for information about Sawyer: in exchange for, as a reward for, as compensation for.

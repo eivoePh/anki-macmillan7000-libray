@@ -1,0 +1,16 @@
+code 
+BrE kəʊd, AmE koʊd 
+A. noun 
+① Uncountable and countable(cipher) 密码 mìmǎ to be in code 用密码编写 to break or crack the code 破译密码 to speak in code figurative 说晦涩难懂的行话 
+② Countable(set of rules or laws) 法规 fǎguī 
+③ Countable(of behaviour) 规范 guīfàn to break the code 违反规则 an unwritten code 不成文的准则 a code of practice 行业规则 a code of ethics 道德规范 
+④ CountableTelecommunications 区号 qūhào area/country code 区号/国家代码 
+⑤ UncountableComputing 编码 biānmǎ assembly/machine code 汇编码/机器码 
+B.  transitive verb 将…编码 jiāng… biānmǎ ‹message›
+code 
+▶noun
+1 a secret code: cipher, key; hieroglyphics; cryptogram.
+2 a strict social code: morality, convention, etiquette, protocol, value system.
+3 the penal code: law(s), rules, regulations; constitution, system.
+WORD LINKS
+code cryptography the art of writing or solving codes cryptology the study of codesWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.

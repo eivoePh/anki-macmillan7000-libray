@@ -1,0 +1,11 @@
+graphics 
+BrE ˈɡrafɪks, AmE ˈɡræfɪks 
+noun plural 
+① plus singular verb Art (subject, speciality) 平面造型艺术 píngmiàn zàoxíng yìshù 
+② plus plural verb Art (images, design) 图样 túyàng 
+③ Computing plus plural verb (images) （计算机）图形 ; plus singular verb (technique, method) （计算机）图形处理 (jìsuànjī)túxíng chǔlǐ 
+graphic 
+▶adjective
+1 a graphic representation of language: visual, symbolic, pictorial, illustrative, diagrammatic; drawn, written.
+2 a graphic account of the war: vivid, explicit, expressive, detailed; uninhibited, powerful, colorful, rich, lurid, shocking, impactful; realistic, descriptive, illustrative, picturesque; telling, effective. ANTONYMS vague.
+▶noun Computing this printer's good enough for graphics: picture, illustration, image; diagram, graph, chart; (graphics) art, visual art.WORD TOOLKITgraphicpicturesquevividimagevillagememorydetailtowncolorviolencesettingdescriptiondepictionviewaccountrepresentationlandscapeimaginationscenespotdreamportrayallocationreminderfootageharborexampleWord Toolkits illustrate the difference between close synonyms by means of words typically used with them.

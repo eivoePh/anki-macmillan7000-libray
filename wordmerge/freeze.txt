@@ -1,0 +1,33 @@
+freeze 
+BrE friːz, AmE friz 
+A. intransitive verb(past tense froze, past participle frozen) 
+① (become solid) «liquid» 冻结 dòngjié ; figurative «blood» 凝固 nínggù water freezes at 0°C 水在零摄氏度结冰 to freeze solid or stiff 冻得硬邦邦 
+② (preserve in freezer) «food, vegetables» 可冷藏 kě lěngcáng 
+③ (be covered with ice) «river» 被冰覆盖 bèi bīng fùgài ; (be blocked with ice) «drain» 被冰堵塞 bèi bīng dǔsè the mains water pipe has frozen 总水管已经冻住 when the pond freezes we go skating on it 池塘结冰后，我们在上面滑冰 
+④ (be fixed with ice) «windscreen wiper, lock, mechanism» 冻住 dòngzhù to freeze to [something]; 冻结在某物上 to freeze fast 冻得很牢固 
+⑤ (feel cold) 感到极冷 gǎndào jí lěng to freeze with cold 冻僵 to freeze to death 冻死 my hands are freezing 我的手快要冻僵了 
+⑥ Meteorology 冰冻 bīngdòng to freeze hard 寒冷彻骨 turn the heater on, it's freezing in here! 打开暖气，这儿冷得要命！ 
+⑦ (become motionless) «person, animal» 呆住不动 dāizhù bù dòng freeze! he shouted, pointing the gun at us 不许动！他高喊道，同时用枪指着我们 she froze with horror/surprise at the sight 看到这个景象，她吓呆/惊呆了 the words froze on her lips figurative 她话到嘴边又噎住了 the smile froze on his face figurative 笑容在他的脸上僵住了 
+⑧ Computing «computer screen» 冻结 dòngjié 
+B.  transitive verb(past tense froze, past participle frozen) 
+① (make solid) 使…冻结 shǐ… dòngjié ‹liquid›
+② (cover with ice) «weather, cold» 使…被冰覆盖 shǐ… bèi bīng fùgài ‹river›; (block with ice) 使…被冰堵塞 shǐ… bèi bīng dǔsè ‹drain›the frost froze the pipes 严寒的天气把管道都冻住了 if this cold weather continues it will freeze the buds off the fruit trees 如果这样寒冷的天气持续下去，就会冻掉果树上的花苞 
+③ (fix with ice) «cold, frost» 使…冻住 shǐ… dòngzhù ‹mechanism, key, brakes›the wind seemed to freeze her eyelids together 寒风似乎要把她的眼皮冻在一起 
+④ (preserve in freezer) 冷藏 lěngcáng ‹food, vegetables, fruit›
+⑤ Economics, Finance «bank, employer» 冻结 dòngjié ‹interest rate, price, wages, account›we should like to freeze car imports at their present level 我们希望将汽车进口量固定在现有水平 the new government has frozen all foreign assets 新政府冻结了所有外国资产 
+⑥ Cinema, Theatre «director, camera» 使…定格 shǐ… dìnggé ‹action, scene›freeze it! 定格！ 
+⑦ Medicine, Dentistry (render insensitive) 用冷冻法麻醉 yòng lěngdòngfǎ mázuì ‹part of body, tooth›
+⑧ Computing «system problem» 使…冻结 shǐ… dòngjié ‹computer screen, window›
+C.  noun 
+① Meteorology colloquial 冰冻期 bīngdòngqī a big freeze 严寒期 
+② Economics, Finance (fixing of wages, prices etc.) 冻结 dòngjié a pay/price freeze 工资/价格冻结 to impose a freeze on [something] 冻结某物 PHRASAL VERBS freeze out transitive verb[freeze somebody/something out, freeze out somebody/something] colloquial (force out) 逼走 bīzǒu ‹person›; (exclude) 排斥 páichì ‹person, foreign goods›she had lied to her friends, so they froze her out 她对朋友们说了谎，所以朋友们都疏远了她 they froze out all newcomers 他们排斥所有新来的人 cheap imports are freezing out home-produced goods 便宜的进口货正渐渐排挤掉国产商品 freeze over intransitive verb 冰封 bīngfēng when the pond froze over, we went skating on it 池塘结冰时，我们在上面滑冰 my bedroom window has frozen over 我的卧室窗玻璃上结冰了 when hell freezes over 绝不可能 freeze up A. intransitive verb «pipe, car, mechanism, lock» 冻住 dòngzhù 
+B.  transitive verb[freeze something up, freeze up something] «cold» 使…冻住 shǐ… dòngzhù ‹pipe, car, mechanism, lock›we were frozen up for several days last winter figurative 去年冬天，因为冰冻，我们有好几天不能外出 
+freeze 
+▶verb
+1 the stream had frozen: ice over, ice up, solidify. ANTONYMS thaw, melt.
+2 my fingers froze: become frozen, become frostbitten. ANTONYMS thaw, warm up.
+3 the campers stifled in summer and froze in winter: be very cold, be numb with cold, turn blue with cold, shiver, be chilled to the bone/marrow. ANTONYMS overheat.
+4 she froze in horror: stop dead, stop in one's tracks, stop, stand (stock) still, go rigid, become motionless, become paralyzed. ANTONYMS run away.
+5 the price of gasoline was frozen: fix, hold, peg, set; limit, restrict, cap, confine, regulate; hold/keep down. ANTONYMS change.
+PHRASES
+freeze out informal she was frozen out by her husband's relatives: exclude, leave out, shut out, cut out, ignore, ostracize, spurn, snub, shun, turn one's back on, cold-shoulder, give someone the cold shoulder, leave out in the cold.

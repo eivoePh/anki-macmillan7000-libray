@@ -1,0 +1,45 @@
+read 
+BrE riːd, AmE rid 
+A. transitive verb(past tense, past participle read /red/) 
+① (look through) 读 dú ‹book, newspaper›; 读…的作品 dú… de zuòpǐn ‹author›to read [something] from [something]; 读某物上的某内容 he used to read a passage from the Bible every evening 他过去常常每晚读一段《圣经》 to read [something] to oneself; 默读某物 to read [something] silently 默读某物 to take [something] as read 假定大家都读过并认可 ‹minutes, report› figurative 不经讨论即认定某事 bù jīng tǎolùn jí rèndìng mǒu shì to take it as read (that) … 直接认定… 
+② (understand meaning of) 看懂 kàndǒng ‹text, foreign language, writing›can you read music? 你识谱吗？ 
+③ (give oral rendition of) 朗读 lǎngdú to read [something] aloud or out loud 朗读某物 to read [something] to [somebody], to read [somebody] [something]; 读某物给某人听 go on: read it to us 念吧，念给我们听听 to read [something] for [somebody]; 为某人读某物 
+④ (discover) 读到 dúdào to read [something] about [somebody]/[something]; 读到有关某人/某事物的 ‹news, details›to read [something] in [something] 在…上读到某事 ‹newspaper›to read (that) … 读到… to read how … 查阅到如何… 
+⑤ (in telling future) 占卜观察 zhānbǔ guānchá to read the stars 看星象 to read [somebody's] tea leaves 用某人喝剩的茶叶为其算命 
+⑥ (understand movements of) to read sb's lips 读某人的唇语 dú mǒu rén de chúnyǔ read my lips! colloquial 听好了！ tīng hǎo le ！ read my lips: no new taxes 听我说，不会征新税 
+⑦ (guess at) 猜测 cāicè ‹intention›to read [somebody's] thoughts or mind 猜测某人的心思 to read [somebody's] mood 揣摩某人的脾气 
+⑧ (interpret) 解读 jiědú how do you read the situation? 你对目前的形势怎么看？ to read the signs 识别征兆 this passage can be read in various ways 这段话可以有几种理解 to read [something] as [something]; 将某事物理解为某事物 don't read his comments as proof of his sincerity 别以为他的评论证明了他的诚意 the book can be read as a satire 这本书可以说是一部讽刺作品 
+⑨ (have as wording) «notice» 写着 xiězhe the sign reads ‘no admittance’ 告示牌上写着“禁止入内” 
+⑩ (inspect and record) 读取…的读数 dúqǔ… de dúshù I can't read what the pressure gauge says 我不会看压力计上的读数 I've come to read the gas meter 我是来抄煤气表的 
+⑪ (show) «meter, dial, gauge, instrument» 显示 xiǎnshì the thermometer reads 20 degrees 温度计上显示20度 
+⑫ Computing 读 dú ‹disk, file›we can read the data we need from the disk 我们可以从那张盘上读取所需数据 
+⑬ Radio, Telecommunications 收听到 shōutīng dào ‹person, pilot›to read [somebody] loud and clear 听到某人的声音了，响亮又清楚 
+⑭ BrE University dated 学习 xuéxí ‹subject›he's decided to read law for his degree 他已决定攻读法学学位 
+⑮ (substitute in a text) 替换为 tìhuàn wéi ‹word›for ‘cat’in line 12 read ‘cart’ 第12行中的cat应为cart 
+B.  intransitive verb(past tense, past participle read /red/) 
+① (understand words) 识字 shízì the baby can read pretty well 这个孩子能识好多字了 to read and write 看书写字 
+② (go through written text) 阅读 yuèdú to read silently, to read to oneself 默读 to read between the lines 领悟言外之意 
+③ (say text out loud) 朗读 lǎngdú to read aloud 朗读 lǎngdú to read to [somebody]; 读给某人听 to read from [something]; 朗读某物上的内容 to read to [somebody] from [something]; 给某人读某物上的内容 to read for [somebody]; 为某人朗读 
+④ (find out) to read about [somebody]/[something]; 读到某人/某事物 dúdào mǒu rén/mǒu shìwù 
+⑤ (contain wording) «paragraph, sentence, clause» 行文 xíngwén the text at this point reads thus/as follows … 文章此处行文是这样的/如下… 
+⑥ (come across) «story, essay, paragraph» 读起来 dú qilai how do you think the essay reads? 你觉得这篇散文读上去怎么样？ to read well/badly/smoothly 读起来很好/很糟/很通顺 to read like [something] 读起来像某事物 the poem reads like a translation 这首诗读起来像是翻译过来的 
+⑦ BrE University dated to read for [something]; 攻读某学科 gōngdú mǒu xuékē he's reading for a degree in physics/an English degree at Oxford 他正在牛津攻读物理学/英语学位 
+C.  nouncolloquial 
+① especially BrE (act of reading) 阅读 yuèdú I've got a new bestseller: do you want a read? 我有本新的畅销书：你要看吗？ a long/quiet/little read 长时间/安静/少量的阅读 I enjoy a good read when I'm on my own 我独自一人时喜欢惬意地读读书 to have a read of [something] 读一读 ‹novel, book›
+② (piece of writing) 读物 dúwù to be an easy/exciting read 读来轻松/激动人心 I always think he's a good read 我总觉得他的书很好看 PHRASAL VERBS read back transitive verb[read something back, read back something] 读出 dúchū to read [something] back to [somebody]; 给某人读出某物 can you read that last bit back to me? 把最后那点再给我念一遍好吗？ read in transitive verb[read something in, read in something] 读入 dúrù ‹disk, data, file›read into transitive verb[read something into something] 
+① (attribute significance to) to read too much into [something]; 对…作过多的理解 duì… zuò guò duō de lǐjiě ‹statement, message, comment›I wouldn’t read too much into what she says 对她的话，我不会多想的 was I reading too much into his behaviour? 我是不是对他的表现多心了？ 
+② Computing 把…读入… bǎ… dúrù… ‹disk, data, file›to be read into a computer 被读入电脑 read off transitive verb[read off something, read something off] 
+① (go through) 接连读出 jiēlián dúchū ‹names, scores›she read a few names off from the list 她从名单上读了几个名字 
+② (ascertain) 确定 quèdìng ‹altitude, temperature, speed, time›the reaction time was read off the timer 从计时器读取了反应时间 read on intransitive verb 继续读 jìxù dú how will our hero escape? read on 我们的主角将如何逃脱呢？下面接着读 read out transitive verb[read something out, read out something] 宣读 xuāndú to read [something] out to [somebody]; 给某人朗读某物 she read out the letter to all of us 她把信高声读给我们大家听 read over, read through transitive verb[read over something, read something over] 认真通读 rènzhēn tōngdú read up transitive verb [read somebody/something up, read up somebody/something] 围绕…广泛阅读 wéirào… guǎngfàn yuèdú ‹subject, author›read up on transitive verb[read up on somebody/something] 围绕…广泛阅读 wéirào… guǎngfàn yuèdú ‹subject, author›
+read 
+▶verb
+1 Nadine and Ian were reading the paper by the fireplace: peruse, study, scrutinize, look through; pore over, be absorbed in; run one's eye over, cast an eye over, leaf through, scan, flick through, skim through, thumb through.
+2 he read a passage of the letter: read out/aloud, recite, declaim.
+3 I can't read my own writing: decipher, make out, make sense of, interpret, understand.
+4 her remark could be read as a criticism: interpret, take, take to mean, construe, see, understand.
+5 the dial read 70 mph: indicate, register, record, display, show.
+▶noun have a read of this: perusal, study, scan; look (at), browse (through).
+PHRASES
+read something into something don't read too much into their statistics: infer from, interpolate from, assume from, attribute to; read between the lines. read up on we'll need to read up on Peruvian culture: study, brush up on; informal bone up on. 
+WORD LINKS
+read legible clear enough to read illegible not clear enough to read literacy the ability to read and write illiteracy the inability to read and writeWord Links sections supply words that are related to the headword but do not normally appear in a thesaurus because they are not actual synonyms.

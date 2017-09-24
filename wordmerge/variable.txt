@@ -1,0 +1,12 @@
+variable 
+BrE ˈvɛːrɪəb(ə)l, AmE ˈvɛriəb(ə)l 
+A. adjective 
+① (liable to change) 变化无常的 biànhuà wúcháng de ‹mood, temperature, rainfall›; 方向不定的 fāngxiàng bùdìng de ‹wind›; 时多时少的 shí duō shí shǎo de ‹amount›goods of variable quality 质量时好时坏的货物 
+② (able to be changed) 可调的 kě tiáo de ‹speed, lighting›; 调速的 tiáosù de ‹gear›
+③ Mathematics 变量的 biànliàng de a variable quantity 变量 biànliàng 
+B.  noun 
+① (changeable factor) 可变因素 kě biàn yīnsù 
+② Mathematics 变量 biànliàng a dependent/free/random variable 因变量/自变量/随机变数 
+variable 
+▶adjective the weather on the shoreline is known for being variable: changeable, changing, varying, shifting, fluctuating, irregular, inconstant, inconsistent, fluid, unsteady, unstable, unsettled, fitful, mutable, protean, wavering, vacillating, capricious, fickle, volatile, unpredictable, mercurial, unreliable; informal up and down. ANTONYMS constant.
+▶noun there are other variables to consider: factor, element, ingredient, quantity, unknown quantity, condition.WORD TOOLKITvariableunstablemercurialratesituationnaturelengthworldtalentspeedregiontemperamentsizeenvironmentpersonalityresultsconditionmoodseffectseconomyshiftsfrequencygovernmentenergyWord Toolkits illustrate the difference between close synonyms by means of words typically used with them.

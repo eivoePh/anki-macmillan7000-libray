@@ -1,0 +1,20 @@
+access 
+BrE ˈaksɛs, AmE ˈækˌsɛs 
+A. nounUncountable
+① (means of entry) 入口 rùkǒu access to the centre is from the street 中心的入口在大街上 ‘no access’ “禁止入内” to obtain or get or gain access to [something]; 获得进入某处的机会 an access door 通道门 
+② (ability to obtain, use) 享用机会 xiǎngyòng jīhuì to have access to information/education 有获得信息/接受教育的机会 
+③ Law (right to visit) 探视权 tànshìquán to have/grant/deny right of access 拥有/给予/拒绝给予探视权 
+④ Computing 存取 cúnqǔ 
+B.  transitive verb 
+① (approach, enter) 进入 jìnrù the island can be accessed by road at low tide 退潮时可从陆路登上该岛 
+② Computing 存取 cúnqǔ ‹data›; 访问 fǎngwèn ‹website›
+access 
+▶noun
+1 the building has a side access: entrance, entry, way in, means of entry; approach, means of approach.
+2 they were denied access to the stadium: admission, admittance, entry, entrée, ingress, right of entry.
+3 students have access to a photocopier: (the) use of, permission to use/visit.
+▶verb
+1 the program is used to access data: retrieve, gain access to, obtain; read.
+2 you access the building from the south side: enter, approach, gain entry to, gain access to.
+USAGE
+access The verb access is standard and common in computing and related terminology (employees can access the office network). But its use outside computing contexts, although well established in the language, is sometimes criticized as being ‘jargon’ (we lacked adequate supply to access the markets we needed to reach). Other words or phrases such as ‘enter’ or ‘gain access to’ are suggested as ready substitutes.Usage notes show additional guidance on finer points of English usage.
