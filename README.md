@@ -128,7 +128,7 @@
 <br />
 
 <h8><a href="https://github.com/jiahualong/anki-macmillan7000-libray">GitHub Project Anki-macmillan7000-libray</a></h8>
-<h8><a href="#">Anki Page</a></h8>
+<h8><a href="https://ankiweb.net/shared/info/42529606">Anki Page</a></h8>
 <br />
 
 <h8>资源来源:</h8>
